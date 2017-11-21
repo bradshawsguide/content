@@ -28,6 +28,9 @@ stops:
 - dorchester-west
 - [weymouth, portland]
 ----
+links:
+- (wikipedia: Wilts,_Somerset_and_Weymouth_Railway)
+----
 text: (place: england/wiltshire/melksham)
 
 (route: melksham-to-devizes)

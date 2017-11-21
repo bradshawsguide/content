@@ -23,6 +23,9 @@ stops:
 - instow
 - bideford
 ----
+links:
+- (wikipedia: North_Devon_Railway)
+----
 text: (place: england/devonshire/st-cyres)
 
 (place: england/devonshire/crediton)

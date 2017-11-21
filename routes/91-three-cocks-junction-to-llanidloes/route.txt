@@ -18,6 +18,9 @@ stops:
 - tylwch
 - llanidloes
 ----
+links:
+- (wikipedia: Mid-Wales_Railway)
+----
 text: Leaving the junction at Three Cocks, we soon come to
 
 [Boughrood](/stations/boughrood), 2¾ miles, at which is an old castle, on the Radnor side of the river, which commanded the old ford here. Close at hand is *Llangoed Castle* (J. Macnamara, Esq.), on the Brecon side of the river.

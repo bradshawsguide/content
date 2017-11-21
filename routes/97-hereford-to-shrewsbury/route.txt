@@ -27,6 +27,9 @@ stops:
 - condover
 - shrewsbury
 ----
+links:
+- (wikipedia: Shrewsbury_and_Hereford_Railway)
+----
 text: (place: england/herefordshire/hereford)
 
 (place: england/herefordshire/moreton-on-lugg)

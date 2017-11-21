@@ -16,6 +16,9 @@ stops:
 - carrog
 - corwen
 ----
+links:
+- (wikipedia: Vale_of_Llangollen_Railway)
+----
 text: This line leads into the very heart of the picturesque and beautiful. From [Ruabon](/stations/ruabon) the line runs *via* the stations of [Acrefair](/stations/acrefair) and [Trevor](/stations/trevor) to
 
 (place: wales/denbighshire/llangollen)

@@ -13,6 +13,9 @@ stops:
 - penally
 - tenby
 ----
+links:
+- (wikipedia: Pembroke_and_Tenby_Railway)
+----
 text: This line is in connection with the South Wales Railway at [New Milford](/stations/new-milford), from whence passengers are conveyed across the ferry to [Hobb's Point](/stations/hobbs-point), a place strongly defended by a number of forts. A distance of one mile, by coach, brings us to
 
 (place: wales/pembrokeshire/pembroke-dock)

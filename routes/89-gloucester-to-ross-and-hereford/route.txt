@@ -15,6 +15,9 @@ stops:
 - holme-lacey
 - hereford
 ----
+links:
+- (wikipedia: Hereford%2C_Ross_and_Gloucester_Railway)
+----
 text: (place: england/gloucestershire/longhope)
 
 (place: england/herefordshire/ross)

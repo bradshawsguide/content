@@ -16,6 +16,9 @@ stops:
 - lifton
 - launceston
 ----
+links:
+- (wikipedia: South_Devon_and_Tavistock_Railway)
+----
 text: The **South Devon and Tavistock** line takes a northerly direction from Plymouth, and passes the Stations of [Marsh Mills](/stations/marsh-mills), 4 miles, [Bickleigh](/stations/bickleigh), 3¾ miles, and [Horrabridge](/stations/horrabridge), 4¾ miles, to the town of
 
 (place: england/devonshire/tavistock)

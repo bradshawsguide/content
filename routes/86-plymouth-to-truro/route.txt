@@ -19,6 +19,9 @@ stops:
 - grampound-road
 - [truro, perran, penryn, falmouth]
 ----
+links:
+- (wikipedia: Cornwall_Railway)
+----
 text: Almost before we get clear of Plymouth our arrival is announced at
 
 (place: england/devonshire/devonport)

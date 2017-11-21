@@ -2,7 +2,7 @@ section: 2
 ----
 title: Bowdon to Altrincham
 ----
-line: Manchester, South Junction, and Altrincham Railway
+line: Manchester, South Junction and Altrincham Railway
 ----
 company:
 - london-and-north-western
@@ -16,6 +16,9 @@ stops:
 - old-trafford
 - knott-mill
 - manchester-oxford-road
+----
+links:
+- (wikipedia: Manchester,_South_Junction_and_Altrincham_Railway)
 ----
 text: A walk of a mile from Timperley brings us to Altrincham, and a quarter of a mile further, to Bowdon, and here the traveller would do well to spend a few hours.
 

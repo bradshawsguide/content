@@ -32,6 +32,9 @@ stops:
 - valley
 - holyhead
 ----
+links:
+- (wikipedia: Chester_and_Holyhead_Railway)
+----
 text: To tourists the Chester and Holyhead line offers an admirable means of reaching easily the most interesting spots in North Wales. Conway, with its glorious old castle and bridges, and Carnarvon, are within easy distance, as is also Snowdon's huge peak, with the Clwydian Vale, and many other vallies of great beauty and celebrity, with an infinity of picturesque hills, waterfalls, and rums. The Menai Bridge should not be forgotten by the traveller along this line of railway, nor its still more wondrous neighbours the Conway and Britannia Tubular Bridges. The latter, in particular, is a mighty construction, its proportions being gigantic in the extreme, and impressing the beholder with admiration at its surpassing grandeur and design.
 
 Upon the opening of this railway Holyhead resumed its importance as a packet station for steamers plying to Dublin. The Chester and Holyhead Railway affords increased facilities of communication between London and Dublin, which were previously usurped by Liverpool. The Chester and Holyhead Railway shortened the time occupied in the journey from London to Dublin about five hours, the journey from London to Holyhead occupying eight hours, and the voyage by fast steam packets from thence to Dublin four hours. Thus the line is a very important one, in shortening the distance between the chief city in the British Isles and the important capital of Ireland, and adds another noble power to government in the facilities of communication.

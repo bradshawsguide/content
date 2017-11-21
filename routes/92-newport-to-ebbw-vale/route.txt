@@ -23,6 +23,9 @@ stops:
 - victoria-ebbw-vale
 - ebbw-vale-low-level
 ----
+links:
+- (wikipedia: Monmouthshire_Railway_and_Canal_Company)
+----
 text: The Eastern and Western Lines turn off at this point to the right, passing through districts rich in mineral products, but not of essential importance to the general tourist. The first station on the Western Line is [Bassalleg Junction](/stations/bassaleg-junction); and here the Rhymney and Newport section of the Brecon Line branches off to the left, skirting the boundary of the country, passing the Stations of [Rhiwderin](/stations/rhiwderin), [Church Road](/stations/church-road), [Machen](/stations/machen), [Bedwas](/stations/bedwas), and [Maesycwmmer](/stations/maesycwmmer), to [Pengam](/stations/pengam), and from thence to [Bargoed](/stations/bargoed), [New Tredegar](/stations/new-tredegar), and [Rhymney](/stations/rhymney).
 
 Passing along the Western Valley Line, from Bassaleg and [Tydee](/stations/tydee), we arrive at [Risca](/stations/risca), the point of deviation of the Sirhowy Railway, a line about fifteen miles long, traversing the valley of that name, rich in mineral products. Its course lies *via* [Tredeger Junction](/stations/tredegar-junction). [Blackwood](/stations/blackwood), [Argoed](/stations/argoed), and [Tredegar](/stations/tredegar), the seat of some very extensive iron works, to [Sirhowy](/stations/sirhowy).

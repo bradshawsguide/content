@@ -14,6 +14,9 @@ stops:
 - [barmouth-ferry, penmaen-pool, dolgelley]
 - barmouth
 ----
+links:
+- (wikipedia: Aberystwith_and_Welsh_Coast_Railway)
+----
 text: Passing onward from [Machynlleth](/stations/machynlleth), we come to a bend of the river Dovey, on which is situated [Glan Dovey](/stations/glan-dovey) station, and a little further along the widening estuary of the Dovey to
 
 [Ynys-Las](/stations/ynys-las), at which place there is a ferry across the mouth of the river to [Aberdovey](/stations/aberdovey), a small but pretty bathing place. This portion of the Welsh Coast line takes a northerly direction to

@@ -17,6 +17,9 @@ stops:
 - gloucester
 - cheltenham
 ----
+links:
+- (wikipedia: Golden_Valley_line)
+----
 text: (place: england/wiltshire/purton)
 
 The next station is [Minety](/stations/minety), soon after leaving which, we enter [Gloucestershire](/places/england/gloucestershire).

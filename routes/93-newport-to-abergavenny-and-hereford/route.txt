@@ -2,7 +2,7 @@ section: 2
 ----
 title: Newport to Abergavenny and Hereford
 ----
-line: West Midlands Section
+line: Newport, Abergavenny and Hereford Railway
 ----
 company: great-western
 ----
@@ -19,6 +19,9 @@ stops:
 - st-devereux
 - tram-inn
 - hereford
+----
+links:
+- (wikipedia: Newport,_Abergavenny_and_Hereford_Railway)
 ----
 text: In ten minutes after leaving Newport we reach [Pontnewydd](/stations/upper-pontnewydd), and in ten minutes more, the station of
 

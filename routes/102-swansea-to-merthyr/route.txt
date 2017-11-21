@@ -18,6 +18,9 @@ stops:
 - abernant
 - merthyr
 ----
+links:
+- (wikipedia: Vale_of_Neath_Railway)
+----
 text: The Swansea terminus of this line is situated in Wind Street. Taking our departure hence, we very soon arrive at [Briton Ferry](/stations/briton-ferry), prettily situated at the entrance of the river Neath. About 2½ miles further are the extensive remains of a Cistercian Abbey, now accommodated with a station. It was built by Richard De Granville, in 1129, and is well worth a visit. A mile and a quarter beyond this brings us to the town of
 
 (place: wales/glamorganshire/neath)

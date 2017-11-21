@@ -22,6 +22,9 @@ stops:
 - lampeter-road
 - llandovery
 ----
+links:
+- (wikipedia: Llanelly_Railway)
+----
 text: Again, turning to the right from Llanelly, we pass through [Dock](/stations/dock), [Bynea](/stations/bynea), [Llangennech](/stations/llangennech), [Pontardulais](/stations/pontardulais), and [Pantyffynnon](/stations/pantyffynnon).
 
 [Cross Inn](/stations/cross-inn), [Garnant](/stations/garnant). and [Brynamman](/stations/brynamman) stations, on a short branch to the right.

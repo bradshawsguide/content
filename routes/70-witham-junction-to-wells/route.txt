@@ -13,6 +13,9 @@ stops:
 - shepton-mallet
 - wells-east-somerset
 ----
+links:
+- (wikipedia: East_Somerset_Railway)
+----
 text: This line runs, *via* the stations of [Wanstrow](/stations/wanstrow) and [Cranmore](/stations/cranmore), to
 
 (place: england/somerset/shepton-mallet)

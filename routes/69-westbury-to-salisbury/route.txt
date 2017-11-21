@@ -17,6 +17,9 @@ stops:
 - wilton-north
 - salisbury
 ----
+links:
+- (wikipedia: Salisbury_branch_line_%28Great_Western_Railway%29)
+----
 text: Our first station on this section of the Wilts, Somerset, and Weymouth line, is that at
 
 (place: england/wiltshire/warminster)

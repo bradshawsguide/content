@@ -16,6 +16,9 @@ stops:
 - kingswear
 - dartmouth
 ----
+links:
+- (wikipedia: Dartmouth_and_Torbay_Railway)
+----
 text: Leaving Newton, we pass the stations of [Kingskerswell](/stations/kingskerswell) and [Torre](/stations/torre), and arrive at
 
 (place: england/devonshire/torquay)

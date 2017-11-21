@@ -2,7 +2,7 @@ section: 2
 ----
 title: Bangor to Carnarvon and Nantlle
 ----
-line: Carnarvon Branch
+line: Bangor and Carnarvon Railway
 ----
 company:
 - london-and-north-western
@@ -13,6 +13,9 @@ stops:
 - port-dinorwic
 - griffiths-crossing
 - carnarvon
+----
+links:
+- (wikipedia: Bangor_and_Carnarvon_Railway)
 ----
 text: The stations on this branch are [Treborth](/stations/treborth), [Port Dinorwic](/stations/port-dinorwic) (here are the slate quarries belonging to T. A. Smith, Esq., where 1,000 men are constantly employed), and [Griffith's Crossing](/stations/griffiths-crossing).
 

@@ -21,6 +21,9 @@ stops:
 - gwyddelwern
 - corwen
 ----
+links:
+- (wikipedia: Vale_of_Clwyd_Railway)
+----
 text: The district through which this line runs is remarkable for its picturesque beauty, and forms the threshold to some of the richest scenery in North Wales. Passing quickly the little station of [Foryd](/stations/foryd), the arrival of the train is soon announced at the ancient town of
 
 (place: wales/flintshire/rhuddlan)

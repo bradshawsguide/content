@@ -2,7 +2,7 @@ section: 2
 ----
 title: Hartlebury to Shrewsbury
 ----
-line: Severn Valley Line
+line: Severn Valley Railway
 ----
 company: great-western
 ----
@@ -22,6 +22,9 @@ stops:
 - cressage
 - berrington
 - shrewsbury
+----
+links:
+- (wikipedia: Severn_Valley_Railway)
 ----
 text: Taking a north-westerly direction, this line runs *via* [Stourport](/stations/stourport), a small town trading in glass, corn, timber, &c, to the town of
 

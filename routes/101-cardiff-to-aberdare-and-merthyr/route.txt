@@ -15,6 +15,9 @@ stops:
 - troedyrhiew
 - merthyr
 ----
+links:
+- (wikipedia: Taff_Vale_Railway)
+----
 text:
 (place: wales/glamorganshire/llandaff)
 

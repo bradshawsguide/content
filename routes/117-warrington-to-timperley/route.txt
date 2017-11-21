@@ -17,6 +17,9 @@ stops:
 - broadheath-altrincham
 - timperley
 ----
+links:
+- (wikipedia: Warrington_and_Altrincham_Junction_Railway)
+----
 text: [Latchford](/stations/latchford).--Here the river Mersey twists into a series of curious knots.
 
 [Thelwall](/stations/thelwall) station.

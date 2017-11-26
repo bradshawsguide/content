@@ -44,7 +44,7 @@ stops:
 - albrighton
 - shiffnal
 - oakengates
-- wellington-shropshire
+- wellington
 - admaston
 - walcot
 - upton-magna
@@ -73,7 +73,7 @@ stops:
 - bury-lane
 - astley
 - patricroft
-- eccles
+- eccles-manchester
 - ordsall-lane
 - manchester-exchange
 ----
@@ -248,6 +248,6 @@ Next in succession is [Runcorn Road](/stations/runcorn-road), three miles to the
 
 (place: england/cheshire/warrington)
 
-The arrival of the train at Newton Bridge, the junction of the line with the London and North Western, is soon announced; and passing the stations of [Kenyon](/stations/kenyon-junction), [Bury Lane](/stations/bury-lane), [Astley](/stations/astley), [Patricroft](/stations/patricroft), [Eccles](/stations/eccles), and [Ordsall](/stations/ordsall-lane), we arrive at
+The arrival of the train at Newton Bridge, the junction of the line with the London and North Western, is soon announced; and passing the stations of [Kenyon](/stations/kenyon-junction), [Bury Lane](/stations/bury-lane), [Astley](/stations/astley), [Patricroft](/stations/patricroft), [Eccles](/stations/eccles-manchester), and [Ordsall](/stations/ordsall-lane), we arrive at
 
 (place: england/lancashire/manchester)

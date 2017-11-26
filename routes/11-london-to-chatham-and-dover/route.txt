@@ -21,8 +21,8 @@ stops:
 - shortlands
 - bromley
 - bickley
-- st-marys-cray
-- [sevenoaks-junction, eynesford, shoreham, sevenoaks]
+- st-mary-cray
+- [sevenoaks-junction, eynsford, shoreham, sevenoaks]
 - farningham
 - meopham
 - sole-street
@@ -54,9 +54,9 @@ Leaving [Victoria](/stations/victoria), we almost immediately cross the Thames, 
 
 (place: england/kent/bromley)
 
-[Bickley](/stations/bickley) and [St. Mary's Cray](/stations/st-marys-cray) stations.
+[Bickley](/stations/bickley) and [St. Mary's Cray](/stations/st-mary-cray) stations.
 
-[Sevenoaks Junction](/stations/sevenoaks-junction).--A line here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynesford) and [Shoreham](/stations/shoreham), to
+[Sevenoaks Junction](/stations/sevenoaks-junction).--A line here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynsford) and [Shoreham](/stations/shoreham), to
 
 (place: england/kent/sevenoaks)
 

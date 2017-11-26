@@ -18,7 +18,7 @@ stops:
 - [coalport, hadley]
 - ironbridge
 - [buildwas, much-wenlock]
-- [buildwas, [coalbrookdale, madeley, shiffnal], horsehay, lawley-bank, ketley, wellington-shropshire]
+- [buildwas, [coalbrookdale, madeley, shiffnal], horsehay, lawley-bank, ketley, wellington]
 - cressage
 - berrington
 - shrewsbury
@@ -52,7 +52,7 @@ A short line extends from this place through [Madeley](/stations/madeley) to [Sh
 
 (place: england/shropshire/horsehay)
 
-[Lawley Bank](/stations/lawley-bank) and [Ketley](/stations/ketley) stations, [Wellington](/stations/wellington-shropshire), the joint station of the Great Western and Shropshire Union railways, and terminus of the Wellington and Severn Junction.
+[Lawley Bank](/stations/lawley-bank) and [Ketley](/stations/ketley) stations, [Wellington](/stations/wellington), the joint station of the Great Western and Shropshire Union railways, and terminus of the Wellington and Severn Junction.
 
 Once more returning to Buildwas Junction, we pass on, *via* the stations of [Cressage](/stations/cressage) and [Berrington](/stations/berrington), to the old parliamentary town of
 

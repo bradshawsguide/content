@@ -13,7 +13,7 @@ stops:
 - ashley
 - mobberley
 - knutsford
-- plumbley
+- plumley
 - lostock
 - northwich
 ----
@@ -34,6 +34,6 @@ From Mobberley to [Knutsford](/stations/knutsford), a distance of 2¾ miles, and
 
 (place: england/cheshire/knutsford)
 
-The train then proceeds *via* [Plumbley](/stations/plumbley) and [Lostock](/stations/lostock), the stations at which are neat and substantial, and in about five minutes arriving at
+The train then proceeds *via* [Plumbley](/stations/plumley) and [Lostock](/stations/lostock), the stations at which are neat and substantial, and in about five minutes arriving at
 
 (place: england/cheshire/northwich)

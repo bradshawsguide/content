@@ -17,7 +17,7 @@ stops:
 - bridgewater
 - durston-junction
 - taunton
-- wellington
+- wellington-somerset
 - tiverton-junction
 - collumpton
 - hele

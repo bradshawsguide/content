@@ -35,7 +35,7 @@ stops:
 - [poole-junction, poole]
 - wareham
 - wool
-- moreton
+- moreton-dorset
 - dorchester-south
 - [weymouth, portland]
 ----
@@ -191,7 +191,7 @@ The line proceeds from Wimborne over the wooden viaduct across the river Stour, 
 
 (place: england/dorsetshire/wareham)
 
-[Wool](/stations/wool) (near which are the ruins of Bindon Abbey), and [Moreton](/stations/moreton) stations.
+[Wool](/stations/wool) (near which are the ruins of Bindon Abbey), and [Moreton](/stations/moreton-dorset) stations.
 
 (place: england/dorsetshire/dorchester)
 

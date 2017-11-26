@@ -8,7 +8,7 @@ stops:
 - cardiff
 - llandaff
 - [walnut-tree-junction, llantrissant, ystrad-owen, cowbridge]
-- treforest
+- trefforest
 - [pontypridd, havod, porth, tonypandy, ystrad-rhondda, treherbert]
 - [aberdare-junction, mountain-ash, treaman, aberdare-low-level]
 - quakers-yard
@@ -25,7 +25,7 @@ Leaving Llandaff we very soon arrive at [Walnut Tree], the junction of a line *v
 
 [Cowbridge](/stations/cowbridge), with its ancient and well-endowed Grammar School. Five miles beyond is situated *Fouman Castle*, the seat of Oliver Jones, Esq.: it belonged to the St. John's, of Bletsoe, and Colonel Jones, the regicide, and contains a beautiful portrait of Cromwell.
 
-[Treforest](/stations/treforest) station
+[Treforest](/stations/trefforest) station
 
 [Pontypridd](/stations/pontypridd) junction.--Here the Rhondda Valley line branches off, and runs *via* [Havod](/stations/havod), [Porth](/stations/porth), [Pandy](/stations/tonypandy), and [Ystrad](/stations/ystrad-rhondda), to [Treherbert](/stations/treherbert).
 

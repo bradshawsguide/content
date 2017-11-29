@@ -1,0 +1,22 @@
+section: 2
+----
+title: Kingstown
+----
+company:
+- dublin-and-kingstown
+----
+route:
+- holyhead-to-dublin
+----
+info:
+- term: Hotel
+  desc: Rathbone's.
+- term: Rates of Porterage
+  desc: 1s. to 1s. 6d. for a quantity of luggage; 6d. for a portmanteau and hat-case.
+- term: Market Day
+  desc: Saturday.
+- term: Regatta
+  desc: In August.
+----
+notes:
+- A telegraph station.

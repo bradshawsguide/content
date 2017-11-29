@@ -1,0 +1,20 @@
+section: 2
+----
+title: Navan
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: Moran's.
+- term: Market Day
+  desc: Wednesday.
+- term: Fairs
+  desc: Easter and Trinity Mondays, Second Monday in September, First Monday in December.
+----
+notes:
+- A telegraph station.
+----
+text: This town, which was an important military station in Edward the Fourth's time, has a population of about 6,898, who are engaged in the provision, flax, flour, and paper trades; has some fine cavalry barracks, a church with an old tower, Athlumney Castle, in ruins, and close at hand *Boyne Hill*, the seat of Lieut. Col. J. Gerrard.

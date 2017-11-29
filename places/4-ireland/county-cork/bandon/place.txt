@@ -1,0 +1,20 @@
+section: 2
+----
+title: Bandon
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: French's.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: May 6th and 25th, Holy Thursday, October 29th, November 8th, first Wednesday in every month, except May and November.
+----
+notes:
+- A telegraph station.
+----
+text: This place has a population of about 9,303, employed in the camlet stuff, linens, leather, flour, beer, and whisky trades, who return one member, and contains a grammar school, founded by the great Earl of Cork. It is celebrated for its salmon fisheries. Sir R. Cox and Dr. Brady, the psalmist, were natives.

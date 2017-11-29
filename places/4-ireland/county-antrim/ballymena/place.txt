@@ -1,0 +1,22 @@
+section: 2
+----
+title: Ballymena
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: Ainsworth's.
+- term: Market Day
+  desc: Saturday, for linens.
+- term: Fairs
+  desc: July 26th, August 21st.
+- term: Bankers
+  desc: Provincial Bank of Ireland.
+----
+notes:
+- A telegraph station.
+----
+text:  Here are the ruins of an old castle, founded by the Adairs, which the rebels held in 1798. The town has a population of 6,000, principally employed in the linen trade.

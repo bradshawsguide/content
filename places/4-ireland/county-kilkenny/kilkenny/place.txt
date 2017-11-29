@@ -1,0 +1,24 @@
+section: 2
+----
+title: Kilkenny
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: Callanan's.
+- term: Market Days
+  desc: Wednesdays and Saturdays.
+- term: Fairs
+  desc: March 28, Corpus Christi, cattle and wool.
+----
+notes:
+- A telegraph station.
+----
+text: <span class="smcp">Kilkenny</span>.--This old capital of the "Pale." or limit of English authority, was founded by Strongbow 1172, and is now the chief town of Kilkenny county, a parliamentary borough, with one member, and seat of a diocese, on the river Nore, which is crossed by two bridges uniting it to Irishtown on the east side. Population about 24,100, who are engaged in the grain, provision, starch trade, &c. The Ormonde or Butler family have held possession of the town since 1400. Among the events which distinguish it, the principal one was the meeting of the Roman Catholic Supreme Council in 1642, after the great massacre in the preceding year, and during the distractions of the civil war in England. They met in an old building, now Huleatt's Commercial House.
+
+Good stone and dark marble are abundant in this locality; most of the houses are of this material. One of the best views of the town is from John's bridge, another from Green's bridge. *Kilkenny Castle*, the seat of the Marquis of Ormonde, is finely seated on a rock above the river; it has been restored in the baronial style, and contains much old tapestry, as well as a gallery of the Butler portraits, by Lely, and other artists of the 17th century, among which are portraits of Charles I. and II., James II., and other Stuarts. Those of the great Duke of Ormonde and his gallant son should be noticed. Many of the family are buried in the cathedral, which is a small cross of the 13th century, 226 feet long, with a good east window and a fine prospect from the summit. Here are monuments of the Graces, who had a castle where the Court House now stands. St. John's Church, once part of an abbey, also contains monuments of both families.
+
+The Bishop's Palace, Chapter House, and a fine round tower, 108 feet high, are near the cathedral. At the college on the river, founded by the Butlers, Bishop Berkeley, Swift, and Congreve were educated. There is also a Roman Catholic College in the Gothic style, in Cork Road, called St. Kyan's. One of their chapels is placed on the fine ruins of an abbey in Irishtown, founded in 1225, by the Pembrokes. Butler's grammar school, where Swift, Congreve, Farquhar, Harris, the antiquary, and Bishop Berkeley were educated, Here Clynn wrote his "Annals." A pleasant promenade, called the Mall, is laid out on the Nore behind the town. Banim, the novelist, was a native.

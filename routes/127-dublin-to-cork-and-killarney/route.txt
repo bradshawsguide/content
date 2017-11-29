@@ -1,0 +1,28 @@
+section: 2
+----
+title: Dublin to Cork and Killarney
+----
+company:
+- great-southern-and-western
+----
+stops:
+- dublin
+- newbridge
+- [kildare-junction, mageney, carlow, milford, bagnalstown, gowran, borris, ballywilliam, kilkenny, upper-john-street, bennetts-bridge, thomas-town, ballyhale, mullinavtt, waterford]
+- [portarlington, geashill, tullamore, athlone]
+- maryborough
+- mountrath
+- roscrea
+- templemore
+- thurles
+- goolds-cross
+- dundrum
+- limerick-junction
+- knocklong
+- kilmallock
+- charleville
+- buttevant
+- marlow
+- cork
+----
+text:

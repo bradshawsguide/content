@@ -1,0 +1,18 @@
+section: 2
+----
+title: Clones
+----
+company:
+----
+route:
+----
+info:
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: Last Thursday in each month.
+----
+notes:
+- A telegraph station.
+----
+text: This town contains a population of about 3,000 principally engaged in the linen manufacture. It has the remains of an abbey, founded by St. Tierney.

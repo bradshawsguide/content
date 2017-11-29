@@ -1,0 +1,62 @@
+section: 2
+----
+title: Belfast
+----
+company:
+----
+route:
+----
+info:
+- term: Hotels
+  desc: Imperial; Royal; Commercial; Queen's; and Plough.
+- term: Carriages and Cars
+  desc: at the station and hotels. Tariff--1s. per hour (driver included).
+- term: Omnibus Fares
+  desc: between Commercial Buildings, Botanical Gardens, and Queen's College, once hourly from 9 a.m. to 7 p.m., 2d.; Castle Place, York Street, and the Ballymena railway station, 2d.; Commercial Buildings, Great Victoria Street, and the Ulster railway station, 2d; Commercial Buildings, Queen's Quay, and the Belfast and County Down railway station, l½d.
+- term: Steamers
+  desc: See <cite>Bradshaw's Guide</cite>.
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: August 12th and December 8th for horses.
+----
+notes:
+- A telegraph station.
+----
+text: This is the great seat of the Irish linen trade, and the capital of Ulster, in Antrim county, at the mouth of the Lagan, where it falls into Belfast Lough, on a flat situation, among hills, which at Divis, rise into a fine mountain peak, 1,513 feet high. Though, ranking the second port in Ireland, it stands first for manufactures and trade, returning one member. The tall chimnies and factories for spinning linen and cotton yarn are the most conspicuous buildings; none of the churches are worth remark; in fact Belfast is a modern town, scarcely going back beyond the last century. In 1805, the customs' duties were only £3,700, but in 1846, upwards of £360,000, while the registered tonnage of the port amounted to 62,000. The first graving dock was constructed in 1795, but since 1839 very great improvements have been made in the harbour, a deep channel having been cut right up to the town, so that large vessels drawing 16 or 18 feet water, which used to stop at Garmoyle, are now able to discharge cargo at the new quays, which with splendid docks, &c., have cost the corporation half a million of money. The rates also are low, and the consequence is that the tonnage inwards and outwards has nearly doubled. The lighthouse stands on screw piles, worming down into the sand and rock. There are building slips for vessels of 1,000 tons, besides foundries, machine factories, 50 spinning mills, weaving factories, dye and bleach works, provision stores, etc.
+
+The staple manufactures include damask, diapers, drills, cambrics, plain and printed linens, and handkerchiefs of all kinds; among cotton goods are velvets, fustians, jeans, gingham, quilting, muslin, embroidery, calico printing, &c. A society for encouraging flax-growing in Ireland was established here in 1841; and there is an excellent *School of Design*. Goods are sold at the white and brown (or unbleached) Linen Halls, which Queen Victoria inspected on her visit to the town in 1849. The *Commercial Buildings*, in the Ionic style, were built in 1822. At the Literary Society is a good museum; the Botanical Society possesses a garden on the river, where an island of 20 acres has been laid out with shrubberies.
+
+Belfast is honourably distinguished for its literary exertions, and abounds in schools and societies for the promotion of education as well as of arts and letters. Here Dr. Edgar began the temperance movement as early as 1828. Besides the Academy, founded in 1786, and the Royal Academical Institution, founded in 1810, both of a collegiate character, there is the new *Queen's College*, established under Sir R. Peel's Act, a handsome. Tudor pile, 300 feet long, built by Lanion, and opened in 1849. Benevolent societies of all kinds are numerous.
+
+Out of 50 churches and chapels (the presbyterian being nearly one half), the visitor may notice *St. Ann's*, with a copper roof and wooden spire, and the Grecian portico of *St. George's*, which originally belonged to a palace, begun by Lord Bristol (a free-thinking bishop of Deny), at Ballyscullion. The palace of the Bishop of Down is here. One of the four chapels is the Roman Catholic Cathedral of Down.
+
+It was at Belfast, and not till 1704, that the first English Bible published in Ireland, was printed. A handsome bridge (Queen's Bridge), on five arches, built in 1841, crosses the Lagan (besides two others) to the suburb of Ballymacarrett, in county Down. Formerly there was along straggling bridge, 2,560 feet, which many a weary traveller must have found to be a bridge of size indeed. The Bay or Lough in which Belfast stands is a fine roomy channel, 15 miles long, and 3 to 6 broad. An excellent view of it is obtained from Mac Art's Fort, on the top of Cave Hill, a basalt peak, 1,200 feet high, 3 miles north-west. The stone quarried here is carried down to the harbour by a tram rail. Near it is White House factory, where Mr. Grimshaw built the first cotton mill in Ireland, in 1784.
+
+It was from this place that John M'Cormac, Esq. a native, sailed to the Western Coast of Africa, from whence he was the first to introduce the Teak timber, of which so many ships of war have been and are still constructed in the British Government Dock Yards.
+
+Within a few miles are *Ormeau*, the seat of the Marquis of Donegal, chief landed proprietor here, *Belvoir*, Sir R. Bateson, Bart.; and a vast Druidical remain, called the Giant's Ring, in the centre of which is a cromlech, or Druid's altar. Divis Mountain had a small observatory fixed there by the Ordnance survey, till a storm carried it away. When Drummond's light was first exhibited in 1820, on Slieve Snaght in Donegal, it was seen here, though 66 miles distant. Cave Hill commands a fine view.
+
+* * *
+
+#### Tariff of Cars, Hackney Coaches, &c.
+
+|                                                | By Distance | Time |
+|---------------------------------------------------------|---------|-|
+| For the hire of a 2 wheeled carriage (1 horse) per mile | 0s. 6d. | |
+| For the hire of a 2 wheeled carriage (1 horse) per hour | | 1s. 0d. |
+| For every additional half mile                          | 0s. 3d. | |
+| For every additional half hour                          | | 0s. 4d. |
+| If by the day                                   | 8s. 0d. | 8s. 0d. |
+| For the hire of a 4 wheeled carriage (1 horse) per mile | 0s. 8d. | |
+| For the hire of a 4 wheeled carriage (1 horse) per hour | | 1s. 4d. |
+| For every additional half mile                          | 0s. 4d. | |
+| For every additional half hour                          | | 0s. 6d. |
+| If by the day                                 | 10s. 8d. | 10s. 8d. |
+| For the hire of 2 horse carriages per mile              | 1s. 0d. | |
+| For the hire of 2 horse carriages per hour              | | 1s. 8d. |
+| For every additional half mile                          | 0s. 6d. | |
+| For every additional half hour                          | | 0s. 8d. |
+| If by the day                                 | 13s. 6d. | 13s. 6d. |
+
+Luggage not exceeding 1121bs. is carried free. The tolls must be paid by the hirer, but no gratuities are to be given to drivers.

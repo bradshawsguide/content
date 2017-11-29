@@ -1,0 +1,5 @@
+title: County Tyrone
+----
+country: Ireland
+----
+text: A county in the province of Ulster, which returns two members, is bounded on the north by Londonderry, the south by Monaghan, the east by Lough-Neagh, and on the west by Donegal and Fermanagh. It is divided into four baronies.

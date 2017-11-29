@@ -1,0 +1,5 @@
+title: County Down
+----
+country: Ireland
+----
+text: Down, a maritime county, bounded east and south by the Irish sea, returns two members. Its surface is extremely irregular; in some parts mountainous and hilly, in others level and flat. The highest mountain is Slieve Donard, which rises 2,800 ft. above the level of the sea. Woods and forests are found in various parts, and, taken as a whole, the county may be considered both productive and beautiful. There are several mineral springs here, but the chalybeate ones are the most numerous. The principal employment of the inhabitants is in making of linen and muslin; bleaching is carried on to a considerable extent on the banks of the river Bann.

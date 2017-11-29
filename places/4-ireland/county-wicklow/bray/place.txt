@@ -1,0 +1,41 @@
+section: 2
+----
+title: Bray
+----
+company:
+----
+route:
+----
+info:
+- term: Hotels
+  desc: The International; Breslins.
+- term: Market Days
+  desc: Tuesday and Saturday.
+- term: Fairs
+  desc: January 12th, March 1st, May 1st and 4th July 15th, August 5th and 20th, September 14th (for friezes), December 4, (for cattle).
+----
+notes:
+- A telegraph station.
+----
+text: The stranger would do well to make this place his head-quarters for a few days, being most beautifully situated, and in the very heart of scenery the most attractive. In the town are the remains of a castle (now used as a barrack) and a race course. There is also a pretty lake and a river abounding with trout. Close at hand is *Kilruddery*, near the Sugar Loaf, seat of the Earl of Meath.
+
+*Bray Head* is within twenty minutes' walk of the station, and is well worth a visit. Its excellent winding path cut in the cliff, affords the tourist a magnificent view, embracing the Hill of Howth, Dalkey Island, and Killiney Bay, with the railroad below, and the ocean washing the base of the "head."
+
+From Bray, the tourist should proceed in the morning to the famous *Dargle Glen*; as he drives along, some pretty villas are passed, and the Dargle is soon reached. It is a beautiful ravine or mountain glen through which the Dargle river winds its varied course. The sides are thickly studded with trees and shrubs, giving rock, wood, and water in picturesque combination. About half-way through the Dargle a rocky point called "The Lover's Leap" is met, from which an excellent view is obtained. The car generally waits at the upper gate, from whence proceed to *Powerscourt* and the *Waterfall* (open to visitors on Mondays and Tuesdays, on other days only by previous communication with the agent, at Enniskerry). *Powerscourt House* is situated in a beautiful demesne, a drive through which will repay the tourist. The waterfall is the chief point of interest. It is in the Deer Park some little distance from the house. Although the volume of water is generally small, yet, the height from whence it emerges, the massive bed of craggy rock along which it glides, ere dispersing into fretted spray, together with the surrounding amphitheatre of wooded heights, present an appearance at once sombre and sublime.
+
+*The Glen of the Downs* may next be visited. It is about 1½ mile in length, is situated near Delgany, and under the Sugar Loaf Peak. The sides of the glen are somewhat steep, besides being thickly wooded, and rising to between five and six hundred feet, present a very picturesque appearance.
+
+From this place the tourist can return to Bray (a distance of about. 5 miles) and perhaps visit Bray Head in the evening.
+
+A second day's tour may be interestingly accomplished by taking an early train from Bray to the Killoughter station; whence proceed by car to "*The Devil's Glen.*" This famous glen is 1½ mile in length, and partakes of the characteristics of the Dargle. There is an excellent walk up the glen, through which the river Vartrey winds a serpentine course between precipitous and beautifully wooded heights; the entire glen yielding an aspect of wild and Alpine grandeur.
+
+Next *en route* is "*The Seven Churches.*" This place is considered by many to be the most interesting of the Wicklow attractions, combining choice scenery with interesting ruins. A solemnity invests the approach to this place, concerning whose lake Moore has written:
+
+> By that lake, whose gloomy shore
+> Skylark never warbles o'er.
+
+It is also called Glendalough, or Glen of the Two Lakes, in a desolate hollow of the mountains (2,100 to 2,500 feet high), the seat of an early bishopric, with parts of cathedral, church, &c. (destroyed by the Norman invaders), and a round tower 110 feet high. This tower is in good preservation; to its rear are the smaller and larger lakes, and surrounding it are the ruins of the seven churches. *St. Kevin's Bed* (a hollow in the face of an almost perpendicular rock) is situated in the upper lake, and is reached by a boat The wild mountains, rocky valley, lovely lakes, ruined churches, and solitary tower, all combine to produce a solemn and interesting wilderness scene.
+
+Turning to the right from the village of Laragh, the beautiful *Vale of Clara* can next be visited; it is watered by the river Avonmore, and the vale affords a pleasant resting place to the tourist. Passing on, we reach Rathdrum (about 6½ miles from Laragh), where the railway can be taken to Ovoca, which is situated in the far-famed vale of that name. It is from 3 to 4 miles in length, and at the end is the second meeting of the waters, and the Wooden Bridge Inn, where the tourist can put up for the night.
+
+Another day might be interestingly spent by proceeding next morning to *Shelton Abbey*, *Castle Howard*, and the *Wicklow Mines* (copper), returning to Bray by train from Ovoca, at which place the tourist is supposed to have his head-quarters.

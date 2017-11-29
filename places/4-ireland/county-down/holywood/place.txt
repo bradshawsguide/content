@@ -1,0 +1,20 @@
+section: 2
+----
+title: Holywood
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: Power's.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: Every three months.
+----
+notes:
+- Telegraph station at Belfast, 5 miles.
+----
+text: Holywood, or Hollywood, is a pretty bathing place on the Lough, 5 miles from Belfast, where the Irish Presbyterians signed the Solemn League and Covenant, 1644. The church is on the site of a priory, from which the name of the place is derived.

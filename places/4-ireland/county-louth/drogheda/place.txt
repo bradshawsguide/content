@@ -1,0 +1,22 @@
+section: 2
+----
+title: Drogheda
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: Imperial.
+- term: Market Day
+  desc: Fridays and Saturdays.
+- term: Fairs
+  desc: March 10, April 11, May 12, June 22, August 20, October 29, November 21, December 19.
+----
+notes:
+- A telegraph station.
+----
+text: A parliamentary borough, one member, population about 16,880. Cotton and linen yam is spun. It enjoys a good trade in Irish produce, and has remains of two old monasteries and St. Lawrence's town gate, a Tholsel or assize court, linen hall, and various other buildings, including the cathedral of the Romish diocese of Armagh, whose primate resides here. Small craft can come up to the quays from the sea, which is six miles below.
+
+Two or three events serve to render the town memorable. Here Lord Deputy Poynings held a parliament in 1490, which enacted "Poynings' Law," establishing the supremacy of English rule. It was given up to storm by Cromwell in 1649, in revenge for the Irish massacre of 1641. when 100,000 Protestants were put to death. He breached the wall from Cromwell's Fort which commands the town. His career in Ireland is still remembered in the saying, "may the curse of Cromwell be on you." And on the 10th of July, 1690, the famous battle of the Boyne took place, when William III. utterly defeated the Jacobite party. It was fought at *Oldbridge*, three miles above the town, and "a pillar on a rock 150 feet above the picturesque banks of the river marks where Schomberg (William's general) fell, in his 82nd year. William was in the thickest of the contest and narrowly escaped being shot. James II. stood at a safe distance from his gallant Irish on Donore Hill, commanding a view of the field; he slept at *Carntown Castle*, the night before, and William at *Ardagh House*. Two elms mark where Caillemote, the leader of the French Protestant auxiliaries, was buried. Sheephouse Farm was a point strongly contested by both parties. "Change leaders," said the beaten Irish, "and we will light the battle over again," but their despicable sovereign made off as fast as he could to Dublin, where he met the Duchess of Tyrconnel. "Your countrymen run well, madam," be said. "Not quite so well as your majesty," said the lady, "for I see you have won the race." William of Drogheda, and Miles, were natives. Near at hand is the Grange, J. Maguire, Esq.

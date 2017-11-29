@@ -1,0 +1,5 @@
+title: King's County
+----
+country: Ireland
+----
+text: King's County, which returns two members, and which, with the exception of Shevebloom Mountains, on its southern borders, is in general of a flat character, containing a great part of the ancient plain of Ireland. In 1801 nearly half the contents of the county were bog, mountain, and waste, or not arable land. Great part of the Bog of Allen lies within the county limits; several tracts have been reclaimed, but not to a great extent. The continuous bogs and levels preclude all possibility of picturesque beauty.

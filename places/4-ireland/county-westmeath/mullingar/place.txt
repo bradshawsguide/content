@@ -1,0 +1,18 @@
+section: 2
+----
+title: Mullingar
+----
+company:
+----
+route:
+----
+info:
+- term: Market day
+  desc: Thursday.
+- term: Fairs
+  desc: April 6th, July 4th, August 29th, and November 11th.
+----
+notes:
+- A telegraph station.
+----
+text: This place has a large population employed in the wool and butter trade, and contains the ruins of two castles, and large infantry barracks for 1,000 men.

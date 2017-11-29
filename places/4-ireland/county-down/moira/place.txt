@@ -1,0 +1,9 @@
+section: 2
+----
+title: Moira
+----
+company:
+----
+route:
+----
+text: Here is *Moira Castle*, the seat of the Hastings family, and the birth place of the first Marquis, the gallant Earl Moira, grandfather of the lamented and amiable Lady Flora Hastings, whose melancholy demise has cast an indelible stain on the British Court of the 19th century. Fairs are held on the 1st Thursday in February, May, August, and November. Markets on Thursday.

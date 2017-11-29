@@ -1,0 +1,22 @@
+section: 2
+----
+title: Omagh
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: Harkness'.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: Monthly.
+- term: Bankers
+  desc: National Provincial Bank of Ireland; Ulster Banking Company.
+----
+notes:
+- A telegraph station.
+----
+text: Here are ruins of an Abbey founded in 792, Church, five Chapels, Market and Court House, Barracks. Heading Room, Hospital, &c.

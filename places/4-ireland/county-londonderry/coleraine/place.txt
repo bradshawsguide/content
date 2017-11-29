@@ -1,0 +1,22 @@
+section: 2
+----
+title: Coleraine
+----
+company:
+----
+route:
+----
+info:
+- term: Hotels
+  desc: Clothworkers' Arms.
+- term: Market Days
+  desc: Monday, Wednesday, Friday and Saturday, for grain.
+- term: Fairs
+  desc: May 12th, July 5th, November 3rd.
+- term: Bankers
+  desc: Provincial Bank of Ireland.
+----
+notes:
+- A telegraph station.
+----
+text: A borough town, with a population of about 5,857, who return one member, and are employed in the salmon and eel fisheries, and manufactures of paper, soap, candles, and leather, situated on the banks of the river Bann, about three miles from the sea. A sand bank extends across the mouth of this river, and prevents its navigation by vessels of heavy tonnage in rough weather. The town is large and handsome, and contains a church built in 1614, with old tombs, which stands on the site of the priory and old abbey. Close at hand is mount Sandel, 200 feet high; Dawn Hill, Mrs. Maxwell; Dundoun House, J. Boyd, Esq. Archbishop Vesey was a native.

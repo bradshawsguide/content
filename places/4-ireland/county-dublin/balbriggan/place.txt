@@ -1,0 +1,18 @@
+section: 2
+----
+title: Balbriggan
+----
+company:
+----
+route:
+----
+info:
+- term: Market Day
+  desc: Saturday, for corn.
+- term: Fairs
+  desc: April 29, September 29.
+----
+notes:
+- A telegraph station.
+----
+text: This place has a population of about 2,959, who are chiefly employed in the stocking, linen, tanning, muslin, and embroidering trades. The harbour is inside a pier 600 feet long, with a fixed light 35 feet high, visible 10 miles distant. The Carjee Half Tide Rock lies one mile N.E.; and *Hampton Hill*, the seat of E. C. Hamilton, Esq., is close at hand.

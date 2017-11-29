@@ -1,0 +1,23 @@
+section: 2
+----
+title: Kildare
+----
+company:
+----
+route:
+----
+info:
+- term: Market day
+  desc: Thursday.
+- term: Fairs
+  desc: February 12, April 5, May 12, June 29, and November 19.
+- term: Races
+  desc: Last week in April, 2nd Monday in June. September, and October, on the Curragh.
+----
+notes:
+- Distance from station, 1 mile.
+- A telegraph station.
+----
+text: The capital of a county of the same name, and a cathedral town, near the Barrow, with a population of about 2,666. It belongs to the Fitzgeralds, represented by the Duke of Leinster. Formerly it was noted for the monastery of St. Bridget, whose bright vestal lamp was kept constantly burning in her cell, of which there are some remains. She lived (as monkish writers say) contemporary with St. Patrick, and is buried with him at St. Columb, at Downpatrick. The cathedral, which is half a ruin, on the hill above the town, contains the Fitzgerald tombs. Close to it is a perfect *Round Tower*, 132 feet high. There are also remains of a castle, built by the English in the 14th century. The diocese is now incorporated with Dublin.
+
+About 15 miles east are the Wicklow Mountains. to the north is the great Bog of Allen, part of the vast, tract of bog which fills the centre of Ireland.

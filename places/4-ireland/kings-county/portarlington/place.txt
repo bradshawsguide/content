@@ -1,0 +1,20 @@
+section: 2
+----
+title: Portarlington
+----
+company:
+----
+route:
+----
+info:
+- term: Market Days
+  desc: Wednesday and Saturday.
+- term: Fairs
+  desc: January 5th, March 1st, Easter Monday
+  May 22nd, July 4th, September 1st, October 12th
+  and November 23rd.
+----
+notes:
+- A telegraph station.
+----
+text: <span class="smcp">Portarlington</span>, returns one member, was formerly called Coltodry, and given by Charles II. to Lord Arlington, who sold it to Sir P. Kout, who forfeited it. William III. gave it to General Renvigny, who built the churches. In one of the schools at this place, the late "Iron Duke," and his brother, the Marquis of Wellesley, were educated.

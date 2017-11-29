@@ -1,0 +1,5 @@
+title: County Antrim
+----
+country: Ireland
+----
+text: A maritime county in the province of Ulster, returns two members. The principal towns are Belfast, Lisburn, Carrickfergus, Antrim, and Ballymoney. The chief employment of its inhabitants is the manufacture of linen, and the flax is extensively grown; and many of the farmers are weavers. Their farms seldom exceed a few acres in extent. The county is in some parts mountainous and barren; the richer and more fertile districts lay towards the south.

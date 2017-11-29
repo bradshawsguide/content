@@ -1,0 +1,5 @@
+title: County Louth
+----
+country: Ireland
+----
+text: One of the smallest counties in Ireland, returns two members. It abounds in those rude vestiges of antiquity which consist of earth-works, chiefly designed for sepulchral purposes, or acting as places of defensive habitation. Cromlechs, and other relics of anti-Christian ages, although much lessened in number within the last century, are still numerous, and in several instances extremely curious. There are also many remains of ecclesiastical and military structures.

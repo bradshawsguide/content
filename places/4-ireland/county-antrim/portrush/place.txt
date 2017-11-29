@@ -1,0 +1,18 @@
+section: 2
+----
+title: Portrush
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: Coleman's.
+- term: Money Order Office
+  desc: at Coleraine, 6 miles.
+----
+notes:
+- A telegraph station.
+----
+text: This small, yet pretty bathing place, which has Dr. Adam Clarke's School and monument, and where the mirage is often seen, is beautifully situated on a basalt peninsula, opposite the Skerries Rocks, and has an excellent view of the *Giant's Causeway*, to which this is the nearest railway station.

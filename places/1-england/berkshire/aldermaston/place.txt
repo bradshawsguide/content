@@ -12,7 +12,7 @@ info:
 - term: Money Order Office
   desc: at Theale.
 ----
-text:
+notes:
 - Distance from station, 2 miles
 - A telegraph station.
 ----

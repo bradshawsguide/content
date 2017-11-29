@@ -1,0 +1,5 @@
+title: County Limerick
+----
+country: Ireland
+----
+text: Limerick, the surface of which, although in many places diversified by hills, is not, generally speaking, mountainous, excepting on the south-east, where it is bounded by the Galtees, a ridge of lofty mountains which extend into Tipperary and the borders of Kerry, where the ground gradually rises, and forms a grand amphitheatre of steep mountains, in a wide area from Loghill to Drumcolloher. Returns two members to parliament.

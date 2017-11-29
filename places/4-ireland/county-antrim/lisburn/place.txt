@@ -1,0 +1,20 @@
+section: 2
+----
+title: Lisburn
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: Mrs. Lennon's.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: July 21st and October 5th.
+----
+notes:
+- A telegraph station.
+----
+text: <span class="smcp">Lisburn</span>, 8 miles from Belfast, up the Lagan, is a pretty thriving seat of the linen trade (population about 6,384), which was first introduced by the French Huguenots (Protestants), driven out of France in 1685, by Louis XIV.'s revocation of the Edict of Nantes. The present court-house was their chapel. Near Two Sisters' Elms are traces of a castle, built by the Lord Conway, who founded the town in 1627. *Lisburn House*, seat of Earl of Lisburn, at whose seat, Golden Grove, in Wales, Jeremy Taylor found shelter in the civil wars, and wrote some of his best works. Me died here in 1667, and is buried in Blaris church, (is also is Lieutenant Dobbs, who was killed in action against Paul Jones in 1778), which is the parish church of Lisburn, and the cathedral of Down diocese; it is marked by an octagonal spire. Bishop E. Smith was a native. Here are largo damask thread and flax-spinning factories.

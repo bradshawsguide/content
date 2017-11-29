@@ -1,0 +1,20 @@
+section: 2
+----
+title: Randalstown
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: O'Neill's Arms.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: July 16th, November 1st.
+----
+notes:
+- Telegraph station at Antrim, 5¼ miles.
+----
+text: This place, which was burnt by the rebels in 1798, has a population of about 1,300, employed in cotton spinning and weaving; Barracks, Market House, five Chapels, and Dispensary.

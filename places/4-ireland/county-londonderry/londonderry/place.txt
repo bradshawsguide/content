@@ -1,0 +1,22 @@
+section: 2
+----
+title: Londonderry
+----
+company:
+----
+route:
+----
+info:
+- term: Hotel
+  desc: Imperial.
+- term: Steamers
+  desc: See <cite>Bradshaw's Railway Guide</cite>.
+- term: Market Days
+  desc: Wednesday, Thursday (flax), and Saturday.
+- term: Fairs
+  desc: June 17th, September 4th, October 17th.
+----
+notes:
+- A telegraph station.
+----
+text: The capital town of the county, which contains a population of about 35,529, who return one member. It stands on the western bank of the Foyle, and consists of four principal streets, which cross each other at right angles, and from which a number of smaller ones diverge. As the ground on which the town is built is very hilly, many of the streets are exceedingly inconvenient for carriages, but every exertion has been made to repair this local disadvantage by the attention which is paid to the paving and lighting of them. The Cathedral is a very handsome edifice, built in the Gothic style of architecture. It was erected in 1633, and has, within the last few years, undergone extensive repairs. It has tombs of Drs. Knox and Hamilton, and two flags captured from the besiegers in May, 1689. Farquhar, the poet, and Dr. Hamilton were natives. Londonderry carries on a considerable commercial intercourse with America and the West Indies, it being favourably situated for commerce, and possesses an excellent secure harbour, with a splendid line of quays. This place stood a siege of 105 days in 1688 against James II. The walls around the city are still in good preservation, forming a favourite promenade. Close to the city court house is a celebrated gun called "Roaring Meg." The bishop's palace, built in 3761 (the walls of which are 1,800 feet in circuit and 24 feet high) is a fine building.

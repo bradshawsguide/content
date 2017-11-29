@@ -1,0 +1,9 @@
+section: 2
+----
+title: Bangor
+----
+company:
+----
+route:
+----
+text: Five miles north of Newtownards, a pretty bathing place, in the mouth of Lough Belfast, is the castle of Lord Bangor. The name is derived from the Bean choir or white (*i.e.* stone) church, built here in the 12th century, when stone churches were more uncommon, instead of the wooden buildings attached to an ancient monastery here. *Ballyleidy* belongs to the Lord Dufferin; the Dowager Lady Dufferin is a grand-daughter of Sheridan, and the author of a beautiful poem. *Crawfordsburn*, seat of the late Sharman Crawford, Esq., the great advocate of tenant-right; here there is a customary charge of £5 to £20 an acre, paid by the incoming tenant to his predecessor, for the good will as it were, on the ground of improvements. Most of the people in the lowlands of this county are of Scottish descent.

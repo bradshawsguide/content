@@ -1,0 +1,12 @@
+section: 2
+----
+title: Birdhill
+----
+company:
+----
+route:
+----
+notes:
+- A telegraph station.
+----
+text: A little to the north of this, on the other side Lough Derg, is Killaloe, with its cathedral and old churches, and one mile further north, on the margin of the lake, is *Kincora*, the ancient seat of Brian Boru, and the slate quarries in the Adra Hills; the Keeper and Doon Mountains, 2,265 feet high in one part; Lough Garnear Bruff, surrounded by a remarkable quantity of Druid stones and a castle of the Desmonds, the last of whom is said to be buried under the lake.

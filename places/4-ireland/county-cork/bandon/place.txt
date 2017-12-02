@@ -17,4 +17,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This place has a population of about 9,303, employed in the camlet stuff, linens, leather, flour, beer, and whisky trades.
+----
 text: This place has a population of about 9,303, employed in the camlet stuff, linens, leather, flour, beer, and whisky trades, who return one member, and contains a grammar school, founded by the great Earl of Cork. It is celebrated for its salmon fisheries. Sir R. Cox and Dr. Brady, the psalmist, were natives.

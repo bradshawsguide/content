@@ -6,4 +6,6 @@ company:
 ----
 route:
 ----
+desc: Called by Spenser "gentle Mulla," where there are remains of a priory founded in 1290 by the Barrys, Earls of Barrymore.
+----
 text: Called by Spenser "gentle Mulla," where there are remains of a priory founded in 1290 by the Barrys, Earls of Barrymore, whose battle words were *Benter en avant*, Forward. Fairs are held here on March 27th, July 20th, October 14th, and November 22nd. Close at hand are *Buttevant Castle*, Sir J. C. Anderson, Bart, the ruins of the abbey, in which are the graves of those who fell in 1647 at Knockninoss, where Sir A. McDonnell (William Colkille) was killed, and the remains of two old castles. To the seat is *Kilcoleman Castle*, called by Spenser Kilnemullugh, and where he wrote his "*Faerie. Queen.*"

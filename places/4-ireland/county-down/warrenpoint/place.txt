@@ -15,4 +15,6 @@ info:
 notes:
 - Telegraph station at Newry, 6 miles.
 ----
+desc: This is one of the most picturesque and romantically situated watering places in Ireland, and consequently much frequented.
+----
 text: This is one of the most picturesque and romantically situated watering places in Ireland, and consequently much frequented. It occupies a very pretty site on Narrow Water, at the head of Carlingford Bay, and on the line of the Newry Navigation. It contains a church, built by R. Hall, Esq., of Narrow Water Castle, in 1825; a Roman Catholic Chapel, Presbyterian and Wesleyan Chapels, &c. &c.

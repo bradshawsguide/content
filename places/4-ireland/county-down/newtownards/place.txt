@@ -6,4 +6,6 @@ company:
 ----
 route:
 ----
+desc: A town of muslin weavers and embroiderers, belonging to the Londonderry family, at the head of Lough Strangford.
+----
 text: A town of muslin weavers and embroiderers, belonging to the Londonderry family, at the head of Lough Strangford, which is a lagoon full of islands, with nothing notable about it except Grey Abbey. "Will Watch, the bold smuggler," flourished at Newtownards.

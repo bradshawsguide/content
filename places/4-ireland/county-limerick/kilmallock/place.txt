@@ -10,4 +10,6 @@ info:
 - term: Fairs
   desc: are held here on February 21, March 25, June 9, July 6, November 8, and December 4.
 ----
+desc: Here are the ruins of a Dominican Friary, founded in 1201, and dismantled by Cromwell. The church, partly in ruins, contains a bell tower, and tombs of the Fitzgeralds.
+----
 text: Here are the ruins of a Dominican Friary, founded in 1201, and dismantled by Cromwell. The church, partly in ruins, contains a bell tower, and tombs of the Fitzgeralds. The fortified town walls and gates, with the stone-built houses, &c., &c., all exist as in old times, though in ruins; some dismantled by Cromwell. Close at hand are *Mount Coote*, C. Coote, Esq.; *Ush Hill Tower*, E. Evans, Esq.

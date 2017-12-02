@@ -13,4 +13,6 @@ info:
 notes:
 - Telegraph station at Limerick, 11 miles.
 ----
+desc: In the immediate vicinity are the remains of an Austin Friary, O'Donovan's Castle, dismantled by Cromwell.
+----
 text: In the immediate vicinity are the remains of an Austin Friary, O'Donovan's Castle, dismantled by Cromwell, and the Franciscan Abbey, and Adare Abbey, the beautiful seat of the Earl of Dunraven, the descendant of "Con of the Hundred Battles," who, like the late peer, is one of the best landlords in Ireland, lives on his estates, and attends to the amelioration of his tenants. A number of German Protestants, called Palatines, have been settled here for a century. Markets are held here on Saturdays, and Fairs monthly, except in June, July, and August.

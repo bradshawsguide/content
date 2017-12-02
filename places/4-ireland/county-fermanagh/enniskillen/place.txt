@@ -19,4 +19,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This town, which is situated in a fine spot on an island between Loughs Erne, contains a population of about 14,678, who are engaged in the corn and general trade.
+----
 text: This town, which is situated in a fine spot on an island between Loughs Erne, contains a population of about 14,678, who are engaged in the corn and general trade, and returns one member. It has three chapels, court house, county prison, infirmary, town hall (in which are the banners taken at the battle of the Boyne), linen hall, school, cavalry and artillery barracks, two bridges, brewery, tanneries, cutlery factory, Charles I.'s school, with ten exhibitions (five of £5O and £30). It is celebrated for the successful defence which the inhabitants made in 1688 on behalf of William III., and gives name to a regiment of dragoons. Close at hand are the beautiful seat and grounds of Lord Belmore, open to the public; *Florence Court*, Earl of Enniskillen; *Ely Lodge*, Marquis of Ely; *Tully Castle* and *Bellisle*, J. Porter, Esq.

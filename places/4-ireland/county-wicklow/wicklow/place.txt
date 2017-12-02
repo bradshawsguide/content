@@ -19,4 +19,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This town, the capital of the county of the same name, has a population of about 2,798, who are employed in the copper and lead ore trade.
+----
 text: This town, the capital of the county of the same name, has a population of about 2,798, who are employed in the copper and lead ore trade. It contains a church, with round mound, three chapels, race stand on the Murrough, ruins of an Abbey founded by the O'Byrnes in Henry the Third's time, barracks, &c. It stands on the sea coast, at the mouth of the river Leitrim, which was once defended by a fortified rock called the *Black Castle*. It is now, however, a place of but little strength in a military point of view, and of slight commercial importance, as it has no manufactures. The bay is much exposed to south-easterly winds, which render the neighbouring coast very dangerous. Two lighthouses have been erected, 268 feet high, with fixed lights.

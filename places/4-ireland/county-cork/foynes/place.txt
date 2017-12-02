@@ -6,4 +6,4 @@ company:
 ----
 route:
 ----
-text: From this place steamers sail down the Shannon to Tarbert and Kilrush, from the former of which a very agreeable tour, via Tralee, may be made to Killamey. Maviston Abbey is near.
+text: From this place steamers sail down the Shannon to Tarbert and Kilrush, from the former of which a very agreeable tour, via Tralee, may be made to Killarney. Maviston Abbey is near.

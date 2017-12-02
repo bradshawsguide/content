@@ -15,4 +15,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Here are the ruins of the Geraldines' Castle, built in 1480. St. Patrick's Roman Catholic College, a quadrangular edifice, containing chapel, rooms, and noble library of 18,000 volumes, covering 54 acres.
+----
 text: Here are the ruins of the Geraldines' Castle, built in 1480. St. Patrick's Roman Catholic College, a quadrangular edifice, containing chapel, rooms, and noble library of 18,000 volumes, covering 54 acres. It was founded in 1795, and supported, until 1845, by a parliamentary grant of £8,900, since increased to £26,360 per annum. Close by is the princely mansion and domain of Ireland's *only* Duke (his Grace of Leinster), *Carton*, beautifully built, in Rye Water, erected by Cassels. It consists of a large centre, with wings. The dining-room is 52 feet by 24, and 24 high. Here is a splendid picture gallery, containing some of the *chef d'œuvres* of Holbein, Claude, Poussin, and several Dutch masters. The grounds, park, &c, cover 1,000 acres. Queen Victoria visited here in 1849; and in 1855 one of the wings was partly destroyed by fire, when the Duchess narrowly escaped an untimely fate.

@@ -17,6 +17,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: The capital of Waterford county, and a parliamentary borough, port, &c., in the south of Ireland.
+----
 text: The capital of Waterford county, and a parliamentary borough, port, &c., in the south of Ireland. The river Suir, upon which it stands, divides the county from Tipperary, and joins the Barrow a few miles below, making the distance to the open sea about 14 miles. Population, about 29,300, who return two members, and are engaged chiefly in the provision trade. About 200 vessels, mostly of small tonnage, belong to the port; it has a thriving provision trade with Bristol, Liverpool, &c., and is provided with excellent quay-room, and water deep enough for ships of 1,000 tons.
 
 The ancient Irish called it by several figurative names; but when the Danes settled here, in the 9th century, they styled it *Vater-fiord*, the "Father harbour," on account of its superiority. Here they built a round tower, called the *Ring*, or *Reginald's Tower*, which, as it still exists, must be one of the oldest in Ireland, after the Round Towers. Another event was the marriage of Richard de Clare, or Strongbow, to the King of Leinster's daughter, Eva, which has been painted by Maclise. Here, too, Henry II. landed, as "Lord of Ireland," in 1172. Thenceforth it was steadfastly loyal to the English crown, as in Perkin Warbeck's attempt to take it, and during the civil war, when Cromwell was repulsed. Among the latest events was the embarkation of James II. after the battle of the Boyne. It has returned two members to parliament almost ever since 1374.

@@ -14,4 +14,6 @@ info:
 - term: Fairs
   desc: First Saturday in each month.
 ----
+desc: This town contains about 6,000 inhabitants, who are chiefly employed in the linen trade.
+----
 text: This town contains about 6,000 inhabitants, who are chiefly employed in the linen trade. In the vicinity is *Killymoon*, now in the occupation of Mr. Cooper (Saxon style, designed by Nash, who built Derryloran church), owner of the town. *Lissan*, seat of Sir T. Staples, Bart. There are also some forts and other remains to be seen.

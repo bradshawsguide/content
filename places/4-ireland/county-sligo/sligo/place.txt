@@ -6,4 +6,6 @@ company:
 ----
 route:
 ----
-text: A considerable town, situated at the eastern extremity of Sligo Bay; its population is about 15,000; trade--linen, Hour, &c.; its harbour capacious, and will admit vessels of heavy tonnage. There are some interesting remains of an ancient monastery destroyed by fire in the year 1414, but subsequently repaired.
+desc: A considerable town, situated at the eastern extremity of Sligo Bay; its population is about 15,000; trade--linen, flour, &c.
+----
+text: A considerable town, situated at the eastern extremity of Sligo Bay; its population is about 15,000; trade--linen, flour, &c.; its harbour capacious, and will admit vessels of heavy tonnage. There are some interesting remains of an ancient monastery destroyed by fire in the year 1414, but subsequently repaired.

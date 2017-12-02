@@ -16,4 +16,6 @@ notes:
 - Distance from station, 2½ miles.
 - Telegraph station at Newry, 8½ miles.
 ----
+desc: This is a pretty and fashionable watering place in Carlingford Bay.
+----
 text: This is a pretty and fashionable watering place in Carlingford Bay. It contains remains of *Castle Rory*, built by the Dungannons; a granite obelisk to General Ross, some, salt works, which employ the greater portion of the 690 inhabitants. Close by is *Rostrevor Lodge*, D. Ross, Esq.

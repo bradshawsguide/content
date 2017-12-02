@@ -1,0 +1,11 @@
+section: 2
+----
+title: Newbridge
+----
+company:
+----
+route:
+----
+desc: A telegraph station, and distant 25½ miles from Dublin. A little to the left of the line is the *Curragh Race Course*, the "Newmarket" of Ireland.
+----
+text: A telegraph station, and distant 25½ miles from Dublin. A little to the left of the line is the *Curragh Race Course*, the "Newmarket" of Ireland, on a fine down 6 miles long; also an encampment on a large scale, rendered memorable by the temporary sojourn of the Prince of Wales in the summer of 1861, to acquire a more thorough knowledge of military discipline.

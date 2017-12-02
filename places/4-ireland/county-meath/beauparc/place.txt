@@ -9,4 +9,6 @@ route:
 notes:
 - Telegraph station at Navan, 5 miles.
 ----
+desc: It is here the visitor should make a short stay, if he would enjoy the richest portion of the beautiful scenery of the Boyne.
+----
 text: It is here the visitor should make a short stay, if he would enjoy the richest portion of the beautiful scenery of the Boyne. Passing through the demesne of Gustavus W. Lambert, Esq., a ferry boat awaits the arrival of the tourist to convey him free of charge to Slane Castle, the seat of the Marquis of Conyngham. The scenery on either side of the Boyne between these points is inexpressibly beautiful. On one side run high limestone cliffs covered with vegetation, the effect of which is considerably heightened by their reflection in the waters below. If he choose the tourist may return by road to Drogheda. parsing through *King William's Glen*: it will afford him an opportunity of visiting the scenes of the battle of the Boyne, marked by the obelisk referred to under the head of Drogheda.

@@ -9,4 +9,6 @@ route:
 notes:
 - A telegraph station.
 ----
+desc: This place has a population of 3,673, engaged in the flax trade, and contains remains of an old castle, founded in 1560, ruins of an old church, and raths.
+----
 text: This place has a population of 3,673, engaged in the flax trade, and contains remains of an old castle, founded in 1560, ruins of an old church, and raths. Markets are held here on Thursdays; and Fairs January 1st, February 24th, March 25th, May 12th, July 5th, September 4th, October 26th, and December 12th.

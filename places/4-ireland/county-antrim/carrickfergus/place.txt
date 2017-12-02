@@ -18,6 +18,8 @@ notes:
 - Distance from station, 1 mile.
 - A telegraph station.
 ----
+desc: A seaport, town in the county of Antrim, situated on a bay called Belfast Lough, or Carrickfergus Bay, Its name signifies the Rock of Fergus, from an Irish chieftain Fergus, who was drowned here.
+----
 text: A seaport, town in the county of Antrim, situated on a bay called Belfast Lough, or Carrickfergus Bay, Its name signifies the Rock of Fergus, from an Irish chieftain Fergus, who was drowned here. A castle built by the De Courceys, on the site of this fort, still exists, with its two towers, and walls nine feet thick; it commands the harbour below, in which King William landed in 1689, on his Irish campaign. Parts of the town walls are left.
 
 The town was once the principal seaport of the north of Ireland, but its trade has been for the most part transferred to Belfast; the fishery in the bay employs a great portion of its inhabitants, and many others are occupied in spinning and weaving. It is a principal depot for military purposes. Bishop Tennison was a native. Close at hand are *Thornfield*, P. Kirk, Esq.; *Glynn Park*, Captain Skinner.

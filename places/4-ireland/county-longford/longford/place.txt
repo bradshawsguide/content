@@ -18,4 +18,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This is a small, though the principal, town of the county. It stands on the banks of the river Longford.
+----
 text: This is a small, though the principal, town of the county. It stands on the banks of the river Longford. It obtained considerable celebrity in an early age of history, on account of an Abbey, of which St. John, one of the disciples of St. Patrick, was abbot. The castle of Longford has been the theatre of many interesting historical events, and belongs to the Pakenhams, Lord Longfords, to one of whom the "Iron Duke" was married.

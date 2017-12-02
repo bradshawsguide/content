@@ -19,4 +19,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: A borough and seaport town in the county of Louth, returning one member. It is situated on the banks of a river of the same name, at the mouth of the Irish channel.
+----
 text: A borough and seaport town in the county of Louth, returning one member. It is situated on the banks of a river of the same name, at the mouth of the Irish channel. It is a place of some traffic, from which considerable quantities of corn are annually exported. The manufacture of cambric, which forms part of the trading pursuit of the inhabitants, was first established here in 1737.

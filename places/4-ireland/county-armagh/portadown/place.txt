@@ -17,4 +17,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This town has a population of about 2,560, engaged in the linen trade.
+----
 text: This town has a population of about 2,560, engaged in the linen trade. Here are ruins of a castle given by Charles I. to the Obyns and which belongs to the Duke of Manchester, Close at hand is *Ballyworkan* seat of G. Pepper, Esq.

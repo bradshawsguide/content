@@ -21,4 +21,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This place contains a population of about 9,975, who return one member, and are engaged in the tan and saltworks.
+----
 text: This place contains a population of about 9,975, who return one member, and are engaged in the tan and saltworks. The church, built in 1818, close to the rums of the old edifice, which contains some old tombs. Here are warm springs, similar to those at Clifton in Somersetshire, first used in 1740, by consumptive patients. Close to Aurabella is a viaduct of 515 feet, on 10 arches, and the seat of R, Purcell, Esq., *Dramore*, A.Newman, Esq.; Murphy, the mathematician, was a native. Thence passing Blarney, where Fairs are held September 18th and November 11th, and Blarney Castle, built by The M'Carthy in 1446, and visiting, if time will permit, the Blarney Stone, which has the founder's name upon it, and to kiss which the traveller must be lowered 20 feet, so that, according to the village rhymers, "when having kissed it, nobody can refuse you anything;" and as a satire on which Millikin wrote the song, "The Groves of Blarney, they are so charming." A most beautiful prospect of the adjacent country can be obtained from the Stone.

@@ -15,4 +15,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Situated on the river Quoile, in a valley, at the south-west corner of Strangford Lough, has a population of about 5,000.
+----
 text: Situated on the river Quoile, in a valley, at the south-west corner of Strangford Lough, has a population of about 5,000, and returns one member to parliament. The Cathedral contains the tomb of Lord Kehany; the window at the east end is worth notice.

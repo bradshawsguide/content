@@ -17,4 +17,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Portarlington, returns one member, was formerly called Coltodry, and given by Charles II. to Lord Arlington, who sold it to Sir P. Kout, who forfeited it.
+----
 text: <span class="smcp">Portarlington</span>, returns one member, was formerly called Coltodry, and given by Charles II. to Lord Arlington, who sold it to Sir P. Kout, who forfeited it. William III. gave it to General Renvigny, who built the churches. In one of the schools at this place, the late "Iron Duke," and his brother, the Marquis of Wellesley, were educated.

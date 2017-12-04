@@ -2,8 +2,7 @@ section: 2
 ----
 title: Rhyl to Corwen
 ----
-company:
-- vale-of-clwyd
+company: vale-of-clwyd
 ----
 stops:
 - rhyl

@@ -1,0 +1,68 @@
+section: 2
+----
+title: Dublin to Drogheda
+----
+company: dublin-and-drogheda
+----
+stops:
+- dublin
+- raheny
+- howth-junction
+- portmarnock
+- malahide
+- donabate
+- rush-and-lusk
+- skerries
+- balbriggan
+- gormanston
+- laytown
+- [drogheda, duleek, beauparc, navan, ballybeg, kells, virginia-road, oldcastle]
+----
+text: This line of railway passes along the eastern shores of the northern part of County Dublin, crossing a small portion of that of Meath, by which the varied and interesting coast scenery of those counties is presented to the eye of the traveller. On leaving Dublin the line crosses the Clontarf estuary, from whence is obtained, a remarkably fine view of the Bay of Dublin, with the Wicklow hills and Bray Head in the rear. The estuary is bounded on the north side by the picturesque plains of Clontarf, with *Clontarf Castle* in the centre. The green lanes of this district are a favourite resort of the citizens, and the locality is familiar to every reader of Irish history, as the battle field on which King Brian Bororhime in 1014 achieved a victory over the Danes. The well of Brian Bororhime is still in existence near the castle. At a distance of 3¾ miles from Dublin we come to
+
+[Raheny](/stations/raheny), in the neighbourhood of which are *Raheny House*, J. Sweetman, Esq.; *Raheny Park*; *Killested Abbey*, D. Nugent, Esq.
+
+[Junction](/stations/howth-junction), one mile. Here the
+
+(route: howth-junction-to-howth)
+
+### Dublin and Drogheda Kain Line continued
+Again returning to the junction, a run of two miles brings us to
+
+[Portmarnock](/stations/portmarnock), where are ruins of Rob's Wall Castle, built by the De Birminghams, church at Carrickhill, and two Martello towers. Two and a quarter miles further is
+
+(place: ireland/county-dublin/malahide)
+
+From Malahide the line traverses the harbour on a wooden viaduct of 11 spans, each 50 feet wide, about a mile on the other side of which is
+
+[Donabate](/stations/donabate), a living which, was held by Pilkington, the author of "<cite>Dictionary of Painters</cite>" who was born at the seat of C. Cobbe, Esq., *Newbridge*, in 1730, the collection of pictures at which was selected by him. Close at hand is *Turvey House*, the old seat ofthe Barnewell family (Lord Trimlestown), whose tombs are in the old church.
+
+[Rush and Lusk](/stations/rush-and-lusk).--The former has a pier harbour, defended by a martello tower. *Rush House*, the seat of R. Palmer, Esq., contains a tine gallery of old masters, and many antiquities, especially vases from Pompeii; and the latter place contains the east end of the Abbey Church, with fonts, and effigies of Sir C. Barnewell, W. Dermot, J. Birmingham, square steeple, stone-roofed crypt, with round turrets at three corners, and a round uncapped tower on the fourth; close to which is *Kenmure*, the seat of Sir R. Palmer, Bart., with an old church, with camp and martello towers close at hand.
+
+(place: ireland/county-dublin/skerries)
+
+(place: ireland/county-dublin/balbriggan)
+
+On proceeding a distance of two miles further we enter the county of [Meath](/places/ireland/county-meath).
+
+Having just passed the boundary line dividing the maritime counties of Dublin and Meath, we come at once to the station of
+
+[Gormanston](/stations/gormanston), near which lies *Gormanston Castle*, Viscount Gormanston, and at a distance of three miles further, the little station of [Laytown](/stations/laytown), the village ot which lies a little to our right at the mouth of the Nannywater, immediately the stream is crossed. From this point the line gradually curves to the north-west tor a distance of 5 miles, then crosses the river Boyne, and enters the county of Louth, on the northern banks of which, immediately to our left, stands the town of
+
+(place: ireland/county-louth/drogheda)
+
+The line now recrosses the Boyne, taking a westerly direction for 39 miles further. The first station on leaving Drogheda is
+
+[Duleek], 4½ miles, with its fine stone cross and old church. Fairs are held here on March 25th, May 3rd, June 24th, October 18th. Close at hand are *Drogheda House*, Marquis of Thomond; *Somerville*, Right Hon. Lord Athlumney, M.P.; *Athcarne*, De Batte's seat, and *Plutten*, J. D'Arey's. Seven miles further brings us to the station of
+
+(place: ireland/county-meath/beauparc)
+
+(place: ireland/county-meath/navan)
+
+Then passing [Ballybeg], we arrive at
+
+(place: ireland/county-meath/kells)
+
+[Virginia Road]
+
+**Oldcastle**, a market town on the river Crosswater, deriving its name from a Castle which once occupied the site. Limestone is abundant in the neighbourhood.

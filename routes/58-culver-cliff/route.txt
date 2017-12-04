@@ -22,7 +22,7 @@ distances:
 - location: Hare & Hounds on Arreton Down
   miles: "6¾"
 - location: Motteston Down
-  miles: "16½""
+  miles: "16½"
 - location: Needles Light
   miles: "23½"
 - location: Newport

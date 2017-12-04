@@ -4,8 +4,7 @@ title: Bangor to Carnarvon and Nantlle
 ----
 line: Bangor and Carnarvon Railway
 ----
-company:
-- london-and-north-western
+company: london-and-north-western
 ----
 stops:
 - menai-bridge

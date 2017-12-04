@@ -4,8 +4,7 @@ title: Warrington to Timperley
 ----
 line: Warrington and Stockport Railway
 ----
-company:
-- london-and-north-western
+company: london-and-north-western
 ----
 stops:
 - warrington

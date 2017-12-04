@@ -4,8 +4,7 @@ title: Holyhead to Dublin
 ----
 line: Dublin and Kingstown Railway
 ----
-company:
-- dublin-and-kingstown
+company: dublin-and-kingstown
 ----
 stops:
 - holyhead

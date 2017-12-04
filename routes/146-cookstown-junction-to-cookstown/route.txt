@@ -1,0 +1,24 @@
+section: 2
+----
+title: Cookstown Junction to Cookstown
+----
+line: Cookstown Branch
+----
+company: belfast-and-northern-counties
+----
+stops:
+- cookstown-junction
+- randalstown
+- toome-bridge
+- castledawson
+- magherafelt
+- moneymore
+- cookstown
+----
+text: (place: ireland/county-antrim/randlestown)
+
+(place: ireland/county-antrim/randlestown)
+
+Passing the intermediate stations of [Toome](/stations/toome-bridge), [Castledawson](/stations/castledawson), [Magherafelt](/stations/magherafelt), and [Moneymore](/stations/moneymore), we arrive at the terminus of the branch at
+
+(place: ireland/county-tyrone/cookstown)

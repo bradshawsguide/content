@@ -1,0 +1,50 @@
+section: 2
+----
+title: Belfast to Ballymena and Portrush
+----
+company: belfast-and-northern-counties
+----
+stops:
+- york-road
+- greencastle
+- whitehouse
+- whiteabbey
+- jordanstown
+- carrickfergus-junction
+- [ballynure, ballyclare]
+- dunadry
+- antrim
+- cookstown-junction
+- ballymena
+- bellaghy
+- ballymoney
+- coleraine
+- portstewart
+- portrush
+----
+text: From Belfast we pass the stations of [Greencastle](/stations/greencastle), [Whitehouse](/stations/whitehouse), [Whiteabbey](/stations/whiteabbey), and [Jordanstown](/stations/jordanstown), and arrive at the Junction of the
+
+(route: carrickfergus-junction-to-larne)
+
+### Belfast and Northern Counties Main Line continued
+Returning to [Carrickfergus Junction](/stations/carrickfergus-junction) we pass on to [Ballynure](/stations/ballynure) (here Fairs May 16th, September 5th, and October 25th), [Ballyclare](/stations/ballyclare), and [Dunadry](/stations/dunadry) stations, and soon reach
+
+(place: ireland/county-antrim/antrim)
+
+[Cookstown Junction](/stations/cookstown-junction).
+
+(route: cookstown-junction-to-cookstown)
+
+### Belfast and Northern Counties Main Line continued
+
+(place: ireland/county-antrim/ballymena)
+
+[Bellaghy](/stations/bellaghy).--Monthly cattle fairs are held, and in the vicinity are *Bellaghy House*, J. Hill, Esq., and *Bellaghy Castle*, H. Hunter, Esq.
+
+[Ballymoney](/stations/ballymoney).--Fairs are held on May 6th, July 10th, August 10th, and markets on Thursdays; it has a population of about 4,000, who are engaged in the linen and butter trade. Close at hand are *Leslie Hill*, J. Leslie, Esq., *O'Hara Brook*, C. O'Hara, Esq.
+
+(place: ireland/county-londonderry/coleraine)
+
+Passing: [Portstewart](/stations/portstewart) (a small bathing place, of which Dr. Adam Clarke, the commentator, was a native) and to whom a monument has just been erected, (1859), we arrive at
+
+(place: ireland/county-antrim/portrush)

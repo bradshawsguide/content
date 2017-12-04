@@ -1,0 +1,31 @@
+section: 2
+----
+title: Belfast to Donaghadee and Downpatrick
+----
+company: belfast-and-county-down
+----
+stops:
+- belfast
+- knock
+- dundonald
+- [comber, newtownards, conlig, groomsport, donaghadee]
+- ballygowan
+- saintfield
+- [ballynahinch-junction, ballynahinch]
+- downpatrick
+----
+text: On leaving the station at Belfast we immediately cross the river Lagan, which flows into Belfast Lough, and enter the county [Down](/places/ireland/county-down).
+
+Taking the direction of the river Knock, we pass the station of that name; thence to [Dundonald](/stations/dundonald), and
+
+[Comber](/stations/comber), with its old castle, Druidical remains, and a church, built on the site of an old abbey, Fairs, January 14th, April 5th, June 28th, and October 19th. A branch line runs hence to Donaghadee, a distance of fourteen miles. The first station we arrive at is
+
+(place: ireland/county-down/newtownards)
+
+[Caulig](/stations/conlig), and [Groomsport](/stations/groomsport) stations.
+
+(place: ireland/county-down/donaghadee)
+
+Retracing our steps to the junction at Comber, we pass on, *via* [Ballygowan](/stations/ballygowan) and [Saintfield](/stations/saintfield) to [Ballynahinch Junction](/stations/ballynahinch), the town itself lying at the extremity of a short line to our right, about l½ mile long.
+
+(place: ireland/county-down/downpatrick)

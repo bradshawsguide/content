@@ -4,8 +4,7 @@ title: Conway to Llandudno
 ----
 line: St. George's Harbour
 ----
-company:
-- london-and-north-western
+company: london-and-north-western
 ----
 stops:
 - llandudno-junction

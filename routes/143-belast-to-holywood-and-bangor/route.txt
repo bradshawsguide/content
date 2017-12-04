@@ -1,0 +1,23 @@
+section: 2
+----
+title: Belfast to Holywood and Bangor
+----
+company: belfast-and-county-down
+----
+stops:
+- belfast
+- sydenham-belfast
+- tillysburn
+- holywood
+- cultra
+- craigavad
+- clandeboyd
+- bangor-county-down
+----
+text: This part of the County Down system, after crossing the Largan, runs along the edge of the Lough, through [Sydenham](/stations/sydenham-belfast), <span class="smcp">Glenmachan</span>, and [Tillysburn](/stations/tillysburn), to
+
+(place: ireland/county-down/holywood)
+
+From hence the stations of [Cultra](/stations/cultra), [Craigavad](/stations/craigavad), and [Clandeboyd](/stations/clandeboyd) successively present themselves, and we arrive at the town of
+
+(place: ireland/county-down/bangor)

@@ -4,8 +4,7 @@ title: Chester to Holyhead
 ----
 line: Chester and Holyhead Railway
 ----
-company:
-- london-and-north-western
+company: london-and-north-western
 ----
 stops:
 - chester

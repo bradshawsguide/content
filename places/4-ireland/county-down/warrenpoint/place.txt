@@ -8,7 +8,7 @@ route:
 ----
 info:
 - term: Hotel
-  desc: Royal: new, clean, and comfortable; conducted on English principles.
+  desc: "Royal: new, clean, and comfortable; conducted on English principles."
 - term: Fairs
   desc: Last Friday in every month.
 ----

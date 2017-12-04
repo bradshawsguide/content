@@ -4,8 +4,7 @@ title: Altrincham to Northwich
 ----
 line: Cheshire Midland Railway
 ----
-company:
-- cheshire-lines-committee
+company: cheshire-lines-committee
 ----
 stops:
 - altrincham-and-bowdon

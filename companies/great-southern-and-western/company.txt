@@ -1,5 +1,3 @@
-section: 2
-----
 title: Great Southern and Western Railway
 ----
 links:

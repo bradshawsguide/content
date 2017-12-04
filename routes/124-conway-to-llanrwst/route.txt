@@ -4,8 +4,7 @@ title: Conway to Llanrwst
 ----
 line: Conway and Llanrwst Railway
 ----
-company:
-- london-and-north-western
+company: london-and-north-western
 ----
 stops:
 - llandudno-junction

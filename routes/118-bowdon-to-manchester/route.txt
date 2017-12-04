@@ -4,8 +4,7 @@ title: Bowdon to Altrincham
 ----
 line: Manchester, South Junction and Altrincham Railway
 ----
-company:
-- london-and-north-western
+company: london-and-north-western
 ----
 stops:
 - altrincham-and-bowdon

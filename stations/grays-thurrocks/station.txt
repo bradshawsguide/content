@@ -1,0 +1,21 @@
+uid: grays-thurrocks
+----
+title: Gray’s Thurrocks
+----
+title-today: Grays
+----
+country: england
+----
+region: essex
+----
+place: grays-thurrocks
+----
+wikipedia: Grays_railway_station
+----
+disused: 
+----
+code: GRY
+----
+geolat: 51.476141
+----
+geolng: 0.322129

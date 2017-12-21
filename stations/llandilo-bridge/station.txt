@@ -1,0 +1,21 @@
+uid: llandilo-bridge
+----
+title: Llandilo Bridge
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.875685
+----
+geolng: -3.994309

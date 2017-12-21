@@ -1,0 +1,21 @@
+uid: nailsea
+----
+title: Nailsea
+----
+title-today: Nailsea and Backwell
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Nailsea_and_Backwell_railway_station
+----
+disused: 
+----
+code: NLS
+----
+geolat: 51.419861
+----
+geolng: -2.749922

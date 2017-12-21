@@ -1,0 +1,21 @@
+uid: weston-super-mare
+----
+title: Weston-super-mare
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: weston-super-mare
+----
+wikipedia: Weston-super-Mare_railway_station
+----
+disused: 
+----
+code: WSM
+----
+geolat: 51.344501
+----
+geolng: -2.971236

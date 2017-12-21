@@ -1,0 +1,21 @@
+uid: belfast
+----
+title: Belfast
+----
+title-today: Belfast Great Victoria Street
+----
+country: ireland
+----
+region: county-antrim
+----
+place: belfast
+----
+wikipedia: Belfast_Great_Victoria_Street_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.5942
+----
+geolng: -5.9362

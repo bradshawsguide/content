@@ -1,0 +1,21 @@
+uid: bideford
+----
+title: Bideford
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: bideford
+----
+wikipedia: Bideford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.015614
+----
+geolng: -4.201064

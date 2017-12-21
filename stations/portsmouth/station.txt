@@ -1,0 +1,21 @@
+uid: portsmouth
+----
+title: Portsmouth
+----
+title-today: Portsmouth & Southsea
+----
+country: england
+----
+region: hampshire
+----
+place: portsmouth
+----
+wikipedia: Portsmouth_%26_Southsea_railway_station
+----
+disused: 
+----
+code: PMS
+----
+geolat: 50.79827
+----
+geolng: -1.091114

@@ -1,0 +1,21 @@
+uid: pantydwr
+----
+title: Pantydwr
+----
+title-today: 
+----
+country: wales
+----
+region: radnorshire
+----
+place: 
+----
+wikipedia: Pantydwr_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.361329
+----
+geolng: -3.495627

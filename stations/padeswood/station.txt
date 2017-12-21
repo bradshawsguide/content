@@ -1,0 +1,21 @@
+uid: padeswood
+----
+title: Padeswood
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: padeswood
+----
+wikipedia: Padeswood_and_Buckley_railway_station
+----
+disused: p/padeswood_and_buckley
+----
+code: 
+----
+geolat: 53.153322
+----
+geolng: -3.086343

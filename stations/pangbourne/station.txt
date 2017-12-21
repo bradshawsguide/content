@@ -1,0 +1,21 @@
+uid: pangbourne
+----
+title: Pangbourne
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: pangbourne
+----
+wikipedia: Pangbourne_railway_station
+----
+disused: 
+----
+code: PAN
+----
+geolat: 51.485274
+----
+geolng: -1.090487

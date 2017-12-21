@@ -1,0 +1,21 @@
+uid: faversham
+----
+title: Faversham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: faversham
+----
+wikipedia: Faversham_railway_station
+----
+disused: 
+----
+code: FAV
+----
+geolat: 51.311922
+----
+geolng: 0.891991

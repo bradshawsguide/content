@@ -1,0 +1,21 @@
+uid: resolven
+----
+title: Resolven
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.710567
+----
+geolng: -3.695986

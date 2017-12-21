@@ -1,0 +1,21 @@
+uid: durston-junction
+----
+title: Durston Junction
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: durston-junction
+----
+wikipedia: Disused_railway_stations_on_the_Bristol_to_Exeter_Line#Durston
+----
+disused: 
+----
+code: 
+----
+geolat: 51.050126
+----
+geolng: -2.989481

@@ -1,0 +1,21 @@
+uid: collumpton
+----
+title: Collumpton
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: collumpton
+----
+wikipedia: Disused_railway_stations_on_the_Bristol_to_Exeter_Line#Cullompton
+----
+disused: 
+----
+code: 
+----
+geolat: 50.861686
+----
+geolng: -3.385043

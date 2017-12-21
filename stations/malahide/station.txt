@@ -1,0 +1,21 @@
+uid: malahide
+----
+title: Malahide
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: malahide
+----
+wikipedia: Malahide_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.4508
+----
+geolng: -6.1564

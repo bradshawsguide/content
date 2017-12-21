@@ -1,0 +1,21 @@
+uid: kington
+----
+title: Kington
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: kington
+----
+wikipedia: Kington_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.207265
+----
+geolng: -3.019211

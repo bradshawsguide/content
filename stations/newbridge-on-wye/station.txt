@@ -1,0 +1,21 @@
+uid: newbridge-on-wye
+----
+title: Newbridge-on-Wye
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Newbridge_on_Wye_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.21542
+----
+geolng: -3.443879

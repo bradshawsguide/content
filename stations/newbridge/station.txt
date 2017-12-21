@@ -1,0 +1,21 @@
+uid: newbridge
+----
+title: Newbridge
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Newbridge_railway_station,_Caerphilly
+----
+disused: 
+----
+code: NBE
+----
+geolat: 51.665759
+----
+geolng: -3.142927

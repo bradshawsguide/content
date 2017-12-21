@@ -1,0 +1,21 @@
+uid: llanidloes
+----
+title: Llanidloes
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: llanidloes
+----
+wikipedia: Llanidloes_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.448012
+----
+geolng: -3.536821

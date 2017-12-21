@@ -1,0 +1,21 @@
+uid: grampound-road
+----
+title: Grampound Road
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Disused_railway_stations_on_the_Cornish_Main_Line#Grampound_Road
+----
+disused: 
+----
+code: 
+----
+geolat: 50.3177
+----
+geolng: -4.9287

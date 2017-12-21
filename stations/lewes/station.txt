@@ -1,0 +1,21 @@
+uid: lewes
+----
+title: Lewes
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: lewes
+----
+wikipedia: Lewes_railway_station
+----
+disused: 
+----
+code: LWS
+----
+geolat: 50.870803
+----
+geolng: 0.01175

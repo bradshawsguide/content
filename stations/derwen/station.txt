@@ -1,0 +1,21 @@
+uid: derwen
+----
+title: Derwen
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Derwen_railway_station
+----
+disused: d/derwen
+----
+code: 
+----
+geolat: 53.043332
+----
+geolng: -3.377426

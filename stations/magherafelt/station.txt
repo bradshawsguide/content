@@ -1,0 +1,21 @@
+uid: magherafelt
+----
+title: Magherafelt
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Magherafelt_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.7606
+----
+geolng: -6.605

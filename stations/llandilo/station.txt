@@ -1,0 +1,21 @@
+uid: llandilo
+----
+title: Llandilo
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: llandilo
+----
+wikipedia: Llandeilo_railway_station
+----
+disused: 
+----
+code: LLA
+----
+geolat: 51.885612
+----
+geolng: -3.986902

@@ -1,0 +1,21 @@
+uid: cirencester
+----
+title: Cirencester
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: cirencester
+----
+wikipedia: Cirencester_Town_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.714477
+----
+geolng: -1.971728

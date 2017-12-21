@@ -1,0 +1,21 @@
+uid: newbridge-kildare
+----
+title: Newbridge
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kildare
+----
+place: newbridge
+----
+wikipedia: Newbridge_railway_station_(Ireland)
+----
+disused: 
+----
+code: 
+----
+geolat: 53.1853
+----
+geolng: -6.8083

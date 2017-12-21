@@ -1,0 +1,21 @@
+uid: somerton
+----
+title: Somerton
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Fritwell_%26_Somerton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.956828
+----
+geolng: -1.278892

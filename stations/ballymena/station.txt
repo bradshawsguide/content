@@ -1,0 +1,21 @@
+uid: ballymena
+----
+title: Ballymena
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: ballymena
+----
+wikipedia: Ballymena_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.864167
+----
+geolng: -6.284722

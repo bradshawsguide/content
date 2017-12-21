@@ -1,0 +1,21 @@
+uid: foxrock
+----
+title: Foxrock
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.266947
+----
+geolng: -6.185571

@@ -1,0 +1,21 @@
+uid: lapford
+----
+title: Lapford
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Lapford_railway_station
+----
+disused: 
+----
+code: LAP
+----
+geolat: 50.857
+----
+geolng: -3.81071

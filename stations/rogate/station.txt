@@ -1,0 +1,21 @@
+uid: rogate
+----
+title: Rogate
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Rogate_railway_station
+----
+disused: r/rowfant
+----
+code: 
+----
+geolat: 50.990437
+----
+geolng: -0.855119

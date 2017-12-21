@@ -1,0 +1,21 @@
+uid: bickley
+----
+title: Bickley
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Bickley_railway_station
+----
+disused: 
+----
+code: BKL
+----
+geolat: 51.400103
+----
+geolng: 0.043076

@@ -1,0 +1,21 @@
+uid: whittington
+----
+title: Whittington
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: whittington
+----
+wikipedia: Whittington_Low_Level_railway_station
+----
+disused: w/whittington_low_level
+----
+code: 
+----
+geolat: 52.872626
+----
+geolng: -3.009485

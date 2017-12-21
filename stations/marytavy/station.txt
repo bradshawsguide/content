@@ -1,0 +1,21 @@
+uid: marytavy
+----
+title: Marytavy
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Mary_Tavy_and_Blackdown_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.589386
+----
+geolng: -4.121922

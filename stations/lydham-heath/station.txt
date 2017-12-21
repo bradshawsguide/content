@@ -1,0 +1,21 @@
+uid: lydham-heath
+----
+title: Lydham Heath
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Lydham_Heath_railway_station
+----
+disused: l/lydham_heath
+----
+code: 
+----
+geolat: 52.509795
+----
+geolng: -2.965785

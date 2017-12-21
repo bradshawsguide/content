@@ -1,0 +1,21 @@
+uid: sparkford
+----
+title: Sparkford
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: sparkford
+----
+wikipedia: Sparkford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.036736
+----
+geolng: -2.565074

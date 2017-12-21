@@ -1,0 +1,21 @@
+uid: carrickfergus
+----
+title: Carrickfergus
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: carrickfergus
+----
+wikipedia: Carrickfergus_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.717422
+----
+geolng: -5.809689

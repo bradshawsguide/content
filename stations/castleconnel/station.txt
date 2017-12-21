@@ -1,0 +1,21 @@
+uid: castleconnel
+----
+title: Castleconnel
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: 
+----
+wikipedia: Castleconnell_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.7131
+----
+geolng: -8.4979

@@ -1,0 +1,21 @@
+uid: whimple
+----
+title: Whimple
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Whimple_railway_station
+----
+disused: 
+----
+code: WHM
+----
+geolat: 50.767858
+----
+geolng: -3.354884

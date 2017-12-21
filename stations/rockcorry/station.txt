@@ -1,0 +1,21 @@
+uid: rockcorry
+----
+title: Rockcorry
+----
+title-today: 
+----
+country: ireland
+----
+region: county-monaghan
+----
+place: 
+----
+wikipedia: Rockcorry_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.108677
+----
+geolng: -6.997626

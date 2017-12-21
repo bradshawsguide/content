@@ -1,0 +1,21 @@
+uid: marston
+----
+title: Marston
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Marston_Magna_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.999782
+----
+geolng: -2.571764

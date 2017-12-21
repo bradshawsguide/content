@@ -1,0 +1,21 @@
+uid: sturminster
+----
+title: Sturminster
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Bailey_Gate_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.795491
+----
+geolng: -2.073019

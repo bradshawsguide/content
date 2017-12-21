@@ -1,0 +1,21 @@
+uid: conway
+----
+title: Conway
+----
+title-today: Conwy
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: conway
+----
+wikipedia: Conwy_railway_station
+----
+disused: 
+----
+code: CNW
+----
+geolat: 53.288709
+----
+geolng: -3.84588

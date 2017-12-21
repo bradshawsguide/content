@@ -1,0 +1,21 @@
+uid: llandudno
+----
+title: Llandudno
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: llandudno
+----
+wikipedia: Llandudno_railway_station
+----
+disused: 
+----
+code: LLD
+----
+geolat: 53.320454
+----
+geolng: -3.827732

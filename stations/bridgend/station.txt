@@ -1,0 +1,21 @@
+uid: bridgend
+----
+title: Bridgend
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: bridgend
+----
+wikipedia: Bridgend_railway_station
+----
+disused: 
+----
+code: BGN
+----
+geolat: 51.506986
+----
+geolng: -3.57555

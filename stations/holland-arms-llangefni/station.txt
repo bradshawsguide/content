@@ -1,0 +1,21 @@
+uid: holland-arms-llangefni
+----
+title: Holland Arms Llangefni
+----
+title-today: 
+----
+country: wales
+----
+region: anglesea
+----
+place: 
+----
+wikipedia: Holland_Arms_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.228804
+----
+geolng: -4.292776

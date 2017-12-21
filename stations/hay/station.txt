@@ -1,0 +1,21 @@
+uid: hay
+----
+title: Hay
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: hay
+----
+wikipedia: Hay-on-Wye_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.078626
+----
+geolng: -3.12572

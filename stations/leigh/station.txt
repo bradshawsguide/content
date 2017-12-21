@@ -1,0 +1,21 @@
+uid: leigh
+----
+title: Leigh
+----
+title-today: Leigh-on-Sea
+----
+country: england
+----
+region: essex
+----
+place: leigh
+----
+wikipedia: Leigh-on-Sea_railway_station
+----
+disused: 
+----
+code: LES
+----
+geolat: 51.540928
+----
+geolng: 0.63967

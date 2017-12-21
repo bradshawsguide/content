@@ -1,0 +1,21 @@
+uid: bargoed
+----
+title: Bargoed
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Bargoed_railway_station
+----
+disused: 
+----
+code: BGD
+----
+geolat: 51.692749
+----
+geolng: -3.230415

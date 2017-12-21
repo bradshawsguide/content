@@ -1,0 +1,21 @@
+uid: trefnant
+----
+title: Trefnant
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Trefnant_railway_station
+----
+disused: t/trefnant
+----
+code: 
+----
+geolat: 53.225296
+----
+geolng: -3.422207

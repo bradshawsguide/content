@@ -1,0 +1,21 @@
+uid: cardigan
+----
+title: Cardigan
+----
+title-today: 
+----
+country: wales
+----
+region: cardiganshire
+----
+place: 
+----
+wikipedia: Cardigan_railway_station
+----
+disused: c/cardigan
+----
+code: 
+----
+geolat: 52.081025
+----
+geolng: -4.656744

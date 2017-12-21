@@ -1,0 +1,21 @@
+uid: bromley-by-bow
+----
+title: Bromley-by-Bow
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Bromley-by-Bow_tube_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.524853
+----
+geolng: -0.013884

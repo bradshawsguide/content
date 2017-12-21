@@ -1,0 +1,21 @@
+uid: cwm-avon
+----
+title: Cwm Avon
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.748304
+----
+geolng: -3.061304

@@ -1,0 +1,21 @@
+uid: beragh
+----
+title: Beragh
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Beragh_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.550611
+----
+geolng: -7.154459

@@ -1,0 +1,21 @@
+uid: tetbury-road
+----
+title: Tetbury Road
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: tetbury
+----
+wikipedia: Tetbury_Road_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.687503
+----
+geolng: -2.02816

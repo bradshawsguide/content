@@ -1,0 +1,21 @@
+uid: uxbridge
+----
+title: Uxbridge
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: uxbridge
+----
+wikipedia: Uxbridge_Vine_Street_railway_station
+----
+disused: u/uxbridge_vine_street
+----
+code: 
+----
+geolat: 51.544095
+----
+geolng: -0.479675

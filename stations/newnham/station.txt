@@ -1,0 +1,21 @@
+uid: newnham
+----
+title: Newnham
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: newnham
+----
+wikipedia: Newnham_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.808012
+----
+geolng: -2.453208

@@ -1,0 +1,21 @@
+uid: brixham
+----
+title: Brixham
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: brixham
+----
+wikipedia: Torbay_and_Brixham_Railway#Brixham_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.397619
+----
+geolng: -3.513845

@@ -1,0 +1,21 @@
+uid: fearnall-heath
+----
+title: Fearnall Heath
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: fearnall-heath
+----
+wikipedia: Fernhill_Heath_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.231293
+----
+geolng: -2.191029

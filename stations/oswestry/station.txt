@@ -1,0 +1,21 @@
+uid: oswestry
+----
+title: Oswestry (Cambrian)
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: oswestry
+----
+wikipedia: Oswestry_railway_station
+----
+disused: o/oswestry
+----
+code: 
+----
+geolat: 52.861493
+----
+geolng: -3.049331

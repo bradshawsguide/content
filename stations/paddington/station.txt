@@ -1,0 +1,21 @@
+uid: paddington
+----
+title: Paddington
+----
+title-today: London Paddington
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: London_Paddington_station
+----
+disused: 
+----
+code: PAD
+----
+geolat: 51.516989
+----
+geolng: -0.177117

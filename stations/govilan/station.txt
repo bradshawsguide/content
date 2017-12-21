@@ -1,0 +1,21 @@
+uid: govilan
+----
+title: Govilan
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Govilon_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.815733
+----
+geolng: -3.066929

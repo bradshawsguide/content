@@ -1,0 +1,21 @@
+uid: cavan
+----
+title: Cavan
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cavan
+----
+place: 
+----
+wikipedia: Cavan_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.993903
+----
+geolng: -7.368561

@@ -1,0 +1,21 @@
+uid: ringwood
+----
+title: Ringwood
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: ringwood
+----
+wikipedia: Ringwood_railway_station
+----
+disused: r/ringwood
+----
+code: 
+----
+geolat: 50.842074
+----
+geolng: -1.783358

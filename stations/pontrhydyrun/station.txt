@@ -1,0 +1,21 @@
+uid: pontrhydyrun
+----
+title: Pontrhydyrun Halt
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Pontrhydyrun_Halt_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.668677
+----
+geolng: -3.021535

@@ -1,0 +1,21 @@
+uid: cork
+----
+title: Cork
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: cork
+----
+wikipedia: Cork_railway_stations
+----
+disused: 
+----
+code: 
+----
+geolat: 51.90233
+----
+geolng: -8.46041

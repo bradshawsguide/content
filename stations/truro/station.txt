@@ -1,0 +1,21 @@
+uid: truro
+----
+title: Truro
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: truro
+----
+wikipedia: Truro_railway_station
+----
+disused: 
+----
+code: TRU
+----
+geolat: 50.264103
+----
+geolng: -5.063664

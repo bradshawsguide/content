@@ -1,0 +1,21 @@
+uid: charing-cross
+----
+title: Charing Cross
+----
+title-today: London Charing Cross
+----
+country: england
+----
+region: middlesex
+----
+place: charing-cross
+----
+wikipedia: Charing_Cross_railway_station
+----
+disused: 
+----
+code: CHX
+----
+geolat: 51.507715
+----
+geolng: -0.124026

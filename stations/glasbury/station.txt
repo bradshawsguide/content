@@ -1,0 +1,21 @@
+uid: glasbury
+----
+title: Glasbury
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Glasbury-on-Wye_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.04375
+----
+geolng: -3.197748

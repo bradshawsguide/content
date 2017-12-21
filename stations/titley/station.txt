@@ -1,0 +1,21 @@
+uid: titley
+----
+title: Titley
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Titley_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.217439
+----
+geolng: -2.985777

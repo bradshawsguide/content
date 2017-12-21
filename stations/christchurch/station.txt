@@ -1,0 +1,21 @@
+uid: christchurch
+----
+title: Christchurch
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: christchurch
+----
+wikipedia: Christchurch_(Dorset)_railway_station
+----
+disused: 
+----
+code: CHR
+----
+geolat: 50.738663
+----
+geolng: -1.785252

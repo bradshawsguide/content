@@ -1,0 +1,21 @@
+uid: headcorn
+----
+title: Headcorn
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: headcorn
+----
+wikipedia: Headcorn_railway_station
+----
+disused: 
+----
+code: HCN
+----
+geolat: 51.165279
+----
+geolng: 0.626742

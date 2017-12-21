@@ -1,0 +1,21 @@
+uid: holyhead
+----
+title: Holyhead
+----
+title-today: 
+----
+country: wales
+----
+region: anglesea
+----
+place: holyhead
+----
+wikipedia: Holyhead_railway_station
+----
+disused: 
+----
+code: HHD
+----
+geolat: 53.308114
+----
+geolng: -4.63178

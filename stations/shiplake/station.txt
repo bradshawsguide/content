@@ -1,0 +1,21 @@
+uid: shiplake
+----
+title: Shiplake
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Shiplake_railway_station
+----
+disused: 
+----
+code: SHI
+----
+geolat: 51.511351
+----
+geolng: -0.882461

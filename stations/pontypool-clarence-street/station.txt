@@ -1,0 +1,21 @@
+uid: pontypool-clarence-street
+----
+title: Pontypool Clarence Street
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Pontypool_Clarence_Street_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.6983
+----
+geolng: -3.0362

@@ -1,0 +1,21 @@
+uid: limehouse
+----
+title: Limehouse
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Limehouse_railway_station_(1840-1926)
+----
+disused: l/limehouse
+----
+code: 
+----
+geolat: 51.510475
+----
+geolng: -0.030092

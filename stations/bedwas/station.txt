@@ -1,0 +1,21 @@
+uid: bedwas
+----
+title: Bedwas
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.594594
+----
+geolng: -3.201052

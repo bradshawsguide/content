@@ -1,0 +1,21 @@
+uid: rathkeale
+----
+title: Rathkeale
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.548161
+----
+geolng: -8.935663

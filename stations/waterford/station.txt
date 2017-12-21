@@ -1,0 +1,21 @@
+uid: waterford
+----
+title: Waterford
+----
+title-today: 
+----
+country: ireland
+----
+region: county-waterford
+----
+place: waterford
+----
+wikipedia: Waterford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.266
+----
+geolng: -7.117

@@ -1,0 +1,21 @@
+uid: ballyclare
+----
+title: Ballyclare
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Ballyclare_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.75118
+----
+geolng: -5.998535

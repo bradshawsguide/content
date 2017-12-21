@@ -1,0 +1,21 @@
+uid: wiley
+----
+title: Wiley
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: wiley
+----
+wikipedia: Wylye_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.136608
+----
+geolng: -1.990927

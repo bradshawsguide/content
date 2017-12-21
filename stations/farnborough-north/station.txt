@@ -1,0 +1,21 @@
+uid: farnborough-north
+----
+title: Farnborough
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Farnborough_North_railway_station
+----
+disused: 
+----
+code: FNN
+----
+geolat: 51.302219
+----
+geolng: -0.742663

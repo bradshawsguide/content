@@ -1,0 +1,21 @@
+uid: ascott
+----
+title: Ascott
+----
+title-today: Ascott-under-Wychwood
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Ascott-under-Wychwood_railway_station
+----
+disused: 
+----
+code: AUW
+----
+geolat: 51.867418
+----
+geolng: -1.563529

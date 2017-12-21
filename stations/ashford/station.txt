@@ -1,0 +1,21 @@
+uid: ashford
+----
+title: Ashford
+----
+title-today: Ashford International
+----
+country: england
+----
+region: kent
+----
+place: ashford
+----
+wikipedia: Ashford_International_railway_station
+----
+disused: 
+----
+code: AFK
+----
+geolat: 51.143265
+----
+geolng: 0.874283

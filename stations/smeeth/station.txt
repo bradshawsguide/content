@@ -1,0 +1,21 @@
+uid: smeeth
+----
+title: Smeeth
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Smeeth_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.107147
+----
+geolng: 0.952051

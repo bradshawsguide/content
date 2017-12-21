@@ -1,0 +1,21 @@
+uid: thurles
+----
+title: Thurles
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tipperary
+----
+place: thurles
+----
+wikipedia: Thurles_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.676389
+----
+geolng: -7.821944

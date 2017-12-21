@@ -1,0 +1,21 @@
+uid: staplehurst
+----
+title: Staplehurst
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: staplehurst
+----
+wikipedia: Staplehurst_railway_station
+----
+disused: 
+----
+code: SPU
+----
+geolat: 51.171479
+----
+geolng: 0.549838

@@ -1,0 +1,21 @@
+uid: eynsford
+----
+title: Eynsford
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Eynsford_railway_station
+----
+disused: 
+----
+code: EYN
+----
+geolat: 51.362866
+----
+geolng: 0.204185

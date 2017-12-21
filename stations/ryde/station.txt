@@ -1,0 +1,21 @@
+uid: ryde
+----
+title: Ryde
+----
+title-today: Ryde St. John’s Road
+----
+country: england
+----
+region: isle-of-wight
+----
+place: ryde
+----
+wikipedia: Ryde_St_John%27s_Road_railway_station
+----
+disused: 
+----
+code: RYR
+----
+geolat: 50.72412
+----
+geolng: -1.156302

@@ -1,0 +1,21 @@
+uid: ashford-middlesex
+----
+title: Ashford (Middlesex)
+----
+title-today: Ashford
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Ashford_(Surrey)_railway_station
+----
+disused: 
+----
+code: AFS
+----
+geolat: 51.436538
+----
+geolng: -0.468502

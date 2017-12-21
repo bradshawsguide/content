@@ -1,0 +1,21 @@
+uid: longford
+----
+title: Longford
+----
+title-today: 
+----
+country: ireland
+----
+region: county-longford
+----
+place: longford
+----
+wikipedia: Longford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.7245
+----
+geolng: -7.795

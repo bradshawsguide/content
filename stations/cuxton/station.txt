@@ -1,0 +1,21 @@
+uid: cuxton
+----
+title: Cuxton, or Cuckstone
+----
+title-today: Cuxton
+----
+country: england
+----
+region: kent
+----
+place: cuxton
+----
+wikipedia: Cuxton_railway_station
+----
+disused: 
+----
+code: CUX
+----
+geolat: 51.37392
+----
+geolng: 0.461924

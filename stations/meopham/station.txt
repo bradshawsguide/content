@@ -1,0 +1,21 @@
+uid: meopham
+----
+title: Meopham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Meopham_railway_station
+----
+disused: 
+----
+code: MEP
+----
+geolat: 51.385987
+----
+geolng: 0.356211

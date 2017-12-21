@@ -1,0 +1,21 @@
+uid: wells
+----
+title: Wells
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: wells
+----
+wikipedia: Wells_(Priory_Road)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.205541
+----
+geolng: -2.651961

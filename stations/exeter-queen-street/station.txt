@@ -1,0 +1,21 @@
+uid: exeter-queen-street
+----
+title: Exeter Queen Street
+----
+title-today: Exeter Central
+----
+country: england
+----
+region: devonshire
+----
+place: exeter
+----
+wikipedia: Exeter_Central_railway_station
+----
+disused: 
+----
+code: EXC
+----
+geolat: 50.726972
+----
+geolng: -3.533647

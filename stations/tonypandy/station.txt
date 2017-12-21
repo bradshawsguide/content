@@ -1,0 +1,21 @@
+uid: tonypandy
+----
+title: Pandy
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Tonypandy_railway_station
+----
+disused: 
+----
+code: TNP
+----
+geolat: 51.620113
+----
+geolng: -3.449458

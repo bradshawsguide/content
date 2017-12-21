@@ -1,0 +1,21 @@
+uid: llangadock
+----
+title: Llangadock
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: llangadock
+----
+wikipedia: Llangadog_railway_station
+----
+disused: 
+----
+code: LLG
+----
+geolat: 51.940209
+----
+geolng: -3.893292

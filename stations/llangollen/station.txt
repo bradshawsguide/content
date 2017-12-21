@@ -1,0 +1,21 @@
+uid: llangollen
+----
+title: Llangollen
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: llangollen
+----
+wikipedia: Llangollen_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.970928
+----
+geolng: -3.17111

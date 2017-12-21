@@ -1,0 +1,21 @@
+uid: dalston
+----
+title: Dalston
+----
+title-today: Dalston Junction
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Dalston_Junction_railway_station
+----
+disused: d/dalston_junction
+----
+code: DLJ
+----
+geolat: 51.546132
+----
+geolng: -0.077314

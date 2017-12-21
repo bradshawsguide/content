@@ -1,0 +1,21 @@
+uid: bow-street
+----
+title: Bow Street
+----
+title-today: 
+----
+country: wales
+----
+region: cardiganshire
+----
+place: 
+----
+wikipedia: Bow_Street_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.44012
+----
+geolng: -4.030155

@@ -1,0 +1,21 @@
+uid: athelney
+----
+title: Athelney
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Yeovil–Taunton_line#Athelney
+----
+disused: 
+----
+code: 
+----
+geolat: 51.053066
+----
+geolng: -2.936708

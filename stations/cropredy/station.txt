@@ -1,0 +1,21 @@
+uid: cropredy
+----
+title: Cropredy
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Cropredy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.112622
+----
+geolng: -1.321652

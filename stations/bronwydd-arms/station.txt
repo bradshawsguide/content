@@ -1,0 +1,21 @@
+uid: bronwydd-arms
+----
+title: Bronwydd Arms
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Bronwydd_Arms_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.891575
+----
+geolng: -4.301087

@@ -1,0 +1,21 @@
+uid: ealing
+----
+title: Ealing
+----
+title-today: Ealing Broadway
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Ealing_Broadway_station
+----
+disused: 
+----
+code: EAL
+----
+geolat: 51.514857
+----
+geolng: -0.301679

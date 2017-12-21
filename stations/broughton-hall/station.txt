@@ -1,0 +1,21 @@
+uid: broughton-hall
+----
+title: Broughton Hall
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: 
+----
+wikipedia: Broughton_%26_Bretton_railway_station
+----
+disused: b/broughton_and_bretton
+----
+code: 
+----
+geolat: 53.171356
+----
+geolng: -2.976092

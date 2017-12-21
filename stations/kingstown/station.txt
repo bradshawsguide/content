@@ -1,0 +1,21 @@
+uid: kingstown
+----
+title: Kingstown
+----
+title-today: Dún Laoghaire
+----
+country: ireland
+----
+region: county-dublin
+----
+place: kingstown
+----
+wikipedia: Dún_Laoghaire_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.2949
+----
+geolng: -6.1345

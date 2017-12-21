@@ -1,0 +1,21 @@
+uid: buttington
+----
+title: Buttington
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Buttington_railway_station
+----
+disused: b/buttington
+----
+code: 
+----
+geolat: 52.683103
+----
+geolng: -3.092387

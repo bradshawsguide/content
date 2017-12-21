@@ -1,0 +1,21 @@
+uid: hadley
+----
+title: Hadley
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Hadley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.706918
+----
+geolng: -2.486151

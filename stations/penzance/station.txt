@@ -1,0 +1,21 @@
+uid: penzance
+----
+title: Penzance
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: penzance
+----
+wikipedia: Penzance_railway_station
+----
+disused: 
+----
+code: PNZ
+----
+geolat: 50.122113
+----
+geolng: -5.533129

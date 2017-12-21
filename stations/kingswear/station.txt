@@ -1,0 +1,21 @@
+uid: kingswear
+----
+title: Kingswear
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Kingswear_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.34871
+----
+geolng: -3.573431

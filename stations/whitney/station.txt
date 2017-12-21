@@ -1,0 +1,21 @@
+uid: whitney
+----
+title: Whitney
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Whitney-on-Wye_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.12225
+----
+geolng: -3.075696

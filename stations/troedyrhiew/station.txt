@@ -1,0 +1,21 @@
+uid: troedyrhiew
+----
+title: Troedyrhiew
+----
+title-today: Troed-y-rhiw
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Troed-y-rhiw_railway_station
+----
+disused: 
+----
+code: TRD
+----
+geolat: 51.712154
+----
+geolng: -3.346736

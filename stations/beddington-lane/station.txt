@@ -1,0 +1,21 @@
+uid: beddington-lane
+----
+title: Beddington Lane
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Beddington_Lane_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.38961
+----
+geolng: -0.14199

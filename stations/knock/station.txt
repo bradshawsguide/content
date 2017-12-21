@@ -1,0 +1,21 @@
+uid: knock
+----
+title: Knock
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Knock_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.590578
+----
+geolng: -5.855541

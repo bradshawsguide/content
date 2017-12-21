@@ -1,0 +1,21 @@
+uid: cardiff
+----
+title: Cardiff
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: cardiff
+----
+wikipedia: Cardiff_Central_railway_station
+----
+disused: 
+----
+code: CDF
+----
+geolat: 51.475667
+----
+geolng: -3.179926

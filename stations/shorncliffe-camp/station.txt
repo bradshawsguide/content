@@ -1,0 +1,21 @@
+uid: shorncliffe-camp
+----
+title: Shorncliffe Camp
+----
+title-today: Folkestone West
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Folkestone_West_railway_station
+----
+disused: 
+----
+code: FKW
+----
+geolat: 51.084795
+----
+geolng: 1.153418

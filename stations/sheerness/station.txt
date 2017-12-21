@@ -1,0 +1,21 @@
+uid: sheerness
+----
+title: Sheerness
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: 
+----
+disused: s/sheerness_dockyard
+----
+code: 
+----
+geolat: 51.439918
+----
+geolng: 0.749686

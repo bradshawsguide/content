@@ -1,0 +1,21 @@
+uid: farranfore
+----
+title: Farranfore
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kerry
+----
+place: 
+----
+wikipedia: Farranfore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.1737
+----
+geolng: -9.552043

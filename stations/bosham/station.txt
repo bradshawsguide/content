@@ -1,0 +1,21 @@
+uid: bosham
+----
+title: Bosham
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Bosham_railway_station
+----
+disused: 
+----
+code: BOH
+----
+geolat: 50.84288
+----
+geolng: -0.847371

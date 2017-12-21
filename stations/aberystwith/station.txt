@@ -1,0 +1,21 @@
+uid: aberystwith
+----
+title: Aberystwith
+----
+title-today: 
+----
+country: wales
+----
+region: cardiganshire
+----
+place: aberystwith
+----
+wikipedia: Aberystwyth_railway_station
+----
+disused: 
+----
+code: AYW
+----
+geolat: 52.413607
+----
+geolng: -4.081138

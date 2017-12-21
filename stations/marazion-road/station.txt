@@ -1,0 +1,21 @@
+uid: marazion-road
+----
+title: Marazion Road
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Disused_railway_stations_on_the_Cornish_Main_Line#Marazion
+----
+disused: 
+----
+code: 
+----
+geolat: 50.1292
+----
+geolng: -5.4919

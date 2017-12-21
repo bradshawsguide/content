@@ -1,0 +1,21 @@
+uid: shillelagh
+----
+title: Shillelagh
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.75586
+----
+geolng: -6.533302

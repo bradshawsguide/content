@@ -1,0 +1,21 @@
+uid: thelwall
+----
+title: Thelwall
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Thelwall_railway_station
+----
+disused: t/thelwall
+----
+code: 
+----
+geolat: 53.380069
+----
+geolng: -2.519344

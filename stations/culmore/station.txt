@@ -1,0 +1,21 @@
+uid: culmore
+----
+title: Culmore
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Culmore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.0441
+----
+geolng: -7.2518

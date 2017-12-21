@@ -1,0 +1,21 @@
+uid: brent
+----
+title: Brent
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Disused_railway_stations_on_the_Exeter_to_Plymouth_Line#Brent
+----
+disused: 
+----
+code: 
+----
+geolat: 50.428
+----
+geolng: -3.8345

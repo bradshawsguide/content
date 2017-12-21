@@ -1,0 +1,21 @@
+uid: culham
+----
+title: Culham
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: culham
+----
+wikipedia: Culham_railway_station
+----
+disused: 
+----
+code: CUM
+----
+geolat: 51.654454
+----
+geolng: -1.235997

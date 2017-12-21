@@ -1,0 +1,21 @@
+uid: avonmouth
+----
+title: Avonmouth
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: 
+----
+wikipedia: Avonmouth_railway_station
+----
+disused: 
+----
+code: AVN
+----
+geolat: 51.500199
+----
+geolng: -2.699377

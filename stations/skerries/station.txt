@@ -1,0 +1,21 @@
+uid: skerries
+----
+title: Skerries
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: skerries
+----
+wikipedia: Skerries_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.574
+----
+geolng: -6.119

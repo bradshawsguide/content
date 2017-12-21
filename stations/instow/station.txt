@@ -1,0 +1,21 @@
+uid: instow
+----
+title: Instow
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Instow#Instow_Railway_Station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.048908
+----
+geolng: -4.179204

@@ -1,0 +1,21 @@
+uid: princes-end
+----
+title: Prince's End
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Princes_End_and_Coseley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.541583
+----
+geolng: -2.072943

@@ -1,0 +1,21 @@
+uid: aynho
+----
+title: Aynho
+----
+title-today: 
+----
+country: england
+----
+region: northamptonshire
+----
+place: 
+----
+wikipedia: Aynho_for_Deddington_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.988275
+----
+geolng: -1.275475

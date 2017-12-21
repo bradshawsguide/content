@@ -1,0 +1,21 @@
+uid: cookham
+----
+title: Cookham
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Cookham_railway_station
+----
+disused: 
+----
+code: COO
+----
+geolat: 51.557377
+----
+geolng: -0.722658

@@ -1,0 +1,21 @@
+uid: woolhampton
+----
+title: Woolhampton
+----
+title-today: Midgham
+----
+country: england
+----
+region: berkshire
+----
+place: woolhampton
+----
+wikipedia: Midgham_railway_station
+----
+disused: 
+----
+code: MDG
+----
+geolat: 51.396006
+----
+geolng: -1.178501

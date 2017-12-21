@@ -1,0 +1,21 @@
+uid: peckham-rye
+----
+title: Peckham Rye
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Peckham_Rye_railway_station
+----
+disused: 
+----
+code: PMR
+----
+geolat: 51.469431
+----
+geolng: -0.072856

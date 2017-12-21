@@ -1,0 +1,21 @@
+uid: basingstoke
+----
+title: Basingstoke
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: basingstoke
+----
+wikipedia: Basingstoke_railway_station
+----
+disused: 
+----
+code: BSK
+----
+geolat: 51.268547
+----
+geolng: -1.087604

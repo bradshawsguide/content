@@ -1,0 +1,21 @@
+uid: thatcham
+----
+title: Thatcham
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Thatcham_railway_station
+----
+disused: 
+----
+code: THA
+----
+geolat: 51.393735
+----
+geolng: -1.241783

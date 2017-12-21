@@ -1,0 +1,21 @@
+uid: porthall
+----
+title: Porthall
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Porthall_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.871198
+----
+geolng: -7.457062

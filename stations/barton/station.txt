@@ -1,0 +1,21 @@
+uid: barton
+----
+title: Barton
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Barton_and_Walton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.761467
+----
+geolng: -1.696912

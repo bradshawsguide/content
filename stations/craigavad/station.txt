@@ -1,0 +1,21 @@
+uid: craigavad
+----
+title: Craigavad
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 54.655522
+----
+geolng: -5.792261

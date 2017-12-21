@@ -1,0 +1,21 @@
+uid: shortlands
+----
+title: Shortlands
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Shortlands_railway_station
+----
+disused: 
+----
+code: SRT
+----
+geolat: 51.405803
+----
+geolng: -0.000384

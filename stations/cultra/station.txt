@@ -1,0 +1,21 @@
+uid: cultra
+----
+title: Cultra
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Cultra_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.6523
+----
+geolng: -5.805

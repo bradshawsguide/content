@@ -1,0 +1,21 @@
+uid: dolygaer
+----
+title: Dolygaer
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Dolygaer_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.82158
+----
+geolng: -3.370311

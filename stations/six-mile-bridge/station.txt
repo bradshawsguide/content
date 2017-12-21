@@ -1,0 +1,21 @@
+uid: six-mile-bridge
+----
+title: Six Mile Bridge
+----
+title-today: Sixmilebridge
+----
+country: ireland
+----
+region: county-clare
+----
+place: 
+----
+wikipedia: Sixmilebridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.7378
+----
+geolng: -8.7842

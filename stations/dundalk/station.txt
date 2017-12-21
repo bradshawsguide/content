@@ -1,0 +1,21 @@
+uid: dundalk
+----
+title: Dundalk
+----
+title-today: Dundalk Clarke
+----
+country: ireland
+----
+region: county-louth
+----
+place: 
+----
+wikipedia: Dundalk_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.001026
+----
+geolng: -6.412895

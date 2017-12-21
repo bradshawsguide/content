@@ -1,0 +1,21 @@
+uid: aber
+----
+title: Aber
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: 
+----
+wikipedia: Aber_(LNWR)_railway_station
+----
+disused: a/aber
+----
+code: 
+----
+geolat: 53.239076
+----
+geolng: -4.023571

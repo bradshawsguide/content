@@ -1,0 +1,21 @@
+uid: edington
+----
+title: Edington
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Edington_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.181638
+----
+geolng: -2.87052

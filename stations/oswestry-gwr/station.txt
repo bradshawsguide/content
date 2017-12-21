@@ -1,0 +1,21 @@
+uid: oswestry-gwr
+----
+title: Oswestry (GWR)
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: oswestry
+----
+wikipedia: Oswestry_railway_station
+----
+disused: o/oswestry_gwr
+----
+code: 
+----
+geolat: 52.861936
+----
+geolng: -3.050085

@@ -1,0 +1,21 @@
+uid: eaton
+----
+title: Eaton
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Eaton_railway_station
+----
+disused: e/eaton
+----
+code: 
+----
+geolat: 52.502046
+----
+geolng: -2.922893

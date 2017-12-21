@@ -1,0 +1,21 @@
+uid: dover
+----
+title: Dover
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: dover
+----
+wikipedia: List_of_railway_stations_in_Dover
+----
+disused: d/dover_harbour
+----
+code: 
+----
+geolat: 51.116916
+----
+geolng: 1.3092396

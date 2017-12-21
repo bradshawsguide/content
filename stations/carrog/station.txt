@@ -1,0 +1,21 @@
+uid: carrog
+----
+title: Carrog
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Carrog_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.981999
+----
+geolng: -3.315892

@@ -1,0 +1,21 @@
+uid: dolau
+----
+title: Dolau
+----
+title-today: 
+----
+country: wales
+----
+region: radnorshire
+----
+place: 
+----
+wikipedia: Dolau_railway_station
+----
+disused: 
+----
+code: DOL
+----
+geolat: 52.294814
+----
+geolng: -3.263165

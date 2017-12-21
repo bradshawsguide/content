@@ -1,0 +1,21 @@
+uid: blackwater
+----
+title: Blackwater
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: blackwater
+----
+wikipedia: Blackwater_railway_station
+----
+disused: 
+----
+code: BAW
+----
+geolat: 51.331351
+----
+geolng: -0.776316

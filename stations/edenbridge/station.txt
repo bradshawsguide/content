@@ -1,0 +1,21 @@
+uid: edenbridge
+----
+title: Edenbridge
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: edenbridge
+----
+wikipedia: Edenbridge_railway_station
+----
+disused: 
+----
+code: EBR
+----
+geolat: 51.208099
+----
+geolng: 0.060774

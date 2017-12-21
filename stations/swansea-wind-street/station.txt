@@ -1,0 +1,21 @@
+uid: swansea-wind-street
+----
+title: Swansea Wind Street
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: swansea
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.619039
+----
+geolng: -3.938237

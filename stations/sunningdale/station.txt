@@ -1,0 +1,21 @@
+uid: sunningdale
+----
+title: Sunningdale
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Sunningdale_railway_station
+----
+disused: 
+----
+code: SNG
+----
+geolat: 51.391805
+----
+geolng: -0.632412

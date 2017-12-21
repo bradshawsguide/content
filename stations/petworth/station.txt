@@ -1,0 +1,21 @@
+uid: petworth
+----
+title: Petworth
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: petworth
+----
+wikipedia: Petworth_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.963626
+----
+geolng: -0.620813

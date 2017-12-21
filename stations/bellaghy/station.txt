@@ -1,0 +1,21 @@
+uid: bellaghy
+----
+title: Bellaghy
+----
+title-today: Killagan
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Killagan_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.9841
+----
+geolng: -6.3685

@@ -1,0 +1,21 @@
+uid: castlefinn
+----
+title: Castlefinn
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Castlefinn_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.800326
+----
+geolng: -7.59441

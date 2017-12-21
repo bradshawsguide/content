@@ -1,0 +1,21 @@
+uid: falmouth
+----
+title: Falmouth
+----
+title-today: Falmouth Docks
+----
+country: england
+----
+region: cornwall
+----
+place: falmouth
+----
+wikipedia: Falmouth_Docks_railway_station
+----
+disused: 
+----
+code: FAL
+----
+geolat: 50.150947
+----
+geolng: -5.056421

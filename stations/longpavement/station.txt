@@ -1,0 +1,21 @@
+uid: longpavement
+----
+title: Longpavement
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.681524
+----
+geolng: -8.634586

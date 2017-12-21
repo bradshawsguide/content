@@ -1,0 +1,21 @@
+uid: southwater
+----
+title: Southwater
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Southwater_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.024877
+----
+geolng: -0.350919

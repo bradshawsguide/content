@@ -1,0 +1,21 @@
+uid: selling
+----
+title: Selling
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Selling_railway_station
+----
+disused: 
+----
+code: SEG
+----
+geolat: 51.277211
+----
+geolng: 0.941106

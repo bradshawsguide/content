@@ -1,0 +1,21 @@
+uid: sutton-bingham
+----
+title: Sutton Bingham
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 50.901203
+----
+geolng: -2.642722

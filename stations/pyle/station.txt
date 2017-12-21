@@ -1,0 +1,21 @@
+uid: pyle
+----
+title: Pyle
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Pyle_railway_station
+----
+disused: 
+----
+code: PYL
+----
+geolat: 51.52507
+----
+geolng: -3.697263

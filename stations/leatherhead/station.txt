@@ -1,0 +1,21 @@
+uid: leatherhead
+----
+title: Leatherhead
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: leatherhead
+----
+wikipedia: Leatherhead_railway_station
+----
+disused: 
+----
+code: LHD
+----
+geolat: 51.298896
+----
+geolng: -0.332512

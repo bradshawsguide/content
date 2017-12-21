@@ -1,0 +1,21 @@
+uid: landore
+----
+title: Landore
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: landore
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.64307
+----
+geolng: -3.939741

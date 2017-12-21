@@ -1,0 +1,21 @@
+uid: reigate-town
+----
+title: Reigate Town
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: reigate
+----
+wikipedia: Reigate_railway_station
+----
+disused: 
+----
+code: REI
+----
+geolat: 51.242142
+----
+geolng: -0.20419

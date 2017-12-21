@@ -1,0 +1,21 @@
+uid: brentford
+----
+title: Brentford
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: brentford
+----
+wikipedia: Brentford_railway_station
+----
+disused: 
+----
+code: BFD
+----
+geolat: 51.487536
+----
+geolng: -0.309623

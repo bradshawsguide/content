@@ -1,0 +1,21 @@
+uid: ironbridge
+----
+title: Ironbridge
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Ironbridge_and_Broseley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.626913
+----
+geolng: -2.485263

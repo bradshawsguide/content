@@ -1,0 +1,21 @@
+uid: ffairfach
+----
+title: Ffairfach
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Ffairfach_railway_station
+----
+disused: 
+----
+code: FFA
+----
+geolat: 51.872934
+----
+geolng: -3.992153

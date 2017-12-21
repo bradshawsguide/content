@@ -1,0 +1,21 @@
+uid: nantybwch
+----
+title: Tredegar (Nantybwch)
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Nantybwch_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.787694
+----
+geolng: -3.264894

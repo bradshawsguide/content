@@ -1,0 +1,21 @@
+uid: clare-castle
+----
+title: Clare Castle
+----
+title-today: 
+----
+country: ireland
+----
+region: county-clare
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.818684
+----
+geolng: -8.954825

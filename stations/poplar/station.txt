@@ -1,0 +1,21 @@
+uid: poplar
+----
+title: Poplar
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Poplar_railway_station
+----
+disused: p/poplar/index1.shtml
+----
+code: 
+----
+geolat: 51.507827
+----
+geolng: -0.006428

@@ -1,0 +1,21 @@
+uid: weybridge
+----
+title: Weybridge
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: weybridge
+----
+wikipedia: Weybridge_railway_station
+----
+disused: 
+----
+code: WYB
+----
+geolat: 51.361765
+----
+geolng: -0.458069

@@ -1,0 +1,21 @@
+uid: whitchurch
+----
+title: Whitchurch
+----
+title-today: Whitchurch (Hants)
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Whitchurch_(Hants)_railway_station
+----
+disused: 
+----
+code: WCH
+----
+geolat: 51.237856
+----
+geolng: -1.337456

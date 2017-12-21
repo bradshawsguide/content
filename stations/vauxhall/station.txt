@@ -1,0 +1,21 @@
+uid: vauxhall
+----
+title: Vauxhall
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: vauxhall
+----
+wikipedia: Vauxhall_station_(London)
+----
+disused: 
+----
+code: VXH
+----
+geolat: 51.485874
+----
+geolng: -0.122902

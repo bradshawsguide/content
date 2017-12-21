@@ -1,0 +1,21 @@
+uid: ennis
+----
+title: Ennis
+----
+title-today: 
+----
+country: ireland
+----
+region: county-ennis
+----
+place: 
+----
+wikipedia: Ennis_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.838889
+----
+geolng: -8.975278

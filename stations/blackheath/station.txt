@@ -1,0 +1,21 @@
+uid: blackheath
+----
+title: Blackheath
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: blackheath
+----
+wikipedia: Blackheath_railway_station
+----
+disused: 
+----
+code: BKH
+----
+geolat: 51.46568
+----
+geolng: 0.008752

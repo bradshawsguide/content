@@ -1,0 +1,21 @@
+uid: plaistow
+----
+title: Plaistow
+----
+title-today: 
+----
+country: england
+----
+region: essex
+----
+place: 
+----
+wikipedia: Plaistow_tube_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.531233
+----
+geolng: 0.015693

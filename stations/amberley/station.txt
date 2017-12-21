@@ -1,0 +1,21 @@
+uid: amberley
+----
+title: Amberley
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Amberley_railway_station
+----
+disused: 
+----
+code: AMY
+----
+geolat: 50.897017
+----
+geolng: -0.541726

@@ -1,0 +1,21 @@
+uid: elephant-and-castle
+----
+title: Elephant and Castle
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Elephant_%26_Castle_railway_station
+----
+disused: 
+----
+code: EPH
+----
+geolat: 51.495065
+----
+geolng: -0.100991

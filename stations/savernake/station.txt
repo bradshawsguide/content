@@ -1,0 +1,21 @@
+uid: savernake
+----
+title: Savernake
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Savernake_Low_Level_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.367824
+----
+geolng: -1.661663

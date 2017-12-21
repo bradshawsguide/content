@@ -1,0 +1,21 @@
+uid: bonchurch
+----
+title: Bonchurch
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: bonchurch
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 50.599545
+----
+geolng: -1.181629

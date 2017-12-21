@@ -1,0 +1,21 @@
+uid: clydach
+----
+title: Clydach
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Clydach_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.808083
+----
+geolng: -3.116064

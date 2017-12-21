@@ -1,0 +1,21 @@
+uid: poyntzpass
+----
+title: Poyntzpass
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Poyntzpass_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.2924
+----
+geolng: -6.372

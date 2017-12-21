@@ -1,0 +1,21 @@
+uid: penryn
+----
+title: Penryn
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Penryn_railway_station
+----
+disused: 
+----
+code: PYN
+----
+geolat: 50.17019
+----
+geolng: -5.110873

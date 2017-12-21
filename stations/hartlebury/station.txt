@@ -1,0 +1,21 @@
+uid: hartlebury
+----
+title: Hartlebury
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: hartlebury
+----
+wikipedia: Hartlebury_railway_station
+----
+disused: 
+----
+code: HBY
+----
+geolat: 52.334629
+----
+geolng: -2.220826

@@ -1,0 +1,21 @@
+uid: hailsham
+----
+title: Hailsham
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: hailsham
+----
+wikipedia: Hailsham_railway_station
+----
+disused: h/hailsham
+----
+code: 
+----
+geolat: 50.861816
+----
+geolng: 0.257207

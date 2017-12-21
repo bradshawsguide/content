@@ -1,0 +1,21 @@
+uid: walcot
+----
+title: Walcot
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Walcot_railway_station
+----
+disused: w/walcot
+----
+code: 
+----
+geolat: 52.702793
+----
+geolng: -2.601538

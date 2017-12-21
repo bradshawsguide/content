@@ -1,0 +1,21 @@
+uid: manorbeer
+----
+title: Manorbeer
+----
+title-today: Manorbier
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: 
+----
+wikipedia: Manorbier_railway_station
+----
+disused: 
+----
+code: MRB
+----
+geolat: 51.660588
+----
+geolng: -4.79258

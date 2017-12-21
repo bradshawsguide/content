@@ -1,0 +1,21 @@
+uid: bishops-waltham
+----
+title: Bishop's Waltham
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: bishops-waltham
+----
+wikipedia: 
+----
+disused: b/bishops_waltham
+----
+code: 
+----
+geolat: 50.954759
+----
+geolng: -1.217625

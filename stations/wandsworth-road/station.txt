@@ -1,0 +1,21 @@
+uid: wandsworth-road
+----
+title: Wandsworth Road
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Wandsworth_Road_railway_station
+----
+disused: 
+----
+code: WWR
+----
+geolat: 51.470218
+----
+geolng: -0.141937

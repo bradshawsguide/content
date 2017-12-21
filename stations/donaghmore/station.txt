@@ -1,0 +1,21 @@
+uid: donaghmore
+----
+title: Donaghmore
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Donaghmore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.525918
+----
+geolng: -6.820349

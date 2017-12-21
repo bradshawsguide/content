@@ -1,0 +1,21 @@
+uid: killarney
+----
+title: Killarney
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kerry
+----
+place: killarney
+----
+wikipedia: Killarney_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.059296
+----
+geolng: -9.501682

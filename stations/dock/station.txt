@@ -1,0 +1,21 @@
+uid: dock
+----
+title: Dock
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.67522
+----
+geolng: -4.17322

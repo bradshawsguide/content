@@ -1,0 +1,21 @@
+uid: epsom
+----
+title: Epsom
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: epsom
+----
+wikipedia: Epsom_railway_station
+----
+disused: 
+----
+code: EPS
+----
+geolat: 51.334851
+----
+geolng: -0.269478

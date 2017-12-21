@@ -1,0 +1,21 @@
+uid: acrefair
+----
+title: Acrefair
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Acrefair_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.979532
+----
+geolng: -3.074009

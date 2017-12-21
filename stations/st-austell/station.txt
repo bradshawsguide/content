@@ -1,0 +1,21 @@
+uid: st-austell
+----
+title: St. Austell
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: st-austell
+----
+wikipedia: St_Austell_railway_station
+----
+disused: 
+----
+code: SAU
+----
+geolat: 50.339393
+----
+geolng: -4.788803

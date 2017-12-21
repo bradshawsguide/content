@@ -1,0 +1,21 @@
+uid: glanrhyd
+----
+title: Glanrhyd
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.92276
+----
+geolng: -3.915827

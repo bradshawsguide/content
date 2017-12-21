@@ -1,0 +1,21 @@
+uid: hobbs-point
+----
+title: Hobbs Point
+----
+title-today: Pembroke Dock
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: 
+----
+wikipedia: Pembroke_Dock_railway_station
+----
+disused: 
+----
+code: PMD
+----
+geolat: 51.693915
+----
+geolng: -4.937903

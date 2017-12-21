@@ -1,0 +1,21 @@
+uid: shepperton
+----
+title: Shepperton
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Shepperton_railway_station
+----
+disused: 
+----
+code: SHP
+----
+geolat: 51.397586
+----
+geolng: -0.446803

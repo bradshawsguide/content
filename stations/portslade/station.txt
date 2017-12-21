@@ -1,0 +1,21 @@
+uid: portslade
+----
+title: Portslade
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Portslade_railway_station
+----
+disused: 
+----
+code: PLD
+----
+geolat: 50.835676
+----
+geolng: -0.205635

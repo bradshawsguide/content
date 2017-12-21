@@ -1,0 +1,21 @@
+uid: round-oak
+----
+title: Round Oak
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Round_Oak_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.488505
+----
+geolng: -2.119981

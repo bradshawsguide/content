@@ -1,0 +1,21 @@
+uid: bason-bridge
+----
+title: Bason Bridge
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Bason_Bridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.207989
+----
+geolng: -2.938915

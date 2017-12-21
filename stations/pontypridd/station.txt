@@ -1,0 +1,21 @@
+uid: pontypridd
+----
+title: Pontypridd
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Pontypridd_railway_station
+----
+disused: 
+----
+code: PPD
+----
+geolat: 51.599811
+----
+geolng: -3.341965

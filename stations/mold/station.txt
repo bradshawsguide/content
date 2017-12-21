@@ -1,0 +1,21 @@
+uid: mold
+----
+title: Mold
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: mold
+----
+wikipedia: Mold_railway_station
+----
+disused: m/mold
+----
+code: 
+----
+geolat: 53.168125
+----
+geolng: -3.137579

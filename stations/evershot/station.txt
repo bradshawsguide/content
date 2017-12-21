@@ -1,0 +1,21 @@
+uid: evershot
+----
+title: Evershot
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Evershot_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.83543
+----
+geolng: -2.581465

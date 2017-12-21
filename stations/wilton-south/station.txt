@@ -1,0 +1,21 @@
+uid: wilton-south
+----
+title: Wilton South
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Wilton_South_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.08529
+----
+geolng: -1.85827

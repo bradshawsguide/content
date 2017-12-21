@@ -1,0 +1,21 @@
+uid: towyn
+----
+title: Towyn
+----
+title-today: 
+----
+country: wales
+----
+region: merionethshire
+----
+place: towyn
+----
+wikipedia: Tywyn_railway_station
+----
+disused: 
+----
+code: TYW
+----
+geolat: 52.585122
+----
+geolng: -4.093685

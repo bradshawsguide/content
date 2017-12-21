@@ -1,0 +1,21 @@
+uid: oldcastle
+----
+title: Oldcastle
+----
+title-today: 
+----
+country: ireland
+----
+region: county-louth
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.76409
+----
+geolng: -7.015722

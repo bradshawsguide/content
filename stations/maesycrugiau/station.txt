@@ -1,0 +1,21 @@
+uid: maesycrugiau
+----
+title: Maesycrugiau
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Maesycrugiau_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.044298
+----
+geolng: -4.226517

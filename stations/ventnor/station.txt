@@ -1,0 +1,21 @@
+uid: ventnor
+----
+title: Ventnor
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: ventnor
+----
+wikipedia: Ventnor_railway_station
+----
+disused: v/ventnor
+----
+code: 
+----
+geolat: 50.598136
+----
+geolng: -1.208715

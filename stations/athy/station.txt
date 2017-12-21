@@ -1,0 +1,21 @@
+uid: athy
+----
+title: Athy
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kildare
+----
+place: 
+----
+wikipedia: Athy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.9925
+----
+geolng: -6.9768

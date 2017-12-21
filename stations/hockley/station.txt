@@ -1,0 +1,21 @@
+uid: hockley
+----
+title: Hockley
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Hockley_(Birmingham)_railway_station
+----
+disused: h/hockley
+----
+code: 
+----
+geolat: 52.490336
+----
+geolng: -1.918218

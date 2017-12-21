@@ -1,0 +1,21 @@
+uid: wanstrow
+----
+title: Wanstrow
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Wanstrow_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.170191
+----
+geolng: -2.4154

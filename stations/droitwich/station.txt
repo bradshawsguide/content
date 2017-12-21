@@ -1,0 +1,21 @@
+uid: droitwich
+----
+title: Droitwich
+----
+title-today: Droitwich Spa
+----
+country: england
+----
+region: worcestershire
+----
+place: droitwich
+----
+wikipedia: Droitwich_Spa_railway_station
+----
+disused: 
+----
+code: DTW
+----
+geolat: 52.268201
+----
+geolng: -2.158949

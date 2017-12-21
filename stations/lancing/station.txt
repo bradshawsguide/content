@@ -1,0 +1,21 @@
+uid: lancing
+----
+title: Lancing
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: lancing
+----
+wikipedia: Lancing_railway_station
+----
+disused: 
+----
+code: LAC
+----
+geolat: 50.826642
+----
+geolng: -0.323835

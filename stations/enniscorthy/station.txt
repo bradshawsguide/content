@@ -1,0 +1,21 @@
+uid: enniscorthy
+----
+title: Enniscorthy
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wexford
+----
+place: 
+----
+wikipedia: Enniscorthy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.5044
+----
+geolng: -6.5662

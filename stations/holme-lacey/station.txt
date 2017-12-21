@@ -1,0 +1,21 @@
+uid: holme-lacey
+----
+title: Holme Lacey
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: holme-lacey
+----
+wikipedia: Holme_Lacy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.017458
+----
+geolng: -2.653501

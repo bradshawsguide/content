@@ -1,0 +1,21 @@
+uid: adare
+----
+title: Adare
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: adare
+----
+wikipedia: Adare_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.56822
+----
+geolng: -8.79805

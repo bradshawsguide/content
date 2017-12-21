@@ -1,0 +1,21 @@
+uid: talgarth
+----
+title: Talgarth
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Talgarth_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.995983
+----
+geolng: -3.2349258

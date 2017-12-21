@@ -1,0 +1,21 @@
+uid: selhurst
+----
+title: Selhurst
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Selhurst_railway_station
+----
+disused: 
+----
+code: SRS
+----
+geolat: 51.391973
+----
+geolng: -0.090153

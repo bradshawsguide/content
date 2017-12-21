@@ -1,0 +1,21 @@
+uid: shoreham
+----
+title: Shoreham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Shoreham_railway_station
+----
+disused: 
+----
+code: SEH
+----
+geolat: 51.332586
+----
+geolng: 0.188376

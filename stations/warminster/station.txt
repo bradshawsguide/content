@@ -1,0 +1,21 @@
+uid: warminster
+----
+title: Warminster
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: warminster
+----
+wikipedia: Warminster_railway_station
+----
+disused: 
+----
+code: WMN
+----
+geolat: 51.207224
+----
+geolng: -2.176736

@@ -1,0 +1,21 @@
+uid: east-farleigh
+----
+title: East Farleigh
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: east-farleigh
+----
+wikipedia: East_Farleigh_railway_station
+----
+disused: 
+----
+code: EFL
+----
+geolat: 51.255632
+----
+geolng: 0.484263

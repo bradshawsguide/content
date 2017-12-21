@@ -1,0 +1,21 @@
+uid: kilcoole
+----
+title: Kilcoole
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.106389
+----
+geolng: -6.041111

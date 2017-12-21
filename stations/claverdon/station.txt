@@ -1,0 +1,21 @@
+uid: claverdon
+----
+title: Claverdon
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Claverdon_railway_station
+----
+disused: 
+----
+code: CLV
+----
+geolat: 52.276907
+----
+geolng: -1.695828

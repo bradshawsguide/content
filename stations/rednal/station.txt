@@ -1,0 +1,21 @@
+uid: rednal
+----
+title: Rednal
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: rednal
+----
+wikipedia: Rednal_and_West_Felton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.84155
+----
+geolng: -2.962739

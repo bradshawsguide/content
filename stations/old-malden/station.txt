@@ -1,0 +1,21 @@
+uid: old-malden
+----
+title: Old Malden
+----
+title-today: Worcester Park
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Worcester_Park_railway_station
+----
+disused: 
+----
+code: WCP
+----
+geolat: 51.381257
+----
+geolng: -0.245039

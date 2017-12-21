@@ -1,0 +1,21 @@
+uid: goring-by-sea
+----
+title: Goring-by-Sea
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: goring
+----
+wikipedia: Goring-by-Sea_railway_station
+----
+disused: 
+----
+code: GBS
+----
+geolat: 50.817374
+----
+geolng: -0.433478

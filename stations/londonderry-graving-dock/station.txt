@@ -1,0 +1,21 @@
+uid: londonderry-graving-dock
+----
+title: Londonderry Graving Dock
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Londonderry_Graving_Dock_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.004561
+----
+geolng: -7.321422

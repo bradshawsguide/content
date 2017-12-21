@@ -1,0 +1,21 @@
+uid: blandford
+----
+title: Blandford
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: blandford
+----
+wikipedia: Blandford_Forum_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.86015
+----
+geolng: -2.15979

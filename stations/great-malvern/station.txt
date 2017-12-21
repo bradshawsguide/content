@@ -1,0 +1,21 @@
+uid: great-malvern
+----
+title: Great Malvern
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: great-malvern
+----
+wikipedia: Great_Malvern_railway_station
+----
+disused: 
+----
+code: GMV
+----
+geolat: 52.109648
+----
+geolng: -2.317544

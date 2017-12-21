@@ -1,0 +1,21 @@
+uid: seend
+----
+title: Seend
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Seend_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.355684
+----
+geolng: -2.09545

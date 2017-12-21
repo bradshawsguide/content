@@ -1,0 +1,21 @@
+uid: clara
+----
+title: Clara
+----
+title-today: 
+----
+country: ireland
+----
+region: kings-county
+----
+place: 
+----
+wikipedia: Clara_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.339656
+----
+geolng: -7.615668

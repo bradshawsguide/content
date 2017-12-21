@@ -1,0 +1,21 @@
+uid: brading
+----
+title: Brading
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: brading
+----
+wikipedia: Brading_railway_station
+----
+disused: 
+----
+code: BDN
+----
+geolat: 50.678127
+----
+geolng: -1.138727

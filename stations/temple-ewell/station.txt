@@ -1,0 +1,21 @@
+uid: temple-ewell
+----
+title: Temple Ewell
+----
+title-today: Kearsney
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Kearsney_railway_station
+----
+disused: 
+----
+code: KSN
+----
+geolat: 51.148992
+----
+geolng: 1.272206

@@ -1,0 +1,21 @@
+uid: mollington
+----
+title: Mollington
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Mollington_railway_station
+----
+disused: m/mollington
+----
+code: 
+----
+geolat: 53.233128
+----
+geolng: -2.914172

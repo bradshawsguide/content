@@ -1,0 +1,21 @@
+uid: garnant
+----
+title: Garnant
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.802756
+----
+geolng: -3.908191

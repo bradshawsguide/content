@@ -1,0 +1,21 @@
+uid: challow
+----
+title: Challow
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Challow_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.612663
+----
+geolng: -1.487989

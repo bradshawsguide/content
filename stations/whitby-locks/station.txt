@@ -1,0 +1,21 @@
+uid: whitby-locks
+----
+title: Whitby Locks
+----
+title-today: Ellesmere Port
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Ellesmere_Port_railway_station
+----
+disused: 
+----
+code: ELP
+----
+geolat: 53.281652
+----
+geolng: -2.896111

@@ -1,0 +1,21 @@
+uid: chilworth
+----
+title: Chilworth
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: chilworth
+----
+wikipedia: Chilworth_railway_station
+----
+disused: 
+----
+code: CHL
+----
+geolat: 51.215145
+----
+geolng: -0.52454

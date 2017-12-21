@@ -1,0 +1,21 @@
+uid: geashill
+----
+title: Geashill
+----
+title-today: 
+----
+country: ireland
+----
+region: kings-county
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.235214
+----
+geolng: -7.320835

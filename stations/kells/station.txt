@@ -1,0 +1,21 @@
+uid: kells
+----
+title: Ballybeg
+----
+title-today: 
+----
+country: ireland
+----
+region: county-meath
+----
+place: kells
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.690994
+----
+geolng: -6.81547

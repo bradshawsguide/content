@@ -1,0 +1,21 @@
+uid: hampton-court
+----
+title: Hampton Court (East Molesey)
+----
+title-today: Hampton Court
+----
+country: england
+----
+region: middlesex
+----
+place: hampton-court
+----
+wikipedia: Hampton_Court_railway_station
+----
+disused: 
+----
+code: HMC
+----
+geolat: 51.402293
+----
+geolng: -0.342757

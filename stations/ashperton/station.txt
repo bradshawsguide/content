@@ -1,0 +1,21 @@
+uid: ashperton
+----
+title: Ashperton
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Ashperton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.059519
+----
+geolng: -2.511176

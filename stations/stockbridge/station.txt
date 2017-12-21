@@ -1,0 +1,21 @@
+uid: stockbridge
+----
+title: Stockbridge
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.113936
+----
+geolng: -1.489998

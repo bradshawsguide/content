@@ -1,0 +1,21 @@
+uid: loughgilly
+----
+title: Loughgilly
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 54.271023
+----
+geolng: -6.460548

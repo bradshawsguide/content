@@ -1,0 +1,21 @@
+uid: gorey
+----
+title: Gorey
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wexford
+----
+place: 
+----
+wikipedia: Gorey_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.6712
+----
+geolng: -6.2922

@@ -1,0 +1,21 @@
+uid: trefforest
+----
+title: Trefforest
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Treforest_railway_station
+----
+disused: 
+----
+code: TRF
+----
+geolat: 51.591918
+----
+geolng: -3.324409

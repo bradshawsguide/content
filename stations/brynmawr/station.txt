@@ -1,0 +1,21 @@
+uid: brynmawr
+----
+title: Brynmawr
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Brynmawr_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.796731
+----
+geolng: -3.173789

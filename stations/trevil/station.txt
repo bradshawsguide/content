@@ -1,0 +1,21 @@
+uid: trevil
+----
+title: Trevil
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Trevil_Halt_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.796077
+----
+geolng: -3.237576

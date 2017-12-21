@@ -1,0 +1,21 @@
+uid: esher
+----
+title: Esher
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: esher
+----
+wikipedia: Esher_railway_station
+----
+disused: 
+----
+code: ESH
+----
+geolat: 51.380132
+----
+geolng: -0.35399

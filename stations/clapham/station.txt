@@ -1,0 +1,21 @@
+uid: clapham
+----
+title: Clapham
+----
+title-today: Clapham Junction
+----
+country: england
+----
+region: surrey
+----
+place: clapham
+----
+wikipedia: Clapham_Junction_railway_station
+----
+disused: 
+----
+code: CLJ
+----
+geolat: 51.464366
+----
+geolng: -0.170315

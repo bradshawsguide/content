@@ -1,0 +1,21 @@
+uid: virginia-water
+----
+title: Virginia Water
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: virginia-water
+----
+wikipedia: Virginia_Water_railway_station
+----
+disused: 
+----
+code: VIR
+----
+geolat: 51.401749
+----
+geolng: -0.561672

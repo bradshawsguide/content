@@ -1,0 +1,21 @@
+uid: waterfall
+----
+title: Waterfall
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: Waterfall_(CBR)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.855248
+----
+geolng: -8.556393

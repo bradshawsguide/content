@@ -1,0 +1,21 @@
+uid: goring
+----
+title: Goring
+----
+title-today: Goring & Streatley
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Goring_%26_Streatley_railway_station
+----
+disused: 
+----
+code: GOR
+----
+geolat: 51.521563
+----
+geolng: -1.133005

@@ -1,0 +1,21 @@
+uid: borough-road
+----
+title: Borough Road
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Borough_Road_railway_station
+----
+disused: b/borough_road
+----
+code: 
+----
+geolat: 51.499472
+----
+geolng: -0.099003

@@ -1,0 +1,21 @@
+uid: saltford
+----
+title: Saltford
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: saltford
+----
+wikipedia: Saltford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.3997
+----
+geolng: -2.4501

@@ -1,0 +1,21 @@
+uid: castlebellingham
+----
+title: Castlebellingham
+----
+title-today: 
+----
+country: ireland
+----
+region: county-louth
+----
+place: 
+----
+wikipedia: Castlebellingham_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.90218
+----
+geolng: -6.419686

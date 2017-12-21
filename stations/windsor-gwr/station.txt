@@ -1,0 +1,21 @@
+uid: windsor-gwr
+----
+title: Windsor (GWR)
+----
+title-today: Windsor & Eton Central
+----
+country: england
+----
+region: berkshire
+----
+place: windsor
+----
+wikipedia: Windsor_%26_Eton_Central_railway_station
+----
+disused:
+----
+code: WNC
+----
+geolat: 51.483256
+----
+geolng: -0.609516

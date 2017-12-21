@@ -1,0 +1,21 @@
+uid: latchford
+----
+title: Latchford
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Latchford_railway_station
+----
+disused: l/latchford
+----
+code: 
+----
+geolat: 53.378059
+----
+geolng: -2.565919

@@ -1,0 +1,21 @@
+uid: west-pennard
+----
+title: West Pennard
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: West_Pennard_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.153569
+----
+geolng: -2.618342

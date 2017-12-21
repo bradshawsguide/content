@@ -1,0 +1,21 @@
+uid: tunbridge-wells
+----
+title: Tunbridge Wells
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: tunbridge-wells
+----
+wikipedia: Tunbridge_Wells_railway_station
+----
+disused: 
+----
+code: TBW
+----
+geolat: 51.130612
+----
+geolng: 0.263143

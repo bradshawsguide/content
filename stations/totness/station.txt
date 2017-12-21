@@ -1,0 +1,21 @@
+uid: totness
+----
+title: Totness
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: totness
+----
+wikipedia: Totnes_railway_station
+----
+disused: 
+----
+code: TOT
+----
+geolat: 50.436129
+----
+geolng: -3.688983

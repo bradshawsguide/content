@@ -1,0 +1,21 @@
+uid: liverpool-pier-head
+----
+title: Liverpool Pier Head
+----
+title-today: 
+----
+country: england
+----
+region: lancashire
+----
+place: 
+----
+wikipedia: Pier_Head_railway_station
+----
+disused: p/pier_head
+----
+code: 
+----
+geolat: 53.406714
+----
+geolng: -2.995012

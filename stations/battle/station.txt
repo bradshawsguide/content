@@ -1,0 +1,21 @@
+uid: battle
+----
+title: Battle
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: battle
+----
+wikipedia: Battle_railway_station
+----
+disused: 
+----
+code: BAT
+----
+geolat: 50.912749
+----
+geolng: 0.494409

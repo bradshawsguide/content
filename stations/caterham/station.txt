@@ -1,0 +1,21 @@
+uid: caterham
+----
+title: Caterham
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: caterham
+----
+wikipedia: Caterham_railway_station
+----
+disused: 
+----
+code: CAT
+----
+geolat: 51.2825
+----
+geolng: -0.078611

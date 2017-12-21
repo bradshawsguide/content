@@ -1,0 +1,21 @@
+uid: bourton-on-the-water
+----
+title: Bourton-on-the-Water
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: 
+----
+wikipedia: Bourton-on-the-Water_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.89068
+----
+geolng: -1.75578

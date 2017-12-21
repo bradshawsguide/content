@@ -1,0 +1,21 @@
+uid: wexford
+----
+title: Wexford
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wexford
+----
+place: 
+----
+wikipedia: Wexford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.343333
+----
+geolng: -6.464167

@@ -1,0 +1,21 @@
+uid: glynde
+----
+title: Glynde
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: glynde
+----
+wikipedia: Glynde_railway_station
+----
+disused: 
+----
+code: GLY
+----
+geolat: 50.858975
+----
+geolng: 0.070921

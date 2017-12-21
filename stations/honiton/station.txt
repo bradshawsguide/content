@@ -1,0 +1,21 @@
+uid: honiton
+----
+title: Honiton
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: honiton
+----
+wikipedia: Honiton_railway_station
+----
+disused: 
+----
+code: HON
+----
+geolat: 50.796668
+----
+geolng: -3.186862

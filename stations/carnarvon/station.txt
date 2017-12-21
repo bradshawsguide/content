@@ -1,0 +1,21 @@
+uid: carnarvon
+----
+title: Carnarvon
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: carnarvon
+----
+wikipedia: Carnarvon_(Pant)_railway_station
+----
+disused: c/carnarvon_pant
+----
+code: 
+----
+geolat: 53.126699
+----
+geolng: -4.272387

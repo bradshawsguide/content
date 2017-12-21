@@ -1,0 +1,21 @@
+uid: wooferton
+----
+title: Wooferton
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Woofferton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.311102
+----
+geolng: -2.713558

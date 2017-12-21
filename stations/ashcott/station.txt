@@ -1,0 +1,21 @@
+uid: ashcott
+----
+title: Ashcott
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Ashcott_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.154344
+----
+geolng: -2.788504

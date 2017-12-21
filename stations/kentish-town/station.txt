@@ -1,0 +1,21 @@
+uid: kentish-town
+----
+title: Kentish Town
+----
+title-today: Gospel Oak
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Gospel_Oak_railway_station
+----
+disused: 
+----
+code: GPO
+----
+geolat: 51.555447
+----
+geolng: -0.150659

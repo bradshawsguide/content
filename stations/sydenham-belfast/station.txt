@@ -1,0 +1,21 @@
+uid: sydenham-belfast
+----
+title: Sydenham
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Sydenham_railway_station_(Northern_Ireland)
+----
+disused: 
+----
+code: 
+----
+geolat: 54.6093
+----
+geolng: -5.8773

@@ -1,0 +1,21 @@
+uid: bangor-county-down
+----
+title: Bangor
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: bangor
+----
+wikipedia: Bangor_railway_station_(Northern_Ireland)
+----
+disused: 
+----
+code: 
+----
+geolat: 54.6585
+----
+geolng: -5.6725

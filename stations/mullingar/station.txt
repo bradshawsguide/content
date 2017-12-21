@@ -1,0 +1,21 @@
+uid: mullingar
+----
+title: Mullingar
+----
+title-today: 
+----
+country: ireland
+----
+region: county-westmeath
+----
+place: mullingar
+----
+wikipedia: Mullingar_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.523035
+----
+geolng: -7.346011

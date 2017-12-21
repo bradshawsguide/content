@@ -1,0 +1,21 @@
+uid: cross-inn
+----
+title: Cross Inn
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Ammanford_(GWR)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.791054
+----
+geolng: -3.986149

@@ -1,0 +1,21 @@
+uid: mallow
+----
+title: Mallow
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: mallow
+----
+wikipedia: Mallow_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.139167
+----
+geolng: -8.655278

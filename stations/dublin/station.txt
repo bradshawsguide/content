@@ -1,0 +1,21 @@
+uid: dublin
+----
+title: Dublin
+----
+title-today: Dublin Connolly
+----
+country: ireland
+----
+region: county-dublin
+----
+place: dublin
+----
+wikipedia: Dublin_Connolly_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.35121
+----
+geolng: -6.250185

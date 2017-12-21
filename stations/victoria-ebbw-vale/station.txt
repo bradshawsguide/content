@@ -1,0 +1,21 @@
+uid: victoria-ebbw-vale
+----
+title: Victoria Ebbw Vale
+----
+title-today: Ebbw Vale Parkway
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Ebbw_Vale_Parkway_railway_station
+----
+disused: 
+----
+code: EBV
+----
+geolat: 51.756047
+----
+geolng: -3.195914

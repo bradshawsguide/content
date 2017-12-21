@@ -1,0 +1,21 @@
+uid: yeovil-junction
+----
+title: Yeovil Junction
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: yeovil
+----
+wikipedia: Yeovil_Junction_railway_station
+----
+disused: 
+----
+code: YVJ
+----
+geolat: 50.925196
+----
+geolng: -2.612462

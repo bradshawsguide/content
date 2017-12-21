@@ -1,0 +1,21 @@
+uid: tilbury
+----
+title: Tilbury
+----
+title-today: 
+----
+country: england
+----
+region: essex
+----
+place: tilbury
+----
+wikipedia: Tilbury_Riverside_railway_station
+----
+disused: t/tilbury_riverside
+----
+code: 
+----
+geolat: 51.451744
+----
+geolng: 0.364345

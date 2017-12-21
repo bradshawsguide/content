@@ -1,0 +1,21 @@
+uid: stourbridge
+----
+title: Stourbridge
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: stourbridge
+----
+wikipedia: Stourbridge_Junction_railway_station
+----
+disused: 
+----
+code: SBJ
+----
+geolat: 52.448034
+----
+geolng: -2.134584

@@ -1,0 +1,21 @@
+uid: lostwithiel
+----
+title: Lostwithiel
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: lostwithiel
+----
+wikipedia: Lostwithiel_railway_station
+----
+disused: 
+----
+code: LOS
+----
+geolat: 50.407038
+----
+geolng: -4.666099

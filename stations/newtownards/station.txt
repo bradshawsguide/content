@@ -1,0 +1,21 @@
+uid: newtownards
+----
+title: Newtownards
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: newtownards
+----
+wikipedia: Newtownards_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.597366
+----
+geolng: -5.706346

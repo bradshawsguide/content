@@ -1,0 +1,21 @@
+uid: pitsea
+----
+title: Pitsea
+----
+title-today: 
+----
+country: england
+----
+region: essex
+----
+place: 
+----
+wikipedia: Pitsea_railway_station
+----
+disused: 
+----
+code: PSE
+----
+geolat: 51.560036
+----
+geolng: 0.506593

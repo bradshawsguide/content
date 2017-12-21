@@ -1,0 +1,21 @@
+uid: tenby
+----
+title: Tenby
+----
+title-today: 
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: tenby
+----
+wikipedia: Tenby_railway_station
+----
+disused: 
+----
+code: TEN
+----
+geolat: 51.672497
+----
+geolng: -4.706525

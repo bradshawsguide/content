@@ -1,0 +1,21 @@
+uid: warrington
+----
+title: Warrington
+----
+title-today: Warrington Bank Quay
+----
+country: england
+----
+region: cheshire
+----
+place: warrington
+----
+wikipedia: Warrington_Bank_Quay_railway_station
+----
+disused: 
+----
+code: WBQ
+----
+geolat: 53.385964
+----
+geolng: -2.603611

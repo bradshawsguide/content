@@ -1,0 +1,21 @@
+uid: talyllyn-junction
+----
+title: Talyllyn Junction
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Talyllyn_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.938355
+----
+geolng: -3.301131

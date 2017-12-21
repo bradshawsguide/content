@@ -1,0 +1,21 @@
+uid: manchester-exchange
+----
+title: Manchester Exchange
+----
+title-today: 
+----
+country: england
+----
+region: lancashire
+----
+place: 
+----
+wikipedia: Manchester_Exchange_railway_station
+----
+disused: m/manchester_exchange
+----
+code: 
+----
+geolat: 53.486111
+----
+geolng: -2.246359

@@ -1,0 +1,21 @@
+uid: treaman
+----
+title: Treaman
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Aberaman_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.70225
+----
+geolng: -3.42543

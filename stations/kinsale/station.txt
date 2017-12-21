@@ -1,0 +1,21 @@
+uid: kinsale
+----
+title: Kinsale
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: kinsale
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.710034
+----
+geolng: -8.514989

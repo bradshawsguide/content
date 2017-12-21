@@ -1,0 +1,21 @@
+uid: petersfield
+----
+title: Petersfield
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Petersfield_railway_station
+----
+disused: 
+----
+code: PTR
+----
+geolat: 51.006541
+----
+geolng: -0.941668

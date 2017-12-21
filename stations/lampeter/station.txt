@@ -1,0 +1,21 @@
+uid: lampeter
+----
+title: Lampeter
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Lampeter_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.1156
+----
+geolng: -4.0729

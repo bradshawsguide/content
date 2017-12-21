@@ -1,0 +1,21 @@
+uid: herne-hill
+----
+title: Herne Hill
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Herne_Hill_railway_station
+----
+disused: 
+----
+code: HNH
+----
+geolat: 51.453814
+----
+geolng: -0.105642

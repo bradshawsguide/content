@@ -1,0 +1,21 @@
+uid: wimbledon
+----
+title: Wimbledon
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: wimbledon
+----
+wikipedia: Wimbledon_station
+----
+disused: 
+----
+code: WIM
+----
+geolat: 51.421462
+----
+geolng: -0.208618

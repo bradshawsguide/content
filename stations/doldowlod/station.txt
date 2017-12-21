@@ -1,0 +1,21 @@
+uid: doldowlod
+----
+title: Doldowlod
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Doldowlod_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.258801
+----
+geolng: -3.498035

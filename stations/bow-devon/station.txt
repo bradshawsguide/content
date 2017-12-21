@@ -1,0 +1,21 @@
+uid: bow-devon
+----
+title: Bow (Devon)
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Bow_(Devon)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.78561
+----
+geolng: -3.82205

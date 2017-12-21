@@ -1,0 +1,21 @@
+uid: south-molton-road
+----
+title: South Molton Road
+----
+title-today: King’s Nympton
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: King%27s_Nympton_railway_station
+----
+disused: 
+----
+code: KGN
+----
+geolat: 50.936441
+----
+geolng: -3.904885

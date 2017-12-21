@@ -1,0 +1,21 @@
+uid: caterham-junction
+----
+title: Caterham Junction
+----
+title-today: Purley
+----
+country: england
+----
+region: surrey
+----
+place: caterham-junction
+----
+wikipedia: Purley_railway_station
+----
+disused: 
+----
+code: PUR
+----
+geolat: 51.337782
+----
+geolng: -0.118346

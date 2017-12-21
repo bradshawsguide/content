@@ -1,0 +1,21 @@
+uid: havod
+----
+title: Havod
+----
+title-today: Trehafod
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Trehafod_railway_station
+----
+disused: 
+----
+code: TRH
+----
+geolat: 51.610163
+----
+geolng: -3.37982

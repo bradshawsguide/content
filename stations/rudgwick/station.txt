@@ -1,0 +1,21 @@
+uid: rudgwick
+----
+title: Rudgwick
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Rudgwick_railway_station
+----
+disused: r/rudgwick
+----
+code: 
+----
+geolat: 51.090101
+----
+geolng: -0.451413

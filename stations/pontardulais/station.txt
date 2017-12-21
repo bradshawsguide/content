@@ -1,0 +1,21 @@
+uid: pontardulais
+----
+title: Pontardulais
+----
+title-today: Pontarddulais
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Pontarddulais_railway_station
+----
+disused: 
+----
+code: PTD
+----
+geolat: 51.717339
+----
+geolng: -4.04611

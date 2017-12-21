@@ -1,0 +1,21 @@
+uid: gormanston
+----
+title: Gormanston
+----
+title-today: 
+----
+country: ireland
+----
+region: county-meath
+----
+place: 
+----
+wikipedia: Gormanston_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.6372
+----
+geolng: -6.2168

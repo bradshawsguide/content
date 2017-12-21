@@ -1,0 +1,21 @@
+uid: langley
+----
+title: Langley
+----
+title-today: 
+----
+country: england
+----
+region: buckinghamshire
+----
+place: langley
+----
+wikipedia: Langley_railway_station
+----
+disused: 
+----
+code: LNY
+----
+geolat: 51.507602
+----
+geolng: -0.54105

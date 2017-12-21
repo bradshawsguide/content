@@ -1,0 +1,21 @@
+uid: norton
+----
+title: Norton
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Norton_(Cheshire)_railway_station
+----
+disused: n/norton
+----
+code: 
+----
+geolat: 53.329021
+----
+geolng: -2.662867

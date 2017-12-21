@@ -1,0 +1,21 @@
+uid: llanelly
+----
+title: Llanelly
+----
+title-today: Llanelli
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: llanelly
+----
+wikipedia: Llanelli_railway_station
+----
+disused: 
+----
+code: LLE
+----
+geolat: 51.67391
+----
+geolng: -4.161306

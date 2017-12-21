@@ -1,0 +1,21 @@
+uid: chale
+----
+title: Chale
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: chale
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 50.59652
+----
+geolng: -1.31625

@@ -1,0 +1,21 @@
+uid: pembridge
+----
+title: Pembridge
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: pembridge
+----
+wikipedia: Pembridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.227141
+----
+geolng: -2.896683

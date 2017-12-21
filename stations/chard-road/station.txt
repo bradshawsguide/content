@@ -1,0 +1,21 @@
+uid: chard-road
+----
+title: Chard Road
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Chard_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.8393
+----
+geolng: -2.9367

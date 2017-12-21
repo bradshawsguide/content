@@ -1,0 +1,21 @@
+uid: priestfield
+----
+title: Priestfield
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Priestfield_railway_station
+----
+disused: p/priestfield
+----
+code: 
+----
+geolat: 52.570334
+----
+geolng: -2.096598

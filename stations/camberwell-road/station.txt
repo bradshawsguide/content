@@ -1,0 +1,21 @@
+uid: camberwell-road
+----
+title: Camberwell Road
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Camberwell_railway_station_(London)
+----
+disused: c/camberwell_new_road
+----
+code: 
+----
+geolat: 51.473825
+----
+geolng: -0.09791

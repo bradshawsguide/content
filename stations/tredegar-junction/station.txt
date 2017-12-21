@@ -1,0 +1,21 @@
+uid: tredegar-junction
+----
+title: Tredegar Junction
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.653925
+----
+geolng: -3.19153

@@ -1,0 +1,21 @@
+uid: didcot
+----
+title: Didcot
+----
+title-today: Didcot Parkway
+----
+country: england
+----
+region: berkshire
+----
+place: didcot
+----
+wikipedia: Didcot_Parkway_railway_station
+----
+disused: 
+----
+code: DID
+----
+geolat: 51.611337
+----
+geolng: -1.242497

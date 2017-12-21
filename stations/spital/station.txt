@@ -1,0 +1,21 @@
+uid: spital
+----
+title: Spital
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Spital_railway_station
+----
+disused: 
+----
+code: SPI
+----
+geolat: 53.341095
+----
+geolng: -2.994985

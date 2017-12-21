@@ -1,0 +1,21 @@
+uid: abingdon
+----
+title: Abingdon
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: abingdon
+----
+wikipedia: Abingdon_railway_station
+----
+disused: a/abingdon
+----
+code: 
+----
+geolat: 51.672709
+----
+geolng: -1.279073

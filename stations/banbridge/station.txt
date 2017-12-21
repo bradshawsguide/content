@@ -1,0 +1,21 @@
+uid: banbridge
+----
+title: Banbridge
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Banbridge_(BLBR)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.352369
+----
+geolng: -6.272462

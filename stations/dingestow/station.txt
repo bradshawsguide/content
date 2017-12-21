@@ -1,0 +1,21 @@
+uid: dingestow
+----
+title: Dingestow
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: dingestow
+----
+wikipedia: Dingestow_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.7848
+----
+geolng: -2.7833

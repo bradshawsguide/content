@@ -1,0 +1,21 @@
+uid: harcourt-street
+----
+title: Harcourt Street
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: Harcourt_Street_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.3345
+----
+geolng: -6.2629

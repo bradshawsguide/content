@@ -1,0 +1,21 @@
+uid: tal-y-cafn
+----
+title: Tal-y-Cafn
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: 
+----
+wikipedia: Tal-y-Cafn_railway_station
+----
+disused: 
+----
+code: TLC
+----
+geolat: 53.228907
+----
+geolng: -3.817837

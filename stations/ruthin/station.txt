@@ -1,0 +1,21 @@
+uid: ruthin
+----
+title: Ruthin
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Ruthin_railway_station
+----
+disused: r/ruthin
+----
+code: 
+----
+geolat: 53.11688
+----
+geolng: -3.30779

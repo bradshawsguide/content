@@ -1,0 +1,21 @@
+uid: dinton
+----
+title: Dinton
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Dinton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.077659
+----
+geolng: -1.9876

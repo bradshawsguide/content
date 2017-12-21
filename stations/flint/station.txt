@@ -1,0 +1,21 @@
+uid: flint
+----
+title: Flint
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: flint
+----
+wikipedia: Flint_railway_station
+----
+disused: 
+----
+code: FLN
+----
+geolat: 53.249979
+----
+geolng: -3.132256

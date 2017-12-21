@@ -1,0 +1,21 @@
+uid: princes-risborough
+----
+title: Princes Risborough
+----
+title-today: 
+----
+country: england
+----
+region: buckinghamshire
+----
+place: 
+----
+wikipedia: Princes_Risborough_railway_station
+----
+disused: 
+----
+code: PRR
+----
+geolat: 51.717789
+----
+geolng: -0.844086

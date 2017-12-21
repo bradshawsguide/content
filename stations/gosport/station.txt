@@ -1,0 +1,21 @@
+uid: gosport
+----
+title: Gosport
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: gosport
+----
+wikipedia: Gosport_railway_station
+----
+disused: g/gosport
+----
+code: 
+----
+geolat: 50.79785
+----
+geolng: -1.13019

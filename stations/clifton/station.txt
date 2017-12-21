@@ -1,0 +1,21 @@
+uid: clifton
+----
+title: Clifton
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: 
+----
+wikipedia: Hotwells_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.455854
+----
+geolng: -2.627204

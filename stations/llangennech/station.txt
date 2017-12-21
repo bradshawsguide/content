@@ -1,0 +1,21 @@
+uid: llangennech
+----
+title: Llangennech
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Llangennech_railway_station
+----
+disused: 
+----
+code: LLH
+----
+geolat: 51.691571
+----
+geolng: -4.079673

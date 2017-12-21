@@ -1,0 +1,21 @@
+uid: woolston
+----
+title: Woolston
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Woolston_railway_station
+----
+disused: 
+----
+code: WLS
+----
+geolat: 50.899062
+----
+geolng: -1.376402

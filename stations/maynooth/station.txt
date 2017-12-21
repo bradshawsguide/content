@@ -1,0 +1,21 @@
+uid: maynooth
+----
+title: Maynooth
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kildare
+----
+place: maynooth
+----
+wikipedia: Maynooth_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.37852
+----
+geolng: -6.58854

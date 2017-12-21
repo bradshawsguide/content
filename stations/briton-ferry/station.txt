@@ -1,0 +1,21 @@
+uid: briton-ferry
+----
+title: Briton Ferry
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Briton_Ferry_railway_station
+----
+disused: 
+----
+code: BNF
+----
+geolat: 51.638332
+----
+geolng: -3.819992

@@ -1,0 +1,21 @@
+uid: woodborough
+----
+title: Woodborough
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Woodborough_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.33516
+----
+geolng: -1.85106

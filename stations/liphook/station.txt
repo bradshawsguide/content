@@ -1,0 +1,21 @@
+uid: liphook
+----
+title: Liphook
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Liphook_railway_station
+----
+disused: 
+----
+code: LIP
+----
+geolat: 51.07172
+----
+geolng: -0.800304

@@ -1,0 +1,21 @@
+uid: clandeboyd
+----
+title: Clandeboyd
+----
+title-today: Crawfordsburn
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 54.6637
+----
+geolng: -5.7216

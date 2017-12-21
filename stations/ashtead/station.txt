@@ -1,0 +1,21 @@
+uid: ashtead
+----
+title: Ashtead
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Ashtead_railway_station
+----
+disused: 
+----
+code: AHD
+----
+geolat: 51.317421
+----
+geolng: -0.307445

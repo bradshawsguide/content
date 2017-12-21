@@ -1,0 +1,21 @@
+uid: ashton-under-hill
+----
+title: Ashton-under-Hill
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Ashton-under-Hill_railway_station
+----
+disused: a/ashton_under_hill
+----
+code: 
+----
+geolat: 52.038152
+----
+geolng: -1.996309

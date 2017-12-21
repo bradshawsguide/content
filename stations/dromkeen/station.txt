@@ -1,0 +1,21 @@
+uid: dromkeen
+----
+title: Dromkeen
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.582443
+----
+geolng: -8.386292

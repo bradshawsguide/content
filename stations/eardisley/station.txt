@@ -1,0 +1,21 @@
+uid: eardisley
+----
+title: Eardisley
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Eardisley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.130947
+----
+geolng: -3.007241

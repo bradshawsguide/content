@@ -1,0 +1,21 @@
+uid: thames-ditton
+----
+title: Thames Ditton
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: thames-ditton
+----
+wikipedia: Thames_Ditton_railway_station
+----
+disused: 
+----
+code: THD
+----
+geolat: 51.389064
+----
+geolng: -0.339163

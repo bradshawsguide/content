@@ -1,0 +1,21 @@
+uid: coalport
+----
+title: Coalport
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Coalport_West_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.614496
+----
+geolng: -2.442295

@@ -1,0 +1,21 @@
+uid: maryborough
+----
+title: Maryborough
+----
+title-today: Port Laoise
+----
+country: ireland
+----
+region: queens-county
+----
+place: maryborough
+----
+wikipedia: Portlaoise_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.036667
+----
+geolng: -7.301944

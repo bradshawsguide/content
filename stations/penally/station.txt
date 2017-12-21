@@ -1,0 +1,21 @@
+uid: penally
+----
+title: Penally
+----
+title-today: 
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: 
+----
+wikipedia: Penally_railway_station
+----
+disused: 
+----
+code: PNA
+----
+geolat: 51.658658
+----
+geolng: -4.721606

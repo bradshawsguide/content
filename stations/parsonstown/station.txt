@@ -1,0 +1,21 @@
+uid: parsonstown
+----
+title: Parsonstown
+----
+title-today: Birr
+----
+country: ireland
+----
+region: county-tipperary
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.085377
+----
+geolng: -7.907766

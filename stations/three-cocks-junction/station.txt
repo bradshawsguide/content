@@ -1,0 +1,21 @@
+uid: three-cocks-junction
+----
+title: Three Cocks Junction
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Three_Cocks_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.027376
+----
+geolng: -3.216259

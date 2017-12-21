@@ -1,0 +1,21 @@
+uid: bognor
+----
+title: Bognor
+----
+title-today: Bognor Regis
+----
+country: england
+----
+region: sussex
+----
+place: bognor
+----
+wikipedia: Bognor_Regis_railway_station
+----
+disused: 
+----
+code: BOG
+----
+geolat: 50.7871
+----
+geolng: -0.675666

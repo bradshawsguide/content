@@ -1,0 +1,21 @@
+uid: dudley
+----
+title: Dudley
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: dudley
+----
+wikipedia: Dudley_railway_station
+----
+disused: d/dudley
+----
+code: 
+----
+geolat: 52.514613
+----
+geolng: -2.074371

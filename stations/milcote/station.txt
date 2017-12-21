@@ -1,0 +1,21 @@
+uid: milcote
+----
+title: Milcote
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Milcote_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.161962
+----
+geolng: -1.752164

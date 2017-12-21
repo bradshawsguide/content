@@ -1,0 +1,21 @@
+uid: golden-grove
+----
+title: Golden Grove
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Golden_Grove_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.870139
+----
+geolng: -4.050135

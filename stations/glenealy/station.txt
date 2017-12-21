@@ -1,0 +1,21 @@
+uid: glenealy
+----
+title: Glenealy
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.964842
+----
+geolng: -6.145955

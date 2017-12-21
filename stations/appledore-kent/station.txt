@@ -1,0 +1,21 @@
+uid: appledore-kent
+----
+title: Appledore
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Appledore_(Kent)_railway_station
+----
+disused: 
+----
+code: APD
+----
+geolat: 51.033151
+----
+geolng: 0.816108

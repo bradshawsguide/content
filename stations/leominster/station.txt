@@ -1,0 +1,21 @@
+uid: leominster
+----
+title: Leominster
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: leominster
+----
+wikipedia: Leominster_railway_station
+----
+disused: 
+----
+code: LEO
+----
+geolat: 52.225585
+----
+geolng: -2.731218

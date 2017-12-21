@@ -1,0 +1,21 @@
+uid: liscooly
+----
+title: Liscooly
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Liscooly_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.799586
+----
+geolng: -7.641796

@@ -1,0 +1,21 @@
+uid: ludlow
+----
+title: Ludlow
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: ludlow
+----
+wikipedia: Ludlow_railway_station
+----
+disused: 
+----
+code: LUD
+----
+geolat: 52.371323
+----
+geolng: -2.715997

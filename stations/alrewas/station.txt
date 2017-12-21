@@ -1,0 +1,21 @@
+uid: alrewas
+----
+title: Alrewas
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: alrewas
+----
+wikipedia: Alrewas_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.730106
+----
+geolng: -1.740073

@@ -1,0 +1,21 @@
+uid: wallingford
+----
+title: Wallingford
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: wallingford
+----
+wikipedia: Wallingford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.598002
+----
+geolng: -1.134438

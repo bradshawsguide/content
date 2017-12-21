@@ -1,0 +1,21 @@
+uid: armagh
+----
+title: Armagh
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: armagh
+----
+wikipedia: Armagh_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.3568
+----
+geolng: -6.6573

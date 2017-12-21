@@ -1,0 +1,21 @@
+uid: walton-and-hersham
+----
+title: Walton and Hersham
+----
+title-today: Walton-on-Thames
+----
+country: england
+----
+region: surrey
+----
+place: walton-and-hersham
+----
+wikipedia: Walton-on-Thames_railway_station
+----
+disused: 
+----
+code: WAL
+----
+geolat: 51.372875
+----
+geolng: -0.414594

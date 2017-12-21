@@ -1,0 +1,21 @@
+uid: llanwern
+----
+title: Llanwern
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Llanwern_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.58175
+----
+geolng: -2.916967

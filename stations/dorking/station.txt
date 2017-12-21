@@ -1,0 +1,21 @@
+uid: dorking
+----
+title: Dorking
+----
+title-today: Dorking West
+----
+country: england
+----
+region: surrey
+----
+place: dorking
+----
+wikipedia: Dorking_West_railway_station
+----
+disused: 
+----
+code: DKT
+----
+geolat: 51.236061
+----
+geolng: -0.340514

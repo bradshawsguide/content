@@ -1,0 +1,21 @@
+uid: ballycarey
+----
+title: Ballycarey
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Ballycarry_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.777
+----
+geolng: -5.726

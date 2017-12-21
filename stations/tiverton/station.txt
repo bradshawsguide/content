@@ -1,0 +1,21 @@
+uid: tiverton
+----
+title: Tiverton
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: tiverton
+----
+wikipedia: Tiverton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.90312
+----
+geolng: -3.47995

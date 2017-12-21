@@ -1,0 +1,21 @@
+uid: horrabridge
+----
+title: Horrabridge
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Horrabridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.505414
+----
+geolng: -4.101143

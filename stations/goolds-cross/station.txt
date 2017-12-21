@@ -1,0 +1,21 @@
+uid: goolds-cross
+----
+title: Goolds Cross
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tipperary
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.590174
+----
+geolng: -7.960439

@@ -1,0 +1,21 @@
+uid: blanchardstown
+----
+title: Blanchardstown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.382374
+----
+geolng: -6.363566

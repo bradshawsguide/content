@@ -1,0 +1,21 @@
+uid: bitterne-road
+----
+title: Bitterne Road
+----
+title-today: Bitterne
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Bitterne_railway_station
+----
+disused: 
+----
+code: BTE
+----
+geolat: 50.917952
+----
+geolng: -1.377572

@@ -1,0 +1,21 @@
+uid: moate
+----
+title: Moate
+----
+title-today: 
+----
+country: ireland
+----
+region: county-westmeath
+----
+place: 
+----
+wikipedia: Moate_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.399177
+----
+geolng: -7.723514

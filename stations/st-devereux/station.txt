@@ -1,0 +1,21 @@
+uid: st-devereux
+----
+title: St. Devereux
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: St_Devereux_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.975086
+----
+geolng: -2.815937

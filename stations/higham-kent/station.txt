@@ -1,0 +1,21 @@
+uid: higham-kent
+----
+title: Higham
+----
+title-today: Higham (Kent)
+----
+country: england
+----
+region: kent
+----
+place: higham
+----
+wikipedia: Higham_(Kent)_railway_station
+----
+disused: 
+----
+code: HGM
+----
+geolat: 51.426891
+----
+geolng: 0.466209

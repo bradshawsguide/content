@@ -1,0 +1,21 @@
+uid: ballywilliam
+----
+title: Ballywilliam
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wexford
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.448033
+----
+geolng: -6.865081

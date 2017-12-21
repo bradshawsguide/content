@@ -1,0 +1,21 @@
+uid: killoughter
+----
+title: Killoughter
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.025063
+----
+geolng: -6.049756

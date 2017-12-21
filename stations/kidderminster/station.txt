@@ -1,0 +1,21 @@
+uid: kidderminster
+----
+title: Kidderminster
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Kidderminster_railway_station
+----
+disused: 
+----
+code: KID
+----
+geolat: 52.384939
+----
+geolng: -2.238708

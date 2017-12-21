@@ -1,0 +1,21 @@
+uid: tydee
+----
+title: Tydee
+----
+title-today: Rogerstone
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Rogerstone_railway_station
+----
+disused: 
+----
+code: ROR
+----
+geolat: 51.595448
+----
+geolng: -3.066089

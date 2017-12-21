@@ -1,0 +1,21 @@
+uid: aberbeeg
+----
+title: Aberbeeg
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Aberbeeg_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.709793
+----
+geolng: -3.145484

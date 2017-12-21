@@ -1,0 +1,21 @@
+uid: devizes
+----
+title: Devizes
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: devizes
+----
+wikipedia: Devizes_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.35231
+----
+geolng: -1.9991

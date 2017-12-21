@@ -1,0 +1,21 @@
+uid: fullerton-bridge
+----
+title: Fullerton Bridge
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.153622
+----
+geolng: -1.459274

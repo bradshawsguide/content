@@ -1,0 +1,21 @@
+uid: lisnaskea
+----
+title: Lisnaskea
+----
+title-today: 
+----
+country: ireland
+----
+region: county-fermanagh
+----
+place: 
+----
+wikipedia: Lisnaskea_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.257461
+----
+geolng: -7.451609

@@ -1,0 +1,21 @@
+uid: withington
+----
+title: Withington
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Withington_(Hereford)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.077795
+----
+geolng: -2.635413

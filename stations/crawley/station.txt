@@ -1,0 +1,21 @@
+uid: crawley
+----
+title: Crawley
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: crawley
+----
+wikipedia: Crawley_railway_station
+----
+disused: c/crawley
+----
+code: CRW
+----
+geolat: 51.112555
+----
+geolng: -0.190375

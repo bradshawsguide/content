@@ -1,0 +1,21 @@
+uid: tipton
+----
+title: Tipton
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Tipton_Five_Ways_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.528994
+----
+geolng: -2.078818

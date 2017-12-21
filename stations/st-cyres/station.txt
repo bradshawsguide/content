@@ -1,0 +1,21 @@
+uid: st-cyres
+----
+title: St. Cyres
+----
+title-today: Newton St. Cyres
+----
+country: england
+----
+region: devonshire
+----
+place: st-cyres
+----
+wikipedia: Newton_St_Cyres_railway_station
+----
+disused: 
+----
+code: NTC
+----
+geolat: 50.779288
+----
+geolng: -3.589259

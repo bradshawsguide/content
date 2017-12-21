@@ -1,0 +1,21 @@
+uid: raglan-footpath
+----
+title: Raglan Footpath
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Raglan_Footpath_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.7607
+----
+geolng: -2.8425

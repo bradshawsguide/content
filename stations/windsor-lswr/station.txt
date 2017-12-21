@@ -1,0 +1,21 @@
+uid: windsor-lswr
+----
+title: Windsor (LSWR)
+----
+title-today: Eton & Windsor Riverside
+----
+country: england
+----
+region: berkshire
+----
+place: windsor
+----
+wikipedia: Windsor_%26_Eton_Riverside_railway_station
+----
+disused: 
+----
+code: WNR
+----
+geolat: 51.485918
+----
+geolng: -0.606555

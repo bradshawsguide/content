@@ -1,0 +1,21 @@
+uid: marlborough
+----
+title: Marlborough
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: marlborough
+----
+wikipedia: Marlborough_railway_stations
+----
+disused: 
+----
+code: 
+----
+geolat: 51.4162
+----
+geolng: -1.7224

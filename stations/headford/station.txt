@@ -1,0 +1,21 @@
+uid: headford
+----
+title: Headford
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.039496
+----
+geolng: -9.353654

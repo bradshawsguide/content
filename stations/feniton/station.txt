@@ -1,0 +1,21 @@
+uid: feniton
+----
+title: Feniton
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Feniton_railway_station
+----
+disused: 
+----
+code: FNT
+----
+geolat: 50.786625
+----
+geolng: -3.285913

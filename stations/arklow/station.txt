@@ -1,0 +1,21 @@
+uid: arklow
+----
+title: Arklow
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: Arklow_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.793889
+----
+geolng: -6.159722

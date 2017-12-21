@@ -1,0 +1,21 @@
+uid: eynsham
+----
+title: Eynsham
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Eynsham_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.77667
+----
+geolng: -1.377429

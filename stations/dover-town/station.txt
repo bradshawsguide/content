@@ -1,0 +1,21 @@
+uid: dover-town
+----
+title: Dover Town
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: dover
+----
+wikipedia: List_of_railway_stations_in_Dover
+----
+disused: d/dover_town
+----
+code: 
+----
+geolat: 51.11512
+----
+geolng: 1.3091112

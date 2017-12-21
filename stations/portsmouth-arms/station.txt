@@ -1,0 +1,21 @@
+uid: portsmouth-arms
+----
+title: Portsmouth Arms
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Portsmouth_Arms_railway_station
+----
+disused: 
+----
+code: PMA
+----
+geolat: 50.957258
+----
+geolng: -3.951302

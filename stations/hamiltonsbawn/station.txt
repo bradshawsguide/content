@@ -1,0 +1,21 @@
+uid: hamiltonsbawn
+----
+title: Hamiltons Baun
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 54.346682
+----
+geolng: -6.543455

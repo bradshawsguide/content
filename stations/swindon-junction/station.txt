@@ -1,0 +1,21 @@
+uid: swindon-junction
+----
+title: Swindow Junction
+----
+title-today: Swindon
+----
+country: england
+----
+region: wiltshire
+----
+place: swindon
+----
+wikipedia: Swindon_railway_station
+----
+disused: 
+----
+code: SWI
+----
+geolat: 51.56503
+----
+geolng: -1.785715

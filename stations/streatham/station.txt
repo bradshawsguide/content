@@ -1,0 +1,21 @@
+uid: streatham
+----
+title: Streatham
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Streatham_railway_station
+----
+disused: 
+----
+code: STE
+----
+geolat: 51.425813
+----
+geolng: -0.133714

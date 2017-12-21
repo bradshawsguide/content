@@ -1,0 +1,21 @@
+uid: coombe-and-malden
+----
+title: Coombe and Malden
+----
+title-today: New Malden
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: New_Malden_railway_station
+----
+disused: 
+----
+code: NEM
+----
+geolat: 51.403878
+----
+geolng: -0.256548

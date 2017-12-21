@@ -1,0 +1,21 @@
+uid: beckford
+----
+title: Beckford
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Beckford_railway_station
+----
+disused: b/beckford
+----
+code: 
+----
+geolat: 52.018369
+----
+geolng: -2.029827

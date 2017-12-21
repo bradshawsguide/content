@@ -1,0 +1,21 @@
+uid: bengeworth
+----
+title: Bengeworth
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Bengeworth_railway_station
+----
+disused: b/bengeworth
+----
+code: 
+----
+geolat: 52.085796
+----
+geolng: -1.96128

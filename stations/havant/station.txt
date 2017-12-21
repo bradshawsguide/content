@@ -1,0 +1,21 @@
+uid: havant
+----
+title: Havant
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: havant
+----
+wikipedia: Havant_railway_station
+----
+disused: 
+----
+code: HAV
+----
+geolat: 50.854025
+----
+geolng: -0.982061

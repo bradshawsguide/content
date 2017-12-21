@@ -1,0 +1,21 @@
+uid: llandinam
+----
+title: Llandinam
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Llandinam_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.486997
+----
+geolng: -3.439504

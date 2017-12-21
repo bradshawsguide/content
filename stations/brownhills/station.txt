@@ -1,0 +1,21 @@
+uid: brownhills
+----
+title: Brownhills
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Brownhills_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.649465
+----
+geolng: -1.934182

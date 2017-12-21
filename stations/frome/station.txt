@@ -1,0 +1,21 @@
+uid: frome
+----
+title: Frome
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: frome
+----
+wikipedia: Frome_railway_station
+----
+disused: 
+----
+code: FRO
+----
+geolat: 51.227628
+----
+geolng: -2.309999

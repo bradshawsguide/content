@@ -1,0 +1,21 @@
+uid: aldermaston
+----
+title: Aldermaston
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: aldermaston
+----
+wikipedia: Aldermaston_railway_station
+----
+disused: 
+----
+code: AMT
+----
+geolat: 51.402
+----
+geolng: -1.136704

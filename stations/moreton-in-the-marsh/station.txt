@@ -1,0 +1,21 @@
+uid: moreton-in-the-marsh
+----
+title: Moreton-in-the-Marsh
+----
+title-today: Moreton-in-Marsh
+----
+country: england
+----
+region: gloucestershire
+----
+place: moreton-in-the-marsh
+----
+wikipedia: Moreton-in-Marsh_railway_station
+----
+disused: 
+----
+code: MIM
+----
+geolat: 51.991916
+----
+geolng: -1.699218

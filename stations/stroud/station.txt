@@ -1,0 +1,21 @@
+uid: stroud
+----
+title: Stroud
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: stroud
+----
+wikipedia: Stroud_railway_station
+----
+disused: 
+----
+code: STD
+----
+geolat: 51.744845
+----
+geolng: -2.219384

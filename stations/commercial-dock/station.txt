@@ -1,0 +1,21 @@
+uid: commercial-dock
+----
+title: Commercial Dock
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Commercial_Dock_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.4894
+----
+geolng: -0.0526

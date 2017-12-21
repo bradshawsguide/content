@@ -1,0 +1,21 @@
+uid: montgomery
+----
+title: Montgomery
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: montgomery
+----
+wikipedia: Montgomery_railway_station
+----
+disused: m/montgomery
+----
+code: 
+----
+geolat: 52.573529
+----
+geolng: -3.175246

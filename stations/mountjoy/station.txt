@@ -1,0 +1,21 @@
+uid: mountjoy
+----
+title: Mountjoy
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 54.646182
+----
+geolng: -7.342133

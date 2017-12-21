@@ -1,0 +1,21 @@
+uid: worcester-foregate-street
+----
+title: Worcester Foregate Street
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Worcester_Foregate_Street_railway_station
+----
+disused: 
+----
+code: WOF
+----
+geolat: 52.195278
+----
+geolng: -2.221597

@@ -1,0 +1,21 @@
+uid: llanvihangel
+----
+title: Llanvihangel
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Llanvihangel_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.87299
+----
+geolng: -2.997108

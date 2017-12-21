@@ -1,0 +1,21 @@
+uid: deal
+----
+title: Deal
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: deal
+----
+wikipedia: Deal_railway_station
+----
+disused: 
+----
+code: DEA
+----
+geolat: 51.222726
+----
+geolng: 1.399196

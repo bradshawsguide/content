@@ -1,0 +1,21 @@
+uid: carisbrooke
+----
+title: Carisbrooke
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: carisbrooke
+----
+wikipedia: Carisbrooke_railway_station
+----
+disused: c/carisbrooke
+----
+code: 
+----
+geolat: 50.69457
+----
+geolng: -1.312573

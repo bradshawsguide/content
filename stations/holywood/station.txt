@@ -1,0 +1,21 @@
+uid: holywood
+----
+title: Holywood
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: holywood
+----
+wikipedia: Holywood_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.6411
+----
+geolng: -5.8395

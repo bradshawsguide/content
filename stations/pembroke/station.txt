@@ -1,0 +1,21 @@
+uid: pembroke
+----
+title: Pembroke
+----
+title-today: 
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: pembroke
+----
+wikipedia: Pembroke_railway_station
+----
+disused: 
+----
+code: PMB
+----
+geolat: 51.673119
+----
+geolng: -4.906179

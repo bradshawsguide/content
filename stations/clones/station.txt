@@ -1,0 +1,21 @@
+uid: clones
+----
+title: Clones
+----
+title-today: 
+----
+country: ireland
+----
+region: county-monaghan
+----
+place: 
+----
+wikipedia: Clones_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.181891
+----
+geolng: -7.237155

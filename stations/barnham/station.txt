@@ -1,0 +1,21 @@
+uid: barnham
+----
+title: Barnham
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: barnham
+----
+wikipedia: Barnham_railway_station
+----
+disused: 
+----
+code: BAA
+----
+geolat: 50.83076
+----
+geolng: -0.640352

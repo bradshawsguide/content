@@ -1,0 +1,21 @@
+uid: navan
+----
+title: Navan
+----
+title-today: 
+----
+country: ireland
+----
+region: county-meath
+----
+place: navan
+----
+wikipedia: Navan_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.648726
+----
+geolng: -6.684565

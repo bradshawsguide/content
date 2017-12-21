@@ -1,0 +1,21 @@
+uid: redruth
+----
+title: Redruth
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: redruth
+----
+wikipedia: Redruth_railway_station
+----
+disused: 
+----
+code: RED
+----
+geolat: 50.233623
+----
+geolng: -5.2258

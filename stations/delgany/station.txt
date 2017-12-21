@@ -1,0 +1,21 @@
+uid: delgany
+----
+title: Delgany
+----
+title-today: Greystones
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: Greystones_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.1435
+----
+geolng: -6.0606

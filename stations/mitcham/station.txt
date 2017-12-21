@@ -1,0 +1,21 @@
+uid: mitcham
+----
+title: Mitcham
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Mitcham_(London)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.397539
+----
+geolng: -0.171125

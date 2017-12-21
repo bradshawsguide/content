@@ -1,0 +1,21 @@
+uid: shepherds-well
+----
+title: Sheperds Well
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Shepherds_Well_railway_station
+----
+disused: 
+----
+code: SPH
+----
+geolat: 51.187968
+----
+geolng: 1.229164

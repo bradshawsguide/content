@@ -1,0 +1,21 @@
+uid: wincanton
+----
+title: Wincanton
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: wincanton
+----
+wikipedia: Wincanton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.052859
+----
+geolng: -2.414406

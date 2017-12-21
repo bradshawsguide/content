@@ -1,0 +1,21 @@
+uid: pewsey
+----
+title: Pewsey
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Pewsey_railway_station
+----
+disused: 
+----
+code: PEW
+----
+geolat: 51.342012
+----
+geolng: -1.770963

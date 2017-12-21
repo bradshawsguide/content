@@ -1,0 +1,21 @@
+uid: chiswick
+----
+title: Chiswick
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: chiswick
+----
+wikipedia: Chiswick_railway_station
+----
+disused: 
+----
+code: CHK
+----
+geolat: 51.481127
+----
+geolng: -0.267922

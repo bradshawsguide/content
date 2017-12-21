@@ -1,0 +1,21 @@
+uid: sevenoaks-junction
+----
+title: Sevenoaks Junction
+----
+title-today: Swanley
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Swanley_railway_station
+----
+disused: 
+----
+code: SAY
+----
+geolat: 51.393214
+----
+geolng: 0.168269

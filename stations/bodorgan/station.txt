@@ -1,0 +1,21 @@
+uid: bodorgan
+----
+title: Bodorgan
+----
+title-today: 
+----
+country: wales
+----
+region: anglesea
+----
+place: bodorgan
+----
+wikipedia: Bodorgan_railway_station
+----
+disused: 
+----
+code: BOR
+----
+geolat: 53.203866
+----
+geolng: -4.41723

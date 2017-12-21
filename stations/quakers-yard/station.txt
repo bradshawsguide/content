@@ -1,0 +1,21 @@
+uid: quakers-yard
+----
+title: Quaker's Yard
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Quakers_Yard_railway_station
+----
+disused: 
+----
+code: QYD
+----
+geolat: 51.660266
+----
+geolng: -3.32351

@@ -1,0 +1,21 @@
+uid: balmoral
+----
+title: Balmoral
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Balmoral_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.5688
+----
+geolng: -5.9682

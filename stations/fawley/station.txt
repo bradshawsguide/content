@@ -1,0 +1,21 @@
+uid: fawley
+----
+title: Fawley
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Fawley_(HR%26GR)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.965027
+----
+geolng: -2.6229

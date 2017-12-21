@@ -1,0 +1,21 @@
+uid: athlone
+----
+title: Athlone
+----
+title-today: 
+----
+country: ireland
+----
+region: county-westmeath
+----
+place: athlone
+----
+wikipedia: Athlone_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.427222
+----
+geolng: -7.936667

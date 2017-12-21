@@ -1,0 +1,21 @@
+uid: high-wycombe
+----
+title: High Wycombe
+----
+title-today: 
+----
+country: england
+----
+region: buckinghamshire
+----
+place: high-wycombe
+----
+wikipedia: High_Wycombe_railway_station
+----
+disused: 
+----
+code: HWY
+----
+geolat: 51.629555
+----
+geolng: -0.745194

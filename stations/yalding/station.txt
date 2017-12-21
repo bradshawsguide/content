@@ -1,0 +1,21 @@
+uid: yalding
+----
+title: Yalding
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: yalding
+----
+wikipedia: Yalding_railway_station
+----
+disused: 
+----
+code: YAL
+----
+geolat: 51.226555
+----
+geolng: 0.412512

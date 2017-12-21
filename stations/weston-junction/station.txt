@@ -1,0 +1,21 @@
+uid: weston-junction
+----
+title: Weston Junction
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Disused_railway_stations_on_the_Bristol_to_Exeter_Line#Weston_Junction
+----
+disused: 
+----
+code: 
+----
+geolat: 51.339331
+----
+geolng: -2.948138

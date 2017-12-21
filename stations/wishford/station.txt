@@ -1,0 +1,21 @@
+uid: wishford
+----
+title: Wishford
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: wishford
+----
+wikipedia: Wishford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.118503
+----
+geolng: -1.890749

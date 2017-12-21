@@ -1,0 +1,21 @@
+uid: buildwas
+----
+title: Buildwas
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Buildwas_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.633974
+----
+geolng: -2.516371

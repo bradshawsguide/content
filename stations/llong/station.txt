@@ -1,0 +1,21 @@
+uid: llong
+----
+title: Llong
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: 
+----
+wikipedia: Llong_railway_station
+----
+disused: l/llong
+----
+code: 
+----
+geolat: 53.153143
+----
+geolng: -3.105779

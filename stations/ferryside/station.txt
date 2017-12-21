@@ -1,0 +1,21 @@
+uid: ferryside
+----
+title: Ferryside
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Ferryside_railway_station
+----
+disused: 
+----
+code: FYS
+----
+geolat: 51.768829
+----
+geolng: -4.368758

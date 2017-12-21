@@ -1,0 +1,21 @@
+uid: cefn-cribwr
+----
+title: Cefn Cribwr
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.539139
+----
+geolng: -3.6611222

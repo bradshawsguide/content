@@ -1,0 +1,21 @@
+uid: erith
+----
+title: Erith
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: erith
+----
+wikipedia: Erith_railway_station
+----
+disused: 
+----
+code: ERH
+----
+geolat: 51.481637
+----
+geolng: 0.175341

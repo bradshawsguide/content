@@ -1,0 +1,21 @@
+uid: marshfield
+----
+title: Marshfield
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Marshfield_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.5299
+----
+geolng: -3.0585

@@ -1,0 +1,21 @@
+uid: leixlip
+----
+title: Leixlip
+----
+title-today: Leixlip Louisa Bridge
+----
+country: ireland
+----
+region: county-kildare
+----
+place: 
+----
+wikipedia: Leixlip_Louisa_Bridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.3699
+----
+geolng: -6.5069

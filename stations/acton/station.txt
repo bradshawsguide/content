@@ -1,0 +1,21 @@
+uid: acton
+----
+title: Acton
+----
+title-today: Acton Central
+----
+country: england
+----
+region: middlesex
+----
+place: acton
+----
+wikipedia: Acton_Central_railway_station
+----
+disused: 
+----
+code: ACC
+----
+geolat: 51.508723
+----
+geolng: -0.265144

@@ -1,0 +1,21 @@
+uid: hooton
+----
+title: Hooton
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Hooton_railway_station
+----
+disused: 
+----
+code: HOO
+----
+geolat: 53.297193
+----
+geolng: -2.977459

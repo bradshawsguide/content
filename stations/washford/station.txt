@@ -1,0 +1,21 @@
+uid: washford
+----
+title: Washford
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Washford_railway_station
+----
+disused: w/washford
+----
+code: 
+----
+geolat: 51.161575
+----
+geolng: -3.36925

@@ -1,0 +1,21 @@
+uid: ebbw-vale-low-level
+----
+title: Ebbw Vale Low Level
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Ebbw_Vale_(Low_Level)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.78291
+----
+geolng: -3.206773

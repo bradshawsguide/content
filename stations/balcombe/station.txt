@@ -1,0 +1,21 @@
+uid: balcombe
+----
+title: Balcombe
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: balcombe
+----
+wikipedia: Balcombe_railway_station
+----
+disused: 
+----
+code: BAB
+----
+geolat: 51.055839
+----
+geolng: -0.137206

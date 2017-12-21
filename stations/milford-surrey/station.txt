@@ -1,0 +1,21 @@
+uid: milford-surrey
+----
+title: Milford (Surrey)
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Milford_railway_station
+----
+disused: 
+----
+code: MLF
+----
+geolat: 51.163445
+----
+geolng: -0.636315

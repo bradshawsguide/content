@@ -1,0 +1,21 @@
+uid: cranmore
+----
+title: Cranmore
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Cranmore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.184927
+----
+geolng: -2.478882

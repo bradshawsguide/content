@@ -1,0 +1,21 @@
+uid: ropley
+----
+title: Ropley
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Ropley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.087919
+----
+geolng: -1.102584

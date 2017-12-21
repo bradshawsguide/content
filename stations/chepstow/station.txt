@@ -1,0 +1,21 @@
+uid: chepstow
+----
+title: Chepstow
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: chepstow
+----
+wikipedia: Chepstow_railway_station
+----
+disused: 
+----
+code: CPW
+----
+geolat: 51.639732
+----
+geolng: -2.671176

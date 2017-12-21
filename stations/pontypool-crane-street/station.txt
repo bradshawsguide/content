@@ -1,0 +1,21 @@
+uid: pontypool-crane-street
+----
+title: Pontypool Crane Street
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Pontypool_Crane_Street_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.700874
+----
+geolng: -3.041072

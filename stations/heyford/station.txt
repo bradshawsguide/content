@@ -1,0 +1,21 @@
+uid: heyford
+----
+title: Heyford
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Heyford_railway_station
+----
+disused: 
+----
+code: HYD
+----
+geolat: 51.919183
+----
+geolng: -1.298398

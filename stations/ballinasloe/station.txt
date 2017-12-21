@@ -1,0 +1,21 @@
+uid: ballinasloe
+----
+title: Ballinasloe
+----
+title-today: 
+----
+country: ireland
+----
+region: county-galway
+----
+place: 
+----
+wikipedia: Ballinasloe_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.336255
+----
+geolng: -8.2408

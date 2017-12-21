@@ -1,0 +1,21 @@
+uid: blackrock
+----
+title: Blackrock
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: Blackrock_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.30297
+----
+geolng: -6.17891

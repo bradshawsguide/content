@@ -1,0 +1,21 @@
+uid: hereford
+----
+title: Hereford
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: hereford
+----
+wikipedia: Hereford_railway_station
+----
+disused: 
+----
+code: HFD
+----
+geolat: 52.061197
+----
+geolng: -2.708109

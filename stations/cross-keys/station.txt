@@ -1,0 +1,21 @@
+uid: cross-keys
+----
+title: Cross Keys
+----
+title-today: Crosskeys
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Crosskeys_railway_station
+----
+disused: 
+----
+code: CKY
+----
+geolat: 51.620966
+----
+geolng: -3.125911

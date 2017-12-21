@@ -1,0 +1,21 @@
+uid: llanymynech
+----
+title: Llanymynech
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Llanymynech_railway_station
+----
+disused: l/llanymynech
+----
+code: 
+----
+geolat: 52.781194
+----
+geolng: -3.081498

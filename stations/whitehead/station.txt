@@ -1,0 +1,21 @@
+uid: whitehead
+----
+title: Whitehead
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Whitehead_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.752778
+----
+geolng: -5.709444

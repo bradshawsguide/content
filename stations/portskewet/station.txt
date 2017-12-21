@@ -1,0 +1,21 @@
+uid: portskewet
+----
+title: Portskewet
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Portskewett_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.590799
+----
+geolng: -2.714958

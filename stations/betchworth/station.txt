@@ -1,0 +1,21 @@
+uid: betchworth
+----
+title: Betchworth
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: betchworth
+----
+wikipedia: Betchworth_railway_station
+----
+disused: 
+----
+code: BTO
+----
+geolat: 51.247586
+----
+geolng: -0.267024

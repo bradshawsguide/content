@@ -1,0 +1,21 @@
+uid: berwyn
+----
+title: Berwyn
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Berwyn_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.979678
+----
+geolng: -3.195177

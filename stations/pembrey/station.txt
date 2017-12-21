@@ -1,0 +1,21 @@
+uid: pembrey
+----
+title: Pembrey
+----
+title-today: Pembrey and Burry Port
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: pembrey
+----
+wikipedia: Pembrey_and_Burry_Port_railway_station
+----
+disused: 
+----
+code: PBY
+----
+geolat: 51.683989
+----
+geolng: -4.247141

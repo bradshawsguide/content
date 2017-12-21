@@ -1,0 +1,21 @@
+uid: ham-street
+----
+title: Ham Street
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Ham_Street_railway_station
+----
+disused: 
+----
+code: HMT
+----
+geolat: 51.068211
+----
+geolng: 0.853925

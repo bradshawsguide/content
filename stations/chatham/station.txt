@@ -1,0 +1,21 @@
+uid: chatham
+----
+title: Chatham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: chatham
+----
+wikipedia: Chatham_railway_station
+----
+disused: 
+----
+code: CTM
+----
+geolat: 51.380753
+----
+geolng: 0.521215

@@ -1,0 +1,21 @@
+uid: bangor
+----
+title: Bangor
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: bangor
+----
+wikipedia: Bangor_(Gwynedd)_railway_station
+----
+disused: 
+----
+code: BNG
+----
+geolat: 53.222743
+----
+geolng: -4.135154

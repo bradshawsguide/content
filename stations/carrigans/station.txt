@@ -1,0 +1,21 @@
+uid: carrigans
+----
+title: Carrigans
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Carrigans_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.947112
+----
+geolng: -7.42382

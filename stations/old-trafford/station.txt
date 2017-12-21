@@ -1,0 +1,21 @@
+uid: old-trafford
+----
+title: Old Trafford
+----
+title-today: 
+----
+country: england
+----
+region: lancashire
+----
+place: 
+----
+wikipedia: Trafford_Bar_tram_stop
+----
+disused: 
+----
+code: 
+----
+geolat: 53.461773
+----
+geolng: -2.277848

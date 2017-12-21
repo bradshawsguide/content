@@ -1,0 +1,21 @@
+uid: hampton
+----
+title: Hampton
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Hampton_(London)_railway_station
+----
+disused: 
+----
+code: HMP
+----
+geolat: 51.415874
+----
+geolng: -0.371762

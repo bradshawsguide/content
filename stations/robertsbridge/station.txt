@@ -1,0 +1,21 @@
+uid: robertsbridge
+----
+title: Robertsbridge
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: robertsbridge
+----
+wikipedia: Robertsbridge_railway_station
+----
+disused: 
+----
+code: RBR
+----
+geolat: 50.985255
+----
+geolng: 0.468372

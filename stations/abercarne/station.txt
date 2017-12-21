@@ -1,0 +1,21 @@
+uid: abercarne
+----
+title: Abercarne
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Abercarn_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.64962
+----
+geolng: -3.138185

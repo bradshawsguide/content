@@ -1,0 +1,21 @@
+uid: ashchurch
+----
+title: Ashchurch
+----
+title-today: Ashchurch for Tewkesbury
+----
+country: england
+----
+region: gloucestershire
+----
+place: 
+----
+wikipedia: Ashchurch_for_Tewkesbury_railway_station
+----
+disused: 
+----
+code: ASC
+----
+geolat: 51.998543
+----
+geolng: -2.108468

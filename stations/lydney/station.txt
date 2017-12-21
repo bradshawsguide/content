@@ -1,0 +1,21 @@
+uid: lydney
+----
+title: Lydney
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: 
+----
+wikipedia: Lydney_railway_station
+----
+disused: 
+----
+code: LYD
+----
+geolat: 51.715973
+----
+geolng: -2.531898

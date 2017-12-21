@@ -1,0 +1,21 @@
+uid: baldoyle-and-sutton
+----
+title: Baldoyle and Sutton
+----
+title-today: Sutton
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: Sutton_railway_station,_Dublin
+----
+disused: 
+----
+code: 
+----
+geolat: 53.39197
+----
+geolng: -6.11628

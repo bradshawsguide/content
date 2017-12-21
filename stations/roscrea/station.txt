@@ -1,0 +1,21 @@
+uid: roscrea
+----
+title: Roscrea
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tipperary
+----
+place: roscrea
+----
+wikipedia: Roscrea_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.96047
+----
+geolng: -7.79449

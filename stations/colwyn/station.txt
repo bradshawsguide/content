@@ -1,0 +1,21 @@
+uid: colwyn
+----
+title: Colwyn
+----
+title-today: Colwyn Bay
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Colwyn_Bay_railway_station
+----
+disused: 
+----
+code: CWB
+----
+geolat: 53.296817
+----
+geolng: -3.724685

@@ -1,0 +1,21 @@
+uid: benfleet
+----
+title: Benfleet
+----
+title-today: 
+----
+country: england
+----
+region: essex
+----
+place: 
+----
+wikipedia: Benfleet_railway_station
+----
+disused: 
+----
+code: BEF
+----
+geolat: 51.54445
+----
+geolng: 0.561987

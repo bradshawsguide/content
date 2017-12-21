@@ -1,0 +1,21 @@
+uid: aberdovey
+----
+title: Aberdovey
+----
+title-today: 
+----
+country: wales
+----
+region: merionethshire
+----
+place: 
+----
+wikipedia: Aberdovey_railway_station
+----
+disused: 
+----
+code: AVW
+----
+geolat: 52.544417
+----
+geolng: -4.056351

@@ -1,0 +1,21 @@
+uid: shipton
+----
+title: Shipton
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: shipton
+----
+wikipedia: Shipton_railway_station
+----
+disused: 
+----
+code: SIP
+----
+geolat: 51.865724
+----
+geolng: -1.592591

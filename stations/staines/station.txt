@@ -1,0 +1,21 @@
+uid: staines
+----
+title: Staines
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: staines
+----
+wikipedia: Staines_railway_station
+----
+disused: 
+----
+code: SNS
+----
+geolat: 51.432471
+----
+geolng: -0.501725

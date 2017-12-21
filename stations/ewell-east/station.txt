@@ -1,0 +1,21 @@
+uid: ewell-east
+----
+title: Ewell East
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Ewell_East_railway_station
+----
+disused: 
+----
+code: EWE
+----
+geolat: 51.345293
+----
+geolng: -0.243694

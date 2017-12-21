@@ -1,0 +1,21 @@
+uid: woodstock-road
+----
+title: Woodstock Road
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: woodstock-road
+----
+wikipedia: Kidlington_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.83018
+----
+geolng: -1.299781

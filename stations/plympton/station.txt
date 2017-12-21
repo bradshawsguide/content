@@ -1,0 +1,21 @@
+uid: plympton
+----
+title: Plympton
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Disused_railway_stations_on_the_Exeter_to_Plymouth_Line#Plympton
+----
+disused: 
+----
+code: 
+----
+geolat: 50.3911
+----
+geolng: -4.0576

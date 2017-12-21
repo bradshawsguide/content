@@ -1,0 +1,21 @@
+uid: hounslow
+----
+title: Hounslow
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: hounslow
+----
+wikipedia: Hounslow_railway_station
+----
+disused: 
+----
+code: HOU
+----
+geolat: 51.461925
+----
+geolng: -0.36234

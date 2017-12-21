@@ -1,0 +1,21 @@
+uid: fremington
+----
+title: Fremington
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.079777
+----
+geolng: -4.119928

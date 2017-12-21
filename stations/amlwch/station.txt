@@ -1,0 +1,21 @@
+uid: amlwch
+----
+title: Amlwch
+----
+title-today: 
+----
+country: wales
+----
+region: anglesea
+----
+place: 
+----
+wikipedia: Amlwch_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.40909
+----
+geolng: -4.34547

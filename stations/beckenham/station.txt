@@ -1,0 +1,21 @@
+uid: beckenham
+----
+title: Beckenham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: beckenham
+----
+wikipedia: Beckenham_Junction_station
+----
+disused: 
+----
+code: BKJ
+----
+geolat: 51.410942
+----
+geolng: -0.025702

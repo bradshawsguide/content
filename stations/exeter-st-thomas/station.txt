@@ -1,0 +1,21 @@
+uid: exeter-st-thomas
+----
+title: Exeter St. Thomas
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Exeter_St_Thomas_railway_station
+----
+disused: 
+----
+code: EXT
+----
+geolat: 50.717009
+----
+geolng: -3.538988

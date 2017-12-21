@@ -1,0 +1,21 @@
+uid: altrincham-and-bowdon
+----
+title: Altrincham and Bowdon
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: altrincham-and-bowdon
+----
+wikipedia: Altrincham_Interchange
+----
+disused: 
+----
+code: ALT
+----
+geolat: 53.387887
+----
+geolng: -2.346529

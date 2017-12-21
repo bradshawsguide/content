@@ -1,0 +1,21 @@
+uid: manchester-oxford-road
+----
+title: Manchester Oxford Road
+----
+title-today: 
+----
+country: england
+----
+region: lancashire
+----
+place: manchester
+----
+wikipedia: Manchester_Oxford_Road_railway_station
+----
+disused: 
+----
+code: MCO
+----
+geolat: 53.473536
+----
+geolng: -2.241767

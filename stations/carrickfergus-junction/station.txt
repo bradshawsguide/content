@@ -1,0 +1,21 @@
+uid: carrickfergus-junction
+----
+title: Carrickfergus Junction
+----
+title-today: Greenisland
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Greenisland_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.700278
+----
+geolng: -5.873333

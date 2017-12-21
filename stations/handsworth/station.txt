@@ -1,0 +1,21 @@
+uid: handsworth
+----
+title: Handsworth
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Handsworth_and_Smethwick_railway_station
+----
+disused: h/handsworth
+----
+code: 
+----
+geolat: 52.502041
+----
+geolng: -1.952079

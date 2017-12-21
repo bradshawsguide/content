@@ -1,0 +1,21 @@
+uid: peterston
+----
+title: Peterston
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Peterston_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.4784
+----
+geolng: -3.3281

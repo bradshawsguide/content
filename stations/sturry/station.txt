@@ -1,0 +1,21 @@
+uid: sturry
+----
+title: Sturry
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: sturry
+----
+wikipedia: Sturry_railway_station
+----
+disused: 
+----
+code: STU
+----
+geolat: 51.300607
+----
+geolng: 1.122281

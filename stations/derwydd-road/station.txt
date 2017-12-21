@@ -1,0 +1,21 @@
+uid: derwydd-road
+----
+title: Derwydd Road
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.842497
+----
+geolng: -4.005326

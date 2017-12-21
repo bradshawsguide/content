@@ -1,0 +1,21 @@
+uid: carrickhugh
+----
+title: Carrickhugh
+----
+title-today: Carrichue
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Carrichue_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.0475
+----
+geolng: -7.0599

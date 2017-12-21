@@ -1,0 +1,21 @@
+uid: oxford
+----
+title: Oxford
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: oxford
+----
+wikipedia: Oxford_railway_station
+----
+disused: 
+----
+code: OXF
+----
+geolat: 51.753578
+----
+geolng: -1.270543

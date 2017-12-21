@@ -1,0 +1,21 @@
+uid: mortlake
+----
+title: Mortlake
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: mortlake
+----
+wikipedia: Mortlake_railway_station
+----
+disused: 
+----
+code: MTL
+----
+geolat: 51.468136
+----
+geolng: -0.267333

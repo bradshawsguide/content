@@ -1,0 +1,21 @@
+uid: barking
+----
+title: Barking
+----
+title-today: 
+----
+country: england
+----
+region: essex
+----
+place: barking
+----
+wikipedia: Barking_station
+----
+disused: 
+----
+code: BKG
+----
+geolat: 51.539509
+----
+geolng: 0.07883

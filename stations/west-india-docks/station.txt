@@ -1,0 +1,21 @@
+uid: west-india-docks
+----
+title: West India Docks
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: West_India_Docks_railway_station
+----
+disused: w/west_india_dock
+----
+code: 
+----
+geolat: 51.508556
+----
+geolng: -0.022969

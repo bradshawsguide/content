@@ -1,0 +1,21 @@
+uid: ballycar
+----
+title: Ballycar
+----
+title-today: 
+----
+country: ireland
+----
+region: county-clare
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.765699
+----
+geolng: -8.858224

@@ -1,0 +1,21 @@
+uid: stoke-edith
+----
+title: Stoke Edith
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Stoke_Edith_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.069169
+----
+geolng: -2.563806

@@ -1,0 +1,21 @@
+uid: ballynahinch-junction
+----
+title: Ballynahinch Junction
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Ballynahinch_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.42667
+----
+geolng: -5.821295

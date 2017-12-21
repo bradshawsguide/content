@@ -1,0 +1,21 @@
+uid: minsterley
+----
+title: Minsterley
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Minsterley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.641393
+----
+geolng: -2.922868

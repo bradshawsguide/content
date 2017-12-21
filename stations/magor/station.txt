@@ -1,0 +1,21 @@
+uid: magor
+----
+title: Magor
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Magor_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.57801
+----
+geolng: -2.831002

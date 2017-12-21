@@ -1,0 +1,21 @@
+uid: fay-gate
+----
+title: Fay Gate
+----
+title-today: Faygate
+----
+country: england
+----
+region: sussex
+----
+place: fay-gate
+----
+wikipedia: Faygate_railway_station
+----
+disused: 
+----
+code: FGT
+----
+geolat: 51.095543
+----
+geolng: -0.262717

@@ -1,0 +1,21 @@
+uid: waterloo-junction
+----
+title: Waterloo Junction
+----
+title-today: Waterloo East
+----
+country: england
+----
+region: surrey
+----
+place: waterloo-junction
+----
+wikipedia: London_Waterloo_East_railway_station
+----
+disused: 
+----
+code: WAE
+----
+geolat: 51.503146
+----
+geolng: -0.113259

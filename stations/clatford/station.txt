@@ -1,0 +1,21 @@
+uid: clatford
+----
+title: Clatford
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.181521
+----
+geolng: -1.485765

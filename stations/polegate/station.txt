@@ -1,0 +1,21 @@
+uid: polegate
+----
+title: Polegate
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: polegate
+----
+wikipedia: Polegate_railway_station
+----
+disused: p/polegate
+----
+code: PLG
+----
+geolat: 50.821573
+----
+geolng: 0.245326

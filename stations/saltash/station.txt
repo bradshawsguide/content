@@ -1,0 +1,21 @@
+uid: saltash
+----
+title: Saltash
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Saltash_railway_station
+----
+disused: 
+----
+code: STS
+----
+geolat: 50.407632
+----
+geolng: -4.208703

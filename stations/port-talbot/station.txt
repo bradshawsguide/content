@@ -1,0 +1,21 @@
+uid: port-talbot
+----
+title: Port Talbot
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: port-talbot
+----
+wikipedia: Port_Talbot_Parkway_railway_station
+----
+disused: 
+----
+code: PTA
+----
+geolat: 51.592155
+----
+geolng: -3.782053

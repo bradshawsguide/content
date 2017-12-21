@@ -1,0 +1,21 @@
+uid: castlerock
+----
+title: Castlerock
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Castlerock_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.165278
+----
+geolng: -6.786944

@@ -1,0 +1,21 @@
+uid: crediton
+----
+title: Crediton
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: crediton
+----
+wikipedia: Crediton_railway_station
+----
+disused: 
+----
+code: CDI
+----
+geolat: 50.782995
+----
+geolng: -3.646128

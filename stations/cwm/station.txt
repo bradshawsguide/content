@@ -1,0 +1,21 @@
+uid: cwm
+----
+title: Cwm
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Cwm_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.742695
+----
+geolng: -3.182526

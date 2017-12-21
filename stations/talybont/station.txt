@@ -1,0 +1,21 @@
+uid: talybont
+----
+title: Talybont
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Talybont-on-Usk_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.89988
+----
+geolng: -3.284031

@@ -1,0 +1,21 @@
+uid: cootehill
+----
+title: Cootehill
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cavan
+----
+place: 
+----
+wikipedia: Cootehill_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.071765
+----
+geolng: -7.06726

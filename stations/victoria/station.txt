@@ -1,0 +1,21 @@
+uid: victoria
+----
+title: Victoria
+----
+title-today: London Victoria
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: London_Victoria_station
+----
+disused: 
+----
+code: VIC
+----
+geolat: 51.495214
+----
+geolng: -0.146092

@@ -1,0 +1,21 @@
+uid: farnham
+----
+title: Farnham
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: farnham
+----
+wikipedia: Farnham_railway_station
+----
+disused: 
+----
+code: FNH
+----
+geolat: 51.21192
+----
+geolng: -0.792369

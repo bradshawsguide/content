@@ -1,0 +1,21 @@
+uid: stratford-upon-avon
+----
+title: Stratford-upon-Avon
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: stratford-upon-avon
+----
+wikipedia: Stratford-upon-Avon_railway_station
+----
+disused: 
+----
+code: SAV
+----
+geolat: 52.194248
+----
+geolng: -1.716874

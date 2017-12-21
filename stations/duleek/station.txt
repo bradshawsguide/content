@@ -1,0 +1,21 @@
+uid: duleek
+----
+title: Duleek
+----
+title-today:
+----
+country: ireland
+----
+region: county-meath
+----
+place: 
+----
+wikipedia: Duleek_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.669995
+----
+geolng: -6.419692

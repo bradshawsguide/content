@@ -1,0 +1,21 @@
+uid: llangunlo
+----
+title: Llangunlo
+----
+title-today: Llangynllo
+----
+country: wales
+----
+region: radnorshire
+----
+place: 
+----
+wikipedia: Llangynllo_railway_station
+----
+disused: 
+----
+code: LGO
+----
+geolat: 52.349797
+----
+geolng: -3.161961

@@ -1,0 +1,21 @@
+uid: kensal-green
+----
+title: Kensal Green
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Kensal_Green_and_Harlesden_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.5328
+----
+geolng: -0.2341

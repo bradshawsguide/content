@@ -1,0 +1,21 @@
+uid: keynsham
+----
+title: Keynsham
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: keynsham
+----
+wikipedia: Keynsham_railway_station
+----
+disused: 
+----
+code: KYN
+----
+geolat: 51.41851
+----
+geolng: -2.4968

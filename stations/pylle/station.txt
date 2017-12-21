@@ -1,0 +1,21 @@
+uid: pylle
+----
+title: Pylle
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Pylle_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.148531
+----
+geolng: -2.546791

@@ -1,0 +1,21 @@
+uid: neen-sollers
+----
+title: Neen Sollers
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Neen_Sollars_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.345465
+----
+geolng: -2.499789

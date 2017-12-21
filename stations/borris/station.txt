@@ -1,0 +1,21 @@
+uid: borris
+----
+title: Borris
+----
+title-today: 
+----
+country: ireland
+----
+region: county-carlow
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.603629
+----
+geolng: -6.924943

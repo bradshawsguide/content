@@ -1,0 +1,21 @@
+uid: oakengates
+----
+title: Oakengates
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Oakengates_railway_station
+----
+disused: 
+----
+code: OKN
+----
+geolat: 52.693575
+----
+geolng: -2.450492

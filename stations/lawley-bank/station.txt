@@ -1,0 +1,21 @@
+uid: lawley-bank
+----
+title: Lawley Bank
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Lawley_Bank_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.675474
+----
+geolng: -2.481364

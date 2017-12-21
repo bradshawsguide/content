@@ -1,0 +1,21 @@
+uid: newcastle
+----
+title: Newcastle
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.069162
+----
+geolng: -6.035148

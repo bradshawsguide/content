@@ -1,0 +1,21 @@
+uid: upton-and-brinny
+----
+title: Upton and Brinny
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: Upton_and_Innishannon_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.787145
+----
+geolng: -8.672039

@@ -1,0 +1,21 @@
+uid: madeley
+----
+title: Madeley
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Madeley_(Shropshire)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.645043
+----
+geolng: -2.447037

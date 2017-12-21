@@ -1,0 +1,21 @@
+uid: llantrissant
+----
+title: Llantrissant
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: llantrissant
+----
+wikipedia: Pontyclun_railway_station
+----
+disused: 
+----
+code: PYC
+----
+geolat: 51.524599
+----
+geolng: -3.391646

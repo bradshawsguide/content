@@ -1,0 +1,21 @@
+uid: pontypool-road
+----
+title: Pontypool Road
+----
+title-today: Pontypool and New Inn
+----
+country: england
+----
+region: monmouthshire
+----
+place: pontypool-road
+----
+wikipedia: Pontypool_and_New_Inn_railway_station
+----
+disused: 
+----
+code: PPL
+----
+geolat: 51.697519
+----
+geolng: -3.013503

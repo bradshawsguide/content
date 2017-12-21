@@ -1,0 +1,21 @@
+uid: west-drayton
+----
+title: West Drayton
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: west-drayton
+----
+wikipedia: West_Drayton_railway_station
+----
+disused: 
+----
+code: WDT
+----
+geolat: 51.510095
+----
+geolng: -0.472708

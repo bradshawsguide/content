@@ -1,0 +1,21 @@
+uid: godstone
+----
+title: Godstone
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: godstone
+----
+wikipedia: Godstone_railway_station
+----
+disused: 
+----
+code: GDN
+----
+geolat: 51.218099
+----
+geolng: -0.050474

@@ -1,0 +1,21 @@
+uid: athenry
+----
+title: Athenry
+----
+title-today: 
+----
+country: ireland
+----
+region: county-galway
+----
+place: 
+----
+wikipedia: Athenry_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.300833
+----
+geolng: -8.749722

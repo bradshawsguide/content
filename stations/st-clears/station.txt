@@ -1,0 +1,21 @@
+uid: st-clears
+----
+title: St. Clears
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: st-clears
+----
+wikipedia: St_Clears_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.828324
+----
+geolng: -4.492343

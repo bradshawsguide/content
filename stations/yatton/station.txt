@@ -1,0 +1,21 @@
+uid: yatton
+----
+title: Yatton
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Yatton_railway_station
+----
+disused: 
+----
+code: YAT
+----
+geolat: 51.390568
+----
+geolng: -2.827052

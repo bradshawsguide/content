@@ -1,0 +1,21 @@
+uid: richhill
+----
+title: Richhill
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: Richhill_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.385221
+----
+geolng: -6.572025

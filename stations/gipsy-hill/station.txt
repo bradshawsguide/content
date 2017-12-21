@@ -1,0 +1,21 @@
+uid: gipsy-hill
+----
+title: Gipsy Hill
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Gipsy_Hill_railway_station
+----
+disused: 
+----
+code: GIP
+----
+geolat: 51.424579
+----
+geolng: -0.083413

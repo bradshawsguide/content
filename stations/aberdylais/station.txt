@@ -1,0 +1,21 @@
+uid: aberdylais
+----
+title: Aberdylais
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Aberdylais_Halt_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.67781
+----
+geolng: -3.77758

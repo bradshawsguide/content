@@ -1,0 +1,21 @@
+uid: omagh
+----
+title: Omagh
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Omagh_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.598698
+----
+geolng: -7.293909

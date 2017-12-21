@@ -1,0 +1,21 @@
+uid: downhill
+----
+title: Downhill
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Downhill_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.166446
+----
+geolng: -6.82048

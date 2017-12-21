@@ -1,0 +1,21 @@
+uid: portarlington
+----
+title: Portarlington
+----
+title-today: 
+----
+country: ireland
+----
+region: queens-county
+----
+place: portarlington
+----
+wikipedia: Portarlington_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.146111
+----
+geolng: -7.181111

@@ -1,0 +1,21 @@
+uid: rhewl
+----
+title: Rhewl
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Rhewl_railway_station
+----
+disused: r/rhewl
+----
+code: 
+----
+geolat: 53.13469
+----
+geolng: -3.328029

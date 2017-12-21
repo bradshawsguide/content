@@ -1,0 +1,21 @@
+uid: condover
+----
+title: Condover
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: condover
+----
+wikipedia: Condover_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.654195
+----
+geolng: -2.766438

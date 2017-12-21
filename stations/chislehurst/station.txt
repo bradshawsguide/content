@@ -1,0 +1,21 @@
+uid: chislehurst
+----
+title: Chislehurst
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Chislehurst_railway_station
+----
+disused: 
+----
+code: CIT
+----
+geolat: 51.405442
+----
+geolng: 0.057701

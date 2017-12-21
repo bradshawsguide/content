@@ -1,0 +1,21 @@
+uid: st-germans
+----
+title: St. Germans
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: St_Germans_railway_station
+----
+disused: 
+----
+code: SGM
+----
+geolat: 50.394011
+----
+geolng: -4.307969

@@ -1,0 +1,21 @@
+uid: moat-lane
+----
+title: Moat Lane
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Moat_Lane_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.509785
+----
+geolng: -3.413726

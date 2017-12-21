@@ -1,0 +1,21 @@
+uid: brecon
+----
+title: Brecon
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Brecon_Free_Street_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.946397
+----
+geolng: -3.384297

@@ -1,0 +1,21 @@
+uid: newport-dock-street
+----
+title: Newport Dock Street
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Newport_Dock_Street_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.5824
+----
+geolng: -2.9868

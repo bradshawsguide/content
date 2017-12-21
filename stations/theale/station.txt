@@ -1,0 +1,21 @@
+uid: theale
+----
+title: Theale
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Theale_railway_station
+----
+disused: 
+----
+code: THE
+----
+geolat: 51.432995
+----
+geolng: -1.074263

@@ -1,0 +1,21 @@
+uid: fintona-junction
+----
+title: Fintona Junction
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Fintona_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.503941
+----
+geolng: -7.327668

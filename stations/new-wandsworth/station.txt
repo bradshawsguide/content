@@ -1,0 +1,21 @@
+uid: new-wandsworth
+----
+title: New Wandsworth
+----
+title-today: Wandsworth Common
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Wandsworth_Common_railway_station
+----
+disused: 
+----
+code: WSW
+----
+geolat: 51.446183
+----
+geolng: -0.165554

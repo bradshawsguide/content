@@ -1,0 +1,21 @@
+uid: llandebie
+----
+title: Llandebie
+----
+title-today: Llandybie
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Llandybie_railway_station
+----
+disused: 
+----
+code: LLI
+----
+geolat: 51.820572
+----
+geolng: -4.004352

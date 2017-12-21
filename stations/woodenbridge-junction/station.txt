@@ -1,0 +1,21 @@
+uid: woodenbridge-junction
+----
+title: Woodenbridge Junction
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.832999
+----
+geolng: -6.231528

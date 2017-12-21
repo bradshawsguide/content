@@ -1,0 +1,21 @@
+uid: cradley
+----
+title: Cradley
+----
+title-today: Cradley Heath
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Cradley_Heath_railway_station
+----
+disused: 
+----
+code: CRA
+----
+geolat: 52.469652
+----
+geolng: -2.090488

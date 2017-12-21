@@ -1,0 +1,21 @@
+uid: erwood
+----
+title: Erwood
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Erwood_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.086352
+----
+geolng: -3.333163

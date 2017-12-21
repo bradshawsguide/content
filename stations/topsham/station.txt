@@ -1,0 +1,21 @@
+uid: topsham
+----
+title: Topsham
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Topsham_railway_station
+----
+disused: 
+----
+code: TOP
+----
+geolat: 50.685595
+----
+geolng: -3.464347

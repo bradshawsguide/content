@@ -1,0 +1,21 @@
+uid: pontesbury
+----
+title: Pontesbury
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Pontesbury_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.651518
+----
+geolng: -2.892039

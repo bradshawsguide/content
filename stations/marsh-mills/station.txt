@@ -1,0 +1,21 @@
+uid: marsh-mills
+----
+title: Marsh Mills
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Marsh_Mills_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.39243
+----
+geolng: -4.082073

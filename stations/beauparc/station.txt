@@ -1,0 +1,21 @@
+uid: beauparc
+----
+title: Beauparc
+----
+title-today: 
+----
+country: ireland
+----
+region: county-meath
+----
+place: beauparc
+----
+wikipedia: Beaupark_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.670002
+----
+geolng: -6.419679

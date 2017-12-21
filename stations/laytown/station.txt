@@ -1,0 +1,21 @@
+uid: laytown
+----
+title: Laytown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-meath
+----
+place: 
+----
+wikipedia: Laytown_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.679
+----
+geolng: -6.2423

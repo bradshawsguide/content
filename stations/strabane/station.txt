@@ -1,0 +1,21 @@
+uid: strabane
+----
+title: Strabane
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Strabane_(GNI)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.832272
+----
+geolng: -7.470134

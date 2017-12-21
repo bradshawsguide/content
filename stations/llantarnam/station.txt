@@ -1,0 +1,21 @@
+uid: llantarnam
+----
+title: Llantarnam
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.625253
+----
+geolng: -3.014871

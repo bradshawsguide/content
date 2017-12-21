@@ -1,0 +1,21 @@
+uid: ford-bridge
+----
+title: Ford Bridge
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Ford_Bridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.192395
+----
+geolng: -2.71897

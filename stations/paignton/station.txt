@@ -1,0 +1,21 @@
+uid: paignton
+----
+title: Paignton
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Paignton_railway_station
+----
+disused: 
+----
+code: PGN
+----
+geolat: 50.434265
+----
+geolng: -3.565002

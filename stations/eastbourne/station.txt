@@ -1,0 +1,21 @@
+uid: eastbourne
+----
+title: Eastbourne
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: eastbourne
+----
+wikipedia: Eastbourne_railway_station
+----
+disused: 
+----
+code: EBN
+----
+geolat: 50.769612
+----
+geolng: 0.281131

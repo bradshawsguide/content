@@ -1,0 +1,21 @@
+uid: wilmcote
+----
+title: Wilmcote
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Wilmcote_railway_station
+----
+disused: 
+----
+code: WMC
+----
+geolat: 52.222206
+----
+geolng: -1.756221

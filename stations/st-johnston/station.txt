@@ -1,0 +1,21 @@
+uid: st-johnston
+----
+title: St. Johnston
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: St._Johnston_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.933674
+----
+geolng: -7.456447

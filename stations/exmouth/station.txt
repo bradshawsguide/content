@@ -1,0 +1,21 @@
+uid: exmouth
+----
+title: Exmouth
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: exmouth
+----
+wikipedia: Exmouth_railway_station
+----
+disused: 
+----
+code: EXM
+----
+geolat: 50.621444
+----
+geolng: -3.415701

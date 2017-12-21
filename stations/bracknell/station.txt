@@ -1,0 +1,21 @@
+uid: bracknell
+----
+title: Bracknell
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Bracknell_railway_station
+----
+disused: 
+----
+code: BCE
+----
+geolat: 51.412913
+----
+geolng: -0.751133

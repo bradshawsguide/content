@@ -1,0 +1,21 @@
+uid: barmouth
+----
+title: Barmouth
+----
+title-today: 
+----
+country: wales
+----
+region: merionethshire
+----
+place: barmouth
+----
+wikipedia: Barmouth_railway_station
+----
+disused: 
+----
+code: BRM
+----
+geolat: 52.722452
+----
+geolng: -4.055835

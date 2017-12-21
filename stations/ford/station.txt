@@ -1,0 +1,21 @@
+uid: ford
+----
+title: Ford
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Ford_railway_station
+----
+disused: 
+----
+code: FOD
+----
+geolat: 50.829116
+----
+geolng: -0.577921

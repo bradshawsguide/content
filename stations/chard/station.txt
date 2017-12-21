@@ -1,0 +1,21 @@
+uid: chard
+----
+title: Chard
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Chard_branch_line#Chard_Town
+----
+disused: 
+----
+code: 
+----
+geolat: 50.8741
+----
+geolng: -2.9566

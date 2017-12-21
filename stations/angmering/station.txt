@@ -1,0 +1,21 @@
+uid: angmering
+----
+title: Angmering
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: angmering
+----
+wikipedia: Angmering_railway_station
+----
+disused: 
+----
+code: ANG
+----
+geolat: 50.816306
+----
+geolng: -0.488877

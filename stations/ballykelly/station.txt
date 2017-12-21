@@ -1,0 +1,21 @@
+uid: ballykelly
+----
+title: Ballykelly
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Ballykelly_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.0541
+----
+geolng: -7.0384

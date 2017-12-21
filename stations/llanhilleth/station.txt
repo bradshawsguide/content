@@ -1,0 +1,21 @@
+uid: llanhilleth
+----
+title: Llanhilleth
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Llanhilleth_railway_station
+----
+disused: 
+----
+code: LTH
+----
+geolat: 51.700003
+----
+geolng: -3.135108

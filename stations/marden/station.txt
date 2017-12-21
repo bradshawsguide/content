@@ -1,0 +1,21 @@
+uid: marden
+----
+title: Marden
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: marden
+----
+wikipedia: Marden_railway_station
+----
+disused: 
+----
+code: MRN
+----
+geolat: 51.175406
+----
+geolng: 0.492824

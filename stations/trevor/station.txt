@@ -1,0 +1,21 @@
+uid: trevor
+----
+title: Trevor
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Trevor_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.974921
+----
+geolng: -3.091692

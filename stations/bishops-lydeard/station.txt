@@ -1,0 +1,21 @@
+uid: bishops-lydeard
+----
+title: Bishops Lydeard
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Bishops_Lydeard_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.054678
+----
+geolng: -3.194874

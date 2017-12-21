@@ -1,0 +1,21 @@
+uid: minety
+----
+title: Minety
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Minety_and_Ashton_Keynes_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.614668
+----
+geolng: -1.95157

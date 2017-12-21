@@ -1,0 +1,21 @@
+uid: rathnew
+----
+title: Rathnew
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.992082
+----
+geolng: -6.085534

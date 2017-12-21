@@ -1,0 +1,21 @@
+uid: abermule
+----
+title: Abermule
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Abermule_railway_station
+----
+disused: a/abermule
+----
+code: 
+----
+geolat: 52.54221
+----
+geolng: -3.23708

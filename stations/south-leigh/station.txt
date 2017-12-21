@@ -1,0 +1,21 @@
+uid: south-leigh
+----
+title: South Leigh
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: South_Leigh_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.771526
+----
+geolng: -1.426775

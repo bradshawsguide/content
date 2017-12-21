@@ -1,0 +1,21 @@
+uid: lostock
+----
+title: Lostock
+----
+title-today: Lostock Gralam
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Lostock_Gralam_railway_station
+----
+disused: 
+----
+code: LTG
+----
+geolat: 53.267932
+----
+geolng: -2.465506

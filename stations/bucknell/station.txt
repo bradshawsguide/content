@@ -1,0 +1,21 @@
+uid: bucknell
+----
+title: Bucknell
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: bucknell
+----
+wikipedia: Bucknell_railway_station
+----
+disused: 
+----
+code: BUK
+----
+geolat: 52.357104
+----
+geolng: -2.947768

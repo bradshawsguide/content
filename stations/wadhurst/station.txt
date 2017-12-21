@@ -1,0 +1,21 @@
+uid: wadhurst
+----
+title: Wadhurst
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: wadhurst
+----
+wikipedia: Wadhurst_railway_station
+----
+disused: 
+----
+code: WAD
+----
+geolat: 51.072974
+----
+geolng: 0.313149

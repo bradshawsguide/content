@@ -1,0 +1,21 @@
+uid: wrexham
+----
+title: Wrexham
+----
+title-today: Wrexham General
+----
+country: wales
+----
+region: denbighshire
+----
+place: wrexham
+----
+wikipedia: Wrexham_General_railway_station
+----
+disused: 
+----
+code: WRX
+----
+geolat: 53.050686
+----
+geolng: -3.001708

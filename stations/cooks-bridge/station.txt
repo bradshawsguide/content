@@ -1,0 +1,21 @@
+uid: cooks-bridge
+----
+title: Cook's Bridge
+----
+title-today: Cooksbridge
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Cooksbridge_railway_station
+----
+disused: 
+----
+code: CBR
+----
+geolat: 50.903545
+----
+geolng: -0.009596

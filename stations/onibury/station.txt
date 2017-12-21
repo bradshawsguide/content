@@ -1,0 +1,21 @@
+uid: onibury
+----
+title: Onibury
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Onibury_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.407612
+----
+geolng: -2.804787

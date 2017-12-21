@@ -1,0 +1,21 @@
+uid: steventon
+----
+title: Steventon
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: steventon
+----
+wikipedia: Steventon_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.621695
+----
+geolng: -1.318883

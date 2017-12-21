@@ -1,0 +1,21 @@
+uid: east-grinstead
+----
+title: East Grinstead
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: east-grinstead
+----
+wikipedia: East_Grinstead_railway_station
+----
+disused: 
+----
+code: EGR
+----
+geolat: 51.126709
+----
+geolng: -0.017167

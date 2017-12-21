@@ -1,0 +1,21 @@
+uid: hammersmith
+----
+title: Hammersmith
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: hammersmith
+----
+wikipedia: Hammersmith_%26_Chiswick_railway_station
+----
+disused: h/hammersmith_and_chicwick
+----
+code: 
+----
+geolat: 51.493255
+----
+geolng: -0.248361

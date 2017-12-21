@@ -1,0 +1,21 @@
+uid: tenbury
+----
+title: Tenbury
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: tenbury
+----
+wikipedia: Tenbury_Wells_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.317132
+----
+geolng: -2.599227

@@ -1,0 +1,21 @@
+uid: bodmin-road
+----
+title: Bodmin Road
+----
+title-today: Bodmin Parkway
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Bodmin_Parkway_railway_station
+----
+disused: 
+----
+code: BOD
+----
+geolat: 50.445795
+----
+geolng: -4.662643

@@ -1,0 +1,21 @@
+uid: plymouth
+----
+title: Plymouth
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: plymouth
+----
+wikipedia: Plymouth_Millbay_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.3683
+----
+geolng: -4.1501

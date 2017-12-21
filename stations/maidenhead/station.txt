@@ -1,0 +1,21 @@
+uid: maidenhead
+----
+title: Maidenhead
+----
+title-today: Taplow
+----
+country: england
+----
+region: berkshire
+----
+place: maidenhead
+----
+wikipedia: Taplow_railway_station
+----
+disused: 
+----
+code: TAP
+----
+geolat: 51.522421
+----
+geolng: -0.689874

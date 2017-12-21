@@ -1,0 +1,21 @@
+uid: lamphey
+----
+title: Lamphey
+----
+title-today: 
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: lamphey
+----
+wikipedia: Lamphey_railway_station
+----
+disused: 
+----
+code: LAM
+----
+geolat: 51.666753
+----
+geolng: -4.872506

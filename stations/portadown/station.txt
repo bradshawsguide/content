@@ -1,0 +1,21 @@
+uid: portadown
+----
+title: Portadown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: portadown
+----
+wikipedia: Portadown_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.425
+----
+geolng: -6.446

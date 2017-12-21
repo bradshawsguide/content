@@ -1,0 +1,21 @@
+uid: corwen
+----
+title: Corwen
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Corwen_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.98138
+----
+geolng: -3.37852

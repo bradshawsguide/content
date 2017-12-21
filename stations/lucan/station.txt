@@ -1,0 +1,21 @@
+uid: lucan
+----
+title: Lucan
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.3717
+----
+geolng: -6.455813

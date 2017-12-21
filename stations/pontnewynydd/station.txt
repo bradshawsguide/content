@@ -1,0 +1,21 @@
+uid: pontnewynydd
+----
+title: Pontnewynydd
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Pontnewynydd_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.710661
+----
+geolng: -3.053108

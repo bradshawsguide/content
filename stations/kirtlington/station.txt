@@ -1,0 +1,21 @@
+uid: kirtlington
+----
+title: Kirtlington
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Bletchington_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.860756
+----
+geolng: -1.300759

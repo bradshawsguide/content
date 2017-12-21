@@ -1,0 +1,21 @@
+uid: lymington
+----
+title: Lymington
+----
+title-today: Lymington Town
+----
+country: england
+----
+region: hampshire
+----
+place: lymington
+----
+wikipedia: Lymington_Town_railway_station
+----
+disused: 
+----
+code: LYT
+----
+geolat: 50.761324
+----
+geolng: -1.53703

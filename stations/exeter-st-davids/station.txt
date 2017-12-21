@@ -1,0 +1,21 @@
+uid: exeter-st-davids
+----
+title: Exeter St. Davids
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: exeter
+----
+wikipedia: Exeter_St_Davids_railway_station
+----
+disused: 
+----
+code: EXD
+----
+geolat: 50.729538
+----
+geolng: -3.543649

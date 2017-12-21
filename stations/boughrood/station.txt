@@ -1,0 +1,21 @@
+uid: boughrood
+----
+title: Boughrood
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Boughrood_%26_Llyswen_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.042072
+----
+geolng: -3.272064

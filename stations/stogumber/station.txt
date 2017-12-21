@@ -1,0 +1,21 @@
+uid: stogumber
+----
+title: Stogumber
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Stogumber_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.127597
+----
+geolng: -3.272496

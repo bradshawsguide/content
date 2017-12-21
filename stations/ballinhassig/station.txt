@@ -1,0 +1,21 @@
+uid: ballinhassig
+----
+title: Ballinhassig
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: Ballinhassig_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.810026
+----
+geolng: -8.55973

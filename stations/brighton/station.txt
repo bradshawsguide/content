@@ -1,0 +1,21 @@
+uid: brighton
+----
+title: Brighton
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: brighton
+----
+wikipedia: Brighton_railway_station
+----
+disused: 
+----
+code: BTN
+----
+geolat: 50.829261
+----
+geolng: -0.14056

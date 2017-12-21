@@ -1,0 +1,21 @@
+uid: victoria-park
+----
+title: Victoria Park
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Victoria_Park_%26_Bow_railway_station
+----
+disused: v/victoria_park/index0.shtml
+----
+code: 
+----
+geolat: 51.545319
+----
+geolng: -0.031748

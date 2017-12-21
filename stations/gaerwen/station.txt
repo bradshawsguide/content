@@ -1,0 +1,21 @@
+uid: gaerwen
+----
+title: Gaerwen
+----
+title-today: 
+----
+country: wales
+----
+region: anglesea
+----
+place: 
+----
+wikipedia: Gaerwen_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.213067
+----
+geolng: -4.269468

@@ -1,0 +1,21 @@
+uid: aylesford
+----
+title: Aylesford
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: aylesford
+----
+wikipedia: Aylesford_railway_station
+----
+disused: 
+----
+code: AYL
+----
+geolat: 51.301338
+----
+geolng: 0.466012

@@ -1,0 +1,21 @@
+uid: cleobury-mortimer
+----
+title: Cleobury Mortimer
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Cleobury_Mortimer_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.376275
+----
+geolng: -2.438441

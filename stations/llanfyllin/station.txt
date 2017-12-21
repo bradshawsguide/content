@@ -1,0 +1,21 @@
+uid: llanfyllin
+----
+title: Llanfyllin
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Llanfyllin_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.764066
+----
+geolng: -3.267813

@@ -1,0 +1,21 @@
+uid: daisy-bank
+----
+title: Daisy Bank
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Daisy_Bank_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.553269
+----
+geolng: -2.074437

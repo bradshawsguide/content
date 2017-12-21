@@ -1,0 +1,21 @@
+uid: woolwich-dock
+----
+title: Woolwich Dock
+----
+title-today: Woolwich Dockyard
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Woolwich_Dockyard_railway_station
+----
+disused: 
+----
+code: WWD
+----
+geolat: 51.491083
+----
+geolng: 0.054482

@@ -1,0 +1,21 @@
+uid: paddock-wood-junction
+----
+title: Paddock Wood Junction
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: paddock-wood-junction
+----
+wikipedia: Paddock_Wood_railway_station
+----
+disused: 
+----
+code: PDW
+----
+geolat: 51.182076
+----
+geolng: 0.388724

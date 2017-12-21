@@ -1,0 +1,21 @@
+uid: bandon
+----
+title: Bandon
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: bandon
+----
+wikipedia: Bandon_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.746358
+----
+geolng: -8.728622

@@ -1,0 +1,21 @@
+uid: tillysburn
+----
+title: Tillysburn
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Tillysburn_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.618988
+----
+geolng: -5.863261

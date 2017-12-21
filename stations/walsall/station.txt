@@ -1,0 +1,21 @@
+uid: walsall
+----
+title: Walsall
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: walsall
+----
+wikipedia: Walsall_railway_station
+----
+disused: 
+----
+code: WSL
+----
+geolat: 52.583857
+----
+geolng: -1.985936

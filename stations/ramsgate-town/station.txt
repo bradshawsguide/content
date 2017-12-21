@@ -1,0 +1,21 @@
+uid: ramsgate-town
+----
+title: Ramsgate (SER)
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Ramsgate_Town_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.339
+----
+geolng: 1.4135

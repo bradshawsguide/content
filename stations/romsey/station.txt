@@ -1,0 +1,21 @@
+uid: romsey
+----
+title: Romsey
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Romsey_railway_station
+----
+disused: 
+----
+code: ROM
+----
+geolat: 50.993149
+----
+geolng: -1.493407

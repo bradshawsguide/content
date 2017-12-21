@@ -1,0 +1,21 @@
+uid: knowle
+----
+title: Knowle
+----
+title-today: Dorridge
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Dorridge_railway_station
+----
+disused: 
+----
+code: DDG
+----
+geolat: 52.371437
+----
+geolng: -1.752463

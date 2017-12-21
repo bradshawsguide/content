@@ -1,0 +1,21 @@
+uid: mullaternaghan
+----
+title: Mullaternaghan
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Mullafernaghan_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.384615
+----
+geolng: -6.212773

@@ -1,0 +1,21 @@
+uid: oola
+----
+title: Oola
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.527345
+----
+geolng: -8.258646

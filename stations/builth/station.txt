@@ -1,0 +1,21 @@
+uid: builth
+----
+title: Builth
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: builth
+----
+wikipedia: Builth_Road_railway_station
+----
+disused: 
+----
+code: BHR
+----
+geolat: 52.168862
+----
+geolng: -3.427749

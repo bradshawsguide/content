@@ -1,0 +1,21 @@
+uid: dromore-road
+----
+title: Dromore Road
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Dromore_Road_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.496016
+----
+geolng: -7.459432

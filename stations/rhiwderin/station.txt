@@ -1,0 +1,21 @@
+uid: rhiwderin
+----
+title: Rhiwderin
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Rhiwderin_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.581038
+----
+geolng: -3.068638

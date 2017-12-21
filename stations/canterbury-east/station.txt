@@ -1,0 +1,21 @@
+uid: canterbury-east
+----
+title: Canterbury East
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Canterbury_East_railway_station
+----
+disused: 
+----
+code: CBE
+----
+geolat: 51.27395
+----
+geolng: 1.076019

@@ -1,0 +1,21 @@
+uid: llancaich
+----
+title: Llancaich
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.656965
+----
+geolng: -3.289213

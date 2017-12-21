@@ -1,0 +1,21 @@
+uid: pencader
+----
+title: Pencader
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: p/pencader
+----
+code: 
+----
+geolat: 52.000576
+----
+geolng: -4.268067

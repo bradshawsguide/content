@@ -1,0 +1,21 @@
+uid: hampton-wick
+----
+title: Hampton Wick
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Hampton_Wick_railway_station
+----
+disused: 
+----
+code: HMW
+----
+geolat: 51.414603
+----
+geolng: -0.312316

@@ -1,0 +1,21 @@
+uid: llanarthney
+----
+title: Llanarthney
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.864077
+----
+geolng: -4.131865

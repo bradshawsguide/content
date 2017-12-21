@@ -1,0 +1,21 @@
+uid: llandyssil
+----
+title: Llandyssil
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Llandyssul_railway_station
+----
+disused: l/llandyssul
+----
+code: 
+----
+geolat: 52.035139
+----
+geolng: -4.317203

@@ -1,0 +1,21 @@
+uid: haslemere
+----
+title: Haslemere
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Haslemere_railway_station
+----
+disused: 
+----
+code: HSL
+----
+geolat: 51.088852
+----
+geolng: -0.719899

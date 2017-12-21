@@ -1,0 +1,21 @@
+uid: ivy-bridge
+----
+title: Ivy Bridge
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: ivy-bridge
+----
+wikipedia: Ivybridge_railway_station
+----
+disused: 
+----
+code: IVY
+----
+geolat: 50.393232
+----
+geolng: -3.904127

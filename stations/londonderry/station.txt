@@ -1,0 +1,21 @@
+uid: londonderry
+----
+title: Londonderry
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Londonderry_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.992069
+----
+geolng: -7.313788

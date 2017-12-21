@@ -1,0 +1,21 @@
+uid: maidstone
+----
+title: Maidstone
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: maidstone
+----
+wikipedia: Maidstone_West_railway_station
+----
+disused: 
+----
+code: MDW
+----
+geolat: 51.270694
+----
+geolng: 0.515694

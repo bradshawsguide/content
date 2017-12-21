@@ -1,0 +1,21 @@
+uid: overton
+----
+title: Overton
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Overton_railway_station
+----
+disused: 
+----
+code: OVR
+----
+geolat: 51.254475
+----
+geolng: -1.259838

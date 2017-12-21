@@ -1,0 +1,21 @@
+uid: new-cross
+----
+title: New Cross
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: new-cross
+----
+wikipedia: New_Cross_railway_station
+----
+disused: 
+----
+code: NWX
+----
+geolat: 51.476402
+----
+geolng: -0.031733

@@ -1,0 +1,21 @@
+uid: lower-sydenham
+----
+title: Lower Sydenham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Lower_Sydenham_railway_station
+----
+disused: 
+----
+code: LSY
+----
+geolat: 51.42483
+----
+geolng: -0.035509

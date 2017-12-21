@@ -1,0 +1,21 @@
+uid: sherborne
+----
+title: Sherborne
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: sherborne
+----
+wikipedia: Sherborne_railway_station
+----
+disused: 
+----
+code: SHE
+----
+geolat: 50.94366
+----
+geolng: -2.513069

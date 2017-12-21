@@ -1,0 +1,21 @@
+uid: langford
+----
+title: Langford
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Salisbury_branch_line_(Great_Western_Railway)#Langford
+----
+disused: 
+----
+code: 
+----
+geolat: 51.131291
+----
+geolng: -1.954446

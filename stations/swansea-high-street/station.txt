@@ -1,0 +1,21 @@
+uid: swansea-high-street
+----
+title: Swansea High Street
+----
+title-today: Swansea
+----
+country: wales
+----
+region: glamorganshire
+----
+place: swansea
+----
+wikipedia: Swansea_railway_station
+----
+disused: 
+----
+code: SWA
+----
+geolat: 51.625605
+----
+geolng: -3.940843

@@ -1,0 +1,21 @@
+uid: leebotwood
+----
+title: Leebotwood
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Leebotwood_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.584903
+----
+geolng: -2.777036

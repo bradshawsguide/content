@@ -1,0 +1,21 @@
+uid: lidford
+----
+title: Lidford
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Lydford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.624657
+----
+geolng: -4.122008

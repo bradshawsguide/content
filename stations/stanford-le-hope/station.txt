@@ -1,0 +1,21 @@
+uid: stanford-le-hope
+----
+title: Stanford-le-Hope
+----
+title-today: 
+----
+country: england
+----
+region: essex
+----
+place: stanford-le-hope
+----
+wikipedia: Stanford-le-Hope_railway_station
+----
+disused: 
+----
+code: SFO
+----
+geolat: 51.514325
+----
+geolng: 0.423077

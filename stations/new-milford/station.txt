@@ -1,0 +1,21 @@
+uid: new-milford
+----
+title: New Milford
+----
+title-today: 
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: new-milford
+----
+wikipedia: Neyland_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.705479
+----
+geolng: -4.942995

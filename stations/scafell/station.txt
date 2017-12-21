@@ -1,0 +1,21 @@
+uid: scafell
+----
+title: Scafell
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Scafell_Halt_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.505998
+----
+geolng: -3.353195

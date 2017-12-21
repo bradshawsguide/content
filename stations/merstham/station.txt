@@ -1,0 +1,21 @@
+uid: merstham
+----
+title: Merstham
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: merstham
+----
+wikipedia: Merstham_railway_station
+----
+disused: 
+----
+code: MHM
+----
+geolat: 51.263785
+----
+geolng: -0.150312

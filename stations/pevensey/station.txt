@@ -1,0 +1,21 @@
+uid: pevensey
+----
+title: Pevensey
+----
+title-today: Pevensey & Westham
+----
+country: england
+----
+region: sussex
+----
+place: pevensey
+----
+wikipedia: Pevensey_%26_Westham_railway_station
+----
+disused: 
+----
+code: PEV
+----
+geolat: 50.815524
+----
+geolng: 0.324538

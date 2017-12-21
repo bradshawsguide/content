@@ -1,0 +1,21 @@
+uid: chichester
+----
+title: Chichester
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: chichester
+----
+wikipedia: Chichester_railway_station
+----
+disused: 
+----
+code: CCH
+----
+geolat: 50.832327
+----
+geolng: -0.78231

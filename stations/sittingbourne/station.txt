@@ -1,0 +1,21 @@
+uid: sittingbourne
+----
+title: Sittingbourne
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: sittingbourne
+----
+wikipedia: Sittingbourne_railway_station
+----
+disused: 
+----
+code: SIT
+----
+geolat: 51.342008
+----
+geolng: 0.734808

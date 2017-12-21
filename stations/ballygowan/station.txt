@@ -1,0 +1,21 @@
+uid: ballygowan
+----
+title: Ballygowan
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Ballygowan_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.501574
+----
+geolng: -5.79252

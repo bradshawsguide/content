@@ -1,0 +1,21 @@
+uid: groomsport
+----
+title: Groomsport
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 54.632899
+----
+geolng: -5.630289

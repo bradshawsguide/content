@@ -1,0 +1,21 @@
+uid: llansaintfraidd
+----
+title: Llansaintffraid
+----
+title-today: Glan Conwy
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: 
+----
+wikipedia: Glan_Conwy_railway_station
+----
+disused: 
+----
+code: GCW
+----
+geolat: 53.268779
+----
+geolng: -3.797035

@@ -1,0 +1,21 @@
+uid: abergavenny
+----
+title: Abergavenny
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: abergavenny
+----
+wikipedia: Abergavenny_railway_station
+----
+disused: 
+----
+code: AGV
+----
+geolat: 51.817144
+----
+geolng: -3.008932

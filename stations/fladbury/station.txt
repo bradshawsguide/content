@@ -1,0 +1,21 @@
+uid: fladbury
+----
+title: Fladbury
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Fladbury_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.119067
+----
+geolng: -2.010908

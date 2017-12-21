@@ -1,0 +1,21 @@
+uid: beaufort
+----
+title: Beaufort
+----
+title-today: 
+----
+country: wales
+----
+region: brecknockshire
+----
+place: 
+----
+wikipedia: Beaufort_(LNWR)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.797293
+----
+geolng: -3.207157

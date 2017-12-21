@@ -1,0 +1,21 @@
+uid: strood
+----
+title: Strood
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: strood
+----
+wikipedia: Strood_railway_station
+----
+disused: 
+----
+code: SOO
+----
+geolat: 51.396486
+----
+geolng: 0.500515

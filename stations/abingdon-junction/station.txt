@@ -1,0 +1,21 @@
+uid: abingdon-junction
+----
+title: Abingdon Junction
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Abingdon_Junction_railway_station
+----
+disused: a/abingdon_junction
+----
+code: 
+----
+geolat: 51.67427
+----
+geolng: -1.241448

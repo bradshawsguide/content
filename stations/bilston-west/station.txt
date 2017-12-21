@@ -1,0 +1,21 @@
+uid: bilston-west
+----
+title: Bilston West
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Bilston_West_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.561355
+----
+geolng: -2.081826

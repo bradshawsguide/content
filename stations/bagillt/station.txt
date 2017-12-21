@@ -1,0 +1,21 @@
+uid: bagillt
+----
+title: Bagillt
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: bagillt
+----
+wikipedia: Bagillt_railway_station
+----
+disused: b/bagillt
+----
+code: 
+----
+geolat: 53.269403
+----
+geolng: -3.168756

@@ -1,0 +1,21 @@
+uid: littlemore
+----
+title: Littlemore
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Littlemore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.718219
+----
+geolng: -1.22479

@@ -1,0 +1,21 @@
+uid: devonport
+----
+title: Devonport
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: devonport
+----
+wikipedia: Devonport_railway_station
+----
+disused: 
+----
+code: DPT
+----
+geolat: 50.378665
+----
+geolng: -4.170786

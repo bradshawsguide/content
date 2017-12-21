@@ -1,0 +1,21 @@
+uid: horsham
+----
+title: Horsham
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Horsham_railway_station
+----
+disused: 
+----
+code: HRH
+----
+geolat: 51.065797
+----
+geolng: -0.319493

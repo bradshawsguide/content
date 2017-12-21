@@ -1,0 +1,21 @@
+uid: donabate
+----
+title: Donabate
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: Donabate_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.4855
+----
+geolng: -6.1512

@@ -1,0 +1,21 @@
+uid: dolgelley
+----
+title: Dolgelley
+----
+title-today: 
+----
+country: wales
+----
+region: merionethshire
+----
+place: dolgelley
+----
+wikipedia: Dolgellau_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.7449
+----
+geolng: -3.8845

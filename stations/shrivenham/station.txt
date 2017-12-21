@@ -1,0 +1,21 @@
+uid: shrivenham
+----
+title: Shrivenham
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: shrivenham
+----
+wikipedia: Shrivenham_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.586309
+----
+geolng: -1.658601

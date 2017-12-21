@@ -1,0 +1,21 @@
+uid: glyn-neath
+----
+title: Glyn Neath
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.735586
+----
+geolng: -3.645652

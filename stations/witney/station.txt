@@ -1,0 +1,21 @@
+uid: witney
+----
+title: Witney
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Witney_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.777189
+----
+geolng: -1.484681

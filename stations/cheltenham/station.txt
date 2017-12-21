@@ -1,0 +1,21 @@
+uid: cheltenham
+----
+title: Cheltenham
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: cheltenham
+----
+wikipedia: Cheltenham_Spa_St._James_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.901464
+----
+geolng: -2.082072

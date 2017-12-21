@@ -1,0 +1,21 @@
+uid: bentley
+----
+title: Bentley
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: bentley
+----
+wikipedia: Bentley_(Hampshire)_railway_station
+----
+disused: 
+----
+code: BTY
+----
+geolat: 51.181199
+----
+geolng: -0.86757

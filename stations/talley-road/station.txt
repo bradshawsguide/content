@@ -1,0 +1,21 @@
+uid: talley-road
+----
+title: Talley Road
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.905588
+----
+geolng: -3.953911

@@ -1,0 +1,21 @@
+uid: waterloo-bridge
+----
+title: Waterloo Bridge
+----
+title-today: London Waterloo
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: London_Waterloo_station
+----
+disused: 
+----
+code: WAT
+----
+geolat: 51.503146
+----
+geolng: -0.113259

@@ -1,0 +1,21 @@
+uid: ketley
+----
+title: Ketley
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Ketley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.695238
+----
+geolng: -2.484541

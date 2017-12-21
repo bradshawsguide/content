@@ -1,0 +1,21 @@
+uid: star-cross
+----
+title: Star Cross
+----
+title-today: Starcross
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Starcross_railway_station
+----
+disused: 
+----
+code: SCS
+----
+geolat: 50.628237
+----
+geolng: -3.448425

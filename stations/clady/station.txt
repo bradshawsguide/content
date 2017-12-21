@@ -1,0 +1,21 @@
+uid: clady
+----
+title: Clady
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Clady_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.793134
+----
+geolng: -7.551629

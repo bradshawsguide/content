@@ -1,0 +1,21 @@
+uid: hayle
+----
+title: Hayle
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: hayle
+----
+wikipedia: Hayle_railway_station
+----
+disused: 
+----
+code: HYL
+----
+geolat: 50.184879
+----
+geolng: -5.420068

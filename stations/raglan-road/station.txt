@@ -1,0 +1,21 @@
+uid: raglan-road
+----
+title: Raglan Road
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Raglan_Road_Crossing_Halt_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.7444
+----
+geolng: -2.8418

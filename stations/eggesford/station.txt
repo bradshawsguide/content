@@ -1,0 +1,21 @@
+uid: eggesford
+----
+title: Eggesford
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Eggesford_railway_station
+----
+disused: 
+----
+code: EGG
+----
+geolat: 50.88747
+----
+geolng: -3.87445

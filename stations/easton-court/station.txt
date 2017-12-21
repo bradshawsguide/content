@@ -1,0 +1,21 @@
+uid: easton-court
+----
+title: Easton Court
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Easton_Court_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.308754
+----
+geolng: -2.653384

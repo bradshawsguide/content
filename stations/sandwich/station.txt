@@ -1,0 +1,21 @@
+uid: sandwich
+----
+title: Sandwich
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: sandwich
+----
+wikipedia: Sandwich_railway_station
+----
+disused: 
+----
+code: SDW
+----
+geolat: 51.270237
+----
+geolng: 1.342478

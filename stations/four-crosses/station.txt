@@ -1,0 +1,21 @@
+uid: four-crosses
+----
+title: Four Crosses
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Four_Crosses_railway_station
+----
+disused: f/four_crosses
+----
+code: 
+----
+geolat: 52.758724
+----
+geolng: -3.080942

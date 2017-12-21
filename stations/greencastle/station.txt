@@ -1,0 +1,21 @@
+uid: greencastle
+----
+title: Greencastle
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Greencastle_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.641602
+----
+geolng: -5.919661

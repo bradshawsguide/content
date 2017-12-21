@@ -1,0 +1,21 @@
+uid: barnstaple
+----
+title: Barnstaple
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: barnstaple
+----
+wikipedia: Barnstaple_railway_station
+----
+disused: 
+----
+code: BNP
+----
+geolat: 51.074046
+----
+geolng: -4.063277

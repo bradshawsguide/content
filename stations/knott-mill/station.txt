@@ -1,0 +1,21 @@
+uid: knott-mill
+----
+title: Knott Mill
+----
+title-today: Deansgate
+----
+country: england
+----
+region: lancashire
+----
+place: 
+----
+wikipedia: Deansgate_railway_station
+----
+disused: 
+----
+code: DGT
+----
+geolat: 53.474416
+----
+geolng: -2.250811

@@ -1,0 +1,21 @@
+uid: loughborough-road
+----
+title: Loughborough Road
+----
+title-today: Loughborough Junction
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Loughborough_Junction_railway_station
+----
+disused: 
+----
+code: LGJ
+----
+geolat: 51.465782
+----
+geolng: -0.102931

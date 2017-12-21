@@ -1,0 +1,21 @@
+uid: johnston
+----
+title: Johnston
+----
+title-today: 
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: johnston
+----
+wikipedia: Johnston_railway_station
+----
+disused: 
+----
+code: JOH
+----
+geolat: 51.756277
+----
+geolng: -4.997022

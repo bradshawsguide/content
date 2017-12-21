@@ -1,0 +1,21 @@
+uid: jordanstown
+----
+title: Jordanstown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Jordanstown_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.687222
+----
+geolng: -5.895556

@@ -1,0 +1,21 @@
+uid: kerry
+----
+title: Kerry
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Kerry_railway_station
+----
+disused: k/kerry
+----
+code: 
+----
+geolat: 52.50459
+----
+geolng: -3.235286

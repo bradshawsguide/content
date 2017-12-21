@@ -1,0 +1,21 @@
+uid: oranmore
+----
+title: Oranmore
+----
+title-today: 
+----
+country: ireland
+----
+region: county-galway
+----
+place: 
+----
+wikipedia: Oranmore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.2758
+----
+geolng: -8.9453

@@ -1,0 +1,21 @@
+uid: winchfield
+----
+title: Winchfield
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: winchfield
+----
+wikipedia: Winchfield_railway_station
+----
+disused: 
+----
+code: WNF
+----
+geolat: 51.284981
+----
+geolng: -0.906604

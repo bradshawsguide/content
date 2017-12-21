@@ -1,0 +1,21 @@
+uid: londonderry-foyle-road
+----
+title: Londonderry Foyle Road
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Londonderry_Foyle_Road_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.9907
+----
+geolng: -7.3208

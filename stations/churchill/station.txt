@@ -1,0 +1,21 @@
+uid: churchill
+----
+title: Churchill
+----
+title-today: Blakedown
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Blakedown_railway_station
+----
+disused: 
+----
+code: BKD
+----
+geolat: 52.406624
+----
+geolng: -2.177087

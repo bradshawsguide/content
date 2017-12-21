@@ -1,0 +1,21 @@
+uid: falmer
+----
+title: Falmer
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: falmer
+----
+wikipedia: Falmer_railway_station
+----
+disused: 
+----
+code: FMR
+----
+geolat: 50.861666
+----
+geolng: -0.086694

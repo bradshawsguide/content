@@ -1,0 +1,21 @@
+uid: egham
+----
+title: Egham
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: egham
+----
+wikipedia: Egham_railway_station
+----
+disused: 
+----
+code: EGH
+----
+geolat: 51.429437
+----
+geolng: -0.546418

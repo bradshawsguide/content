@@ -1,0 +1,21 @@
+uid: morchard-road
+----
+title: Morchard Road
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Morchard_Road_railway_station
+----
+disused: 
+----
+code: MRD
+----
+geolat: 50.832357
+----
+geolng: -3.775673

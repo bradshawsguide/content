@@ -1,0 +1,21 @@
+uid: bearley
+----
+title: Bearley
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Bearley_railway_station
+----
+disused: 
+----
+code: BER
+----
+geolat: 52.244669
+----
+geolng: -1.750239

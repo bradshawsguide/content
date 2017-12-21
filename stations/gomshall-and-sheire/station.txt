@@ -1,0 +1,21 @@
+uid: gomshall-and-sheire
+----
+title: Gomshall & Sheire
+----
+title-today: Gomshall
+----
+country: england
+----
+region: surrey
+----
+place: gomshall-and-sheire
+----
+wikipedia: Gomshall_railway_station
+----
+disused: 
+----
+code: GOM
+----
+geolat: 51.219462
+----
+geolng: -0.441349

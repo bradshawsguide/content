@@ -1,0 +1,21 @@
+uid: dorrington
+----
+title: Dorrington
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Dorrington_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.625392
+----
+geolng: -2.771844

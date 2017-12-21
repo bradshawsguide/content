@@ -1,0 +1,21 @@
+uid: spettisbury
+----
+title: Spettisbury
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Spetisbury_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.819727
+----
+geolng: -2.124162

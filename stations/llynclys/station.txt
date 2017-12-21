@@ -1,0 +1,21 @@
+uid: llynclys
+----
+title: Llynclys
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Llynclys_railway_station
+----
+disused: l/llynclys
+----
+code: 
+----
+geolat: 52.809231
+----
+geolng: -3.062908

@@ -1,0 +1,21 @@
+uid: lampeter-road
+----
+title: Lampeter Road
+----
+title-today: Llanwrda
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Llanwrda_railway_station
+----
+disused: 
+----
+code: LNR
+----
+geolat: 51.963023
+----
+geolng: -3.87242

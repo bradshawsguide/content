@@ -1,0 +1,21 @@
+uid: gloucester
+----
+title: Gloucester
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: gloucester
+----
+wikipedia: Gloucester_railway_station
+----
+disused: 
+----
+code: GCR
+----
+geolat: 51.865286
+----
+geolng: -2.238849

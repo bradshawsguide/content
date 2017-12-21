@@ -1,0 +1,21 @@
+uid: heatley
+----
+title: Heatley
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Heatley_%26_Warburton_railway_station
+----
+disused: h/heatley_and_warburton
+----
+code: 
+----
+geolat: 53.39025
+----
+geolng: -2.4475

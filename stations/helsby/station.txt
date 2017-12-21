@@ -1,0 +1,21 @@
+uid: helsby
+----
+title: Helsby
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: helsby
+----
+wikipedia: Helsby_railway_station
+----
+disused: 
+----
+code: HSB
+----
+geolat: 53.275333
+----
+geolng: -2.771509

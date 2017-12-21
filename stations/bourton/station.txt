@@ -1,0 +1,21 @@
+uid: bourton
+----
+title: Bourton
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Flax_Bourton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.424674
+----
+geolng: -2.701773

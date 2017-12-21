@@ -1,0 +1,21 @@
+uid: rossett
+----
+title: Rossett
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: rossett
+----
+wikipedia: Rossett_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.108588
+----
+geolng: -2.956744

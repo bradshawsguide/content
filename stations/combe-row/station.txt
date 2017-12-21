@@ -1,0 +1,21 @@
+uid: combe-row
+----
+title: Combe Row
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Comberow_railway_station
+----
+disused: c/comberow
+----
+code: 
+----
+geolat: 51.108302
+----
+geolng: -3.387673

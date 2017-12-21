@@ -1,0 +1,21 @@
+uid: isfield
+----
+title: Isfield
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Isfield_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.936411
+----
+geolng: 0.06582

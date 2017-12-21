@@ -1,0 +1,21 @@
+uid: kilkenny
+----
+title: Kilkenny
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kilkenny
+----
+place: kilkenny
+----
+wikipedia: Kilkenny_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.654167
+----
+geolng: -7.243611

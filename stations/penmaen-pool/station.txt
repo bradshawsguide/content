@@ -1,0 +1,21 @@
+uid: penmaen-pool
+----
+title: Penmaen Pool
+----
+title-today: 
+----
+country: wales
+----
+region: merionethshire
+----
+place: 
+----
+wikipedia: Penmaenpool_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.74857
+----
+geolng: -3.93441

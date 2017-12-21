@@ -1,0 +1,21 @@
+uid: culloville
+----
+title: Culloville
+----
+title-today: 
+----
+country: ireland
+----
+region: county-monaghan
+----
+place: 
+----
+wikipedia: Culloville_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.056413
+----
+geolng: -6.65305

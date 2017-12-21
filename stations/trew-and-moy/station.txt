@@ -1,0 +1,21 @@
+uid: trew-and-moy
+----
+title: Trew and Moy
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Trew_and_Moy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.48
+----
+geolng: -6.677

@@ -1,0 +1,21 @@
+uid: knucklas
+----
+title: Knucklas
+----
+title-today: 
+----
+country: wales
+----
+region: radnorshire
+----
+place: 
+----
+wikipedia: Knucklas_railway_station
+----
+disused: 
+----
+code: KNU
+----
+geolat: 52.359417
+----
+geolng: -3.096132

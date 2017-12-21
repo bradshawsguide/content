@@ -1,0 +1,21 @@
+uid: three-bridges
+----
+title: Three Bridges
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: three-bridges
+----
+wikipedia: Three_Bridges_railway_station
+----
+disused: 
+----
+code: TBD
+----
+geolat: 51.11736
+----
+geolng: -0.160452

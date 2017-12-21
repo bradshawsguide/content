@@ -1,0 +1,21 @@
+uid: east-ham
+----
+title: East Ham
+----
+title-today: 
+----
+country: england
+----
+region: essex
+----
+place: 
+----
+wikipedia: East_Ham_tube_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.538549
+----
+geolng: 0.007549

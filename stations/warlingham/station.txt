@@ -1,0 +1,21 @@
+uid: warlingham
+----
+title: Warlingham
+----
+title-today: Whyteleafe South
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Whyteleafe_South_railway_station
+----
+disused: 
+----
+code: WHS
+----
+geolat: 51.303417
+----
+geolng: -0.076833

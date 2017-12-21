@@ -1,0 +1,21 @@
+uid: dawlish
+----
+title: Dawlish
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: dawlish
+----
+wikipedia: Dawlish_railway_station
+----
+disused: 
+----
+code: DWL
+----
+geolat: 50.580378
+----
+geolng: -3.463905

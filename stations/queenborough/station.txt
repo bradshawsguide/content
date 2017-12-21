@@ -1,0 +1,21 @@
+uid: queenborough
+----
+title: Queenborough
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Queenborough_railway_station
+----
+disused: 
+----
+code: QBR
+----
+geolat: 51.416067
+----
+geolng: 0.750411

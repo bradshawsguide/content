@@ -1,0 +1,21 @@
+uid: horsebridge
+----
+title: Horsebridge
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Horsebridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.071653
+----
+geolng: -1.511093

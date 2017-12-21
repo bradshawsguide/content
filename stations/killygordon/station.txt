@@ -1,0 +1,21 @@
+uid: killygordon
+----
+title: Killygordon
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Killygordon_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.795064
+----
+geolng: -7.684029

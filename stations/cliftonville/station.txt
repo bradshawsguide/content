@@ -1,0 +1,21 @@
+uid: cliftonville
+----
+title: Cliftonville
+----
+title-today: Hove
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Hove_railway_station
+----
+disused: 
+----
+code: HOV
+----
+geolat: 50.835125
+----
+geolng: -0.170151

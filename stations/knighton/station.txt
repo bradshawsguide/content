@@ -1,0 +1,21 @@
+uid: knighton
+----
+title: Knighton
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: knighton
+----
+wikipedia: Knighton_railway_station
+----
+disused: 
+----
+code: KNI
+----
+geolat: 52.344628
+----
+geolng: -3.041451

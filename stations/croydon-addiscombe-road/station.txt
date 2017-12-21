@@ -1,0 +1,21 @@
+uid: croydon-addiscombe-road
+----
+title: Croydon (Addiscombe Road)
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Addiscombe_railway_station
+----
+disused: a/addiscombe
+----
+code: 
+----
+geolat: 51.379138
+----
+geolng: -0.08172

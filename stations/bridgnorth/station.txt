@@ -1,0 +1,21 @@
+uid: bridgnorth
+----
+title: Bridgnorth
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: bridgnorth
+----
+wikipedia: Bridgnorth_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.530968
+----
+geolng: -2.420817

@@ -1,0 +1,21 @@
+uid: lifton
+----
+title: Lifton
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Lifton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.642582
+----
+geolng: -4.268503

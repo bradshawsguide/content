@@ -1,0 +1,21 @@
+uid: gwinear-road
+----
+title: Gwinear Road
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Disused_railway_stations_on_the_Cornish_Main_Line#Gwinear_Road
+----
+disused: 
+----
+code: 
+----
+geolat: 50.1972
+----
+geolng: -5.3478

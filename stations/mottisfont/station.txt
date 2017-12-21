@@ -1,0 +1,21 @@
+uid: mottisfont
+----
+title: Mottisfont
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.03669
+----
+geolng: -1.527355

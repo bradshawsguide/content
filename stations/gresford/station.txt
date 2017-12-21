@@ -1,0 +1,21 @@
+uid: gresford
+----
+title: Gresford
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: gresford
+----
+wikipedia: Gresford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.09043
+----
+geolng: -2.978739

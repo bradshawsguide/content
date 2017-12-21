@@ -1,0 +1,21 @@
+uid: malvern-wells
+----
+title: Malvern Wells
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Malvern_Wells_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.095248
+----
+geolng: -2.32328

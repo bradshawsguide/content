@@ -1,0 +1,21 @@
+uid: epsom-downs
+----
+title: Epsom Downs
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Epsom_Downs_railway_station
+----
+disused: 
+----
+code: EPD
+----
+geolat: 51.323694
+----
+geolng: -0.238917

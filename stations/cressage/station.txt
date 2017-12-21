@@ -1,0 +1,21 @@
+uid: cressage
+----
+title: Cressage
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Cressage_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.636243
+----
+geolng: -2.606535

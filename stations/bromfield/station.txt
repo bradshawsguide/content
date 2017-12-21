@@ -1,0 +1,21 @@
+uid: bromfield
+----
+title: Bromfield
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Bromfield_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.393549
+----
+geolng: -2.756035

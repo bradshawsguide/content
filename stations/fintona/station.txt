@@ -1,0 +1,21 @@
+uid: fintona
+----
+title: Fintona
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Fintona_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.49767
+----
+geolng: -7.32021

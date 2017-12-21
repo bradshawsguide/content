@@ -1,0 +1,21 @@
+uid: glan-dovey
+----
+title: Glan Dovey
+----
+title-today: Dovey Junction
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Dovey_Junction_railway_station
+----
+disused: 
+----
+code: DVY
+----
+geolat: 52.564641
+----
+geolng: -3.923029

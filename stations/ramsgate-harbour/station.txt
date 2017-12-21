@@ -1,0 +1,21 @@
+uid: ramsgate-harbour
+----
+title: Ramsgate (C&D)
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Ramsgate_Harbour_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.3329
+----
+geolng: 1.4246

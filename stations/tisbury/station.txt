@@ -1,0 +1,21 @@
+uid: tisbury
+----
+title: Tisbury
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Tisbury_railway_station
+----
+disused: 
+----
+code: TIS
+----
+geolat: 51.060761
+----
+geolng: -2.079145

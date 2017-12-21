@@ -1,0 +1,21 @@
+uid: troopers-lane
+----
+title: Trooper's Lane
+----
+title-today: Trooperslane
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Trooperslane_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.710059
+----
+geolng: -5.849477

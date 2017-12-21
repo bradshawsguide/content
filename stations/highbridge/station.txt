@@ -1,0 +1,21 @@
+uid: highbridge
+----
+title: Highbridge
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: highbridge
+----
+wikipedia: Highbridge_and_Burnham_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.218611
+----
+geolng: -2.971447

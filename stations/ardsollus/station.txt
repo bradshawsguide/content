@@ -1,0 +1,21 @@
+uid: ardsollus
+----
+title: Ardsollus
+----
+title-today: 
+----
+country: ireland
+----
+region: county-clare
+----
+place: 
+----
+wikipedia: Ardsollus_and_Quin_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.804016
+----
+geolng: -8.892301

@@ -1,0 +1,21 @@
+uid: llanpumpsaint
+----
+title: Llanpumpsaint
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Llanpumpsaint_railway_station
+----
+disused: l/llanpumpsaint
+----
+code: 
+----
+geolat: 51.942486
+----
+geolng: -4.306836

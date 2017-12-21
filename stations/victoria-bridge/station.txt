@@ -1,0 +1,21 @@
+uid: victoria-bridge
+----
+title: Victoria Bridge
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Victoria_Bridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.7628
+----
+geolng: -7.4558

@@ -1,0 +1,21 @@
+uid: rhyl
+----
+title: Rhyl
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: rhyl
+----
+wikipedia: Rhyl_railway_station
+----
+disused: 
+----
+code: RHL
+----
+geolat: 53.317981
+----
+geolng: -3.488339

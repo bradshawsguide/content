@@ -1,0 +1,21 @@
+uid: newton-junction
+----
+title: Newton Junction
+----
+title-today: Newton Abbot
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Newton_Abbot_railway_station
+----
+disused: 
+----
+code: NTA
+----
+geolat: 50.530033
+----
+geolng: -3.59921

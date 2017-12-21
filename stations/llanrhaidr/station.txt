@@ -1,0 +1,21 @@
+uid: llanrhaidr
+----
+title: Llanrhaidr
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Llanrhaiadr_railway_station
+----
+disused: l/llanrhaiadr
+----
+code: 
+----
+geolat: 53.15865
+----
+geolng: -3.35569

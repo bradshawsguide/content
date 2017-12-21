@@ -1,0 +1,21 @@
+uid: battersea-park
+----
+title: Battersea Park
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Battersea_Park_railway_station
+----
+disused: 
+----
+code: BAK
+----
+geolat: 51.478122
+----
+geolng: -0.148999

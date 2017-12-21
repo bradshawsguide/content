@@ -1,0 +1,21 @@
+uid: clarbeston-road
+----
+title: Clarbeston Road
+----
+title-today: 
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: clarbeston-road
+----
+wikipedia: Clarbeston_Road_railway_station
+----
+disused: 
+----
+code: CLR
+----
+geolat: 51.851771
+----
+geolng: -4.882828

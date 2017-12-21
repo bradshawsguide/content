@@ -1,0 +1,21 @@
+uid: menheniot
+----
+title: Menheniot
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Menheniot_railway_station
+----
+disused: 
+----
+code: MEN
+----
+geolat: 50.426131
+----
+geolng: -4.4095

@@ -1,0 +1,21 @@
+uid: wraysbury
+----
+title: Wraysbury
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Wraysbury_railway_station
+----
+disused: 
+----
+code: WRY
+----
+geolat: 51.458147
+----
+geolng: -0.541188

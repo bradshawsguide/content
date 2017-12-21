@@ -1,0 +1,21 @@
+uid: soho
+----
+title: Soho
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Soho_and_Winson_Green_railway_station
+----
+disused: w/winson_green
+----
+code: 
+----
+geolat: 52.496636
+----
+geolng: -1.92999

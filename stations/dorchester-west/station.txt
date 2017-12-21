@@ -1,0 +1,21 @@
+uid: dorchester-west
+----
+title: Dorchester West
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: dorchester
+----
+wikipedia: Dorchester_West_railway_station
+----
+disused: 
+----
+code: DCW
+----
+geolat: 50.711042
+----
+geolng: -2.442542

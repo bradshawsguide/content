@@ -1,0 +1,21 @@
+uid: vernersbridge
+----
+title: Vernersbridge
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: Vernersbridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.475
+----
+geolng: -6.644

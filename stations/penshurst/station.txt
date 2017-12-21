@@ -1,0 +1,21 @@
+uid: penshurst
+----
+title: Penshurst
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: penshurst
+----
+wikipedia: Penshurst_railway_station
+----
+disused: 
+----
+code: PHR
+----
+geolat: 51.197068
+----
+geolng: 0.173359

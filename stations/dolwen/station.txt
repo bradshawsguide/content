@@ -1,0 +1,21 @@
+uid: dolwen
+----
+title: Dolwen
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Dolwen_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.456832
+----
+geolng: -3.479729

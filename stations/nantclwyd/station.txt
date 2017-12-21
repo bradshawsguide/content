@@ -1,0 +1,21 @@
+uid: nantclwyd
+----
+title: Nantclwyd
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Nantclwyd_railway_station
+----
+disused: n/nantclwyd
+----
+code: 
+----
+geolat: 53.055491
+----
+geolng: -3.336036

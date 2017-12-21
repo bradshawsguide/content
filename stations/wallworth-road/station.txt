@@ -1,0 +1,21 @@
+uid: wallworth-road
+----
+title: Wallworth Road
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Walworth_Road_railway_station
+----
+disused: w/walworth_road
+----
+code: 
+----
+geolat: 51.483687
+----
+geolng: -0.096059

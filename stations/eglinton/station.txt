@@ -1,0 +1,21 @@
+uid: eglinton
+----
+title: Eglinton
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Eglinton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.0505
+----
+geolng: -7.1847

@@ -1,0 +1,21 @@
+uid: limpley-stoke
+----
+title: Limpley Stoke
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Limpley_Stoke_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.348599
+----
+geolng: -2.314733

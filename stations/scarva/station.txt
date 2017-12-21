@@ -1,0 +1,21 @@
+uid: scarva
+----
+title: Scarva
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Scarva_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.332222
+----
+geolng: -6.366389

@@ -1,0 +1,21 @@
+uid: knutsford
+----
+title: Knutsford
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: knutsford
+----
+wikipedia: Knutsford_railway_station
+----
+disused: 
+----
+code: KNF
+----
+geolat: 53.301516
+----
+geolng: -2.372839

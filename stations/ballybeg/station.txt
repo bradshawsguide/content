@@ -1,0 +1,21 @@
+uid: ballybeg
+----
+title: Balleybeg
+----
+title-today: 
+----
+country: ireland
+----
+region: county-meath
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.648853
+----
+geolng: -6.683856

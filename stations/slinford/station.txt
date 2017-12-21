@@ -1,0 +1,21 @@
+uid: slinford
+----
+title: Slinford
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Slinfold_railway_station
+----
+disused: s/slinfold
+----
+code: 
+----
+geolat: 51.067992
+----
+geolng: -0.412187

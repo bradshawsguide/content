@@ -1,0 +1,21 @@
+uid: killonan
+----
+title: Killonan
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.640819
+----
+geolng: -8.531077

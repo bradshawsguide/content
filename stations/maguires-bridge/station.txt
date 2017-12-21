@@ -1,0 +1,21 @@
+uid: maguires-bridge
+----
+title: Maguire's Bridge
+----
+title-today: Maguiresbridge
+----
+country: ireland
+----
+region: county-fermanagh
+----
+place: 
+----
+wikipedia: Maguiresbridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.295208
+----
+geolng: -7.473514

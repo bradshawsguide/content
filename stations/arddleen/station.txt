@@ -1,0 +1,21 @@
+uid: arddleen
+----
+title: Arddleen
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Arddleen_railway_station
+----
+disused: a/arddleen_halt
+----
+code: 
+----
+geolat: 52.73491
+----
+geolng: -3.09525

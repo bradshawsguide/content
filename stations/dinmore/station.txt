@@ -1,0 +1,21 @@
+uid: dinmore
+----
+title: Dinmore
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Dinmore_(Herefordshire)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.155564
+----
+geolng: -2.713991

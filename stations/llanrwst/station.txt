@@ -1,0 +1,21 @@
+uid: llanrwst
+----
+title: Llanrwst
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: llanrwst
+----
+wikipedia: North_Llanrwst_railway_station
+----
+disused: 
+----
+code: NLR
+----
+geolat: 53.143737
+----
+geolng: -3.802275

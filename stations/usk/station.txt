@@ -1,0 +1,21 @@
+uid: usk
+----
+title: Usk
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: usk
+----
+wikipedia: Usk_(GWR)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.7063
+----
+geolng: -2.9055

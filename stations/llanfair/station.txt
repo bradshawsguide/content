@@ -1,0 +1,21 @@
+uid: llanfair
+----
+title: Llanfair
+----
+title-today: Llanfairpwll
+----
+country: wales
+----
+region: anglesea
+----
+place: 
+----
+wikipedia: Llanfairpwll_railway_station
+----
+disused: 
+----
+code: LPG
+----
+geolat: 53.22048
+----
+geolng: -4.20994

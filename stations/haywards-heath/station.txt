@@ -1,0 +1,21 @@
+uid: haywards-heath
+----
+title: Haywards Heath
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: haywards-heath
+----
+wikipedia: Haywards_Heath_railway_station
+----
+disused: 
+----
+code: HHE
+----
+geolat: 51.00496
+----
+geolng: -0.105036

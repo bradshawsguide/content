@@ -1,0 +1,21 @@
+uid: dunham-massey
+----
+title: Dunham Massey
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Dunham_Massey_railway_station
+----
+disused: d/dunham_massey
+----
+code: 
+----
+geolat: 53.39308
+----
+geolng: -2.409729

@@ -1,0 +1,21 @@
+uid: teddington
+----
+title: Teddington
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Teddington_railway_station
+----
+disused: 
+----
+code: TED
+----
+geolat: 51.424511
+----
+geolng: -0.332658

@@ -1,0 +1,21 @@
+uid: carno
+----
+title: Carno
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Carno_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.564857
+----
+geolng: -3.539428

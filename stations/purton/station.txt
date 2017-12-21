@@ -1,0 +1,21 @@
+uid: purton
+----
+title: Purton
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: purton
+----
+wikipedia: Purton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.593922
+----
+geolng: -1.86642

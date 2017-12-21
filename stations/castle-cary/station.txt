@@ -1,0 +1,21 @@
+uid: castle-cary
+----
+title: Castle Cary
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: castle-cary
+----
+wikipedia: Castle_Cary_railway_station
+----
+disused: 
+----
+code: CLC
+----
+geolat: 51.10008
+----
+geolng: -2.523369

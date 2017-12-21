@@ -1,0 +1,21 @@
+uid: newport-isle-of-wight
+----
+title: Newport
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: newport
+----
+wikipedia: Newport_railway_station_(IoWCR)
+----
+disused: n/newport(iwc)
+----
+code: 
+----
+geolat: 50.703435
+----
+geolng: -1.291202

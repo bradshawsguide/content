@@ -1,0 +1,21 @@
+uid: launceston
+----
+title: Launceston
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: launceston
+----
+wikipedia: Launceston_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.640699
+----
+geolng: -4.363178

@@ -1,0 +1,21 @@
+uid: shankill
+----
+title: Shankill
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: Shankill_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.234496
+----
+geolng: -6.126642

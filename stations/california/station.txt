@@ -1,0 +1,21 @@
+uid: california
+----
+title: California
+----
+title-today: Belmont
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Belmont_railway_station_(Sutton)
+----
+disused: 
+----
+code: BLM
+----
+geolat: 51.343813
+----
+geolng: -0.201024

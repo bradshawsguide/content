@@ -1,0 +1,21 @@
+uid: llansamlet
+----
+title: Llansamlet
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Llansamlet_railway_station
+----
+disused: 
+----
+code: LAS
+----
+geolat: 51.661593
+----
+geolng: -3.884544

@@ -1,0 +1,21 @@
+uid: broad-clyst
+----
+title: Broad Clyst
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Broad_Clyst_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.747165
+----
+geolng: -3.43083

@@ -1,0 +1,21 @@
+uid: lisburn
+----
+title: Lisburn
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: lisburn
+----
+wikipedia: Lisburn_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.514054
+----
+geolng: -6.045811

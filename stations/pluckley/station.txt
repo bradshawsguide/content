@@ -1,0 +1,21 @@
+uid: pluckley
+----
+title: Pluckley
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: pluckley
+----
+wikipedia: Pluckley_railway_station
+----
+disused: 
+----
+code: PLC
+----
+geolat: 51.156201
+----
+geolng: 0.747795

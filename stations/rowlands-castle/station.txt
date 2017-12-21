@@ -1,0 +1,21 @@
+uid: rowlands-castle
+----
+title: Rowland's Castle
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Rowlands_Castle_railway_station
+----
+disused: 
+----
+code: RLN
+----
+geolat: 50.892473
+----
+geolng: -0.957052

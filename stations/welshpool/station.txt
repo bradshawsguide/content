@@ -1,0 +1,21 @@
+uid: welshpool
+----
+title: Welshpool
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: welshpool
+----
+wikipedia: Welshpool_railway_station
+----
+disused: 
+----
+code: WLP
+----
+geolat: 52.657477
+----
+geolng: -3.140536

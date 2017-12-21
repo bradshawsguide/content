@@ -1,0 +1,21 @@
+uid: kintbury
+----
+title: Kintbury
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Kintbury_railway_station
+----
+disused: 
+----
+code: KIT
+----
+geolat: 51.402969
+----
+geolng: -1.445768

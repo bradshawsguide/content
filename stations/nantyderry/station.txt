@@ -1,0 +1,21 @@
+uid: nantyderry
+----
+title: Nantyderry
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.749584
+----
+geolng: -2.970341

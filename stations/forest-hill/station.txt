@@ -1,0 +1,21 @@
+uid: forest-hill
+----
+title: Forest Hill
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Forest_Hill_railway_station
+----
+disused: 
+----
+code: FOH
+----
+geolat: 51.439283
+----
+geolng: -0.055324

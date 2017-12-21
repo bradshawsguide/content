@@ -1,0 +1,21 @@
+uid: pengam
+----
+title: Pengam
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Pengam_railway_station
+----
+disused: 
+----
+code: PGM
+----
+geolat: 51.670277
+----
+geolng: -3.229806

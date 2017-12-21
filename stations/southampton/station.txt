@@ -1,0 +1,21 @@
+uid: southampton
+----
+title: Southampton
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: southampton
+----
+wikipedia: Southampton_West_End_railway_station
+----
+disused: s/southhampton_west
+----
+code: 
+----
+geolat: 50.908238
+----
+geolng: -1.411837

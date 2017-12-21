@@ -1,0 +1,21 @@
+uid: derby
+----
+title: Derby
+----
+title-today: 
+----
+country: england
+----
+region: derbyshire
+----
+place: derby
+----
+wikipedia: Derby_railway_station
+----
+disused: 
+----
+code: DBY
+----
+geolat: 52.916155
+----
+geolng: -1.462348

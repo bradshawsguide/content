@@ -1,0 +1,21 @@
+uid: ballymoney
+----
+title: Ballymoney
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Ballymoney_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.066667
+----
+geolng: -6.513889

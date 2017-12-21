@@ -1,0 +1,21 @@
+uid: willington
+----
+title: Willington
+----
+title-today: 
+----
+country: england
+----
+region: derbyshire
+----
+place: 
+----
+wikipedia: Willington_railway_station
+----
+disused: 
+----
+code: WIL
+----
+geolat: 52.853646
+----
+geolng: -1.564103

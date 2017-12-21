@@ -1,0 +1,21 @@
+uid: ballybrophy
+----
+title: Ballybrophy
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tipperary
+----
+place: 
+----
+wikipedia: Ballybrophy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.899444
+----
+geolng: -7.6025

@@ -1,0 +1,21 @@
+uid: hove
+----
+title: Hove
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: hove
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 50.832798
+----
+geolng: -0.15779

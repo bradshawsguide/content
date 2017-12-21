@@ -1,0 +1,21 @@
+uid: gatcombe
+----
+title: Gatcombe
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.74649
+----
+geolng: -2.46565

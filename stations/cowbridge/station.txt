@@ -1,0 +1,21 @@
+uid: cowbridge
+----
+title: Cowbridge
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Cowbridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.4604
+----
+geolng: -3.4412

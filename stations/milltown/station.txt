@@ -1,0 +1,21 @@
+uid: milltown
+----
+title: Milltown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.309954
+----
+geolng: -6.251729

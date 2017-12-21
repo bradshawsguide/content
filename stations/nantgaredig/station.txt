@@ -1,0 +1,21 @@
+uid: nantgaredig
+----
+title: Nantgaredig
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Nantgaredig_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.865831
+----
+geolng: -4.18938

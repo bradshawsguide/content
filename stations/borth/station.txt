@@ -1,0 +1,21 @@
+uid: borth
+----
+title: Borth
+----
+title-today: 
+----
+country: wales
+----
+region: cardiganshire
+----
+place: 
+----
+wikipedia: Borth_railway_station
+----
+disused: 
+----
+code: BRH
+----
+geolat: 52.490589
+----
+geolng: -4.049419

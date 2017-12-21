@@ -1,0 +1,21 @@
+uid: limerick-junction
+----
+title: Limerick Junction
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tipperary
+----
+place: 
+----
+wikipedia: Limerick_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.499444
+----
+geolng: -8.201111

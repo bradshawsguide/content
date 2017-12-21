@@ -1,0 +1,21 @@
+uid: purfleet
+----
+title: Purfleet
+----
+title-today: 
+----
+country: england
+----
+region: essex
+----
+place: 
+----
+wikipedia: Purfleet_railway_station
+----
+disused: 
+----
+code: PFL
+----
+geolat: 51.481985
+----
+geolng: 0.230744

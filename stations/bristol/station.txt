@@ -1,0 +1,21 @@
+uid: bristol
+----
+title: Bristol
+----
+title-today: Bristol Temple Meads
+----
+country: england
+----
+region: gloucestershire
+----
+place: bristol
+----
+wikipedia: Bristol_Temple_Meads_railway_station
+----
+disused: 
+----
+code: BRI
+----
+geolat: 51.450494
+----
+geolng: -2.580613

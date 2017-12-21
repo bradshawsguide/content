@@ -1,0 +1,21 @@
+uid: liskeard
+----
+title: Liskeard
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Liskeard_railway_station
+----
+disused: 
+----
+code: LSK
+----
+geolat: 50.446455
+----
+geolng: -4.469695

@@ -1,0 +1,21 @@
+uid: warwick
+----
+title: Warwick
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: warwick
+----
+wikipedia: Warwick_railway_station
+----
+disused: 
+----
+code: WRW
+----
+geolat: 52.286447
+----
+geolng: -1.581416

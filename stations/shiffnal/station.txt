@@ -1,0 +1,21 @@
+uid: shiffnal
+----
+title: Shiffnal
+----
+title-today: Shifnal
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Shifnal_railway_station
+----
+disused: 
+----
+code: SFN
+----
+geolat: 52.66598
+----
+geolng: -2.371839

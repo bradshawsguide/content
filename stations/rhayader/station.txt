@@ -1,0 +1,21 @@
+uid: rhayader
+----
+title: Rhayader
+----
+title-today: 
+----
+country: wales
+----
+region: radnorshire
+----
+place: rhayader
+----
+wikipedia: Rhayader_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.299898
+----
+geolng: -3.518488

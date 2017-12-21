@@ -1,0 +1,21 @@
+uid: stonehouse
+----
+title: Stonehouse
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: stonehouse
+----
+wikipedia: Stonehouse_railway_station
+----
+disused: 
+----
+code: SHU
+----
+geolat: 51.745618
+----
+geolng: -2.278773

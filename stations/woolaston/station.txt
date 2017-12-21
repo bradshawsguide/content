@@ -1,0 +1,21 @@
+uid: woolaston
+----
+title: Woolaston
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: woolaston
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.689162
+----
+geolng: -2.578748

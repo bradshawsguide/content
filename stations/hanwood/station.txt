@@ -1,0 +1,21 @@
+uid: hanwood
+----
+title: Hanwood
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Hanwood_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.681642
+----
+geolng: -2.829046

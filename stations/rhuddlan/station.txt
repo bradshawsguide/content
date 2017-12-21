@@ -1,0 +1,21 @@
+uid: rhuddlan
+----
+title: Rhuddlan
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: rhuddlan
+----
+wikipedia: Rhuddlan_railway_station
+----
+disused: r/rhuddlan
+----
+code: 
+----
+geolat: 53.2874
+----
+geolng: -3.4719

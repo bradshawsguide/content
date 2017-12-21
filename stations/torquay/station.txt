@@ -1,0 +1,21 @@
+uid: torquay
+----
+title: Torquay
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: torquay
+----
+wikipedia: Torquay_railway_station
+----
+disused: 
+----
+code: TQY
+----
+geolat: 50.461536
+----
+geolng: -3.543359

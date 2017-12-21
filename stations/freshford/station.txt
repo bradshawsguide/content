@@ -1,0 +1,21 @@
+uid: freshford
+----
+title: Freshford
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Freshford_railway_station
+----
+disused: 
+----
+code: FFD
+----
+geolat: 51.341849
+----
+geolng: -2.30072

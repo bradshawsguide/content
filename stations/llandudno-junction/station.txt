@@ -1,0 +1,21 @@
+uid: llandudno-junction
+----
+title: Llandudno Junction
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: 
+----
+wikipedia: Llandudno_Junction_railway_station
+----
+disused: 
+----
+code: LLJ
+----
+geolat: 53.283871
+----
+geolng: -3.809669

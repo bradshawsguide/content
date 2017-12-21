@@ -1,0 +1,21 @@
+uid: cookstown-junction
+----
+title: Cookstown Junction
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Cookstown_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.7495
+----
+geolng: -6.2642

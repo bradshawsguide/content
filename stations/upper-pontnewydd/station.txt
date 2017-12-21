@@ -1,0 +1,21 @@
+uid: upper-pontnewydd
+----
+title: Upper Pontnewydd
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Upper_Pontnewydd_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.66146
+----
+geolng: -3.024264

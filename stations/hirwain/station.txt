@@ -1,0 +1,21 @@
+uid: hirwain
+----
+title: Hirwain
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Hirwaun_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.742578
+----
+geolng: -3.506967

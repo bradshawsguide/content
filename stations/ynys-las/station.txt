@@ -1,0 +1,21 @@
+uid: ynys-las
+----
+title: Ynys-las
+----
+title-today: 
+----
+country: wales
+----
+region: cardiganshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.518489
+----
+geolng: -4.037453

@@ -1,0 +1,21 @@
+uid: middletown
+----
+title: Middletown
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Breidden_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.701167
+----
+geolng: -3.032902

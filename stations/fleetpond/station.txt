@@ -1,0 +1,21 @@
+uid: fleetpond
+----
+title: Fleetpond
+----
+title-today: Fleet
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Fleet_railway_station
+----
+disused: 
+----
+code: FLE
+----
+geolat: 51.29054
+----
+geolng: -0.830464

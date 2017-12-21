@@ -1,0 +1,21 @@
+uid: gillingham
+----
+title: Gillingham
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Gillingham_(Dorset)_railway_station
+----
+disused: 
+----
+code: GIL
+----
+geolat: 51.034391
+----
+geolng: -2.273054

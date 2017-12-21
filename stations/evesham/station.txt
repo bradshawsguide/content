@@ -1,0 +1,21 @@
+uid: evesham
+----
+title: Evesham
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: evesham
+----
+wikipedia: Evesham_railway_station
+----
+disused: 
+----
+code: EVE
+----
+geolat: 52.098377
+----
+geolng: -1.946671

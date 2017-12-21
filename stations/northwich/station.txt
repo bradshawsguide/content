@@ -1,0 +1,21 @@
+uid: northwich
+----
+title: Northwich
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: northwich
+----
+wikipedia: Northwich_railway_station
+----
+disused: 
+----
+code: NWI
+----
+geolat: 53.261513
+----
+geolng: -2.496918

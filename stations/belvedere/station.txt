@@ -1,0 +1,21 @@
+uid: belvedere
+----
+title: Belvedere
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Belvedere_railway_station
+----
+disused: 
+----
+code: BVD
+----
+geolat: 51.491544
+----
+geolng: 0.15164

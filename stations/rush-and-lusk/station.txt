@@ -1,0 +1,21 @@
+uid: rush-and-lusk
+----
+title: Rush and Lusk
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: Rush_and_Lusk_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.5208
+----
+geolng: -6.1433

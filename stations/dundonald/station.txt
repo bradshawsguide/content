@@ -1,0 +1,21 @@
+uid: dundonald
+----
+title: Dundonald
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Dundonald_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.5867
+----
+geolng: -5.8014

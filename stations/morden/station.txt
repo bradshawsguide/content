@@ -1,0 +1,21 @@
+uid: morden
+----
+title: Morden
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Morden_Road_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.408843
+----
+geolng: -0.192904

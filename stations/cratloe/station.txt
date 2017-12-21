@@ -1,0 +1,21 @@
+uid: cratloe
+----
+title: Cratloe
+----
+title-today: 
+----
+country: ireland
+----
+region: county-clare
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.698563
+----
+geolng: -8.766336

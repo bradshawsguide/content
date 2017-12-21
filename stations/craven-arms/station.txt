@@ -1,0 +1,21 @@
+uid: craven-arms
+----
+title: Craven Arms
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Craven_Arms_railway_station
+----
+disused: 
+----
+code: CRV
+----
+geolat: 52.442445
+----
+geolng: -2.837788

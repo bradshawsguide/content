@@ -1,0 +1,21 @@
+uid: herne
+----
+title: Herne
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Hurn_railway_station
+----
+disused: h/hurn
+----
+code: 
+----
+geolat: 50.779167
+----
+geolng: -1.806343

@@ -1,0 +1,21 @@
+uid: bassaleg-junction
+----
+title: Bassaleg Junction
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Bassaleg_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.579513
+----
+geolng: -3.038295

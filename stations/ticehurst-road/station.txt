@@ -1,0 +1,21 @@
+uid: ticehurst-road
+----
+title: Ticehurst Road
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: ticehurst-road
+----
+wikipedia: Stonegate_railway_station
+----
+disused: 
+----
+code: SOG
+----
+geolat: 51.019807
+----
+geolng: 0.363261

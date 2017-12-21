@@ -1,0 +1,21 @@
+uid: tondu
+----
+title: Tondu
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Tondu_railway_station
+----
+disused: 
+----
+code: TDU
+----
+geolat: 51.547179
+----
+geolng: -3.595687

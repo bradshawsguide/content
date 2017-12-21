@@ -1,0 +1,21 @@
+uid: sea-mills
+----
+title: Sea Mills
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: 
+----
+wikipedia: Sea_Mills_railway_station
+----
+disused: 
+----
+code: SML
+----
+geolat: 51.479802
+----
+geolng: -2.650105

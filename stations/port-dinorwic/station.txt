@@ -1,0 +1,21 @@
+uid: port-dinorwic
+----
+title: Port Dinorwic
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: 
+----
+wikipedia: Port_Dinorwic_railway_station
+----
+disused: p/port_dinorwic
+----
+code: 
+----
+geolat: 53.1855
+----
+geolng: -4.205

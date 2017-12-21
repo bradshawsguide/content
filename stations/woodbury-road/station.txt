@@ -1,0 +1,21 @@
+uid: woodbury-road
+----
+title: Woodbury Road
+----
+title-today: Exton
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Exton_railway_station
+----
+disused: 
+----
+code: EXN
+----
+geolat: 50.667862
+----
+geolng: -3.443984

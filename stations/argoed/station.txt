@@ -1,0 +1,21 @@
+uid: argoed
+----
+title: Argoed
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Argoed_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.694051
+----
+geolng: -3.191385

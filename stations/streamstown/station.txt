@@ -1,0 +1,21 @@
+uid: streamstown
+----
+title: Streamstown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-westmeath
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.435258
+----
+geolng: -7.570478

@@ -1,0 +1,21 @@
+uid: antrim
+----
+title: Antrim
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: antrim
+----
+wikipedia: Antrim_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.7182
+----
+geolng: -6.2115

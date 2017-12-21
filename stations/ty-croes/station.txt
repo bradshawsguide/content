@@ -1,0 +1,21 @@
+uid: ty-croes
+----
+title: Tŷ Croes
+----
+title-today: 
+----
+country: wales
+----
+region: anglesea
+----
+place: 
+----
+wikipedia: Tŷ_Croes_railway_station
+----
+disused: 
+----
+code: TYC
+----
+geolat: 53.222456
+----
+geolng: -4.475206

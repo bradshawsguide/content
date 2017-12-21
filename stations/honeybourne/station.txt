@@ -1,0 +1,21 @@
+uid: honeybourne
+----
+title: Honeybourne
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Honeybourne_railway_station
+----
+disused: 
+----
+code: HYB
+----
+geolat: 52.101869
+----
+geolng: -1.834253

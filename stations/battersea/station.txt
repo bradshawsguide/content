@@ -1,0 +1,21 @@
+uid: battersea
+----
+title: Battersea
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Battersea_railway_station
+----
+disused: b/battersea
+----
+code: 
+----
+geolat: 51.47156
+----
+geolng: -0.172926

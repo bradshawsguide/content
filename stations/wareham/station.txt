@@ -1,0 +1,21 @@
+uid: wareham
+----
+title: Wareham
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: wareham
+----
+wikipedia: Wareham_railway_station
+----
+disused: 
+----
+code: WRM
+----
+geolat: 50.692941
+----
+geolng: -2.115332

@@ -1,0 +1,21 @@
+uid: emsworth
+----
+title: Emsworth
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Emsworth_railway_station
+----
+disused: 
+----
+code: EMS
+----
+geolat: 50.851834
+----
+geolng: -0.93807

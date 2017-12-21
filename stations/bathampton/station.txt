@@ -1,0 +1,21 @@
+uid: bathampton
+----
+title: Bathampton
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Bathampton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.398442
+----
+geolng: -2.321215

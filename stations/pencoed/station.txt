@@ -1,0 +1,21 @@
+uid: pencoed
+----
+title: Pencoed
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Pencoed_railway_station
+----
+disused: 
+----
+code: PCD
+----
+geolat: 51.52323
+----
+geolng: -3.502596

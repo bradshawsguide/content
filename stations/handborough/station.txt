@@ -1,0 +1,21 @@
+uid: handborough
+----
+title: Handborough
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: handborough
+----
+wikipedia: Hanborough_railway_station
+----
+disused: 
+----
+code: HND
+----
+geolat: 51.825194
+----
+geolng: -1.372411

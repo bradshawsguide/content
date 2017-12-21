@@ -1,0 +1,21 @@
+uid: horsehay
+----
+title: Horsehay
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: horsehay
+----
+wikipedia: Horsehay_and_Dawley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.662889
+----
+geolng: -2.481226

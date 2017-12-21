@@ -1,0 +1,21 @@
+uid: adisham
+----
+title: Adisham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Adisham_railway_station
+----
+disused: 
+----
+code: ADM
+----
+geolat: 51.240982
+----
+geolng: 1.198487

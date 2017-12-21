@@ -1,0 +1,21 @@
+uid: burnham-on-sea
+----
+title: Burnham-on-sea
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: burnham-on-sea
+----
+wikipedia: Burnham-on-Sea_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.234589
+----
+geolng: -2.996134

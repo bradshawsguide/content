@@ -1,0 +1,21 @@
+uid: newnham-bridge
+----
+title: Newnham Bridge
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Newnham_Bridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.321071
+----
+geolng: -2.52739

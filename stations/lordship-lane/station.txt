@@ -1,0 +1,21 @@
+uid: lordship-lane
+----
+title: Lordship Lane
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Lordship_Lane_railway_station
+----
+disused: l/lordship_lane
+----
+code: 
+----
+geolat: 51.440909
+----
+geolng: -0.064743

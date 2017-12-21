@@ -1,0 +1,21 @@
+uid: machynlleth
+----
+title: Machynlleth
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: machynlleth
+----
+wikipedia: Machynlleth_railway_station
+----
+disused: 
+----
+code: MCN
+----
+geolat: 52.595397
+----
+geolng: -3.854981

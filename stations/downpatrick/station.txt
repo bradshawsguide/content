@@ -1,0 +1,21 @@
+uid: downpatrick
+----
+title: Downpatrick
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: downpatrick
+----
+wikipedia: Downpatrick_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.325334
+----
+geolng: -5.723319

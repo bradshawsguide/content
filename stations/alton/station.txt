@@ -1,0 +1,21 @@
+uid: alton
+----
+title: Alton
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: alton
+----
+wikipedia: Alton_railway_station
+----
+disused: 
+----
+code: AON
+----
+geolat: 51.152444
+----
+geolng: -0.966931

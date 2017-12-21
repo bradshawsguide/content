@@ -1,0 +1,21 @@
+uid: chilham
+----
+title: Chilham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: chilham
+----
+wikipedia: Chilham_railway_station
+----
+disused: 
+----
+code: CIL
+----
+geolat: 51.244178
+----
+geolng: 0.975151

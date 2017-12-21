@@ -1,0 +1,21 @@
+uid: crowcombe
+----
+title: Crowcombe
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Crowcombe_Heathfield_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.101925
+----
+geolng: -3.234656

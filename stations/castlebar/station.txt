@@ -1,0 +1,21 @@
+uid: castlebar
+----
+title: Castlebar
+----
+title-today: 
+----
+country: ireland
+----
+region: county-mayo
+----
+place: 
+----
+wikipedia: Castlebar_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.8474
+----
+geolng: -9.2879

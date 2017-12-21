@@ -1,0 +1,21 @@
+uid: chester
+----
+title: Chester
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: chester
+----
+wikipedia: Chester_railway_station
+----
+disused: 
+----
+code: CTR
+----
+geolat: 53.196381
+----
+geolng: -2.879363

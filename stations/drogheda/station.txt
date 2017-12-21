@@ -1,0 +1,21 @@
+uid: drogheda
+----
+title: Drogheda
+----
+title-today: Drogheda MacBride
+----
+country: ireland
+----
+region: county-louth
+----
+place: drogheda
+----
+wikipedia: Drogheda_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.7119
+----
+geolng: -6.333

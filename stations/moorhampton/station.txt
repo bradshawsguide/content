@@ -1,0 +1,21 @@
+uid: moorhampton
+----
+title: Moorhampton
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Moorhampton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.116594
+----
+geolng: -2.891542

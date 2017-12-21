@@ -1,0 +1,21 @@
+uid: pershore
+----
+title: Pershore
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: pershore
+----
+wikipedia: Pershore_railway_station
+----
+disused: 
+----
+code: PSH
+----
+geolat: 52.130733
+----
+geolng: -2.072268

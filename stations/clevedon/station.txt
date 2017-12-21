@@ -1,0 +1,21 @@
+uid: clevedon
+----
+title: Clevedon
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: clevedon
+----
+wikipedia: Clevedon_branch_line#Clevedon_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.434891
+----
+geolng: -2.853028

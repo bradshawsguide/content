@@ -1,0 +1,21 @@
+uid: tongham
+----
+title: Tongham
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Tongham_railway_station
+----
+disused: t/tongham
+----
+code: 
+----
+geolat: 51.233984
+----
+geolng: -0.732101

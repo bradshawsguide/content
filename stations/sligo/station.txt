@@ -1,0 +1,21 @@
+uid: sligo
+----
+title: Sligo
+----
+title-today: 
+----
+country: ireland
+----
+region: county-sligo
+----
+place: sligo
+----
+wikipedia: Sligo_Mac_Diarmada_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.272
+----
+geolng: -8.481

@@ -1,0 +1,21 @@
+uid: mill-street
+----
+title: Mill Street
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: Millstreet_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.077664
+----
+geolng: -9.070569

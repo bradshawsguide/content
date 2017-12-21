@@ -1,0 +1,21 @@
+uid: bessbrook
+----
+title: Bressbrook
+----
+title-today: Newey
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: Newry_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.189053
+----
+geolng: -6.363003

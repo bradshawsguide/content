@@ -1,0 +1,21 @@
+uid: winchelsea
+----
+title: Winchelsea
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: winchelsea
+----
+wikipedia: Winchelsea_railway_station
+----
+disused: 
+----
+code: WSE
+----
+geolat: 50.933314
+----
+geolng: 0.701894

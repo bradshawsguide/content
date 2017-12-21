@@ -1,0 +1,21 @@
+uid: burton-on-trent
+----
+title: Burton-on-Trent
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: burton-on-trent
+----
+wikipedia: Burton-on-Trent_railway_station
+----
+disused: 
+----
+code: BUT
+----
+geolat: 52.806261
+----
+geolng: -1.641714

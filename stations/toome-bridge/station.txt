@@ -1,0 +1,21 @@
+uid: toome-bridge
+----
+title: Toome Bridge
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Toome_Bridge_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.7533
+----
+geolng: -6.4615

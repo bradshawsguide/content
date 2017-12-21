@@ -1,0 +1,21 @@
+uid: blaina
+----
+title: Blaina
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Blaina_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.764486
+----
+geolng: -3.161359

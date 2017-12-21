@@ -1,0 +1,21 @@
+uid: west-croydon
+----
+title: West Croydon
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: West_Croydon_station
+----
+disused: 
+----
+code: WCY
+----
+geolat: 51.378391
+----
+geolng: -0.104965

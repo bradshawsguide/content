@@ -1,0 +1,21 @@
+uid: raglan
+----
+title: Raglan
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: raglan
+----
+wikipedia: Raglan_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.763
+----
+geolng: -2.84

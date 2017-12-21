@@ -1,0 +1,21 @@
+uid: monmouth
+----
+title: Monmouth
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: monmouth
+----
+wikipedia: Monmouth_Troy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.8029
+----
+geolng: -2.7135

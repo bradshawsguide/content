@@ -1,0 +1,21 @@
+uid: astley
+----
+title: Astley
+----
+title-today: 
+----
+country: england
+----
+region: lancashire
+----
+place: 
+----
+wikipedia: Astley_railway_station
+----
+disused: a/astley
+----
+code: 
+----
+geolat: 53.472047
+----
+geolng: -2.446646

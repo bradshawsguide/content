@@ -1,0 +1,21 @@
+uid: llydcoed
+----
+title: Llydcoed
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.731817
+----
+geolng: -3.466826

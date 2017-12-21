@@ -1,0 +1,21 @@
+uid: hungerford
+----
+title: Hungerford
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: hungerford
+----
+wikipedia: Hungerford_railway_station
+----
+disused: 
+----
+code: HGD
+----
+geolat: 51.414951
+----
+geolng: -1.511769

@@ -1,0 +1,21 @@
+uid: uffington
+----
+title: Uffington
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Uffington_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.612019
+----
+geolng: -1.550096

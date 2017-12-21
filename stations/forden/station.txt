@@ -1,0 +1,21 @@
+uid: forden
+----
+title: Forden
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Forden_railway_station
+----
+disused: f/forden
+----
+code: 
+----
+geolat: 52.597999
+----
+geolng: -3.155231

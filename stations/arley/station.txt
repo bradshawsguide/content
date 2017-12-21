@@ -1,0 +1,21 @@
+uid: arley
+----
+title: Arley
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Arley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.417033
+----
+geolng: -2.347685

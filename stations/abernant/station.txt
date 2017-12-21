@@ -1,0 +1,21 @@
+uid: abernant
+----
+title: Abernant
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Abernant_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.72143
+----
+geolng: -3.42811

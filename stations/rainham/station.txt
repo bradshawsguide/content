@@ -1,0 +1,21 @@
+uid: rainham
+----
+title: Rainham
+----
+title-today: 
+----
+country: england
+----
+region: essex
+----
+place: 
+----
+wikipedia: Rainham_(Essex)_railway_station
+----
+disused: 
+----
+code: RNM
+----
+geolat: 51.513483
+----
+geolng: 0.159521

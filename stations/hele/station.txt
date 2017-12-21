@@ -1,0 +1,21 @@
+uid: hele
+----
+title: Hele
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: hele
+----
+wikipedia: Disused_railway_stations_on_the_Bristol_to_Exeter_Line#Hele_and_Bradninch
+----
+disused: 
+----
+code: 
+----
+geolat: 50.811321
+----
+geolng: -3.427379

@@ -1,0 +1,21 @@
+uid: porchester
+----
+title: Porchester
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: porchester
+----
+wikipedia: Portchester_railway_station
+----
+disused: 
+----
+code: PTC
+----
+geolat: 50.848883
+----
+geolng: -1.124223

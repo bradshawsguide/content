@@ -1,0 +1,21 @@
+uid: torre
+----
+title: Torre
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Torre_railway_station
+----
+disused: 
+----
+code: TRR
+----
+geolat: 50.473185
+----
+geolng: -3.546557

@@ -1,0 +1,21 @@
+uid: leaton
+----
+title: Leaton
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Leaton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.763762
+----
+geolng: -2.783181

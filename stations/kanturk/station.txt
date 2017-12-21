@@ -1,0 +1,21 @@
+uid: kanturk
+----
+title: Kanturk
+----
+title-today: Banteer
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: Banteer_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.128901
+----
+geolng: -8.901218

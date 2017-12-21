@@ -1,0 +1,21 @@
+uid: foryd
+----
+title: Foryd
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: 
+----
+wikipedia: Foryd_railway_station
+----
+disused: f/foryd
+----
+code: 
+----
+geolat: 53.307565
+----
+geolng: -3.530001

@@ -1,0 +1,21 @@
+uid: pontrilas
+----
+title: Pontrilas
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Pontrilas_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.944071
+----
+geolng: -2.877932

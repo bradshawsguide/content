@@ -1,0 +1,21 @@
+uid: banstead
+----
+title: Banstead
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Banstead_railway_station
+----
+disused: 
+----
+code: BAD
+----
+geolat: 51.329194
+----
+geolng: -0.213194

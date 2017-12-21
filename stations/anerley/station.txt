@@ -1,0 +1,21 @@
+uid: anerley
+----
+title: Anerley
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Anerley_railway_station
+----
+disused: 
+----
+code: ANZ
+----
+geolat: 51.412159
+----
+geolng: -0.067912

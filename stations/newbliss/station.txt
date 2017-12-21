@@ -1,0 +1,21 @@
+uid: newbliss
+----
+title: Newbliss
+----
+title-today: 
+----
+country: ireland
+----
+region: county-monaghan
+----
+place: 
+----
+wikipedia: Newbliss_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.162296
+----
+geolng: -7.131675

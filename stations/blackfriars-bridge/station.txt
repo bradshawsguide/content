@@ -1,0 +1,21 @@
+uid: blackfriars-bridge
+----
+title: Blackfriars Bridge
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Blackfriars_Bridge_railway_station
+----
+disused: b/blackfriars_bridge
+----
+code: 
+----
+geolat: 51.510787
+----
+geolng: -0.103576

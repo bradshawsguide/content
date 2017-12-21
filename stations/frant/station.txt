@@ -1,0 +1,21 @@
+uid: frant
+----
+title: Frant
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: frant
+----
+wikipedia: Frant_railway_station
+----
+disused: 
+----
+code: FRT
+----
+geolat: 51.104028
+----
+geolng: 0.294444

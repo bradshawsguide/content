@@ -1,0 +1,21 @@
+uid: charlbury
+----
+title: Charlbury
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: charlbury
+----
+wikipedia: Charlbury_railway_station
+----
+disused: 
+----
+code: CBY
+----
+geolat: 51.872514
+----
+geolng: -1.489402

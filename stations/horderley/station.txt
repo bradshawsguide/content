@@ -1,0 +1,21 @@
+uid: horderley
+----
+title: Horderley
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Horderley_railway_station
+----
+disused: h/horderley
+----
+code: 
+----
+geolat: 52.476369
+----
+geolng: -2.870824

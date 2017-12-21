@@ -1,0 +1,21 @@
+uid: queensferry-flintshire
+----
+title: Queensferry
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: 
+----
+wikipedia: Queensferry_railway_station
+----
+disused: q/queensferry
+----
+code: 
+----
+geolat: 53.208714
+----
+geolng: -3.023359

@@ -1,0 +1,21 @@
+uid: buttevant
+----
+title: Buttevant
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: buttevant
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.237807
+----
+geolng: -8.683779

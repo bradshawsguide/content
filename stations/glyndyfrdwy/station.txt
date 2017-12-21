@@ -1,0 +1,21 @@
+uid: glyndyfrdwy
+----
+title: Glyndyfrdwy
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Glyndyfrdwy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.977141
+----
+geolng: -3.266596

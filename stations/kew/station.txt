@@ -1,0 +1,21 @@
+uid: kew
+----
+title: Kew
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: kew
+----
+wikipedia: Kew_(London)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.490521
+----
+geolng: -0.292289

@@ -1,0 +1,21 @@
+uid: killylea
+----
+title: Killylea
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: Killylea_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.352835
+----
+geolng: -6.766906

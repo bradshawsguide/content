@@ -1,0 +1,21 @@
+uid: penmaen-mawr
+----
+title: Penmaen Mawr
+----
+title-today: Penmaenmawr
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: 
+----
+wikipedia: Penmaenmawr_railway_station
+----
+disused: 
+----
+code: PMW
+----
+geolat: 53.270408
+----
+geolng: -3.923073

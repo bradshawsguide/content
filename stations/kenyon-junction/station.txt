@@ -1,0 +1,21 @@
+uid: kenyon-junction
+----
+title: Kenyon Junction
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Kenyon_Junction_railway_station
+----
+disused: k/kenyon_junction
+----
+code: 
+----
+geolat: 53.463572
+----
+geolng: -2.539944

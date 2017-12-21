@@ -1,0 +1,21 @@
+uid: hammerwich
+----
+title: Hammerwich
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Hammerwich_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.662019
+----
+geolng: -1.891286

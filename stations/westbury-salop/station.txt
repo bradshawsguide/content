@@ -1,0 +1,21 @@
+uid: westbury-salop
+----
+title: Westbury
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Westbury_(Salop)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.692273
+----
+geolng: -2.968329

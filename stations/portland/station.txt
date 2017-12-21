@@ -1,0 +1,21 @@
+uid: portland
+----
+title: Portland
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Portland_(Dorset)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.563085
+----
+geolng: -2.448919

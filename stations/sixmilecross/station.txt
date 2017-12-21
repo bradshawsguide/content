@@ -1,0 +1,21 @@
+uid: sixmilecross
+----
+title: Sixmilecross
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Sixmilecross_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.555043
+----
+geolng: -7.118861

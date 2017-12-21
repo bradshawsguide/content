@@ -1,0 +1,21 @@
+uid: lombardstown
+----
+title: Lombardstown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.119227
+----
+geolng: -8.780082

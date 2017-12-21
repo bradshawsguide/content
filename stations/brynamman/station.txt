@@ -1,0 +1,21 @@
+uid: brynamman
+----
+title: Brynamman
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.808854
+----
+geolng: -3.869648

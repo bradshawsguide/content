@@ -1,0 +1,21 @@
+uid: colyton
+----
+title: Colyton
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Seaton_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.763056
+----
+geolng: -3.066111

@@ -1,0 +1,21 @@
+uid: birkenhead
+----
+title: Birkenhead
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: birkenhead
+----
+wikipedia: Birkenhead_Monks_Ferry_railway_station
+----
+disused: b/birkenhead_monks_ferry
+----
+code: 
+----
+geolat: 53.39085
+----
+geolng: -3.01043

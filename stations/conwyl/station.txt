@@ -1,0 +1,21 @@
+uid: conwyl
+----
+title: Conwyl
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Conwil_railway_station
+----
+disused: c/conwil
+----
+code: 
+----
+geolat: 51.912418
+----
+geolng: -4.348043

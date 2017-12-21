@@ -1,0 +1,21 @@
+uid: east-croydon
+----
+title: East Croydon
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: croydon
+----
+wikipedia: East_Croydon_station
+----
+disused: 
+----
+code: ECR
+----
+geolat: 51.376561
+----
+geolng: -0.094948

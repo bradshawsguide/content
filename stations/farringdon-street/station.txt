@@ -1,0 +1,21 @@
+uid: farringdon-street
+----
+title: Farringdon Street
+----
+title-today: Farringdon
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Farringdon_station
+----
+disused: 
+----
+code: ZFD
+----
+geolat: 51.520211
+----
+geolng: -0.106992

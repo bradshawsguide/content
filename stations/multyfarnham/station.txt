@@ -1,0 +1,21 @@
+uid: multyfarnham
+----
+title: Multyfarnham
+----
+title-today: 
+----
+country: ireland
+----
+region: county-westmeath
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.616489
+----
+geolng: -7.41109

@@ -1,0 +1,21 @@
+uid: abergwilly
+----
+title: Abergwilly
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Abergwili_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.86614
+----
+geolng: -4.26711

@@ -1,0 +1,21 @@
+uid: bilston-central
+----
+title: Bilston Central
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Bilston_Central_railway_station
+----
+disused: b/bilston
+----
+code: 
+----
+geolat: 52.564957
+----
+geolng: -2.072982

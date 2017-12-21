@@ -1,0 +1,21 @@
+uid: pandy
+----
+title: Pandy
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Pandy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.900906
+----
+geolng: -2.964951

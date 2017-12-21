@@ -1,0 +1,21 @@
+uid: bridge-end
+----
+title: Bridge End
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Bridge_End_(Donegal)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.043356
+----
+geolng: -7.381248

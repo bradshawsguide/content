@@ -1,0 +1,21 @@
+uid: pomeroy
+----
+title: Pomeroy
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Pomeroy_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.589513
+----
+geolng: -6.922544

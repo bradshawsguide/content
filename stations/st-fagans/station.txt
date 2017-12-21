@@ -1,0 +1,21 @@
+uid: st-fagans
+----
+title: St. Fagans
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: St_Fagans_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.4848
+----
+geolng: -3.2688

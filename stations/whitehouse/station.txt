@@ -1,0 +1,21 @@
+uid: whitehouse
+----
+title: Whitehouse
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Whitehouse_(BBR)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.658429
+----
+geolng: -5.907804

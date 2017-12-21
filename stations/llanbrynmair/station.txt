@@ -1,0 +1,21 @@
+uid: llanbrynmair
+----
+title: Llanbrynmair
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Llanbrynmair_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.614874
+----
+geolng: -3.631284

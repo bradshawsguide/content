@@ -1,0 +1,21 @@
+uid: griffiths-crossing
+----
+title: Griffith's Crossing
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: 
+----
+wikipedia: Griffith%27s_Crossing_railway_station
+----
+disused: g/griffiths_crossing
+----
+code: 
+----
+geolat: 53.167797
+----
+geolng: -4.238651

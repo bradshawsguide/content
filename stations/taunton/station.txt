@@ -1,0 +1,21 @@
+uid: taunton
+----
+title: Taunton
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: taunton
+----
+wikipedia: Taunton_railway_station
+----
+disused: 
+----
+code: TAU
+----
+geolat: 51.02321
+----
+geolng: -3.102811

@@ -1,0 +1,21 @@
+uid: palla
+----
+title: Palla
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.570789
+----
+geolng: -8.33674

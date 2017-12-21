@@ -1,0 +1,21 @@
+uid: trent-valley-junction
+----
+title: Trent Valley Junction
+----
+title-today: Lichfield Trent Valley
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Lichfield_Trent_Valley_railway_station
+----
+disused: 
+----
+code: LTV
+----
+geolat: 52.687071
+----
+geolng: -1.799503

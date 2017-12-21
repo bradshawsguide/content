@@ -1,0 +1,21 @@
+uid: north-tawton
+----
+title: North Tawton
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: North_Tawton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.7844
+----
+geolng: -3.8939

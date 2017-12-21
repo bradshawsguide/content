@@ -1,0 +1,21 @@
+uid: tullamore
+----
+title: Tullamore
+----
+title-today: 
+----
+country: ireland
+----
+region: kings-county
+----
+place: tullamore
+----
+wikipedia: Tullamore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.270278
+----
+geolng: -7.499722

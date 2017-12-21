@@ -1,0 +1,21 @@
+uid: shapwick
+----
+title: Shapwick
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Shapwick_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.167574
+----
+geolng: -2.825917

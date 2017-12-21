@@ -1,0 +1,21 @@
+uid: burgess-hill
+----
+title: Burgess Hill
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: burgess-hill
+----
+wikipedia: Burgess_Hill_railway_station
+----
+disused: 
+----
+code: BUG
+----
+geolat: 50.953154
+----
+geolng: -0.127077

@@ -1,0 +1,21 @@
+uid: admaston
+----
+title: Admaston
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Admaston_railway_station
+----
+disused: a/admaston_halt
+----
+code: 
+----
+geolat: 52.711142
+----
+geolng: -2.548366

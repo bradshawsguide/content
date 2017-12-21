@@ -1,0 +1,21 @@
+uid: menai-bridge
+----
+title: Menai Bridge
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: menai-bridge
+----
+wikipedia: Menai_Bridge_railway_station
+----
+disused: m/menai_bridge
+----
+code: 
+----
+geolat: 53.217739
+----
+geolng: -4.163365

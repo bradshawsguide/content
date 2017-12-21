@@ -1,0 +1,21 @@
+uid: brockenhurst
+----
+title: Brockenhurst
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: brockenhurst
+----
+wikipedia: Brockenhurst_railway_station
+----
+disused: 
+----
+code: BCU
+----
+geolat: 50.816317
+----
+geolng: -1.573394

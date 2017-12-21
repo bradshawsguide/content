@@ -1,0 +1,21 @@
+uid: malvern-link
+----
+title: Malvern Link
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Malvern_Link_railway_station
+----
+disused: 
+----
+code: MVL
+----
+geolat: 52.124928
+----
+geolng: -2.319113

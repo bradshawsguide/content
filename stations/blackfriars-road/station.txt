@@ -1,0 +1,21 @@
+uid: blackfriars-road
+----
+title: Blackfriars Road
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: blackfriars-road
+----
+wikipedia: Blackfriars_Road_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.504167
+----
+geolng: -0.104167

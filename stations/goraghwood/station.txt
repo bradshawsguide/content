@@ -1,0 +1,21 @@
+uid: goraghwood
+----
+title: Goraghwood
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: Goraghwood_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.225409
+----
+geolng: -6.366018

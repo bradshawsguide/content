@@ -1,0 +1,21 @@
+uid: portswood
+----
+title: Portswood
+----
+title-today: St Denys
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: St_Denys_railway_station
+----
+disused: 
+----
+code: SDN
+----
+geolat: 50.922501
+----
+geolng: -1.387471

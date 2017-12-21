@@ -1,0 +1,21 @@
+uid: abertillery
+----
+title: Abertillery
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Abertillery_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.730553
+----
+geolng: -3.137321

@@ -1,0 +1,21 @@
+uid: brimscomb
+----
+title: Brimscomb
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: brimscomb
+----
+wikipedia: Brimscombe_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.71794
+----
+geolng: -2.178723

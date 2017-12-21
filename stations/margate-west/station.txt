@@ -1,0 +1,21 @@
+uid: margate-west
+----
+title: Margate (C&D)
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Margate_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.385414
+----
+geolng: 1.372434

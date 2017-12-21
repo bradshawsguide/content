@@ -1,0 +1,21 @@
+uid: llangwillog
+----
+title: Llangwillog
+----
+title-today: 
+----
+country: wales
+----
+region: anglesea
+----
+place: 
+----
+wikipedia: Llangwyllog_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.2854
+----
+geolng: -4.3472

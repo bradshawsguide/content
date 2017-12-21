@@ -1,0 +1,21 @@
+uid: witham-junction
+----
+title: Witham Junction
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Witham_(Somerset)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.166667
+----
+geolng: -2.35

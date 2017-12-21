@@ -1,0 +1,21 @@
+uid: micheldever
+----
+title: Micheldever
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Micheldever_railway_station
+----
+disused: 
+----
+code: MIC
+----
+geolat: 51.182546
+----
+geolng: -1.26099

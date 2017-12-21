@@ -1,0 +1,21 @@
+uid: camden-road
+----
+title: Camden Road
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: camden
+----
+wikipedia: Camden_Road_railway_station
+----
+disused: c/camden_town
+----
+code: 
+----
+geolat: 51.54143
+----
+geolng: -0.135314

@@ -1,0 +1,21 @@
+uid: faringdon
+----
+title: Faringdon
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: faringdon
+----
+wikipedia: Faringdon_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.654409
+----
+geolng: -1.585814

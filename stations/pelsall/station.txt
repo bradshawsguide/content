@@ -1,0 +1,21 @@
+uid: pelsall
+----
+title: Pelsall
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: pelsall
+----
+wikipedia: Pelsall_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.625206
+----
+geolng: -1.963764

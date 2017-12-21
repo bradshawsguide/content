@@ -1,0 +1,21 @@
+uid: st-mary-cray
+----
+title: St Mary Cray
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: St_Mary_Cray_railway_station
+----
+disused: 
+----
+code: SMY
+----
+geolat: 51.394757
+----
+geolng: 0.104167

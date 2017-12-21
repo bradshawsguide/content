@@ -1,0 +1,21 @@
+uid: kingsland
+----
+title: Kingsland
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Kingsland_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.243875
+----
+geolng: -2.82086

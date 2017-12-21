@@ -1,0 +1,21 @@
+uid: colwall
+----
+title: Colwall
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Colwall_railway_station
+----
+disused: 
+----
+code: CWL
+----
+geolat: 52.079867
+----
+geolng: -2.356731

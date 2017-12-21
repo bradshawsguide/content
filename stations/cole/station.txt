@@ -1,0 +1,21 @@
+uid: cole
+----
+title: Cole
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Cole_(for_Bruton)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.099406
+----
+geolng: -2.47052

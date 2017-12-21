@@ -1,0 +1,21 @@
+uid: neath
+----
+title: Neath
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: neath
+----
+wikipedia: Neath_railway_station
+----
+disused: 
+----
+code: NTH
+----
+geolat: 51.661921
+----
+geolng: -3.806479

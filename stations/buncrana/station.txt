@@ -1,0 +1,21 @@
+uid: buncrana
+----
+title: Buncrana
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Buncrana_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.127454
+----
+geolng: -7.457377

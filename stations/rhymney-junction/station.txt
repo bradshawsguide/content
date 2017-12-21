@@ -1,0 +1,21 @@
+uid: rhymney-junction
+----
+title: Rhymney Junction
+----
+title-today: Hengoed
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Hengoed_railway_station#Hengoed_High_Level_railway_station
+----
+disused: 
+----
+code: HNG
+----
+geolat: 51.64695
+----
+geolng: -3.224838

@@ -1,0 +1,21 @@
+uid: shinnagh
+----
+title: Shinnagh
+----
+title-today: Rathmore
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: Rathmore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.085388
+----
+geolng: -9.217979

@@ -1,0 +1,21 @@
+uid: horley
+----
+title: Horley
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: horley
+----
+wikipedia: Horley_railway_station
+----
+disused: 
+----
+code: HOR
+----
+geolat: 51.168633
+----
+geolng: -0.161274

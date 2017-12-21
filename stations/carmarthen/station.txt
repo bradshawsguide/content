@@ -1,0 +1,21 @@
+uid: carmarthen
+----
+title: Carmarthen
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Carmarthen_railway_station
+----
+disused: 
+----
+code: CMN
+----
+geolat: 51.852803
+----
+geolng: -4.306368

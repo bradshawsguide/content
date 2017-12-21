@@ -1,0 +1,21 @@
+uid: carlow
+----
+title: Carlow
+----
+title-today: 
+----
+country: ireland
+----
+region: county-carlow
+----
+place: carlow
+----
+wikipedia: Carlow_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.8409
+----
+geolng: -6.9226

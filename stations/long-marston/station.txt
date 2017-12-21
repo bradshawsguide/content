@@ -1,0 +1,21 @@
+uid: long-marston
+----
+title: Long Marston
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Long_Marston_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.128741
+----
+geolng: -1.77426

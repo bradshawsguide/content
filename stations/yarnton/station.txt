@@ -1,0 +1,21 @@
+uid: yarnton
+----
+title: Yarnton
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: 
+----
+wikipedia: Yarnton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.799699
+----
+geolng: -1.314755

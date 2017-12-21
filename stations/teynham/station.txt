@@ -1,0 +1,21 @@
+uid: teynham
+----
+title: Teynham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: teynham
+----
+wikipedia: Teynham_railway_station
+----
+disused: 
+----
+code: TEY
+----
+geolat: 51.333773
+----
+geolng: 0.807219

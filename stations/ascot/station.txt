@@ -1,0 +1,21 @@
+uid: ascot
+----
+title: Ascot
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: ascot
+----
+wikipedia: Ascot_railway_station
+----
+disused: 
+----
+code: ACT
+----
+geolat: 51.405801
+----
+geolng: -0.676565

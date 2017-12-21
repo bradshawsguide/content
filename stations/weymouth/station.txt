@@ -1,0 +1,21 @@
+uid: weymouth
+----
+title: Weymouth
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: weymouth
+----
+wikipedia: Weymouth_railway_station
+----
+disused: 
+----
+code: WEY
+----
+geolat: 50.616572
+----
+geolng: -2.454375

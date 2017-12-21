@@ -1,0 +1,21 @@
+uid: ystrad-owen
+----
+title: Ystrad Owen
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Ystradowen_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.4887
+----
+geolng: -3.4208

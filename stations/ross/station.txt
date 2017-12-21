@@ -1,0 +1,21 @@
+uid: ross
+----
+title: Ross
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: ross
+----
+wikipedia: Ross-on-Wye_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.916271
+----
+geolng: -2.574973

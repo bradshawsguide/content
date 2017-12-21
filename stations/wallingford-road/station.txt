@@ -1,0 +1,21 @@
+uid: wallingford-road
+----
+title: Wallingford Road
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Moulsford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.562125
+----
+geolng: -1.14666

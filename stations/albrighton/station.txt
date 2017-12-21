@@ -1,0 +1,21 @@
+uid: albrighton
+----
+title: Albrighton
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Albrighton_railway_station
+----
+disused: 
+----
+code: ALB
+----
+geolat: 52.638388
+----
+geolng: -2.269642

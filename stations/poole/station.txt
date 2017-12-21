@@ -1,0 +1,21 @@
+uid: poole
+----
+title: Poole
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: poole
+----
+wikipedia: Poole_railway_station
+----
+disused: 
+----
+code: POO
+----
+geolat: 50.719975
+----
+geolng: -1.983657

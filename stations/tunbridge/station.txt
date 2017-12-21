@@ -1,0 +1,21 @@
+uid: tunbridge
+----
+title: Tunbridge
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: tunbridge
+----
+wikipedia: Tonbridge_railway_station
+----
+disused: 
+----
+code: TON
+----
+geolat: 51.191655
+----
+geolng: 0.268996

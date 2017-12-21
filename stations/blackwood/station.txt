@@ -1,0 +1,21 @@
+uid: blackwood
+----
+title: Blackwood
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.669988
+----
+geolng: -3.197154

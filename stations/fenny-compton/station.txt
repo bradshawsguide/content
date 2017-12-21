@@ -1,0 +1,21 @@
+uid: fenny-compton
+----
+title: Fenny Compton
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Fenny_Compton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.173161
+----
+geolng: -1.376298

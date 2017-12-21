@@ -1,0 +1,21 @@
+uid: berrington
+----
+title: Berrington
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Berrington_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.662766
+----
+geolng: -2.688224

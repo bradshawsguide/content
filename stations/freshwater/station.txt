@@ -1,0 +1,21 @@
+uid: freshwater
+----
+title: Freshwater
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: freshwater
+----
+wikipedia: Freshwater_railway_station
+----
+disused: f/freshwater
+----
+code: 
+----
+geolat: 50.682998
+----
+geolng: -1.515154

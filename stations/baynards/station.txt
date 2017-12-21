@@ -1,0 +1,21 @@
+uid: baynards
+----
+title: Baynards
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Baynards_railway_station
+----
+disused: b/baynards
+----
+code: 
+----
+geolat: 51.105533
+----
+geolng: -0.462325

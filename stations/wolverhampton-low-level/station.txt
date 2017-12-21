@@ -1,0 +1,21 @@
+uid: wolverhampton-low-level
+----
+title: Wolverhampton Low Level
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: wolverhampton
+----
+wikipedia: Wolverhampton_Low_Level_railway_station
+----
+disused: w/wolverhampton_low_level
+----
+code: 
+----
+geolat: 52.588293
+----
+geolng: -2.118778

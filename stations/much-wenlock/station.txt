@@ -1,0 +1,21 @@
+uid: much-wenlock
+----
+title: Much Wenlock
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Much_Wenlock_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.599633
+----
+geolng: -2.55583

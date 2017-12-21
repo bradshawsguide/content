@@ -1,0 +1,21 @@
+uid: hagley
+----
+title: Hagley
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Hagley_railway_station
+----
+disused: 
+----
+code: HAG
+----
+geolat: 52.422848
+----
+geolng: -2.146271

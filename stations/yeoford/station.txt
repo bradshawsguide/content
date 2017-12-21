@@ -1,0 +1,21 @@
+uid: yeoford
+----
+title: Yeoford
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Yeoford_railway_station
+----
+disused: 
+----
+code: YEO
+----
+geolat: 50.776433
+----
+geolng: -3.726746

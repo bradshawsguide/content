@@ -1,0 +1,21 @@
+uid: salthill
+----
+title: Salthill
+----
+title-today: Salthill and Monkstown
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: Salthill_and_Monkstown_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.2953
+----
+geolng: -6.1522

@@ -1,0 +1,21 @@
+uid: camborne
+----
+title: Camborne
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Camborne_railway_station
+----
+disused: 
+----
+code: CBN
+----
+geolat: 50.210029
+----
+geolng: -5.297102

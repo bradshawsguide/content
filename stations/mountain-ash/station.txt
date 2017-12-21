@@ -1,0 +1,21 @@
+uid: mountain-ash
+----
+title: Mountain Ash
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Mountain_Ash_railway_station
+----
+disused: 
+----
+code: MTA
+----
+geolat: 51.681241
+----
+geolng: -3.376194

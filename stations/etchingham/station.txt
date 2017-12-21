@@ -1,0 +1,21 @@
+uid: etchingham
+----
+title: Etchingham
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: etchingham
+----
+wikipedia: Etchingham_railway_station
+----
+disused: 
+----
+code: ETC
+----
+geolat: 51.010979
+----
+geolng: 0.44265

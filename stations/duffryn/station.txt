@@ -1,0 +1,21 @@
+uid: duffryn
+----
+title: Duffryn
+----
+title-today: Ammanford
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Ammanford_railway_station
+----
+disused: 
+----
+code: AMF
+----
+geolat: 51.795511
+----
+geolng: -3.99744

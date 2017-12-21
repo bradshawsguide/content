@@ -1,0 +1,21 @@
+uid: acocks-green
+----
+title: Acock's Green
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Acocks_Green_railway_station
+----
+disused: 
+----
+code: ACG
+----
+geolat: 52.449772
+----
+geolng: -1.819709

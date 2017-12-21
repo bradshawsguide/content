@@ -1,0 +1,21 @@
+uid: conlig
+----
+title: Conlig
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Conlig_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.631822
+----
+geolng: -5.660105

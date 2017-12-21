@@ -1,0 +1,21 @@
+uid: birdhill
+----
+title: Birdhill
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tipperary
+----
+place: birdhill
+----
+wikipedia: Birdhill_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.765833
+----
+geolng: -8.441944

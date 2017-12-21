@@ -1,0 +1,21 @@
+uid: chandlers-ford
+----
+title: Chandler's Ford
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Chandler%27s_Ford_railway_station
+----
+disused: 
+----
+code: CFR
+----
+geolat: 50.983638
+----
+geolng: -1.385242

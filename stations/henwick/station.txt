@@ -1,0 +1,21 @@
+uid: henwick
+----
+title: Henwick
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Henwick_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.190757
+----
+geolng: -2.23474

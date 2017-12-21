@@ -1,0 +1,21 @@
+uid: enniskillen
+----
+title: Enniskillen
+----
+title-today: 
+----
+country: ireland
+----
+region: county-fermanagh
+----
+place: enniskillen
+----
+wikipedia: Enniskillen_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.345173
+----
+geolng: -7.630856

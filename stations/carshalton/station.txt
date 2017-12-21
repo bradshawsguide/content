@@ -1,0 +1,21 @@
+uid: carshalton
+----
+title: Carshalton
+----
+title-today: Wallington
+----
+country: england
+----
+region: surrey
+----
+place: carshalton
+----
+wikipedia: Wallington_railway_station
+----
+disused: 
+----
+code: WLT
+----
+geolat: 51.360383
+----
+geolng: -0.153004

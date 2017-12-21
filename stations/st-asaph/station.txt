@@ -1,0 +1,21 @@
+uid: st-asaph
+----
+title: St. Asaph
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: st-asaph
+----
+wikipedia: St_Asaph_railway_station
+----
+disused: s/st_asaph
+----
+code: 
+----
+geolat: 53.258347
+----
+geolng: -3.439794

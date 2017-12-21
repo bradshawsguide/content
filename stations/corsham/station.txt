@@ -1,0 +1,21 @@
+uid: corsham
+----
+title: Corsham
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: corsham
+----
+wikipedia: Corsham_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.42535
+----
+geolng: -2.18924

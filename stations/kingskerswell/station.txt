@@ -1,0 +1,21 @@
+uid: kingskerswell
+----
+title: Kingskerswell
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Disused_railway_stations_on_the_Riviera_Line#Kingskerswell
+----
+disused: 
+----
+code: 
+----
+geolat: 50.49839
+----
+geolng: -3.58412

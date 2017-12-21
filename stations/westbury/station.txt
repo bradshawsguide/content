@@ -1,0 +1,21 @@
+uid: westbury
+----
+title: Westbury
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: westbury
+----
+wikipedia: Westbury_railway_station
+----
+disused: 
+----
+code: WSB
+----
+geolat: 51.266534
+----
+geolng: -2.199896

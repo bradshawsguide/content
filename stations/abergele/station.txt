@@ -1,0 +1,21 @@
+uid: abergele
+----
+title: Abergele
+----
+title-today: Abergele & Pensarn
+----
+country: wales
+----
+region: denbighshire
+----
+place: abergele
+----
+wikipedia: Abergele_%26_Pensarn_railway_station
+----
+disused: 
+----
+code: AGL
+----
+geolat: 53.295199
+----
+geolng: -3.582075

@@ -1,0 +1,21 @@
+uid: alresford
+----
+title: Alresford
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Alresford_(Hampshire)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.088364
+----
+geolng: -1.162544

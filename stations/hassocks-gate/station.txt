@@ -1,0 +1,21 @@
+uid: hassocks-gate
+----
+title: Hassock's Gate
+----
+title-today: Hassocks
+----
+country: england
+----
+region: sussex
+----
+place: hassocks-gate
+----
+wikipedia: Hassocks_railway_station
+----
+disused: 
+----
+code: HSK
+----
+geolat: 50.924666
+----
+geolng: -0.145296

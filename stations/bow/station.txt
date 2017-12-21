@@ -1,0 +1,21 @@
+uid: bow
+----
+title: Bow
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: bow
+----
+wikipedia: Bow_railway_station
+----
+disused: b/bow
+----
+code: 
+----
+geolat: 51.526963
+----
+geolng: -0.026954

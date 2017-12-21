@@ -1,0 +1,21 @@
+uid: maesycwmmer
+----
+title: Maesycwmmer
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Maesycwmmer_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.646081
+----
+geolng: -3.221924

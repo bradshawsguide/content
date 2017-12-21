@@ -1,0 +1,21 @@
+uid: haverfordwest
+----
+title: Haverfordwest
+----
+title-today: 
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: haverfordwest
+----
+wikipedia: Haverfordwest_railway_station
+----
+disused: 
+----
+code: HVF
+----
+geolat: 51.803097
+----
+geolng: -4.959508

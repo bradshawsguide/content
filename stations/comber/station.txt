@@ -1,0 +1,21 @@
+uid: comber
+----
+title: Comber
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Comber_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.551576
+----
+geolng: -5.754529

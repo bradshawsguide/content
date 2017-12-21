@@ -1,0 +1,21 @@
+uid: margate-sands
+----
+title: Margate (SER)
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Margate_Sands_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.37427
+----
+geolng: 1.384549

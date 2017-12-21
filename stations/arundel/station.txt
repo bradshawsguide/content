@@ -1,0 +1,21 @@
+uid: arundel
+----
+title: Arundel
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: arundel
+----
+wikipedia: Arundel_railway_station
+----
+disused: 
+----
+code: ARU
+----
+geolat: 50.84761
+----
+geolng: -0.546108

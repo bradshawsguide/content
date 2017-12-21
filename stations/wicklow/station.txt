@@ -1,0 +1,21 @@
+uid: wicklow
+----
+title: Wicklow
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: wicklow
+----
+wikipedia: Wicklow_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.988115
+----
+geolng: -6.05273

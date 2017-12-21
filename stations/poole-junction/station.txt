@@ -1,0 +1,21 @@
+uid: poole-junction
+----
+title: Poole Junction
+----
+title-today: Hamworthy
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Hamworthy_railway_station
+----
+disused: 
+----
+code: HAM
+----
+geolat: 50.72537
+----
+geolng: -2.019074

@@ -1,0 +1,21 @@
+uid: castledawson
+----
+title: Castledawson
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Castledawson_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.7758
+----
+geolng: -6.5585

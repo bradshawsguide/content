@@ -1,0 +1,21 @@
+uid: wellington-somerset
+----
+title: Wellington
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: wellington
+----
+wikipedia: Disused_railway_stations_on_the_Bristol_to_Exeter_Line#Wellington_.28Somerset.29
+----
+disused: 
+----
+code: 
+----
+geolat: 50.98286
+----
+geolng: -3.242415

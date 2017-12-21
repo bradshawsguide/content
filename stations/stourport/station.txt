@@ -1,0 +1,21 @@
+uid: stourport
+----
+title: Stourport
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Stourport-on-Severn_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.344407
+----
+geolng: -2.273719

@@ -1,0 +1,21 @@
+uid: codsall
+----
+title: Codsall
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Codsall_railway_station
+----
+disused: 
+----
+code: CSL
+----
+geolat: 52.627736
+----
+geolng: -2.201617

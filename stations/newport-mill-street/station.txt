@@ -1,0 +1,21 @@
+uid: newport-mill-street
+----
+title: Newport Mill Street
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Newport_Mill_Street_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.592449
+----
+geolng: -2.99817

@@ -1,0 +1,21 @@
+uid: howth
+----
+title: Howth
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: Howth_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.389
+----
+geolng: -6.0742

@@ -1,0 +1,21 @@
+uid: brettel-lane
+----
+title: Brettel Lane
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Brettell_Lane_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.474103
+----
+geolng: -2.136136

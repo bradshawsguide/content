@@ -1,0 +1,21 @@
+uid: netley-abbey
+----
+title: Netley Abbey
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: netley-abbey
+----
+wikipedia: Netley_railway_station
+----
+disused: 
+----
+code: NTL
+----
+geolat: 50.874589
+----
+geolng: -1.341197

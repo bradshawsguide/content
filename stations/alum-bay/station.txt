@@ -1,0 +1,21 @@
+uid: alum-bay
+----
+title: Alum Bay
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: alum-bay
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 50.666389
+----
+geolng: -1.576111

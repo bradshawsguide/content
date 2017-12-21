@@ -1,0 +1,21 @@
+uid: bexhill
+----
+title: Bexhill
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: bexhill
+----
+wikipedia: Bexhill_railway_station
+----
+disused: 
+----
+code: BEX
+----
+geolat: 50.84121
+----
+geolng: 0.474966

@@ -1,0 +1,21 @@
+uid: godalming
+----
+title: Godalming
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: godalming
+----
+wikipedia: Godalming_railway_station
+----
+disused: 
+----
+code: GOD
+----
+geolat: 51.186616
+----
+geolng: -0.618461

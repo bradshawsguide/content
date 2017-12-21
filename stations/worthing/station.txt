@@ -1,0 +1,21 @@
+uid: worthing
+----
+title: Worthing
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: worthing
+----
+wikipedia: Worthing_railway_station
+----
+disused: 
+----
+code: WRH
+----
+geolat: 50.818376
+----
+geolng: -0.375239

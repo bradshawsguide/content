@@ -1,0 +1,21 @@
+uid: herne-bay
+----
+title: Herne Bay
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: herne-bay
+----
+wikipedia: Herne_Bay_railway_station
+----
+disused: 
+----
+code: HNB
+----
+geolat: 51.364494
+----
+geolng: 1.117817

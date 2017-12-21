@@ -1,0 +1,21 @@
+uid: templecombe
+----
+title: templecombe
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Templecombe_railway_station
+----
+disused: 
+----
+code: TMC
+----
+geolat: 51.00159
+----
+geolng: -2.418224

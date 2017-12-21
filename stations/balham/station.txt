@@ -1,0 +1,21 @@
+uid: balham
+----
+title: Balham
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Balham_station
+----
+disused: 
+----
+code: BAL
+----
+geolat: 51.443223
+----
+geolng: -0.154594

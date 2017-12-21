@@ -1,0 +1,21 @@
+uid: bynea
+----
+title: Bynea
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Bynea_railway_station
+----
+disused: 
+----
+code: BYE
+----
+geolat: 51.672342
+----
+geolng: -4.09904

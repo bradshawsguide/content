@@ -1,0 +1,21 @@
+uid: westport
+----
+title: Westport
+----
+title-today: 
+----
+country: ireland
+----
+region: county-mayo
+----
+place: 
+----
+wikipedia: Westport_railway_station,_Mayo
+----
+disused: 
+----
+code: 
+----
+geolat: 53.796111
+----
+geolng: -9.510556

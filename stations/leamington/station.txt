@@ -1,0 +1,21 @@
+uid: leamington
+----
+title: Leamington
+----
+title-today: Leamington Spa
+----
+country: england
+----
+region: warwickshire
+----
+place: leamington
+----
+wikipedia: Leamington_Spa_railway_station
+----
+disused: 
+----
+code: LMS
+----
+geolat: 52.284479
+----
+geolng: -1.53599

@@ -1,0 +1,21 @@
+uid: wateringbury
+----
+title: Wateringbury
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: wateringbury
+----
+wikipedia: Wateringbury_railway_station
+----
+disused: 
+----
+code: WTR
+----
+geolat: 51.249736
+----
+geolng: 0.422323

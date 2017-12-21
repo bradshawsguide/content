@@ -1,0 +1,21 @@
+uid: maiden-newton
+----
+title: Maiden Newton
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Maiden_Newton_railway_station
+----
+disused: 
+----
+code: MDN
+----
+geolat: 50.779735
+----
+geolng: -2.569426

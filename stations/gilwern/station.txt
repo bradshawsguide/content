@@ -1,0 +1,21 @@
+uid: gilwern
+----
+title: Gilwern
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Gilwern_Halt_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.819034
+----
+geolng: -3.098925

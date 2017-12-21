@@ -1,0 +1,21 @@
+uid: plumley
+----
+title: Plumley
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Plumley_railway_station
+----
+disused: 
+----
+code: PLM
+----
+geolat: 53.275295
+----
+geolng: -2.419098

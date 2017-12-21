@@ -1,0 +1,21 @@
+uid: llansaintffraid
+----
+title: Llansaintffraid
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: 
+----
+wikipedia: Llansantffraid_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.774218
+----
+geolng: -3.153963

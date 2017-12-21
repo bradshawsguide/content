@@ -1,0 +1,21 @@
+uid: charleville
+----
+title: Charleville
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: Charleville_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.346389
+----
+geolng: -8.654167

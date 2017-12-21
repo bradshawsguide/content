@@ -1,0 +1,21 @@
+uid: abersychan
+----
+title: Abersychan
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Abersychan_Low_Level_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.724105
+----
+geolng: -3.057531

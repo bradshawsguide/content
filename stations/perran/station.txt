@@ -1,0 +1,21 @@
+uid: perran
+----
+title: Perran
+----
+title-today: Perranwell
+----
+country: england
+----
+region: cornwall
+----
+place: 
+----
+wikipedia: Perranwell_railway_station
+----
+disused: 
+----
+code: PRW
+----
+geolat: 50.216925
+----
+geolng: -5.112512

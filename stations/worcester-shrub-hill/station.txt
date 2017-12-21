@@ -1,0 +1,21 @@
+uid: worcester-shrub-hill
+----
+title: Worcester Shrub Hill
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: worcester
+----
+wikipedia: Worcester_Shrub_Hill_railway_station
+----
+disused: 
+----
+code: WOS
+----
+geolat: 52.194403
+----
+geolng: -2.208426

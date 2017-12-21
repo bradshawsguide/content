@@ -1,0 +1,21 @@
+uid: hope
+----
+title: Hope
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: hope
+----
+wikipedia: Hope_Exchange_railway_station
+----
+disused: h/hope_low_level
+----
+code: 
+----
+geolat: 53.147326
+----
+geolng: -3.053297

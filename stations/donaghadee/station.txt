@@ -1,0 +1,21 @@
+uid: donaghadee
+----
+title: Donaghadee
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: donaghadee
+----
+wikipedia: Donaghadee_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.641509
+----
+geolng: -5.531037

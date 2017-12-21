@@ -1,0 +1,21 @@
+uid: gobowen-junction
+----
+title: Gobowen Junction
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: gobowen-junction
+----
+wikipedia: Gobowen_railway_station
+----
+disused: 
+----
+code: GOB
+----
+geolat: 52.893068
+----
+geolng: -3.036716

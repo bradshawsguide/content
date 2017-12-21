@@ -1,0 +1,21 @@
+uid: blaenavon
+----
+title: Blaenavon
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Blaenavon_Low_Level_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.7705
+----
+geolng: -3.0845

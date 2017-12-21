@@ -1,0 +1,21 @@
+uid: yetminster
+----
+title: Yetminster
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Yetminster_railway_station
+----
+disused: 
+----
+code: YET
+----
+geolat: 50.895718
+----
+geolng: -2.573684

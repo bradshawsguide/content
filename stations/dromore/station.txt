@@ -1,0 +1,21 @@
+uid: dromore
+----
+title: Dromore
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Dromore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.414863
+----
+geolng: -6.15807

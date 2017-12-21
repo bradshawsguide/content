@@ -1,0 +1,21 @@
+uid: shrewsbury
+----
+title: Shrewsbury
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: shrewsbury
+----
+wikipedia: Shrewsbury_railway_station
+----
+disused: 
+----
+code: SHR
+----
+geolat: 52.711837
+----
+geolng: -2.749686

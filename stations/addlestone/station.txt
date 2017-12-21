@@ -1,0 +1,21 @@
+uid: addlestone
+----
+title: Addlestone
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Addlestone_railway_station
+----
+disused: 
+----
+code: ASN
+----
+geolat: 51.372907
+----
+geolng: -0.484993

@@ -1,0 +1,21 @@
+uid: brixton
+----
+title: Brixton
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Brixton_railway_station
+----
+disused: 
+----
+code: BRX
+----
+geolat: 51.461519
+----
+geolng: -0.117384

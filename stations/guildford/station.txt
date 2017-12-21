@@ -1,0 +1,21 @@
+uid: guildford
+----
+title: Guildford
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: guildford
+----
+wikipedia: Guildford_(Surrey)_railway_station
+----
+disused: 
+----
+code: GLD
+----
+geolat: 51.237427
+----
+geolng: -0.581127

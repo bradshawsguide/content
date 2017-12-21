@@ -1,0 +1,21 @@
+uid: kidwelly
+----
+title: Kidwelly
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: kidwelly
+----
+wikipedia: Kidwelly_railway_station
+----
+disused: 
+----
+code: KWL
+----
+geolat: 51.733905
+----
+geolng: -4.316239

@@ -1,0 +1,21 @@
+uid: farningham
+----
+title: Farningham
+----
+title-today: Farningham Road
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Farningham_Road_railway_station
+----
+disused: 
+----
+code: FNR
+----
+geolat: 51.401828
+----
+geolng: 0.236251

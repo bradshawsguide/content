@@ -1,0 +1,21 @@
+uid: semley
+----
+title: Semley
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Semley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.039964
+----
+geolng: -2.181803

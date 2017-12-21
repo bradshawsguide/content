@@ -1,0 +1,21 @@
+uid: bishopstoke
+----
+title: Bishopstoke
+----
+title-today: Eastleigh
+----
+country: england
+----
+region: hampshire
+----
+place: bishopstoke
+----
+wikipedia: Eastleigh_railway_station
+----
+disused: 
+----
+code: ESL
+----
+geolat: 50.969058
+----
+geolng: -1.349831

@@ -1,0 +1,21 @@
+uid: box
+----
+title: Box
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Box_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.416559
+----
+geolng: -2.268137

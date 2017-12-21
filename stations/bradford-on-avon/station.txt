@@ -1,0 +1,21 @@
+uid: bradford-on-avon
+----
+title: Bradford-on-Avon
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: bradford-on-avon
+----
+wikipedia: Bradford-on-Avon_railway_station
+----
+disused: 
+----
+code: BOA
+----
+geolat: 51.344662
+----
+geolng: -2.251923

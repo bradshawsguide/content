@@ -1,0 +1,21 @@
+uid: calne
+----
+title: Calne
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: calne
+----
+wikipedia: Calne_railway_station
+----
+disused: c/calne
+----
+code: 
+----
+geolat: 51.434849
+----
+geolng: -2.007863

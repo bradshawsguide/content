@@ -1,0 +1,21 @@
+uid: llanybyther
+----
+title: Llanybyther
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Llanybydder_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.078257
+----
+geolng: -4.150771

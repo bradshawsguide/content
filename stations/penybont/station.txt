@@ -1,0 +1,21 @@
+uid: penybont
+----
+title: Penybont
+----
+title-today: Pen-y-Bont
+----
+country: wales
+----
+region: radnorshire
+----
+place: 
+----
+wikipedia: Pen-y-Bont_railway_station
+----
+disused: 
+----
+code: PNY
+----
+geolat: 52.274366
+----
+geolng: -3.324142

@@ -1,0 +1,21 @@
+uid: west-cowes
+----
+title: West Cowes
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: west-cowes
+----
+wikipedia: Cowes_railway_station
+----
+disused: c/cowes
+----
+code: 
+----
+geolat: 50.761925
+----
+geolng: -1.297408

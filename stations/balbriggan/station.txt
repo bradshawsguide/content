@@ -1,0 +1,21 @@
+uid: balbriggan
+----
+title: Balbriggan
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: balbriggan
+----
+wikipedia: Balbriggan_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.612
+----
+geolng: -6.182

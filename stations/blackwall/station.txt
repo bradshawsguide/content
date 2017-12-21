@@ -1,0 +1,21 @@
+uid: blackwall
+----
+title: Blackwall
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: blackwall
+----
+wikipedia: Blackwall_railway_station
+----
+disused: b/blackwall
+----
+code: 
+----
+geolat: 51.508166
+----
+geolng: 7.1E-05

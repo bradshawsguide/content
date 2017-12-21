@@ -1,0 +1,21 @@
+uid: dunleer
+----
+title: Dunleer
+----
+title-today: 
+----
+country: ireland
+----
+region: county-louth
+----
+place: 
+----
+wikipedia: Dunleer_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.831123
+----
+geolng: -6.391175

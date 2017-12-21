@@ -1,0 +1,21 @@
+uid: dunbridge
+----
+title: Dunbridge
+----
+title-today: Mottisfont & Dunbridge
+----
+country: england
+----
+region: hampshire
+----
+place: dunbridge
+----
+wikipedia: Mottisfont_%26_Dunbridge_railway_station
+----
+disused: 
+----
+code: DBG
+----
+geolat: 51.033835
+----
+geolng: -1.547157

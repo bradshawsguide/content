@@ -1,0 +1,21 @@
+uid: cwmbran
+----
+title: Cwmbran
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Cwmbran_(GWR)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.648
+----
+geolng: -3.02017

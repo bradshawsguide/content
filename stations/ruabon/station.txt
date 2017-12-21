@@ -1,0 +1,21 @@
+uid: ruabon
+----
+title: Ruabon
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: ruabon
+----
+wikipedia: Ruabon_railway_station
+----
+disused: 
+----
+code: RUA
+----
+geolat: 52.987439
+----
+geolng: -3.038975

@@ -1,0 +1,21 @@
+uid: sale
+----
+title: Sale
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Sale_tram_stop
+----
+disused: 
+----
+code: 
+----
+geolat: 53.423916
+----
+geolng: -2.319736

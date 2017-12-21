@@ -1,0 +1,21 @@
+uid: newbury
+----
+title: Newbury
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: newbury
+----
+wikipedia: Newbury_railway_station
+----
+disused: 
+----
+code: NBY
+----
+geolat: 51.397832
+----
+geolng: -1.323649

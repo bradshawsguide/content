@@ -1,0 +1,21 @@
+uid: bellarena
+----
+title: Bellarena
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Bellarena_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.126667
+----
+geolng: -6.951667

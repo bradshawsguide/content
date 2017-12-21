@@ -1,0 +1,21 @@
+uid: thomastown
+----
+title: Thomastown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kilkenny
+----
+place: 
+----
+wikipedia: Thomastown_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.523171
+----
+geolng: -7.149034

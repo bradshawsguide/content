@@ -1,0 +1,21 @@
+uid: shalford
+----
+title: Shalford
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: shalford
+----
+wikipedia: Shalford_railway_station
+----
+disused: 
+----
+code: SFR
+----
+geolat: 51.214762
+----
+geolng: -0.566074

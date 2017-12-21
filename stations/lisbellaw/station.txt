@@ -1,0 +1,21 @@
+uid: lisbellaw
+----
+title: Lisbellaw
+----
+title-today: 
+----
+country: ireland
+----
+region: county-fermanagh
+----
+place: 
+----
+wikipedia: Lisbellaw_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.319017
+----
+geolng: -7.530936

@@ -1,0 +1,21 @@
+uid: ballynure
+----
+title: Ballynure
+----
+title-today: Ballyclare Junction
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Ballyclare_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.69958
+----
+geolng: -5.968538

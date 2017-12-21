@@ -1,0 +1,21 @@
+uid: blockley
+----
+title: Blockley
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.029962
+----
+geolng: -1.731334

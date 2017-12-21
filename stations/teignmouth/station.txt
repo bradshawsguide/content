@@ -1,0 +1,21 @@
+uid: teignmouth
+----
+title: Teignmouth
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: teignmouth
+----
+wikipedia: Teignmouth_railway_station
+----
+disused: 
+----
+code: TGM
+----
+geolat: 50.548519
+----
+geolng: -3.493971

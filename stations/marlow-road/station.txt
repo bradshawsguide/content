@@ -1,0 +1,21 @@
+uid: marlow-road
+----
+title: Marlow Road
+----
+title-today: Bourne End
+----
+country: england
+----
+region: buckinghamshire
+----
+place: 
+----
+wikipedia: Bourne_End_railway_station
+----
+disused: 
+----
+code: BNE
+----
+geolat: 51.577027
+----
+geolng: -0.710563

@@ -1,0 +1,21 @@
+uid: mountrath
+----
+title: Mountrath
+----
+title-today: 
+----
+country: ireland
+----
+region: queens-county
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.963362
+----
+geolng: -7.4669856

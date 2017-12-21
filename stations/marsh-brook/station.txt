@@ -1,0 +1,21 @@
+uid: marsh-brook
+----
+title: Marsh Brook
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Marshbrook_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.502785
+----
+geolng: -2.82273

@@ -1,0 +1,21 @@
+uid: clonsilla
+----
+title: Clonsilla
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: Clonsilla_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.383
+----
+geolng: -6.423

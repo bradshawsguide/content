@@ -1,0 +1,21 @@
+uid: crumlin-low-level
+----
+title: Crumlin Low Level
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Crumlin_(Monmouthshire)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.6773
+----
+geolng: -3.1394

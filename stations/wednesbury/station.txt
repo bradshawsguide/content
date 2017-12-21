@@ -1,0 +1,21 @@
+uid: wednesbury
+----
+title: Wednesbury
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: wednesbury
+----
+wikipedia: Wednesbury_Central_railway_station
+----
+disused: w/wednesbury
+----
+code: 
+----
+geolat: 52.549694
+----
+geolng: -2.027239

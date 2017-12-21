@@ -1,0 +1,21 @@
+uid: tynan
+----
+title: Tynan
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: Tynan_and_Caledon_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.339403
+----
+geolng: -6.821092

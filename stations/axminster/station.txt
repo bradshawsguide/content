@@ -1,0 +1,21 @@
+uid: axminster
+----
+title: Axminster
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: axminster
+----
+wikipedia: Axminster_railway_station
+----
+disused: 
+----
+code: AXM
+----
+geolat: 50.779493
+----
+geolng: -3.00487

@@ -1,0 +1,21 @@
+uid: richmond
+----
+title: Richmond
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: richmond
+----
+wikipedia: Richmond_(London)_station
+----
+disused: 
+----
+code: RMD
+----
+geolat: 51.463239
+----
+geolng: -0.301657

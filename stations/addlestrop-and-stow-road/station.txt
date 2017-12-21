@@ -1,0 +1,21 @@
+uid: addlestrop-and-stow-road
+----
+title: Addlestrop and Stow Road
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: addlestrop-and-stow-road
+----
+wikipedia: Adlestrop_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.936064
+----
+geolng: -1.658864

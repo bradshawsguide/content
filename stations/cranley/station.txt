@@ -1,0 +1,21 @@
+uid: cranley
+----
+title: Cranley
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Cranleigh_railway_station
+----
+disused: c/cranleigh
+----
+code: 
+----
+geolat: 51.141879
+----
+geolng: -0.491138

@@ -1,0 +1,21 @@
+uid: newtownbutler
+----
+title: Newtownbutler
+----
+title-today: 
+----
+country: ireland
+----
+region: county-fermanagh
+----
+place: 
+----
+wikipedia: Newtownbutler_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.183698
+----
+geolng: -7.356358

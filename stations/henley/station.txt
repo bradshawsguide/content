@@ -1,0 +1,21 @@
+uid: henley
+----
+title: Henley
+----
+title-today: Henley-on-Thames
+----
+country: england
+----
+region: oxfordshire
+----
+place: henley
+----
+wikipedia: Henley-on-Thames_railway_station
+----
+disused: 
+----
+code: HOT
+----
+geolat: 51.534902
+----
+geolng: -0.900627

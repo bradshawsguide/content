@@ -1,0 +1,21 @@
+uid: rhymney
+----
+title: Rhymney
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Rhymney_railway_station
+----
+disused: 
+----
+code: RHY
+----
+geolat: 51.758646
+----
+geolng: -3.290162

@@ -1,0 +1,21 @@
+uid: liss
+----
+title: Liss
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Liss_railway_station
+----
+disused: 
+----
+code: LIS
+----
+geolat: 51.043852
+----
+geolng: -0.892318

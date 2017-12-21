@@ -1,0 +1,21 @@
+uid: galway
+----
+title: Galway
+----
+title-today: 
+----
+country: ireland
+----
+region: county-galway
+----
+place: galway
+----
+wikipedia: Galway_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.2736
+----
+geolng: -9.0468

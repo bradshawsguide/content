@@ -1,0 +1,21 @@
+uid: watchet
+----
+title: Watchet
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: watchet
+----
+wikipedia: Watchet_railway_station
+----
+disused: w/watchet
+----
+code: 
+----
+geolat: 51.180915
+----
+geolng: -3.329762

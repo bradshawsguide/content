@@ -1,0 +1,21 @@
+uid: whitstable
+----
+title: Whitstable
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: whitstable
+----
+wikipedia: Whitstable_railway_station
+----
+disused: 
+----
+code: WHI
+----
+geolat: 51.357827
+----
+geolng: 1.032794

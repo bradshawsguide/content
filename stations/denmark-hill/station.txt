@@ -1,0 +1,21 @@
+uid: denmark-hill
+----
+title: Denmark Hill
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Denmark_Hill_railway_station
+----
+disused: 
+----
+code: DMK
+----
+geolat: 51.46807
+----
+geolng: -0.091806

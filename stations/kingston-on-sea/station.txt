@@ -1,0 +1,21 @@
+uid: kingston-on-sea
+----
+title: Kingston-on-Sea
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: kingston-on-sea
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 50.832025
+----
+geolng: -0.251835

@@ -1,0 +1,21 @@
+uid: plumstead
+----
+title: Plumstead
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Plumstead_railway_station
+----
+disused: 
+----
+code: PLU
+----
+geolat: 51.48971
+----
+geolng: 0.084382

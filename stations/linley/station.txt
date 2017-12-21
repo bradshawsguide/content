@@ -1,0 +1,21 @@
+uid: linley
+----
+title: Linley
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Linley_Halt_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.582156
+----
+geolng: -2.436066

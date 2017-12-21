@@ -1,0 +1,21 @@
+uid: crystal-palace-high-level
+----
+title: Crystal Palace High Level
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Crystal_Palace_(High_Level)_railway_station
+----
+disused: c/crystal_palace_high_level
+----
+code: 
+----
+geolat: 51.421789
+----
+geolng: -0.077777

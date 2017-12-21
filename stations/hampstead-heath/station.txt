@@ -1,0 +1,21 @@
+uid: hampstead-heath
+----
+title: Hampstead Heath
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: hampstead-heath
+----
+wikipedia: Hampstead_Heath_railway_station
+----
+disused: 
+----
+code: HDH
+----
+geolat: 51.555258
+----
+geolng: -0.168072

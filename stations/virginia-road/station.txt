@@ -1,0 +1,21 @@
+uid: virginia-road
+----
+title: Virginia Road
+----
+title-today: 
+----
+country: ireland
+----
+region: county-meath
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.722301
+----
+geolng: -6.880195

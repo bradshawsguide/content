@@ -1,0 +1,21 @@
+uid: longhope
+----
+title: Longhope
+----
+title-today: 
+----
+country: england
+----
+region: gloucestershire
+----
+place: longhope
+----
+wikipedia: Longhope_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.864184
+----
+geolng: -2.458856

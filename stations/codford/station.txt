@@ -1,0 +1,21 @@
+uid: codford
+----
+title: Codford
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: codford
+----
+wikipedia: Codford_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.15994
+----
+geolng: -2.06708

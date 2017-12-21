@@ -1,0 +1,21 @@
+uid: totton
+----
+title: Totton
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Totton_railway_station
+----
+disused: 
+----
+code: TTN
+----
+geolat: 50.917567
+----
+geolng: -1.482848

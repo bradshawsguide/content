@@ -1,0 +1,21 @@
+uid: tredegar
+----
+title: Tredegar
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.767384
+----
+geolng: -3.240593

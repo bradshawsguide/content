@@ -1,0 +1,21 @@
+uid: risca
+----
+title: Risca
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.608717
+----
+geolng: -3.09937

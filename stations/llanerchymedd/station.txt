@@ -1,0 +1,21 @@
+uid: llanerchymedd
+----
+title: Llanerchymedd
+----
+title-today: 
+----
+country: wales
+----
+region: anglesea
+----
+place: 
+----
+wikipedia: Llanerchymedd_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.3299
+----
+geolng: -4.379

@@ -1,0 +1,21 @@
+uid: credenhill
+----
+title: Credenhill
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Credenhill_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.081216
+----
+geolng: -2.810575

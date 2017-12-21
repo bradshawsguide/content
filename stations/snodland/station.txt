@@ -1,0 +1,21 @@
+uid: snodland
+----
+title: Snodland
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: snodland
+----
+wikipedia: Snodland_railway_station
+----
+disused: 
+----
+code: SDA
+----
+geolat: 51.330142
+----
+geolng: 0.448093

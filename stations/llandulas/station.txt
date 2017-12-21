@@ -1,0 +1,21 @@
+uid: llandulas
+----
+title: Llandulas
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Llandulas_railway_station
+----
+disused: l/llandulas
+----
+code: 
+----
+geolat: 53.293489
+----
+geolng: -3.642028

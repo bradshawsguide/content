@@ -1,0 +1,21 @@
+uid: birchington
+----
+title: Birchington
+----
+title-today: Birchington-on-Sea
+----
+country: england
+----
+region: kent
+----
+place: birchington
+----
+wikipedia: Birchington-on-Sea_railway_station
+----
+disused: 
+----
+code: BCH
+----
+geolat: 51.377544
+----
+geolng: 1.301427

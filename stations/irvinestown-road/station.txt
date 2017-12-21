@@ -1,0 +1,21 @@
+uid: irvinestown-road
+----
+title: Irvinestown Road
+----
+title-today: Bundoran Junction
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Bundoran_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.446202
+----
+geolng: -7.555437

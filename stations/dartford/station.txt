@@ -1,0 +1,21 @@
+uid: dartford
+----
+title: Dartford
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: dartford
+----
+wikipedia: Dartford_railway_station
+----
+disused: 
+----
+code: DFD
+----
+geolat: 51.447107
+----
+geolng: 0.219753

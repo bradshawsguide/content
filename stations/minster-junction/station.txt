@@ -1,0 +1,21 @@
+uid: minster-junction
+----
+title: Minster Junction
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: minster-junction
+----
+wikipedia: Minster_railway_station
+----
+disused: 
+----
+code: MSR
+----
+geolat: 51.32944
+----
+geolng: 1.316633

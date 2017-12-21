@@ -1,0 +1,21 @@
+uid: mageney
+----
+title: Mageney
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kildare
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.908132
+----
+geolng: -6.928663

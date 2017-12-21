@@ -1,0 +1,21 @@
+uid: box-hill
+----
+title: Box Hill
+----
+title-today: Dorking Deepdene
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Dorking_Deepdene_railway_station
+----
+disused: 
+----
+code: DPD
+----
+geolat: 51.238512
+----
+geolng: -0.323235

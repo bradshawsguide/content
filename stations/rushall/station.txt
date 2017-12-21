@@ -1,0 +1,21 @@
+uid: rushall
+----
+title: Rushall
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Rushall_(West_Midlands)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.607228
+----
+geolng: -1.968208

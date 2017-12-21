@@ -1,0 +1,21 @@
+uid: magheramorne
+----
+title: Magheramorne
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Magheramorne_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.815556
+----
+geolng: -5.766667

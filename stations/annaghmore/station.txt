@@ -1,0 +1,21 @@
+uid: annaghmore
+----
+title: Annaghmore
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: Annaghmore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.461
+----
+geolng: -6.585

@@ -1,0 +1,21 @@
+uid: bewdley
+----
+title: Bewdley
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: bewdley
+----
+wikipedia: Bewdley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.375789
+----
+geolng: -2.307699

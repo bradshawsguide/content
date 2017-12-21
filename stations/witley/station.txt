@@ -1,0 +1,21 @@
+uid: witley
+----
+title: Witley
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Witley_railway_station
+----
+disused: 
+----
+code: WTY
+----
+geolat: 51.13298
+----
+geolng: -0.645788

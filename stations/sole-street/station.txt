@@ -1,0 +1,21 @@
+uid: sole-street
+----
+title: Sole Street
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Sole_Street_railway_station
+----
+disused: 
+----
+code: SOR
+----
+geolat: 51.382857
+----
+geolng: 0.377608

@@ -1,0 +1,21 @@
+uid: datchet
+----
+title: Datchet
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Datchet_railway_station
+----
+disused: 
+----
+code: DAT
+----
+geolat: 51.482894
+----
+geolng: -0.579284

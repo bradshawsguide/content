@@ -1,0 +1,21 @@
+uid: newtownstewart
+----
+title: Newtownstewart
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: 
+----
+wikipedia: Newtownstewart_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.723087
+----
+geolng: -7.379317

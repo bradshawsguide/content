@@ -1,0 +1,21 @@
+uid: kingswood
+----
+title: Kingswood
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Lapworth_railway_station
+----
+disused: 
+----
+code: LPW
+----
+geolat: 52.34261
+----
+geolng: -1.726203

@@ -1,0 +1,21 @@
+uid: newtown
+----
+title: Newtown
+----
+title-today: 
+----
+country: wales
+----
+region: montgomeryshire
+----
+place: newtown
+----
+wikipedia: Newtown_(Powys)_railway_station
+----
+disused: 
+----
+code: NWT
+----
+geolat: 52.51277
+----
+geolng: -3.310669

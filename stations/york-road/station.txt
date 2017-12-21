@@ -1,0 +1,21 @@
+uid: york-road
+----
+title: York Road
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: York_Road_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.611078
+----
+geolng: -5.921841

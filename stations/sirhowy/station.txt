@@ -1,0 +1,21 @@
+uid: sirhowy
+----
+title: Sirhowy
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 51.779276
+----
+geolng: -3.244737

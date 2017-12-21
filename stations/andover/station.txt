@@ -1,0 +1,21 @@
+uid: andover
+----
+title: Andover
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: andover
+----
+wikipedia: Andover_railway_station
+----
+disused: 
+----
+code: ADV
+----
+geolat: 51.211654
+----
+geolng: -1.492446

@@ -1,0 +1,21 @@
+uid: holywell
+----
+title: Holywell
+----
+title-today: 
+----
+country: wales
+----
+region: flintshire
+----
+place: holywell
+----
+wikipedia: Holywell_Junction_railway_station
+----
+disused: h/holywell_junction
+----
+code: 
+----
+geolat: 53.29238
+----
+geolng: -3.208391

@@ -1,0 +1,21 @@
+uid: itchen-abbas
+----
+title: Itchen Abbas
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Itchen_Abbas_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.09446
+----
+geolng: -1.24001

@@ -1,0 +1,21 @@
+uid: dartmouth
+----
+title: Dartmouth
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: dartmouth
+----
+wikipedia: Dartmouth_railway_station
+----
+disused: d/dartmouth
+----
+code: 
+----
+geolat: 50.349093
+----
+geolng: -3.578364

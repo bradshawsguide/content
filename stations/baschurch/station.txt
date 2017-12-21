@@ -1,0 +1,21 @@
+uid: baschurch
+----
+title: Baschurch
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: baschurch
+----
+wikipedia: Baschurch_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.798368
+----
+geolng: -2.849063

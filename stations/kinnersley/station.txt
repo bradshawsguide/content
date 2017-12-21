@@ -1,0 +1,21 @@
+uid: kinnersley
+----
+title: Kinnersley
+----
+title-today: 
+----
+country: england
+----
+region: herefordshire
+----
+place: 
+----
+wikipedia: Kinnersley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.13401
+----
+geolng: -2.96348

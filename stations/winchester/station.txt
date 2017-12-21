@@ -1,0 +1,21 @@
+uid: winchester
+----
+title: Winchester
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: winchester
+----
+wikipedia: Winchester_railway_station
+----
+disused: 
+----
+code: WIN
+----
+geolat: 51.067804
+----
+geolng: -1.319905

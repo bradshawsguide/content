@@ -1,0 +1,21 @@
+uid: inch-road
+----
+title: Inch Road 2
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Inch_Road_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.063031
+----
+geolng: -7.451793

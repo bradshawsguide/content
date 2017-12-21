@@ -1,0 +1,21 @@
+uid: hillsborough
+----
+title: Hillsborough
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: Hillsborough_railway_station_(Northern_Ireland)
+----
+disused: 
+----
+code: 
+----
+geolat: 54.471976
+----
+geolng: -6.086049

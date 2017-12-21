@@ -1,0 +1,21 @@
+uid: hackney
+----
+title: Hackney
+----
+title-today: Hackney Central
+----
+country: england
+----
+region: middlesex
+----
+place: hackney
+----
+wikipedia: Hackney_Central_railway_station
+----
+disused: 
+----
+code: HKC
+----
+geolat: 51.547161
+----
+geolng: -0.057773

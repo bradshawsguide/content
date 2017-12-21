@@ -1,0 +1,21 @@
+uid: stepney
+----
+title: Stepey
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: stepney
+----
+wikipedia: Limehouse_station
+----
+disused: 
+----
+code: LHS
+----
+geolat: 51.512548
+----
+geolng: -0.041895

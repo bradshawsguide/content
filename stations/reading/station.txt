@@ -1,0 +1,21 @@
+uid: reading
+----
+title: Reading
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: reading
+----
+wikipedia: Reading_railway_station
+----
+disused: 
+----
+code: RDG
+----
+geolat: 51.459127
+----
+geolng: -0.972978

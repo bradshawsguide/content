@@ -1,0 +1,21 @@
+uid: swan-village
+----
+title: Swan Village
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Swan_Village_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.528121
+----
+geolng: -2.009538

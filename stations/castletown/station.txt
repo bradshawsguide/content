@@ -1,0 +1,21 @@
+uid: castletown
+----
+title: Castletown
+----
+title-today: 
+----
+country: ireland
+----
+region: queens-county
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.454793
+----
+geolng: -7.522229

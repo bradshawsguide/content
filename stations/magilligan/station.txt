@@ -1,0 +1,21 @@
+uid: magilligan
+----
+title: Magilligan
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Magilligan_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.1519
+----
+geolng: -6.8913

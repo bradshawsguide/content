@@ -1,0 +1,21 @@
+uid: ballinamallard
+----
+title: Ballinamallard
+----
+title-today: 
+----
+country: ireland
+----
+region: county-fermanagh
+----
+place: 
+----
+wikipedia: Ballinamallard_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.41876
+----
+geolng: -7.595238

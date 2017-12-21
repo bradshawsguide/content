@@ -1,0 +1,21 @@
+uid: nenagh
+----
+title: Nenagh
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tipperary
+----
+place: 
+----
+wikipedia: Nenagh_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.8611
+----
+geolng: -8.1933

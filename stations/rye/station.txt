@@ -1,0 +1,21 @@
+uid: rye
+----
+title: Rye
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: rye
+----
+wikipedia: Rye_railway_station
+----
+disused: 
+----
+code: RYE
+----
+geolat: 50.952446
+----
+geolng: 0.730059

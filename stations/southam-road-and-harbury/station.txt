@@ -1,0 +1,21 @@
+uid: southam-road-and-harbury
+----
+title: Southam Road and Harbury
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Southam_Road_and_Harbury_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.23458
+----
+geolng: -1.432546

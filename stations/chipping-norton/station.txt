@@ -1,0 +1,21 @@
+uid: chipping-norton
+----
+title: Chipping Norton
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: chipping-norton
+----
+wikipedia: Chipping_Norton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.941108
+----
+geolng: -1.554086

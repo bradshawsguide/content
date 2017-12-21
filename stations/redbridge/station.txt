@@ -1,0 +1,21 @@
+uid: redbridge
+----
+title: Redbridge
+----
+title-today: 
+----
+country: england
+----
+region: hampshire
+----
+place: 
+----
+wikipedia: Redbridge_railway_station
+----
+disused: 
+----
+code: RDB
+----
+geolat: 50.920207
+----
+geolng: -1.470014

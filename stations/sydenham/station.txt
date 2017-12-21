@@ -1,0 +1,21 @@
+uid: sydenham
+----
+title: Sydenham
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Sydenham_(London)_railway_station
+----
+disused: 
+----
+code: SYD
+----
+geolat: 51.427144
+----
+geolng: -0.056508

@@ -1,0 +1,21 @@
+uid: limavady-junction
+----
+title: Newtown Junction
+----
+title-today: Limavady Junction
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Limavady_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.0734
+----
+geolng: -7.0023

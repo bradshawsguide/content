@@ -1,0 +1,21 @@
+uid: wantage-road
+----
+title: Wantage Road
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: wantage
+----
+wikipedia: Wantage_Road_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.61949
+----
+geolng: -1.409914

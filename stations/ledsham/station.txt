@@ -1,0 +1,21 @@
+uid: ledsham
+----
+title: Ledsham
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Ledsham_railway_station
+----
+disused: l/ledsham
+----
+code: 
+----
+geolat: 53.280067
+----
+geolng: -2.966442

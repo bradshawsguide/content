@@ -1,0 +1,21 @@
+uid: broadstairs
+----
+title: Broadstairs
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: broadstairs
+----
+wikipedia: Broadstairs_railway_station
+----
+disused: 
+----
+code: BSR
+----
+geolat: 51.360243
+----
+geolng: 1.433801

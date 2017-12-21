@@ -1,0 +1,21 @@
+uid: twyford
+----
+title: Twyford
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: twyford
+----
+wikipedia: Twyford_railway_station
+----
+disused: 
+----
+code: TWY
+----
+geolat: 51.475199
+----
+geolng: -0.863186

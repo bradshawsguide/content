@@ -1,0 +1,21 @@
+uid: gravesend
+----
+title: Gravesend
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: gravesend
+----
+wikipedia: Gravesend_railway_station
+----
+disused: 
+----
+code: GRV
+----
+geolat: 51.441317
+----
+geolng: 0.366692

@@ -1,0 +1,21 @@
+uid: whiteabbey
+----
+title: Whiteabbey
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Whiteabbey_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.672778
+----
+geolng: -5.904444

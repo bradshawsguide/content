@@ -1,0 +1,21 @@
+uid: yockleton
+----
+title: Yockleton
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Yockleton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.686651
+----
+geolng: -2.882399

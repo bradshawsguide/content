@@ -1,0 +1,21 @@
+uid: llandovery
+----
+title: Llandovery
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: llandovery
+----
+wikipedia: Llandovery_railway_station
+----
+disused: 
+----
+code: LLV
+----
+geolat: 51.995587
+----
+geolng: -3.802403

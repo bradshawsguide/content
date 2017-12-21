@@ -1,0 +1,21 @@
+uid: highley
+----
+title: Highley
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Highley_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.444834
+----
+geolng: -2.369973

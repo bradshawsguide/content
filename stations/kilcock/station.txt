@@ -1,0 +1,21 @@
+uid: kilcock
+----
+title: Kilcock
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kildare
+----
+place: 
+----
+wikipedia: Kilcock_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.399167
+----
+geolng: -6.668889

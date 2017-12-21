@@ -1,0 +1,21 @@
+uid: kinsale-junction
+----
+title: Kinsale Junction
+----
+title-today: 
+----
+country: ireland
+----
+region: county-cork
+----
+place: 
+----
+wikipedia: Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.80267
+----
+geolng: -8.624168

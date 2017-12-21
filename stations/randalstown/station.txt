@@ -1,0 +1,21 @@
+uid: randalstown
+----
+title: Randalstown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: randalstown
+----
+wikipedia: Randalstown_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.7499
+----
+geolng: -6.3123

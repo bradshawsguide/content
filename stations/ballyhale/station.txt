@@ -1,0 +1,21 @@
+uid: ballyhale
+----
+title: Ballyhale
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kilkenny
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.469586
+----
+geolng: -7.188398

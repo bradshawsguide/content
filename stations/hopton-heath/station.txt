@@ -1,0 +1,21 @@
+uid: hopton-heath
+----
+title: Hopton Heath
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Hopton_Heath_railway_station
+----
+disused: 
+----
+code: HPT
+----
+geolat: 52.391551
+----
+geolng: -2.911769

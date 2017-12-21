@@ -1,0 +1,21 @@
+uid: kildare-junction
+----
+title: Kildare Junction
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kildare
+----
+place: 
+----
+wikipedia: Kildare_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 53.162802
+----
+geolng: -6.908111

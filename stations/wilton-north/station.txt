@@ -1,0 +1,21 @@
+uid: wilton-north
+----
+title: Wilton North
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: wilton
+----
+wikipedia: Wilton_North_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.087278
+----
+geolng: -1.860313

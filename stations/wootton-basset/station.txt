@@ -1,0 +1,21 @@
+uid: wootton-basset
+----
+title: Wootton Basset
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: wootton-basset
+----
+wikipedia: Wootton_Bassett_railway_stations
+----
+disused: 
+----
+code: 
+----
+geolat: 51.5346
+----
+geolng: -1.9015

@@ -1,0 +1,21 @@
+uid: tralee
+----
+title: Tralee
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kerry
+----
+place: 
+----
+wikipedia: Tralee_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.271024
+----
+geolng: -9.698634

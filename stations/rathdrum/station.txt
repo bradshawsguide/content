@@ -1,0 +1,21 @@
+uid: rathdrum
+----
+title: Rathdrum
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wicklow
+----
+place: 
+----
+wikipedia: Rathdrum_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.930256
+----
+geolng: -6.226238

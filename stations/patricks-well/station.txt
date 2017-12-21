@@ -1,0 +1,21 @@
+uid: patricks-well
+----
+title: Patrick's Well
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.58896
+----
+geolng: -8.71978

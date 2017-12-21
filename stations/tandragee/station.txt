@@ -1,0 +1,21 @@
+uid: tandragee
+----
+title: Tandragee
+----
+title-today: 
+----
+country: ireland
+----
+region: county-armagh
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 54.363569
+----
+geolng: -6.384274

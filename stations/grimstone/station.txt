@@ -1,0 +1,21 @@
+uid: grimstone
+----
+title: Grimstone
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Grimstone_and_Frampton_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.7475
+----
+geolng: -2.5106

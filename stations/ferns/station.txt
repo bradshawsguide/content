@@ -1,0 +1,21 @@
+uid: ferns
+----
+title: Ferns
+----
+title-today: 
+----
+country: ireland
+----
+region: county-wexford
+----
+place: 
+----
+wikipedia: Ferns_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.5856
+----
+geolng: -6.483

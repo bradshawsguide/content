@@ -1,0 +1,21 @@
+uid: brierley-hill
+----
+title: Brierley Hill
+----
+title-today: 
+----
+country: england
+----
+region: worcestershire
+----
+place: 
+----
+wikipedia: Brierley_Hill_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.484002
+----
+geolng: -2.127331

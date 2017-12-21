@@ -1,0 +1,21 @@
+uid: portstewart
+----
+title: Portstewart
+----
+title-today: Cromore
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Cromore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.17817
+----
+geolng: -6.687758

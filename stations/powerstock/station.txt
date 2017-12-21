@@ -1,0 +1,21 @@
+uid: powerstock
+----
+title: Powerstock
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: 
+----
+wikipedia: Powerstock_railway_station
+----
+disused: p/powerstock
+----
+code: 
+----
+geolat: 50.755317
+----
+geolng: -2.678998

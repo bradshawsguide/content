@@ -1,0 +1,21 @@
+uid: deganwy
+----
+title: Deganwy
+----
+title-today: 
+----
+country: wales
+----
+region: carnarvonshire
+----
+place: 
+----
+wikipedia: Deganwy_railway_station
+----
+disused: 
+----
+code: DGY
+----
+geolat: 53.294308
+----
+geolng: -3.832617

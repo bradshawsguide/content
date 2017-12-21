@@ -1,0 +1,21 @@
+uid: cookstown
+----
+title: Cookstown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tyrone
+----
+place: cookstown
+----
+wikipedia: Cookstown_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.6452
+----
+geolng: -6.7403

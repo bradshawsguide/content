@@ -1,0 +1,21 @@
+uid: wimborne
+----
+title: Wimbourne
+----
+title-today: 
+----
+country: england
+----
+region: dorsetshire
+----
+place: wimborne
+----
+wikipedia: Wimborne_railway_station
+----
+disused: w/wimborne
+----
+code: 
+----
+geolat: 50.795511
+----
+geolng: -1.975118

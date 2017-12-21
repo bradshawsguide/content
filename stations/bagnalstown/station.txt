@@ -1,0 +1,21 @@
+uid: bagnalstown
+----
+title: Bagnalstown
+----
+title-today: Muine Bheag
+----
+country: ireland
+----
+region: county-carlow
+----
+place: 
+----
+wikipedia: Muine_Bheag_halt
+----
+disused: 
+----
+code: 
+----
+geolat: 52.699098
+----
+geolng: -6.952521

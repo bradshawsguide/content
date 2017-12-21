@@ -1,0 +1,21 @@
+uid: llandenny
+----
+title: Llandenny
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Llandenny_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.7309
+----
+geolng: -2.8444

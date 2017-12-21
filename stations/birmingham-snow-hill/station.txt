@@ -1,0 +1,21 @@
+uid: birmingham-snow-hill
+----
+title: Birmingham Snow Hill
+----
+title-today: 
+----
+country: england
+----
+region: warwickshire
+----
+place: 
+----
+wikipedia: Birmingham_Snow_Hill_railway_station
+----
+disused: 
+----
+code: BSW
+----
+geolat: 52.484028
+----
+geolng: -1.899087

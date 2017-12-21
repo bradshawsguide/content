@@ -1,0 +1,21 @@
+uid: melksham
+----
+title: Melksham
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: melksham
+----
+wikipedia: Melksham_railway_station
+----
+disused: 
+----
+code: MKM
+----
+geolat: 51.379911
+----
+geolng: -2.144354

@@ -1,0 +1,21 @@
+uid: newcastle-emlyn
+----
+title: Newcastle Emlyn
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Newcastle_Emlyn_railway_station
+----
+disused: n/newcastle_emlyn
+----
+code: 
+----
+geolat: 52.035531
+----
+geolng: -4.461919

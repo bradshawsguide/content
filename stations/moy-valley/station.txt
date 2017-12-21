@@ -1,0 +1,21 @@
+uid: moy-valley
+----
+title: Moy Valley
+----
+title-today: 
+----
+country: ireland
+----
+region: county-kildare
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.428834
+----
+geolng: -6.916725

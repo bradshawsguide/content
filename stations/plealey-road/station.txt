@@ -1,0 +1,21 @@
+uid: plealey-road
+----
+title: Plealey Road
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Plealey_Road_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.663433
+----
+geolng: -2.861231

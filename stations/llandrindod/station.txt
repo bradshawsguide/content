@@ -1,0 +1,21 @@
+uid: llandrindod
+----
+title: Llandrindod
+----
+title-today: 
+----
+country: wales
+----
+region: radnorshire
+----
+place: 
+----
+wikipedia: Llandrindod_railway_station
+----
+disused: 
+----
+code: LLO
+----
+geolat: 52.242271
+----
+geolng: -3.378842

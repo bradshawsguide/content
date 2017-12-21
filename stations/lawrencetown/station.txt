@@ -1,0 +1,21 @@
+uid: lawrencetown
+----
+title: Lawrencetown
+----
+title-today: 
+----
+country: ireland
+----
+region: county-down
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 54.377476
+----
+geolng: -6.311211

@@ -1,0 +1,21 @@
+uid: ince
+----
+title: Ince
+----
+title-today: Ince & Elton
+----
+country: england
+----
+region: cheshire
+----
+place: ince
+----
+wikipedia: Ince_%26_Elton_railway_station
+----
+disused: 
+----
+code: INE
+----
+geolat: 53.276831
+----
+geolng: -2.816527

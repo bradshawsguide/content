@@ -1,0 +1,21 @@
+uid: cheam
+----
+title: Cheam
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: Cheam_railway_station
+----
+disused: 
+----
+code: CHE
+----
+geolat: 51.355483
+----
+geolng: -0.216334

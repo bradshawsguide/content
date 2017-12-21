@@ -1,0 +1,21 @@
+uid: bridgewater
+----
+title: Bridgewater
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: bridgewater
+----
+wikipedia: Bridgwater_railway_station
+----
+disused: 
+----
+code: BWT
+----
+geolat: 51.127625
+----
+geolng: -2.990972

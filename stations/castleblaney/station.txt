@@ -1,0 +1,21 @@
+uid: castleblaney
+----
+title: Castleblaney
+----
+title-today: 
+----
+country: ireland
+----
+region: county-monaghan
+----
+place: castleblaney
+----
+wikipedia: Castleblayney_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.121128
+----
+geolng: -6.742612

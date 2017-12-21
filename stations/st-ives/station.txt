@@ -1,0 +1,21 @@
+uid: st-ives
+----
+title: St. Ives
+----
+title-today: 
+----
+country: england
+----
+region: cornwall
+----
+place: st-ives
+----
+wikipedia: St_Ives_railway_station
+----
+disused: 
+----
+code: SIV
+----
+geolat: 50.20925
+----
+geolng: -5.477885

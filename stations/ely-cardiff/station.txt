@@ -1,0 +1,21 @@
+uid: ely-cardiff
+----
+title: Ely
+----
+title-today: 
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Ely_Main_Line_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.4853
+----
+geolng: -3.2306

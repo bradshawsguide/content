@@ -1,0 +1,21 @@
+uid: sevenoaks
+----
+title: Sevenoaks
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: sevenoaks
+----
+wikipedia: Sevenoaks_railway_station
+----
+disused: 
+----
+code: SEV
+----
+geolat: 51.276958
+----
+geolng: 0.18143

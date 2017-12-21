@@ -1,0 +1,21 @@
+uid: billingshurst
+----
+title: Billingshurst
+----
+title-today: 
+----
+country: england
+----
+region: sussex
+----
+place: 
+----
+wikipedia: Billingshurst_railway_station
+----
+disused: 
+----
+code: BIG
+----
+geolat: 51.015436
+----
+geolng: -0.449624

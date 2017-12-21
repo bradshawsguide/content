@@ -1,0 +1,21 @@
+uid: aberdare-junction
+----
+title: Aberdare Junction
+----
+title-today: Abercynon
+----
+country: wales
+----
+region: glamorganshire
+----
+place: 
+----
+wikipedia: Abercynon_railway_station
+----
+disused: 
+----
+code: ACY
+----
+geolat: 51.644936
+----
+geolng: -3.327399

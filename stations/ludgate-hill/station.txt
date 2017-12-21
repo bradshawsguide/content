@@ -1,0 +1,21 @@
+uid: ludgate-hill
+----
+title: Ludgate Hill
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Ludgate_Hill_railway_station
+----
+disused: l/ludgate_hill
+----
+code: 
+----
+geolat: 51.513483
+----
+geolng: -0.103464

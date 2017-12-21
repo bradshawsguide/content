@@ -1,0 +1,21 @@
+uid: isleworth
+----
+title: Isleworth
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: isleworth
+----
+wikipedia: Isleworth_railway_station
+----
+disused: 
+----
+code: ISL
+----
+geolat: 51.474841
+----
+geolng: -0.336949

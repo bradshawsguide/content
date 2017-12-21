@@ -1,0 +1,21 @@
+uid: narberth-road
+----
+title: Narberth Road
+----
+title-today: Clunderwen
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: narberth-road
+----
+wikipedia: Clunderwen_railway_station
+----
+disused: 
+----
+code: CUW
+----
+geolat: 51.840106
+----
+geolng: -4.73109

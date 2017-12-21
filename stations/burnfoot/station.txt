@@ -1,0 +1,21 @@
+uid: burnfoot
+----
+title: Burnfoot
+----
+title-today: 
+----
+country: ireland
+----
+region: county-donegal
+----
+place: 
+----
+wikipedia: Burnfoot_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 55.05655
+----
+geolng: -7.40758

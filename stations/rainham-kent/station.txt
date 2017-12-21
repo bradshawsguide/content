@@ -1,0 +1,21 @@
+uid: rainham-kent
+----
+title: Rainham
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: rainham
+----
+wikipedia: Rainham_(Kent)_railway_station
+----
+disused: 
+----
+code: RAI
+----
+geolat: 51.366411
+----
+geolng: 0.611328

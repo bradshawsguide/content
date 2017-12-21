@@ -1,0 +1,21 @@
+uid: calbourne
+----
+title: Calbourne
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: calbourne
+----
+wikipedia: Calbourne_%26_Shalfleet_railway_station
+----
+disused: c/calbourne
+----
+code: 
+----
+geolat: 50.693263
+----
+geolng: -1.401786

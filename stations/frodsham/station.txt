@@ -1,0 +1,21 @@
+uid: frodsham
+----
+title: Frodsham
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: frodsham
+----
+wikipedia: Frodsham_railway_station
+----
+disused: 
+----
+code: FRD
+----
+geolat: 53.296306
+----
+geolng: -2.723875

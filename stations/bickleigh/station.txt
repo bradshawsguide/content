@@ -1,0 +1,21 @@
+uid: bickleigh
+----
+title: Bickleigh
+----
+title-today: 
+----
+country: england
+----
+region: devonshire
+----
+place: 
+----
+wikipedia: Bickleigh_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 50.44224
+----
+geolng: -4.077137

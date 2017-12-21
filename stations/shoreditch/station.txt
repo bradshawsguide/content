@@ -1,0 +1,21 @@
+uid: shoreditch
+----
+title: Shoreditch
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: 
+----
+wikipedia: Shoreditch_railway_station
+----
+disused: s/shoreditch
+----
+code: 
+----
+geolat: 51.527463
+----
+geolng: -0.078375

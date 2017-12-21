@@ -1,0 +1,21 @@
+uid: llwyngwril
+----
+title: Llwyngwril
+----
+title-today: 
+----
+country: wales
+----
+region: merionethshire
+----
+place: 
+----
+wikipedia: Llwyngwril_railway_station
+----
+disused: 
+----
+code: LLW
+----
+geolat: 52.667057
+----
+geolng: -4.087248

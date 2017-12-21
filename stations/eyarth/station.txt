@@ -1,0 +1,21 @@
+uid: eyarth
+----
+title: Eyarth
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Eyarth_railway_station
+----
+disused: e/eyarth
+----
+code: 
+----
+geolat: 53.0921
+----
+geolng: -3.2997

@@ -1,0 +1,21 @@
+uid: twerton
+----
+title: Twerton
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Twerton-on-Avon_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.3803
+----
+geolng: -2.3908

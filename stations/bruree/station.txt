@@ -1,0 +1,21 @@
+uid: bruree
+----
+title: Bruree
+----
+title-today: 
+----
+country: ireland
+----
+region: county-limerick
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.423354
+----
+geolng: -8.657879

@@ -1,0 +1,21 @@
+uid: yeovil-pen-mill
+----
+title: Yeovil Pen Mill
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: yeovil
+----
+wikipedia: Yeovil_Pen_Mill_railway_station
+----
+disused: 
+----
+code: YVP
+----
+geolat: 50.944978
+----
+geolng: -2.612722

@@ -1,0 +1,21 @@
+uid: banbury
+----
+title: Banbury
+----
+title-today: 
+----
+country: england
+----
+region: oxfordshire
+----
+place: banbury
+----
+wikipedia: Banbury_railway_station
+----
+disused: 
+----
+code: BAN
+----
+geolat: 52.060506
+----
+geolng: -1.326817

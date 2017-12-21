@@ -1,0 +1,21 @@
+uid: woking
+----
+title: Woking
+----
+title-today: 
+----
+country: england
+----
+region: surrey
+----
+place: woking
+----
+wikipedia: Woking_railway_station
+----
+disused: 
+----
+code: WOK
+----
+geolat: 51.318964
+----
+geolng: -0.557088

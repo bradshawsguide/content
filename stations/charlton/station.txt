@@ -1,0 +1,21 @@
+uid: charlton
+----
+title: Charlton
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: charlton
+----
+wikipedia: Charlton_railway_station
+----
+disused: 
+----
+code: CTN
+----
+geolat: 51.486835
+----
+geolng: 0.030942

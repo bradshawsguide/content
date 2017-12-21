@@ -1,0 +1,21 @@
+uid: shepton-mallet
+----
+title: Shepton Mallet
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: shepton-mallet
+----
+wikipedia: Shepton_Mallet_(High_Street)_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.186494
+----
+geolng: -2.550128

@@ -1,0 +1,21 @@
+uid: larne
+----
+title: Larne
+----
+title-today: Larne Town
+----
+country: ireland
+----
+region: county-antrim
+----
+place: larne
+----
+wikipedia: Larne_Town_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.850278
+----
+geolng: -5.814167

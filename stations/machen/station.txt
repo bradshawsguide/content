@@ -1,0 +1,21 @@
+uid: machen
+----
+title: Machen
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: 
+----
+wikipedia: Machen_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.598352
+----
+geolng: -3.13979

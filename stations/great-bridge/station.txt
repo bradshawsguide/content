@@ -1,0 +1,21 @@
+uid: great-bridge
+----
+title: Great Bridge
+----
+title-today: 
+----
+country: england
+----
+region: staffordshire
+----
+place: 
+----
+wikipedia: Great_Bridge_North_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.532611
+----
+geolng: -2.036074

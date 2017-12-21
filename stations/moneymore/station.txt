@@ -1,0 +1,21 @@
+uid: moneymore
+----
+title: Moneymore
+----
+title-today: 
+----
+country: ireland
+----
+region: county-londonderry
+----
+place: 
+----
+wikipedia: Moneymore_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.6977
+----
+geolng: -6.6726

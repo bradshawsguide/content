@@ -1,0 +1,21 @@
+uid: bishops-castle
+----
+title: Bishops Castle
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Bishop%27s_Castle_railway_station
+----
+disused: b/bishops_castle
+----
+code: 
+----
+geolat: 52.491561
+----
+geolng: -2.996316

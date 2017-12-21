@@ -1,0 +1,21 @@
+uid: southall
+----
+title: Southall
+----
+title-today: 
+----
+country: england
+----
+region: middlesex
+----
+place: southall
+----
+wikipedia: Southall_railway_station
+----
+disused: 
+----
+code: STL
+----
+geolat: 51.506172
+----
+geolng: -0.378055

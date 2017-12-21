@@ -1,0 +1,21 @@
+uid: holt-junction
+----
+title: Holt Junction
+----
+title-today: 
+----
+country: england
+----
+region: wiltshire
+----
+place: 
+----
+wikipedia: Holt_Junction_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 51.353777
+----
+geolng: -2.185916

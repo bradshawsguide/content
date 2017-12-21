@@ -1,0 +1,21 @@
+uid: milford
+----
+title: Milford
+----
+title-today: Milford Haven
+----
+country: wales
+----
+region: pembrokeshire
+----
+place: milford
+----
+wikipedia: Milford_Haven_railway_station
+----
+disused: 
+----
+code: MFH
+----
+geolat: 51.715581
+----
+geolng: -5.040662

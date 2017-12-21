@@ -1,0 +1,21 @@
+uid: bruton
+----
+title: Bruton
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: 
+----
+wikipedia: Bruton_railway_station
+----
+disused: 
+----
+code: BRU
+----
+geolat: 51.111185
+----
+geolng: -2.447783

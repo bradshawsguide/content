@@ -1,0 +1,21 @@
+uid: mortimer
+----
+title: Mortimer
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Mortimer_railway_station
+----
+disused: 
+----
+code: MOR
+----
+geolat: 51.372435
+----
+geolng: -1.035258

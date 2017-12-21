@@ -1,0 +1,21 @@
+uid: newport-high-street
+----
+title: Newport
+----
+title-today: 
+----
+country: england
+----
+region: monmouthshire
+----
+place: newport
+----
+wikipedia: Newport_railway_station
+----
+disused: 
+----
+code: NWP
+----
+geolat: 51.589752
+----
+geolng: -2.998111

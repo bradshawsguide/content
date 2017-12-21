@@ -1,0 +1,21 @@
+uid: bath
+----
+title: Bath
+----
+title-today: 
+----
+country: england
+----
+region: somerset
+----
+place: bath
+----
+wikipedia: Bath_Spa_railway_station
+----
+disused: 
+----
+code: BTH
+----
+geolat: 51.377658
+----
+geolng: -2.356989

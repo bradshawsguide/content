@@ -1,0 +1,21 @@
+uid: wandsworth
+----
+title: Wandsworth
+----
+title-today: Wandsworth Town
+----
+country: england
+----
+region: surrey
+----
+place: wandsworth
+----
+wikipedia: Wandsworth_Town_railway_station
+----
+disused: 
+----
+code: WNT
+----
+geolat: 51.461034
+----
+geolng: -0.18791

@@ -1,0 +1,21 @@
+uid: folkestone-junction
+----
+title: Folkestone Junction
+----
+title-today: Folkestone East
+----
+country: england
+----
+region: kent
+----
+place: folkestone
+----
+wikipedia: Folkestone_East_railway_station
+----
+disused: f/folkestone_east
+----
+code: 
+----
+geolat: 51.087419
+----
+geolng: 1.189302

@@ -1,0 +1,21 @@
+uid: canterbury-west
+----
+title: Canterbury West
+----
+title-today: 
+----
+country: england
+----
+region: kent
+----
+place: 
+----
+wikipedia: Canterbury_West_railway_station
+----
+disused: 
+----
+code: CBW
+----
+geolat: 51.283864
+----
+geolng: 1.075248

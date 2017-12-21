@@ -1,0 +1,21 @@
+uid: hampton-loade
+----
+title: Hampton Loade
+----
+title-today: 
+----
+country: england
+----
+region: shropshire
+----
+place: 
+----
+wikipedia: Hampton_Loade_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 52.473578
+----
+geolng: -2.377575

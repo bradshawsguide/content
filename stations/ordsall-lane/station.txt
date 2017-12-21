@@ -1,0 +1,21 @@
+uid: ordsall-lane
+----
+title: Ordsall Lane
+----
+title-today: 
+----
+country: england
+----
+region: lancashire
+----
+place: 
+----
+wikipedia: Ordsall_Lane_railway_station
+----
+disused: o/ordsall_lane
+----
+code: 
+----
+geolat: 53.477982
+----
+geolng: -2.264393

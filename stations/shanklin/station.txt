@@ -1,0 +1,21 @@
+uid: shanklin
+----
+title: Shanklin
+----
+title-today: 
+----
+country: england
+----
+region: isle-of-wight
+----
+place: shanklin
+----
+wikipedia: Shanklin_railway_station
+----
+disused: 
+----
+code: SHN
+----
+geolat: 50.634363
+----
+geolng: -1.180533

@@ -1,0 +1,21 @@
+uid: gwyddelwern
+----
+title: Gwyddelwern
+----
+title-today: 
+----
+country: wales
+----
+region: denbighshire
+----
+place: 
+----
+wikipedia: Gwyddelwern_railway_station
+----
+disused: g/gwyddelwern
+----
+code: 
+----
+geolat: 53.008215
+----
+geolng: -3.382269

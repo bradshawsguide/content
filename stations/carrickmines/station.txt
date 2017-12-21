@@ -1,0 +1,21 @@
+uid: carrickmines
+----
+title: Carrickmines
+----
+title-today: 
+----
+country: ireland
+----
+region: county-dublin
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 53.254
+----
+geolng: -6.169887

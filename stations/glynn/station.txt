@@ -1,0 +1,21 @@
+uid: glynn
+----
+title: Glynn
+----
+title-today: 
+----
+country: ireland
+----
+region: county-antrim
+----
+place: 
+----
+wikipedia: Glynn_railway_station
+----
+disused: 
+----
+code: 
+----
+geolat: 54.826944
+----
+geolng: -5.8075

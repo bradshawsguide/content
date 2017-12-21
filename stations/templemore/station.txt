@@ -1,0 +1,21 @@
+uid: templemore
+----
+title: Templemore
+----
+title-today: 
+----
+country: ireland
+----
+region: county-tipperary
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.788242
+----
+geolng: -7.823157

@@ -1,0 +1,21 @@
+uid: aldershott-north-camp
+----
+title: Aldershott (North Camp)
+----
+title-today: Ash Vale
+----
+country: england
+----
+region: surrey
+----
+place: 
+----
+wikipedia: North_Camp_railway_station
+----
+disused: 
+----
+code: NCM
+----
+geolat: 51.27601
+----
+geolng: -0.730476

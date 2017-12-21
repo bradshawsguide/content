@@ -1,0 +1,21 @@
+uid: bromborough
+----
+title: Bromborough
+----
+title-today: 
+----
+country: england
+----
+region: cheshire
+----
+place: 
+----
+wikipedia: Bromborough_railway_station
+----
+disused: 
+----
+code: BOM
+----
+geolat: 53.321385
+----
+geolng: -2.98702

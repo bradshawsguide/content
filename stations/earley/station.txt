@@ -1,0 +1,21 @@
+uid: earley
+----
+title: Earley
+----
+title-today: 
+----
+country: england
+----
+region: berkshire
+----
+place: 
+----
+wikipedia: Earley_railway_station
+----
+disused: 
+----
+code: EAR
+----
+geolat: 51.440655
+----
+geolng: -0.918718

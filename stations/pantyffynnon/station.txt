@@ -1,0 +1,21 @@
+uid: pantyffynnon
+----
+title: Pantyffynnon
+----
+title-today: 
+----
+country: wales
+----
+region: carmarthenshire
+----
+place: 
+----
+wikipedia: Pantyffynnon_railway_station
+----
+disused: 
+----
+code: PTF
+----
+geolat: 51.778414
+----
+geolng: -3.998134

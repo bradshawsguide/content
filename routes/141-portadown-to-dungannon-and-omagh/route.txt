@@ -17,6 +17,9 @@ stops:
 - beragh
 - omagh
 ----
+links:
+- (wikipedia: Portadown,_Dungannon_and_Omagh_Junction_Railway)
+----
 text: [Annaghmore](/stations/annaghmore), [Vernersbridge](/stations/vernersbridge), [Trew and Moy](/stations/trew-and-moy).
 
 (place: ireland/county-tyrone/dungannon)

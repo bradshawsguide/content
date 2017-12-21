@@ -24,6 +24,10 @@ stops:
 - mallow
 - cork
 ----
+links:
+- (wikipedia: Dublin–Cork_railway_line, text: Dublin to Cork line)
+- (wikipedia: Waterford_and_Kilkenny_Railway, text: Kilkenny to Waterford line)
+----
 text: (place: ireland/county-kildare/newbridge)
 
 The next station arrived at is Kildare, the junction of the lines to Carlow and Kilkenny.

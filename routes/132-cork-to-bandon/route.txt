@@ -12,6 +12,9 @@ stops:
 - upton-and-brinny
 - bandon
 ----
+links:
+- (wikipedia: Cork,_Bandon_and_South_Coast_Railway)
+----
 text: By the (single line) rail to Bandon, the coast about Clonakilty, Skibbereen, Cape Clear, and Bantry Bay, may be visited; and thence Glengariff and Hungry Hill, with their magnificent scenery. At the last is one of the most remarkable waterfalls in the kingdom, rivalling the Staubbach, in Switzerland. Cars may be hired, but a pedestrian trip is the true way to enjoy and make oneself acquainted with the country. The constant drizzle is the chief drawback, but this gives Ireland its emerald green. It is said there that it never leaves off but on the 30th of February.
 
 The line passes [Waterfall](/stations/waterfall), [Ballinhassig](/stations/ballinhassig), to the [Junction](/stations/kinsale-junction) Station, at which point the branch of the railway, 10¾ miles long, runs to the left, *via* [Farrangalway](/stations/farrangalway), to

@@ -18,6 +18,9 @@ stops:
 - laytown
 - [drogheda, duleek, beauparc, navan, ballybeg, kells, virginia-road, oldcastle]
 ----
+links:
+- (wikipedia: Dublin_and_Drogheda_Railway)
+----
 text: This line of railway passes along the eastern shores of the northern part of County Dublin, crossing a small portion of that of Meath, by which the varied and interesting coast scenery of those counties is presented to the eye of the traveller. On leaving Dublin the line crosses the Clontarf estuary, from whence is obtained, a remarkably fine view of the Bay of Dublin, with the Wicklow hills and Bray Head in the rear. The estuary is bounded on the north side by the picturesque plains of Clontarf, with *Clontarf Castle* in the centre. The green lanes of this district are a favourite resort of the citizens, and the locality is familiar to every reader of Irish history, as the battle field on which King Brian Bororhime in 1014 achieved a victory over the Danes. The well of Brian Bororhime is still in existence near the castle. At a distance of 3¾ miles from Dublin we come to
 
 [Raheny](/stations/raheny), in the neighbourhood of which are *Raheny House*, J. Sweetman, Esq.; *Raheny Park*; *Killested Abbey*, D. Nugent, Esq.

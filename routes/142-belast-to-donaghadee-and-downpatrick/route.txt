@@ -14,6 +14,9 @@ stops:
 - [ballynahinch-junction, ballynahinch]
 - downpatrick
 ----
+links:
+- (wikipedia: Belfast_and_County_Down_Railway)
+----
 text: On leaving the station at Belfast we immediately cross the river Lagan, which flows into Belfast Lough, and enter the county [Down](/places/ireland/county-down).
 
 Taking the direction of the river Knock, we pass the station of that name; thence to [Dundonald](/stations/dundonald), and

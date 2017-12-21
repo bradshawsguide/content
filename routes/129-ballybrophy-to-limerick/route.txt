@@ -14,6 +14,9 @@ stops:
 - killonan
 - limerick
 ----
+links:
+- (wikipedia: Limerick–Ballybrophy_railway_line)
+----
 text: The Roscrea and Parsonstown, a line 22½ miles long turns off here to the right. On arriving at the town of [Roscrea](/stations/roscrea) it divides into two branches, the shorter one, to the north-west, to [Parsonstown](/stations/parsonstown), the present terminus in that direction; and the other, south-west, through [Cloughjordan](/stations/cloughjordan), to the large town of
 
 [Nenagh](/stations/nenagh), in the northern part of the county of Tipperary. The country around is well cultivated, and the trade of the town considerable. Proceeding in a south-westerly direction we sweep the base of the Arra Mountains on the south-east margin of Lough Derg, to

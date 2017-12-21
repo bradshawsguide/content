@@ -3,8 +3,8 @@ section: 2
 title: Londonderry to Enniskillen & Dundalk
 ----
 company:
-- dundalk-and-enniskillen
 - londonderry-and-enniskillen
+- dundalk-and-enniskillen
 ----
 stops:
 - londonderry-foyle-road
@@ -34,6 +34,9 @@ stops:
 - culloville
 - inniskeen
 - dundalk
+----
+links:
+- (wikipedia: Londonderry_and_Enniskillen_Railway, text: Londonderry to Enniskillen line)
 ----
 text: [Carrigans](/stations/carrigans), close to which is *Dunmore*, the seat of R. M. Clintock, Esq.
 

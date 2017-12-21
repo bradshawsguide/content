@@ -14,6 +14,9 @@ stops:
 - clandeboyd
 - bangor-county-down
 ----
+links:
+- (wikipedia: Belfast_and_County_Down_Railway)
+----
 text: This part of the County Down system, after crossing the Largan, runs along the edge of the Lough, through [Sydenham](/stations/sydenham-belfast), <span class="smcp">Glenmachan</span>, and [Tillysburn](/stations/tillysburn), to
 
 (place: ireland/county-down/holywood)

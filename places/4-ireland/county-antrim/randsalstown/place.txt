@@ -3,8 +3,10 @@ section: 2
 title: Randalstown
 ----
 company:
+- belfast-and-northern-counties
 ----
 route:
+- cookstown-junction-to-cookstown
 ----
 info:
 - term: Hotel

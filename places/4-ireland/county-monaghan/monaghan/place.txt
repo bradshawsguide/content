@@ -3,8 +3,10 @@ section: 2
 title: Monaghan
 ----
 company:
+- ulster
 ----
 route:
+- clones-to-armagh-and-belfast
 ----
 info:
 - term: Hotels

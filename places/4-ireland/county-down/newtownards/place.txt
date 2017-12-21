@@ -3,8 +3,10 @@ section: 2
 title: Newtownards
 ----
 company:
+- belfast-and-county-down
 ----
 route:
+- belast-to-donaghadee-and-downpatrick
 ----
 desc: A town of muslin weavers and embroiderers, belonging to the Londonderry family, at the head of Lough Strangford.
 ----

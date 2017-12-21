@@ -3,8 +3,10 @@ section: 2
 title: Carlow
 ----
 company:
+- great-southern-and-western
 ----
 route:
+- dublin-to-cork-and-killarney
 ----
 info:
 - term: Hotel

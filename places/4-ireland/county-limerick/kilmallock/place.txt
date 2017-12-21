@@ -3,8 +3,10 @@ section: 2
 title: Kilmallock
 ----
 company:
+- great-southern-and-western
 ----
 route:
+- dublin-to-cork-and-killarney
 ----
 info:
 - term: Fairs

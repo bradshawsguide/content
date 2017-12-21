@@ -3,8 +3,10 @@ section: 2
 title: Newbridge
 ----
 company:
+- great-southern-and-western
 ----
 route:
+- dublin-to-cork-and-killarney
 ----
 desc: A telegraph station, and distant 25½ miles from Dublin. A little to the left of the line is the *Curragh Race Course*, the "Newmarket" of Ireland.
 ----

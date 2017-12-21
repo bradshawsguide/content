@@ -3,8 +3,10 @@ section: 2
 title: Birdhill
 ----
 company:
+- parsonstown-and-limerick
 ----
 route:
+- ballybrophy-to-limerick
 ----
 notes:
 - A telegraph station.

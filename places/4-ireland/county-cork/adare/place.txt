@@ -3,8 +3,10 @@ section: 2
 title: Adare
 ----
 company:
+- limerick-and-foynes
 ----
 route:
+- limerick-to-foynes
 ----
 info:
 - term: Fairs

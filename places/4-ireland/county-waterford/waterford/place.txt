@@ -3,8 +3,10 @@ section: 2
 title: Waterford
 ----
 company:
+- great-southern-and-western
 ----
 route:
+- dublin-to-cork-and-killarney
 ----
 info:
 - term: Hotel

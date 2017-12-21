@@ -3,8 +3,10 @@ section: 2
 title: Antrim
 ----
 company:
+- belfast-and-northern-counties
 ----
 route:
+- belast-to-ballymena-and-portrush
 ----
 info:
 - term: Hotel

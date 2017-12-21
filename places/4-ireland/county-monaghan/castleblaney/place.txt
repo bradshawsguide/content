@@ -3,8 +3,10 @@ section: 2
 title: Castleblaney
 ----
 company:
+- dundalk-and-enniskillen
 ----
 route:
+- londonderry-to-enniskillen-and-dundalk
 ----
 info:
 - term: Hotel

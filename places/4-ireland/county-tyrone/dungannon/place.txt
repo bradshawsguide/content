@@ -3,8 +3,10 @@ section: 2
 title: Dungannon
 ----
 company:
+- portadown-dungannon-and-omagh-junction
 ----
 route:
+- portadown-to-dungannon-and-omagh
 ----
 info:
 - term: Market Days

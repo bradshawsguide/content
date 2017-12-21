@@ -3,8 +3,12 @@ section: 2
 title: Dundalk
 ----
 company:
+- dublin-and-belfast-junction
+- dundalk-and-enniskillen
 ----
 route:
+- drogheda-to-dundalk-and-newry
+- londonderry-to-enniskillen-and-dundalk
 ----
 info:
 - term: Hotels

@@ -3,8 +3,10 @@ section: 2
 title: Galway
 ----
 company:
+- midland-great-western
 ----
 route:
+- dublin-to-mullingar-athlone-and-galway
 ----
 info:
 - term: Hotels

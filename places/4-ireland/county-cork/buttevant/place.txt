@@ -3,8 +3,10 @@ section: 2
 title: Buttevant
 ----
 company:
+- great-southern-and-western
 ----
 route:
+- dublin-to-cork-and-killarney
 ----
 desc: Called by Spenser "gentle Mulla," where there are remains of a priory founded in 1290 by the Barrys, Earls of Barrymore.
 ----

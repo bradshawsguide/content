@@ -3,8 +3,12 @@ section: 2
 title: Athlone
 ----
 company:
+- great-southern-and-western
+- midland-great-western
 ----
 route:
+- portarlington-to-athlone
+- dublin-to-mullingar-athlone-and-galway
 ----
 info:
 - term: Hotel

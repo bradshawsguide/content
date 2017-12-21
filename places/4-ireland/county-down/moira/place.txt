@@ -3,8 +3,10 @@ section: 2
 title: Moira
 ----
 company:
+- ulster
 ----
 route:
+- clones-to-armagh-and-belfast
 ----
 desc: Here is *Moira Castle*, the seat of the Hastings family, and the birth place of the first Marquis, the gallant Earl Moira.
 ----

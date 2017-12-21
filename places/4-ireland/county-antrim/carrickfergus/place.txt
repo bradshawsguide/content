@@ -3,8 +3,10 @@ section: 2
 title: Carrickfergus
 ----
 company:
+- belfast-and-northern-counties
 ----
 route:
+- carrickfergus-junction-to-larne
 ----
 info:
 - term: Omnibuses

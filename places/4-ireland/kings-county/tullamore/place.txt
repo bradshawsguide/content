@@ -3,8 +3,10 @@ section: 2
 title: Tullamore
 ----
 company:
+- great-southern-and-western
 ----
 route:
+- portarlington-to-athlone
 ----
 info:
 - term: Market Days

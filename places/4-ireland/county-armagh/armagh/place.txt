@@ -3,8 +3,12 @@ section: 2
 title: Armagh
 ----
 company:
+- dublin-and-belfast-junction
+- ulster
 ----
 route:
+- drogheda-to-dundalk-and-newry
+- clones-to-armagh-and-belfast
 ----
 info:
 - term: Hotel

@@ -3,8 +3,10 @@ section: 2
 title: Rostrevor
 ----
 company:
+- newry-warrenpoint-and-rostrevor
 ----
 route:
+- newry-to-warrenpoint-and-rostrevor
 ----
 info:
 - term: Market Day

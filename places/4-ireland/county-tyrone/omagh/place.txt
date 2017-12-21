@@ -3,8 +3,12 @@ section: 2
 title: Omagh
 ----
 company:
+- portadown-dungannon-and-omagh-junction
+- londonderry-and-enniskillen
 ----
 route:
+- portadown-to-dungannon-and-omagh
+- londonderry-to-enniskillen-and-dundalk
 ----
 info:
 - term: Hotel

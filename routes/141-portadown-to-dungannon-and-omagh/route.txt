@@ -23,4 +23,4 @@ text: [Annaghmore](/stations/annaghmore), [Vernersbridge](/stations/vernersbridg
 
 We now pass the stations of [Donaghmore](/stations/donaghmore), [Pomeroy](/stations/pomeroy), [Carrickmore](/stations/carrickmore), [Sixmilecross](/stations/sixmilecross), with its ruins of *Glenawley Castle*, and [Beragh](/stations/beragh), arriving at
 
-**Omagh**, the junction with the [Londonderry and Enniskillen Railway](/companies/dundalk-enniskillen-and-londonderry).
+**[Omagh](/stations/omagh)**, the junction with the [Londonderry and Enniskillen Railway](/companies/dundalk-enniskillen-and-londonderry).

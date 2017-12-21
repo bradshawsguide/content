@@ -3,8 +3,10 @@ section: 2
 title: Sligo
 ----
 company:
+- midland-great-western
 ----
 route:
+- dublin-to-mullingar-athlone-and-galway
 ----
 desc: A considerable town, situated at the eastern extremity of Sligo Bay; its population is about 15,000; trade--linen, flour, &c.
 ----

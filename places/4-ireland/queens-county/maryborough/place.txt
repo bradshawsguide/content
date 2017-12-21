@@ -3,8 +3,10 @@ section: 2
 title: Maryborough
 ----
 company:
+- great-southern-and-western
 ----
 route:
+- dublin-to-cork-and-killarney
 ----
 notes:
 - A telegraph station.

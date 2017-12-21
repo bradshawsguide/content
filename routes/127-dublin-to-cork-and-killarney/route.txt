@@ -52,7 +52,7 @@ Passing [Upper John Street](/stations/kilkenny) and [Bennett's Bridge](/stations
 ### Kildare to Cork
 We now return to Kildare, the point of deviation to Carlow, &c, and soon reach *Monasterevan*, where are ruins of a monastery, built in the 7th century, rebuilt in the 8th, and refounded in the 12th, by the O'Dempseys. There is a Market here on Saturdays, and Fairs on March 28th, May 29th, July 31st, and December 8th. We now enter [King's County](/places/ireland/kings-county).
 
-(place: ireland/queens-county/portarlington)
+(place: ireland/kings-county/portarlington)
 
 (route: portarlington-to-athlone)
 

@@ -3,8 +3,10 @@ section: 2
 title: Howth
 ----
 company:
+- dublin-and-drogheda
 ----
 route:
+- howth-junction-to-howth
 ----
 info:
 - term: Hotel

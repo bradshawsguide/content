@@ -3,8 +3,12 @@ section: 2
 title: Portadown
 ----
 company:
+- dublin-and-belfast-junction
+- portadown-dungannon-and-omagh-junction
 ----
 route:
+- drogheda-to-dundalk-and-newry
+- portadown-to-dungannon-and-omagh
 ----
 info:
 - term: Hotel

@@ -3,8 +3,10 @@ section: 2
 title: Killarney
 ----
 company:
+- cork-bandon-and-south-coast
 ----
 route:
+- mallow-to-killarney-and-tralee
 ----
 info:
 - term: Hotels

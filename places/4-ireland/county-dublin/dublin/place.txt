@@ -5,10 +5,16 @@ title: Dublin
 company:
 - dublin-and-kingstown
 - great-southern-and-western
+- midland-great-western
+- dublin-wicklow-and-wexford
+- dublin-and-drogheda
 ----
 route:
 - holyhead-to-dublin
 - dublin-to-cork-and-killarney
+- dublin-to-mullingar-athlone-and-galway
+- dublin-to-wicklow-and-wexford
+- dublin-to-drogheda
 ----
 info:
 - term: Hotels

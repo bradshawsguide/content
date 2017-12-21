@@ -3,8 +3,10 @@ section: 2
 title: Larne
 ----
 company:
+- belfast-and-northern-counties
 ----
 route:
+- carrickfergus-junction-to-larne
 ----
 notes:
 - A telegraph station.

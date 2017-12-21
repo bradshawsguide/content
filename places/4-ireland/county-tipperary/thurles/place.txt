@@ -3,8 +3,10 @@ section: 2
 title: Thurles
 ----
 company:
+- great-southern-and-western
 ----
 route:
+- dublin-to-cork-and-killarney
 ----
 notes:
 - A telegraph station.

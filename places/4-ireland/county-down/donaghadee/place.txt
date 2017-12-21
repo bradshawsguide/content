@@ -3,8 +3,10 @@ section: 2
 title: Donaghadee
 ----
 company:
+- belfast-and-county-down
 ----
 route:
+- belast-to-donaghadee-and-downpatrick
 ----
 desc: This place is favoured by nature, though somewhat improved by art, with a good and convenient harbour, from whence a submarine telegraph was laid down in 1853, across to the Scottish coast.
 ----

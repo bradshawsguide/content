@@ -1,3 +1,6 @@
 section: 2
 ----
 title: Belfast and Northern Counties Railway
+----
+links:
+- (wikipedia: Northern_Counties_Committee, text: Northern Counties Committee)

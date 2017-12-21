@@ -1,3 +1,6 @@
 section: 2
 ----
 title: Ulster Railway
+----
+links:
+- (wikipedia: Ulster_Railway)

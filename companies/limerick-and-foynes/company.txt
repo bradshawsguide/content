@@ -1,1 +1,6 @@
+section: 2
+----
 title: Limerick and Foynes Railway
+----
+links:
+- (wikipedia: Waterford,_Limerick_and_Western_Railway, text: Waterford, Limerick and_Western Railway)

@@ -1,3 +1,6 @@
 section: 2
 ----
 title: Dublin and Belfast Junction Railway
+----
+links:
+- (wikipedia: Dublin_and_Belfast_Junction_Railway)

@@ -2,7 +2,9 @@ section: 2
 ----
 title: Londonderry to Enniskillen & Dundalk
 ----
-company: dundalk-enniskillen-and-londonderry
+company:
+- dundalk-and-enniskillen
+- londonderry-and-enniskillen
 ----
 stops:
 - londonderry-foyle-road

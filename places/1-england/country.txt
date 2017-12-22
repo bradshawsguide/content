@@ -3,5 +3,7 @@ title: England
 feature:
 - england/sussex/brighton
 - england/surrey/crystal-palace
-# england/gloucestershire/bristol
-# england/oxfordshire/oxford
+- england/gloucestershire/bristol
+- england/oxfordshire/oxford
+- england/devonshire/exeter
+- england/cornwall/penzance

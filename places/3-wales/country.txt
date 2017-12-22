@@ -1,3 +1,9 @@
 title: Principality of Wales
 ----
-text: 
+feature:
+- wales/glamorganshire/cardiff
+- wales/pembrokeshire/tenby
+- wales/carnarvonshire/menai-bridge
+- wales/carnarvonshire/conway
+- wales/cardiganshire/aberystwith
+- wales/anglesea/holyhead

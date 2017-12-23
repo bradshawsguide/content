@@ -6,7 +6,7 @@ company:
 - london-and-south-western
 ----
 route:
-- weybridge-to-chertsey
+- london-to-southampton-dorchester-and-weymouth
 ----
 info:
 - term: Hotel

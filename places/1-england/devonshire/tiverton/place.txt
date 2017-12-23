@@ -6,7 +6,7 @@ company:
 - bristol-and-exeter
 ----
 route:
-- tiverton-junction-to-tiverton
+- bristol-to-exeter
 ----
 info:
 - term: Hotel

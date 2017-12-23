@@ -2,8 +2,6 @@ section: 2
 ----
 title: Frome to Wells
 ----
-line: East Somerset Railway
-----
 company: east-somerset
 ----
 stops:

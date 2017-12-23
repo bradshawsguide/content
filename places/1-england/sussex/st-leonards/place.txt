@@ -8,7 +8,7 @@ company:
 ----
 route:
 - tunbridge-to-hastings
-- haywards-heath-to-lewes-and-hastings
+- lewes-to-hailsham-eastbourne-and-hastings
 ----
 info:
 - term: Hotel

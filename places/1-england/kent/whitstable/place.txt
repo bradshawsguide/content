@@ -8,7 +8,7 @@ company:
 ----
 route:
 - faversham-to-ramsgate-harbour
-- canterbury-to-whitstable
+- ashford-to-canterbury-and-ramsgate
 ----
 info:
 - term: Hotels

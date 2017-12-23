@@ -6,7 +6,7 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- polegate-to-hailsham
+- lewes-to-hailsham-eastbourne-and-hastings
 ----
 info:
 - term: Hotels

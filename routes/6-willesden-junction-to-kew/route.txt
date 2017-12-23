@@ -18,7 +18,7 @@ text: About one mile beyond [Willesden Junction](/stations/willesden-junction) w
 
 A short branch, 1¼ mile, turns off to the left here, by which the tourist is enabled to visit
 
-(place: england/middlesex/hammersmith)
+(place: england/middlesex/hammersmith branch: true)
 
 Retracing our route to Acton, and pursuing our course onward a mile and a half, we are brought to our destination at
 

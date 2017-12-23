@@ -75,7 +75,8 @@ The line passes on a level, with the open sea on one side and the South Downs on
 
 This station forms the junction of a short line to
 
-(place: england/sussex/bognor)
+(place: england/sussex/bognor branch: true)
+
 (place: england/sussex/drayton)
 (place: england/sussex/chichester)
 

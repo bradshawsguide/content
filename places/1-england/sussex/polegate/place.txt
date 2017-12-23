@@ -8,7 +8,7 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
-- haywards-heath-to-lewes-and-hastings
+- lewes-to-hailsham-eastbourne-and-hastings
 - polegate-to-hailsham
 - polegate-to-eastbourne
 ----

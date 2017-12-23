@@ -6,7 +6,7 @@ company:
 - bristol-and-exeter
 ----
 route:
-- yatton-to-clevedon
+- bristol-to-exeter
 ----
 info:
 - term: Population

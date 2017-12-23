@@ -6,7 +6,7 @@ company:
 - bristol-and-exeter
 ----
 route:
-- weston-junction-to-weston-super-mare
+- bristol-to-exeter
 ----
 info:
 - term: Population

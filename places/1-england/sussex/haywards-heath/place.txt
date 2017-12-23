@@ -9,7 +9,7 @@ company:
 ----
 route:
 - london-bridge-to-brighton
-- haywards-heath-to-lewes-and-hastings
+- haywards-heath-to-lewes-and-newhaven
 ----
 notes:
 - A telegraph station.

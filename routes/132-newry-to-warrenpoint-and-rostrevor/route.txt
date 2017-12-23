@@ -2,6 +2,8 @@ section: 2
 ----
 title: Newry to Warrenpoint and Rostrevor
 ----
+title_short: Newry to Rostrevor
+----
 company: newry-warrenpoint-and-rostrevor
 ----
 stops:

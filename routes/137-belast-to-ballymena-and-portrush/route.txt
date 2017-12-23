@@ -2,6 +2,8 @@ section: 2
 ----
 title: Belfast to Ballymena and Portrush
 ----
+title_short: Belfast to Portrush
+----
 company: belfast-and-northern-counties
 ----
 stops:

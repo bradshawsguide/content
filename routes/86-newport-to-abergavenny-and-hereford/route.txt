@@ -2,6 +2,8 @@ section: 2
 ----
 title: Newport to Abergavenny and Hereford
 ----
+title_short: Newport to Hereford
+----
 line: Newport, Abergavenny and Hereford Railway
 ----
 company: great-western

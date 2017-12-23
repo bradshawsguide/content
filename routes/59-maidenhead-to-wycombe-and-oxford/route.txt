@@ -2,6 +2,8 @@ section: 2
 ----
 title: Maidenhead to Wycombe and Oxford
 ----
+title_short: Maidenhead to Oxford
+----
 line: Wycombe and Thame Branch
 ----
 company: great-western

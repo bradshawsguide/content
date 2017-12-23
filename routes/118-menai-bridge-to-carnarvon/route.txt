@@ -2,6 +2,8 @@ section: 2
 ----
 title: Bangor to Carnarvon and Nantlle
 ----
+title_short: Bangor to Carnarvon
+----
 line: Bangor and Carnarvon Railway
 ----
 company: london-and-north-western

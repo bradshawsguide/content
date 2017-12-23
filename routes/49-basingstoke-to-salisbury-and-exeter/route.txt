@@ -2,6 +2,8 @@
 ----
 title: Basingstoke to Salisbury, Yeovil, and Exeter
 ----
+title_short: Basingstoke to Exeter
+----
 line: West of England Main Line
 ----
 company: london-and-south-western

@@ -2,6 +2,8 @@
 ----
 title: Stepney and Ilford to Tilbury and Southend
 ----
+title_short: Stepney to Southend
+----
 company: london-tilbury-and-southend
 ----
 stops:

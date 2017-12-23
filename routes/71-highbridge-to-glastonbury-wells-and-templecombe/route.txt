@@ -2,6 +2,8 @@ section: 2
 ----
 title: Highbridge to Glastonbury, Wells and Templecombe
 ----
+title_short: Highbridge to Templecombe
+----
 company: somerset-and-dorset
 ----
 stops:

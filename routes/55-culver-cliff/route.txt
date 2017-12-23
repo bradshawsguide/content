@@ -2,6 +2,8 @@
 ----
 title: Third Route: Culver Cliff, through the centre of the the Island
 ----
+title_short: Culver Cliff
+----
 company: isle-of-wight
 ----
 distances:

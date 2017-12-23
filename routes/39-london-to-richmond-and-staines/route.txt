@@ -2,6 +2,8 @@
 ----
 title: London to Richmond and Staines
 ----
+title: London to Staines
+----
 line: Windsor and Richmond Branch
 ----
 line_later: Waterloo to Reading Line

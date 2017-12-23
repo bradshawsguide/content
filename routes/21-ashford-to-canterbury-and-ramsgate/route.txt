@@ -2,6 +2,8 @@
 ----
 title: Ashford to Canterbury, Ramsgate, &c.
 ----
+title_short: Ashford to Margate
+----
 line: Ashford and Canterbury Branch
 ----
 company: south-eastern

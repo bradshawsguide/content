@@ -2,7 +2,7 @@ section: 2
 ----
 title: Exeter to Crediton, Barnstaple & Bideford
 ----
-title_short: Exeter to Barnstaple and Bideford
+title_short: Exeter to Bideford
 ----
 company: north-devon
 ----

@@ -2,6 +2,8 @@ section: 2
 ----
 title: Cardiff to Aberdare and Merthyr
 ----
+title: Cardiff to Merthyr
+----
 company: taff-vale
 ----
 stops:

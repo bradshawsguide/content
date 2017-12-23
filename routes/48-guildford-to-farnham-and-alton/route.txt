@@ -2,6 +2,8 @@
 ----
 title: Guildford to Farnham and Alton
 ----
+title_short: Guildford to Winchester
+----
 line: Alton Branch
 ----
 line_later: Alton Line

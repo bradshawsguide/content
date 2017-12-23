@@ -2,6 +2,8 @@ section: 2
 ----
 title: Drogheda to Dundalk and Newry
 ----
+title_short: Drogheda to Newry
+----
 company: dublin-and-belfast-junction
 ----
 stops:

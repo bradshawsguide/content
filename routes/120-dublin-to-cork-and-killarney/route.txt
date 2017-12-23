@@ -2,6 +2,8 @@ section: 2
 ----
 title: Dublin to Cork and Killarney
 ----
+title_short: Dublin to Cork
+----
 company: great-southern-and-western
 ----
 stops:

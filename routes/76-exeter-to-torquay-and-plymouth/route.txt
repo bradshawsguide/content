@@ -2,6 +2,8 @@ section: 2
 ----
 title: Exeter to Torquay and Plymouth
 ----
+title_short: Exeter to Plymouth
+----
 line: South Devon Railway
 ----
 company: south-devon

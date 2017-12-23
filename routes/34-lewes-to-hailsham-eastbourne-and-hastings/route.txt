@@ -2,6 +2,8 @@
 ----
 title: Lewes to Hailsham, Eastbourne and Hastings
 ----
+title: Lewes to Hastings
+----
 line: Hastings Branch
 ----
 line_later: East Coastway Line

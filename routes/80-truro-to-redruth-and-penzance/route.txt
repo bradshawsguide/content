@@ -2,6 +2,8 @@ section: 2
 ----
 title: Truro to Hayle, Penzance, &c.
 ----
+title_short: Truro to Penzance
+----
 line: West Cornwall Railway
 ----
 company: great-western

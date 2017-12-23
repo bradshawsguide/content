@@ -2,6 +2,8 @@ section: 2
 ----
 title: Chester to Birkenhead and Liverpool
 ----
+title: Chester to Birkenhead
+----
 line: Birkenhead Railway
 ----
 company:

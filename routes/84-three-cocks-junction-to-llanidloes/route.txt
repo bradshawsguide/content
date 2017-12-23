@@ -2,6 +2,8 @@ section: 2
 ----
 title: Three Cocks Junction to Llanidloes
 ----
+title_short: Three Cocks to Llanidloes
+----
 line: Mid-Wales Railway
 ----
 company: cambrian

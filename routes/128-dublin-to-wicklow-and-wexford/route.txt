@@ -2,6 +2,8 @@ section: 2
 ----
 title: Dublin to Wicklow, and Wexford
 ----
+title_short: Dublin to Wexford
+----
 company: dublin-wicklow-and-wexford
 ----
 stops:

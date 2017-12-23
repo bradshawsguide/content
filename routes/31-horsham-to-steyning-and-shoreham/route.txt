@@ -2,6 +2,8 @@
 ----
 title: Horsham to Steyning and Shoreham
 ----
+title: Horsham to Shoreham
+----
 line: Steyning Line
 ----
 company: london-brighton-and-south-coast

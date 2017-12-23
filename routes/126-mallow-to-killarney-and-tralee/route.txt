@@ -2,6 +2,8 @@ section: 2
 ----
 title: Mallow to Killarney and Tralee
 ----
+title_short: Mallow to Tralee
+----
 company: cork-bandon-and-south-coast
 ----
 stops:

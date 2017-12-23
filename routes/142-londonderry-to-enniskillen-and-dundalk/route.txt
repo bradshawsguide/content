@@ -2,6 +2,8 @@ section: 2
 ----
 title: Londonderry to Enniskillen & Dundalk
 ----
+title_short: Londonderry to Dundalk
+----
 company:
 - londonderry-and-enniskillen
 - dundalk-and-enniskillen

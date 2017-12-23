@@ -2,6 +2,8 @@ section: 2
 ----
 title: Dublin to Mullingar, Athlone, and Galway
 ----
+title: Dublin to Galway
+----
 company: midland-great-western
 ----
 stops:

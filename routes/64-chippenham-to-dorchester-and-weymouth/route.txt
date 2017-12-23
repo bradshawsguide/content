@@ -2,7 +2,7 @@ section: 2
 ----
 title: Chippenham to Frome, Yeovil, Dorchester, and Weymouth
 ----
-title_short: Chippenham to Dorchester, and Weymouth
+title_short: Chippenham to Weymouth
 ----
 line: Wilts, Somerset and Weymouth Railway
 ----

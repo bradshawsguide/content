@@ -2,6 +2,8 @@ section: 2
 ----
 title: Oswestry to Newtown and Llanidloes
 ----
+title: Oswestry to Llanidloes
+----
 company: cambrian
 ----
 stops:

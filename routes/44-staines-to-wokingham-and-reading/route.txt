@@ -2,6 +2,8 @@
 ----
 title: Staines to Wokingham and Reading
 ----
+title: Staines to Reading
+----
 company: staines-wokingham-and-reading
 ----
 stops:

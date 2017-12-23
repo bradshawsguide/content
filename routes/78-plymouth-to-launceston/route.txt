@@ -2,6 +2,8 @@ section: 2
 ----
 title: Plymouth to Tavistock and Launceston
 ----
+title_short: Plymouth to Launceston
+----
 company: south-devon-and-tavistock
 ----
 stops:

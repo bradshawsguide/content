@@ -2,6 +2,8 @@ section: 2
 ----
 title: Portadown to Dungannon and Omagh
 ----
+title_short: Portadown to Omagh
+----
 company: portadown-dungannon-and-omagh-junction
 ----
 stops:

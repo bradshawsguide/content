@@ -2,6 +2,8 @@ section: 2
 ----
 title: London to Reading, Bath and Bristol
 ----
+title_short: London to Bristol
+----
 line: Great Western Main Line
 ----
 company: great-western

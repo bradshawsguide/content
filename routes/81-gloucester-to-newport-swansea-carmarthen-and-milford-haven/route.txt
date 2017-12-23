@@ -2,6 +2,8 @@ section: 2
 ----
 title: Gloucester to Newport, Swansea, Carmarthen, and Milford Haven
 ----
+title_short: Gloucester to Milford Haven
+----
 line: South Wales Railway
 ----
 company: great-western

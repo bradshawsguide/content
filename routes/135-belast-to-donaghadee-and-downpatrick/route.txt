@@ -2,6 +2,8 @@ section: 2
 ----
 title: Belfast to Donaghadee and Downpatrick
 ----
+title_short: Belfast to Downpatrick
+----
 company: belfast-and-county-down
 ----
 stops:

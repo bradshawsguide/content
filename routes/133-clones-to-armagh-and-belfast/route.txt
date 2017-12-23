@@ -2,6 +2,8 @@ section: 2
 ----
 title: Clones to Armagh and Belfast
 ----
+title_short: Clones to Belfast
+----
 company: ulster
 ----
 stops:

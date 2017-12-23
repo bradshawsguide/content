@@ -2,6 +2,8 @@ section: 2
 ----
 title: Belfast to Holywood and Bangor
 ----
+title_short: Belfast to Bangor
+----
 company: belfast-and-county-down
 ----
 stops:

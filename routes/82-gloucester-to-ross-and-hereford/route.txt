@@ -2,6 +2,8 @@ section: 2
 ----
 title: Gloucester to Ross and Hereford
 ----
+title_short: Gloucester to Hereford
+----
 line: Hereford, Ross and Gloucester Railway
 ----
 company: great-western

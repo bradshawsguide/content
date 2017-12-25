@@ -4,7 +4,7 @@ title: Barnes to Hounslow and Feltham
 ----
 title_short: Barnes to Feltham
 ----
-line: Hounslow Loop Line
+subtitle: Hounslow Loop Line
 ----
 company: london-and-south-western
 ----

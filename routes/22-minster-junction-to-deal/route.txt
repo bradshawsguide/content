@@ -2,7 +2,7 @@
 ----
 title: Minster Junction to Deal
 ----
-line: Deal Branch
+subtitle: Deal Branch
 ----
 company: south-eastern
 ----

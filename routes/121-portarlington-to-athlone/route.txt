@@ -2,7 +2,7 @@ section: 2
 ----
 title: Portarlington to Athlone
 ----
-line: Athlone Branch
+subtitle: Athlone Branch
 ----
 company: great-southern-and-western
 ----

@@ -4,7 +4,7 @@ title: Charing Cross and London Bridge to Greenwich
 ----
 title_short: London to Greenwich
 ----
-line: London and Greenwich Railway
+subtitle: London and Greenwich Railway
 ----
 company: south-eastern
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Melksham to Devizes
 ----
-line: Devizes Branch
+subtitle: Devizes Branch
 ----
 company: great-western
 ----

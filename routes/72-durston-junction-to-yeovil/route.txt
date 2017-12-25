@@ -2,7 +2,7 @@ section: 2
 ----
 title: Durston to Yeovil
 ----
-line: Yeovil Branch
+subtitle: Yeovil Branch
 ----
 company: bristol-and-exeter
 ----

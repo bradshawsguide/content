@@ -2,9 +2,7 @@
 ----
 title: Croydon to Epsom
 ----
-line: Epsom Branch
-----
-line_later: Sutton and Mole Valley lines
+subtitle: Epsom Branch
 ----
 company: london-brighton-and-south-coast
 ----

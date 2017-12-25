@@ -2,7 +2,7 @@ section: 2
 ----
 title: Westbury to Salisbury
 ----
-line: Salisbury Branch
+subtitle: Salisbury Branch
 ----
 company: great-western
 ----

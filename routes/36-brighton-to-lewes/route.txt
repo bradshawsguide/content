@@ -2,9 +2,7 @@
 ----
 title: Brighton to Lewes
 ----
-line: Brighton and Lewes Branch
-----
-line_later: East Coastway Line
+subtitle: Brighton and Lewes Branch
 ----
 company: london-brighton-and-south-coast
 ----

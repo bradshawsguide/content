@@ -4,7 +4,7 @@ title: Charing Cross and London Bridge to Folkestone and Dover
 ----
 title_short: London to Folkestone and Dover
 ----
-line: South Eastern Main Line
+subtitle: South Eastern Main Line
 ----
 company: south-eastern
 ----

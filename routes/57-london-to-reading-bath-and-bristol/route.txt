@@ -4,7 +4,7 @@ title: London to Reading, Bath and Bristol
 ----
 title_short: London to Bristol
 ----
-line: Great Western Main Line
+subtitle: Great Western Main Line
 ----
 company: great-western
 ----

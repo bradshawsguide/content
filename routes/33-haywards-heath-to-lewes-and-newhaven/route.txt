@@ -4,7 +4,7 @@ title: Hayward's Heath to Lewes and Newhaven
 ----
 title_short: Hayward's Heath to Newhaven
 ----
-line: Newhaven Branch
+subtitle: Newhaven Branch
 ----
 company: london-brighton-and-south-coast
 ----

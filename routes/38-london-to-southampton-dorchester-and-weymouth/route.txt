@@ -4,7 +4,7 @@ title: London to Southampton, Dorchester and Weymouth
 ----
 title: London to Weymouth
 ----
-line: South Western Main Line
+subtitle: South Western Main Line
 ----
 company: london-and-south-western
 ----

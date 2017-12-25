@@ -4,7 +4,7 @@ title: Maidenhead to Wycombe and Oxford
 ----
 title_short: Maidenhead to Oxford
 ----
-line: Wycombe and Thame Branch
+subtitle: Wycombe and Thame Branch
 ----
 company: great-western
 ----

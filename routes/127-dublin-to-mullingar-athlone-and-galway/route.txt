@@ -28,7 +28,7 @@ stops:
 - galway
 ----
 links:
-- (wikipedia: Dublin–Westport/Galway_railway_line, text: Dublin to Westport/Galway line)
+- (wikipedia: Dublin–Westport/Galway_railway_line)
 ----
 text: Leaving Dublin, we pass [Blanchardstown](/stations/blanchardstown), and [Clonsilla](/stations/clonsilla), close to the latter ot which are *Clonsilla House*, the seat of R. French, Esq., and *Woodlands* (Col. T. White)
 

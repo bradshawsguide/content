@@ -4,7 +4,7 @@ title: Craven Arms to Knighton and Llandrindod
 ----
 title_short: Craven Arms to Llandrindod
 ----
-line: Knighton Railway, Central Wales Railway
+subtitle: Knighton Railway, Central Wales Railway
 ----
 company: london-and-north-western
 ----

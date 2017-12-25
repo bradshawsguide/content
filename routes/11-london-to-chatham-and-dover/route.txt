@@ -4,7 +4,7 @@ title: London and Beckenham to Chatham, Canterbury and Dover
 ----
 title_short: London to Chatham and Dover
 ----
-line: Chatham Main Line
+subtitle: Chatham Main Line
 ----
 company: london-chatham-and-dover
 ----

@@ -4,9 +4,7 @@ title: Three Bridges to Horsham, Petworth, and Arundel
 ----
 title_short: Three Bridges to Arundel
 ----
-line: Horsham Branch
-----
-line_later: Arun Valley Line
+subtitle: Horsham Branch
 ----
 company: london-brighton-and-south-coast
 ----

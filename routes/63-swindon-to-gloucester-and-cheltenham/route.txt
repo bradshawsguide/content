@@ -4,7 +4,7 @@ title: Swindon to Cirencester, Stroud, Gloucester, and Cheltenham
 ----
 title_short: Swindon to Cheltenham
 ----
-line: Cheltenham Branch
+subtitle: Cheltenham Branch
 ----
 company: great-western
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Swansea to Merthyr
 ----
-line: Vale of Neath Railway
+subtitle: Vale of Neath Railway
 ----
 company: great-western
 ----

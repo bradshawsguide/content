@@ -2,7 +2,7 @@
 ----
 title: Bishopstoke to Salisbury
 ----
-line: Salisbury Branch
+subtitle: Salisbury Branch
 ----
 company: london-and-south-western
 ----

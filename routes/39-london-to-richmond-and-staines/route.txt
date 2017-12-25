@@ -2,11 +2,9 @@
 ----
 title: London to Richmond and Staines
 ----
-title: London to Staines
+title_short: London to Staines
 ----
-line: Windsor and Richmond Branch
-----
-line_later: Waterloo to Reading Line
+subtitle: Windsor and Richmond Branch
 ----
 company: london-and-south-western
 ----

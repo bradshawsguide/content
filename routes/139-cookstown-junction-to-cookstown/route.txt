@@ -2,7 +2,7 @@ section: 2
 ----
 title: Cookstown Junction to Cookstown
 ----
-line: Cookstown Branch
+subtitle: Cookstown Branch
 ----
 company: belfast-and-northern-counties
 ----

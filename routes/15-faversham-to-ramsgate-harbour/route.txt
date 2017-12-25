@@ -2,7 +2,7 @@
 ----
 title: Faversham to Ramsgate
 ----
-line: Kent Coast Line
+subtitle: Kent Coast Line
 ----
 company: london-chatham-and-dover
 ----

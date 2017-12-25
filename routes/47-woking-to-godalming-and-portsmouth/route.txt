@@ -4,7 +4,7 @@ title: Woking to Godalming and Portsmouth
 ----
 title_short: Woking to Portsmouth
 ----
-line: London and Portsmouth Direct Line
+subtitle: London and Portsmouth Direct Line
 ----
 company: london-and-south-western
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Conway to Llanrwst
 ----
-line: Conway and Llanrwst Railway
+subtitle: Conway and Llanrwst Railway
 ----
 company: london-and-north-western
 ----

@@ -2,9 +2,7 @@
 ----
 title: Twickenham to Kingston
 ----
-line: Kingston Branch
-----
-line_later: Kingston Loop Line
+subtitle: Kingston Branch
 ----
 company: london-and-south-western
 ----

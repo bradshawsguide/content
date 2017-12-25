@@ -4,7 +4,7 @@ title: Wimbledon to Epsom and Leatherhead
 ----
 title_short: Wimbledon to Leatherhead
 ----
-line: Leatherhead Branch
+subtitle: Leatherhead Branch
 ----
 company: london-and-south-western
 ----

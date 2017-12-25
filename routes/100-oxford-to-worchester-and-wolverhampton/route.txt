@@ -4,7 +4,7 @@ title: Oxford to Worcester and Wolverhampton
 ----
 title_short: Oxford to Wolverhampton
 ----
-line: West Midland Section
+subtitle: West Midland Section
 ----
 company: great-western
 ----

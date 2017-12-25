@@ -4,7 +4,7 @@ title: Charing Cross and London Bridge to Woolwich, Gravesend, Strood and Roches
 ----
 title_short: London to Rochester
 ----
-line: North Kent Line
+subtitle: North Kent Line
 ----
 company: south-eastern
 ----

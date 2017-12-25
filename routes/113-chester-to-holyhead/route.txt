@@ -2,7 +2,7 @@ section: 2
 ----
 title: Chester to Holyhead
 ----
-line: Chester and Holyhead Railway
+subtitle: Chester and Holyhead Railway
 ----
 company: london-and-north-western
 ----

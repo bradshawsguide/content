@@ -4,7 +4,7 @@ title: Chester to Birkenhead and Liverpool
 ----
 title: Chester to Birkenhead
 ----
-line: Birkenhead Railway
+subtitle: Birkenhead Railway
 ----
 company:
 - great-western

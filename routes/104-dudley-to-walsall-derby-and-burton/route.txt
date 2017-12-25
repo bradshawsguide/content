@@ -4,7 +4,7 @@ title: Dudley to Walsall, Derby, and Burton
 ----
 title_short: Dudley to Burton
 ----
-line: South Staffordshire Railway
+subtitle: South Staffordshire Railway
 ----
 company: london-and-north-western
 ----

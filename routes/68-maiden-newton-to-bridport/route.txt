@@ -2,7 +2,7 @@ section: 2
 ----
 title: Maiden Newton to Bridport
 ----
-line: Maiden Newton and Bridport Branch
+subtitle: Maiden Newton and Bridport Branch
 ----
 company: great-western
 ----

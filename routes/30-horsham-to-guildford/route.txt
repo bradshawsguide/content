@@ -2,9 +2,7 @@
 ----
 title: Horsham to Guildford
 ----
-line: Cranley Line
-----
-line_later: Cranleigh Line
+subtitle: Cranley Line
 ----
 company: london-brighton-and-south-coast
 ----

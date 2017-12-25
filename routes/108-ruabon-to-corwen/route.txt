@@ -2,7 +2,7 @@ section: 2
 ----
 title: Ruabon to Llangollen
 ----
-line: Vale of Llangollen Railway
+subtitle: Vale of Llangollen Railway
 ----
 company: great-western
 ----

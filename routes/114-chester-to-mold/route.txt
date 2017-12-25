@@ -2,7 +2,7 @@ section: 2
 ----
 title: Chester to Mold
 ----
-line: Mold Railway
+subtitle: Mold Railway
 ----
 company: london-and-north-western
 ----

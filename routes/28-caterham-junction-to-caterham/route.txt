@@ -2,7 +2,7 @@
 ----
 title: Caterham Junction to Caterham
 ----
-line: Caterham Branch
+subtitle: Caterham Branch
 ----
 company: south-eastern
 ----

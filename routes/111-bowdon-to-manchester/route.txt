@@ -2,7 +2,7 @@ section: 2
 ----
 title: Bowdon to Altrincham
 ----
-line: Manchester, South Junction and Altrincham Railway
+subtitle: Manchester, South Junction and Altrincham Railway
 ----
 company: london-and-north-western
 ----

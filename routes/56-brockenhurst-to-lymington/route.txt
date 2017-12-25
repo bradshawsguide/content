@@ -2,7 +2,7 @@
 ----
 title: Brockenhurst to Lymington
 ----
-line: Lymington Branch
+subtitle: Lymington Branch
 ----
 company: london-and-south-western
 ----

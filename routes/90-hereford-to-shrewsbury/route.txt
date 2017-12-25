@@ -2,7 +2,7 @@ section: 2
 ----
 title: Hereford to Shrewsbury
 ----
-line: Shrewsbury and Hereford Railway
+subtitle: Shrewsbury and Hereford Railway
 ----
 company:
 - great-western

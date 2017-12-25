@@ -2,7 +2,7 @@ section: 2
 ----
 title: Taunton to Watchet
 ----
-line: West Somerset Railway
+subtitle: West Somerset Railway
 ----
 company: bristol-and-exeter
 ----

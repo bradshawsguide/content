@@ -2,7 +2,7 @@ section: 2
 ----
 title: Howth Junction to Howth
 ----
-line: Howth Branch
+subtitle: Howth Branch
 ----
 company: dublin-and-drogheda
 ----

@@ -4,7 +4,7 @@ title: Carrickfergus Junction to Larne
 ----
 title_short: Carrickfergus to Larne
 ----
-line: Carrickfergus Branch
+subtitle: Carrickfergus Branch
 ----
 company: belfast-and-northern-counties
 ----

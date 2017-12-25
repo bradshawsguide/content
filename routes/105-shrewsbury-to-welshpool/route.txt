@@ -2,7 +2,7 @@ section: 2
 ----
 title: Shrewsbury to Welshpool
 ----
-line: Shrewsbury and Welshpool Railway
+subtitle: Shrewsbury and Welshpool Railway
 ----
 company: london-and-north-western
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Leominster to Kington
 ----
-line: Kington and Leominster Branch
+subtitle: Kington and Leominster Branch
 ----
 company: great-western
 ----

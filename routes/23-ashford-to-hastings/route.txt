@@ -2,9 +2,7 @@
 ----
 title: Ashford to Hastings
 ----
-line: Hastings Branch
-----
-line_later: Marshlink Line
+subtitle: Hastings Branch
 ----
 company: south-eastern
 ----

@@ -2,7 +2,7 @@ section: 2
 ----
 title: Conway to Llandudno
 ----
-line: St. George's Harbour
+subtitle: St. George's Harbour
 ----
 company: london-and-north-western
 ----

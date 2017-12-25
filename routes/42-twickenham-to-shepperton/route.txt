@@ -2,9 +2,7 @@
 ----
 title: Twickenham to Shepperton
 ----
-line: Thames Valley Railway
-----
-line_later: Shepperton Branch
+subtitle: Thames Valley Railway
 ----
 company: london-and-south-western
 ----

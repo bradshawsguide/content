@@ -2,7 +2,7 @@ section: 2
 ----
 title: Reading to Basingstoke
 ----
-line: Basingstoke Branch
+subtitle: Basingstoke Branch
 ----
 company: great-western
 ----

@@ -2,11 +2,9 @@
 ----
 title: Lewes to Hailsham, Eastbourne and Hastings
 ----
-title: Lewes to Hastings
+title_short: Lewes to Hastings
 ----
-line: Hastings Branch
-----
-line_later: East Coastway Line
+subtitle: Hastings Branch
 ----
 company: london-brighton-and-south-coast
 ----
@@ -23,7 +21,7 @@ stops:
 ----
 links:
 - (wikipedia: East_Coastway_line)
-- (wikipedia: Cuckoo_Line, text: Cuckoo Line)
+- (wikipedia: Cuckoo_Line)
 ----
 text: The line from Lewes turns eastward, round the foot of Mount Caburn, and after passing through a valley in the South Downs, reaches the station at [Glynde](/stations/glynde). The line then passes the villages of Selmeston and Alceston to the station at
 

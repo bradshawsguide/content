@@ -2,7 +2,7 @@ section: 2
 ----
 title: Worcester to Hereford
 ----
-line: Worcester and Hereford Railway
+subtitle: Worcester and Hereford Railway
 ----
 company: great-western
 ----

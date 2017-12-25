@@ -3,4 +3,4 @@ section: 2
 title: Londonderry and Coleraine Railway
 ----
 links:
-- (wikipedia: Northern_Counties_Committee, text: Northern Counties Committee)
+- (wikipedia: Northern_Counties_Committee)

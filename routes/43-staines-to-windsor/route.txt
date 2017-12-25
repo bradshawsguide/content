@@ -2,7 +2,7 @@
 ----
 title: Staines to Windsor
 ----
-line: Staines to Windsor Line
+subtitle: Staines to Windsor Line
 ----
 company: london-and-south-western
 ----

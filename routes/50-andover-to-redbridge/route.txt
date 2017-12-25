@@ -2,7 +2,7 @@
 ----
 title: Andover to Redbridge
 ----
-line: Sprat and Winkle Line
+subtitle: Sprat and Winkle Line
 ----
 company: london-and-south-western
 ----

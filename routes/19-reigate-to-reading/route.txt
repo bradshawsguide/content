@@ -2,9 +2,7 @@
 ----
 title: Reigate to Reading
 ----
-line: Reading, Guildford and Reigate Railway
-----
-line_later: North Downs Line
+subtitle: Reading, Guildford and Reigate Railway
 ----
 company: south-eastern
 ----

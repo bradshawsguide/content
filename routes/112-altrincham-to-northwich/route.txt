@@ -2,7 +2,7 @@ section: 2
 ----
 title: Altrincham to Northwich
 ----
-line: Cheshire Midland Railway
+subtitle: Cheshire Midland Railway
 ----
 company: cheshire-lines-committee
 ----

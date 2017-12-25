@@ -4,7 +4,7 @@ title: Didcot to Oxford, Birmingham, Wolverhampton, Shrewsbury, Chester, Birkenh
 ----
 title_short: Didcot to Manchester
 ----
-line: Great Western Main Line
+subtitle: Great Western Main Line
 ----
 company: great-western
 ----

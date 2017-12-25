@@ -2,7 +2,7 @@
 ----
 title: Sittingbourne to Sheerness
 ----
-line: Sheerness Line
+subtitle: Sheerness Line
 ----
 company: sittingbourne-and-sheerness
 ----

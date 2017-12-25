@@ -4,7 +4,7 @@ title: Bishopstoke to Gosport & Portsmouth
 ----
 title_short: Bishopstoke to Portsmouth
 ----
-line: Gosport and Portsmouth Branches
+subtitle: Gosport and Portsmouth Branches
 ----
 company: london-and-south-western
 ----

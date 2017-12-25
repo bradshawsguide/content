@@ -2,7 +2,7 @@ section: 2
 ----
 title: Exeter to Exmouth
 ----
-line: Avocet Line
+subtitle: Avocet Line
 ----
 company: london-and-south-western
 ----

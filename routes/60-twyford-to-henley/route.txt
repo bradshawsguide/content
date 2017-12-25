@@ -2,7 +2,7 @@ section: 2
 ----
 title: Twyford to Henley
 ----
-line: Henley Branch
+subtitle: Henley Branch
 ----
 company: great-western
 ----

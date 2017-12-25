@@ -2,9 +2,7 @@
 ----
 title: Paddock Wood to Maidstone
 ----
-line: Maidstone Branch
-----
-line_later: Medway Valley Line
+subtitle: Maidstone Branch
 ----
 company: south-eastern
 ----

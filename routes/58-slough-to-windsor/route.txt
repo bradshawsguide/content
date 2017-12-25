@@ -2,7 +2,7 @@
 ----
 title: Slough to Windsor
 ----
-line: Windsor Branch
+subtitle: Windsor Branch
 ----
 company: great-western
 ----

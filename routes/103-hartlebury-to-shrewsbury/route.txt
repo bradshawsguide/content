@@ -2,7 +2,7 @@ section: 2
 ----
 title: Hartlebury to Shrewsbury
 ----
-line: Severn Valley Railway
+subtitle: Severn Valley Railway
 ----
 company: great-western
 ----

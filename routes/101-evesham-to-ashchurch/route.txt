@@ -2,7 +2,7 @@ section: 2
 ----
 title: Evesham to Ashchurch
 ----
-line: Gloucester Loop Line
+subtitle: Gloucester Loop Line
 ----
 company: midland
 ----

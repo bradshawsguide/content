@@ -2,9 +2,7 @@
 ----
 title: Croydon to Wimbledon
 ----
-line: Croydon and Wimbledon Branch
-----
-line_later: West Croydon to Wimbledon Line
+subtitle: Croydon and Wimbledon Branch
 ----
 company: london-brighton-and-south-coast
 ----

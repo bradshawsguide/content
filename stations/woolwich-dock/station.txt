@@ -2,7 +2,7 @@ uid: woolwich-dock
 ----
 title: Woolwich Dock
 ----
-title-today: Woolwich Dockyard
+subtitle: Woolwich Dockyard
 ----
 country: england
 ----

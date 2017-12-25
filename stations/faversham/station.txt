@@ -2,7 +2,7 @@ uid: faversham
 ----
 title: Faversham
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: wimbledon
 ----
 title: Wimbledon
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

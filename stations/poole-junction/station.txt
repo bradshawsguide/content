@@ -2,7 +2,7 @@ uid: poole-junction
 ----
 title: Poole Junction
 ----
-title-today: Hamworthy
+subtitle: Hamworthy
 ----
 country: england
 ----

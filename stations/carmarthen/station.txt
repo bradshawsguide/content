@@ -2,7 +2,7 @@ uid: carmarthen
 ----
 title: Carmarthen
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

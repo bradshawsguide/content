@@ -2,7 +2,7 @@ uid: port-talbot
 ----
 title: Port Talbot
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

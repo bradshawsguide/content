@@ -2,7 +2,7 @@ uid: daisy-bank
 ----
 title: Daisy Bank
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

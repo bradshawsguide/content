@@ -2,7 +2,7 @@ uid: penmaen-pool
 ----
 title: Penmaen Pool
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: freshford
 ----
 title: Freshford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

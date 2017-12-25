@@ -2,7 +2,7 @@ uid: holyhead
 ----
 title: Holyhead
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

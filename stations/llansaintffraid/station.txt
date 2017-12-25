@@ -2,7 +2,7 @@ uid: llansaintffraid
 ----
 title: Llansaintffraid
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

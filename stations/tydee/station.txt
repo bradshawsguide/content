@@ -2,7 +2,7 @@ uid: tydee
 ----
 title: Tydee
 ----
-title-today: Rogerstone
+subtitle: Rogerstone
 ----
 country: england
 ----

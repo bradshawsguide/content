@@ -2,7 +2,7 @@ uid: shinnagh
 ----
 title: Shinnagh
 ----
-title-today: Rathmore
+subtitle: Rathmore
 ----
 country: ireland
 ----

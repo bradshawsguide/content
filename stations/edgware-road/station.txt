@@ -2,7 +2,7 @@ uid: edgware-road
 ----
 title: Edgware Road
 ----
-title-today: Brondesbury
+subtitle: Brondesbury
 ----
 country: england
 ----

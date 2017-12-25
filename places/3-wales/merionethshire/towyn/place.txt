@@ -2,7 +2,7 @@ section: 2
 ----
 title: Towyn
 ----
-title_later: Tywyn
+subtitle: Tywyn
 ----
 company:
 - aberystwith-and-welsh-coast

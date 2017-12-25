@@ -2,7 +2,7 @@ uid: bishops-waltham
 ----
 title: Bishop's Waltham
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

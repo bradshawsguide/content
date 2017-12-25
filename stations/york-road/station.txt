@@ -2,7 +2,7 @@ uid: york-road
 ----
 title: York Road
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

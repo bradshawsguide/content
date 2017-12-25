@@ -2,7 +2,7 @@ uid: ashchurch
 ----
 title: Ashchurch
 ----
-title-today: Ashchurch for Tewkesbury
+subtitle: Ashchurch for Tewkesbury
 ----
 country: england
 ----

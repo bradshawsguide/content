@@ -2,7 +2,7 @@ uid: poyntzpass
 ----
 title: Poyntzpass
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

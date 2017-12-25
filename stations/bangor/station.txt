@@ -2,7 +2,7 @@ uid: bangor
 ----
 title: Bangor
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

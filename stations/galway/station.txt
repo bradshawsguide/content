@@ -2,7 +2,7 @@ uid: galway
 ----
 title: Galway
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

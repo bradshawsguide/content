@@ -2,7 +2,7 @@ uid: talgarth
 ----
 title: Talgarth
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

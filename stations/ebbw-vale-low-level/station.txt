@@ -2,7 +2,7 @@ uid: ebbw-vale-low-level
 ----
 title: Ebbw Vale Low Level
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

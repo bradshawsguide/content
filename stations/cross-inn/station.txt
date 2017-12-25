@@ -2,7 +2,7 @@ uid: cross-inn
 ----
 title: Cross Inn
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

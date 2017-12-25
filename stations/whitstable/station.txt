@@ -2,7 +2,7 @@ uid: whitstable
 ----
 title: Whitstable
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

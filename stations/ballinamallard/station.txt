@@ -2,7 +2,7 @@ uid: ballinamallard
 ----
 title: Ballinamallard
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

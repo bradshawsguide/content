@@ -2,7 +2,7 @@ uid: minsterley
 ----
 title: Minsterley
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

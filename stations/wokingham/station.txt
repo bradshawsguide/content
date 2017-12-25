@@ -2,7 +2,7 @@ uid: wokingham
 ----
 title: Wokingham
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

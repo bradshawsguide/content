@@ -2,7 +2,7 @@ uid: elephant-and-castle
 ----
 title: Elephant and Castle
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: tralee
 ----
 title: Tralee
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

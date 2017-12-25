@@ -2,7 +2,7 @@ uid: sion-mills
 ----
 title: Sion Mills
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

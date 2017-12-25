@@ -2,7 +2,7 @@ uid: portrush
 ----
 title: Portrush
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

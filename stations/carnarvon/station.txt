@@ -2,7 +2,7 @@ uid: carnarvon
 ----
 title: Carnarvon
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

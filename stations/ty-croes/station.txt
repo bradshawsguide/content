@@ -2,7 +2,7 @@ uid: ty-croes
 ----
 title: Tŷ Croes
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

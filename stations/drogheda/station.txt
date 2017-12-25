@@ -2,7 +2,7 @@ uid: drogheda
 ----
 title: Drogheda
 ----
-title-today: Drogheda MacBride
+subtitle: Drogheda MacBride
 ----
 country: ireland
 ----

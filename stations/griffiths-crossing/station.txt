@@ -2,7 +2,7 @@ uid: griffiths-crossing
 ----
 title: Griffith's Crossing
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

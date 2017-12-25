@@ -2,7 +2,7 @@ uid: duffryn
 ----
 title: Duffryn
 ----
-title-today: Ammanford
+subtitle: Ammanford
 ----
 country: wales
 ----

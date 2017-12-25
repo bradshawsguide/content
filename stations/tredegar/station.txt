@@ -2,7 +2,7 @@ uid: tredegar
 ----
 title: Tredegar
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

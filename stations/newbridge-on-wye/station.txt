@@ -2,7 +2,7 @@ uid: newbridge-on-wye
 ----
 title: Newbridge-on-Wye
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

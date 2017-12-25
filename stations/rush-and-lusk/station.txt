@@ -2,7 +2,7 @@ uid: rush-and-lusk
 ----
 title: Rush and Lusk
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

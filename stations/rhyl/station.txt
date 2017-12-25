@@ -2,7 +2,7 @@ uid: rhyl
 ----
 title: Rhyl
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: bellarena
 ----
 title: Bellarena
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

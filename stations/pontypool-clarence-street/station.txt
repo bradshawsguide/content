@@ -2,7 +2,7 @@ uid: pontypool-clarence-street
 ----
 title: Pontypool Clarence Street
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

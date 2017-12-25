@@ -2,7 +2,7 @@ section: 2
 ----
 title: Hay
 ----
-title_later: Hay-on-Wye
+subtitle: Hay-on-Wye
 ----
 company:
 - hereford-hay-and-brecon

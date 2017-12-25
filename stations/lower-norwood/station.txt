@@ -2,7 +2,7 @@ uid: lower-norwood
 ----
 title: Lower Norwood
 ----
-title-today: West Norwood
+subtitle: West Norwood
 ----
 country: england
 ----

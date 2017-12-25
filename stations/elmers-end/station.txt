@@ -2,7 +2,7 @@ uid: elmers-end
 ----
 title: Elmer's End
 ----
-title-today: Elmers End
+subtitle: Elmers End
 ----
 country: england
 ----

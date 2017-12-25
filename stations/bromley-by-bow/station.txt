@@ -2,7 +2,7 @@ uid: bromley-by-bow
 ----
 title: Bromley-by-Bow
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

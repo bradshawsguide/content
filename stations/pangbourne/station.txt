@@ -2,7 +2,7 @@ uid: pangbourne
 ----
 title: Pangbourne
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

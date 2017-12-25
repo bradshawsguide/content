@@ -2,7 +2,7 @@ uid: dromore-road
 ----
 title: Dromore Road
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

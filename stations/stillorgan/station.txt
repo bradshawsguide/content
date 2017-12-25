@@ -2,7 +2,7 @@ uid: stillorgan
 ----
 title: Stillorgan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

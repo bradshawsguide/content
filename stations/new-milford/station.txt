@@ -2,7 +2,7 @@ uid: new-milford
 ----
 title: New Milford
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

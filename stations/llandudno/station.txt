@@ -2,7 +2,7 @@ uid: llandudno
 ----
 title: Llandudno
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

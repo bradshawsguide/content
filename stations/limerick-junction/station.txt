@@ -2,7 +2,7 @@ uid: limerick-junction
 ----
 title: Limerick Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

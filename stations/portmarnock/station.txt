@@ -2,7 +2,7 @@ uid: portmarnock
 ----
 title: Portmarnock
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: merthyr
 ----
 title: Merthyr Tydvil
 ----
-title-today: Merthyr Tydfil
+subtitle: Merthyr Tydfil
 ----
 country: wales
 ----

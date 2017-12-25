@@ -2,7 +2,7 @@ uid: howth
 ----
 title: Howth
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

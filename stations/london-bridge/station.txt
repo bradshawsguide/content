@@ -2,7 +2,7 @@ uid: london-bridge
 ----
 title: London Bridge
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

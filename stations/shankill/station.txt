@@ -2,7 +2,7 @@ uid: shankill
 ----
 title: Shankill
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

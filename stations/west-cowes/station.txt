@@ -2,7 +2,7 @@ uid: west-cowes
 ----
 title: West Cowes
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

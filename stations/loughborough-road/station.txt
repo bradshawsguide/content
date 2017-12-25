@@ -2,7 +2,7 @@ uid: loughborough-road
 ----
 title: Loughborough Road
 ----
-title-today: Loughborough Junction
+subtitle: Loughborough Junction
 ----
 country: england
 ----

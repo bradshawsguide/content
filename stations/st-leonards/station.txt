@@ -2,7 +2,7 @@ uid: st-leonards
 ----
 title: St. Leonards
 ----
-title-today: St. Leonards Warrior Square
+subtitle: St. Leonards Warrior Square
 ----
 country: england
 ----

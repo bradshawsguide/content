@@ -2,7 +2,7 @@ uid: penybont
 ----
 title: Penybont
 ----
-title-today: Pen-y-Bont
+subtitle: Pen-y-Bont
 ----
 country: wales
 ----

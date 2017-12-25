@@ -2,7 +2,7 @@ uid: bilston-central
 ----
 title: Bilston Central
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

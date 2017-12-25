@@ -2,7 +2,7 @@ uid: wallingford
 ----
 title: Wallingford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

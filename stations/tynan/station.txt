@@ -2,7 +2,7 @@ uid: tynan
 ----
 title: Tynan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

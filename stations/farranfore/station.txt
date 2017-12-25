@@ -2,7 +2,7 @@ uid: farranfore
 ----
 title: Farranfore
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

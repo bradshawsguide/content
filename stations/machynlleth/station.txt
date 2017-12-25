@@ -2,7 +2,7 @@ uid: machynlleth
 ----
 title: Machynlleth
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

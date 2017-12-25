@@ -2,7 +2,7 @@ uid: hobbs-point
 ----
 title: Hobbs Point
 ----
-title-today: Pembroke Dock
+subtitle: Pembroke Dock
 ----
 country: wales
 ----

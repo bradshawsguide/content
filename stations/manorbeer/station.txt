@@ -2,7 +2,7 @@ uid: manorbeer
 ----
 title: Manorbeer
 ----
-title-today: Manorbier
+subtitle: Manorbier
 ----
 country: wales
 ----

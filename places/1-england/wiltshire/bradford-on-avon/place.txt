@@ -2,7 +2,7 @@ section: 2
 ----
 title: Bradford
 ----
-title_later: Bradford-on-Avon
+subtitle: Bradford-on-Avon
 ----
 company:
 - great-western

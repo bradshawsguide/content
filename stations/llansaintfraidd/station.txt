@@ -2,7 +2,7 @@ uid: llansaintfraidd
 ----
 title: Llansaintffraid
 ----
-title-today: Glan Conwy
+subtitle: Glan Conwy
 ----
 country: wales
 ----

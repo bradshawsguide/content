@@ -2,8 +2,6 @@ section: 2
 ----
 title: Exeter
 ----
-title_later: Exeter St Davids
-----
 region: devonshire
 ----
 location: 50.729538, -3.543649

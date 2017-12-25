@@ -2,7 +2,7 @@ uid: colwall
 ----
 title: Colwall
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

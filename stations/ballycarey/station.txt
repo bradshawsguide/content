@@ -2,7 +2,7 @@ uid: ballycarey
 ----
 title: Ballycarey
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

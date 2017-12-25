@@ -2,7 +2,7 @@ uid: bridport
 ----
 title: Bridport
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

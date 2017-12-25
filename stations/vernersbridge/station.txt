@@ -2,7 +2,7 @@ uid: vernersbridge
 ----
 title: Vernersbridge
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

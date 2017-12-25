@@ -2,7 +2,7 @@ uid: pontnewynydd
 ----
 title: Pontnewynydd
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

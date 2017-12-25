@@ -2,7 +2,7 @@ uid: swindon-junction
 ----
 title: Swindow Junction
 ----
-title-today: Swindon
+subtitle: Swindon
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: arklow
 ----
 title: Arklow
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

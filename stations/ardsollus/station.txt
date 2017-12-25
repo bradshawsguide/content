@@ -2,7 +2,7 @@ uid: ardsollus
 ----
 title: Ardsollus
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

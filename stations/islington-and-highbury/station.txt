@@ -2,7 +2,7 @@ uid: islington-and-highbury
 ----
 title: Islington and Highbury
 ----
-title-today: Highbury & Islington
+subtitle: Highbury & Islington
 ----
 country: england
 ----

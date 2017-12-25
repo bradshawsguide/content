@@ -2,7 +2,7 @@ uid: rednal
 ----
 title: Rednal
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

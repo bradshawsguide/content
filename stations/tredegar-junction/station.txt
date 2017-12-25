@@ -2,7 +2,7 @@ uid: tredegar-junction
 ----
 title: Tredegar Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: bexhill
 ----
 title: Bexhill
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

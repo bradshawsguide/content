@@ -2,7 +2,7 @@ uid: exeter-st-davids
 ----
 title: Exeter St. Davids
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

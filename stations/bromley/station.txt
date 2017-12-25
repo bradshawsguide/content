@@ -2,7 +2,7 @@ uid: bromley
 ----
 title: Bromley
 ----
-title-today: Bromley South
+subtitle: Bromley South
 ----
 country: england
 ----

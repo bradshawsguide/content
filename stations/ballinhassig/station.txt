@@ -2,7 +2,7 @@ uid: ballinhassig
 ----
 title: Ballinhassig
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

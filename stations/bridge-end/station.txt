@@ -2,7 +2,7 @@ uid: bridge-end
 ----
 title: Bridge End
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

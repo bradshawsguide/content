@@ -2,7 +2,7 @@ uid: box
 ----
 title: Box
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

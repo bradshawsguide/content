@@ -2,7 +2,7 @@ uid: wadhurst
 ----
 title: Wadhurst
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: magheramorne
 ----
 title: Magheramorne
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

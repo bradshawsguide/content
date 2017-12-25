@@ -2,7 +2,7 @@ uid: aberdylais
 ----
 title: Aberdylais
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

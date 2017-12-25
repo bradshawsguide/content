@@ -2,7 +2,7 @@ uid: didcot
 ----
 title: Didcot
 ----
-title-today: Didcot Parkway
+subtitle: Didcot Parkway
 ----
 country: england
 ----

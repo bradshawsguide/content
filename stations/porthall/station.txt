@@ -2,7 +2,7 @@ uid: porthall
 ----
 title: Porthall
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

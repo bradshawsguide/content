@@ -2,7 +2,7 @@ uid: st-johnston
 ----
 title: St. Johnston
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

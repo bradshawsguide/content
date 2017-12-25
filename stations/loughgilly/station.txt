@@ -2,7 +2,7 @@ uid: loughgilly
 ----
 title: Loughgilly
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

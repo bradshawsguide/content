@@ -2,7 +2,7 @@ uid: llangollen
 ----
 title: Llangollen
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

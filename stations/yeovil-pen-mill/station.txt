@@ -2,7 +2,7 @@ uid: yeovil-pen-mill
 ----
 title: Yeovil Pen Mill
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

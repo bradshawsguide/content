@@ -2,7 +2,7 @@ uid: kanturk
 ----
 title: Kanturk
 ----
-title-today: Banteer
+subtitle: Banteer
 ----
 country: ireland
 ----

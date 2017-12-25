@@ -2,7 +2,7 @@ uid: newtownards
 ----
 title: Newtownards
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

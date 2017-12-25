@@ -2,7 +2,7 @@ uid: aldershott-north-camp
 ----
 title: Aldershott (North Camp)
 ----
-title-today: Ash Vale
+subtitle: Ash Vale
 ----
 country: england
 ----

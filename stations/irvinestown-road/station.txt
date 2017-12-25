@@ -2,7 +2,7 @@ uid: irvinestown-road
 ----
 title: Irvinestown Road
 ----
-title-today: Bundoran Junction
+subtitle: Bundoran Junction
 ----
 country: ireland
 ----

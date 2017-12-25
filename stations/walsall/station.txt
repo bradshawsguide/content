@@ -2,7 +2,7 @@ uid: walsall
 ----
 title: Walsall
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

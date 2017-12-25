@@ -2,7 +2,7 @@ uid: killucan
 ----
 title: Killucan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

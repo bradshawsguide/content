@@ -2,7 +2,7 @@ section: 2
 ----
 title: Llanelly
 ----
-title_later: Llanelli
+subtitle: Llanelli
 ----
 company:
 - great-western

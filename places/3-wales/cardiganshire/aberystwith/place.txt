@@ -2,7 +2,7 @@ section: 2
 ----
 title: Aberystwith
 ----
-title_later: Aberystwyth
+subtitle: Aberystwyth
 ----
 company:
 - aberystwith-and-welsh-coast

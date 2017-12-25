@@ -2,7 +2,7 @@ uid: kilcoole
 ----
 title: Kilcoole
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

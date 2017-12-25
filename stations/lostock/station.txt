@@ -2,7 +2,7 @@ uid: lostock
 ----
 title: Lostock
 ----
-title-today: Lostock Gralam
+subtitle: Lostock Gralam
 ----
 country: england
 ----

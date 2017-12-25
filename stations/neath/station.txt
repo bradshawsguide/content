@@ -2,7 +2,7 @@ uid: neath
 ----
 title: Neath
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

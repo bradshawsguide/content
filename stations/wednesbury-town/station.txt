@@ -2,7 +2,7 @@ uid: wednesbury-town
 ----
 title: Wednesbury Town
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

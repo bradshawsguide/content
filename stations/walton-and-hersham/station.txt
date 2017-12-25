@@ -2,7 +2,7 @@ uid: walton-and-hersham
 ----
 title: Walton and Hersham
 ----
-title-today: Walton-on-Thames
+subtitle: Walton-on-Thames
 ----
 country: england
 ----

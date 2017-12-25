@@ -2,7 +2,7 @@ uid: holland-arms-llangefni
 ----
 title: Holland Arms Llangefni
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

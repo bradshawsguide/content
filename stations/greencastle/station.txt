@@ -2,7 +2,7 @@ uid: greencastle
 ----
 title: Greencastle
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

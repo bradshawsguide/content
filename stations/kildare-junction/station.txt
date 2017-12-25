@@ -2,7 +2,7 @@ uid: kildare-junction
 ----
 title: Kildare Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

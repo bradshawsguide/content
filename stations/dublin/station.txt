@@ -2,7 +2,7 @@ uid: dublin
 ----
 title: Dublin
 ----
-title-today: Dublin Connolly
+subtitle: Dublin Connolly
 ----
 country: ireland
 ----

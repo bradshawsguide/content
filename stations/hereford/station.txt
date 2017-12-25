@@ -2,7 +2,7 @@ uid: hereford
 ----
 title: Hereford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

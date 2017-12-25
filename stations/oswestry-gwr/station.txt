@@ -2,7 +2,7 @@ uid: oswestry-gwr
 ----
 title: Oswestry (GWR)
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

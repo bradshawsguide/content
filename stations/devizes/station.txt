@@ -2,7 +2,7 @@ uid: devizes
 ----
 title: Devizes
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

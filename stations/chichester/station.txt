@@ -2,7 +2,7 @@ uid: chichester
 ----
 title: Chichester
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

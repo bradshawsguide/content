@@ -2,7 +2,7 @@ uid: barmouth-ferry
 ----
 title: Barmouth Ferry
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

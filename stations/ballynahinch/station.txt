@@ -2,7 +2,7 @@ uid: ballynahinch
 ----
 title: Ballynahinch
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

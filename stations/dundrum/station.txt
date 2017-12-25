@@ -2,7 +2,7 @@ uid: dundrum
 ----
 title: Dundrum
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

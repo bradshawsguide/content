@@ -2,7 +2,7 @@ uid: maiden-newton
 ----
 title: Maiden Newton
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

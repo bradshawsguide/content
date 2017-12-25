@@ -2,7 +2,7 @@ uid: canterbury-east
 ----
 title: Canterbury East
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

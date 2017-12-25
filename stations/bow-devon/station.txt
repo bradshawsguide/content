@@ -2,7 +2,7 @@ uid: bow-devon
 ----
 title: Bow (Devon)
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

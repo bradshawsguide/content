@@ -2,7 +2,7 @@ uid: red-hill-junction
 ----
 title: Red Hill Junction
 ----
-title-today: Redhill
+subtitle: Redhill
 ----
 country: england
 ----

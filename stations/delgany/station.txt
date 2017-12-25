@@ -2,7 +2,7 @@ uid: delgany
 ----
 title: Delgany
 ----
-title-today: Greystones
+subtitle: Greystones
 ----
 country: ireland
 ----

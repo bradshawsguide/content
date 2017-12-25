@@ -2,7 +2,7 @@ uid: tinahely
 ----
 title: Tinahely
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

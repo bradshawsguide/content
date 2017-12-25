@@ -2,7 +2,7 @@ uid: streamstown
 ----
 title: Streamstown
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

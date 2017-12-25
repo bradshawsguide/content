@@ -2,7 +2,7 @@ uid: inniskeen
 ----
 title: Inniskeen
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

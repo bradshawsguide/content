@@ -2,7 +2,7 @@ uid: treherbert
 ----
 title: Treherbert
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

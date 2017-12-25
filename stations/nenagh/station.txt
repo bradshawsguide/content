@@ -2,7 +2,7 @@ uid: nenagh
 ----
 title: Nenagh
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

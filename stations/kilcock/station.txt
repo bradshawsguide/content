@@ -2,7 +2,7 @@ uid: kilcock
 ----
 title: Kilcock
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

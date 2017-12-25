@@ -2,7 +2,7 @@ uid: ennis
 ----
 title: Ennis
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

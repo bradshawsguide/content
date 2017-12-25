@@ -2,7 +2,7 @@ uid: carrickfergus-junction
 ----
 title: Carrickfergus Junction
 ----
-title-today: Greenisland
+subtitle: Greenisland
 ----
 country: ireland
 ----

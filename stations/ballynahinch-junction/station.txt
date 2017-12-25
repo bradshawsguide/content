@@ -2,7 +2,7 @@ uid: ballynahinch-junction
 ----
 title: Ballynahinch Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

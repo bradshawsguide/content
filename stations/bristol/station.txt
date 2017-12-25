@@ -2,7 +2,7 @@ uid: bristol
 ----
 title: Bristol
 ----
-title-today: Bristol Temple Meads
+subtitle: Bristol Temple Meads
 ----
 country: england
 ----

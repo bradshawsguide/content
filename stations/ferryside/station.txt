@@ -2,7 +2,7 @@ uid: ferryside
 ----
 title: Ferryside
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

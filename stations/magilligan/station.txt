@@ -2,7 +2,7 @@ uid: magilligan
 ----
 title: Magilligan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

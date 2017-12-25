@@ -2,7 +2,7 @@ uid: goring
 ----
 title: Goring
 ----
-title-today: Goring & Streatley
+subtitle: Goring & Streatley
 ----
 country: england
 ----

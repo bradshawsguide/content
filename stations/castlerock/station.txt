@@ -2,7 +2,7 @@ uid: castlerock
 ----
 title: Castlerock
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

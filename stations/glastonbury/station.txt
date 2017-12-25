@@ -2,7 +2,7 @@ uid: glastonbury
 ----
 title: Glastonbury
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

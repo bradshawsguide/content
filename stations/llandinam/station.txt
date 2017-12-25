@@ -2,7 +2,7 @@ uid: llandinam
 ----
 title: Llandinam
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

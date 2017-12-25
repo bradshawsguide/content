@@ -2,7 +2,7 @@ section: 2
 ----
 title: Handborough
 ----
-title_suffix: (Junction)
+subtitle: (Junction)
 ----
 company:
 - great-western

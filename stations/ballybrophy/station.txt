@@ -2,7 +2,7 @@ uid: ballybrophy
 ----
 title: Ballybrophy
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

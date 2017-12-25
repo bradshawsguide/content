@@ -2,7 +2,7 @@ section: 2
 ----
 title: Carnarvon
 ----
-title_later: Caernarvon
+subtitle: Caernarvon
 ----
 company:
 - london-and-north-western

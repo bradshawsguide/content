@@ -2,7 +2,7 @@ uid: langford
 ----
 title: Langford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

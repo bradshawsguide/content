@@ -2,7 +2,7 @@ uid: llandovery
 ----
 title: Llandovery
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

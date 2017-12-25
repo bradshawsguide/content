@@ -2,7 +2,7 @@ uid: upton-magna
 ----
 title: Upton Magna
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

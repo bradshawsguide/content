@@ -2,7 +2,7 @@ uid: athy
 ----
 title: Athy
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

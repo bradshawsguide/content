@@ -2,7 +2,7 @@ uid: aberdare-junction
 ----
 title: Aberdare Junction
 ----
-title-today: Abercynon
+subtitle: Abercynon
 ----
 country: wales
 ----

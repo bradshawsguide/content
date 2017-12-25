@@ -2,7 +2,7 @@ uid: towyn
 ----
 title: Towyn
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

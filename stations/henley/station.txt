@@ -2,7 +2,7 @@ uid: henley
 ----
 title: Henley
 ----
-title-today: Henley-on-Thames
+subtitle: Henley-on-Thames
 ----
 country: england
 ----

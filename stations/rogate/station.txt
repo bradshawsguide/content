@@ -2,7 +2,7 @@ uid: rogate
 ----
 title: Rogate
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

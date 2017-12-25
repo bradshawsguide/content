@@ -2,7 +2,7 @@ uid: sole-street
 ----
 title: Sole Street
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

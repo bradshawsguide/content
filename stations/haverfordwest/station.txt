@@ -2,7 +2,7 @@ uid: haverfordwest
 ----
 title: Haverfordwest
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

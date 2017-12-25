@@ -2,7 +2,7 @@ uid: moy-valley
 ----
 title: Moy Valley
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

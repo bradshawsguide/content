@@ -2,7 +2,7 @@ uid: cork
 ----
 title: Cork
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

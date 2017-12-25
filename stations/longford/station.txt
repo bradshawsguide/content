@@ -2,7 +2,7 @@ uid: longford
 ----
 title: Longford
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

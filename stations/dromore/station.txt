@@ -2,7 +2,7 @@ uid: dromore
 ----
 title: Dromore
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

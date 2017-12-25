@@ -2,7 +2,7 @@ uid: carrigans
 ----
 title: Carrigans
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

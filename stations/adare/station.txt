@@ -2,7 +2,7 @@ uid: adare
 ----
 title: Adare
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

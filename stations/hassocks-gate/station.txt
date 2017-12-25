@@ -2,7 +2,7 @@ uid: hassocks-gate
 ----
 title: Hassock's Gate
 ----
-title-today: Hassocks
+subtitle: Hassocks
 ----
 country: england
 ----

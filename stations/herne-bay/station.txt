@@ -2,7 +2,7 @@ uid: herne-bay
 ----
 title: Herne Bay
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

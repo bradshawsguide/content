@@ -2,7 +2,7 @@ uid: dunmurry
 ----
 title: Dunmurry
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

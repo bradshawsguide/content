@@ -2,7 +2,7 @@ uid: llanfihangel
 ----
 title: Llanfihangel
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

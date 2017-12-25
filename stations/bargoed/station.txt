@@ -2,7 +2,7 @@ uid: bargoed
 ----
 title: Bargoed
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

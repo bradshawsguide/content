@@ -2,7 +2,7 @@ uid: weston-super-mare
 ----
 title: Weston-super-mare
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

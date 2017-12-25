@@ -2,7 +2,7 @@ uid: hampton-court
 ----
 title: Hampton Court (East Molesey)
 ----
-title-today: Hampton Court
+subtitle: Hampton Court
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: athlone
 ----
 title: Athlone
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

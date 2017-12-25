@@ -2,7 +2,7 @@ uid: bonchurch
 ----
 title: Bonchurch
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

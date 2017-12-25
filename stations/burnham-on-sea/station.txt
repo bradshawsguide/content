@@ -2,7 +2,7 @@ uid: burnham-on-sea
 ----
 title: Burnham-on-sea
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

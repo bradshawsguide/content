@@ -2,7 +2,7 @@ uid: pembrey
 ----
 title: Pembrey
 ----
-title-today: Pembrey and Burry Port
+subtitle: Pembrey and Burry Port
 ----
 country: wales
 ----

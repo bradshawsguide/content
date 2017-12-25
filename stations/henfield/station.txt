@@ -2,7 +2,7 @@ uid: henfield
 ----
 title: Henfield
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

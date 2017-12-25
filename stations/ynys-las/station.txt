@@ -2,7 +2,7 @@ uid: ynys-las
 ----
 title: Ynys-las
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

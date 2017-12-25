@@ -2,7 +2,7 @@ uid: knocklong
 ----
 title: Knocklong
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

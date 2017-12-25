@@ -2,7 +2,7 @@ uid: rushall
 ----
 title: Rushall
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

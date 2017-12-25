@@ -2,7 +2,7 @@ uid: llanelly
 ----
 title: Llanelly
 ----
-title-today: Llanelli
+subtitle: Llanelli
 ----
 country: wales
 ----

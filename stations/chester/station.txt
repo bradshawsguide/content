@@ -2,7 +2,7 @@ uid: chester
 ----
 title: Chester
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

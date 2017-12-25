@@ -2,7 +2,7 @@ uid: bodorgan
 ----
 title: Bodorgan
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

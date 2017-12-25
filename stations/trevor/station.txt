@@ -2,7 +2,7 @@ uid: trevor
 ----
 title: Trevor
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

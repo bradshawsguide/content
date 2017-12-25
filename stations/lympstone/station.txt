@@ -2,7 +2,7 @@ uid: lympstone
 ----
 title: Lympstone
 ----
-title-today: Lympstone Village
+subtitle: Lympstone Village
 ----
 country: england
 ----

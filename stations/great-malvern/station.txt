@@ -2,7 +2,7 @@ uid: great-malvern
 ----
 title: Great Malvern
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

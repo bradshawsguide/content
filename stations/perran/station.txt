@@ -2,7 +2,7 @@ uid: perran
 ----
 title: Perran
 ----
-title-today: Perranwell
+subtitle: Perranwell
 ----
 country: england
 ----

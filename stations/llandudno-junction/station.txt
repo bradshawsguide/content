@@ -2,7 +2,7 @@ uid: llandudno-junction
 ----
 title: Llandudno Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

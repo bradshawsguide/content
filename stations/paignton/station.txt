@@ -2,7 +2,7 @@ uid: paignton
 ----
 title: Paignton
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

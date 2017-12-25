@@ -2,7 +2,7 @@ uid: clandeboyd
 ----
 title: Clandeboyd
 ----
-title-today: Crawfordsburn
+subtitle: Crawfordsburn
 ----
 country: ireland
 ----

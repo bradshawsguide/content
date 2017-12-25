@@ -2,7 +2,7 @@ section: 2
 ----
 title: Dingestow
 ----
-title_suffix: or Dynystow
+subtitle: or Dynystow
 ----
 company:
 - great-western

@@ -2,7 +2,7 @@ uid: johnston
 ----
 title: Johnston
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

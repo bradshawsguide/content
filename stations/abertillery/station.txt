@@ -2,7 +2,7 @@ uid: abertillery
 ----
 title: Abertillery
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

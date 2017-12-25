@@ -2,7 +2,7 @@ uid: penzance
 ----
 title: Penzance
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: raglan-footpath
 ----
 title: Raglan Footpath
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

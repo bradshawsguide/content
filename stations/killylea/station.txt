@@ -2,7 +2,7 @@ uid: killylea
 ----
 title: Killylea
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

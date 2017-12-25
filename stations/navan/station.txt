@@ -2,7 +2,7 @@ uid: navan
 ----
 title: Navan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: much-wenlock
 ----
 title: Much Wenlock
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

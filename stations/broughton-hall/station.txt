@@ -2,7 +2,7 @@ uid: broughton-hall
 ----
 title: Broughton Hall
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

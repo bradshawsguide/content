@@ -2,7 +2,7 @@ section: 2
 ----
 title: Narberth Road
 ----
-title_suffix: (For Tenby)
+subtitle: (For Tenby)
 ----
 company:
 - great-western

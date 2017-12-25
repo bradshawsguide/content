@@ -2,7 +2,7 @@ uid: ballymena
 ----
 title: Ballymena
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

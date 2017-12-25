@@ -2,7 +2,7 @@ uid: limerick
 ----
 title: Limerick
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

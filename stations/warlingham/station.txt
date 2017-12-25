@@ -2,7 +2,7 @@ uid: warlingham
 ----
 title: Warlingham
 ----
-title-today: Whyteleafe South
+subtitle: Whyteleafe South
 ----
 country: england
 ----

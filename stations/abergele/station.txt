@@ -2,7 +2,7 @@ uid: abergele
 ----
 title: Abergele
 ----
-title-today: Abergele & Pensarn
+subtitle: Abergele & Pensarn
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: wednesbury
 ----
 title: Wednesbury
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

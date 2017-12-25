@@ -2,7 +2,7 @@ uid: blanchardstown
 ----
 title: Blanchardstown
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

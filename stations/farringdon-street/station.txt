@@ -2,7 +2,7 @@ uid: farringdon-street
 ----
 title: Farringdon Street
 ----
-title-today: Farringdon
+subtitle: Farringdon
 ----
 country: england
 ----

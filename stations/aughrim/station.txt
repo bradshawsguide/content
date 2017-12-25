@@ -2,7 +2,7 @@ uid: aughrim
 ----
 title: Aughrim
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

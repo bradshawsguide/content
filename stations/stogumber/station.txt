@@ -2,7 +2,7 @@ uid: stogumber
 ----
 title: Stogumber
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

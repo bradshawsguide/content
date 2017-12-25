@@ -2,7 +2,7 @@ uid: lancing
 ----
 title: Lancing
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

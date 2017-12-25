@@ -2,7 +2,7 @@ uid: rhuddlan
 ----
 title: Rhuddlan
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

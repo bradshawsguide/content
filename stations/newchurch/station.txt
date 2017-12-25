@@ -2,7 +2,7 @@ uid: newchurch
 ----
 title: Newchurch
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

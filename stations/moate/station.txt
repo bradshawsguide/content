@@ -2,7 +2,7 @@ uid: moate
 ----
 title: Moate
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: bray
 ----
 title: Bray
 ----
-title-today: Bray Daly
+subtitle: Bray Daly
 ----
 country: ireland
 ----

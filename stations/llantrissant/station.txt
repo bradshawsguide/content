@@ -2,7 +2,7 @@ uid: llantrissant
 ----
 title: Llantrissant
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

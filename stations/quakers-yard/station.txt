@@ -2,7 +2,7 @@ uid: quakers-yard
 ----
 title: Quaker's Yard
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

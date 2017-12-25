@@ -2,7 +2,7 @@ uid: bishopstoke
 ----
 title: Bishopstoke
 ----
-title-today: Eastleigh
+subtitle: Eastleigh
 ----
 country: england
 ----

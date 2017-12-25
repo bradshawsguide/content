@@ -2,7 +2,7 @@ uid: magherafelt
 ----
 title: Magherafelt
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

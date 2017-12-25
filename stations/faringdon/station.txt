@@ -2,7 +2,7 @@ uid: faringdon
 ----
 title: Faringdon
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

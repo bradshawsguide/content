@@ -2,7 +2,7 @@ uid: newcastle
 ----
 title: Newcastle
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

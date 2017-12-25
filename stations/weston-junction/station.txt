@@ -2,7 +2,7 @@ uid: weston-junction
 ----
 title: Weston Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

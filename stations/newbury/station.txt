@@ -2,7 +2,7 @@ uid: newbury
 ----
 title: Newbury
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

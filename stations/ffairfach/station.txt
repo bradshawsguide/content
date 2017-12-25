@@ -2,7 +2,7 @@ uid: ffairfach
 ----
 title: Ffairfach
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

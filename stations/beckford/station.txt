@@ -2,7 +2,7 @@ uid: beckford
 ----
 title: Beckford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

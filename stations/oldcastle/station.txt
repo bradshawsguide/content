@@ -2,7 +2,7 @@ uid: oldcastle
 ----
 title: Oldcastle
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

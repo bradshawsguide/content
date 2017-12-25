@@ -2,7 +2,7 @@ uid: ballyhale
 ----
 title: Ballyhale
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

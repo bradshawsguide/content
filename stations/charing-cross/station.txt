@@ -2,7 +2,7 @@ uid: charing-cross
 ----
 title: Charing Cross
 ----
-title-today: London Charing Cross
+subtitle: London Charing Cross
 ----
 country: england
 ----

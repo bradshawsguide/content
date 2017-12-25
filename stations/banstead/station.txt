@@ -2,7 +2,7 @@ uid: banstead
 ----
 title: Banstead
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

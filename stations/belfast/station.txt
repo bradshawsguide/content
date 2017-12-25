@@ -2,7 +2,7 @@ uid: belfast
 ----
 title: Belfast
 ----
-title-today: Belfast Great Victoria Street
+subtitle: Belfast Great Victoria Street
 ----
 country: ireland
 ----

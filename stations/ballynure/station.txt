@@ -2,7 +2,7 @@ uid: ballynure
 ----
 title: Ballynure
 ----
-title-today: Ballyclare Junction
+subtitle: Ballyclare Junction
 ----
 country: ireland
 ----

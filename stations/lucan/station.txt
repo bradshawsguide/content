@@ -2,7 +2,7 @@ uid: lucan
 ----
 title: Lucan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

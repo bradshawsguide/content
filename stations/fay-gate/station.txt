@@ -2,7 +2,7 @@ uid: fay-gate
 ----
 title: Fay Gate
 ----
-title-today: Faygate
+subtitle: Faygate
 ----
 country: england
 ----

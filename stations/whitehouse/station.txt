@@ -2,7 +2,7 @@ uid: whitehouse
 ----
 title: Whitehouse
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

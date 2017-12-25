@@ -2,7 +2,7 @@ uid: leamington
 ----
 title: Leamington
 ----
-title-today: Leamington Spa
+subtitle: Leamington Spa
 ----
 country: england
 ----

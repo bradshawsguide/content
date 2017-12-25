@@ -2,7 +2,7 @@ uid: stratford-upon-avon
 ----
 title: Stratford-upon-Avon
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

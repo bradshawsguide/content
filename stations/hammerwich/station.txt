@@ -2,7 +2,7 @@ uid: hammerwich
 ----
 title: Hammerwich
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

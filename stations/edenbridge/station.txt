@@ -2,7 +2,7 @@ uid: edenbridge
 ----
 title: Edenbridge
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

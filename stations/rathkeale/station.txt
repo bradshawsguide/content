@@ -2,7 +2,7 @@ uid: rathkeale
 ----
 title: Rathkeale
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

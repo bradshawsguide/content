@@ -2,7 +2,7 @@ uid: groomsport
 ----
 title: Groomsport
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

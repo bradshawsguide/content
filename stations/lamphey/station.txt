@@ -2,7 +2,7 @@ uid: lamphey
 ----
 title: Lamphey
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

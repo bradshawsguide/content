@@ -2,7 +2,7 @@ uid: lurgan
 ----
 title: Lurgan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

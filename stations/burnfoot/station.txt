@@ -2,7 +2,7 @@ uid: burnfoot
 ----
 title: Burnfoot
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

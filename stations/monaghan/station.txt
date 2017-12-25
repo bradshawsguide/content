@@ -2,7 +2,7 @@ uid: monaghan
 ----
 title: Monaghan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

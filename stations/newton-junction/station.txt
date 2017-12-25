@@ -2,7 +2,7 @@ uid: newton-junction
 ----
 title: Newton Junction
 ----
-title-today: Newton Abbot
+subtitle: Newton Abbot
 ----
 country: england
 ----

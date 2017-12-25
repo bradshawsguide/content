@@ -2,7 +2,7 @@ uid: cardiff
 ----
 title: Cardiff
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

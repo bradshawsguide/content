@@ -2,7 +2,7 @@ uid: rhayader
 ----
 title: Rhayader
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

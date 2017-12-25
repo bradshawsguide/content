@@ -2,7 +2,7 @@ uid: sevenoaks-junction
 ----
 title: Sevenoaks Junction
 ----
-title-today: Swanley
+subtitle: Swanley
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: warrenpoint
 ----
 title: Warrenpoint
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

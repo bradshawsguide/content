@@ -2,7 +2,7 @@ uid: ballygowan
 ----
 title: Ballygowan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

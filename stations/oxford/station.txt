@@ -2,7 +2,7 @@ uid: oxford
 ----
 title: Oxford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

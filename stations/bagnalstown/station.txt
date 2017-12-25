@@ -2,7 +2,7 @@ uid: bagnalstown
 ----
 title: Bagnalstown
 ----
-title-today: Muine Bheag
+subtitle: Muine Bheag
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: newington-road
 ----
 title: Newington Road
 ----
-title-today: Canonbury
+subtitle: Canonbury
 ----
 country: england
 ----

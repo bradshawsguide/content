@@ -2,7 +2,7 @@ uid: sydenham-belfast
 ----
 title: Sydenham
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

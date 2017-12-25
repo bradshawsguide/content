@@ -2,7 +2,7 @@ uid: ramsgate-town
 ----
 title: Ramsgate (SER)
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: llanrhaidr
 ----
 title: Llanrhaidr
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

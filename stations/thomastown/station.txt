@@ -2,7 +2,7 @@ uid: thomastown
 ----
 title: Thomastown
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

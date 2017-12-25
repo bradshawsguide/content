@@ -2,7 +2,7 @@ uid: maidenhead
 ----
 title: Maidenhead
 ----
-title-today: Taplow
+subtitle: Taplow
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: cratloe
 ----
 title: Cratloe
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

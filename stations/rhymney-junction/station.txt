@@ -2,7 +2,7 @@ uid: rhymney-junction
 ----
 title: Rhymney Junction
 ----
-title-today: Hengoed
+subtitle: Hengoed
 ----
 country: wales
 ----

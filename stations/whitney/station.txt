@@ -2,7 +2,7 @@ uid: whitney
 ----
 title: Whitney
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

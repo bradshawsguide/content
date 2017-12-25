@@ -2,7 +2,7 @@ uid: glaslough
 ----
 title: Glaslough
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

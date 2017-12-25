@@ -2,7 +2,7 @@ uid: maynooth
 ----
 title: Maynooth
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

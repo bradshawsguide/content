@@ -2,7 +2,7 @@ uid: manchester-oxford-road
 ----
 title: Manchester Oxford Road
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

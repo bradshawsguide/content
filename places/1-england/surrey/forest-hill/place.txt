@@ -2,7 +2,7 @@ section: 1
 ----
 title: Forest Hill
 ----
-title_suffix: for Dartmouth Arms
+subtitle: for Dartmouth Arms
 ----
 company:
 - south-eastern

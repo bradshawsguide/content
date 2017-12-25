@@ -2,7 +2,7 @@ uid: uffington
 ----
 title: Uffington
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

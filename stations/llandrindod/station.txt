@@ -2,7 +2,7 @@ uid: llandrindod
 ----
 title: Llandrindod
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: pomeroy
 ----
 title: Pomeroy
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

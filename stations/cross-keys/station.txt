@@ -2,7 +2,7 @@ uid: cross-keys
 ----
 title: Cross Keys
 ----
-title-today: Crosskeys
+subtitle: Crosskeys
 ----
 country: england
 ----

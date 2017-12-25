@@ -2,7 +2,7 @@ uid: craven-arms
 ----
 title: Craven Arms
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

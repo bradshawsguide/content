@@ -2,7 +2,7 @@ uid: bath
 ----
 title: Bath
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

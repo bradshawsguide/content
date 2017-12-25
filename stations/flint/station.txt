@@ -2,7 +2,7 @@ uid: flint
 ----
 title: Flint
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

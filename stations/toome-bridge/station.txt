@@ -2,7 +2,7 @@ uid: toome-bridge
 ----
 title: Toome Bridge
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

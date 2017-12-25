@@ -2,7 +2,7 @@ uid: briton-ferry
 ----
 title: Briton Ferry
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

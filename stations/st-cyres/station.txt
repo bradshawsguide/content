@@ -2,7 +2,7 @@ uid: st-cyres
 ----
 title: St. Cyres
 ----
-title-today: Newton St. Cyres
+subtitle: Newton St. Cyres
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: milford-carlow
 ----
 title: Milford
 ----
-title-today: Ballybannon
+subtitle: Ballybannon
 ----
 country: ireland
 ----

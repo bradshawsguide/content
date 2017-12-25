@@ -2,7 +2,7 @@ uid: penmaen-mawr
 ----
 title: Penmaen Mawr
 ----
-title-today: Penmaenmawr
+subtitle: Penmaenmawr
 ----
 country: wales
 ----

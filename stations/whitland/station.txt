@@ -2,7 +2,7 @@ uid: whitland
 ----
 title: Whitland
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: argoed
 ----
 title: Argoed
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

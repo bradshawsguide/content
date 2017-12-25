@@ -2,7 +2,7 @@ uid: eastbourne
 ----
 title: Eastbourne
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

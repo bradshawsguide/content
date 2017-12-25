@@ -2,7 +2,7 @@ uid: lampeter-road
 ----
 title: Lampeter Road
 ----
-title-today: Llanwrda
+subtitle: Llanwrda
 ----
 country: wales
 ----

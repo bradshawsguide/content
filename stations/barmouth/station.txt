@@ -2,7 +2,7 @@ uid: barmouth
 ----
 title: Barmouth
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

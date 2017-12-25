@@ -2,7 +2,7 @@ uid: bitterne-road
 ----
 title: Bitterne Road
 ----
-title-today: Bitterne
+subtitle: Bitterne
 ----
 country: england
 ----

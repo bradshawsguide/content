@@ -2,7 +2,7 @@ uid: bridgend
 ----
 title: Bridgend
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

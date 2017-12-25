@@ -2,7 +2,7 @@ uid: howth-junction
 ----
 title: Howth Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

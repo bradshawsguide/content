@@ -2,7 +2,7 @@ uid: newbliss
 ----
 title: Newbliss
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

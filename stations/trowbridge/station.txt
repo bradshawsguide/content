@@ -2,7 +2,7 @@ uid: trowbridge
 ----
 title: Trowbridge
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

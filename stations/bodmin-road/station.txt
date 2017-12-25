@@ -2,7 +2,7 @@ uid: bodmin-road
 ----
 title: Bodmin Road
 ----
-title-today: Bodmin Parkway
+subtitle: Bodmin Parkway
 ----
 country: england
 ----

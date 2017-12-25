@@ -2,7 +2,7 @@ uid: woolhampton
 ----
 title: Woolhampton
 ----
-title-today: Midgham
+subtitle: Midgham
 ----
 country: england
 ----

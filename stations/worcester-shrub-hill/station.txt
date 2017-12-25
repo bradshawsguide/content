@@ -2,7 +2,7 @@ uid: worcester-shrub-hill
 ----
 title: Worcester Shrub Hill
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

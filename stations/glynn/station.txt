@@ -2,7 +2,7 @@ uid: glynn
 ----
 title: Glynn
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

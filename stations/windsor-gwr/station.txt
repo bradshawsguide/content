@@ -2,7 +2,7 @@ uid: windsor-gwr
 ----
 title: Windsor (GWR)
 ----
-title-today: Windsor & Eton Central
+subtitle: Windsor & Eton Central
 ----
 country: england
 ----

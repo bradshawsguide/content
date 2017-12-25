@@ -2,7 +2,7 @@ uid: ystrad-owen
 ----
 title: Ystrad Owen
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

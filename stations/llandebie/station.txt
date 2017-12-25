@@ -2,7 +2,7 @@ uid: llandebie
 ----
 title: Llandebie
 ----
-title-today: Llandybie
+subtitle: Llandybie
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: whitby-locks
 ----
 title: Whitby Locks
 ----
-title-today: Ellesmere Port
+subtitle: Ellesmere Port
 ----
 country: england
 ----

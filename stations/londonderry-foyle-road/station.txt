@@ -2,7 +2,7 @@ uid: londonderry-foyle-road
 ----
 title: Londonderry Foyle Road
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

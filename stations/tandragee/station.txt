@@ -2,7 +2,7 @@ uid: tandragee
 ----
 title: Tandragee
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

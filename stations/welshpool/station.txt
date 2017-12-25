@@ -2,7 +2,7 @@ uid: welshpool
 ----
 title: Welshpool
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

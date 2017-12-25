@@ -2,7 +2,7 @@ uid: conlig
 ----
 title: Conlig
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

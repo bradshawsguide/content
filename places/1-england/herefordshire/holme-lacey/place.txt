@@ -2,7 +2,7 @@ section: 2
 ----
 title: Holme Lacey
 ----
-title_later: Holme Lacy
+subtitle: Holme Lacy
 ----
 company:
 - great-western

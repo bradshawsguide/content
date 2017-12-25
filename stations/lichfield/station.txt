@@ -2,7 +2,7 @@ uid: lichfield
 ----
 title: Lichfield
 ----
-title-today: Lichfield City
+subtitle: Lichfield City
 ----
 country: england
 ----

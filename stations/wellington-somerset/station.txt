@@ -2,7 +2,7 @@ uid: wellington-somerset
 ----
 title: Wellington
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

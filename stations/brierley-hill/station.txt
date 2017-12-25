@@ -2,7 +2,7 @@ uid: brierley-hill
 ----
 title: Brierley Hill
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

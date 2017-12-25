@@ -2,7 +2,7 @@ uid: redruth
 ----
 title: Redruth
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

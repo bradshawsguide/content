@@ -2,7 +2,7 @@ uid: knock
 ----
 title: Knock
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

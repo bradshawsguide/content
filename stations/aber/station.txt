@@ -2,7 +2,7 @@ uid: aber
 ----
 title: Aber
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

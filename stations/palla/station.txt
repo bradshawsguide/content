@@ -2,7 +2,7 @@ uid: palla
 ----
 title: Palla
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

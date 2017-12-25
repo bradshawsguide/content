@@ -2,7 +2,7 @@ section: 2
 ----
 title: Wiley
 ----
-title_later: Wylye
+subtitle: Wylye
 ----
 company:
 - great-western

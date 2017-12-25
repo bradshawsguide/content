@@ -2,7 +2,7 @@ uid: southend
 ----
 title: Southend
 ----
-title-today: Southend Central
+subtitle: Southend Central
 ----
 country: england
 ----

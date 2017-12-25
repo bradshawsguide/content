@@ -2,7 +2,7 @@ uid: tonypandy
 ----
 title: Pandy
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

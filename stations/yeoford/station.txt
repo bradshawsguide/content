@@ -2,7 +2,7 @@ uid: yeoford
 ----
 title: Yeoford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

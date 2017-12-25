@@ -2,7 +2,7 @@ uid: knott-mill
 ----
 title: Knott Mill
 ----
-title-today: Deansgate
+subtitle: Deansgate
 ----
 country: england
 ----

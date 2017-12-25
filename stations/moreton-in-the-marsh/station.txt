@@ -2,7 +2,7 @@ uid: moreton-in-the-marsh
 ----
 title: Moreton-in-the-Marsh
 ----
-title-today: Moreton-in-Marsh
+subtitle: Moreton-in-Marsh
 ----
 country: england
 ----

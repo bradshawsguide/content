@@ -2,7 +2,7 @@ uid: kentish-town
 ----
 title: Kentish Town
 ----
-title-today: Gospel Oak
+subtitle: Gospel Oak
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: temple-ewell
 ----
 title: Temple Ewell
 ----
-title-today: Kearsney
+subtitle: Kearsney
 ----
 country: england
 ----

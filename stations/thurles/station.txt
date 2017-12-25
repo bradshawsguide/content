@@ -2,7 +2,7 @@ uid: thurles
 ----
 title: Thurles
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

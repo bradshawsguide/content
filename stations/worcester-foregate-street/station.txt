@@ -2,7 +2,7 @@ uid: worcester-foregate-street
 ----
 title: Worcester Foregate Street
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ section: 1
 ----
 title: Hayward's Heath
 ----
-title_suffix: (Junction)
+subtitle: (Junction)
 ----
 company:
 - london-brighton-and-south-coast

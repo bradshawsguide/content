@@ -2,7 +2,7 @@ uid: gresford
 ----
 title: Gresford
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

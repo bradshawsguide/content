@@ -2,7 +2,7 @@ uid: woodbury-road
 ----
 title: Woodbury Road
 ----
-title-today: Exton
+subtitle: Exton
 ----
 country: england
 ----

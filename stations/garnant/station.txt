@@ -2,7 +2,7 @@ uid: garnant
 ----
 title: Garnant
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

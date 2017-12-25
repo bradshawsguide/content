@@ -2,7 +2,7 @@ uid: pontypridd
 ----
 title: Pontypridd
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

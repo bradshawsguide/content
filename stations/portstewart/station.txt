@@ -2,7 +2,7 @@ uid: portstewart
 ----
 title: Portstewart
 ----
-title-today: Cromore
+subtitle: Cromore
 ----
 country: ireland
 ----

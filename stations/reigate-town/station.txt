@@ -2,7 +2,7 @@ uid: reigate-town
 ----
 title: Reigate Town
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

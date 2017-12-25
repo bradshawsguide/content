@@ -2,7 +2,7 @@ uid: swansea-wind-street
 ----
 title: Swansea Wind Street
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

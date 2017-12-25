@@ -2,7 +2,7 @@ uid: glanrhyd
 ----
 title: Glanrhyd
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

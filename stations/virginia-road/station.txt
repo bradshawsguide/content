@@ -2,7 +2,7 @@ uid: virginia-road
 ----
 title: Virginia Road
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

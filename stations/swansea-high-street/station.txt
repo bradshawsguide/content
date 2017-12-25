@@ -2,7 +2,7 @@ uid: swansea-high-street
 ----
 title: Swansea High Street
 ----
-title-today: Swansea
+subtitle: Swansea
 ----
 country: wales
 ----

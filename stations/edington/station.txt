@@ -2,7 +2,7 @@ uid: edington
 ----
 title: Edington
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

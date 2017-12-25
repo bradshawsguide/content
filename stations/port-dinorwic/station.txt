@@ -2,7 +2,7 @@ uid: port-dinorwic
 ----
 title: Port Dinorwic
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

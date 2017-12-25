@@ -2,7 +2,7 @@ uid: lymington
 ----
 title: Lymington
 ----
-title-today: Lymington Town
+subtitle: Lymington Town
 ----
 country: england
 ----

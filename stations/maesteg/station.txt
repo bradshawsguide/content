@@ -2,7 +2,7 @@ uid: maesteg
 ----
 title: Maesteg
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: minety
 ----
 title: Minety
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: worthing
 ----
 title: Worthing
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

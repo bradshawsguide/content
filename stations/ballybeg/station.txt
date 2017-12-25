@@ -2,7 +2,7 @@ uid: ballybeg
 ----
 title: Balleybeg
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

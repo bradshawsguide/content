@@ -2,7 +2,7 @@ uid: mallow
 ----
 title: Mallow
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

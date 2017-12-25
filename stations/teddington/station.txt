@@ -2,7 +2,7 @@ uid: teddington
 ----
 title: Teddington
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

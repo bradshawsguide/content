@@ -2,7 +2,7 @@ uid: carrickfergus
 ----
 title: Carrickfergus
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

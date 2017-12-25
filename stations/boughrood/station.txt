@@ -2,7 +2,7 @@ uid: boughrood
 ----
 title: Boughrood
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

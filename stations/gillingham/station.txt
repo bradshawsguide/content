@@ -2,7 +2,7 @@ uid: gillingham
 ----
 title: Gillingham
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

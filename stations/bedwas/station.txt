@@ -2,7 +2,7 @@ uid: bedwas
 ----
 title: Bedwas
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

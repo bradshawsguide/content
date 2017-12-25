@@ -2,7 +2,7 @@ uid: brynmawr
 ----
 title: Brynmawr
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

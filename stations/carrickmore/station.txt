@@ -2,7 +2,7 @@ uid: carrickmore
 ----
 title: Carrickmore
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

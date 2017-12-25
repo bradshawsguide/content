@@ -2,7 +2,7 @@ uid: manchester-exchange
 ----
 title: Manchester Exchange
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

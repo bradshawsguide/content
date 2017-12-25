@@ -2,7 +2,7 @@ uid: latchford
 ----
 title: Latchford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

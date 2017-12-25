@@ -2,7 +2,7 @@ uid: wellington
 ----
 title: Wellington (Shropshire)
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

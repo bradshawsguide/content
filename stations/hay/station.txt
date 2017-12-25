@@ -2,7 +2,7 @@ uid: hay
 ----
 title: Hay
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: star-cross
 ----
 title: Star Cross
 ----
-title-today: Starcross
+subtitle: Starcross
 ----
 country: england
 ----

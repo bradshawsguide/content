@@ -2,7 +2,7 @@ uid: shiffnal
 ----
 title: Shiffnal
 ----
-title-today: Shifnal
+subtitle: Shifnal
 ----
 country: england
 ----

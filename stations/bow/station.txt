@@ -2,7 +2,7 @@ uid: bow
 ----
 title: Bow
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

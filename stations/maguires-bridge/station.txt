@@ -2,7 +2,7 @@ uid: maguires-bridge
 ----
 title: Maguire's Bridge
 ----
-title-today: Maguiresbridge
+subtitle: Maguiresbridge
 ----
 country: ireland
 ----

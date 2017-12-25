@@ -2,7 +2,7 @@ uid: hamiltonsbawn
 ----
 title: Hamiltons Baun
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

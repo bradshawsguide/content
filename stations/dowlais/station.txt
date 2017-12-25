@@ -2,7 +2,7 @@ uid: dowlais
 ----
 title: Dowlais
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

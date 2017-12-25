@@ -2,7 +2,7 @@ uid: cheltenham
 ----
 title: Cheltenham
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

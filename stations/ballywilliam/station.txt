@@ -2,7 +2,7 @@ uid: ballywilliam
 ----
 title: Ballywilliam
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

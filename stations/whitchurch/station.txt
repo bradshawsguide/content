@@ -2,7 +2,7 @@ uid: whitchurch
 ----
 title: Whitchurch
 ----
-title-today: Whitchurch (Hants)
+subtitle: Whitchurch (Hants)
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: six-mile-bridge
 ----
 title: Six Mile Bridge
 ----
-title-today: Sixmilebridge
+subtitle: Sixmilebridge
 ----
 country: ireland
 ----

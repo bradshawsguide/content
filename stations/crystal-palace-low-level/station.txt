@@ -2,7 +2,7 @@ uid: crystal-palace-low-level
 ----
 title: Crystal Palace Low Level
 ----
-title-today: Crystal Palace
+subtitle: Crystal Palace
 ----
 country: england
 ----

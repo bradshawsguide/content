@@ -2,7 +2,7 @@ uid: tipton
 ----
 title: Tipton
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

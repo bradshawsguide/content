@@ -2,7 +2,7 @@ uid: cookstown-junction
 ----
 title: Cookstown Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

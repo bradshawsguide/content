@@ -2,7 +2,7 @@ uid: hillsborough
 ----
 title: Hillsborough
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

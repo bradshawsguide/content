@@ -2,7 +2,7 @@ uid: shepton-mallet
 ----
 title: Shepton Mallet
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

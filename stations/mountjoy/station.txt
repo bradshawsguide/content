@@ -2,7 +2,7 @@ uid: mountjoy
 ----
 title: Mountjoy
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

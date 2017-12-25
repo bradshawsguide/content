@@ -2,7 +2,7 @@ uid: st-germans
 ----
 title: St. Germans
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

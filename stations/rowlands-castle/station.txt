@@ -2,7 +2,7 @@ uid: rowlands-castle
 ----
 title: Rowland's Castle
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

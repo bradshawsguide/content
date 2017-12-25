@@ -2,7 +2,7 @@ section: 2
 ----
 title: Llangadock
 ----
-title_later: Llangadog
+subtitle: Llangadog
 ----
 company:
 - llanelly-railway-and-docks

@@ -2,7 +2,7 @@ uid: pool
 ----
 title: Pool
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: leigh
 ----
 title: Leigh
 ----
-title-today: Leigh-on-Sea
+subtitle: Leigh-on-Sea
 ----
 country: england
 ----

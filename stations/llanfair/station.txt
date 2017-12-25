@@ -2,7 +2,7 @@ uid: llanfair
 ----
 title: Llanfair
 ----
-title-today: Llanfairpwll
+subtitle: Llanfairpwll
 ----
 country: wales
 ----

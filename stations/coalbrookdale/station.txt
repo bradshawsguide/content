@@ -2,7 +2,7 @@ uid: coalbrookdale
 ----
 title: Coalbrookdale
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

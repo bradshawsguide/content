@@ -2,7 +2,7 @@ uid: lombardstown
 ----
 title: Lombardstown
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

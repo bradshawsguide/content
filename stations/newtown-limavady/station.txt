@@ -2,7 +2,7 @@ uid: newtown-limavady
 ----
 title: Newtown Limavady
 ----
-title-today: Limavady
+subtitle: Limavady
 ----
 country: ireland
 ----

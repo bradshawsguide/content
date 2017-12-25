@@ -2,7 +2,7 @@ uid: ashford-middlesex
 ----
 title: Ashford (Middlesex)
 ----
-title-today: Ashford
+subtitle: Ashford
 ----
 country: england
 ----

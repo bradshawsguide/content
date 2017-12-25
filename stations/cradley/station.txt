@@ -2,7 +2,7 @@ uid: cradley
 ----
 title: Cradley
 ----
-title-today: Cradley Heath
+subtitle: Cradley Heath
 ----
 country: england
 ----

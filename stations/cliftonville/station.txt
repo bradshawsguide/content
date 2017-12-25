@@ -2,7 +2,7 @@ uid: cliftonville
 ----
 title: Cliftonville
 ----
-title-today: Hove
+subtitle: Hove
 ----
 country: england
 ----

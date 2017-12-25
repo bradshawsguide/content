@@ -2,7 +2,7 @@ uid: craigavad
 ----
 title: Craigavad
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

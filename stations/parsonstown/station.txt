@@ -2,7 +2,7 @@ uid: parsonstown
 ----
 title: Parsonstown
 ----
-title-today: Birr
+subtitle: Birr
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: new-shoreham
 ----
 title: New Shoreham
 ----
-title-today: Shoreham-by-Sea
+subtitle: Shoreham-by-Sea
 ----
 country: england
 ----

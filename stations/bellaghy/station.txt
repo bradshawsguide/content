@@ -2,7 +2,7 @@ uid: bellaghy
 ----
 title: Bellaghy
 ----
-title-today: Killagan
+subtitle: Killagan
 ----
 country: ireland
 ----

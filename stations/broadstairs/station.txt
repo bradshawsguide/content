@@ -2,7 +2,7 @@ uid: broadstairs
 ----
 title: Broadstairs
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

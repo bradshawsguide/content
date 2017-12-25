@@ -2,7 +2,7 @@ uid: victoria
 ----
 title: Victoria
 ----
-title-today: London Victoria
+subtitle: London Victoria
 ----
 country: england
 ----

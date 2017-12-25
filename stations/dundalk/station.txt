@@ -2,7 +2,7 @@ uid: dundalk
 ----
 title: Dundalk
 ----
-title-today: Dundalk Clarke
+subtitle: Dundalk Clarke
 ----
 country: ireland
 ----

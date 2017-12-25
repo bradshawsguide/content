@@ -2,7 +2,7 @@ uid: richhill
 ----
 title: Richhill
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: ashford
 ----
 title: Ashford
 ----
-title-today: Ashford International
+subtitle: Ashford International
 ----
 country: england
 ----

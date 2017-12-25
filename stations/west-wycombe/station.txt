@@ -2,7 +2,7 @@ uid: west-wycombe
 ----
 title: West Wycombe
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

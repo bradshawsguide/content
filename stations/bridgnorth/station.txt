@@ -2,7 +2,7 @@ uid: bridgnorth
 ----
 title: Bridgnorth
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

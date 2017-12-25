@@ -2,7 +2,7 @@ section: 2
 ----
 title: Ross
 ----
-title_later: Ross-on-Wye
+subtitle: Ross-on-Wye
 ----
 company:
 - great-western

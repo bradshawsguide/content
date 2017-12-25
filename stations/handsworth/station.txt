@@ -2,7 +2,7 @@ uid: handsworth
 ----
 title: Handsworth
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

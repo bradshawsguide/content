@@ -2,7 +2,7 @@ uid: baldoyle-and-sutton
 ----
 title: Baldoyle and Sutton
 ----
-title-today: Sutton
+subtitle: Sutton
 ----
 country: ireland
 ----

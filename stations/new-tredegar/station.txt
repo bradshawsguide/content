@@ -2,7 +2,7 @@ uid: new-tredegar
 ----
 title: New Tredegar
 ----
-title-today: Tir-Phil
+subtitle: Tir-Phil
 ----
 country: england
 ----

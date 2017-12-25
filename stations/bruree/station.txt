@@ -2,7 +2,7 @@ uid: bruree
 ----
 title: Bruree
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

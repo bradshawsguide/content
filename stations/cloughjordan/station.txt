@@ -2,7 +2,7 @@ uid: cloughjordan
 ----
 title: Cloughjordan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: ryde
 ----
 title: Ryde
 ----
-title-today: Ryde St. John’s Road
+subtitle: Ryde St. John’s Road
 ----
 country: england
 ----

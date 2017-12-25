@@ -2,7 +2,7 @@ uid: banwell
 ----
 title: Banwell
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

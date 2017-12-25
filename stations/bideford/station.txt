@@ -2,7 +2,7 @@ uid: bideford
 ----
 title: Bideford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

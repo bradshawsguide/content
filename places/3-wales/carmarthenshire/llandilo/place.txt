@@ -2,7 +2,7 @@ section: 2
 ----
 title: Llandilo
 ----
-title_later: Llandeilo
+subtitle: Llandeilo
 ----
 company:
 - llanelly-railway-and-docks

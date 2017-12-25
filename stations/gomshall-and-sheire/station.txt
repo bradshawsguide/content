@@ -2,7 +2,7 @@ uid: gomshall-and-sheire
 ----
 title: Gomshall & Sheire
 ----
-title-today: Gomshall
+subtitle: Gomshall
 ----
 country: england
 ----

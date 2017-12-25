@@ -2,7 +2,7 @@ uid: glan-dovey
 ----
 title: Glan Dovey
 ----
-title-today: Dovey Junction
+subtitle: Dovey Junction
 ----
 country: wales
 ----

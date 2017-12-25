@@ -2,7 +2,7 @@ uid: wilmcote
 ----
 title: Wilmcote
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

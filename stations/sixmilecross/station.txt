@@ -2,7 +2,7 @@ uid: sixmilecross
 ----
 title: Sixmilecross
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

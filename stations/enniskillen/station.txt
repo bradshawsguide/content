@@ -2,7 +2,7 @@ uid: enniskillen
 ----
 title: Enniskillen
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

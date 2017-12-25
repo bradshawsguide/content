@@ -2,7 +2,7 @@ uid: hirwain
 ----
 title: Hirwain
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

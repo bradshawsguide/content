@@ -2,7 +2,7 @@ uid: limavady-junction
 ----
 title: Newtown Junction
 ----
-title-today: Limavady Junction
+subtitle: Limavady Junction
 ----
 country: ireland
 ----

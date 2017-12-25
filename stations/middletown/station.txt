@@ -2,7 +2,7 @@ uid: middletown
 ----
 title: Middletown
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

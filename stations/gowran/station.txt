@@ -2,7 +2,7 @@ uid: gowran
 ----
 title: Gowran
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

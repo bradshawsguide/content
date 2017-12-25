@@ -2,7 +2,7 @@ uid: deganwy
 ----
 title: Deganwy
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: malahide
 ----
 title: Malahide
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: colwyn
 ----
 title: Colwyn
 ----
-title-today: Colwyn Bay
+subtitle: Colwyn Bay
 ----
 country: wales
 ----

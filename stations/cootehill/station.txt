@@ -2,7 +2,7 @@ uid: cootehill
 ----
 title: Cootehill
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

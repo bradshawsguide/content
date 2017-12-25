@@ -2,7 +2,7 @@ uid: nantybwch
 ----
 title: Tredegar (Nantybwch)
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

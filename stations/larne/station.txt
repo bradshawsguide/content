@@ -2,7 +2,7 @@ uid: larne
 ----
 title: Larne
 ----
-title-today: Larne Town
+subtitle: Larne Town
 ----
 country: ireland
 ----

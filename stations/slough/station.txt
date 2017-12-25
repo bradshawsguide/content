@@ -2,7 +2,7 @@ uid: slough
 ----
 title: Slough
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

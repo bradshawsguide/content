@@ -2,7 +2,7 @@ uid: donabate
 ----
 title: Donabate
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

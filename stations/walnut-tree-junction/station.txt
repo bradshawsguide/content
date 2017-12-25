@@ -2,7 +2,7 @@ uid: walnut-tree-junction
 ----
 title: Walnut Tree Junction
 ----
-title-today: Taffs Well
+subtitle: Taffs Well
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: pontardulais
 ----
 title: Pontardulais
 ----
-title-today: Pontarddulais
+subtitle: Pontarddulais
 ----
 country: wales
 ----

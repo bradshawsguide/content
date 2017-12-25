@@ -2,7 +2,7 @@ uid: rathnew
 ----
 title: Rathnew
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

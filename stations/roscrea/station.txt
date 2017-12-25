@@ -2,7 +2,7 @@ uid: roscrea
 ----
 title: Roscrea
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: swan-village
 ----
 title: Swan Village
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

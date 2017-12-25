@@ -2,7 +2,7 @@ uid: rockcorry
 ----
 title: Rockcorry
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

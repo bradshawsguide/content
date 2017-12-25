@@ -2,7 +2,7 @@ uid: woolwich-arsenal
 ----
 title: Woolwich Arsenal
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: kilkenny
 ----
 title: Kilkenny
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: shillelagh
 ----
 title: Shillelagh
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

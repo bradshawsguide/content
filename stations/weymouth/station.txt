@@ -2,7 +2,7 @@ uid: weymouth
 ----
 title: Weymouth
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

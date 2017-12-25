@@ -2,7 +2,7 @@ uid: abermule
 ----
 title: Abermule
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

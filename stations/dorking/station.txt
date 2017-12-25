@@ -2,7 +2,7 @@ uid: dorking
 ----
 title: Dorking
 ----
-title-today: Dorking West
+subtitle: Dorking West
 ----
 country: england
 ----

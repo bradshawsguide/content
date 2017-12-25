@@ -2,7 +2,7 @@ uid: hungerford
 ----
 title: Hungerford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: pevensey
 ----
 title: Pevensey
 ----
-title-today: Pevensey & Westham
+subtitle: Pevensey & Westham
 ----
 country: england
 ----

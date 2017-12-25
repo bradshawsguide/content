@@ -2,7 +2,7 @@ uid: castledawson
 ----
 title: Castledawson
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

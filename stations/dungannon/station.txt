@@ -2,7 +2,7 @@ uid: dungannon
 ----
 title: Dungannon
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

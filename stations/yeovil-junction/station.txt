@@ -2,7 +2,7 @@ uid: yeovil-junction
 ----
 title: Yeovil Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

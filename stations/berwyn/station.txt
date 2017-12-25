@@ -2,7 +2,7 @@ uid: berwyn
 ----
 title: Berwyn
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

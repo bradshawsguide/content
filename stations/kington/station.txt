@@ -2,7 +2,7 @@ uid: kington
 ----
 title: Kington
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

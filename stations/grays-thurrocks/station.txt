@@ -2,7 +2,7 @@ uid: grays-thurrocks
 ----
 title: Gray’s Thurrocks
 ----
-title-today: Grays
+subtitle: Grays
 ----
 country: england
 ----

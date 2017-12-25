@@ -2,7 +2,7 @@ uid: newbridge-kildare
 ----
 title: Newbridge
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

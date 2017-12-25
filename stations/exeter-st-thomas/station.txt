@@ -2,7 +2,7 @@ uid: exeter-st-thomas
 ----
 title: Exeter St. Thomas
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

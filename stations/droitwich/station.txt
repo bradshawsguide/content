@@ -2,7 +2,7 @@ uid: droitwich
 ----
 title: Droitwich
 ----
-title-today: Droitwich Spa
+subtitle: Droitwich Spa
 ----
 country: england
 ----

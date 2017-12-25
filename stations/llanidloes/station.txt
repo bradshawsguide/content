@@ -2,7 +2,7 @@ uid: llanidloes
 ----
 title: Llanidloes
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

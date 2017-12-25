@@ -2,7 +2,7 @@ uid: killygordon
 ----
 title: Killygordon
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

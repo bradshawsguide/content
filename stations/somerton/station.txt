@@ -2,7 +2,7 @@ uid: somerton
 ----
 title: Somerton
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

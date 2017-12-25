@@ -2,7 +2,7 @@ uid: bradford-on-avon
 ----
 title: Bradford-on-Avon
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: chirk
 ----
 title: Chirk
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

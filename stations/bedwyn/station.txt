@@ -2,7 +2,7 @@ uid: bedwyn
 ----
 title: Bedwyn
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

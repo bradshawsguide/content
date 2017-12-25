@@ -2,7 +2,7 @@ uid: multyfarnham
 ----
 title: Multyfarnham
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

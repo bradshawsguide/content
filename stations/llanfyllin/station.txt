@@ -2,7 +2,7 @@ uid: llanfyllin
 ----
 title: Llanfyllin
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

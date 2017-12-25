@@ -2,7 +2,7 @@ uid: havod
 ----
 title: Havod
 ----
-title-today: Trehafod
+subtitle: Trehafod
 ----
 country: wales
 ----

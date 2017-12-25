@@ -2,7 +2,7 @@ uid: laytown
 ----
 title: Laytown
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

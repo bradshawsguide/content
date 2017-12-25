@@ -2,7 +2,7 @@ uid: inch-road
 ----
 title: Inch Road 2
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

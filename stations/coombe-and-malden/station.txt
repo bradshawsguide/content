@@ -2,7 +2,7 @@ uid: coombe-and-malden
 ----
 title: Coombe and Malden
 ----
-title-today: New Malden
+subtitle: New Malden
 ----
 country: england
 ----

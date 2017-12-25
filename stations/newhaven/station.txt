@@ -2,7 +2,7 @@ uid: newhaven
 ----
 title: Newhaven
 ----
-title-today: Newhaven Town
+subtitle: Newhaven Town
 ----
 country: england
 ----

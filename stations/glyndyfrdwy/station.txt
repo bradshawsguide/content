@@ -2,7 +2,7 @@ uid: glyndyfrdwy
 ----
 title: Glyndyfrdwy
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

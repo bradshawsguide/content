@@ -2,7 +2,7 @@ uid: yatton
 ----
 title: Yatton
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

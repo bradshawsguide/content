@@ -2,7 +2,7 @@ uid: farrangalway
 ----
 title: Farrangalway
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

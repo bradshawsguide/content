@@ -2,7 +2,7 @@ uid: cooks-bridge
 ----
 title: Cook's Bridge
 ----
-title-today: Cooksbridge
+subtitle: Cooksbridge
 ----
 country: england
 ----

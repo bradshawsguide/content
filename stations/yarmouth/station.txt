@@ -2,7 +2,7 @@ uid: yarmouth
 ----
 title: Yarmouth
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

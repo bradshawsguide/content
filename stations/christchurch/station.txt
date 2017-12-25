@@ -2,7 +2,7 @@ uid: christchurch
 ----
 title: Christchurch
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

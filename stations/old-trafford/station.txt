@@ -2,7 +2,7 @@ uid: old-trafford
 ----
 title: Old Trafford
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

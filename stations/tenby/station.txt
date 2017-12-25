@@ -2,7 +2,7 @@ uid: tenby
 ----
 title: Tenby
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

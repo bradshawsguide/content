@@ -2,7 +2,7 @@ uid: peel-causeway
 ----
 title: Peel Causeway
 ----
-title-today: Hale
+subtitle: Hale
 ----
 country: england
 ----

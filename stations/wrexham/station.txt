@@ -2,7 +2,7 @@ uid: wrexham
 ----
 title: Wrexham
 ----
-title-today: Wrexham General
+subtitle: Wrexham General
 ----
 country: wales
 ----

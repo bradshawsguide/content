@@ -2,7 +2,7 @@ uid: headford
 ----
 title: Headford
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

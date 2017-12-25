@@ -2,7 +2,7 @@ uid: troopers-lane
 ----
 title: Trooper's Lane
 ----
-title-today: Trooperslane
+subtitle: Trooperslane
 ----
 country: ireland
 ----

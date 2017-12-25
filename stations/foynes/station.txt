@@ -2,7 +2,7 @@ uid: foynes
 ----
 title: Foynes
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

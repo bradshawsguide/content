@@ -2,7 +2,7 @@ uid: church-stretton
 ----
 title: Church Stretton
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

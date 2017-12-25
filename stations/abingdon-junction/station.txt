@@ -2,7 +2,7 @@ uid: abingdon-junction
 ----
 title: Abingdon Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

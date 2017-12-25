@@ -2,7 +2,7 @@ uid: fenny-compton
 ----
 title: Fenny Compton
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

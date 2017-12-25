@@ -2,7 +2,7 @@ uid: cuxton
 ----
 title: Cuxton, or Cuckstone
 ----
-title-today: Cuxton
+subtitle: Cuxton
 ----
 country: england
 ----

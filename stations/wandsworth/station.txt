@@ -2,7 +2,7 @@ uid: wandsworth
 ----
 title: Wandsworth
 ----
-title-today: Wandsworth Town
+subtitle: Wandsworth Town
 ----
 country: england
 ----

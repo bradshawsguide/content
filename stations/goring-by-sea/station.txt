@@ -2,7 +2,7 @@ uid: goring-by-sea
 ----
 title: Goring-by-Sea
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

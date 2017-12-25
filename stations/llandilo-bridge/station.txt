@@ -2,7 +2,7 @@ uid: llandilo-bridge
 ----
 title: Llandilo Bridge
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: blaenavon
 ----
 title: Blaenavon
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

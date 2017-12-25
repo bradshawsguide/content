@@ -2,7 +2,7 @@ uid: altrincham-and-bowdon
 ----
 title: Altrincham and Bowdon
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

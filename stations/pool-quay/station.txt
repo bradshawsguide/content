@@ -2,7 +2,7 @@ uid: pool-quay
 ----
 title: Pool Quay
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: builth
 ----
 title: Builth
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

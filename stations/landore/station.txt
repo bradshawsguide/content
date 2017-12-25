@@ -2,7 +2,7 @@ uid: landore
 ----
 title: Landore
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

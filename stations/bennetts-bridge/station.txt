@@ -2,7 +2,7 @@ uid: bennetts-bridge
 ----
 title: Bennett's Bridge
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

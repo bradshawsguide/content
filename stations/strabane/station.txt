@@ -2,7 +2,7 @@ uid: strabane
 ----
 title: Strabane
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

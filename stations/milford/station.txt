@@ -2,7 +2,7 @@ uid: milford
 ----
 title: Milford
 ----
-title-today: Milford Haven
+subtitle: Milford Haven
 ----
 country: wales
 ----

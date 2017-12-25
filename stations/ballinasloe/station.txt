@@ -2,7 +2,7 @@ uid: ballinasloe
 ----
 title: Ballinasloe
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

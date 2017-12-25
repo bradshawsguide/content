@@ -2,7 +2,7 @@ uid: nantgaredig
 ----
 title: Nantgaredig
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: neen-sollers
 ----
 title: Neen Sollers
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

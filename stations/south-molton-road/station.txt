@@ -2,7 +2,7 @@ uid: south-molton-road
 ----
 title: South Molton Road
 ----
-title-today: King’s Nympton
+subtitle: King’s Nympton
 ----
 country: england
 ----

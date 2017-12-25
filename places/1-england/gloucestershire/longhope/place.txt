@@ -2,7 +2,7 @@ section: 2
 ----
 title: Longhope
 ----
-title_suffix: (late Hopebrook)
+subtitle: (late Hopebrook)
 ----
 company:
 - great-western

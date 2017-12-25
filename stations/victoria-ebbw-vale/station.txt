@@ -2,7 +2,7 @@ uid: victoria-ebbw-vale
 ----
 title: Victoria Ebbw Vale
 ----
-title-today: Ebbw Vale Parkway
+subtitle: Ebbw Vale Parkway
 ----
 country: england
 ----

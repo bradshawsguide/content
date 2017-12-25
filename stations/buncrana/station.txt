@@ -2,7 +2,7 @@ uid: buncrana
 ----
 title: Buncrana
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

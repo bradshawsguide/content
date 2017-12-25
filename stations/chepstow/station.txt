@@ -2,7 +2,7 @@ uid: chepstow
 ----
 title: Chepstow
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

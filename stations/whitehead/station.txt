@@ -2,7 +2,7 @@ uid: whitehead
 ----
 title: Whitehead
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

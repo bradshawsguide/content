@@ -2,7 +2,7 @@ uid: glenealy
 ----
 title: Glenealy
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

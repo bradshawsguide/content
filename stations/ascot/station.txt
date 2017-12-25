@@ -2,7 +2,7 @@ uid: ascot
 ----
 title: Ascot
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

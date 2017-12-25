@@ -2,7 +2,7 @@ uid: tullamore
 ----
 title: Tullamore
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

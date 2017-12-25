@@ -2,7 +2,7 @@ uid: pontypool-road
 ----
 title: Pontypool Road
 ----
-title-today: Pontypool and New Inn
+subtitle: Pontypool and New Inn
 ----
 country: england
 ----

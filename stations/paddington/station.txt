@@ -2,7 +2,7 @@ uid: paddington
 ----
 title: Paddington
 ----
-title-today: London Paddington
+subtitle: London Paddington
 ----
 country: england
 ----

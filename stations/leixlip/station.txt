@@ -2,7 +2,7 @@ uid: leixlip
 ----
 title: Leixlip
 ----
-title-today: Leixlip Louisa Bridge
+subtitle: Leixlip Louisa Bridge
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: wells-east-somerset
 ----
 title: Wells East Somerset
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

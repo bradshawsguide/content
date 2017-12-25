@@ -2,7 +2,7 @@ uid: tavistock-south
 ----
 title: Tavistock South
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

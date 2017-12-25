@@ -2,7 +2,7 @@ uid: llanbrynmair
 ----
 title: Llanbrynmair
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

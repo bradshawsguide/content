@@ -2,7 +2,7 @@ uid: llanarthney
 ----
 title: Llanarthney
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

@@ -2,7 +2,7 @@ uid: sligo
 ----
 title: Sligo
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

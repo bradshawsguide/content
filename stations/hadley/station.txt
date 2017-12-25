@@ -2,7 +2,7 @@ uid: hadley
 ----
 title: Hadley
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

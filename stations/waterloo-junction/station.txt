@@ -2,7 +2,7 @@ uid: waterloo-junction
 ----
 title: Waterloo Junction
 ----
-title-today: Waterloo East
+subtitle: Waterloo East
 ----
 country: england
 ----

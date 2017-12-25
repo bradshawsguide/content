@@ -2,7 +2,7 @@ uid: kingstown
 ----
 title: Kingstown
 ----
-title-today: Dún Laoghaire
+subtitle: Dún Laoghaire
 ----
 country: ireland
 ----

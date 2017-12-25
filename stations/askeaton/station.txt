@@ -2,7 +2,7 @@ uid: askeaton
 ----
 title: Askeaton
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

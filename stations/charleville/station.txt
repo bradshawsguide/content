@@ -2,7 +2,7 @@ uid: charleville
 ----
 title: Charleville
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: bandon
 ----
 title: Bandon
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

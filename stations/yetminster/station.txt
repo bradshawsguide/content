@@ -2,7 +2,7 @@ uid: yetminster
 ----
 title: Yetminster
 ----
-title-today: 
+subtitle: 
 ----
 country: england
 ----

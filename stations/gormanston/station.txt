@@ -2,7 +2,7 @@ uid: gormanston
 ----
 title: Gormanston
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

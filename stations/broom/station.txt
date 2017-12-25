@@ -2,7 +2,7 @@ uid: broom
 ----
 title: Broom
 ----
-title-today: Broome
+subtitle: Broome
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: clapham
 ----
 title: Clapham
 ----
-title-today: Clapham Junction
+subtitle: Clapham Junction
 ----
 country: england
 ----

@@ -2,7 +2,7 @@ uid: kinsale-junction
 ----
 title: Kinsale Junction
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

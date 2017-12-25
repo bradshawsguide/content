@@ -2,7 +2,7 @@ uid: cavan
 ----
 title: Cavan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

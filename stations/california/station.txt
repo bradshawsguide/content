@@ -2,7 +2,7 @@ uid: california
 ----
 title: California
 ----
-title-today: Belmont
+subtitle: Belmont
 ----
 country: england
 ----

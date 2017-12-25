@@ -2,7 +2,7 @@ uid: ystrad-rhondda
 ----
 title: Ystrad
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

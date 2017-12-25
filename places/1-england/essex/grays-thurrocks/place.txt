@@ -2,7 +2,7 @@ section: 1
 ----
 title: Gray's Thurrocks
 ----
-title_later: Grays
+subtitle: Grays
 ----
 region: essex
 ----

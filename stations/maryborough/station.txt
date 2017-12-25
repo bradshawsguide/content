@@ -2,7 +2,7 @@ uid: maryborough
 ----
 title: Maryborough
 ----
-title-today: Port Laoise
+subtitle: Port Laoise
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: portsmouth
 ----
 title: Portsmouth
 ----
-title-today: Portsmouth & Southsea
+subtitle: Portsmouth & Southsea
 ----
 country: england
 ----

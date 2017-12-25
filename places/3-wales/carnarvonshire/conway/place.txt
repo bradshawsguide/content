@@ -2,7 +2,7 @@ section: 2
 ----
 title: Conway
 ----
-title_later: Conwy
+subtitle: Conwy
 ----
 company:
 - london-and-north-western

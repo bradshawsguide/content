@@ -2,7 +2,7 @@ uid: bognor
 ----
 title: Bognor
 ----
-title-today: Bognor Regis
+subtitle: Bognor Regis
 ----
 country: england
 ----

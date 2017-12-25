@@ -2,7 +2,7 @@ uid: folkestone-junction
 ----
 title: Folkestone Junction
 ----
-title-today: Folkestone East
+subtitle: Folkestone East
 ----
 country: england
 ----

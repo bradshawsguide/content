@@ -2,7 +2,7 @@ uid: killonan
 ----
 title: Killonan
 ----
-title-today: 
+subtitle: 
 ----
 country: ireland
 ----

@@ -2,7 +2,7 @@ uid: ruabon
 ----
 title: Ruabon
 ----
-title-today: 
+subtitle: 
 ----
 country: wales
 ----

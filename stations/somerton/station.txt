@@ -10,7 +10,7 @@ region: oxfordshire
 ----
 place: 
 ----
-wikipedia: Fritwell_%26_Somerton_railway_station
+wikipedia: Fritwell_&_Somerton_railway_station
 ----
 disused: 
 ----

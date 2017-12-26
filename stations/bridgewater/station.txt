@@ -2,7 +2,7 @@ uid: bridgewater
 ----
 title: Bridgewater
 ----
-subtitle: 
+subtitle: Bridgwater
 ----
 country: england
 ----

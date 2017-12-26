@@ -1,6 +1,6 @@
 uid: appledore-kent
 ----
-title: Appledore
+title: Appledore (Kent)
 ----
 subtitle: 
 ----

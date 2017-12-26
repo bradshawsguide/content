@@ -10,7 +10,7 @@ region: middlesex
 ----
 place: hammersmith
 ----
-wikipedia: Hammersmith_%26_Chiswick_railway_station
+wikipedia: Hammersmith_&_Chiswick_railway_station
 ----
 disused: h/hammersmith_and_chicwick
 ----

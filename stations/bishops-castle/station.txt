@@ -10,7 +10,7 @@ region: shropshire
 ----
 place: 
 ----
-wikipedia: Bishop%27s_Castle_railway_station
+wikipedia: Bishop's_Castle_railway_station
 ----
 disused: b/bishops_castle
 ----

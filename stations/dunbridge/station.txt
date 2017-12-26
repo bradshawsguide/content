@@ -10,7 +10,7 @@ region: hampshire
 ----
 place: dunbridge
 ----
-wikipedia: Mottisfont_%26_Dunbridge_railway_station
+wikipedia: Mottisfont_&_Dunbridge_railway_station
 ----
 disused: 
 ----

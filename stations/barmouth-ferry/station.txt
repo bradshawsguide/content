@@ -14,7 +14,7 @@ wikipedia: Barmouth_Ferry_railway_station
 ----
 disused: 
 ----
-code: BRM
+code: 
 ----
 geolat: 52.715393
 ----

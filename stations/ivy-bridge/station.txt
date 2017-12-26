@@ -2,7 +2,7 @@ uid: ivy-bridge
 ----
 title: Ivy Bridge
 ----
-subtitle: 
+subtitle: Ivybridge
 ----
 country: england
 ----

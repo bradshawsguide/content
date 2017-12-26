@@ -10,7 +10,7 @@ region: hampshire
 ----
 place: 
 ----
-wikipedia: Chandler%27s_Ford_railway_station
+wikipedia: Chandler's_Ford_railway_station
 ----
 disused: 
 ----

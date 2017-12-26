@@ -2,7 +2,7 @@ uid: minster-junction
 ----
 title: Minster Junction
 ----
-subtitle: 
+subtitle: Minster
 ----
 country: england
 ----

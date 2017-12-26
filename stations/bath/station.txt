@@ -2,7 +2,7 @@ uid: bath
 ----
 title: Bath
 ----
-subtitle: 
+subtitle: Bath Spa
 ----
 country: england
 ----

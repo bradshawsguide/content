@@ -10,7 +10,7 @@ region: county-dublin
 ----
 place: 
 ----
-wikipedia: Howth_Junction_%26_Donaghmede_railway_station
+wikipedia: Howth_Junction_&_Donaghmede_railway_station
 ----
 disused: 
 ----

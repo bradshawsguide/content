@@ -2,7 +2,7 @@ uid: llangadock
 ----
 title: Llangadock
 ----
-subtitle: 
+subtitle: Llangadog
 ----
 country: wales
 ----

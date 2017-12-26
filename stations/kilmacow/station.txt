@@ -1,0 +1,21 @@
+uid: kilmacow
+----
+title: Kilmacow
+----
+subtitle: 
+----
+country: ireland
+----
+region: county-kilkenny
+----
+place: 
+----
+wikipedia: 
+----
+disused: 
+----
+code: 
+----
+geolat: 52.323450
+----
+geolng: -7.153057

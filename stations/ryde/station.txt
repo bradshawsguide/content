@@ -10,7 +10,7 @@ region: isle-of-wight
 ----
 place: ryde
 ----
-wikipedia: Ryde_St_John%27s_Road_railway_station
+wikipedia: Ryde_St_John's_Road_railway_station
 ----
 disused: 
 ----

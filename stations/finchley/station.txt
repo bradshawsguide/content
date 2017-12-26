@@ -10,7 +10,7 @@ region: middlesex
 ----
 place: 
 ----
-wikipedia: Finchley_Road_%26_Frognal_railway_station
+wikipedia: Finchley_Road_&_Frognal_railway_station
 ----
 disused: 
 ----

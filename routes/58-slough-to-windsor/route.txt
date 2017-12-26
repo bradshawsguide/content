@@ -11,7 +11,7 @@ stops:
 - windsor-gwr
 ----
 links:
-- (wikipedia: Slough–Windsor_%26_Eton_line)
+- (wikipedia: Slough–Windsor_&_Eton_line)
 ----
 text: (place: england/berkshire/eton)
 

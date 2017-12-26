@@ -2,7 +2,7 @@ uid: port-talbot
 ----
 title: Port Talbot
 ----
-subtitle: 
+subtitle: Port Talbot Parkway
 ----
 country: wales
 ----

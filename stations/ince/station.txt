@@ -10,7 +10,7 @@ region: cheshire
 ----
 place: ince
 ----
-wikipedia: Ince_%26_Elton_railway_station
+wikipedia: Ince_&_Elton_railway_station
 ----
 disused: 
 ----

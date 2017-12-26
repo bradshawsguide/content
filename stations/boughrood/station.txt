@@ -10,7 +10,7 @@ region: brecknockshire
 ----
 place: 
 ----
-wikipedia: Boughrood_%26_Llyswen_railway_station
+wikipedia: Boughrood_&_Llyswen_railway_station
 ----
 disused: 
 ----

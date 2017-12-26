@@ -11,7 +11,7 @@ stops:
 - ludgate-hill
 - blackfriars-bridge
 - borough-road
-- elephant-and-castle
+- elephant-castle
 - wallworth-road
 - camberwell-road
 - [loughborough-road, brixton]
@@ -19,7 +19,7 @@ stops:
 ----
 text: On leaving [Farringdon Street](/stations/farringdon-street) the line is carried across [Ludgate Hill](/stations/ludgate-hill) by means of a highly ornamented viaduct, and from thence over the Alexandra Bridge, a truly magnificent specimen of engineering skill, to [Blackfriars](/stations/blackfriars-bridge). The Charing Cross railway attracts our attention for a moment, when, on passing the station at [Borough Road](/stations/borough-road), we arrive at the well-known station of the
 
-[Elephant and Castle](/stations/elephant-and-castle), from whence omnibuses may be had to almost every part of the metropolis.
+[Elephant and Castle](/stations/elephant-castle), from whence omnibuses may be had to almost every part of the metropolis.
 
 [Wallworth Road](/stations/wallworth-road), [Camberwell Road](/stations/camberwell-road), and [Loughborough Road](/stations/loughborough-road) stations.
 

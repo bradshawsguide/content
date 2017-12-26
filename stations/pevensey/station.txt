@@ -10,7 +10,7 @@ region: sussex
 ----
 place: pevensey
 ----
-wikipedia: Pevensey_%26_Westham_railway_station
+wikipedia: Pevensey_&_Westham_railway_station
 ----
 disused: 
 ----

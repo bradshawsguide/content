@@ -74,7 +74,7 @@ The Finn Valley railway also turns off here to the right.
 
 (place: ireland/county-monaghan/clones)
 
-A connecting link is here formed between this line and the Midland Great Western, by which the Midland and more western districts are brought into much more intimate connection with those of the north. The line runs from Clones, *via* <span class="smcp">Belturbet</span>, to Cavan, for continuation of which route, to Galway, see [???](#).
+A connecting link is here formed between this line and the Midland Great Western, by which the Midland and more western districts are brought into much more intimate connection with those of the north. The line runs from Clones, *via* <span class="smcp">Belturbet</span>, to Cavan, for continuation of which route, to Galway, see [Dublin to Galway](/routes/dublin-to-mullingar-athlone-and-galway).
 
 [Newbliss](/stations/newbliss) and [Monaghan Road](/stations/monaghan-road) stations.
 

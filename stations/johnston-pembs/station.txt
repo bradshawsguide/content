@@ -1,6 +1,6 @@
-uid: johnston
+uid: johnston-pembs
 ----
-title: Johnston
+title: Johnston (Pembrokeshire)
 ----
 subtitle: 
 ----

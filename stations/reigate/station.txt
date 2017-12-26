@@ -1,6 +1,6 @@
-uid: reigate-town
+uid: reigate
 ----
-title: Reigate Town
+title: Reigate
 ----
 subtitle: 
 ----

@@ -1,6 +1,6 @@
 uid: eccles-manchester
 ----
-title: Eccles
+title: Eccles (Manchester)
 ----
 subtitle: 
 ----

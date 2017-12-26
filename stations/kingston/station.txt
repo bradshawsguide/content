@@ -1,8 +1,8 @@
-uid: kingston-town
+uid: kingston
 ----
 title: Kingston
 ----
-subtitle: 
+subtitle:
 ----
 country: england
 ----
@@ -12,7 +12,7 @@ place: kingston
 ----
 wikipedia: Kingston_(London)_railway_station
 ----
-disused: 
+disused:
 ----
 code: KNG
 ----

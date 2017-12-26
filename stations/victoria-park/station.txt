@@ -10,7 +10,7 @@ region: middlesex
 ----
 place: 
 ----
-wikipedia: Victoria_Park_%26_Bow_railway_station
+wikipedia: Victoria_Park_&_Bow_railway_station
 ----
 disused: v/victoria_park/index0.shtml
 ----

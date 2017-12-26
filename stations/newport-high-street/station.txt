@@ -1,8 +1,8 @@
 uid: newport-high-street
 ----
-title: Newport
+title: Newport High Street
 ----
-subtitle: 
+subtitle: Newport
 ----
 country: england
 ----

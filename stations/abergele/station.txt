@@ -10,7 +10,7 @@ region: denbighshire
 ----
 place: abergele
 ----
-wikipedia: Abergele_%26_Pensarn_railway_station
+wikipedia: Abergele_&_Pensarn_railway_station
 ----
 disused: 
 ----

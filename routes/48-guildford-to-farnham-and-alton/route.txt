@@ -13,7 +13,7 @@ stops:
 - ash
 - tongham
 - farnham
-- bentley
+- bentley-hants
 - alton
 - ropley
 - alresford

@@ -2,7 +2,7 @@ uid: windsor-lswr
 ----
 title: Windsor (LSWR)
 ----
-subtitle: Eton & Windsor Riverside
+subtitle: Windsor & Eton Riverside
 ----
 country: england
 ----
@@ -10,7 +10,7 @@ region: berkshire
 ----
 place: windsor
 ----
-wikipedia: Windsor_%26_Eton_Riverside_railway_station
+wikipedia: Windsor_&_Eton_Riverside_railway_station
 ----
 disused: 
 ----

@@ -2,7 +2,7 @@ uid: nailsea
 ----
 title: Nailsea
 ----
-subtitle: Nailsea and Backwell
+subtitle: Nailsea & Backwell
 ----
 country: england
 ----

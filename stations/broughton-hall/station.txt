@@ -10,7 +10,7 @@ region: flintshire
 ----
 place: 
 ----
-wikipedia: Broughton_%26_Bretton_railway_station
+wikipedia: Broughton_&_Bretton_railway_station
 ----
 disused: b/broughton_and_bretton
 ----

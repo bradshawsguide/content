@@ -2,7 +2,7 @@ uid: llandilo
 ----
 title: Llandilo
 ----
-subtitle: 
+subtitle: Llandeilo
 ----
 country: wales
 ----

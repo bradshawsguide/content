@@ -10,7 +10,7 @@ region: isle-of-wight
 ----
 place: calbourne
 ----
-wikipedia: Calbourne_%26_Shalfleet_railway_station
+wikipedia: Calbourne_&_Shalfleet_railway_station
 ----
 disused: c/calbourne
 ----

@@ -10,7 +10,7 @@ region: carnarvonshire
 ----
 place: 
 ----
-wikipedia: Griffith%27s_Crossing_railway_station
+wikipedia: Griffith's_Crossing_railway_station
 ----
 disused: g/griffiths_crossing
 ----

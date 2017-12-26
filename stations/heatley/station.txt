@@ -10,7 +10,7 @@ region: cheshire
 ----
 place: 
 ----
-wikipedia: Heatley_%26_Warburton_railway_station
+wikipedia: Heatley_&_Warburton_railway_station
 ----
 disused: h/heatley_and_warburton
 ----

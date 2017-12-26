@@ -2,7 +2,7 @@ uid: towyn
 ----
 title: Towyn
 ----
-subtitle: 
+subtitle: Tywyn
 ----
 country: wales
 ----

@@ -9,7 +9,7 @@ company: great-southern-and-western
 stops:
 - dublin
 - newbridge-kildare
-- [kildare-junction, athy, mageney, carlow, milford-carlow, bagnalstown, [gowran, borris, ballywilliam], kilkenny, bennetts-bridge, thomastown, ballyhale, mullinavtt, waterford]
+- [kildare-junction, athy, mageney, carlow, milford-carlow, bagnalstown, [gowran, borris, ballywilliam], kilkenny, bennetts-bridge, thomastown, ballyhale, mullinavat, kilmacow, waterford]
 - portarlington
 - maryborough
 - mountrath
@@ -18,7 +18,7 @@ stops:
 - thurles
 - goolds-cross
 - dundrum
-- [limerick-junction, oola, palla, dromkeen, boher, killonan, [limerick, longpavement, cratloe, six-mile-bridge, ballycar, ardsollus, clare-castle, ennis]]
+- [limerick-junction, oola, pallas, dromkeen, boher, killonan, [limerick, longpavement, cratloe, six-mile-bridge, ballycar, ardsollus, clare-castle, ennis]]
 - knocklong
 - kilmallock
 - charleville
@@ -51,7 +51,7 @@ The country becomes more hilly both up and down the Nore, towards its head, nort
 
 Dunmore Park and caves, belonging to the Ormondes; Tullaroan old church, near Courtown Castle, once the seat of the powerful Grace family, descended from Raymond le Gros. Ballyspellan Spa, near Johnstown, and the collieries in the Dysart Hills (the highest is 1,028 feet high), round Castle Comer. Here the Kilkenny or anthracite coal is quarried, in thin dirty seams; it burns without flame or smoke.
 
-Passing [Upper John Street](/stations/kilkenny) and [Bennett's Bridge](/stations/bennetts-bridge), where there are some large flour mills, and at which Fairs are held on February 24th, August 26th, September 19th, and December 21st, we proceed down the Nore, and come to [Thomastown](/stations/thomastown) and Innistroge Castle, with Mount Brandon, a granite peak 1,696 feet high, to the left, overlooking the Barrow; beyond which are Blackstairs and Leinster mountains, the latter on the Wexford borders, 2,600 feet high. Then passing [Ballyhale](/stations/ballyhale), we proceed to [Mullinavatt](/stations/mullinavtt), where Fairs are held March 29th, September 2nd, October 3rd, and 28th, December 9th, and soon after reach [Kilmacow](/stations/Kilmacow), and then enter the county of [Waterford](/places/ireland/county-waterford).
+Passing [Upper John Street](/stations/kilkenny) and [Bennett's Bridge](/stations/bennetts-bridge), where there are some large flour mills, and at which Fairs are held on February 24th, August 26th, September 19th, and December 21st, we proceed down the Nore, and come to [Thomastown](/stations/thomastown) and Innistroge Castle, with Mount Brandon, a granite peak 1,696 feet high, to the left, overlooking the Barrow; beyond which are Blackstairs and Leinster mountains, the latter on the Wexford borders, 2,600 feet high. Then passing [Ballyhale](/stations/ballyhale), we proceed to [Mullinavatt](/stations/mullinavat), where Fairs are held March 29th, September 2nd, October 3rd, and 28th, December 9th, and soon after reach [Kilmacow](/stations/kilmacow), and then enter the county of [Waterford](/places/ireland/county-waterford).
 
 (place: ireland/county-waterford/waterford)
 
@@ -78,14 +78,14 @@ Returning to the junction at Roscrea, we pass on to [Templemore](/stations/templ
 
 [Goold's Cross](/stations/goolds-cross) and [Dundrum](/stations/dundrum) Stations.
 
-[Limerick Junction](/stations/limerick-junction)--Here is another Branch Line to Limerick, running via the stations of [Oola](/stations/oola), [Pallas](/stations/Pallas), [Dromkeen](/stations/dromkeen), [Boher](/stations/boher), and [Killonan](/stations/killonan), to [Limerick](/stations/limerick) a distance of 21¾ miles from the Junction. This route may be continued in a north-westerly direction, under the control of the Limerick and Ennis Company. The Stations are [Longpavement](/stations/longpavement), 4 miles, [Cratloe](/stations/cratloe), 5¾, [Six Mile Bridge](/stations/six-mile-bridge), 3¼, for the town of *Tulla*, [Ballycar](/stations/ballycar), 3½, [Ardsollus](/stations/ardsollus), to
+[Limerick Junction](/stations/limerick-junction)--Here is another Branch Line to Limerick, running via the stations of [Oola](/stations/oola), [Pallas](/stations/pallas), [Dromkeen](/stations/dromkeen), [Boher](/stations/boher), and [Killonan](/stations/killonan), to [Limerick](/stations/limerick) a distance of 21¾ miles from the Junction. This route may be continued in a north-westerly direction, under the control of the Limerick and Ennis Company. The Stations are [Longpavement](/stations/longpavement), 4 miles, [Cratloe](/stations/cratloe), 5¾, [Six Mile Bridge](/stations/six-mile-bridge), 3¼, for the town of *Tulla*, [Ballycar](/stations/ballycar), 3½, [Ardsollus](/stations/ardsollus), to
 
 [Clare Castle](/stations/clare-castle), on the river Fergus, a tributary of the Shannon, and navigable to this point. Here are also the remains of a monastery, built in 1190 by the O'Briens. A mile and three quarters further brings us to the county and market town of
 
 **Ennis** the terminus of the line, also situated on the River Fergus. It is a telegraph station, has a small trade in butter and grain, and a population of about 10,000.
 
 ### Great Southern and Western Main Line continued
-From Limerick Junction the line again turns off to the left for Clonmel and Waterford, a description of which latter town [will be found here](/places/ireland/county-waterford/aterford).
+From Limerick Junction the line again turns off to the left for Clonmel and Waterford, a description of which latter town [will be found here](/places/ireland/county-waterford/waterford).
 
 Again taking our seats at the Junction we pass on about 9 miles further and enter the county of [Limerick](/places/ireland/county-limerick).
 

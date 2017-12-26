@@ -10,7 +10,7 @@ region: devonshire
 ----
 place: 
 ----
-wikipedia: King%27s_Nympton_railway_station
+wikipedia: King's_Nympton_railway_station
 ----
 disused: 
 ----

@@ -2,7 +2,7 @@ uid: tunbridge
 ----
 title: Tunbridge
 ----
-subtitle: 
+subtitle: Tonbridge
 ----
 country: england
 ----

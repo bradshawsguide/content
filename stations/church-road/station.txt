@@ -10,7 +10,7 @@ region: monmouthshire
 ----
 place: 
 ----
-wikipedia: Church_Road_(B%26MJR)_railway_station
+wikipedia: Church_Road_(B&MJR)_railway_station
 ----
 disused: 
 ----

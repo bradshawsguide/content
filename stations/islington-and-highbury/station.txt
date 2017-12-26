@@ -10,7 +10,7 @@ region: middlesex
 ----
 place: islington
 ----
-wikipedia: Highbury_%26_Islington_station
+wikipedia: Highbury_&_Islington_station
 ----
 disused: 
 ----

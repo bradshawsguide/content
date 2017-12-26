@@ -2,7 +2,7 @@ uid: handborough
 ----
 title: Handborough
 ----
-subtitle: 
+subtitle: Hanborough
 ----
 country: england
 ----

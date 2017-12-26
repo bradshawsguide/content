@@ -11,7 +11,6 @@ route:
 - hartlebury-to-shrewsbury
 - didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
 - shrewsbury-to-welshpool
-- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
 ----
 info:
 - term: Hotels

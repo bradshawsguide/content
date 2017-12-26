@@ -1,6 +1,6 @@
-uid: elephant-and-castle
+uid: elephant-castle
 ----
-title: Elephant and Castle
+title: Elephant & Castle
 ----
 subtitle: 
 ----
@@ -10,7 +10,7 @@ region: surrey
 ----
 place: 
 ----
-wikipedia: Elephant_%26_Castle_railway_station
+wikipedia: Elephant_&_Castle_railway_station
 ----
 disused: 
 ----

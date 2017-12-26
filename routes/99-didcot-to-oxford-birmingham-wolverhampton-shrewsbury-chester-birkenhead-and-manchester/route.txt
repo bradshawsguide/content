@@ -6,7 +6,9 @@ title_short: Didcot to Manchester
 ----
 subtitle: Great Western Main Line
 ----
-company: great-western
+company:
+- great-western
+- london-and-north-western
 ----
 stops:
 - didcot
@@ -140,7 +142,7 @@ Before proceeding further North, we will [retrace our journey to Oxford](/routes
 
 (route: shrewsbury-to-welshpool)
 
-### Shresbury and Chester Railway
+### Shresbury and Chester Railway {#shrewsbury-to-chester}
 To the tourist, this line of railway holds out peculiar attractions. The Vale of Gresford, the grounds of Wynnstay, the valley of the Dee, and the vale of Llangollen, offer some of the most beautiful views, unsurpassed for grandeur and picturesque effect. Here Cambria discloses herself between the mountains of Trevor and Berwyn, and by her own sacred Dee, the happy valley, which leads to scenes of the richest beauty, where amidst her mountains and lakes she revels in all her native splendour of rocks, woods, and streams. Throughout the rest of the line, as it crosses the valley of the Ceiriog, and passes along the borders of Wales to St. Oswald's town of Shrewsbury, the scenery is most lovely and park-like; and the adjoining Welsh mountains form, a noble and varied background to many a delightful view. It is both a business and pleasure line. It curves so as to either nearly touch or pass through the borders of Wales; it intersects a very important iron and coal district in Denbighshire, and passes either close to, or as near as possible the chief towns on its route--Oswestry, Llangollen, and Wrexham.
 
 Proceeding on our way, with the "fair Sabrina" on our left hand, we pass *Berwick Park*, the seat of Lord Berwick, and arrive at
@@ -223,7 +225,7 @@ For continuation of route to Holyhead, see [Chester to Holyhead](/routes/chester
 
 (route: chester-to-birkenhead-and-liverpool)
 
-### Chester to Manchester
+### Chester to Manchester {#chester-to-manchester}
 *(Viâ Warrington and Newton Junction).*
 
 The station at Chester stands to the north-east of the city, with *Abbot's Grange* a little to the left. About two miles along the line we pass *Hoole Hall*, the residence of Lady Broughton, and a little beyond, the village of *Mickle Trafford*, and shortly after arrive at the first station on the line, that of [Dunham Hill](/stations/dunham-hill), close to which are *Wimbold's Trafford Hall* and *Bridge Trafford*. The next place we stop at is

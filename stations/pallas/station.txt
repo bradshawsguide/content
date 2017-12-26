@@ -1,12 +1,12 @@
-uid: mullinavtt
+uid: pallas
 ----
-title: Mullinavtt
+title: Pallas
 ----
 subtitle: 
 ----
 country: ireland
 ----
-region: county-kilkenny
+region: county-limerick
 ----
 place: 
 ----
@@ -16,6 +16,6 @@ disused:
 ----
 code: 
 ----
-geolat: 52.364766
+geolat: 52.570789
 ----
-geolng: -7.170552
+geolng: -8.33674

@@ -10,7 +10,7 @@ region: herefordshire
 ----
 place: 
 ----
-wikipedia: Fawley_(HR%26GR)_railway_station
+wikipedia: Fawley_(HR&GR)_railway_station
 ----
 disused: 
 ----

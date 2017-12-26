@@ -10,7 +10,7 @@ region: hampshire
 ----
 place: portsmouth
 ----
-wikipedia: Portsmouth_%26_Southsea_railway_station
+wikipedia: Portsmouth_&_Southsea_railway_station
 ----
 disused: 
 ----

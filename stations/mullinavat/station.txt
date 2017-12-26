@@ -1,12 +1,12 @@
-uid: palla
+uid: mullinavat
 ----
-title: Palla
+title: Mullinavat
 ----
 subtitle: 
 ----
 country: ireland
 ----
-region: county-limerick
+region: county-kilkenny
 ----
 place: 
 ----
@@ -16,6 +16,6 @@ disused:
 ----
 code: 
 ----
-geolat: 52.570789
+geolat: 52.364766
 ----
-geolng: -8.33674
+geolng: -7.170552

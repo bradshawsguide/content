@@ -1,6 +1,6 @@
 uid: newport-isle-of-wight
 ----
-title: Newport
+title: Newport (Isle of Wight)
 ----
 subtitle: 
 ----
@@ -12,7 +12,7 @@ place: newport
 ----
 wikipedia: Newport_railway_station_(IoWCR)
 ----
-disused: n/newport(iwc)
+disused: n/newport%28iwc%29
 ----
 code: 
 ----

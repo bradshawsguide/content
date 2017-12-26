@@ -14,7 +14,7 @@ wikipedia: Honiton_railway_station
 ----
 disused: 
 ----
-code: HON
+nationalrail: HON
 ----
 geolat: 50.796668
 ----

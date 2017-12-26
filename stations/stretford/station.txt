@@ -14,7 +14,7 @@ wikipedia: Stretford_tram_stop
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.44643
 ----

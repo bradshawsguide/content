@@ -14,7 +14,7 @@ wikipedia: Manchester_Exchange_railway_station
 ----
 disused: m/manchester_exchange
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.486111
 ----

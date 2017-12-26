@@ -14,7 +14,7 @@ wikipedia: Hampton_Wick_railway_station
 ----
 disused: 
 ----
-code: HMW
+nationalrail: HMW
 ----
 geolat: 51.414603
 ----

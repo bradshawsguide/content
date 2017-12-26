@@ -14,7 +14,7 @@ wikipedia: Llanelli_railway_station
 ----
 disused: 
 ----
-code: LLE
+nationalrail: LLE
 ----
 geolat: 51.67391
 ----

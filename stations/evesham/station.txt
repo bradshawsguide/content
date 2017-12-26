@@ -14,7 +14,7 @@ wikipedia: Evesham_railway_station
 ----
 disused: 
 ----
-code: EVE
+nationalrail: EVE
 ----
 geolat: 52.098377
 ----

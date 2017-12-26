@@ -14,7 +14,7 @@ wikipedia: Bilston_Central_railway_station
 ----
 disused: b/bilston
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.564957
 ----

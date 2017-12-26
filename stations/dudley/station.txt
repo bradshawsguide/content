@@ -14,7 +14,7 @@ wikipedia: Dudley_railway_station
 ----
 disused: d/dudley
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.514613
 ----

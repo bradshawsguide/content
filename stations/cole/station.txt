@@ -14,7 +14,7 @@ wikipedia: Cole_(for_Bruton)_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.099406
 ----

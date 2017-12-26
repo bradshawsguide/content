@@ -14,7 +14,7 @@ wikipedia: Leatherhead_railway_station
 ----
 disused: 
 ----
-code: LHD
+nationalrail: LHD
 ----
 geolat: 51.298896
 ----

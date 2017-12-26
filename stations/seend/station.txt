@@ -14,7 +14,7 @@ wikipedia: Seend_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.355684
 ----

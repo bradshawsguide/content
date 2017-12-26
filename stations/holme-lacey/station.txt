@@ -14,7 +14,7 @@ wikipedia: Holme_Lacy_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.017458
 ----

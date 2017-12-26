@@ -14,7 +14,7 @@ wikipedia: Llansantffraid_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.774218
 ----

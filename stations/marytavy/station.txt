@@ -14,7 +14,7 @@ wikipedia: Mary_Tavy_and_Blackdown_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.589386
 ----

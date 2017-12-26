@@ -14,7 +14,7 @@ wikipedia: Linley_Halt_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.582156
 ----

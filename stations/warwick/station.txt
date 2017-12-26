@@ -14,7 +14,7 @@ wikipedia: Warwick_railway_station
 ----
 disused: 
 ----
-code: WRW
+nationalrail: WRW
 ----
 geolat: 52.286447
 ----

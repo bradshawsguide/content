@@ -14,7 +14,7 @@ wikipedia: Bitterne_railway_station
 ----
 disused: 
 ----
-code: BTE
+nationalrail: BTE
 ----
 geolat: 50.917952
 ----

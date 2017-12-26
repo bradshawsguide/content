@@ -14,7 +14,7 @@ wikipedia: Twickenham_railway_station
 ----
 disused: 
 ----
-code: TWI
+nationalrail: TWI
 ----
 geolat: 51.450356
 ----

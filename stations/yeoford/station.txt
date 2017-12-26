@@ -14,7 +14,7 @@ wikipedia: Yeoford_railway_station
 ----
 disused: 
 ----
-code: YEO
+nationalrail: YEO
 ----
 geolat: 50.776433
 ----

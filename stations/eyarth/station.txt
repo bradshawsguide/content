@@ -14,7 +14,7 @@ wikipedia: Eyarth_railway_station
 ----
 disused: e/eyarth
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.0921
 ----

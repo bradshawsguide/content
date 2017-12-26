@@ -14,7 +14,7 @@ wikipedia: Ledsham_railway_station
 ----
 disused: l/ledsham
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.280067
 ----

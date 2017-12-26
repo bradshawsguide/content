@@ -14,7 +14,7 @@ wikipedia: Porth_railway_station
 ----
 disused: 
 ----
-code: POR
+nationalrail: POR
 ----
 geolat: 51.612516
 ----

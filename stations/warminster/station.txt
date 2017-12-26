@@ -14,7 +14,7 @@ wikipedia: Warminster_railway_station
 ----
 disused: 
 ----
-code: WMN
+nationalrail: WMN
 ----
 geolat: 51.207224
 ----

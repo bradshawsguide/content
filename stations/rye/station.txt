@@ -14,7 +14,7 @@ wikipedia: Rye_railway_station
 ----
 disused: 
 ----
-code: RYE
+nationalrail: RYE
 ----
 geolat: 50.952446
 ----

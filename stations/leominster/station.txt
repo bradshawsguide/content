@@ -14,7 +14,7 @@ wikipedia: Leominster_railway_station
 ----
 disused: 
 ----
-code: LEO
+nationalrail: LEO
 ----
 geolat: 52.225585
 ----

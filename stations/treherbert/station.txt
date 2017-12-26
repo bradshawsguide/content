@@ -14,7 +14,7 @@ wikipedia: Treherbert_railway_station
 ----
 disused: 
 ----
-code: TRB
+nationalrail: TRB
 ----
 geolat: 51.67206
 ----

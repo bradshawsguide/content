@@ -14,7 +14,7 @@ wikipedia: Bailey_Gate_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.795491
 ----

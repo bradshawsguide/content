@@ -14,7 +14,7 @@ wikipedia: Ashton-under-Hill_railway_station
 ----
 disused: a/ashton_under_hill
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.038152
 ----

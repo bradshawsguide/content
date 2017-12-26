@@ -14,7 +14,7 @@ wikipedia: Sutton_railway_station,_Dublin
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.39197
 ----

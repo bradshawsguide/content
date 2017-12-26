@@ -14,7 +14,7 @@ wikipedia: Sydenham_railway_station_(Northern_Ireland)
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.6093
 ----

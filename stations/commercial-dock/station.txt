@@ -14,7 +14,7 @@ wikipedia: Commercial_Dock_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.4894
 ----

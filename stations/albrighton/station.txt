@@ -14,7 +14,7 @@ wikipedia: Albrighton_railway_station
 ----
 disused: 
 ----
-code: ALB
+nationalrail: ALB
 ----
 geolat: 52.638388
 ----

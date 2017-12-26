@@ -14,7 +14,7 @@ wikipedia: Surbiton_railway_station
 ----
 disused: 
 ----
-code: SUR
+nationalrail: SUR
 ----
 geolat: 51.392461
 ----

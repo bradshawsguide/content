@@ -14,7 +14,7 @@ wikipedia: Shanklin_railway_station
 ----
 disused: 
 ----
-code: SHN
+nationalrail: SHN
 ----
 geolat: 50.634363
 ----

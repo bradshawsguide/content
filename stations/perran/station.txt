@@ -14,7 +14,7 @@ wikipedia: Perranwell_railway_station
 ----
 disused: 
 ----
-code: PRW
+nationalrail: PRW
 ----
 geolat: 50.216925
 ----

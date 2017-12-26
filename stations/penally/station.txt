@@ -14,7 +14,7 @@ wikipedia: Penally_railway_station
 ----
 disused: 
 ----
-code: PNA
+nationalrail: PNA
 ----
 geolat: 51.658658
 ----

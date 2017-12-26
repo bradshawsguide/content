@@ -14,7 +14,7 @@ wikipedia: Birmingham_Snow_Hill_railway_station
 ----
 disused: 
 ----
-code: BSW
+nationalrail: BSW
 ----
 geolat: 52.484028
 ----

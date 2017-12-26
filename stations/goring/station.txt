@@ -14,7 +14,7 @@ wikipedia: Goring_&_Streatley_railway_station
 ----
 disused: 
 ----
-code: GOR
+nationalrail: GOR
 ----
 geolat: 51.521563
 ----

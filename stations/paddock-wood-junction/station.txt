@@ -14,7 +14,7 @@ wikipedia: Paddock_Wood_railway_station
 ----
 disused: 
 ----
-code: PDW
+nationalrail: PDW
 ----
 geolat: 51.182076
 ----

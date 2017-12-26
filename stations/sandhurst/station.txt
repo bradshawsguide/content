@@ -14,7 +14,7 @@ wikipedia: Sandhurst_railway_station
 ----
 disused: 
 ----
-code: SND
+nationalrail: SND
 ----
 geolat: 51.346929
 ----

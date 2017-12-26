@@ -14,7 +14,7 @@ wikipedia: Raglan_Road_Crossing_Halt_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.7444
 ----

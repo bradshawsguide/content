@@ -14,7 +14,7 @@ wikipedia: Yalding_railway_station
 ----
 disused: 
 ----
-code: YAL
+nationalrail: YAL
 ----
 geolat: 51.226555
 ----

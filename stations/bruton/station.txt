@@ -14,7 +14,7 @@ wikipedia: Bruton_railway_station
 ----
 disused: 
 ----
-code: BRU
+nationalrail: BRU
 ----
 geolat: 51.111185
 ----

@@ -14,7 +14,7 @@ wikipedia: Haslemere_railway_station
 ----
 disused: 
 ----
-code: HSL
+nationalrail: HSL
 ----
 geolat: 51.088852
 ----

@@ -14,7 +14,7 @@ wikipedia: Woodborough_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.33516
 ----

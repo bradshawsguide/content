@@ -14,7 +14,7 @@ wikipedia: Lamphey_railway_station
 ----
 disused: 
 ----
-code: LAM
+nationalrail: LAM
 ----
 geolat: 51.666753
 ----

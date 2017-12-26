@@ -14,7 +14,7 @@ wikipedia: Abermule_railway_station
 ----
 disused: a/abermule
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.54221
 ----

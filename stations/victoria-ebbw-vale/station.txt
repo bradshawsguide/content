@@ -14,7 +14,7 @@ wikipedia: Ebbw_Vale_Parkway_railway_station
 ----
 disused: 
 ----
-code: EBV
+nationalrail: EBV
 ----
 geolat: 51.756047
 ----

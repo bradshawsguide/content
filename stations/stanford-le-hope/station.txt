@@ -14,7 +14,7 @@ wikipedia: Stanford-le-Hope_railway_station
 ----
 disused: 
 ----
-code: SFO
+nationalrail: SFO
 ----
 geolat: 51.514325
 ----

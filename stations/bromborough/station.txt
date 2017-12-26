@@ -14,7 +14,7 @@ wikipedia: Bromborough_railway_station
 ----
 disused: 
 ----
-code: BOM
+nationalrail: BOM
 ----
 geolat: 53.321385
 ----

@@ -14,7 +14,7 @@ wikipedia: Farnborough_North_railway_station
 ----
 disused: 
 ----
-code: FNN
+nationalrail: FNN
 ----
 geolat: 51.302219
 ----

@@ -14,7 +14,7 @@ wikipedia: Crystal_Palace_railway_station
 ----
 disused: 
 ----
-code: CYP
+nationalrail: CYP
 ----
 geolat: 51.418113
 ----

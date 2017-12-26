@@ -14,7 +14,7 @@ wikipedia: Upton_Magna_railway_station
 ----
 disused: u/upton_magna
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.702478
 ----

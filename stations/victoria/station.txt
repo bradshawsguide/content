@@ -14,7 +14,7 @@ wikipedia: London_Victoria_station
 ----
 disused: 
 ----
-code: VIC
+nationalrail: VIC
 ----
 geolat: 51.495214
 ----

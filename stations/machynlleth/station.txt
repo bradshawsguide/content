@@ -14,7 +14,7 @@ wikipedia: Machynlleth_railway_station
 ----
 disused: 
 ----
-code: MCN
+nationalrail: MCN
 ----
 geolat: 52.595397
 ----

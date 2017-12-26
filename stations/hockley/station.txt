@@ -14,7 +14,7 @@ wikipedia: Hockley_(Birmingham)_railway_station
 ----
 disused: h/hockley
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.490336
 ----

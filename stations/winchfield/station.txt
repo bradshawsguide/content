@@ -14,7 +14,7 @@ wikipedia: Winchfield_railway_station
 ----
 disused: 
 ----
-code: WNF
+nationalrail: WNF
 ----
 geolat: 51.284981
 ----

@@ -14,7 +14,7 @@ wikipedia: Staplehurst_railway_station
 ----
 disused: 
 ----
-code: SPU
+nationalrail: SPU
 ----
 geolat: 51.171479
 ----

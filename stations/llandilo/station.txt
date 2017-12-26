@@ -14,7 +14,7 @@ wikipedia: Llandeilo_railway_station
 ----
 disused: 
 ----
-code: LLA
+nationalrail: LLA
 ----
 geolat: 51.885612
 ----

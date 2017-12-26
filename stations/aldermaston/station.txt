@@ -14,7 +14,7 @@ wikipedia: Aldermaston_railway_station
 ----
 disused: 
 ----
-code: AMT
+nationalrail: AMT
 ----
 geolat: 51.402
 ----

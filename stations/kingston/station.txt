@@ -14,7 +14,7 @@ wikipedia: Kingston_(London)_railway_station
 ----
 disused:
 ----
-code: KNG
+nationalrail: KNG
 ----
 geolat: 51.412872
 ----

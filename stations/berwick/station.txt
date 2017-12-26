@@ -14,7 +14,7 @@ wikipedia: Berwick_(Sussex)_railway_station
 ----
 disused: 
 ----
-code: BRK
+nationalrail: BRK
 ----
 geolat: 50.840175
 ----

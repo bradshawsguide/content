@@ -14,7 +14,7 @@ wikipedia: East_Ham_tube_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.538549
 ----

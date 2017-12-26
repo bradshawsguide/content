@@ -14,7 +14,7 @@ wikipedia: Minster_railway_station
 ----
 disused: 
 ----
-code: MSR
+nationalrail: MSR
 ----
 geolat: 51.32944
 ----

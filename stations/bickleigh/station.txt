@@ -14,7 +14,7 @@ wikipedia: Bickleigh_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.44224
 ----

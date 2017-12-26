@@ -14,7 +14,7 @@ wikipedia: Bourne_End_railway_station
 ----
 disused: 
 ----
-code: BNE
+nationalrail: BNE
 ----
 geolat: 51.577027
 ----

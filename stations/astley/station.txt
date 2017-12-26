@@ -14,7 +14,7 @@ wikipedia: Astley_railway_station
 ----
 disused: a/astley
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.472047
 ----

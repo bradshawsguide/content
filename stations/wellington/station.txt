@@ -14,7 +14,7 @@ wikipedia: Wellington_(Shropshire)_railway_station
 ----
 disused: 
 ----
-code: WLN
+nationalrail: WLN
 ----
 geolat: 52.701393
 ----

@@ -14,7 +14,7 @@ wikipedia: Ivybridge_railway_station
 ----
 disused: 
 ----
-code: IVY
+nationalrail: IVY
 ----
 geolat: 50.393232
 ----

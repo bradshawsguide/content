@@ -14,7 +14,7 @@ wikipedia: Oswestry_railway_station
 ----
 disused: o/oswestry_gwr
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.861936
 ----

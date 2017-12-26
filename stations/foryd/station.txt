@@ -14,7 +14,7 @@ wikipedia: Foryd_railway_station
 ----
 disused: f/foryd
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.307565
 ----

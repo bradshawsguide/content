@@ -14,7 +14,7 @@ wikipedia: Evershot_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.83543
 ----

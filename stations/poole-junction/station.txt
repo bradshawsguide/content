@@ -14,7 +14,7 @@ wikipedia: Hamworthy_railway_station
 ----
 disused: 
 ----
-code: HAM
+nationalrail: HAM
 ----
 geolat: 50.72537
 ----

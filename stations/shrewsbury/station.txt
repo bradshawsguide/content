@@ -14,7 +14,7 @@ wikipedia: Shrewsbury_railway_station
 ----
 disused: 
 ----
-code: SHR
+nationalrail: SHR
 ----
 geolat: 52.711837
 ----

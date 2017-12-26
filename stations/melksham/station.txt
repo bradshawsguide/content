@@ -14,7 +14,7 @@ wikipedia: Melksham_railway_station
 ----
 disused: 
 ----
-code: MKM
+nationalrail: MKM
 ----
 geolat: 51.379911
 ----

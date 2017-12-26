@@ -14,7 +14,7 @@ wikipedia: Rhewl_railway_station
 ----
 disused: r/rhewl
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.13469
 ----

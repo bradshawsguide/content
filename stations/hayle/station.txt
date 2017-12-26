@@ -14,7 +14,7 @@ wikipedia: Hayle_railway_station
 ----
 disused: 
 ----
-code: HYL
+nationalrail: HYL
 ----
 geolat: 50.184879
 ----

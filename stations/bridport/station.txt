@@ -14,7 +14,7 @@ wikipedia: Bridport_railway_station
 ----
 disused: b/bridport
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.737817
 ----

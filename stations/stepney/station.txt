@@ -14,7 +14,7 @@ wikipedia: Limehouse_station
 ----
 disused: 
 ----
-code: LHS
+nationalrail: LHS
 ----
 geolat: 51.512548
 ----

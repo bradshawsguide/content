@@ -14,7 +14,7 @@ wikipedia: Newbridge_railway_station,_Caerphilly
 ----
 disused: 
 ----
-code: NBE
+nationalrail: NBE
 ----
 geolat: 51.665759
 ----

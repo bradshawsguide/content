@@ -14,7 +14,7 @@ wikipedia: Ludlow_railway_station
 ----
 disused: 
 ----
-code: LUD
+nationalrail: LUD
 ----
 geolat: 52.371323
 ----

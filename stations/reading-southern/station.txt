@@ -14,7 +14,7 @@ wikipedia: Reading_Southern_railway_station
 ----
 disused: r/reading_southern
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.458203
 ----

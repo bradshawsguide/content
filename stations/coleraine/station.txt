@@ -14,7 +14,7 @@ wikipedia: Coleraine_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 55.133856
 ----

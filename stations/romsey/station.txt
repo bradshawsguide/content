@@ -14,7 +14,7 @@ wikipedia: Romsey_railway_station
 ----
 disused: 
 ----
-code: ROM
+nationalrail: ROM
 ----
 geolat: 50.993149
 ----

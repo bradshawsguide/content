@@ -14,7 +14,7 @@ wikipedia: Oranmore_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.2758
 ----

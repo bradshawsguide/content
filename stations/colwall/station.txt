@@ -14,7 +14,7 @@ wikipedia: Colwall_railway_station
 ----
 disused: 
 ----
-code: CWL
+nationalrail: CWL
 ----
 geolat: 52.079867
 ----

@@ -14,7 +14,7 @@ wikipedia: Derby_railway_station
 ----
 disused: 
 ----
-code: DBY
+nationalrail: DBY
 ----
 geolat: 52.916155
 ----

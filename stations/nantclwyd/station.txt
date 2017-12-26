@@ -14,7 +14,7 @@ wikipedia: Nantclwyd_railway_station
 ----
 disused: n/nantclwyd
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.055491
 ----

@@ -14,7 +14,7 @@ wikipedia: Leigh-on-Sea_railway_station
 ----
 disused: 
 ----
-code: LES
+nationalrail: LES
 ----
 geolat: 51.540928
 ----

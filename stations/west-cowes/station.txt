@@ -14,7 +14,7 @@ wikipedia: Cowes_railway_station
 ----
 disused: c/cowes
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.761925
 ----

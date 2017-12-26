@@ -14,7 +14,7 @@ wikipedia: Hammerwich_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.662019
 ----

@@ -14,7 +14,7 @@ wikipedia: Llandaf_railway_station
 ----
 disused: 
 ----
-code: LLN
+nationalrail: LLN
 ----
 geolat: 51.508425
 ----

@@ -14,7 +14,7 @@ wikipedia: Clapham_High_Street_railway_station
 ----
 disused: 
 ----
-code: CLP
+nationalrail: CLP
 ----
 geolat: 51.465065
 ----

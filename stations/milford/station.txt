@@ -14,7 +14,7 @@ wikipedia: Milford_Haven_railway_station
 ----
 disused: 
 ----
-code: MFH
+nationalrail: MFH
 ----
 geolat: 51.715581
 ----

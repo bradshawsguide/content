@@ -14,7 +14,7 @@ wikipedia: Cosham_railway_station
 ----
 disused: 
 ----
-code: CSA
+nationalrail: CSA
 ----
 geolat: 50.842149
 ----

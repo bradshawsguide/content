@@ -14,7 +14,7 @@ wikipedia: Pembrey_and_Burry_Port_railway_station
 ----
 disused: 
 ----
-code: PBY
+nationalrail: PBY
 ----
 geolat: 51.683989
 ----

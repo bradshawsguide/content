@@ -14,7 +14,7 @@ wikipedia: Ely_Main_Line_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.4853
 ----

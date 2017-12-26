@@ -14,7 +14,7 @@ wikipedia: Sole_Street_railway_station
 ----
 disused: 
 ----
-code: SOR
+nationalrail: SOR
 ----
 geolat: 51.382857
 ----

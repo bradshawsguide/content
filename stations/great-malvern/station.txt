@@ -14,7 +14,7 @@ wikipedia: Great_Malvern_railway_station
 ----
 disused: 
 ----
-code: GMV
+nationalrail: GMV
 ----
 geolat: 52.109648
 ----

@@ -14,7 +14,7 @@ wikipedia: Balmoral_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.5688
 ----

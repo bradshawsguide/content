@@ -14,7 +14,7 @@ wikipedia: Lostock_Gralam_railway_station
 ----
 disused: 
 ----
-code: LTG
+nationalrail: LTG
 ----
 geolat: 53.267932
 ----

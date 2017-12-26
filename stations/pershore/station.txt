@@ -14,7 +14,7 @@ wikipedia: Pershore_railway_station
 ----
 disused: 
 ----
-code: PSH
+nationalrail: PSH
 ----
 geolat: 52.130733
 ----

@@ -14,7 +14,7 @@ wikipedia: Higham_(Kent)_railway_station
 ----
 disused: 
 ----
-code: HGM
+nationalrail: HGM
 ----
 geolat: 51.426891
 ----

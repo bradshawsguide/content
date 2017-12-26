@@ -14,7 +14,7 @@ wikipedia: Wolverhampton_Low_Level_railway_station
 ----
 disused: w/wolverhampton_low_level
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.588293
 ----

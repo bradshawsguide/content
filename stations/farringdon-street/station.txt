@@ -14,7 +14,7 @@ wikipedia: Farringdon_station
 ----
 disused: 
 ----
-code: ZFD
+nationalrail: ZFD
 ----
 geolat: 51.520211
 ----

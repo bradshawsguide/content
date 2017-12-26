@@ -14,7 +14,7 @@ wikipedia: East_Croydon_station
 ----
 disused: 
 ----
-code: ECR
+nationalrail: ECR
 ----
 geolat: 51.376561
 ----

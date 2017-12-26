@@ -14,7 +14,7 @@ wikipedia: Llandudno_Junction_railway_station
 ----
 disused: 
 ----
-code: LLJ
+nationalrail: LLJ
 ----
 geolat: 53.283871
 ----

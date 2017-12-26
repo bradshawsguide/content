@@ -14,7 +14,7 @@ wikipedia: Primrose_Hill_railway_station
 ----
 disused: p/primrose_hill
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.543551
 ----

@@ -14,7 +14,7 @@ wikipedia: Angmering_railway_station
 ----
 disused: 
 ----
-code: ANG
+nationalrail: ANG
 ----
 geolat: 50.816306
 ----

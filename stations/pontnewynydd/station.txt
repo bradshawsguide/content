@@ -14,7 +14,7 @@ wikipedia: Pontnewynydd_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.710661
 ----

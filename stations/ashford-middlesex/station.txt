@@ -14,7 +14,7 @@ wikipedia: Ashford_(Surrey)_railway_station
 ----
 disused: 
 ----
-code: AFS
+nationalrail: AFS
 ----
 geolat: 51.436538
 ----

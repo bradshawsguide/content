@@ -14,7 +14,7 @@ wikipedia: Conwy_railway_station
 ----
 disused: 
 ----
-code: CNW
+nationalrail: CNW
 ----
 geolat: 53.288709
 ----

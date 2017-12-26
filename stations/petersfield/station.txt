@@ -14,7 +14,7 @@ wikipedia: Petersfield_railway_station
 ----
 disused: 
 ----
-code: PTR
+nationalrail: PTR
 ----
 geolat: 51.006541
 ----

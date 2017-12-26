@@ -14,7 +14,7 @@ wikipedia: High_Wycombe_railway_station
 ----
 disused: 
 ----
-code: HWY
+nationalrail: HWY
 ----
 geolat: 51.629555
 ----

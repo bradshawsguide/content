@@ -14,7 +14,7 @@ wikipedia: Balbriggan_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.612
 ----

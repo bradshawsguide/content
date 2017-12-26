@@ -14,7 +14,7 @@ wikipedia: Stonegate_railway_station
 ----
 disused: 
 ----
-code: SOG
+nationalrail: SOG
 ----
 geolat: 51.019807
 ----

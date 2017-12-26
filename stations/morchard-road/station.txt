@@ -14,7 +14,7 @@ wikipedia: Morchard_Road_railway_station
 ----
 disused: 
 ----
-code: MRD
+nationalrail: MRD
 ----
 geolat: 50.832357
 ----

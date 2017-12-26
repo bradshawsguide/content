@@ -14,7 +14,7 @@ wikipedia: Llandudno_railway_station
 ----
 disused: 
 ----
-code: LLD
+nationalrail: LLD
 ----
 geolat: 53.320454
 ----

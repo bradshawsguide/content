@@ -14,7 +14,7 @@ wikipedia: Great_Bridge_North_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.532611
 ----

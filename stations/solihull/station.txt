@@ -14,7 +14,7 @@ wikipedia: Solihull_railway_station
 ----
 disused: 
 ----
-code: SOL
+nationalrail: SOL
 ----
 geolat: 52.41466
 ----

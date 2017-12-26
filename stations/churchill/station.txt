@@ -14,7 +14,7 @@ wikipedia: Blakedown_railway_station
 ----
 disused: 
 ----
-code: BKD
+nationalrail: BKD
 ----
 geolat: 52.406624
 ----

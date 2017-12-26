@@ -14,7 +14,7 @@ wikipedia: Disused_railway_stations_on_the_Riviera_Line#Kingskerswell
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.49839
 ----

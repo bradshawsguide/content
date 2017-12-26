@@ -14,7 +14,7 @@ wikipedia: Londonderry_Graving_Dock_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 55.004561
 ----

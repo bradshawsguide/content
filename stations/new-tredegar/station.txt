@@ -14,7 +14,7 @@ wikipedia: Tir-Phil_railway_station
 ----
 disused: 
 ----
-code: TIR
+nationalrail: TIR
 ----
 geolat: 51.721362
 ----

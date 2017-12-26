@@ -14,7 +14,7 @@ wikipedia: Streatham_railway_station
 ----
 disused: 
 ----
-code: STE
+nationalrail: STE
 ----
 geolat: 51.425813
 ----

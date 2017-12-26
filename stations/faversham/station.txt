@@ -14,7 +14,7 @@ wikipedia: Faversham_railway_station
 ----
 disused: 
 ----
-code: FAV
+nationalrail: FAV
 ----
 geolat: 51.311922
 ----

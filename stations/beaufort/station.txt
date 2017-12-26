@@ -14,7 +14,7 @@ wikipedia: Beaufort_(LNWR)_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.797293
 ----

@@ -14,7 +14,7 @@ wikipedia: Topsham_railway_station
 ----
 disused: 
 ----
-code: TOP
+nationalrail: TOP
 ----
 geolat: 50.685595
 ----

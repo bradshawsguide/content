@@ -14,7 +14,7 @@ wikipedia: Castle_Cary_railway_station
 ----
 disused: 
 ----
-code: CLC
+nationalrail: CLC
 ----
 geolat: 51.10008
 ----

@@ -14,7 +14,7 @@ wikipedia: Ordsall_Lane_railway_station
 ----
 disused: o/ordsall_lane
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.477982
 ----

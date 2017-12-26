@@ -14,7 +14,7 @@ wikipedia: Partridge_Green_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.95769
 ----

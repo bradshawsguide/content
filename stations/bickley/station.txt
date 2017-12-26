@@ -14,7 +14,7 @@ wikipedia: Bickley_railway_station
 ----
 disused: 
 ----
-code: BKL
+nationalrail: BKL
 ----
 geolat: 51.400103
 ----

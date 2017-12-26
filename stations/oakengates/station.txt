@@ -14,7 +14,7 @@ wikipedia: Oakengates_railway_station
 ----
 disused: 
 ----
-code: OKN
+nationalrail: OKN
 ----
 geolat: 52.693575
 ----

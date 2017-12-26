@@ -14,7 +14,7 @@ wikipedia: Shipton_railway_station
 ----
 disused: 
 ----
-code: SIP
+nationalrail: SIP
 ----
 geolat: 51.865724
 ----

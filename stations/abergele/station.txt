@@ -14,7 +14,7 @@ wikipedia: Abergele_&_Pensarn_railway_station
 ----
 disused: 
 ----
-code: AGL
+nationalrail: AGL
 ----
 geolat: 53.295199
 ----

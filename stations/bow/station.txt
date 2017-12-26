@@ -14,7 +14,7 @@ wikipedia: Bow_railway_station
 ----
 disused: b/bow
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.526963
 ----

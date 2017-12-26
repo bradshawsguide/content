@@ -14,7 +14,7 @@ wikipedia: Mortlake_railway_station
 ----
 disused: 
 ----
-code: MTL
+nationalrail: MTL
 ----
 geolat: 51.468136
 ----

@@ -14,7 +14,7 @@ wikipedia: Glan_Conwy_railway_station
 ----
 disused: 
 ----
-code: GCW
+nationalrail: GCW
 ----
 geolat: 53.268779
 ----

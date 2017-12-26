@@ -14,7 +14,7 @@ wikipedia: Dawlish_railway_station
 ----
 disused: 
 ----
-code: DWL
+nationalrail: DWL
 ----
 geolat: 50.580378
 ----

@@ -14,7 +14,7 @@ wikipedia: Marlborough_railway_stations
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.4162
 ----

@@ -14,7 +14,7 @@ wikipedia: Maidstone_West_railway_station
 ----
 disused: 
 ----
-code: MDW
+nationalrail: MDW
 ----
 geolat: 51.270694
 ----

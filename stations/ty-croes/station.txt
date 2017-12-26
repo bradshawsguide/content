@@ -14,7 +14,7 @@ wikipedia: Tŷ_Croes_railway_station
 ----
 disused: 
 ----
-code: TYC
+nationalrail: TYC
 ----
 geolat: 53.222456
 ----

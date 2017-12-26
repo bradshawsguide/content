@@ -14,7 +14,7 @@ wikipedia: Welshpool_railway_station
 ----
 disused: 
 ----
-code: WLP
+nationalrail: WLP
 ----
 geolat: 52.657477
 ----

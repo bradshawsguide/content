@@ -14,7 +14,7 @@ wikipedia:
 ----
 disused: b/bishops_waltham
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.954759
 ----

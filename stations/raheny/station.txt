@@ -14,7 +14,7 @@ wikipedia: Raheny_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.3815
 ----

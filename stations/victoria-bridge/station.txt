@@ -14,7 +14,7 @@ wikipedia: Victoria_Bridge_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.7628
 ----

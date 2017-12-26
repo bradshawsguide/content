@@ -14,7 +14,7 @@ wikipedia: Penmaenmawr_railway_station
 ----
 disused: 
 ----
-code: PMW
+nationalrail: PMW
 ----
 geolat: 53.270408
 ----

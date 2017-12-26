@@ -14,7 +14,7 @@ wikipedia: Ludgate_Hill_railway_station
 ----
 disused: l/ludgate_hill
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.513483
 ----

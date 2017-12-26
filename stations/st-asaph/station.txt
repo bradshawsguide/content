@@ -14,7 +14,7 @@ wikipedia: St_Asaph_railway_station
 ----
 disused: s/st_asaph
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.258347
 ----

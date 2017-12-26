@@ -14,7 +14,7 @@ wikipedia: Longford_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.7245
 ----

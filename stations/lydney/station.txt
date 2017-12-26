@@ -14,7 +14,7 @@ wikipedia: Lydney_railway_station
 ----
 disused: 
 ----
-code: LYD
+nationalrail: LYD
 ----
 geolat: 51.715973
 ----

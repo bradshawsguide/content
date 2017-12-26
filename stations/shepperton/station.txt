@@ -14,7 +14,7 @@ wikipedia: Shepperton_railway_station
 ----
 disused: 
 ----
-code: SHP
+nationalrail: SHP
 ----
 geolat: 51.397586
 ----

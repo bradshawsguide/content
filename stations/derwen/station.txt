@@ -14,7 +14,7 @@ wikipedia: Derwen_railway_station
 ----
 disused: d/derwen
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.043332
 ----

@@ -14,7 +14,7 @@ wikipedia: Chandler's_Ford_railway_station
 ----
 disused: 
 ----
-code: CFR
+nationalrail: CFR
 ----
 geolat: 50.983638
 ----

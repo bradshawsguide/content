@@ -14,7 +14,7 @@ wikipedia: Micheldever_railway_station
 ----
 disused: 
 ----
-code: MIC
+nationalrail: MIC
 ----
 geolat: 51.182546
 ----

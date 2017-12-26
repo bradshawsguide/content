@@ -14,7 +14,7 @@ wikipedia: Trefnant_railway_station
 ----
 disused: t/trefnant
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.225296
 ----

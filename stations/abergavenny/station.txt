@@ -14,7 +14,7 @@ wikipedia: Abergavenny_railway_station
 ----
 disused: 
 ----
-code: AGV
+nationalrail: AGV
 ----
 geolat: 51.817144
 ----

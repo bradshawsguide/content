@@ -14,7 +14,7 @@ wikipedia: Hungerford_railway_station
 ----
 disused: 
 ----
-code: HGD
+nationalrail: HGD
 ----
 geolat: 51.414951
 ----

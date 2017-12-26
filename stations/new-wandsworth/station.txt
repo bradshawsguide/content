@@ -14,7 +14,7 @@ wikipedia: Wandsworth_Common_railway_station
 ----
 disused: 
 ----
-code: WSW
+nationalrail: WSW
 ----
 geolat: 51.446183
 ----

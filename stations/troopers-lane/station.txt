@@ -14,7 +14,7 @@ wikipedia: Trooperslane_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.710059
 ----

@@ -14,7 +14,7 @@ wikipedia: Clara_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.339656
 ----

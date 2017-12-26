@@ -14,7 +14,7 @@ wikipedia: Athy_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.9925
 ----

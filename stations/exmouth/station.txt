@@ -14,7 +14,7 @@ wikipedia: Exmouth_railway_station
 ----
 disused: 
 ----
-code: EXM
+nationalrail: EXM
 ----
 geolat: 50.621444
 ----

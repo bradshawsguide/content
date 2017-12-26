@@ -14,7 +14,7 @@ wikipedia: Titley_Junction_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.217439
 ----

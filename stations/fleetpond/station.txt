@@ -14,7 +14,7 @@ wikipedia: Fleet_railway_station
 ----
 disused: 
 ----
-code: FLE
+nationalrail: FLE
 ----
 geolat: 51.29054
 ----

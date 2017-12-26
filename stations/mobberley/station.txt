@@ -14,7 +14,7 @@ wikipedia: Mobberley_railway_station
 ----
 disused: 
 ----
-code: MOB
+nationalrail: MOB
 ----
 geolat: 53.329496
 ----

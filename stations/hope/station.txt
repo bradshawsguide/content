@@ -14,7 +14,7 @@ wikipedia: Hope_Exchange_railway_station
 ----
 disused: h/hope_low_level
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.147326
 ----

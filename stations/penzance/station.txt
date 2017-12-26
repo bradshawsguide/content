@@ -14,7 +14,7 @@ wikipedia: Penzance_railway_station
 ----
 disused: 
 ----
-code: PNZ
+nationalrail: PNZ
 ----
 geolat: 50.122113
 ----

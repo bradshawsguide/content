@@ -14,7 +14,7 @@ wikipedia: Llanymynech_railway_station
 ----
 disused: l/llanymynech
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.781194
 ----

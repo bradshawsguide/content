@@ -14,7 +14,7 @@ wikipedia: Hanwell_railway_station
 ----
 disused: 
 ----
-code: HAN
+nationalrail: HAN
 ----
 geolat: 51.511898
 ----

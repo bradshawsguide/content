@@ -14,7 +14,7 @@ wikipedia: Barnham_railway_station
 ----
 disused: 
 ----
-code: BAA
+nationalrail: BAA
 ----
 geolat: 50.83076
 ----

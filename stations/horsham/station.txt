@@ -14,7 +14,7 @@ wikipedia: Horsham_railway_station
 ----
 disused: 
 ----
-code: HRH
+nationalrail: HRH
 ----
 geolat: 51.065797
 ----

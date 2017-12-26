@@ -14,7 +14,7 @@ wikipedia: Rhyl_railway_station
 ----
 disused: 
 ----
-code: RHL
+nationalrail: RHL
 ----
 geolat: 53.317981
 ----

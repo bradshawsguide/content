@@ -14,7 +14,7 @@ wikipedia: West_Grinstead_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.990172
 ----

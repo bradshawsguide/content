@@ -14,7 +14,7 @@ wikipedia: Staines_railway_station
 ----
 disused: 
 ----
-code: SNS
+nationalrail: SNS
 ----
 geolat: 51.432471
 ----

@@ -14,7 +14,7 @@ wikipedia: Falmer_railway_station
 ----
 disused: 
 ----
-code: FMR
+nationalrail: FMR
 ----
 geolat: 50.861666
 ----

@@ -14,7 +14,7 @@ wikipedia: Chard_branch_line#Chard_Town
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.8741
 ----

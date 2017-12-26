@@ -14,7 +14,7 @@ wikipedia: Wareham_railway_station
 ----
 disused: 
 ----
-code: WRM
+nationalrail: WRM
 ----
 geolat: 50.692941
 ----

@@ -14,7 +14,7 @@ wikipedia: Anerley_railway_station
 ----
 disused: 
 ----
-code: ANZ
+nationalrail: ANZ
 ----
 geolat: 51.412159
 ----

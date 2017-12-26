@@ -14,7 +14,7 @@ wikipedia: Pyle_railway_station
 ----
 disused: 
 ----
-code: PYL
+nationalrail: PYL
 ----
 geolat: 51.52507
 ----

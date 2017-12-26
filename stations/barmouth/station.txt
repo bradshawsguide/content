@@ -14,7 +14,7 @@ wikipedia: Barmouth_railway_station
 ----
 disused: 
 ----
-code: BRM
+nationalrail: BRM
 ----
 geolat: 52.722452
 ----

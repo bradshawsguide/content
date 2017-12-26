@@ -14,7 +14,7 @@ wikipedia: Upton_and_Innishannon_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.787145
 ----

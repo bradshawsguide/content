@@ -14,7 +14,7 @@ wikipedia: Kingswear_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.34871
 ----

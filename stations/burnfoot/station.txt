@@ -14,7 +14,7 @@ wikipedia: Burnfoot_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 55.05655
 ----

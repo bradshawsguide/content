@@ -14,7 +14,7 @@ wikipedia: Uckfield_railway_station
 ----
 disused: u/uckfield
 ----
-code: UCK
+nationalrail: UCK
 ----
 geolat: 50.967793
 ----

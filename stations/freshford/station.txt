@@ -14,7 +14,7 @@ wikipedia: Freshford_railway_station
 ----
 disused: 
 ----
-code: FFD
+nationalrail: FFD
 ----
 geolat: 51.341849
 ----

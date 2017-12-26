@@ -14,7 +14,7 @@ wikipedia: Comberow_railway_station
 ----
 disused: c/comberow
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.108302
 ----

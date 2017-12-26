@@ -14,7 +14,7 @@ wikipedia: Ryde_St_John's_Road_railway_station
 ----
 disused: 
 ----
-code: RYR
+nationalrail: RYR
 ----
 geolat: 50.72412
 ----

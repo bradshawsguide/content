@@ -14,7 +14,7 @@ wikipedia: Shifnal_railway_station
 ----
 disused: 
 ----
-code: SFN
+nationalrail: SFN
 ----
 geolat: 52.66598
 ----

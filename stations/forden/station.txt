@@ -14,7 +14,7 @@ wikipedia: Forden_railway_station
 ----
 disused: f/forden
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.597999
 ----

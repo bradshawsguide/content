@@ -14,7 +14,7 @@ wikipedia: Henley-on-Thames_railway_station
 ----
 disused: 
 ----
-code: HOT
+nationalrail: HOT
 ----
 geolat: 51.534902
 ----

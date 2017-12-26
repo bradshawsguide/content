@@ -14,7 +14,7 @@ wikipedia: Adisham_railway_station
 ----
 disused: 
 ----
-code: ADM
+nationalrail: ADM
 ----
 geolat: 51.240982
 ----

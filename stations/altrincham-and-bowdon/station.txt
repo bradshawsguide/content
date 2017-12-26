@@ -14,7 +14,7 @@ wikipedia: Altrincham_Interchange
 ----
 disused: 
 ----
-code: ALT
+nationalrail: ALT
 ----
 geolat: 53.387887
 ----

@@ -14,7 +14,7 @@ wikipedia: Barcombe_Mills_railway_station
 ----
 disused: b/barcombe_mills
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.916315
 ----

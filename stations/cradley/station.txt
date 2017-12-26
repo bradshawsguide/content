@@ -14,7 +14,7 @@ wikipedia: Cradley_Heath_railway_station
 ----
 disused: 
 ----
-code: CRA
+nationalrail: CRA
 ----
 geolat: 52.469652
 ----

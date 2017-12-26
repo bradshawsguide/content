@@ -14,7 +14,7 @@ wikipedia: Borough_Road_railway_station
 ----
 disused: b/borough_road
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.499472
 ----

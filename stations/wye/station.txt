@@ -14,7 +14,7 @@ wikipedia: Wye_railway_station
 ----
 disused: 
 ----
-code: WYE
+nationalrail: WYE
 ----
 geolat: 51.185059
 ----

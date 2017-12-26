@@ -14,7 +14,7 @@ wikipedia: Appledore_(Kent)_railway_station
 ----
 disused: 
 ----
-code: APD
+nationalrail: APD
 ----
 geolat: 51.033151
 ----

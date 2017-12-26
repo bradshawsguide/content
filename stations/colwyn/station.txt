@@ -14,7 +14,7 @@ wikipedia: Colwyn_Bay_railway_station
 ----
 disused: 
 ----
-code: CWB
+nationalrail: CWB
 ----
 geolat: 53.296817
 ----

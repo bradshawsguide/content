@@ -14,7 +14,7 @@ wikipedia: Tonypandy_railway_station
 ----
 disused: 
 ----
-code: TNP
+nationalrail: TNP
 ----
 geolat: 51.620113
 ----

@@ -14,7 +14,7 @@ wikipedia: Ringwood_railway_station
 ----
 disused: r/ringwood
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.842074
 ----

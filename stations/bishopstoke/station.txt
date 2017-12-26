@@ -14,7 +14,7 @@ wikipedia: Eastleigh_railway_station
 ----
 disused: 
 ----
-code: ESL
+nationalrail: ESL
 ----
 geolat: 50.969058
 ----

@@ -14,7 +14,7 @@ wikipedia: Gravesend_railway_station
 ----
 disused: 
 ----
-code: GRV
+nationalrail: GRV
 ----
 geolat: 51.441317
 ----

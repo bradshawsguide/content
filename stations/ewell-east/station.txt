@@ -14,7 +14,7 @@ wikipedia: Ewell_East_railway_station
 ----
 disused: 
 ----
-code: EWE
+nationalrail: EWE
 ----
 geolat: 51.345293
 ----

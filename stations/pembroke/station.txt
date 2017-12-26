@@ -14,7 +14,7 @@ wikipedia: Pembroke_railway_station
 ----
 disused: 
 ----
-code: PMB
+nationalrail: PMB
 ----
 geolat: 51.673119
 ----

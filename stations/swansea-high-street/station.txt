@@ -14,7 +14,7 @@ wikipedia: Swansea_railway_station
 ----
 disused: 
 ----
-code: SWA
+nationalrail: SWA
 ----
 geolat: 51.625605
 ----

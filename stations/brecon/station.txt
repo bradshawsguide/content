@@ -14,7 +14,7 @@ wikipedia: Brecon_Free_Street_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.946397
 ----

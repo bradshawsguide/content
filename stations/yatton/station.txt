@@ -14,7 +14,7 @@ wikipedia: Yatton_railway_station
 ----
 disused: 
 ----
-code: YAT
+nationalrail: YAT
 ----
 geolat: 51.390568
 ----

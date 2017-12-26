@@ -14,7 +14,7 @@ wikipedia: Chirk_railway_station
 ----
 disused: 
 ----
-code: CRK
+nationalrail: CRK
 ----
 geolat: 52.933263
 ----

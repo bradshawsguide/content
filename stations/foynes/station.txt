@@ -14,7 +14,7 @@ wikipedia:
 ----
 disused: f/foynes
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.61208
 ----

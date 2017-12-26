@@ -14,7 +14,7 @@ wikipedia: Bebington_railway_station
 ----
 disused: 
 ----
-code: BEB
+nationalrail: BEB
 ----
 geolat: 53.358108
 ----

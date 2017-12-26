@@ -14,7 +14,7 @@ wikipedia: Bishop's_Castle_railway_station
 ----
 disused: b/bishops_castle
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.491561
 ----

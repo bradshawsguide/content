@@ -14,7 +14,7 @@ wikipedia: Marston_Magna_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.999782
 ----

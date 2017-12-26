@@ -14,7 +14,7 @@ wikipedia: Ironbridge_and_Broseley_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.626913
 ----

@@ -14,7 +14,7 @@ wikipedia: Beckenham_Junction_station
 ----
 disused: 
 ----
-code: BKJ
+nationalrail: BKJ
 ----
 geolat: 51.410942
 ----

@@ -14,7 +14,7 @@ wikipedia: Walsall_railway_station
 ----
 disused: 
 ----
-code: WSL
+nationalrail: WSL
 ----
 geolat: 52.583857
 ----

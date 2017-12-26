@@ -14,7 +14,7 @@ wikipedia: Winchelsea_railway_station
 ----
 disused: 
 ----
-code: WSE
+nationalrail: WSE
 ----
 geolat: 50.933314
 ----

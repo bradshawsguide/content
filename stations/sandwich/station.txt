@@ -14,7 +14,7 @@ wikipedia: Sandwich_railway_station
 ----
 disused: 
 ----
-code: SDW
+nationalrail: SDW
 ----
 geolat: 51.270237
 ----

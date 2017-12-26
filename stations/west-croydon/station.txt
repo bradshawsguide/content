@@ -14,7 +14,7 @@ wikipedia: West_Croydon_station
 ----
 disused: 
 ----
-code: WCY
+nationalrail: WCY
 ----
 geolat: 51.378391
 ----

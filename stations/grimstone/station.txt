@@ -14,7 +14,7 @@ wikipedia: Grimstone_and_Frampton_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.7475
 ----

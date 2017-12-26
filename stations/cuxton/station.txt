@@ -14,7 +14,7 @@ wikipedia: Cuxton_railway_station
 ----
 disused: 
 ----
-code: CUX
+nationalrail: CUX
 ----
 geolat: 51.37392
 ----

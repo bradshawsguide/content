@@ -14,7 +14,7 @@ wikipedia: Datchet_railway_station
 ----
 disused: 
 ----
-code: DAT
+nationalrail: DAT
 ----
 geolat: 51.482894
 ----

@@ -14,7 +14,7 @@ wikipedia: Totnes_railway_station
 ----
 disused: 
 ----
-code: TOT
+nationalrail: TOT
 ----
 geolat: 50.436129
 ----

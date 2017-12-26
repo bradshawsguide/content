@@ -14,7 +14,7 @@ wikipedia: Knighton_railway_station
 ----
 disused: 
 ----
-code: KNI
+nationalrail: KNI
 ----
 geolat: 52.344628
 ----

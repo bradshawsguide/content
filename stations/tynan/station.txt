@@ -14,7 +14,7 @@ wikipedia: Tynan_and_Caledon_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.339403
 ----

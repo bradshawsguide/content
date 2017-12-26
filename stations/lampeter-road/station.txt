@@ -14,7 +14,7 @@ wikipedia: Llanwrda_railway_station
 ----
 disused: 
 ----
-code: LNR
+nationalrail: LNR
 ----
 geolat: 51.963023
 ----

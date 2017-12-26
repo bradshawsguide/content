@@ -14,7 +14,7 @@ wikipedia: Brockenhurst_railway_station
 ----
 disused: 
 ----
-code: BCU
+nationalrail: BCU
 ----
 geolat: 50.816317
 ----

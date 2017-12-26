@@ -14,7 +14,7 @@ wikipedia: Brooklands_tram_stop
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.416705
 ----

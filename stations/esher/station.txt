@@ -14,7 +14,7 @@ wikipedia: Esher_railway_station
 ----
 disused: 
 ----
-code: ESH
+nationalrail: ESH
 ----
 geolat: 51.380132
 ----

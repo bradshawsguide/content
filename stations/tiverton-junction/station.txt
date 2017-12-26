@@ -14,7 +14,7 @@ wikipedia: Disused_railway_stations_on_the_Bristol_to_Exeter_Line#Tiverton_Junct
 ----
 disused: t/tiverton_junction
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.893844
 ----

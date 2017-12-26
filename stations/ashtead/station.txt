@@ -14,7 +14,7 @@ wikipedia: Ashtead_railway_station
 ----
 disused: 
 ----
-code: AHD
+nationalrail: AHD
 ----
 geolat: 51.317421
 ----

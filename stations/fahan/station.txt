@@ -14,7 +14,7 @@ wikipedia: Fahan_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 55.088411
 ----

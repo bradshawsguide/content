@@ -14,7 +14,7 @@ wikipedia: Dorridge_railway_station
 ----
 disused: 
 ----
-code: DDG
+nationalrail: DDG
 ----
 geolat: 52.371437
 ----

@@ -14,7 +14,7 @@ wikipedia: Sea_Mills_railway_station
 ----
 disused: 
 ----
-code: SML
+nationalrail: SML
 ----
 geolat: 51.479802
 ----

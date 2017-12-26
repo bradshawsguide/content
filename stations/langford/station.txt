@@ -14,7 +14,7 @@ wikipedia: Salisbury_branch_line_(Great_Western_Railway)#Langford
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.131291
 ----

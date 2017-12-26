@@ -14,7 +14,7 @@ wikipedia: Heyford_railway_station
 ----
 disused: 
 ----
-code: HYD
+nationalrail: HYD
 ----
 geolat: 51.919183
 ----

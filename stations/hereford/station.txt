@@ -14,7 +14,7 @@ wikipedia: Hereford_railway_station
 ----
 disused: 
 ----
-code: HFD
+nationalrail: HFD
 ----
 geolat: 52.061197
 ----

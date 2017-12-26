@@ -14,7 +14,7 @@ wikipedia: Bynea_railway_station
 ----
 disused: 
 ----
-code: BYE
+nationalrail: BYE
 ----
 geolat: 51.672342
 ----

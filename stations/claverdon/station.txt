@@ -14,7 +14,7 @@ wikipedia: Claverdon_railway_station
 ----
 disused: 
 ----
-code: CLV
+nationalrail: CLV
 ----
 geolat: 52.276907
 ----

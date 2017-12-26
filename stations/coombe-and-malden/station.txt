@@ -14,7 +14,7 @@ wikipedia: New_Malden_railway_station
 ----
 disused: 
 ----
-code: NEM
+nationalrail: NEM
 ----
 geolat: 51.403878
 ----

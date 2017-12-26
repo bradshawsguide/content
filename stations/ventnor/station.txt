@@ -14,7 +14,7 @@ wikipedia: Ventnor_railway_station
 ----
 disused: v/ventnor
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.598136
 ----

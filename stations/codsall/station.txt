@@ -14,7 +14,7 @@ wikipedia: Codsall_railway_station
 ----
 disused: 
 ----
-code: CSL
+nationalrail: CSL
 ----
 geolat: 52.627736
 ----

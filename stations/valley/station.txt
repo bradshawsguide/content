@@ -14,7 +14,7 @@ wikipedia: Valley_railway_station
 ----
 disused: 
 ----
-code: VAL
+nationalrail: VAL
 ----
 geolat: 53.281715
 ----

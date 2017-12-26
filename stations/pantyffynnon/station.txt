@@ -14,7 +14,7 @@ wikipedia: Pantyffynnon_railway_station
 ----
 disused: 
 ----
-code: PTF
+nationalrail: PTF
 ----
 geolat: 51.778414
 ----

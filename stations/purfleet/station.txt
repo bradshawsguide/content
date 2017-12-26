@@ -14,7 +14,7 @@ wikipedia: Purfleet_railway_station
 ----
 disused: 
 ----
-code: PFL
+nationalrail: PFL
 ----
 geolat: 51.481985
 ----

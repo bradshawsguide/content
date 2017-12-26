@@ -14,7 +14,7 @@ wikipedia: Ellesmere_Port_railway_station
 ----
 disused: 
 ----
-code: ELP
+nationalrail: ELP
 ----
 geolat: 53.281652
 ----

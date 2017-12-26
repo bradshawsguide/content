@@ -14,7 +14,7 @@ wikipedia: Saltash_railway_station
 ----
 disused: 
 ----
-code: STS
+nationalrail: STS
 ----
 geolat: 50.407632
 ----

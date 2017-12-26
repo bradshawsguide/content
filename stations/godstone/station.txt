@@ -14,7 +14,7 @@ wikipedia: Godstone_railway_station
 ----
 disused: 
 ----
-code: GDN
+nationalrail: GDN
 ----
 geolat: 51.218099
 ----

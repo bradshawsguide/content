@@ -14,7 +14,7 @@ wikipedia: Pengam_railway_station
 ----
 disused: 
 ----
-code: PGM
+nationalrail: PGM
 ----
 geolat: 51.670277
 ----

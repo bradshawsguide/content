@@ -14,7 +14,7 @@ wikipedia: Hassocks_railway_station
 ----
 disused: 
 ----
-code: HSK
+nationalrail: HSK
 ----
 geolat: 50.924666
 ----

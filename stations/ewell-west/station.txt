@@ -14,7 +14,7 @@ wikipedia: Ewell_West_railway_station
 ----
 disused: 
 ----
-code: EWW
+nationalrail: EWW
 ----
 geolat: 51.350098
 ----

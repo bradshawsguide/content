@@ -14,7 +14,7 @@ wikipedia: Sale_tram_stop
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.423916
 ----

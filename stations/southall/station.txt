@@ -14,7 +14,7 @@ wikipedia: Southall_railway_station
 ----
 disused: 
 ----
-code: STL
+nationalrail: STL
 ----
 geolat: 51.506172
 ----

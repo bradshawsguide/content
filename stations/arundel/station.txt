@@ -14,7 +14,7 @@ wikipedia: Arundel_railway_station
 ----
 disused: 
 ----
-code: ARU
+nationalrail: ARU
 ----
 geolat: 50.84761
 ----

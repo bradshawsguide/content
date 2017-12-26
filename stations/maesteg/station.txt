@@ -14,7 +14,7 @@ wikipedia: Maesteg_railway_station
 ----
 disused: 
 ----
-code: MST
+nationalrail: MST
 ----
 geolat: 51.609314
 ----

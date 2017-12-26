@@ -14,7 +14,7 @@ wikipedia: Shiplake_railway_station
 ----
 disused: 
 ----
-code: SHI
+nationalrail: SHI
 ----
 geolat: 51.511351
 ----

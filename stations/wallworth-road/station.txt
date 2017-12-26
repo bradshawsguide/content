@@ -14,7 +14,7 @@ wikipedia: Walworth_Road_railway_station
 ----
 disused: w/walworth_road
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.483687
 ----

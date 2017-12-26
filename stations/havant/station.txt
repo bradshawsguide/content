@@ -14,7 +14,7 @@ wikipedia: Havant_railway_station
 ----
 disused: 
 ----
-code: HAV
+nationalrail: HAV
 ----
 geolat: 50.854025
 ----

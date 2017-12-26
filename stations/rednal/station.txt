@@ -14,7 +14,7 @@ wikipedia: Rednal_and_West_Felton_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.84155
 ----

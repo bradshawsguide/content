@@ -14,7 +14,7 @@ wikipedia: Four_Crosses_railway_station
 ----
 disused: f/four_crosses
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.758724
 ----

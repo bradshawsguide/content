@@ -14,7 +14,7 @@ wikipedia: Bromley-by-Bow_tube_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.524853
 ----

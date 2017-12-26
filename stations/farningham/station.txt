@@ -14,7 +14,7 @@ wikipedia: Farningham_Road_railway_station
 ----
 disused: 
 ----
-code: FNR
+nationalrail: FNR
 ----
 geolat: 51.401828
 ----

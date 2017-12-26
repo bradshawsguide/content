@@ -14,7 +14,7 @@ wikipedia: Whyteleafe_South_railway_station
 ----
 disused: 
 ----
-code: WHS
+nationalrail: WHS
 ----
 geolat: 51.303417
 ----

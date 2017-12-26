@@ -14,7 +14,7 @@ wikipedia: Blackheath_railway_station
 ----
 disused: 
 ----
-code: BKH
+nationalrail: BKH
 ----
 geolat: 51.46568
 ----

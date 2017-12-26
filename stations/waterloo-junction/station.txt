@@ -14,7 +14,7 @@ wikipedia: London_Waterloo_East_railway_station
 ----
 disused: 
 ----
-code: WAE
+nationalrail: WAE
 ----
 geolat: 51.503146
 ----

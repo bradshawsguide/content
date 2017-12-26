@@ -14,7 +14,7 @@ wikipedia: Peckham_Rye_railway_station
 ----
 disused: 
 ----
-code: PMR
+nationalrail: PMR
 ----
 geolat: 51.469431
 ----

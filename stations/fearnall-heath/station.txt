@@ -14,7 +14,7 @@ wikipedia: Fernhill_Heath_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.231293
 ----

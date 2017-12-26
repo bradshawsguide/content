@@ -14,7 +14,7 @@ wikipedia: Ashchurch_for_Tewkesbury_railway_station
 ----
 disused: 
 ----
-code: ASC
+nationalrail: ASC
 ----
 geolat: 51.998543
 ----

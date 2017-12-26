@@ -14,7 +14,7 @@ wikipedia: Tram_Inn_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.997798
 ----

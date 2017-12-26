@@ -14,7 +14,7 @@ wikipedia: Plumstead_railway_station
 ----
 disused: 
 ----
-code: PLU
+nationalrail: PLU
 ----
 geolat: 51.48971
 ----

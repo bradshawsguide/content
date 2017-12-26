@@ -14,7 +14,7 @@ wikipedia:
 ----
 disused: s/stokes_bay
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.776685
 ----

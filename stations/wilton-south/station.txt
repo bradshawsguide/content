@@ -14,7 +14,7 @@ wikipedia: Wilton_South_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.08529
 ----

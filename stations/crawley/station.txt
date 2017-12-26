@@ -14,7 +14,7 @@ wikipedia: Crawley_railway_station
 ----
 disused: c/crawley
 ----
-code: CRW
+nationalrail: CRW
 ----
 geolat: 51.112555
 ----

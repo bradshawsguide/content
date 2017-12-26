@@ -14,7 +14,7 @@ wikipedia: Purley_railway_station
 ----
 disused: 
 ----
-code: PUR
+nationalrail: PUR
 ----
 geolat: 51.337782
 ----

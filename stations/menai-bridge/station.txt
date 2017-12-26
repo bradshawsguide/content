@@ -14,7 +14,7 @@ wikipedia: Menai_Bridge_railway_station
 ----
 disused: m/menai_bridge
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.217739
 ----

@@ -14,7 +14,7 @@ wikipedia: Cookham_railway_station
 ----
 disused: 
 ----
-code: COO
+nationalrail: COO
 ----
 geolat: 51.557377
 ----

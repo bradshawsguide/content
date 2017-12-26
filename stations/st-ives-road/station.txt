@@ -14,7 +14,7 @@ wikipedia: St_Erth_railway_station
 ----
 disused: 
 ----
-code: SER
+nationalrail: SER
 ----
 geolat: 50.170668
 ----

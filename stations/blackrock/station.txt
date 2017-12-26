@@ -14,7 +14,7 @@ wikipedia: Blackrock_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.30297
 ----

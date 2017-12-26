@@ -14,7 +14,7 @@ wikipedia: Walcot_railway_station
 ----
 disused: w/walcot
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.702793
 ----

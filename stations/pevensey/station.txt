@@ -14,7 +14,7 @@ wikipedia: Pevensey_&_Westham_railway_station
 ----
 disused: 
 ----
-code: PEV
+nationalrail: PEV
 ----
 geolat: 50.815524
 ----

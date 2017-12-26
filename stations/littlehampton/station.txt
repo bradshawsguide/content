@@ -14,7 +14,7 @@ wikipedia: Littlehampton_railway_station
 ----
 disused: 
 ----
-code: LIT
+nationalrail: LIT
 ----
 geolat: 50.809836
 ----

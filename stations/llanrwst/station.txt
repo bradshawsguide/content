@@ -14,7 +14,7 @@ wikipedia: North_Llanrwst_railway_station
 ----
 disused: 
 ----
-code: NLR
+nationalrail: NLR
 ----
 geolat: 53.143737
 ----

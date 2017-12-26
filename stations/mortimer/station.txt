@@ -14,7 +14,7 @@ wikipedia: Mortimer_railway_station
 ----
 disused: 
 ----
-code: MOR
+nationalrail: MOR
 ----
 geolat: 51.372435
 ----

@@ -14,7 +14,7 @@ wikipedia: Hackney_Central_railway_station
 ----
 disused: 
 ----
-code: HKC
+nationalrail: HKC
 ----
 geolat: 51.547161
 ----

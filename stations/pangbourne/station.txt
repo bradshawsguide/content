@@ -14,7 +14,7 @@ wikipedia: Pangbourne_railway_station
 ----
 disused: 
 ----
-code: PAN
+nationalrail: PAN
 ----
 geolat: 51.485274
 ----

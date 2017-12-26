@@ -14,7 +14,7 @@ wikipedia: Bexhill_railway_station
 ----
 disused: 
 ----
-code: BEX
+nationalrail: BEX
 ----
 geolat: 50.84121
 ----

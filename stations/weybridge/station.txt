@@ -14,7 +14,7 @@ wikipedia: Weybridge_railway_station
 ----
 disused: 
 ----
-code: WYB
+nationalrail: WYB
 ----
 geolat: 51.361765
 ----

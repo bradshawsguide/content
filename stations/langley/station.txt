@@ -14,7 +14,7 @@ wikipedia: Langley_railway_station
 ----
 disused: 
 ----
-code: LNY
+nationalrail: LNY
 ----
 geolat: 51.507602
 ----

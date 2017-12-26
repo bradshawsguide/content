@@ -14,7 +14,7 @@ wikipedia: Freshwater_railway_station
 ----
 disused: f/freshwater
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.682998
 ----

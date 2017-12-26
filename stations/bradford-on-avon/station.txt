@@ -14,7 +14,7 @@ wikipedia: Bradford-on-Avon_railway_station
 ----
 disused: 
 ----
-code: BOA
+nationalrail: BOA
 ----
 geolat: 51.344662
 ----

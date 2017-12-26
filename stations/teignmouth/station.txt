@@ -14,7 +14,7 @@ wikipedia: Teignmouth_railway_station
 ----
 disused: 
 ----
-code: TGM
+nationalrail: TGM
 ----
 geolat: 50.548519
 ----

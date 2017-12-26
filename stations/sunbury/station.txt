@@ -14,7 +14,7 @@ wikipedia: Sunbury_(Surrey)_railway_station
 ----
 disused: 
 ----
-code: SUU
+nationalrail: SUU
 ----
 geolat: 51.417893
 ----

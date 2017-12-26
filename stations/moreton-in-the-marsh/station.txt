@@ -14,7 +14,7 @@ wikipedia: Moreton-in-Marsh_railway_station
 ----
 disused: 
 ----
-code: MIM
+nationalrail: MIM
 ----
 geolat: 51.991916
 ----

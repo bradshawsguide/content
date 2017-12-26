@@ -14,7 +14,7 @@ wikipedia: Chester_railway_station
 ----
 disused: 
 ----
-code: CTR
+nationalrail: CTR
 ----
 geolat: 53.196381
 ----

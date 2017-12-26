@@ -14,7 +14,7 @@ wikipedia: Robertsbridge_railway_station
 ----
 disused: 
 ----
-code: RBR
+nationalrail: RBR
 ----
 geolat: 50.985255
 ----

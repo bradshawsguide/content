@@ -14,7 +14,7 @@ wikipedia: Liskeard_railway_station
 ----
 disused: 
 ----
-code: LSK
+nationalrail: LSK
 ----
 geolat: 50.446455
 ----

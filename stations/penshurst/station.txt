@@ -14,7 +14,7 @@ wikipedia: Penshurst_railway_station
 ----
 disused: 
 ----
-code: PHR
+nationalrail: PHR
 ----
 geolat: 51.197068
 ----

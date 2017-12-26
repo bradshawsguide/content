@@ -14,7 +14,7 @@ wikipedia: Ferryside_railway_station
 ----
 disused: 
 ----
-code: FYS
+nationalrail: FYS
 ----
 geolat: 51.768829
 ----

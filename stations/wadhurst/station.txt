@@ -14,7 +14,7 @@ wikipedia: Wadhurst_railway_station
 ----
 disused: 
 ----
-code: WAD
+nationalrail: WAD
 ----
 geolat: 51.072974
 ----

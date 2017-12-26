@@ -14,7 +14,7 @@ wikipedia: Bengeworth_railway_station
 ----
 disused: b/bengeworth
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.085796
 ----

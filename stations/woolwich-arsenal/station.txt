@@ -14,7 +14,7 @@ wikipedia: Woolwich_Arsenal_station
 ----
 disused: 
 ----
-code: WWA
+nationalrail: WWA
 ----
 geolat: 51.490055
 ----

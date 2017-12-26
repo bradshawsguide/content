@@ -14,7 +14,7 @@ wikipedia: Moate_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.399177
 ----

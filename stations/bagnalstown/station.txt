@@ -14,7 +14,7 @@ wikipedia: Muine_Bheag_halt
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.699098
 ----

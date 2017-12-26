@@ -14,7 +14,7 @@ wikipedia: Aber_(LNWR)_railway_station
 ----
 disused: a/aber
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.239076
 ----

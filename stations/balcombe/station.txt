@@ -14,7 +14,7 @@ wikipedia: Balcombe_railway_station
 ----
 disused: 
 ----
-code: BAB
+nationalrail: BAB
 ----
 geolat: 51.055839
 ----

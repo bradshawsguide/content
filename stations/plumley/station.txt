@@ -14,7 +14,7 @@ wikipedia: Plumley_railway_station
 ----
 disused: 
 ----
-code: PLM
+nationalrail: PLM
 ----
 geolat: 53.275295
 ----

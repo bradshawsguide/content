@@ -14,7 +14,7 @@ wikipedia: Carrickmore_(Tyrone)_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.581288
 ----

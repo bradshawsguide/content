@@ -14,7 +14,7 @@ wikipedia: Church_Road_(B&MJR)_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.588575
 ----

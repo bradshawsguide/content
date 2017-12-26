@@ -14,7 +14,7 @@ wikipedia: Dunham_Massey_railway_station
 ----
 disused: d/dunham_massey
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.39308
 ----

@@ -14,7 +14,7 @@ wikipedia: Poole_railway_station
 ----
 disused: 
 ----
-code: POO
+nationalrail: POO
 ----
 geolat: 50.719975
 ----

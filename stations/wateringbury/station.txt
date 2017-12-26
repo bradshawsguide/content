@@ -14,7 +14,7 @@ wikipedia: Wateringbury_railway_station
 ----
 disused: 
 ----
-code: WTR
+nationalrail: WTR
 ----
 geolat: 51.249736
 ----

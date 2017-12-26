@@ -14,7 +14,7 @@ wikipedia: Disused_railway_stations_on_the_Bristol_to_Exeter_Line#Weston_Junctio
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.339331
 ----

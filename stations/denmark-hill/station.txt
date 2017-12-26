@@ -14,7 +14,7 @@ wikipedia: Denmark_Hill_railway_station
 ----
 disused: 
 ----
-code: DMK
+nationalrail: DMK
 ----
 geolat: 51.46807
 ----

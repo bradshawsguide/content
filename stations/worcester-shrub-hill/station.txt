@@ -14,7 +14,7 @@ wikipedia: Worcester_Shrub_Hill_railway_station
 ----
 disused: 
 ----
-code: WOS
+nationalrail: WOS
 ----
 geolat: 52.194403
 ----

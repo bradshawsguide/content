@@ -14,7 +14,7 @@ wikipedia: Hounslow_railway_station
 ----
 disused: 
 ----
-code: HOU
+nationalrail: HOU
 ----
 geolat: 51.461925
 ----

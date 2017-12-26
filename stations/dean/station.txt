@@ -14,7 +14,7 @@ wikipedia: Dean_railway_station
 ----
 disused: 
 ----
-code: DEN
+nationalrail: DEN
 ----
 geolat: 51.042232
 ----

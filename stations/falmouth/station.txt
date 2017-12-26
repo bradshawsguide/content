@@ -14,7 +14,7 @@ wikipedia: Falmouth_Docks_railway_station
 ----
 disused: 
 ----
-code: FAL
+nationalrail: FAL
 ----
 geolat: 50.150947
 ----

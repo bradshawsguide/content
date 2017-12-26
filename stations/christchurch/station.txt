@@ -14,7 +14,7 @@ wikipedia: Christchurch_(Dorset)_railway_station
 ----
 disused: 
 ----
-code: CHR
+nationalrail: CHR
 ----
 geolat: 50.738663
 ----

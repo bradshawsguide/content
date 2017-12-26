@@ -14,7 +14,7 @@ wikipedia: Meopham_railway_station
 ----
 disused: 
 ----
-code: MEP
+nationalrail: MEP
 ----
 geolat: 51.385987
 ----

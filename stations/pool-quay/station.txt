@@ -14,7 +14,7 @@ wikipedia: Pool_Quay_railway_station
 ----
 disused: p/pool_quay
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.710939
 ----

@@ -14,7 +14,7 @@ wikipedia: Bridgend_railway_station
 ----
 disused: 
 ----
-code: BGN
+nationalrail: BGN
 ----
 geolat: 51.506986
 ----

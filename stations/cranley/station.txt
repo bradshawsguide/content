@@ -14,7 +14,7 @@ wikipedia: Cranleigh_railway_station
 ----
 disused: c/cranleigh
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.141879
 ----

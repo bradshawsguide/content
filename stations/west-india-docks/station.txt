@@ -14,7 +14,7 @@ wikipedia: West_India_Docks_railway_station
 ----
 disused: w/west_india_dock
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.508556
 ----

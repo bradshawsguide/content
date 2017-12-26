@@ -14,7 +14,7 @@ wikipedia: Gospel_Oak_railway_station
 ----
 disused: 
 ----
-code: GPO
+nationalrail: GPO
 ----
 geolat: 51.555447
 ----

@@ -14,7 +14,7 @@ wikipedia: Spital_railway_station
 ----
 disused: 
 ----
-code: SPI
+nationalrail: SPI
 ----
 geolat: 53.341095
 ----

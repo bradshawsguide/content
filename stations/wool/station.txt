@@ -14,7 +14,7 @@ wikipedia: Wool_railway_station
 ----
 disused: 
 ----
-code: WOO
+nationalrail: WOO
 ----
 geolat: 50.681998
 ----

@@ -14,7 +14,7 @@ wikipedia: Bedwyn_railway_station
 ----
 disused: 
 ----
-code: BDW
+nationalrail: BDW
 ----
 geolat: 51.379318
 ----

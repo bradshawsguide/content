@@ -14,7 +14,7 @@ wikipedia: Bentley_(Hampshire)_railway_station
 ----
 disused: 
 ----
-code: BTY
+nationalrail: BTY
 ----
 geolat: 51.181199
 ----

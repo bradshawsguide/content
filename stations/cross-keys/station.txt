@@ -14,7 +14,7 @@ wikipedia: Crosskeys_railway_station
 ----
 disused: 
 ----
-code: CKY
+nationalrail: CKY
 ----
 geolat: 51.620966
 ----

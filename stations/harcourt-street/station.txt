@@ -14,7 +14,7 @@ wikipedia: Harcourt_Street_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.3345
 ----

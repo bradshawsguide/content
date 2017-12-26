@@ -14,7 +14,7 @@ wikipedia: Thelwall_railway_station
 ----
 disused: t/thelwall
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.380069
 ----

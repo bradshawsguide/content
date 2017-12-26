@@ -14,7 +14,7 @@ wikipedia: Ardsollus_and_Quin_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.804016
 ----

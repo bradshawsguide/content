@@ -14,7 +14,7 @@ wikipedia: Lewes_railway_station
 ----
 disused: 
 ----
-code: LWS
+nationalrail: LWS
 ----
 geolat: 50.870803
 ----

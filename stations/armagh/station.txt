@@ -14,7 +14,7 @@ wikipedia: Armagh_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.3568
 ----

@@ -14,7 +14,7 @@ wikipedia: Belmont_railway_station_(Sutton)
 ----
 disused: 
 ----
-code: BLM
+nationalrail: BLM
 ----
 geolat: 51.343813
 ----

@@ -14,7 +14,7 @@ wikipedia: Hampton_Loade_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.473578
 ----

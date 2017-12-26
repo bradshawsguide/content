@@ -14,7 +14,7 @@ wikipedia: Limpley_Stoke_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.348599
 ----

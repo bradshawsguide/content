@@ -14,7 +14,7 @@ wikipedia: Arddleen_railway_station
 ----
 disused: a/arddleen_halt
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.73491
 ----

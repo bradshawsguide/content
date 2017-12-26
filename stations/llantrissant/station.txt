@@ -14,7 +14,7 @@ wikipedia: Pontyclun_railway_station
 ----
 disused: 
 ----
-code: PYC
+nationalrail: PYC
 ----
 geolat: 51.524599
 ----

@@ -14,7 +14,7 @@ wikipedia: Stroud_railway_station
 ----
 disused: 
 ----
-code: STD
+nationalrail: STD
 ----
 geolat: 51.744845
 ----

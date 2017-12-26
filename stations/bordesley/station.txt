@@ -14,7 +14,7 @@ wikipedia: Bordesley_railway_station
 ----
 disused: 
 ----
-code: BBS
+nationalrail: BBS
 ----
 geolat: 52.47232
 ----

@@ -14,7 +14,7 @@ wikipedia: Farnham_railway_station
 ----
 disused: 
 ----
-code: FNH
+nationalrail: FNH
 ----
 geolat: 51.21192
 ----

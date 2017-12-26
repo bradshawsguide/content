@@ -14,7 +14,7 @@ wikipedia: Ashley_railway_station
 ----
 disused: 
 ----
-code: ASY
+nationalrail: ASY
 ----
 geolat: 53.355541
 ----

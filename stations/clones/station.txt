@@ -14,7 +14,7 @@ wikipedia: Clones_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.181891
 ----

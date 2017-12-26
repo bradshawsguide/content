@@ -14,7 +14,7 @@ wikipedia: Brierley_Hill_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.484002
 ----

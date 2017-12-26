@@ -14,7 +14,7 @@ wikipedia: Woking_railway_station
 ----
 disused: 
 ----
-code: WOK
+nationalrail: WOK
 ----
 geolat: 51.318964
 ----

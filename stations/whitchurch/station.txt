@@ -14,7 +14,7 @@ wikipedia: Whitchurch_(Hants)_railway_station
 ----
 disused: 
 ----
-code: WCH
+nationalrail: WCH
 ----
 geolat: 51.237856
 ----

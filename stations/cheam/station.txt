@@ -14,7 +14,7 @@ wikipedia: Cheam_railway_station
 ----
 disused: 
 ----
-code: CHE
+nationalrail: CHE
 ----
 geolat: 51.355483
 ----

@@ -14,7 +14,7 @@ wikipedia: Yetminster_railway_station
 ----
 disused: 
 ----
-code: YET
+nationalrail: YET
 ----
 geolat: 50.895718
 ----

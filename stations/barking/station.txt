@@ -14,7 +14,7 @@ wikipedia: Barking_station
 ----
 disused: 
 ----
-code: BKG
+nationalrail: BKG
 ----
 geolat: 51.539509
 ----

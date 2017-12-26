@@ -14,7 +14,7 @@ wikipedia: Umberleigh_railway_station
 ----
 disused: 
 ----
-code: UMB
+nationalrail: UMB
 ----
 geolat: 50.997196
 ----

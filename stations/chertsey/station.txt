@@ -14,7 +14,7 @@ wikipedia: Chertsey_railway_station
 ----
 disused: 
 ----
-code: CHY
+nationalrail: CHY
 ----
 geolat: 51.38762
 ----

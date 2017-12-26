@@ -14,7 +14,7 @@ wikipedia: Bekesbourne_railway_station
 ----
 disused: 
 ----
-code: BKS
+nationalrail: BKS
 ----
 geolat: 51.261541
 ----

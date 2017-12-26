@@ -14,7 +14,7 @@ wikipedia:
 ----
 disused: p/pencader
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.000576
 ----

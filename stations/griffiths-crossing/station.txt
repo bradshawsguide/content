@@ -14,7 +14,7 @@ wikipedia: Griffith's_Crossing_railway_station
 ----
 disused: g/griffiths_crossing
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.167797
 ----

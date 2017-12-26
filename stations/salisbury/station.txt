@@ -14,7 +14,7 @@ wikipedia: Salisbury_railway_station
 ----
 disused: 
 ----
-code: SAL
+nationalrail: SAL
 ----
 geolat: 51.07052
 ----

@@ -14,7 +14,7 @@ wikipedia: Hatton_(Warwickshire)_railway_station
 ----
 disused: 
 ----
-code: HTN
+nationalrail: HTN
 ----
 geolat: 52.294825
 ----

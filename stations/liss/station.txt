@@ -14,7 +14,7 @@ wikipedia: Liss_railway_station
 ----
 disused: 
 ----
-code: LIS
+nationalrail: LIS
 ----
 geolat: 51.043852
 ----

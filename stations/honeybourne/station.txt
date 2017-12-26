@@ -14,7 +14,7 @@ wikipedia: Honeybourne_railway_station
 ----
 disused: 
 ----
-code: HYB
+nationalrail: HYB
 ----
 geolat: 52.101869
 ----

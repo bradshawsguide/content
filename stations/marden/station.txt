@@ -14,7 +14,7 @@ wikipedia: Marden_railway_station
 ----
 disused: 
 ----
-code: MRN
+nationalrail: MRN
 ----
 geolat: 51.175406
 ----

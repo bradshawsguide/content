@@ -14,7 +14,7 @@ wikipedia: Newington_railway_station
 ----
 disused: 
 ----
-code: NGT
+nationalrail: NGT
 ----
 geolat: 51.353226
 ----

@@ -14,7 +14,7 @@ wikipedia: Selhurst_railway_station
 ----
 disused: 
 ----
-code: SRS
+nationalrail: SRS
 ----
 geolat: 51.391973
 ----

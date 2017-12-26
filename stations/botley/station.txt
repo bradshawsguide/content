@@ -14,7 +14,7 @@ wikipedia: Botley_railway_station
 ----
 disused: 
 ----
-code: BOE
+nationalrail: BOE
 ----
 geolat: 50.916364
 ----

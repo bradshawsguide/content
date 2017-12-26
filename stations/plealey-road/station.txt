@@ -14,7 +14,7 @@ wikipedia: Plealey_Road_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.663433
 ----

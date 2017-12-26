@@ -14,7 +14,7 @@ wikipedia: New_Cross_railway_station
 ----
 disused: 
 ----
-code: NWX
+nationalrail: NWX
 ----
 geolat: 51.476402
 ----

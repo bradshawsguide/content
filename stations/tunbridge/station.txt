@@ -14,7 +14,7 @@ wikipedia: Tonbridge_railway_station
 ----
 disused: 
 ----
-code: TON
+nationalrail: TON
 ----
 geolat: 51.191655
 ----

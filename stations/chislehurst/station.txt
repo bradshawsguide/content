@@ -14,7 +14,7 @@ wikipedia: Chislehurst_railway_station
 ----
 disused: 
 ----
-code: CIT
+nationalrail: CIT
 ----
 geolat: 51.405442
 ----

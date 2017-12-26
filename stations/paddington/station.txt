@@ -14,7 +14,7 @@ wikipedia: London_Paddington_station
 ----
 disused: 
 ----
-code: PAD
+nationalrail: PAD
 ----
 geolat: 51.516989
 ----

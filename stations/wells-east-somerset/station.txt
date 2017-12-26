@@ -14,7 +14,7 @@ wikipedia: Wells_East_Somerset_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.20466
 ----

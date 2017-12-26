@@ -14,7 +14,7 @@ wikipedia: Reigate_railway_station
 ----
 disused: 
 ----
-code: REI
+nationalrail: REI
 ----
 geolat: 51.242142
 ----

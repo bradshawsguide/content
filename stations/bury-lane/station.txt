@@ -14,7 +14,7 @@ wikipedia: Glazebury_and_Bury_Lane_railway_station
 ----
 disused: g/glazebury
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.468274
 ----

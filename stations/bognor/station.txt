@@ -14,7 +14,7 @@ wikipedia: Bognor_Regis_railway_station
 ----
 disused: 
 ----
-code: BOG
+nationalrail: BOG
 ----
 geolat: 50.7871
 ----

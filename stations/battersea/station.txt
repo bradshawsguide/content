@@ -14,7 +14,7 @@ wikipedia: Battersea_railway_station
 ----
 disused: b/battersea
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.47156
 ----

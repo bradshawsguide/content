@@ -14,7 +14,7 @@ wikipedia: Ascott-under-Wychwood_railway_station
 ----
 disused: 
 ----
-code: AUW
+nationalrail: AUW
 ----
 geolat: 51.867418
 ----

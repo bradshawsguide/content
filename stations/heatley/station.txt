@@ -14,7 +14,7 @@ wikipedia: Heatley_&_Warburton_railway_station
 ----
 disused: h/heatley_and_warburton
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.39025
 ----

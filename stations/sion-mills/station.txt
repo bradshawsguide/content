@@ -14,7 +14,7 @@ wikipedia: Sion_Mills_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.786225
 ----

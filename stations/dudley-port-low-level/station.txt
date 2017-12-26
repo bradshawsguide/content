@@ -14,7 +14,7 @@ wikipedia: Dudley_Port_railway_station#Low_Level_station
 ----
 disused: 
 ----
-code: DDP
+nationalrail: DDP
 ----
 geolat: 52.525
 ----

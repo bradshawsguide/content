@@ -14,7 +14,7 @@ wikipedia: Gwyddelwern_railway_station
 ----
 disused: g/gwyddelwern
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.008215
 ----

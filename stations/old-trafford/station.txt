@@ -14,7 +14,7 @@ wikipedia: Trafford_Bar_tram_stop
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.461773
 ----

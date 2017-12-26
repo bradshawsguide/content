@@ -14,7 +14,7 @@ wikipedia: Blackwater_railway_station
 ----
 disused: 
 ----
-code: BAW
+nationalrail: BAW
 ----
 geolat: 51.331351
 ----

@@ -14,7 +14,7 @@ wikipedia: Buttington_railway_station
 ----
 disused: b/buttington
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.683103
 ----

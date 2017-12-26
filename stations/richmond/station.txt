@@ -14,7 +14,7 @@ wikipedia: Richmond_(London)_station
 ----
 disused: 
 ----
-code: RMD
+nationalrail: RMD
 ----
 geolat: 51.463239
 ----

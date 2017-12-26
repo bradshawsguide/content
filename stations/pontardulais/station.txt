@@ -14,7 +14,7 @@ wikipedia: Pontarddulais_railway_station
 ----
 disused: 
 ----
-code: PTD
+nationalrail: PTD
 ----
 geolat: 51.717339
 ----

@@ -14,7 +14,7 @@ wikipedia: Grateley_railway_station
 ----
 disused: 
 ----
-code: GRT
+nationalrail: GRT
 ----
 geolat: 51.170775
 ----

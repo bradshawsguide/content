@@ -14,7 +14,7 @@ wikipedia: East_Farleigh_railway_station
 ----
 disused: 
 ----
-code: EFL
+nationalrail: EFL
 ----
 geolat: 51.255632
 ----

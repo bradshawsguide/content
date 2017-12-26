@@ -14,7 +14,7 @@ wikipedia: Whitstable_railway_station
 ----
 disused: 
 ----
-code: WHI
+nationalrail: WHI
 ----
 geolat: 51.357827
 ----

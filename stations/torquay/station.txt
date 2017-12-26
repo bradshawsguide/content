@@ -14,7 +14,7 @@ wikipedia: Torquay_railway_station
 ----
 disused: 
 ----
-code: TQY
+nationalrail: TQY
 ----
 geolat: 50.461536
 ----

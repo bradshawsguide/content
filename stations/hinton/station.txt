@@ -14,7 +14,7 @@ wikipedia: Hinton_(Worcestershire)_railway_station
 ----
 disused: h/hinton
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.062424
 ----

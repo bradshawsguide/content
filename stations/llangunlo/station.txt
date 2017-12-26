@@ -14,7 +14,7 @@ wikipedia: Llangynllo_railway_station
 ----
 disused: 
 ----
-code: LGO
+nationalrail: LGO
 ----
 geolat: 52.349797
 ----

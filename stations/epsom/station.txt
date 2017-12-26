@@ -14,7 +14,7 @@ wikipedia: Epsom_railway_station
 ----
 disused: 
 ----
-code: EPS
+nationalrail: EPS
 ----
 geolat: 51.334851
 ----

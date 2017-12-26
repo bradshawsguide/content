@@ -14,7 +14,7 @@ wikipedia: Copplestone_railway_station
 ----
 disused: 
 ----
-code: COP
+nationalrail: COP
 ----
 geolat: 50.814745
 ----

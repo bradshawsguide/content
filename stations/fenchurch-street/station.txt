@@ -14,7 +14,7 @@ wikipedia: Fenchurch_Street_railway_station
 ----
 disused: 
 ----
-code: FST
+nationalrail: FST
 ----
 geolat: 51.512223
 ----

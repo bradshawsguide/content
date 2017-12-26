@@ -14,7 +14,7 @@ wikipedia: Credenhill_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.081216
 ----

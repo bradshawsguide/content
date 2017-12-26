@@ -14,7 +14,7 @@ wikipedia: Worcester_Foregate_Street_railway_station
 ----
 disused: 
 ----
-code: WOF
+nationalrail: WOF
 ----
 geolat: 52.195278
 ----

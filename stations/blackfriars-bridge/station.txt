@@ -14,7 +14,7 @@ wikipedia: Blackfriars_Bridge_railway_station
 ----
 disused: b/blackfriars_bridge
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.510787
 ----

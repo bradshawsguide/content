@@ -14,7 +14,7 @@ wikipedia: Andover_railway_station
 ----
 disused: 
 ----
-code: ADV
+nationalrail: ADV
 ----
 geolat: 51.211654
 ----

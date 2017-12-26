@@ -14,7 +14,7 @@ wikipedia: Soho_and_Winson_Green_railway_station
 ----
 disused: w/winson_green
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.496636
 ----

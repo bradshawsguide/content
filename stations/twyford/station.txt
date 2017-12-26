@@ -14,7 +14,7 @@ wikipedia: Twyford_railway_station
 ----
 disused: 
 ----
-code: TWY
+nationalrail: TWY
 ----
 geolat: 51.475199
 ----

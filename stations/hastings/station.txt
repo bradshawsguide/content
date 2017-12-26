@@ -14,7 +14,7 @@ wikipedia: Hastings_railway_station
 ----
 disused: 
 ----
-code: HGS
+nationalrail: HGS
 ----
 geolat: 50.858792
 ----

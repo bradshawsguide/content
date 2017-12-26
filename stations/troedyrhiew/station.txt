@@ -14,7 +14,7 @@ wikipedia: Troed-y-rhiw_railway_station
 ----
 disused: 
 ----
-code: TRD
+nationalrail: TRD
 ----
 geolat: 51.712154
 ----

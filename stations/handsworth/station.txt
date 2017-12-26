@@ -14,7 +14,7 @@ wikipedia: Handsworth_and_Smethwick_railway_station
 ----
 disused: h/handsworth
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.502041
 ----

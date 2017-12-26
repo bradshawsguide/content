@@ -14,7 +14,7 @@ wikipedia: Liscooly_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.799586
 ----

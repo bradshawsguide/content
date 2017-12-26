@@ -14,7 +14,7 @@ wikipedia: Burgess_Hill_railway_station
 ----
 disused: 
 ----
-code: BUG
+nationalrail: BUG
 ----
 geolat: 50.953154
 ----

@@ -14,7 +14,7 @@ wikipedia: Hanborough_railway_station
 ----
 disused: 
 ----
-code: HND
+nationalrail: HND
 ----
 geolat: 51.825194
 ----

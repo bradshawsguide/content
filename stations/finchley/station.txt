@@ -14,7 +14,7 @@ wikipedia: Finchley_Road_&_Frognal_railway_station
 ----
 disused: 
 ----
-code: FNY
+nationalrail: FNY
 ----
 geolat: 51.550273
 ----

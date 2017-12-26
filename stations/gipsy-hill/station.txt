@@ -14,7 +14,7 @@ wikipedia: Gipsy_Hill_railway_station
 ----
 disused: 
 ----
-code: GIP
+nationalrail: GIP
 ----
 geolat: 51.424579
 ----

@@ -14,7 +14,7 @@ wikipedia: Ruabon_railway_station
 ----
 disused: 
 ----
-code: RUA
+nationalrail: RUA
 ----
 geolat: 52.987439
 ----

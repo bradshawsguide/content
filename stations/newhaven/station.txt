@@ -14,7 +14,7 @@ wikipedia: Newhaven_Town_railway_station
 ----
 disused: 
 ----
-code: NVN
+nationalrail: NVN
 ----
 geolat: 50.794497
 ----

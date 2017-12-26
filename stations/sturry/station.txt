@@ -14,7 +14,7 @@ wikipedia: Sturry_railway_station
 ----
 disused: 
 ----
-code: STU
+nationalrail: STU
 ----
 geolat: 51.300607
 ----

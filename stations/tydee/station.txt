@@ -14,7 +14,7 @@ wikipedia: Rogerstone_railway_station
 ----
 disused: 
 ----
-code: ROR
+nationalrail: ROR
 ----
 geolat: 51.595448
 ----

@@ -14,7 +14,7 @@ wikipedia: Chiswick_railway_station
 ----
 disused: 
 ----
-code: CHK
+nationalrail: CHK
 ----
 geolat: 51.481127
 ----

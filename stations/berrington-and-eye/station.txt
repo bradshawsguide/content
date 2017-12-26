@@ -14,7 +14,7 @@ wikipedia: Berrington_and_Eye_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.27046
 ----

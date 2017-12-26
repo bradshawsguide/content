@@ -14,7 +14,7 @@ wikipedia: Lewisham_station
 ----
 disused: 
 ----
-code: LEW
+nationalrail: LEW
 ----
 geolat: 51.465726
 ----

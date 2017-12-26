@@ -14,7 +14,7 @@ wikipedia: Hagley_railway_station
 ----
 disused: 
 ----
-code: HAG
+nationalrail: HAG
 ----
 geolat: 52.422848
 ----

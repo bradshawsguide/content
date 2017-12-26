@@ -14,7 +14,7 @@ wikipedia: Stonehouse_railway_station
 ----
 disused: 
 ----
-code: SHU
+nationalrail: SHU
 ----
 geolat: 51.745618
 ----

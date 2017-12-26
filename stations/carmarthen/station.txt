@@ -14,7 +14,7 @@ wikipedia: Carmarthen_railway_station
 ----
 disused: 
 ----
-code: CMN
+nationalrail: CMN
 ----
 geolat: 51.852803
 ----

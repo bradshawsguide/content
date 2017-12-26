@@ -14,7 +14,7 @@ wikipedia: Shirehampton_railway_station
 ----
 disused: 
 ----
-code: SHH
+nationalrail: SHH
 ----
 geolat: 51.484134
 ----

@@ -14,7 +14,7 @@ wikipedia: Kintbury_railway_station
 ----
 disused: 
 ----
-code: KIT
+nationalrail: KIT
 ----
 geolat: 51.402969
 ----

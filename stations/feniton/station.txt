@@ -14,7 +14,7 @@ wikipedia: Feniton_railway_station
 ----
 disused: 
 ----
-code: FNT
+nationalrail: FNT
 ----
 geolat: 50.786625
 ----

@@ -14,7 +14,7 @@ wikipedia: Eaton_railway_station
 ----
 disused: e/eaton
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.502046
 ----

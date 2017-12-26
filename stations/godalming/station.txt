@@ -14,7 +14,7 @@ wikipedia: Godalming_railway_station
 ----
 disused: 
 ----
-code: GOD
+nationalrail: GOD
 ----
 geolat: 51.186616
 ----

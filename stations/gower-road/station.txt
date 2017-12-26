@@ -14,7 +14,7 @@ wikipedia: Gowerton_railway_station
 ----
 disused: 
 ----
-code: GWN
+nationalrail: GWN
 ----
 geolat: 51.649175
 ----

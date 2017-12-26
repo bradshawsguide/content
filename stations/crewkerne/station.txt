@@ -14,7 +14,7 @@ wikipedia: Crewkerne_railway_station
 ----
 disused: 
 ----
-code: CKN
+nationalrail: CKN
 ----
 geolat: 50.873851
 ----

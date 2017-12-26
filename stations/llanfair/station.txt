@@ -14,7 +14,7 @@ wikipedia: Llanfairpwll_railway_station
 ----
 disused: 
 ----
-code: LPG
+nationalrail: LPG
 ----
 geolat: 53.22048
 ----

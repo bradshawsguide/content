@@ -14,7 +14,7 @@ wikipedia: Plaistow_tube_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.531233
 ----

@@ -14,7 +14,7 @@ wikipedia: Disused_railway_stations_on_the_Cornish_Main_Line#Gwinear_Road
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.1972
 ----

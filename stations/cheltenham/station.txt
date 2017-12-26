@@ -14,7 +14,7 @@ wikipedia: Cheltenham_Spa_St._James_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.901464
 ----

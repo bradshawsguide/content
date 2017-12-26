@@ -14,7 +14,7 @@ wikipedia: Portslade_railway_station
 ----
 disused: 
 ----
-code: PLD
+nationalrail: PLD
 ----
 geolat: 50.835676
 ----

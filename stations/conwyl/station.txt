@@ -14,7 +14,7 @@ wikipedia: Conwil_railway_station
 ----
 disused: c/conwil
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.912418
 ----

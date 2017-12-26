@@ -14,7 +14,7 @@ wikipedia: Tavistock_South_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.546881
 ----

@@ -14,7 +14,7 @@ wikipedia: Hooton_railway_station
 ----
 disused: 
 ----
-code: HOO
+nationalrail: HOO
 ----
 geolat: 53.297193
 ----

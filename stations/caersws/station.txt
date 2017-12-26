@@ -14,7 +14,7 @@ wikipedia: Caersws_railway_station
 ----
 disused: 
 ----
-code: CWS
+nationalrail: CWS
 ----
 geolat: 52.515846
 ----

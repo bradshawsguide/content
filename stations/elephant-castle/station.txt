@@ -14,7 +14,7 @@ wikipedia: Elephant_&_Castle_railway_station
 ----
 disused: 
 ----
-code: EPH
+nationalrail: EPH
 ----
 geolat: 51.495065
 ----

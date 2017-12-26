@@ -14,7 +14,7 @@ wikipedia: Greenwich_station
 ----
 disused: 
 ----
-code: GNW
+nationalrail: GNW
 ----
 geolat: 51.478111
 ----

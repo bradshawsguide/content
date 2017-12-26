@@ -14,7 +14,7 @@ wikipedia: Deansgate_railway_station
 ----
 disused: 
 ----
-code: DGT
+nationalrail: DGT
 ----
 geolat: 53.474416
 ----

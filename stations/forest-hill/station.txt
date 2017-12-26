@@ -14,7 +14,7 @@ wikipedia: Forest_Hill_railway_station
 ----
 disused: 
 ----
-code: FOH
+nationalrail: FOH
 ----
 geolat: 51.439283
 ----

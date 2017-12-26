@@ -14,7 +14,7 @@ wikipedia: Folkestone_West_railway_station
 ----
 disused: 
 ----
-code: FKW
+nationalrail: FKW
 ----
 geolat: 51.084795
 ----

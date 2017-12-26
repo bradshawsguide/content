@@ -14,7 +14,7 @@ wikipedia: Taffs_Well_railway_station
 ----
 disused: 
 ----
-code: TAF
+nationalrail: TAF
 ----
 geolat: 51.541333
 ----

@@ -14,7 +14,7 @@ wikipedia: Gaerwen_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.213067
 ----

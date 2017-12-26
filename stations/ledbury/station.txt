@@ -14,7 +14,7 @@ wikipedia: Ledbury_railway_station
 ----
 disused: 
 ----
-code: LED
+nationalrail: LED
 ----
 geolat: 52.045476
 ----

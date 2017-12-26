@@ -14,7 +14,7 @@ wikipedia: Yeovil_Town_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.933333
 ----

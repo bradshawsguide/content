@@ -14,7 +14,7 @@ wikipedia: Bangor_(Gwynedd)_railway_station
 ----
 disused: 
 ----
-code: BNG
+nationalrail: BNG
 ----
 geolat: 53.222743
 ----

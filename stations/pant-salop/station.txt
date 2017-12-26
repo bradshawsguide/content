@@ -14,7 +14,7 @@ wikipedia: Pant_(Salop)_railway_station
 ----
 disused: p/pant_salop
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.793858
 ----

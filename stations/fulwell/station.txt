@@ -14,7 +14,7 @@ wikipedia: Fulwell_railway_station
 ----
 disused: 
 ----
-code: FLW
+nationalrail: FLW
 ----
 geolat: 51.433779
 ----

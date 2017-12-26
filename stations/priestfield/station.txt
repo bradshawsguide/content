@@ -14,7 +14,7 @@ wikipedia: Priestfield_railway_station
 ----
 disused: p/priestfield
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.570334
 ----

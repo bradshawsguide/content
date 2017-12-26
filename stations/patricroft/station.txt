@@ -14,7 +14,7 @@ wikipedia: Patricroft_railway_station
 ----
 disused: 
 ----
-code: PAT
+nationalrail: PAT
 ----
 geolat: 53.48493
 ----

@@ -14,7 +14,7 @@ wikipedia: Spa_Road_railway_station
 ----
 disused: s/spa_road_and_bermondsey
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.4956
 ----

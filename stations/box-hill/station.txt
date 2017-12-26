@@ -14,7 +14,7 @@ wikipedia: Dorking_Deepdene_railway_station
 ----
 disused: 
 ----
-code: DPD
+nationalrail: DPD
 ----
 geolat: 51.238512
 ----

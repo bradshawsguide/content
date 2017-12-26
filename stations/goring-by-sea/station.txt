@@ -14,7 +14,7 @@ wikipedia: Goring-by-Sea_railway_station
 ----
 disused: 
 ----
-code: GBS
+nationalrail: GBS
 ----
 geolat: 50.817374
 ----

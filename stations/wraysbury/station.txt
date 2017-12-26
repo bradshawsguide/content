@@ -14,7 +14,7 @@ wikipedia: Wraysbury_railway_station
 ----
 disused: 
 ----
-code: WRY
+nationalrail: WRY
 ----
 geolat: 51.458147
 ----

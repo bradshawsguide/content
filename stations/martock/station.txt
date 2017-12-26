@@ -14,7 +14,7 @@ wikipedia: Yeovil–Taunton_line#Martock
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.976875
 ----

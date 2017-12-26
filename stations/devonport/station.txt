@@ -14,7 +14,7 @@ wikipedia: Devonport_railway_station
 ----
 disused: 
 ----
-code: DPT
+nationalrail: DPT
 ----
 geolat: 50.378665
 ----

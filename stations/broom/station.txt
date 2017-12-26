@@ -14,7 +14,7 @@ wikipedia: Broome_railway_station
 ----
 disused: 
 ----
-code: BME
+nationalrail: BME
 ----
 geolat: 52.423225
 ----

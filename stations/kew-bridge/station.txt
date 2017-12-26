@@ -14,7 +14,7 @@ wikipedia: Kew_Bridge_railway_station
 ----
 disused: 
 ----
-code: KWB
+nationalrail: KWB
 ----
 geolat: 51.48955
 ----

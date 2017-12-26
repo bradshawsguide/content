@@ -14,7 +14,7 @@ wikipedia: Banbury_railway_station
 ----
 disused: 
 ----
-code: BAN
+nationalrail: BAN
 ----
 geolat: 52.060506
 ----

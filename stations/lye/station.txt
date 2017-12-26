@@ -14,7 +14,7 @@ wikipedia: Lye_railway_station
 ----
 disused: 
 ----
-code: LYE
+nationalrail: LYE
 ----
 geolat: 52.459741
 ----

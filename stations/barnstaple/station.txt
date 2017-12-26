@@ -14,7 +14,7 @@ wikipedia: Barnstaple_railway_station
 ----
 disused: 
 ----
-code: BNP
+nationalrail: BNP
 ----
 geolat: 51.074046
 ----

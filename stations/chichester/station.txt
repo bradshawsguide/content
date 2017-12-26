@@ -14,7 +14,7 @@ wikipedia: Chichester_railway_station
 ----
 disused: 
 ----
-code: CCH
+nationalrail: CCH
 ----
 geolat: 50.832327
 ----

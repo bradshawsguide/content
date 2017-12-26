@@ -14,7 +14,7 @@ wikipedia: Stoke_Edith_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.069169
 ----

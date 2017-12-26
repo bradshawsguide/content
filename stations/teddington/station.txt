@@ -14,7 +14,7 @@ wikipedia: Teddington_railway_station
 ----
 disused: 
 ----
-code: TED
+nationalrail: TED
 ----
 geolat: 51.424511
 ----

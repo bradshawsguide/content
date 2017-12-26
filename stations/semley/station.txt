@@ -14,7 +14,7 @@ wikipedia: Semley_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.039964
 ----

@@ -14,7 +14,7 @@ wikipedia: Bosham_railway_station
 ----
 disused: 
 ----
-code: BOH
+nationalrail: BOH
 ----
 geolat: 50.84288
 ----

@@ -14,7 +14,7 @@ wikipedia: Quakers_Yard_railway_station
 ----
 disused: 
 ----
-code: QYD
+nationalrail: QYD
 ----
 geolat: 51.660266
 ----

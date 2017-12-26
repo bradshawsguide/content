@@ -14,7 +14,7 @@ wikipedia: Deal_railway_station
 ----
 disused: 
 ----
-code: DEA
+nationalrail: DEA
 ----
 geolat: 51.222726
 ----

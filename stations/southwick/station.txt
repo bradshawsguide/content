@@ -14,7 +14,7 @@ wikipedia: Southwick_railway_station
 ----
 disused: 
 ----
-code: SWK
+nationalrail: SWK
 ----
 geolat: 50.832557
 ----

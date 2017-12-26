@@ -14,7 +14,7 @@ wikipedia: Rossett_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.108588
 ----

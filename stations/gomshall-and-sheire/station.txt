@@ -14,7 +14,7 @@ wikipedia: Gomshall_railway_station
 ----
 disused: 
 ----
-code: GOM
+nationalrail: GOM
 ----
 geolat: 51.219462
 ----

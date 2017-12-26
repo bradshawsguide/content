@@ -14,7 +14,7 @@ wikipedia: Mottisfont_&_Dunbridge_railway_station
 ----
 disused: 
 ----
-code: DBG
+nationalrail: DBG
 ----
 geolat: 51.033835
 ----

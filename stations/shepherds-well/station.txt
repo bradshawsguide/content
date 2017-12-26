@@ -14,7 +14,7 @@ wikipedia: Shepherds_Well_railway_station
 ----
 disused: 
 ----
-code: SPH
+nationalrail: SPH
 ----
 geolat: 51.187968
 ----

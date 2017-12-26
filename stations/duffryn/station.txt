@@ -14,7 +14,7 @@ wikipedia: Ammanford_railway_station
 ----
 disused: 
 ----
-code: AMF
+nationalrail: AMF
 ----
 geolat: 51.795511
 ----

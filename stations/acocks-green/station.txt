@@ -14,7 +14,7 @@ wikipedia: Acocks_Green_railway_station
 ----
 disused: 
 ----
-code: ACG
+nationalrail: ACG
 ----
 geolat: 52.449772
 ----

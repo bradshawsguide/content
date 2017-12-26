@@ -14,7 +14,7 @@ wikipedia: Kearsney_railway_station
 ----
 disused: 
 ----
-code: KSN
+nationalrail: KSN
 ----
 geolat: 51.148992
 ----

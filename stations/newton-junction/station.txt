@@ -14,7 +14,7 @@ wikipedia: Newton_Abbot_railway_station
 ----
 disused: 
 ----
-code: NTA
+nationalrail: NTA
 ----
 geolat: 50.530033
 ----

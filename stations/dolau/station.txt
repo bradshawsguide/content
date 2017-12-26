@@ -14,7 +14,7 @@ wikipedia: Dolau_railway_station
 ----
 disused: 
 ----
-code: DOL
+nationalrail: DOL
 ----
 geolat: 52.294814
 ----

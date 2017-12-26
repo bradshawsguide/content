@@ -14,7 +14,7 @@ wikipedia: Bow_Street_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.44012
 ----

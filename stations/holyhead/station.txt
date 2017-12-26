@@ -14,7 +14,7 @@ wikipedia: Holyhead_railway_station
 ----
 disused: 
 ----
-code: HHD
+nationalrail: HHD
 ----
 geolat: 53.308114
 ----

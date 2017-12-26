@@ -14,7 +14,7 @@ wikipedia: Baynards_railway_station
 ----
 disused: b/baynards
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.105533
 ----

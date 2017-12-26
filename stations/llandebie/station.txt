@@ -14,7 +14,7 @@ wikipedia: Llandybie_railway_station
 ----
 disused: 
 ----
-code: LLI
+nationalrail: LLI
 ----
 geolat: 51.820572
 ----

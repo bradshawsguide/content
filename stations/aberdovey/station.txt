@@ -14,7 +14,7 @@ wikipedia: Aberdovey_railway_station
 ----
 disused: 
 ----
-code: AVW
+nationalrail: AVW
 ----
 geolat: 52.544417
 ----

@@ -14,7 +14,7 @@ wikipedia: Port_Talbot_Parkway_railway_station
 ----
 disused: 
 ----
-code: PTA
+nationalrail: PTA
 ----
 geolat: 51.592155
 ----

@@ -14,7 +14,7 @@ wikipedia: Holland_Arms_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.228804
 ----

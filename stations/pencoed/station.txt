@@ -14,7 +14,7 @@ wikipedia: Pencoed_railway_station
 ----
 disused: 
 ----
-code: PCD
+nationalrail: PCD
 ----
 geolat: 51.52323
 ----

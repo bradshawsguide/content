@@ -14,7 +14,7 @@ wikipedia: Calbourne_&_Shalfleet_railway_station
 ----
 disused: c/calbourne
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.693263
 ----

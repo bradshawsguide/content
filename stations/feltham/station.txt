@@ -14,7 +14,7 @@ wikipedia: Feltham_railway_station
 ----
 disused: 
 ----
-code: FEL
+nationalrail: FEL
 ----
 geolat: 51.448062
 ----

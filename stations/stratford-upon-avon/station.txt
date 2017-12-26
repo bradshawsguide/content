@@ -14,7 +14,7 @@ wikipedia: Stratford-upon-Avon_railway_station
 ----
 disused: 
 ----
-code: SAV
+nationalrail: SAV
 ----
 geolat: 52.194248
 ----

@@ -14,7 +14,7 @@ wikipedia: Abercynon_railway_station
 ----
 disused: 
 ----
-code: ACY
+nationalrail: ACY
 ----
 geolat: 51.644936
 ----

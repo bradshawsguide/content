@@ -14,7 +14,7 @@ wikipedia: Ystrad_Rhondda_railway_station
 ----
 disused: 
 ----
-code: YSR
+nationalrail: YSR
 ----
 geolat: 51.643286
 ----

@@ -14,7 +14,7 @@ wikipedia: Gloucester_railway_station
 ----
 disused: 
 ----
-code: GCR
+nationalrail: GCR
 ----
 geolat: 51.865286
 ----

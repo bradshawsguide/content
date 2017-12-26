@@ -14,7 +14,7 @@ wikipedia: Paignton_railway_station
 ----
 disused: 
 ----
-code: PGN
+nationalrail: PGN
 ----
 geolat: 50.434265
 ----

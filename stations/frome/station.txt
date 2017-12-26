@@ -14,7 +14,7 @@ wikipedia: Frome_railway_station
 ----
 disused: 
 ----
-code: FRO
+nationalrail: FRO
 ----
 geolat: 51.227628
 ----

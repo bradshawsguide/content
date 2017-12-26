@@ -14,7 +14,7 @@ wikipedia: Evercreech_Junction_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.127986
 ----

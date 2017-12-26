@@ -14,7 +14,7 @@ wikipedia: Henwick_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.190757
 ----

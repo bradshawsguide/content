@@ -14,7 +14,7 @@ wikipedia: Deptford_railway_station
 ----
 disused: 
 ----
-code: DEP
+nationalrail: DEP
 ----
 geolat: 51.478859
 ----

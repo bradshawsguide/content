@@ -14,7 +14,7 @@ wikipedia: Carisbrooke_railway_station
 ----
 disused: c/carisbrooke
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.69457
 ----

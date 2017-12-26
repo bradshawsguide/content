@@ -14,7 +14,7 @@ wikipedia: Wimborne_railway_station
 ----
 disused: w/wimborne
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.795511
 ----

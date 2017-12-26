@@ -14,7 +14,7 @@ wikipedia: Greenhithe_railway_station
 ----
 disused: 
 ----
-code: GNH
+nationalrail: GNH
 ----
 geolat: 51.450636
 ----

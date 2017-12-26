@@ -14,7 +14,7 @@ wikipedia: Northfleet_railway_station
 ----
 disused: 
 ----
-code: NFL
+nationalrail: NFL
 ----
 geolat: 51.445953
 ----

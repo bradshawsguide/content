@@ -14,7 +14,7 @@ wikipedia: Fareham_railway_station
 ----
 disused: 
 ----
-code: FRM
+nationalrail: FRM
 ----
 geolat: 50.85387
 ----

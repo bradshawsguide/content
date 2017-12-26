@@ -14,7 +14,7 @@ wikipedia: Dunham_Hill_railway_station
 ----
 disused: d/dunham_hill
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.24904
 ----

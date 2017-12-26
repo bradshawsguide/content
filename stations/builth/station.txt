@@ -14,7 +14,7 @@ wikipedia: Builth_Road_railway_station
 ----
 disused: 
 ----
-code: BHR
+nationalrail: BHR
 ----
 geolat: 52.168862
 ----

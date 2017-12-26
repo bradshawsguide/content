@@ -14,7 +14,7 @@ wikipedia: Redhill_railway_station
 ----
 disused: 
 ----
-code: RDH
+nationalrail: RDH
 ----
 geolat: 51.240644
 ----

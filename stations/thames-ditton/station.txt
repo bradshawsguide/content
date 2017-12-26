@@ -14,7 +14,7 @@ wikipedia: Thames_Ditton_railway_station
 ----
 disused: 
 ----
-code: THD
+nationalrail: THD
 ----
 geolat: 51.389064
 ----

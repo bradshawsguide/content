@@ -14,7 +14,7 @@ wikipedia: Tisbury_railway_station
 ----
 disused: 
 ----
-code: TIS
+nationalrail: TIS
 ----
 geolat: 51.060761
 ----

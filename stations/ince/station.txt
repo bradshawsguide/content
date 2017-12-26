@@ -14,7 +14,7 @@ wikipedia: Ince_&_Elton_railway_station
 ----
 disused: 
 ----
-code: INE
+nationalrail: INE
 ----
 geolat: 53.276831
 ----

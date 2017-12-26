@@ -14,7 +14,7 @@ wikipedia: Beckford_railway_station
 ----
 disused: b/beckford
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.018369
 ----

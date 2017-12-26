@@ -14,7 +14,7 @@ wikipedia: Hillsborough_railway_station_(Northern_Ireland)
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.471976
 ----

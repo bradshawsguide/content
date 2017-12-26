@@ -14,7 +14,7 @@ wikipedia: Brondesbury_railway_station
 ----
 disused: 
 ----
-code: BSY
+nationalrail: BSY
 ----
 geolat: 51.545251
 ----

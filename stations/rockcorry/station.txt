@@ -14,7 +14,7 @@ wikipedia: Rockcorry_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.108677
 ----

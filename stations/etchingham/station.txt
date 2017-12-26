@@ -14,7 +14,7 @@ wikipedia: Etchingham_railway_station
 ----
 disused: 
 ----
-code: ETC
+nationalrail: ETC
 ----
 geolat: 51.010979
 ----

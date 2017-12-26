@@ -14,7 +14,7 @@ wikipedia: Maiden_Newton_railway_station
 ----
 disused: 
 ----
-code: MDN
+nationalrail: MDN
 ----
 geolat: 50.779735
 ----

@@ -14,7 +14,7 @@ wikipedia: Earley_railway_station
 ----
 disused: 
 ----
-code: EAR
+nationalrail: EAR
 ----
 geolat: 51.440655
 ----

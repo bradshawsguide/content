@@ -14,7 +14,7 @@ wikipedia: Isleworth_railway_station
 ----
 disused: 
 ----
-code: ISL
+nationalrail: ISL
 ----
 geolat: 51.474841
 ----

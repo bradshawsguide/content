@@ -14,7 +14,7 @@ wikipedia: Malvern_Link_railway_station
 ----
 disused: 
 ----
-code: MVL
+nationalrail: MVL
 ----
 geolat: 52.124928
 ----

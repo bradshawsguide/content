@@ -14,7 +14,7 @@ wikipedia: Newport_Dock_Street_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.5824
 ----

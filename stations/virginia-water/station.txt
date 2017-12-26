@@ -14,7 +14,7 @@ wikipedia: Virginia_Water_railway_station
 ----
 disused: 
 ----
-code: VIR
+nationalrail: VIR
 ----
 geolat: 51.401749
 ----

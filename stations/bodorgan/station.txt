@@ -14,7 +14,7 @@ wikipedia: Bodorgan_railway_station
 ----
 disused: 
 ----
-code: BOR
+nationalrail: BOR
 ----
 geolat: 53.203866
 ----

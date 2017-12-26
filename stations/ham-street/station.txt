@@ -14,7 +14,7 @@ wikipedia: Ham_Street_railway_station
 ----
 disused: 
 ----
-code: HMT
+nationalrail: HMT
 ----
 geolat: 51.068211
 ----

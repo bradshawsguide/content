@@ -14,7 +14,7 @@ wikipedia: Three_Bridges_railway_station
 ----
 disused: 
 ----
-code: TBD
+nationalrail: TBD
 ----
 geolat: 51.11736
 ----

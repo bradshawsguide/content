@@ -14,7 +14,7 @@ wikipedia: Bronwydd_Arms_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.891575
 ----

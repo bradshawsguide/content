@@ -14,7 +14,7 @@ wikipedia: Llandovery_railway_station
 ----
 disused: 
 ----
-code: LLV
+nationalrail: LLV
 ----
 geolat: 51.995587
 ----

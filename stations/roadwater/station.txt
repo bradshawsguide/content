@@ -14,7 +14,7 @@ wikipedia: Roadwater_railway_station
 ----
 disused: r/roadwater
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.135321
 ----

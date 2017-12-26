@@ -14,7 +14,7 @@ wikipedia: Hale_railway_station
 ----
 disused: 
 ----
-code: HAL
+nationalrail: HAL
 ----
 geolat: 53.378894
 ----

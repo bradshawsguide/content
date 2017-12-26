@@ -14,7 +14,7 @@ wikipedia: Ladywell_railway_station
 ----
 disused: 
 ----
-code: LAD
+nationalrail: LAD
 ----
 geolat: 51.456192
 ----

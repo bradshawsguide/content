@@ -14,7 +14,7 @@ wikipedia: Llandulas_railway_station
 ----
 disused: l/llandulas
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.293489
 ----

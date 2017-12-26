@@ -14,7 +14,7 @@ wikipedia: Gillingham_(Dorset)_railway_station
 ----
 disused: 
 ----
-code: GIL
+nationalrail: GIL
 ----
 geolat: 51.034391
 ----

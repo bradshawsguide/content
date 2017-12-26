@@ -14,7 +14,7 @@ wikipedia: Brettell_Lane_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.474103
 ----

@@ -14,7 +14,7 @@ wikipedia: Pewsey_railway_station
 ----
 disused: 
 ----
-code: PEW
+nationalrail: PEW
 ----
 geolat: 51.342012
 ----

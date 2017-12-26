@@ -14,7 +14,7 @@ wikipedia: Dunmurry_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.553076
 ----

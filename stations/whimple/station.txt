@@ -14,7 +14,7 @@ wikipedia: Whimple_railway_station
 ----
 disused: 
 ----
-code: WHM
+nationalrail: WHM
 ----
 geolat: 50.767858
 ----

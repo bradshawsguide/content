@@ -14,7 +14,7 @@ wikipedia: West_Pennard_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.153569
 ----

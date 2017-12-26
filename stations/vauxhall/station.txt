@@ -14,7 +14,7 @@ wikipedia: Vauxhall_station_(London)
 ----
 disused: 
 ----
-code: VXH
+nationalrail: VXH
 ----
 geolat: 51.485874
 ----

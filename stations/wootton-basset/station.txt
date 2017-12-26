@@ -14,7 +14,7 @@ wikipedia: Wootton_Bassett_railway_stations
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.5346
 ----

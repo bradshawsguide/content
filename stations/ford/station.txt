@@ -14,7 +14,7 @@ wikipedia: Ford_railway_station
 ----
 disused: 
 ----
-code: FOD
+nationalrail: FOD
 ----
 geolat: 50.829116
 ----

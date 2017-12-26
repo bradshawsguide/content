@@ -14,7 +14,7 @@ wikipedia: Briton_Ferry_railway_station
 ----
 disused: 
 ----
-code: BNF
+nationalrail: BNF
 ----
 geolat: 51.638332
 ----

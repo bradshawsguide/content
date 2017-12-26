@@ -14,7 +14,7 @@ wikipedia: Portchester_railway_station
 ----
 disused: 
 ----
-code: PTC
+nationalrail: PTC
 ----
 geolat: 50.848883
 ----

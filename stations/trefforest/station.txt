@@ -14,7 +14,7 @@ wikipedia: Treforest_railway_station
 ----
 disused: 
 ----
-code: TRF
+nationalrail: TRF
 ----
 geolat: 51.591918
 ----

@@ -14,7 +14,7 @@ wikipedia: Newbridge_railway_station_(Ireland)
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.1853
 ----

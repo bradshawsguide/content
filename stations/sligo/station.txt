@@ -14,7 +14,7 @@ wikipedia: Sligo_Mac_Diarmada_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.272
 ----

@@ -14,7 +14,7 @@ wikipedia: Sunningdale_railway_station
 ----
 disused: 
 ----
-code: SNG
+nationalrail: SNG
 ----
 geolat: 51.391805
 ----

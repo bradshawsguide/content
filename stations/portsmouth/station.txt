@@ -14,7 +14,7 @@ wikipedia: Portsmouth_&_Southsea_railway_station
 ----
 disused: 
 ----
-code: PMS
+nationalrail: PMS
 ----
 geolat: 50.79827
 ----

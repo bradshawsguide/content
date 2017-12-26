@@ -14,7 +14,7 @@ wikipedia: Pulborough_railway_station
 ----
 disused: 
 ----
-code: PUL
+nationalrail: PUL
 ----
 geolat: 50.957858
 ----

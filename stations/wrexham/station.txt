@@ -14,7 +14,7 @@ wikipedia: Wrexham_General_railway_station
 ----
 disused: 
 ----
-code: WRX
+nationalrail: WRX
 ----
 geolat: 53.050686
 ----

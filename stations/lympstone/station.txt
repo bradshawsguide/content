@@ -14,7 +14,7 @@ wikipedia: Lympstone_Village_railway_station
 ----
 disused: 
 ----
-code: LYM
+nationalrail: LYM
 ----
 geolat: 50.648242
 ----

@@ -14,7 +14,7 @@ wikipedia: Broad_Clyst_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.747165
 ----

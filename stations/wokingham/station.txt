@@ -14,7 +14,7 @@ wikipedia: Wokingham_railway_station
 ----
 disused: 
 ----
-code: WKM
+nationalrail: WKM
 ----
 geolat: 51.41116
 ----

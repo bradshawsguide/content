@@ -14,7 +14,7 @@ wikipedia: Deganwy_railway_station
 ----
 disused: 
 ----
-code: DGY
+nationalrail: DGY
 ----
 geolat: 53.294308
 ----

@@ -14,7 +14,7 @@ wikipedia: Llynclys_railway_station
 ----
 disused: l/llynclys
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.809231
 ----

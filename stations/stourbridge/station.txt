@@ -14,7 +14,7 @@ wikipedia: Stourbridge_Junction_railway_station
 ----
 disused: 
 ----
-code: SBJ
+nationalrail: SBJ
 ----
 geolat: 52.448034
 ----

@@ -14,7 +14,7 @@ wikipedia: Eccles_railway_station
 ----
 disused: 
 ----
-code: ECC
+nationalrail: ECC
 ----
 geolat: 53.485894
 ----

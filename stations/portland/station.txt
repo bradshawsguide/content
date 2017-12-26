@@ -14,7 +14,7 @@ wikipedia: Portland_(Dorset)_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.563085
 ----

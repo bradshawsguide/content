@@ -14,7 +14,7 @@ wikipedia: Exeter_Central_railway_station
 ----
 disused: 
 ----
-code: EXC
+nationalrail: EXC
 ----
 geolat: 50.726972
 ----

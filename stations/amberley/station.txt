@@ -14,7 +14,7 @@ wikipedia: Amberley_railway_station
 ----
 disused: 
 ----
-code: AMY
+nationalrail: AMY
 ----
 geolat: 50.897017
 ----

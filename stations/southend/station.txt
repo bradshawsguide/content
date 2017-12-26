@@ -14,7 +14,7 @@ wikipedia: Southend_Central_railway_station
 ----
 disused: 
 ----
-code: SOC
+nationalrail: SOC
 ----
 geolat: 51.537222
 ----

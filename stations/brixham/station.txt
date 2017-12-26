@@ -14,7 +14,7 @@ wikipedia: Torbay_and_Brixham_Railway#Brixham_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.397619
 ----

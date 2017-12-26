@@ -14,7 +14,7 @@ wikipedia: Penpergwm_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.785026
 ----

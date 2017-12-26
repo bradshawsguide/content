@@ -14,7 +14,7 @@ wikipedia: Belvedere_railway_station
 ----
 disused: 
 ----
-code: BVD
+nationalrail: BVD
 ----
 geolat: 51.491544
 ----

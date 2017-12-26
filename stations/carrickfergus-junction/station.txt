@@ -14,7 +14,7 @@ wikipedia: Greenisland_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.700278
 ----

@@ -14,7 +14,7 @@ wikipedia: Bellarena_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 55.126667
 ----

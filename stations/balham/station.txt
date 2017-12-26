@@ -14,7 +14,7 @@ wikipedia: Balham_station
 ----
 disused: 
 ----
-code: BAL
+nationalrail: BAL
 ----
 geolat: 51.443223
 ----

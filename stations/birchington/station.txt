@@ -14,7 +14,7 @@ wikipedia: Birchington-on-Sea_railway_station
 ----
 disused: 
 ----
-code: BCH
+nationalrail: BCH
 ----
 geolat: 51.377544
 ----

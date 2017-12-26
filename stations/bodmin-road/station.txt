@@ -14,7 +14,7 @@ wikipedia: Bodmin_Parkway_railway_station
 ----
 disused: 
 ----
-code: BOD
+nationalrail: BOD
 ----
 geolat: 50.445795
 ----

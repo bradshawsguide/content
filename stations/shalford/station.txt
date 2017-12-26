@@ -14,7 +14,7 @@ wikipedia: Shalford_railway_station
 ----
 disused: 
 ----
-code: SFR
+nationalrail: SFR
 ----
 geolat: 51.214762
 ----

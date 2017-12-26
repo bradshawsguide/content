@@ -14,7 +14,7 @@ wikipedia: Exeter_St_Thomas_railway_station
 ----
 disused: 
 ----
-code: EXT
+nationalrail: EXT
 ----
 geolat: 50.717009
 ----

@@ -14,7 +14,7 @@ wikipedia: Poplar_railway_station
 ----
 disused: p/poplar/index1.shtml
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.507827
 ----

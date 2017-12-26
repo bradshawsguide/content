@@ -14,7 +14,7 @@ wikipedia: Sherborne_railway_station
 ----
 disused: 
 ----
-code: SHE
+nationalrail: SHE
 ----
 geolat: 50.94366
 ----

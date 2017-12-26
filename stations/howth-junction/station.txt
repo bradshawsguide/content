@@ -14,7 +14,7 @@ wikipedia: Howth_Junction_&_Donaghmede_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.3912
 ----

@@ -14,7 +14,7 @@ wikipedia: Admaston_railway_station
 ----
 disused: a/admaston_halt
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.711142
 ----

@@ -14,7 +14,7 @@ wikipedia: Rush_and_Lusk_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.5208
 ----

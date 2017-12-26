@@ -14,7 +14,7 @@ wikipedia: Netley_railway_station
 ----
 disused: 
 ----
-code: NTL
+nationalrail: NTL
 ----
 geolat: 50.874589
 ----

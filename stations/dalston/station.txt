@@ -14,7 +14,7 @@ wikipedia: Dalston_Junction_railway_station
 ----
 disused: d/dalston_junction
 ----
-code: DLJ
+nationalrail: DLJ
 ----
 geolat: 51.546132
 ----

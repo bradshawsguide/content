@@ -14,7 +14,7 @@ wikipedia: Sittingbourne_railway_station
 ----
 disused: 
 ----
-code: SIT
+nationalrail: SIT
 ----
 geolat: 51.342008
 ----

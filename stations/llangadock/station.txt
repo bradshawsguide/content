@@ -14,7 +14,7 @@ wikipedia: Llangadog_railway_station
 ----
 disused: 
 ----
-code: LLG
+nationalrail: LLG
 ----
 geolat: 51.940209
 ----

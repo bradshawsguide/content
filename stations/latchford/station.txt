@@ -14,7 +14,7 @@ wikipedia: Latchford_railway_station
 ----
 disused: l/latchford
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.378059
 ----

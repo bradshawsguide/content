@@ -14,7 +14,7 @@ wikipedia: Abbey_Wood_railway_station
 ----
 disused: 
 ----
-code: ABW
+nationalrail: ABW
 ----
 geolat: 51.490302
 ----

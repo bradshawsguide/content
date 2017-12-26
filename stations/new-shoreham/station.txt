@@ -14,7 +14,7 @@ wikipedia: Shoreham-by-Sea_railway_station
 ----
 disused: 
 ----
-code: SSE
+nationalrail: SSE
 ----
 geolat: 50.833966
 ----

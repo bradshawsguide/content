@@ -14,7 +14,7 @@ wikipedia: Craven_Arms_railway_station
 ----
 disused: 
 ----
-code: CRV
+nationalrail: CRV
 ----
 geolat: 52.442445
 ----

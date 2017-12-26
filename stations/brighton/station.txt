@@ -14,7 +14,7 @@ wikipedia: Brighton_railway_station
 ----
 disused: 
 ----
-code: BTN
+nationalrail: BTN
 ----
 geolat: 50.829261
 ----

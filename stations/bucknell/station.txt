@@ -14,7 +14,7 @@ wikipedia: Bucknell_railway_station
 ----
 disused: 
 ----
-code: BUK
+nationalrail: BUK
 ----
 geolat: 52.357104
 ----

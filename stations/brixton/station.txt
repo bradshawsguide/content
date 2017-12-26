@@ -14,7 +14,7 @@ wikipedia: Brixton_railway_station
 ----
 disused: 
 ----
-code: BRX
+nationalrail: BRX
 ----
 geolat: 51.461519
 ----

@@ -14,7 +14,7 @@ wikipedia: Torre_railway_station
 ----
 disused: 
 ----
-code: TRR
+nationalrail: TRR
 ----
 geolat: 50.473185
 ----

@@ -14,7 +14,7 @@ wikipedia: Kidderminster_railway_station
 ----
 disused: 
 ----
-code: KID
+nationalrail: KID
 ----
 geolat: 52.384939
 ----

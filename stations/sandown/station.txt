@@ -14,7 +14,7 @@ wikipedia: Sandown_railway_station
 ----
 disused: 
 ----
-code: SAN
+nationalrail: SAN
 ----
 geolat: 50.656712
 ----

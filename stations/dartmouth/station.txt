@@ -14,7 +14,7 @@ wikipedia: Dartmouth_railway_station
 ----
 disused: d/dartmouth
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.349093
 ----

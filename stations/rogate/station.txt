@@ -14,7 +14,7 @@ wikipedia: Rogate_railway_station
 ----
 disused: r/rowfant
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.990437
 ----

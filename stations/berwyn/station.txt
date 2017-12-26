@@ -14,7 +14,7 @@ wikipedia: Berwyn_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.979678
 ----

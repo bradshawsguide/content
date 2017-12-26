@@ -14,7 +14,7 @@ wikipedia: Banstead_railway_station
 ----
 disused: 
 ----
-code: BAD
+nationalrail: BAD
 ----
 geolat: 51.329194
 ----

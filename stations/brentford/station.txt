@@ -14,7 +14,7 @@ wikipedia: Brentford_railway_station
 ----
 disused: 
 ----
-code: BFD
+nationalrail: BFD
 ----
 geolat: 51.487536
 ----

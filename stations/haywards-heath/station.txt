@@ -14,7 +14,7 @@ wikipedia: Haywards_Heath_railway_station
 ----
 disused: 
 ----
-code: HHE
+nationalrail: HHE
 ----
 geolat: 51.00496
 ----

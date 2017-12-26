@@ -14,7 +14,7 @@ wikipedia: Eastbourne_railway_station
 ----
 disused: 
 ----
-code: EBN
+nationalrail: EBN
 ----
 geolat: 50.769612
 ----

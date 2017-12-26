@@ -14,7 +14,7 @@ wikipedia: Portrush_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 55.202554
 ----

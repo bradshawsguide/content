@@ -14,7 +14,7 @@ wikipedia: Much_Wenlock_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.599633
 ----

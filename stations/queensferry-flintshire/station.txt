@@ -14,7 +14,7 @@ wikipedia: Queensferry_railway_station
 ----
 disused: q/queensferry
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.208714
 ----

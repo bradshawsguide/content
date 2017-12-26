@@ -14,7 +14,7 @@ wikipedia: Washford_railway_station
 ----
 disused: w/washford
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.161575
 ----

@@ -14,7 +14,7 @@ wikipedia: Hampstead_Heath_railway_station
 ----
 disused: 
 ----
-code: HDH
+nationalrail: HDH
 ----
 geolat: 51.555258
 ----

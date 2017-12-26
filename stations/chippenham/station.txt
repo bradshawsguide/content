@@ -14,7 +14,7 @@ wikipedia: Chippenham_railway_station
 ----
 disused: 
 ----
-code: CPM
+nationalrail: CPM
 ----
 geolat: 51.462666
 ----

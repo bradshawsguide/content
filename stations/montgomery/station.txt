@@ -14,7 +14,7 @@ wikipedia: Montgomery_railway_station
 ----
 disused: m/montgomery
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.573529
 ----

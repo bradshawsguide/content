@@ -14,7 +14,7 @@ wikipedia: Tenby_railway_station
 ----
 disused: 
 ----
-code: TEN
+nationalrail: TEN
 ----
 geolat: 51.672497
 ----

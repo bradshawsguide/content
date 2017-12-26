@@ -14,7 +14,7 @@ wikipedia: Rushall_(West_Midlands)_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.607228
 ----

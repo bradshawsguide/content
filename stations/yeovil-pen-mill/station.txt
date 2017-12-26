@@ -14,7 +14,7 @@ wikipedia: Yeovil_Pen_Mill_railway_station
 ----
 disused: 
 ----
-code: YVP
+nationalrail: YVP
 ----
 geolat: 50.944978
 ----

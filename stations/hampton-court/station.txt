@@ -14,7 +14,7 @@ wikipedia: Hampton_Court_railway_station
 ----
 disused: 
 ----
-code: HMC
+nationalrail: HMC
 ----
 geolat: 51.402293
 ----

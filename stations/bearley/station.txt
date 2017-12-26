@@ -14,7 +14,7 @@ wikipedia: Bearley_railway_station
 ----
 disused: 
 ----
-code: BER
+nationalrail: BER
 ----
 geolat: 52.244669
 ----

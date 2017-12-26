@@ -14,7 +14,7 @@ wikipedia: Pen-y-Bont_railway_station
 ----
 disused: 
 ----
-code: PNY
+nationalrail: PNY
 ----
 geolat: 52.274366
 ----

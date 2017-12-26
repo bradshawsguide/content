@@ -14,7 +14,7 @@ wikipedia: Nailsea_and_Backwell_railway_station
 ----
 disused: 
 ----
-code: NLS
+nationalrail: NLS
 ----
 geolat: 51.419861
 ----

@@ -14,7 +14,7 @@ wikipedia: Princes_Risborough_railway_station
 ----
 disused: 
 ----
-code: PRR
+nationalrail: PRR
 ----
 geolat: 51.717789
 ----

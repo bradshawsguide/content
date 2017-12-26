@@ -14,7 +14,7 @@ wikipedia: Alrewas_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.730106
 ----

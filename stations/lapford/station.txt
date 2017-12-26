@@ -14,7 +14,7 @@ wikipedia: Lapford_railway_station
 ----
 disused: 
 ----
-code: LAP
+nationalrail: LAP
 ----
 geolat: 50.857
 ----

@@ -14,7 +14,7 @@ wikipedia: Llandrindod_railway_station
 ----
 disused: 
 ----
-code: LLO
+nationalrail: LLO
 ----
 geolat: 52.242271
 ----

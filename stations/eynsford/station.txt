@@ -14,7 +14,7 @@ wikipedia: Eynsford_railway_station
 ----
 disused: 
 ----
-code: EYN
+nationalrail: EYN
 ----
 geolat: 51.362866
 ----

@@ -14,7 +14,7 @@ wikipedia: Hailsham_railway_station
 ----
 disused: h/hailsham
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.861816
 ----

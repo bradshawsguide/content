@@ -14,7 +14,7 @@ wikipedia: Winchester_railway_station
 ----
 disused: 
 ----
-code: WIN
+nationalrail: WIN
 ----
 geolat: 51.067804
 ----

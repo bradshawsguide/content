@@ -14,7 +14,7 @@ wikipedia: Ebbw_Vale_(Low_Level)_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.78291
 ----

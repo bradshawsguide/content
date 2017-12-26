@@ -14,7 +14,7 @@ wikipedia: Rudgwick_railway_station
 ----
 disused: r/rudgwick
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.090101
 ----

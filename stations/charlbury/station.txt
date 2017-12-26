@@ -14,7 +14,7 @@ wikipedia: Charlbury_railway_station
 ----
 disused: 
 ----
-code: CBY
+nationalrail: CBY
 ----
 geolat: 51.872514
 ----

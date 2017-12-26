@@ -14,7 +14,7 @@ wikipedia: Billingshurst_railway_station
 ----
 disused: 
 ----
-code: BIG
+nationalrail: BIG
 ----
 geolat: 51.015436
 ----

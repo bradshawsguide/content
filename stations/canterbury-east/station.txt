@@ -14,7 +14,7 @@ wikipedia: Canterbury_East_railway_station
 ----
 disused: 
 ----
-code: CBE
+nationalrail: CBE
 ----
 geolat: 51.27395
 ----

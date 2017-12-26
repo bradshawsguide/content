@@ -14,7 +14,7 @@ wikipedia: Swanley_railway_station
 ----
 disused: 
 ----
-code: SAY
+nationalrail: SAY
 ----
 geolat: 51.393214
 ----

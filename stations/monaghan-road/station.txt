@@ -14,7 +14,7 @@ wikipedia: Monaghan_Road_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.153434
 ----

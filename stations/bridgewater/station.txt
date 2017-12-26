@@ -14,7 +14,7 @@ wikipedia: Bridgwater_railway_station
 ----
 disused: 
 ----
-code: BWT
+nationalrail: BWT
 ----
 geolat: 51.127625
 ----

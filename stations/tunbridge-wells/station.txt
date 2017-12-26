@@ -14,7 +14,7 @@ wikipedia: Tunbridge_Wells_railway_station
 ----
 disused: 
 ----
-code: TBW
+nationalrail: TBW
 ----
 geolat: 51.130612
 ----

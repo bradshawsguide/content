@@ -14,7 +14,7 @@ wikipedia: Portsmouth_Arms_railway_station
 ----
 disused: 
 ----
-code: PMA
+nationalrail: PMA
 ----
 geolat: 50.957258
 ----

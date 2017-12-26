@@ -14,7 +14,7 @@ wikipedia: Magheramorne_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.815556
 ----

@@ -14,7 +14,7 @@ wikipedia: Redbridge_railway_station
 ----
 disused: 
 ----
-code: RDB
+nationalrail: RDB
 ----
 geolat: 50.920207
 ----

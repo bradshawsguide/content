@@ -14,7 +14,7 @@ wikipedia: Theale_railway_station
 ----
 disused: 
 ----
-code: THE
+nationalrail: THE
 ----
 geolat: 51.432995
 ----

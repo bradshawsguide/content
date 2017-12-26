@@ -14,7 +14,7 @@ wikipedia: Westenhanger_railway_station
 ----
 disused: 
 ----
-code: WHA
+nationalrail: WHA
 ----
 geolat: 51.095039
 ----

@@ -14,7 +14,7 @@ wikipedia: Chepstow_railway_station
 ----
 disused: 
 ----
-code: CPW
+nationalrail: CPW
 ----
 geolat: 51.639732
 ----

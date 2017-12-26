@@ -14,7 +14,7 @@ wikipedia: Canonbury_railway_station
 ----
 disused: 
 ----
-code: CNN
+nationalrail: CNN
 ----
 geolat: 51.548689
 ----

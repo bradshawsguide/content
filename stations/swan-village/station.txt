@@ -14,7 +14,7 @@ wikipedia: Swan_Village_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.528121
 ----

@@ -14,7 +14,7 @@ wikipedia: Ashurst_New_Forest_railway_station
 ----
 disused: 
 ----
-code: ANF
+nationalrail: ANF
 ----
 geolat: 50.889878
 ----

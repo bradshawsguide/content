@@ -14,7 +14,7 @@ wikipedia: Grays_railway_station
 ----
 disused: 
 ----
-code: GRY
+nationalrail: GRY
 ----
 geolat: 51.476141
 ----

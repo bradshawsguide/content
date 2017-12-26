@@ -14,7 +14,7 @@ wikipedia: Bracknell_railway_station
 ----
 disused: 
 ----
-code: BCE
+nationalrail: BCE
 ----
 geolat: 51.412913
 ----

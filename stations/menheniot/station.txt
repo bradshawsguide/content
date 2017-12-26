@@ -14,7 +14,7 @@ wikipedia: Menheniot_railway_station
 ----
 disused: 
 ----
-code: MEN
+nationalrail: MEN
 ----
 geolat: 50.426131
 ----

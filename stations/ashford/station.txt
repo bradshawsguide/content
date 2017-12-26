@@ -14,7 +14,7 @@ wikipedia: Ashford_International_railway_station
 ----
 disused: 
 ----
-code: AFK
+nationalrail: AFK
 ----
 geolat: 51.143265
 ----

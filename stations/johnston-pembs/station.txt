@@ -14,7 +14,7 @@ wikipedia: Johnston_railway_station
 ----
 disused: 
 ----
-code: JOH
+nationalrail: JOH
 ----
 geolat: 51.756277
 ----

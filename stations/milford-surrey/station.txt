@@ -14,7 +14,7 @@ wikipedia: Milford_railway_station
 ----
 disused: 
 ----
-code: MLF
+nationalrail: MLF
 ----
 geolat: 51.163445
 ----

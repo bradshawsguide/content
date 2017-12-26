@@ -14,7 +14,7 @@ wikipedia: Birkenhead_Monks_Ferry_railway_station
 ----
 disused: b/birkenhead_monks_ferry
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.39085
 ----

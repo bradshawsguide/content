@@ -14,7 +14,7 @@ wikipedia: Basingstoke_railway_station
 ----
 disused: 
 ----
-code: BSK
+nationalrail: BSK
 ----
 geolat: 51.268547
 ----

@@ -14,7 +14,7 @@ wikipedia: Pier_Head_railway_station
 ----
 disused: p/pier_head
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.406714
 ----

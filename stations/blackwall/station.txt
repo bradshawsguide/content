@@ -14,7 +14,7 @@ wikipedia: Blackwall_railway_station
 ----
 disused: b/blackwall
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.508166
 ----

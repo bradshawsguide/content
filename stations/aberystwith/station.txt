@@ -14,7 +14,7 @@ wikipedia: Aberystwyth_railway_station
 ----
 disused: 
 ----
-code: AYW
+nationalrail: AYW
 ----
 geolat: 52.413607
 ----

@@ -14,7 +14,7 @@ wikipedia: Llanpumpsaint_railway_station
 ----
 disused: l/llanpumpsaint
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.942486
 ----

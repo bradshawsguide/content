@@ -14,7 +14,7 @@ wikipedia: Pluckley_railway_station
 ----
 disused: 
 ----
-code: PLC
+nationalrail: PLC
 ----
 geolat: 51.156201
 ----

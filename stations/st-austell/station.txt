@@ -14,7 +14,7 @@ wikipedia: St_Austell_railway_station
 ----
 disused: 
 ----
-code: SAU
+nationalrail: SAU
 ----
 geolat: 50.339393
 ----

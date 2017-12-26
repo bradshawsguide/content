@@ -14,7 +14,7 @@ wikipedia: Kerry_railway_station
 ----
 disused: k/kerry
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.50459
 ----

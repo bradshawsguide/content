@@ -14,7 +14,7 @@ wikipedia: Rainham_(Kent)_railway_station
 ----
 disused: 
 ----
-code: RAI
+nationalrail: RAI
 ----
 geolat: 51.366411
 ----

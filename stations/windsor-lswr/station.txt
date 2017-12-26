@@ -14,7 +14,7 @@ wikipedia: Windsor_&_Eton_Riverside_railway_station
 ----
 disused: 
 ----
-code: WNR
+nationalrail: WNR
 ----
 geolat: 51.485918
 ----

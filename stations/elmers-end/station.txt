@@ -14,7 +14,7 @@ wikipedia: Elmers_End_station
 ----
 disused: 
 ----
-code: ELE
+nationalrail: ELE
 ----
 geolat: 51.398493
 ----

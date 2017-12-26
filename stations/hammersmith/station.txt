@@ -14,7 +14,7 @@ wikipedia: Hammersmith_&_Chiswick_railway_station
 ----
 disused: h/hammersmith_and_chicwick
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.493255
 ----

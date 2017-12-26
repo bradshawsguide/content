@@ -14,7 +14,7 @@ wikipedia: Penryn_railway_station
 ----
 disused: 
 ----
-code: PYN
+nationalrail: PYN
 ----
 geolat: 50.17019
 ----

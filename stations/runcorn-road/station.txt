@@ -14,7 +14,7 @@ wikipedia: Halton_railway_station
 ----
 disused: h/halton2
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.309966
 ----

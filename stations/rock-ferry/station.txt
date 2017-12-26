@@ -14,7 +14,7 @@ wikipedia: Rock_Ferry_railway_station
 ----
 disused: 
 ----
-code: RFY
+nationalrail: RFY
 ----
 geolat: 53.372424
 ----

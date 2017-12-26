@@ -14,7 +14,7 @@ wikipedia: Betchworth_railway_station
 ----
 disused: 
 ----
-code: BTO
+nationalrail: BTO
 ----
 geolat: 51.247586
 ----

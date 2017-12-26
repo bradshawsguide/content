@@ -14,7 +14,7 @@ wikipedia: Chilworth_railway_station
 ----
 disused: 
 ----
-code: CHL
+nationalrail: CHL
 ----
 geolat: 51.215145
 ----

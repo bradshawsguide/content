@@ -14,7 +14,7 @@ wikipedia: Ashperton_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.059519
 ----

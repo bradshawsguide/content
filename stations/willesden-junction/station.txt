@@ -14,7 +14,7 @@ wikipedia: Willesden_Junction_station
 ----
 disused: 
 ----
-code: WIJ
+nationalrail: WIJ
 ----
 geolat: 51.53222
 ----

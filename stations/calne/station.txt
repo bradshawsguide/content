@@ -14,7 +14,7 @@ wikipedia: Calne_railway_station
 ----
 disused: c/calne
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.434849
 ----

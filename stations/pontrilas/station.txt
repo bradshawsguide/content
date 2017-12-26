@@ -14,7 +14,7 @@ wikipedia: Pontrilas_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.944071
 ----

@@ -14,7 +14,7 @@ wikipedia: Bath_Spa_railway_station
 ----
 disused: 
 ----
-code: BTH
+nationalrail: BTH
 ----
 geolat: 51.377658
 ----

@@ -14,7 +14,7 @@ wikipedia: Norton_(Cheshire)_railway_station
 ----
 disused: n/norton
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.329021
 ----

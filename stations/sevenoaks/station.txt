@@ -14,7 +14,7 @@ wikipedia: Sevenoaks_railway_station
 ----
 disused: 
 ----
-code: SEV
+nationalrail: SEV
 ----
 geolat: 51.276958
 ----

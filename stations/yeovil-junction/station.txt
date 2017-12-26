@@ -14,7 +14,7 @@ wikipedia: Yeovil_Junction_railway_station
 ----
 disused: 
 ----
-code: YVJ
+nationalrail: YVJ
 ----
 geolat: 50.925196
 ----

@@ -14,7 +14,7 @@ wikipedia: Bargoed_railway_station
 ----
 disused: 
 ----
-code: BGD
+nationalrail: BGD
 ----
 geolat: 51.692749
 ----

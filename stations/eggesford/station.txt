@@ -14,7 +14,7 @@ wikipedia: Eggesford_railway_station
 ----
 disused: 
 ----
-code: EGG
+nationalrail: EGG
 ----
 geolat: 50.88747
 ----

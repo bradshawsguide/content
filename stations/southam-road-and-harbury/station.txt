@@ -14,7 +14,7 @@ wikipedia: Southam_Road_and_Harbury_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.23458
 ----

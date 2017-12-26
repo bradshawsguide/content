@@ -14,7 +14,7 @@ wikipedia: Redruth_railway_station
 ----
 disused: 
 ----
-code: RED
+nationalrail: RED
 ----
 geolat: 50.233623
 ----

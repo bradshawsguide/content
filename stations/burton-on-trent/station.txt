@@ -14,7 +14,7 @@ wikipedia: Burton-on-Trent_railway_station
 ----
 disused: 
 ----
-code: BUT
+nationalrail: BUT
 ----
 geolat: 52.806261
 ----

@@ -14,7 +14,7 @@ wikipedia: Northwich_railway_station
 ----
 disused: 
 ----
-code: NWI
+nationalrail: NWI
 ----
 geolat: 53.261513
 ----

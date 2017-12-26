@@ -14,7 +14,7 @@ wikipedia: Neath_railway_station
 ----
 disused: 
 ----
-code: NTH
+nationalrail: NTH
 ----
 geolat: 51.661921
 ----

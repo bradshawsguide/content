@@ -14,7 +14,7 @@ wikipedia: Droitwich_Spa_railway_station
 ----
 disused: 
 ----
-code: DTW
+nationalrail: DTW
 ----
 geolat: 52.268201
 ----

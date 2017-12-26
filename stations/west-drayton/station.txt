@@ -14,7 +14,7 @@ wikipedia: West_Drayton_railway_station
 ----
 disused: 
 ----
-code: WDT
+nationalrail: WDT
 ----
 geolat: 51.510095
 ----

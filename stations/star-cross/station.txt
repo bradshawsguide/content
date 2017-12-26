@@ -14,7 +14,7 @@ wikipedia: Starcross_railway_station
 ----
 disused: 
 ----
-code: SCS
+nationalrail: SCS
 ----
 geolat: 50.628237
 ----

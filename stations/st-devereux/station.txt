@@ -14,7 +14,7 @@ wikipedia: St_Devereux_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.975086
 ----

@@ -14,7 +14,7 @@ wikipedia: Hengoed_railway_station#Hengoed_High_Level_railway_station
 ----
 disused: 
 ----
-code: HNG
+nationalrail: HNG
 ----
 geolat: 51.64695
 ----

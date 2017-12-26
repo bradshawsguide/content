@@ -14,7 +14,7 @@ wikipedia: Rowfant_railway_station
 ----
 disused: r/rowfant
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.115618
 ----

@@ -14,7 +14,7 @@ wikipedia: Bristol_Temple_Meads_railway_station
 ----
 disused: 
 ----
-code: BRI
+nationalrail: BRI
 ----
 geolat: 51.450494
 ----

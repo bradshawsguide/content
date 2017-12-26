@@ -14,7 +14,7 @@ wikipedia: Treborth_railway_station
 ----
 disused: t/treborth
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.211124
 ----

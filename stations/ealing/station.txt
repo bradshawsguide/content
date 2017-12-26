@@ -14,7 +14,7 @@ wikipedia: Ealing_Broadway_station
 ----
 disused: 
 ----
-code: EAL
+nationalrail: EAL
 ----
 geolat: 51.514857
 ----

@@ -14,7 +14,7 @@ wikipedia: Witley_railway_station
 ----
 disused: 
 ----
-code: WTY
+nationalrail: WTY
 ----
 geolat: 51.13298
 ----

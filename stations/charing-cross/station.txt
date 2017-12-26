@@ -14,7 +14,7 @@ wikipedia: Charing_Cross_railway_station
 ----
 disused: 
 ----
-code: CHX
+nationalrail: CHX
 ----
 geolat: 51.507715
 ----

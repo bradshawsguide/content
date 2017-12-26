@@ -14,7 +14,7 @@ wikipedia: Didcot_Parkway_railway_station
 ----
 disused: 
 ----
-code: DID
+nationalrail: DID
 ----
 geolat: 51.611337
 ----

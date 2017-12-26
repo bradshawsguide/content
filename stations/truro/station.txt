@@ -14,7 +14,7 @@ wikipedia: Truro_railway_station
 ----
 disused: 
 ----
-code: TRU
+nationalrail: TRU
 ----
 geolat: 50.264103
 ----

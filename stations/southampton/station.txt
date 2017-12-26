@@ -14,7 +14,7 @@ wikipedia: Southampton_West_End_railway_station
 ----
 disused: s/southhampton_west
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.908238
 ----

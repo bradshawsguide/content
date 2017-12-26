@@ -14,7 +14,7 @@ wikipedia: Lydham_Heath_railway_station
 ----
 disused: l/lydham_heath
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.509795
 ----

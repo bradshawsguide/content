@@ -14,7 +14,7 @@ wikipedia: Caterham_railway_station
 ----
 disused: 
 ----
-code: CAT
+nationalrail: CAT
 ----
 geolat: 51.2825
 ----

@@ -14,7 +14,7 @@ wikipedia: Lawley_Bank_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.675474
 ----

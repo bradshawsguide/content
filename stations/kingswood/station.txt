@@ -14,7 +14,7 @@ wikipedia: Lapworth_railway_station
 ----
 disused: 
 ----
-code: LPW
+nationalrail: LPW
 ----
 geolat: 52.34261
 ----

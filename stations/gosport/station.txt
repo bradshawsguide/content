@@ -14,7 +14,7 @@ wikipedia: Gosport_railway_station
 ----
 disused: g/gosport
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.79785
 ----

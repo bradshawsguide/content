@@ -14,7 +14,7 @@ wikipedia: Overton_railway_station
 ----
 disused: 
 ----
-code: OVR
+nationalrail: OVR
 ----
 geolat: 51.254475
 ----

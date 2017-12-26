@@ -14,7 +14,7 @@ wikipedia: Rhymney_railway_station
 ----
 disused: 
 ----
-code: RHY
+nationalrail: RHY
 ----
 geolat: 51.758646
 ----

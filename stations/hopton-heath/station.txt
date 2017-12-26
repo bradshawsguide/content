@@ -14,7 +14,7 @@ wikipedia: Hopton_Heath_railway_station
 ----
 disused: 
 ----
-code: HPT
+nationalrail: HPT
 ----
 geolat: 52.391551
 ----

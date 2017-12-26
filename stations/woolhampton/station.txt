@@ -14,7 +14,7 @@ wikipedia: Midgham_railway_station
 ----
 disused: 
 ----
-code: MDG
+nationalrail: MDG
 ----
 geolat: 51.396006
 ----

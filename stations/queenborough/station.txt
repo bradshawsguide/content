@@ -14,7 +14,7 @@ wikipedia: Queenborough_railway_station
 ----
 disused: 
 ----
-code: QBR
+nationalrail: QBR
 ----
 geolat: 51.416067
 ----

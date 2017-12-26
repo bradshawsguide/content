@@ -14,7 +14,7 @@ wikipedia: Glynde_railway_station
 ----
 disused: 
 ----
-code: GLY
+nationalrail: GLY
 ----
 geolat: 50.858975
 ----

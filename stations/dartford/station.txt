@@ -14,7 +14,7 @@ wikipedia: Dartford_railway_station
 ----
 disused: 
 ----
-code: DFD
+nationalrail: DFD
 ----
 geolat: 51.447107
 ----

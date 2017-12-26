@@ -14,7 +14,7 @@ wikipedia: Rhuddlan_railway_station
 ----
 disused: r/rhuddlan
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.2874
 ----

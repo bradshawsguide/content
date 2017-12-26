@@ -14,7 +14,7 @@ wikipedia: Crystal_Palace_(High_Level)_railway_station
 ----
 disused: c/crystal_palace_high_level
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.421789
 ----

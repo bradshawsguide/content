@@ -14,7 +14,7 @@ wikipedia: Battle_railway_station
 ----
 disused: 
 ----
-code: BAT
+nationalrail: BAT
 ----
 geolat: 50.912749
 ----

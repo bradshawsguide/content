@@ -14,7 +14,7 @@ wikipedia: Herne_Bay_railway_station
 ----
 disused: 
 ----
-code: HNB
+nationalrail: HNB
 ----
 geolat: 51.364494
 ----

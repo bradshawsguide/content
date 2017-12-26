@@ -14,7 +14,7 @@ wikipedia: Llandyssul_railway_station
 ----
 disused: l/llandyssul
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.035139
 ----

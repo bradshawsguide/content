@@ -14,7 +14,7 @@ wikipedia: St_Leonards_Warrior_Square_railway_station
 ----
 disused: 
 ----
-code: SLQ
+nationalrail: SLQ
 ----
 geolat: 50.855543
 ----

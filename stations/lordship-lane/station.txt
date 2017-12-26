@@ -14,7 +14,7 @@ wikipedia: Lordship_Lane_railway_station
 ----
 disused: l/lordship_lane
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.440909
 ----

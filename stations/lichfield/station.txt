@@ -14,7 +14,7 @@ wikipedia: Lichfield_City_railway_station
 ----
 disused: 
 ----
-code: LIC
+nationalrail: LIC
 ----
 geolat: 52.679919
 ----

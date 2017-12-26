@@ -14,7 +14,7 @@ wikipedia: Wilmcote_railway_station
 ----
 disused: 
 ----
-code: WMC
+nationalrail: WMC
 ----
 geolat: 52.222206
 ----

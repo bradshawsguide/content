@@ -14,7 +14,7 @@ wikipedia: Midhurst_(LSWR)_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.983064
 ----

@@ -14,7 +14,7 @@ wikipedia: Denbigh_railway_station
 ----
 disused: d/denbigh
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.1876
 ----

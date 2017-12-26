@@ -14,7 +14,7 @@ wikipedia: Moreton_(Dorset)_railway_station
 ----
 disused: 
 ----
-code: MTN
+nationalrail: MTN
 ----
 geolat: 50.700669
 ----

@@ -14,7 +14,7 @@ wikipedia: Whittington_Low_Level_railway_station
 ----
 disused: w/whittington_low_level
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.872626
 ----

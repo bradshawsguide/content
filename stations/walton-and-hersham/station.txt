@@ -14,7 +14,7 @@ wikipedia: Walton-on-Thames_railway_station
 ----
 disused: 
 ----
-code: WAL
+nationalrail: WAL
 ----
 geolat: 51.372875
 ----

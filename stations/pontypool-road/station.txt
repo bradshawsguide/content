@@ -14,7 +14,7 @@ wikipedia: Pontypool_and_New_Inn_railway_station
 ----
 disused: 
 ----
-code: PPL
+nationalrail: PPL
 ----
 geolat: 51.697519
 ----

@@ -14,7 +14,7 @@ wikipedia: Wimbledon_station
 ----
 disused: 
 ----
-code: WIM
+nationalrail: WIM
 ----
 geolat: 51.421462
 ----

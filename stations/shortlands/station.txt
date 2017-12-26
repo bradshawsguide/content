@@ -14,7 +14,7 @@ wikipedia: Shortlands_railway_station
 ----
 disused: 
 ----
-code: SRT
+nationalrail: SRT
 ----
 geolat: 51.405803
 ----

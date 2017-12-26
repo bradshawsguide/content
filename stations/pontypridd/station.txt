@@ -14,7 +14,7 @@ wikipedia: Pontypridd_railway_station
 ----
 disused: 
 ----
-code: PPD
+nationalrail: PPD
 ----
 geolat: 51.599811
 ----

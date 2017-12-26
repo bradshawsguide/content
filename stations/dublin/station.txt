@@ -14,7 +14,7 @@ wikipedia: Dublin_Connolly_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.35121
 ----

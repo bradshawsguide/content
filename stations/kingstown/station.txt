@@ -14,7 +14,7 @@ wikipedia: Dún_Laoghaire_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.2949
 ----

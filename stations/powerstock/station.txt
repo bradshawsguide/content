@@ -14,7 +14,7 @@ wikipedia: Powerstock_railway_station
 ----
 disused: p/powerstock
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.755317
 ----

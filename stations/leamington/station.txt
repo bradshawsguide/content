@@ -14,7 +14,7 @@ wikipedia: Leamington_Spa_railway_station
 ----
 disused: 
 ----
-code: LMS
+nationalrail: LMS
 ----
 geolat: 52.284479
 ----

@@ -14,7 +14,7 @@ wikipedia: Llanhilleth_railway_station
 ----
 disused: 
 ----
-code: LTH
+nationalrail: LTH
 ----
 geolat: 51.700003
 ----

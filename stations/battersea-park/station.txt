@@ -14,7 +14,7 @@ wikipedia: Battersea_Park_railway_station
 ----
 disused: 
 ----
-code: BAK
+nationalrail: BAK
 ----
 geolat: 51.478122
 ----

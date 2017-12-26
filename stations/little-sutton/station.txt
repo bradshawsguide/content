@@ -14,7 +14,7 @@ wikipedia: Little_Sutton_railway_station
 ----
 disused: 
 ----
-code: LTT
+nationalrail: LTT
 ----
 geolat: 53.285788
 ----

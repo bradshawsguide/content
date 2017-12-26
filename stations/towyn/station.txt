@@ -14,7 +14,7 @@ wikipedia: Tywyn_railway_station
 ----
 disused: 
 ----
-code: TYW
+nationalrail: TYW
 ----
 geolat: 52.585122
 ----

@@ -14,7 +14,7 @@ wikipedia: Kidwelly_railway_station
 ----
 disused: 
 ----
-code: KWL
+nationalrail: KWL
 ----
 geolat: 51.733905
 ----

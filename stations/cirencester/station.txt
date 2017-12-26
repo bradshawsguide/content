@@ -14,7 +14,7 @@ wikipedia: Cirencester_Town_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.714477
 ----

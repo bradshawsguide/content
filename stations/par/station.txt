@@ -14,7 +14,7 @@ wikipedia: Par_railway_station
 ----
 disused: 
 ----
-code: PAR
+nationalrail: PAR
 ----
 geolat: 50.35579
 ----

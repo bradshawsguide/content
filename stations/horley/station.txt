@@ -14,7 +14,7 @@ wikipedia: Horley_railway_station
 ----
 disused: 
 ----
-code: HOR
+nationalrail: HOR
 ----
 geolat: 51.168633
 ----

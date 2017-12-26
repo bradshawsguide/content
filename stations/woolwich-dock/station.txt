@@ -14,7 +14,7 @@ wikipedia: Woolwich_Dockyard_railway_station
 ----
 disused: 
 ----
-code: WWD
+nationalrail: WWD
 ----
 geolat: 51.491083
 ----

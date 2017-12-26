@@ -14,7 +14,7 @@ wikipedia: Tondu_railway_station
 ----
 disused: 
 ----
-code: TDU
+nationalrail: TDU
 ----
 geolat: 51.547179
 ----

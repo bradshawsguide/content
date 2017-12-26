@@ -14,7 +14,7 @@ wikipedia: Clunderwen_railway_station
 ----
 disused: 
 ----
-code: CUW
+nationalrail: CUW
 ----
 geolat: 51.840106
 ----

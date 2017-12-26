@@ -14,7 +14,7 @@ wikipedia: Warrington_Bank_Quay_railway_station
 ----
 disused: 
 ----
-code: WBQ
+nationalrail: WBQ
 ----
 geolat: 53.385964
 ----

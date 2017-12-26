@@ -14,7 +14,7 @@ wikipedia: Clarbeston_Road_railway_station
 ----
 disused: 
 ----
-code: CLR
+nationalrail: CLR
 ----
 geolat: 51.851771
 ----

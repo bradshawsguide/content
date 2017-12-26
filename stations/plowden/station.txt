@@ -14,7 +14,7 @@ wikipedia: Plowden_railway_station
 ----
 disused: p/plowden
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.482362
 ----

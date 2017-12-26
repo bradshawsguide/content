@@ -14,7 +14,7 @@ wikipedia: Guildford_(Surrey)_railway_station
 ----
 disused: 
 ----
-code: GLD
+nationalrail: GLD
 ----
 geolat: 51.237427
 ----

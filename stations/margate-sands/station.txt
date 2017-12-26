@@ -14,7 +14,7 @@ wikipedia: Margate_Sands_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.37427
 ----

@@ -14,7 +14,7 @@ wikipedia: Lostwithiel_railway_station
 ----
 disused: 
 ----
-code: LOS
+nationalrail: LOS
 ----
 geolat: 50.407038
 ----

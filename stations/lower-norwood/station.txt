@@ -14,7 +14,7 @@ wikipedia: West_Norwood_railway_station
 ----
 disused: 
 ----
-code: WNW
+nationalrail: WNW
 ----
 geolat: 51.431822
 ----

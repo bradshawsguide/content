@@ -14,7 +14,7 @@ wikipedia: Maynooth_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.37852
 ----

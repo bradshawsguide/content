@@ -14,7 +14,7 @@ wikipedia: Heytesbury_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.1764
 ----

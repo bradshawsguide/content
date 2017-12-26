@@ -14,7 +14,7 @@ wikipedia: Emsworth_railway_station
 ----
 disused: 
 ----
-code: EMS
+nationalrail: EMS
 ----
 geolat: 50.851834
 ----

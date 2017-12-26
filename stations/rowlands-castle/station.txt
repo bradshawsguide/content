@@ -14,7 +14,7 @@ wikipedia: Rowlands_Castle_railway_station
 ----
 disused: 
 ----
-code: RLN
+nationalrail: RLN
 ----
 geolat: 50.892473
 ----

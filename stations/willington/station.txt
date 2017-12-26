@@ -14,7 +14,7 @@ wikipedia: Willington_railway_station
 ----
 disused: 
 ----
-code: WIL
+nationalrail: WIL
 ----
 geolat: 52.853646
 ----

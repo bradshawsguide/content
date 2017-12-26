@@ -14,7 +14,7 @@ wikipedia: Horsehay_and_Dawley_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.662889
 ----

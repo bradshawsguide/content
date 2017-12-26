@@ -14,7 +14,7 @@ wikipedia: Trehafod_railway_station
 ----
 disused: 
 ----
-code: TRH
+nationalrail: TRH
 ----
 geolat: 51.610163
 ----

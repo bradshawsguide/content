@@ -14,7 +14,7 @@ wikipedia: Keynsham_railway_station
 ----
 disused: 
 ----
-code: KYN
+nationalrail: KYN
 ----
 geolat: 51.41851
 ----

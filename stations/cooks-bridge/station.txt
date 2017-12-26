@@ -14,7 +14,7 @@ wikipedia: Cooksbridge_railway_station
 ----
 disused: 
 ----
-code: CBR
+nationalrail: CBR
 ----
 geolat: 50.903545
 ----

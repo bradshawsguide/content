@@ -14,7 +14,7 @@ wikipedia: Culmore_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 55.0441
 ----

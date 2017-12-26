@@ -14,7 +14,7 @@ wikipedia: Egham_railway_station
 ----
 disused: 
 ----
-code: EGH
+nationalrail: EGH
 ----
 geolat: 51.429437
 ----

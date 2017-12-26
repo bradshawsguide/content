@@ -14,7 +14,7 @@ wikipedia: Ford_Bridge_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.192395
 ----

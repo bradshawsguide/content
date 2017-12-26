@@ -14,7 +14,7 @@ wikipedia: Taunton_railway_station
 ----
 disused: 
 ----
-code: TAU
+nationalrail: TAU
 ----
 geolat: 51.02321
 ----

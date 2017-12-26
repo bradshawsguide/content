@@ -14,7 +14,7 @@ wikipedia: Merthyr_Tydfil_railway_station
 ----
 disused: 
 ----
-code: MER
+nationalrail: MER
 ----
 geolat: 51.744177
 ----

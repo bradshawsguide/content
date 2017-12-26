@@ -14,7 +14,7 @@ wikipedia: Frodsham_railway_station
 ----
 disused: 
 ----
-code: FRD
+nationalrail: FRD
 ----
 geolat: 53.296306
 ----

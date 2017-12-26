@@ -14,7 +14,7 @@ wikipedia: Thatcham_railway_station
 ----
 disused: 
 ----
-code: THA
+nationalrail: THA
 ----
 geolat: 51.393735
 ----

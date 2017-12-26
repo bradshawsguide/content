@@ -14,7 +14,7 @@ wikipedia: St_Germans_railway_station
 ----
 disused: 
 ----
-code: SGM
+nationalrail: SGM
 ----
 geolat: 50.394011
 ----

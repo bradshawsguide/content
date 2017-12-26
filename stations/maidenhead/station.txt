@@ -14,7 +14,7 @@ wikipedia: Taplow_railway_station
 ----
 disused: 
 ----
-code: TAP
+nationalrail: TAP
 ----
 geolat: 51.522421
 ----

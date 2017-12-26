@@ -14,7 +14,7 @@ wikipedia: Hurn_railway_station
 ----
 disused: h/hurn
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.779167
 ----

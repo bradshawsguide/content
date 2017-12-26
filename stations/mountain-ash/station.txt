@@ -14,7 +14,7 @@ wikipedia: Mountain_Ash_railway_station
 ----
 disused: 
 ----
-code: MTA
+nationalrail: MTA
 ----
 geolat: 51.681241
 ----

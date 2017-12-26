@@ -14,7 +14,7 @@ wikipedia: Bilston_West_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.561355
 ----

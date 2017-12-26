@@ -14,7 +14,7 @@ wikipedia: Windsor_&_Eton_Central_railway_station
 ----
 disused:
 ----
-code: WNC
+nationalrail: WNC
 ----
 geolat: 51.483256
 ----

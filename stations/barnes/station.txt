@@ -14,7 +14,7 @@ wikipedia: Barnes_railway_station
 ----
 disused: 
 ----
-code: BNS
+nationalrail: BNS
 ----
 geolat: 51.467127
 ----

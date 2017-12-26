@@ -14,7 +14,7 @@ wikipedia: Pitsea_railway_station
 ----
 disused: 
 ----
-code: PSE
+nationalrail: PSE
 ----
 geolat: 51.560036
 ----

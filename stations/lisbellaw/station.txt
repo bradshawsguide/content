@@ -14,7 +14,7 @@ wikipedia: Lisbellaw_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.319017
 ----

@@ -14,7 +14,7 @@ wikipedia:
 ----
 disused: n/newchurch
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.667663
 ----

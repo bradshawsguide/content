@@ -14,7 +14,7 @@ wikipedia: Alton_railway_station
 ----
 disused: 
 ----
-code: AON
+nationalrail: AON
 ----
 geolat: 51.152444
 ----

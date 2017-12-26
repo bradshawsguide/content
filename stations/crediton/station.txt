@@ -14,7 +14,7 @@ wikipedia: Crediton_railway_station
 ----
 disused: 
 ----
-code: CDI
+nationalrail: CDI
 ----
 geolat: 50.782995
 ----

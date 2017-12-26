@@ -14,7 +14,7 @@ wikipedia: Sutton_(Surrey)_railway_station
 ----
 disused: 
 ----
-code: SUO
+nationalrail: SUO
 ----
 geolat: 51.359663
 ----

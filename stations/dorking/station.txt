@@ -14,7 +14,7 @@ wikipedia: Dorking_West_railway_station
 ----
 disused: 
 ----
-code: DKT
+nationalrail: DKT
 ----
 geolat: 51.236061
 ----

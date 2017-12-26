@@ -14,7 +14,7 @@ wikipedia: Exton_railway_station
 ----
 disused: 
 ----
-code: EXN
+nationalrail: EXN
 ----
 geolat: 50.667862
 ----

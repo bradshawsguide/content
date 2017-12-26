@@ -14,7 +14,7 @@ wikipedia: Hove_railway_station
 ----
 disused: 
 ----
-code: HOV
+nationalrail: HOV
 ----
 geolat: 50.835125
 ----

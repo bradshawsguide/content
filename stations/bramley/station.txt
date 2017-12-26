@@ -14,7 +14,7 @@ wikipedia: Bramley_&_Wonersh_railway_station
 ----
 disused: b/bramley_wonersh
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.196643
 ----

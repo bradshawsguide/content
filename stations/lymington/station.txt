@@ -14,7 +14,7 @@ wikipedia: Lymington_Town_railway_station
 ----
 disused: 
 ----
-code: LYT
+nationalrail: LYT
 ----
 geolat: 50.761324
 ----

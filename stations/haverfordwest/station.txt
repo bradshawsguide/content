@@ -14,7 +14,7 @@ wikipedia: Haverfordwest_railway_station
 ----
 disused: 
 ----
-code: HVF
+nationalrail: HVF
 ----
 geolat: 51.803097
 ----

@@ -14,7 +14,7 @@ wikipedia: Templecombe_railway_station
 ----
 disused: 
 ----
-code: TMC
+nationalrail: TMC
 ----
 geolat: 51.00159
 ----

@@ -14,7 +14,7 @@ wikipedia: Gillingham_(Kent)_railway_station
 ----
 disused: 
 ----
-code: GLM
+nationalrail: GLM
 ----
 geolat: 51.386419
 ----

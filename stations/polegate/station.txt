@@ -14,7 +14,7 @@ wikipedia: Polegate_railway_station
 ----
 disused: p/polegate
 ----
-code: PLG
+nationalrail: PLG
 ----
 geolat: 50.821573
 ----

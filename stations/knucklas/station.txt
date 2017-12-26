@@ -14,7 +14,7 @@ wikipedia: Knucklas_railway_station
 ----
 disused: 
 ----
-code: KNU
+nationalrail: KNU
 ----
 geolat: 52.359417
 ----

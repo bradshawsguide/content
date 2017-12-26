@@ -14,7 +14,7 @@ wikipedia: Prestatyn_railway_station
 ----
 disused: 
 ----
-code: PRT
+nationalrail: PRT
 ----
 geolat: 53.336038
 ----

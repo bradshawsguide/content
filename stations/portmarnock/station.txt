@@ -14,7 +14,7 @@ wikipedia: Portmarnock_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.4175
 ----

@@ -14,7 +14,7 @@ wikipedia: Glyndyfrdwy_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.977141
 ----

@@ -14,7 +14,7 @@ wikipedia: Abingdon_railway_station
 ----
 disused: a/abingdon
 ----
-code: 
+nationalrail: 
 ----
 geolat: 51.672709
 ----

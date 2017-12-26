@@ -14,7 +14,7 @@ wikipedia: Horderley_railway_station
 ----
 disused: h/horderley
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.476369
 ----

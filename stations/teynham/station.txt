@@ -14,7 +14,7 @@ wikipedia: Teynham_railway_station
 ----
 disused: 
 ----
-code: TEY
+nationalrail: TEY
 ----
 geolat: 51.333773
 ----

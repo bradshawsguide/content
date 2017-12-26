@@ -14,7 +14,7 @@ wikipedia: Cardigan_railway_station
 ----
 disused: c/cardigan
 ----
-code: 
+nationalrail: 
 ----
 geolat: 52.081025
 ----

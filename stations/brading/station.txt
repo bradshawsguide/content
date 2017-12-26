@@ -14,7 +14,7 @@ wikipedia: Brading_railway_station
 ----
 disused: 
 ----
-code: BDN
+nationalrail: BDN
 ----
 geolat: 50.678127
 ----

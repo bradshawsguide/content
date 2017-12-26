@@ -14,7 +14,7 @@ wikipedia: Lichfield_Trent_Valley_railway_station
 ----
 disused: 
 ----
-code: LTV
+nationalrail: LTV
 ----
 geolat: 52.687071
 ----

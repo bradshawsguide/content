@@ -14,7 +14,7 @@ wikipedia: Worcester_Park_railway_station
 ----
 disused: 
 ----
-code: WCP
+nationalrail: WCP
 ----
 geolat: 51.381257
 ----

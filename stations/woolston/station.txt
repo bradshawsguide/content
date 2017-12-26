@@ -14,7 +14,7 @@ wikipedia: Woolston_railway_station
 ----
 disused: 
 ----
-code: WLS
+nationalrail: WLS
 ----
 geolat: 50.899062
 ----

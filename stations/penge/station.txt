@@ -14,7 +14,7 @@ wikipedia: Penge_East_railway_station
 ----
 disused: 
 ----
-code: PNE
+nationalrail: PNE
 ----
 geolat: 51.419583
 ----

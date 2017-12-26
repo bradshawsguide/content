@@ -14,7 +14,7 @@ wikipedia: Tal-y-Cafn_railway_station
 ----
 disused: 
 ----
-code: TLC
+nationalrail: TLC
 ----
 geolat: 53.228907
 ----

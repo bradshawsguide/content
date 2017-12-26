@@ -14,7 +14,7 @@ wikipedia: Comber_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.551576
 ----

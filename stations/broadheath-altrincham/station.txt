@@ -14,7 +14,7 @@ wikipedia: Broadheath_(Altrincham)_railway_station
 ----
 disused: b/broadheath
 ----
-code: 
+nationalrail: 
 ----
 geolat: 53.39955
 ----

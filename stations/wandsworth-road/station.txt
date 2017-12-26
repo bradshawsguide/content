@@ -14,7 +14,7 @@ wikipedia: Wandsworth_Road_railway_station
 ----
 disused: 
 ----
-code: WWR
+nationalrail: WWR
 ----
 geolat: 51.470218
 ----

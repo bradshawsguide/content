@@ -14,7 +14,7 @@ wikipedia: Helsby_railway_station
 ----
 disused: 
 ----
-code: HSB
+nationalrail: HSB
 ----
 geolat: 53.275333
 ----

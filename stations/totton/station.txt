@@ -14,7 +14,7 @@ wikipedia: Totton_railway_station
 ----
 disused: 
 ----
-code: TTN
+nationalrail: TTN
 ----
 geolat: 50.917567
 ----

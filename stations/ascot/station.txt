@@ -14,7 +14,7 @@ wikipedia: Ascot_railway_station
 ----
 disused: 
 ----
-code: ACT
+nationalrail: ACT
 ----
 geolat: 51.405801
 ----

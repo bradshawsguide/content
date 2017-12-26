@@ -14,7 +14,7 @@ wikipedia: Farnborough_(Main)_railway_station
 ----
 disused: 
 ----
-code: FNB
+nationalrail: FNB
 ----
 geolat: 51.296963
 ----

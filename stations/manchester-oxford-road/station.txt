@@ -14,7 +14,7 @@ wikipedia: Manchester_Oxford_Road_railway_station
 ----
 disused: 
 ----
-code: MCO
+nationalrail: MCO
 ----
 geolat: 53.473536
 ----

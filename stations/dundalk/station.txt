@@ -14,7 +14,7 @@ wikipedia: Dundalk_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.001026
 ----

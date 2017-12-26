@@ -14,7 +14,7 @@ wikipedia: Merstham_railway_station
 ----
 disused: 
 ----
-code: MHM
+nationalrail: MHM
 ----
 geolat: 51.263785
 ----

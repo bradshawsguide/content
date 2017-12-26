@@ -14,7 +14,7 @@ wikipedia: Disused_railway_stations_on_the_Bristol_to_Exeter_Line#Hele_and_Bradn
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.811321
 ----

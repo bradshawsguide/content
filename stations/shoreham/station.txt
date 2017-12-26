@@ -14,7 +14,7 @@ wikipedia: Shoreham_railway_station
 ----
 disused: 
 ----
-code: SEH
+nationalrail: SEH
 ----
 geolat: 51.332586
 ----

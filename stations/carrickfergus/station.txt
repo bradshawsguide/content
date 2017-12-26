@@ -14,7 +14,7 @@ wikipedia: Carrickfergus_railway_station
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 54.717422
 ----

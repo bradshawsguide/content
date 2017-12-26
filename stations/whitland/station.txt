@@ -14,7 +14,7 @@ wikipedia: Whitland_railway_station
 ----
 disused: 
 ----
-code: WTL
+nationalrail: WTL
 ----
 geolat: 51.818461
 ----

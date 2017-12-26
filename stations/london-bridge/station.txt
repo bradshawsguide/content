@@ -14,7 +14,7 @@ wikipedia: London_Bridge_station
 ----
 disused: 
 ----
-code: LBG
+nationalrail: LBG
 ----
 geolat: 51.504674
 ----

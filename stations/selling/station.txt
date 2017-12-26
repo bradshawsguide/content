@@ -14,7 +14,7 @@ wikipedia: Selling_railway_station
 ----
 disused: 
 ----
-code: SEG
+nationalrail: SEG
 ----
 geolat: 51.277211
 ----

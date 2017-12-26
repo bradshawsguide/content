@@ -14,7 +14,7 @@ wikipedia: Coryton_railway_station_(Devon)
 ----
 disused: 
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.628611
 ----

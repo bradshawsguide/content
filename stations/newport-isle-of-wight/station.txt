@@ -14,7 +14,7 @@ wikipedia: Newport_railway_station_(IoWCR)
 ----
 disused: n/newport%28iwc%29
 ----
-code: 
+nationalrail: 
 ----
 geolat: 50.703435
 ----

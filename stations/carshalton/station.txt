@@ -14,7 +14,7 @@ wikipedia: Wallington_railway_station
 ----
 disused: 
 ----
-code: WLT
+nationalrail: WLT
 ----
 geolat: 51.360383
 ----

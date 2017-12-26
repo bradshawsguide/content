@@ -14,7 +14,7 @@ wikipedia: Cardiff_Central_railway_station
 ----
 disused: 
 ----
-code: CDF
+nationalrail: CDF
 ----
 geolat: 51.475667
 ----

@@ -14,7 +14,7 @@ wikipedia: Weston-super-Mare_railway_station
 ----
 disused: 
 ----
-code: WSM
+nationalrail: WSM
 ----
 geolat: 51.344501
 ----

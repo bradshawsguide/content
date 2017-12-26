@@ -14,7 +14,7 @@ wikipedia: Worthing_railway_station
 ----
 disused: 
 ----
-code: WRH
+nationalrail: WRH
 ----
 geolat: 50.818376
 ----

@@ -14,7 +14,7 @@ wikipedia: Trowbridge_railway_station
 ----
 disused: 
 ----
-code: TRO
+nationalrail: TRO
 ----
 geolat: 51.319559
 ----

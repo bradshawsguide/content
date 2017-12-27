@@ -1,4 +1,6 @@
-title: Principality of Wales
+title: The Principality of Wales
+----
+title_short: Wales
 ----
 feature:
 - wales/glamorganshire/cardiff

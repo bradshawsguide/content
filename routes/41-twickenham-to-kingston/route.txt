@@ -10,7 +10,7 @@ stops:
 - twickenham
 - teddington
 - hampton-wick
-- kingston-town
+- kingston
 ----
 links:
 - (wikipedia: Kingston_loop_line)

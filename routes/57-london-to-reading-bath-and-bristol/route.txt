@@ -42,6 +42,8 @@ stops:
 links:
 - (wikipedia: Great_Western_main_line)
 ----
+desc: This route at first lies through the Thames Valley, then, after passing the elevated plains to the north of Marborough Downs, gradually descends down into the fertile and picturesque valley of the Avon.
+----
 text: ### London to Slough
 
 The *Metropolitan Terminus* of the Great Western Railway is situated on the western side of the Paddington Canal, in a line with Praed-street, Paddington, at the north-west extremity of London, and at a short distance from the northern avenues to Hyde Park, thus affording an easy access to and from all parts of town. Omnibuses leave the City one hour before the departure of each train, and call at all the booking-offices on their way, winch, in addition to the cabs, leave the passenger at no loss for a prompt conveyance to this Terminus--one of the largest and most commodious stations in London. Its external appearance is not very remarkable,--but the booking-offices are convenient, the waiting rooms comfortable, the platforms, for the arrival and departure trains, spacious enough to accommodate the largest number of excursionists ever accumulated,--and the vast area embraced by the immense roofs by which the station is covered, impart to the mind of the traveller the impression that he is about to start by the railway of a first-rate company.
@@ -52,7 +54,7 @@ The space occupied by the platforms and lines of railway under the curved roofin
 
 On the departure of the train, it threads the sinuosities of the station at an easy rate, and we have time to notice the metamorphosis that has taken place in the em-irons of the line; walls have become green embankments, embankments diminished into hedges, and bodges grown into avenues of trees, waving a leafy adieu as we are carried past, The increasing velocity of the train now conveys us rapidly into the suburbs of the metropolis--past Kensal Green Cemetery on the right, Wormwood Scrubs on the left, and a transient glimpse is obtained of the London and North-Western Railway winding its course towards the midland counties.
 
-The route at first lies through the Thames Valley, then, after passing the. elevated plains to the north of Marborough Downs, it gradually descends down into the fertile and picturesque valley of the Avon. Emerging from a slight excavation, we came to an embankment crossing Old Oak Common so named from its having been the site of a thick forest of oaks. The village of Acton, which lies to the left is linked to the metropolis by one almost uninterrupted line of houses, through which the North-Western Junction Railway passes, connecting the North-Western Railway with those of the South-Western.
+The route at first lies through the Thames Valley, then, after passing the elevated plains to the north of Marborough Downs, it gradually descends down into the fertile and picturesque valley of the Avon. Emerging from a slight excavation, we came to an embankment crossing Old Oak Common so named from its having been the site of a thick forest of oaks. The village of Acton, which lies to the left is linked to the metropolis by one almost uninterrupted line of houses, through which the North-Western Junction Railway passes, connecting the North-Western Railway with those of the South-Western.
 
 [Ealing Station](/stations/ealing).--*Gunnersbury Park*, Baron Rothschild; *Castlebear Hill*, and *Twyford Abbey*, close by. Thence passing the pretty hamlet of *Drayton Green*, we stop at
 

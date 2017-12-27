@@ -38,7 +38,9 @@ A line to Guilford branches off here.
 
 On leaving Horsham we pass the little village of [Billingshurst](/stations/billingshurst), and very soon arrive at [Pulborough](/stations/pulborough), the junction of a short line to
 
-(place: england/sussex/petworth branch: true)
+(branch: start)
+  (place: england/sussex/petworth)
+(branch: end)
 
 Again taking our departure from Pulborough we pass the station of [Amberley](/stations/amberley), on the banks of the the Arun, a stream noted for its trout, and on to the town of
 

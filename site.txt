@@ -14,24 +14,6 @@ license-url: https://creativecommons.org/publicdomain/mark/1.0/
 ----
 desc: Bradshaw's Guide for Tourists in Great Britain & Ireland, adapted to the railway system.
 ----
-sections:
-- uid: 1
-  title: Section I
-  subtitle: London and its Environs
-  desc: Tours through the counties of Kent, Sussex, Hants, Dorset, Devon, the Channel Islands, and the Isle of Wight.
-- uid: 2
-  title: Section II
-  subtitle: North & South Wales, Ireland and the Lakes of Killarney
-  desc: Tours through the counties of Berks, Buckingham, Wilts, Dorset, Cornwall, Somerset, Gloucester, the South Wales districts, Oxford, Warwick, Salop, Chester, Flint, Carnarvon, Anglesea, and through Ireland.
-- uid: 3
-  title: Section III
-  subtitle: English & Scotch Lake Districts, Ayr (the Land of Burns)
-  desc: Hertford, Buckingham, Northampton, Warwick, Stafford, Chester, Lancaster, York, Cumberland, Westmorland, Northumberland, Dumfries, Lanark, Ayr, and the Northern Counties of Scotland.
-- uid: 4
-  title: Section IV
-  subtitle: The Great Manufacturing Districts of Lancashire and Yorkshire
-  desc: Essex, Suffolk, Norfolk, Hertford, Cambridge, Huntingdon, Rutland, Leicester, Nottingham, Lincoln, Lancaster (South East), York, Durham, Northumberland, Berwick, and the South-Eastern Counties of Scotland.
-----
 keywords: railway, guide,
 ----
 theme-color: #30241d

@@ -2,6 +2,8 @@
 ----
 title: Farringdon Street to Herne Hill
 ----
+title_short: Farringdon to Herne Hill
+----
 subtitle: Metropolitan Extension
 ----
 company: london-chatham-and-dover

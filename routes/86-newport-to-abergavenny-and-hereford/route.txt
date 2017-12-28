@@ -35,7 +35,7 @@ This forms the junction with the
 
 (route: pontypool-road-to-monmouth)
 
-### Pontypool Road to Abergavenny
+## Pontypool Road to Abergavenny
 Passing the station of [Nantyderry](/stations/nantyderry), or Goitre, we arrive at [Penpergwm](/stations/penpergwm), near which is Llanover, the seat of Lord Llanover, and three miles to the right is Glytha. Proceeding along the valley of the Usk, we soon arrive at
 
 (place: england/monmouthshire/abergavenny)

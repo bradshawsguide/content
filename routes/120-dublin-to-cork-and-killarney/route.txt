@@ -37,7 +37,7 @@ The next station arrived at is Kildare, the junction of the lines to Carlow and 
 (place: ireland/county-kildare/kildare)
 
 (branch: start)
-  ### Kildare to Carlow, Kilkenny, & Waterford
+  ## Kildare to Carlow, Kilkenny, & Waterford
   Passing [Athy](/stations/athy), on the Barrow, where there is an old castle, built by Lord Kildare in 1506, and has Markets on Tuesday and Saturday, and Fairs March 17th, April 25th, June 9th, July 10th, October 11th, and Dec., we then proceed to [Mageney](/stations/mageney), and enter [Carlow](/places/ireland/county-carlow).
 
   (place: ireland/county-carlow/carlow)
@@ -61,13 +61,13 @@ The next station arrived at is Kildare, the junction of the lines to Carlow and 
   (place: ireland/county-waterford/waterford)
 (branch: end)
 
-### Kildare to Cork
+## Kildare to Cork
 We now return to Kildare, the point of deviation to Carlow, &c, and soon reach *Monasterevan*, where are ruins of a monastery, built in the 7th century, rebuilt in the 8th, and refounded in the 12th, by the O'Dempseys. There is a Market here on Saturdays, and Fairs on March 28th, May 29th, July 31st, and December 8th. We now enter [King's County](/places/ireland/kings-county).
 
 (place: ireland/kings-county/portarlington)
 
 (branch: start)
-  ### Athlone Branch
+  ## Athlone Branch
   [Geashill](/stations/geashill).--Here is O'Dempsey's Castle; Fairs are held on May 1st, October 6th, and December 26th.
 
   (place: ireland/kings-county/tullamore)
@@ -75,7 +75,7 @@ We now return to Kildare, the point of deviation to Carlow, &c, and soon reach *
   (place: ireland/county-westmeath/athlone)
 (branch: end)
 
-### Great Southern and Western Main Line continued
+## Great Southern and Western Main Line continued
 
 (place: ireland/queens-county/maryborough)
 
@@ -101,7 +101,7 @@ Returning to the junction at Roscrea, we pass on to [Templemore](/stations/templ
   **Ennis** the terminus of the line, also situated on the River Fergus. It is a telegraph station, has a small trade in butter and grain, and a population of about 10,000.
 (branch: end)
 
-### Great Southern and Western Main Line continued
+## Great Southern and Western Main Line continued
 From Limerick Junction the line again turns off to the left for Clonmel and Waterford, a description of which latter town [will be found here](/places/ireland/county-waterford/waterford).
 
 Again taking our seats at the Junction we pass on about 9 miles further and enter the county of [Limerick](/places/ireland/county-limerick).

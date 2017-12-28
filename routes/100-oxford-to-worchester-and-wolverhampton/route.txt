@@ -46,7 +46,7 @@ stops:
 links:
 - (wikipedia: Oxford,_Worcester_and_Wolverhampton_Railway)
 ----
-text: ### Oxford to Chipping Norton Junction
+text: ## Oxford to Chipping Norton Junction
 
 (place: england/oxfordshire/handborough)
 
@@ -61,7 +61,7 @@ Still passing along the valley of the Evenlode, we pass [Ascott](/stations/ascot
 Three miles beyond Shipton we arrive at the junction of the
 
 (branch: start)
-  ### Chipping Norton Branch
+  ## Chipping Norton Branch
   And at a distance of four miles further, at the ancient town of
 
   (place: england/oxfordshire/chipping-norton)
@@ -82,13 +82,13 @@ Again proceeding on our way, we soon arrive at
 [Blockley](/stations/blockley), [Campden](/stations/campden), and [Honeybourne](/stations/honeybourne) stations, the last of which is the junction of the branch to the classic town of Stratford.
 
 (branch: start)
-  ### Stratford-upon-Avon Branch
+  ## Stratford-upon-Avon Branch
   The stations *en route* are [Long Marston](/stations/long-marston), and [Milcote](/stations/milcote).
 
   (place: england/warwickshire/stratford-upon-avon)
 (branch: end)
 
-### Honeybourne to Worcester and Wolverhampton
+## Honeybourne to Worcester and Wolverhampton
 Again on the Main Line, we next pay a visit to the small town of
 
 (place: england/worcestershire/evesham)
@@ -113,7 +113,7 @@ Another branch, belonging to the Midland Company, here interrupts our course.
 
 (route: hartlebury-to-shrewsbury)
 
-### West Midland Main Line continued
+## West Midland Main Line continued
 
 (place: england/worcestershire/kidderminster)
 

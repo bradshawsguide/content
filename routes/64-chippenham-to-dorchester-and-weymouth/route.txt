@@ -57,7 +57,7 @@ We now bear to the left, leaving the Weymouth line, on the
 
 (route: westbury-to-salisbury)
 
-### Westbury to Dorchester and Weymouth
+## Westbury to Dorchester and Weymouth
 Crossing the borders of the county from Westbury we soon arrive at
 
 (place: england/somerset/frome)

@@ -20,7 +20,7 @@ stops:
 links:
 - (wikipedia: Mallow–Tralee_line)
 ----
-text: ### Excursion to the Lakes of Killarney
+text: ## Excursion to the Lakes of Killarney
 
 Scotland, Wales, and the most beautiful districts of England, whatever may be their attractions, do not offer much novelty to the majority of men who, in the excursion period of the year, rush from smoky London and the cares of business to feast their eyes upon the beauty, and allow their lungs to inhale the fresh air, of the fields, lakes, and mountains. To such persons we recommend a trip to Ireland, and the lovely Lakes of Killarney. The journey has been rendered comparatively moderate in cost, and convenient as regards time, by the arrangements of the London and North Western Railway Company. The directors issue excursion tickets for the entire journey there and back, giving the tourist fourteen days for the trip, and make all necessary arrangements with the Irish South Western Railway Company for passing him on to his destination.
 

@@ -37,7 +37,7 @@ Returning to Guildford the line takes a southerly direction, and at the distance
 
 (place: england/surrey/godalming)
 
-### Goldalming to Portsmouth
+## Goldalming to Portsmouth
 This route is a continuation of the line *via* Guildford and Godalming to Portsmouth, bringing the latter place about 21 miles nearer London than by the old route, via Bishopstoke.--The stations are [Milford](/stations/milford-surrey), [Witney](/stations/witley), [Haslemere](/stations/haslemere), [Liphook](/stations/liphook), [Liss](/stations/liss).
 
 [Petersfield](/stations/petersfield), a neat little town of great antiquity. It has a population of 5,655, and returns one member to parliament. Near the chapel there is an equestrian statue of William III, built by the Joliffes of Merstham.

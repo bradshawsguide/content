@@ -38,13 +38,13 @@ text: [Dunleer](/stations/dunleer): here fairs are held monthly.
   (place: ireland/county-armagh/armagh)
 (branch: end)
 
-### Dublin and Belfast Junction Main Line continued
+## Dublin and Belfast Junction Main Line continued
 [Poyntzpass](/stations/poyntzpass), so called from Sir T. Poyntz having forced his band through the Pass, has ruins of a castle which commands its entrance. Fairs are held here 1st Saturday in every month. Acton church: close at hand are *Acton House*, R. Dobbs, Esq.; *Acton Lodge*, P. Quinn, Esq. (the descendant of Sir T. Poyntz); Drumbanagher Castle, Colonel Close.
 
 [Scarva](/stations/scarva), the junction of the Banbridge line which here turns off to the right.
 
 (branch: start)
-  ### Banbridge Branch
+  ## Banbridge Branch
   It passes the station of [Lawrencetown](/stations/lawrencetown) to
 
   [Banbridge](/stations/banbridge), an important market town on the river Bann; a good deal of linen is here manufactured, and webbing. We then pass on *via* [Mullaternaghan](/stations/mullaternaghan), [Dromore](/stations/dromore), and [Hillsborough](/stations/hillsborough), to [Lisburn](/stations/lisburn).

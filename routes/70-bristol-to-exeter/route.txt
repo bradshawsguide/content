@@ -24,12 +24,12 @@ stops:
 links:
 - (wikipedia: Bristol_and_Exeter_Railway)
 ----
-text: ### Bristol to Highbridge
+text: ## Bristol to Highbridge
 
 On leaving the station at Bristol, the lofty root and portly walls glide away almost insensibly from our vision, and leave us in exchange the free air and undulating grounds of a wide and open country, through which the continuous iron line is seen wending onward. The embankment on which we are carried reveals to us passing glimpses of luxuriant lands, and tower-crested eminences, fertile to the summit, the chief charms and characteristics of all Somerset About two miles from Bristol we pass under the old turnpike road to Wells and Bridgewater, and in another mile come upon an elevation which unfolds a bold and romantic view of the surrounding country Ashton Hill, and Leigh Down, with the pretty picturesque village of Long Ashton, form a very attractive picture to the light; and opposite, soaring above the level of the sea to 700 feet, rises the majestic eminence of Dun dry Beacon, the turreted summit of which becomes a prominent object for many miles. A cutting here intercepts the view and we pass the stations of [Bourton](/stations/bourton), [Nailsea](/stations/nailsea) and [Yatton](/stations/yatton), places of no importance, except the latter as being the junction of
 
 (branch: start)
-  ### Clevedon Branch
+  ## Clevedon Branch
   Continuing our journey to the right, we reach, in about four miles further, by alternate embankment and excavation,
 
   (place: england/somerset/clevedon)
@@ -55,14 +55,14 @@ Leaving the Banwell station, we pass the villages of Wick, St. Lawrence, Kewstok
 
 (route: highbridge-to-glastonbury-wells-and-templecombe)
 
-### Highbridge to Durston Junction
+## Highbridge to Durston Junction
 (place: england/somerset/bridgewater)
 
 (place: england/somerset/durston-junction)
 
 (route: durston-junction-to-yeovil)
 
-### Durston to Tiverton and Exeter
+## Durston to Tiverton and Exeter
 On leaving the Bridgewater station the line is continued by embankment across the river Parret, and soon after we enter the fertile valley of the Tone. The river, which gives name to this luxuriant district rises in the Quantock hills, near the town of Wiveliscombe, and, flowing for some miles, passes Taunton, to which town it gives name. Taunton Dean is famed for its fruitful ground, winch is proverbially alleged to produce three crops a year. After gliding along several scenes of wild fertility and romantic beauty, we pass a hill which quite shuts out the prospect, and entering a brief but deep cutting, we reach the neat and commodious station at [Taunton](/stations/taunton).
 
 (place: england/somerset/taunton)
@@ -80,7 +80,7 @@ Amidst a succession of scenery almost purely pastoral we are again startled by t
 [Tiverton Junction](/stations/tiverton-junction), two miles to the left of which lies the small decayed town of *Uffculme*. To our right is the
 
 (branch: start)
-  ### Tiverton Branch
+  ## Tiverton Branch
   (place: england/devonshire/tiverton suffix: Branch)
 (branch: end)
 

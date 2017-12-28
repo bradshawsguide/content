@@ -40,14 +40,14 @@ Leaving Llandaff we very soon arrive at [Walnut Tree](/stations/walnut-tree-junc
 [Aberdare](/stations/aberdare-junction) junction.
 
 (branch: start)
-  ### Aberdare branch
+  ## Aberdare branch
 
   [Mountain Ash](/stations/mountain-ash) and [Treaman](/stations/treaman) stations.
 
   (place: wales/glamorganshire/aberdare)
 (branch: end)
 
-### Taff Vale Main Line continued
+## Taff Vale Main Line continued
 
 [Quaker's Yard](/stations/quakers-yard) and [Troedyrhiew](/stations/troedyrhiew) stations.
 

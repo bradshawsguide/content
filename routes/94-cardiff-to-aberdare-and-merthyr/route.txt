@@ -23,21 +23,29 @@ links:
 text:
 (place: wales/glamorganshire/llandaff)
 
-Leaving Llandaff we very soon arrive at [Walnut Tree], the junction of a line *via* [Llantrissant](/stations/llantrissant) and [Ystrad Owen](/stations/ystrad-owen) to the market town of
+(branch: start)
+Leaving Llandaff we very soon arrive at [Walnut Tree](/stations/walnut-tree-junction), the junction of a line *via* [Llantrissant](/stations/llantrissant) and [Ystrad Owen](/stations/ystrad-owen) to the market town of
 
-[Cowbridge](/stations/cowbridge), with its ancient and well-endowed Grammar School. Five miles beyond is situated *Fouman Castle*, the seat of Oliver Jones, Esq.: it belonged to the St. John's, of Bletsoe, and Colonel Jones, the regicide, and contains a beautiful portrait of Cromwell.
+  [Cowbridge](/stations/cowbridge), with its ancient and well-endowed Grammar School. Five miles beyond is situated *Fouman Castle*, the seat of Oliver Jones, Esq.: it belonged to the St. John's, of Bletsoe, and Colonel Jones, the regicide, and contains a beautiful portrait of Cromwell.
+(branch: end)
 
 [Treforest](/stations/trefforest) station
 
-[Pontypridd](/stations/pontypridd) junction.--Here the Rhondda Valley line branches off, and runs *via* [Havod](/stations/havod), [Porth](/stations/porth), [Pandy](/stations/tonypandy), and [Ystrad](/stations/ystrad-rhondda), to [Treherbert](/stations/treherbert).
+[Pontypridd](/stations/pontypridd) junction.
+
+(branch: start)
+  Here the Rhondda Valley line branches off, and runs *via* [Havod](/stations/havod), [Porth](/stations/porth), [Pandy](/stations/tonypandy), and [Ystrad](/stations/ystrad-rhondda), to [Treherbert](/stations/treherbert).
+(branch: end)
 
 [Aberdare](/stations/aberdare-junction) junction.
 
-### Aberdare branch
+(branch: start)
+  ### Aberdare branch
 
-[Mountain Ash](/stations/mountain-ash) and [Treaman](/stations/treaman) stations.
+  [Mountain Ash](/stations/mountain-ash) and [Treaman](/stations/treaman) stations.
 
-(place: wales/glamorganshire/aberdare)
+  (place: wales/glamorganshire/aberdare)
+(branch: end)
 
 ### Taff Vale Main Line continued
 

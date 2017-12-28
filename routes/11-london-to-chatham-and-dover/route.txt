@@ -56,9 +56,13 @@ Leaving [Victoria](/stations/victoria), we almost immediately cross the Thames, 
 
 [Bickley](/stations/bickley) and [St. Mary's Cray](/stations/st-mary-cray) stations.
 
-[Sevenoaks Junction](/stations/sevenoaks-junction).--A line here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynsford) and [Shoreham](/stations/shoreham), to
+[Sevenoaks Junction](/stations/sevenoaks-junction).
 
-(place: england/kent/sevenoaks)
+(branch: start)
+  A line here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynsford) and [Shoreham](/stations/shoreham), to
+
+  (place: england/kent/sevenoaks)
+(branch: end)
 
 [Farningham](/stations/farningham).--Lullingstone and Eynesford Castles in the neighbourhood.
 

@@ -111,7 +111,9 @@ Our onward progress from Cardiff brings us through [Ely](/stations/ely-cardiff),
 
 (place: wales/glamorganshire/bridgend)
 
-The *Llynvi Valley* line, originally an old tramway, turns off here to the right, passing along the valley, rich in coal and iron, to the junction at [Tondu](/stations/tondu), at which point the *Ogmore Valley* line branches out to the left through [Cefn](/stations/cefn-cribwr), crossing the South Wales line at [Pyle](/stations/pyle), thence to [Porthcawl](/stations/porthcawl) where there is a very good harbour, and from whence much coal and iron is shipped. From Tondu the line proceeds through a hilly country to [Llangonoyd](/stations/llangonoyd), and thence to [Maesteg](/stations/maesteg), a place of rising importance on account of its extensive iron works.
+(branch: start)
+  The *Llynvi Valley* line, originally an old tramway, turns off here to the right, passing along the valley, rich in coal and iron, to the junction at [Tondu](/stations/tondu), at which point the *Ogmore Valley* line branches out to the left through [Cefn](/stations/cefn-cribwr), crossing the South Wales line at [Pyle](/stations/pyle), thence to [Porthcawl](/stations/porthcawl) where there is a very good harbour, and from whence much coal and iron is shipped. From Tondu the line proceeds through a hilly country to [Llangonoyd](/stations/llangonoyd), and thence to [Maesteg](/stations/maesteg), a place of rising importance on account of its extensive iron works.
+(branch: end)
 
 [Pyle](/stations/pyle) station.
 
@@ -165,9 +167,11 @@ Those who wish to shorten their journey to Tenby may do so by taking a coach at 
 
 (place: wales/pembrokeshire/johnston)
 
-A railway, 3½ miles long, runs from this station to the town of
+(branch: start)
+  A railway, 3½ miles long, runs from this station to the town of
 
-(place: wales/pembrokeshire/milford)
+  (place: wales/pembrokeshire/milford)
+(branch: end)
 
 (place: wales/pembrokeshire/new-milford)
 

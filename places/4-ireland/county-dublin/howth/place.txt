@@ -6,7 +6,7 @@ company:
 - dublin-and-drogheda
 ----
 route:
-- howth-junction-to-howth
+- dublin-to-drogheda
 ----
 info:
 - term: Hotel

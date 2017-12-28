@@ -46,7 +46,9 @@ The Berks and Hants, a railway 24¼ miles long, begins here and runs through a n
 
 [Savernake](/stations/savernake).--At this station a short branch turns off to the right to the town of
 
-(place: england/wiltshire/marlborough)
+(branch: start)
+  (place: england/wiltshire/marlborough)
+(branch: end)
 
 [Pewsey](/stations/pewsey), a small village on the Avon, at which petty sessions are held.
 

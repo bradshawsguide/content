@@ -64,17 +64,21 @@ From this station the line passes in a gentle curve over the Wharncliffe Viaduct
 
 (place: england/middlesex/southall)
 
-At this station a short branch, 3¾ miles, turns of to the left, by which a connection with the South Western is formed at
+(branch: start)
+  At this station a short branch, 3¾ miles, turns of to the left, by which a connection with the South Western is formed at
 
-(place: england/middlesex/brentford)
+  (place: england/middlesex/brentford)
+(branch: end)
 
 Crossing the Paddington and *Grand Junction* Canal, we pass alternately through excavation and embankment on to
 
 (place: england/middlesex/west-drayton)
 
-We now cross the western boundary of Middlesex, and then pass over a small corner of Buckinghamshire, between West Drayton and Maidenhead, into the county of Berks.
+(branch: start)
+  We now cross the western boundary of Middlesex, and then pass over a small corner of Buckinghamshire, between West Drayton and Maidenhead, into the county of Berks.
 
-(place: england/middlesex/uxbridge)
+  (place: england/middlesex/uxbridge)
+(branch: end)
 
 Soon after leaving West Drayton we cross the river Colne and its branches, with *Hunt's Moor Park*, and the beautifully sequestered village of Iver (which, alike to artist or antiquary, will be found replete with objects of interest and attraction), on the right, and enter Buckinghamshire, arriving at the station at
 
@@ -125,7 +129,9 @@ Soon after leaving the station the railway takes a north-westerly direction, and
 
 [Wallingford Road](/stations/wallingford-road) station.
 
-(place: england/berkshire/wallingford)
+(branch: start)
+  (place: england/berkshire/wallingford)
+(branch: end)
 
 On leaving the station the railway returns into the county of Berks, and the country assumes a more agricultural and less romantic aspect than that which we had previously traversed. Alternately dipping into excavation, and flitting over embankment, we are carried across Hagbourne Marsh, and passing over the Wantage and Wallingford road, we arrive at
 
@@ -146,7 +152,9 @@ Borne over the Wiltshire and Berks Canal, we soon after reach [Wantage Road](/st
 
 [Uffington](/stations/uffington).--Here a short line, about three miles, runs out to our right to
 
-(place: england/berkshire/faringdon)
+(branch: start)
+  (place: england/berkshire/faringdon)
+(branch: end)
 
 Leaving the station, and progressing on an ascent of about "seven feet in a mile, we are carried on an embankment past the village of Baulking, about two miles distant from which is Kingston Lisle, with its celebrated "Blowing Stone," in which there are several apertures, and by blowing into any one of these a sound is produced that can be heard for miles distant Uffington Castle is close by, and a little further on is seen the celebrated *White Horse* which was carved by order of Alfred, in memory of the triumphant victory which, in 873, he gained over the. Danes, at Ashbury.
 
@@ -160,7 +168,7 @@ The valley of **Stroud** through which the railway passes from Swindon to Glouce
 
 (route: swindon-to-gloucester-and-cheltenham)
 
-### Swindon to Chippenham.
+### Swindon to Chippenham
 About a mile to the left is the market town which gives its name to the station, and which is now rapidly rising into importance. The old town is pleasantly situated on the summit of a considerable eminence, commanding extensive views of Berkshire and Gloucestershire.
 
 The line here continues on a rapid descent, of about seven feet in a mile, and by embankment crosses several roads, leading from the neighbouring towns and villages. About a mile to the right, is Lydiard, near which can be recognised the lofty trees of the park, the ancient seat of the Bolingbroke family. Sweeping in rather a serpentine course over a richly-cultivated country, we next pass in succession a cluster of small hamlets to our left; and looking forward, scenery of that quiet pastoral description so characteristic of English rural life is continued to the very verge of the horizon.
@@ -171,9 +179,11 @@ We now proceed on an embankment, having a rapid descent in our favour of about f
 
 (place: england/wiltshire/chippenham)
 
-A branch line six miles long turns off to the left to the town of
+(branch: start)
+  A branch line six miles long turns off to the left to the town of
 
-(place: england/wiltshire/calne)
+  (place: england/wiltshire/calne)
+(branch: end)
 
 (route: chippenham-to-dorchester-and-weymouth)
 

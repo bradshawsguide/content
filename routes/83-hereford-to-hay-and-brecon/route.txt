@@ -17,8 +17,10 @@ stops:
 - glasbury
 - three-cocks-junction
 - talgarth
-- [talyllyn-junction, talybont, dolygaer, dowlais]
-- brecon
+- [talyllyn-junction, brecon]
+- talybont
+- dolygaer
+- dowlais
 ----
 links:
 - (wikipedia: Hereford,_Hay_and_Brecon_Railway)
@@ -35,7 +37,9 @@ text: From Hereford we pass the stations of [Credenhill](/stations/credenhill), 
 
 On returning to Three Cocks Junction, we proceed via the stations of [Talgarth](/stations/talgarth) and [Talyllyn Junction](/stations/talyllyn-junction), to
 
-(place: wales/brecknockshire/brecon)
+(branch: start)
+  (place: wales/brecknockshire/brecon)
+(branch: end)
 
 From Brecon we again return to the junction, at Tallyllyn, 4¼ miles; we then pass viâ [Talybont](/stations/talybont), 2¾ miles, and [Dolygaer](/stations/dolygaer), 8¾ miles, to [Dowlais](/stations/dowlais) or *Pant*, 3½ miles, the present termination of the railway in this direction. Coaches run in connection with the trains to
 

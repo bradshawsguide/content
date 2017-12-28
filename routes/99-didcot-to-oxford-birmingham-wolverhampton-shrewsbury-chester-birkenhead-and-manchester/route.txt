@@ -83,7 +83,9 @@ text: ### Didcot to Oxford
 
 After passing a small and uninteresting village called Appleford, we come to a lofty embankment, from which some expansive and diversified views of the surrounding country are obtained. One mile further is the station of
 
-(place: england/oxfordshire/culham)
+(branch: start)
+  (place: england/oxfordshire/culham suffix: Junction)
+(branch: end)
 
 (place: england/oxfordshire/abingdon)
 
@@ -91,7 +93,9 @@ About three miles beyond Culham, we come in sight of Bagley Wood, seen to the le
 
 (place: england/oxfordshire/oxford)
 
-A short line of 11¾ miles turns off to the left, passing the stations of [Yarnton](/stations/yarnton), [Eynsham](/stations/eynsham) and [South Leigh](/stations/south-leigh), to the town of [Witney](/stations/witney), a telegraph station, and celebrated for its manufacture of blankets.
+(branch: start)
+  A short line of 11¾ miles turns off to the left, passing the stations of [Yarnton](/stations/yarnton), [Eynsham](/stations/eynsham) and [South Leigh](/stations/south-leigh), to the town of [Witney](/stations/witney), a telegraph station, and celebrated for its manufacture of blankets.
+(branch: end)
 
 ### Oxford to Birmingham and Wolverhampton
 
@@ -107,9 +111,13 @@ A short line of 11¾ miles turns off to the left, passing the stations of [Yarnt
 
 (place: england/warwickshire/warwick)
 
-[Hatton](/stations/hatton).--A short line, 8¼ miles long, here turns off to the left, running via [Claverdon](/stations/claverdon), [Bearley](/stations/bearley) and [Wilmcote](/stations/wilmcote), to
+[Hatton](/stations/hatton).
 
-(place: england/warwickshire/stratford-upon-avon)
+(branch: start)
+  A short line, 8¼ miles long, here turns off to the left, running via [Claverdon](/stations/claverdon), [Bearley](/stations/bearley) and [Wilmcote](/stations/wilmcote), to
+
+  (place: england/warwickshire/stratford-upon-avon)
+(branch: end)
 
 [Kingswood](/stations/kingswood), [Knowle](/stations/knowle), [Solihull](/stations/solihull), [Acock's Green](/stations/acocks-green) and [Bordesley](/stations/bordesley) stations.
 
@@ -169,10 +177,12 @@ Two miles further we arrive at
 
 (place: england/shropshire/gobowen-junction)
 
-### Oswestry Branch
-The line to Oswestry presents few objects worthy of notice or description. *Park Hall*, the property of R. H. Kinchant, Esq., is a singular and interesting mansion, built in the Tudor style. *Porkington*, the seat of W. Ormsby Gore, Esq., is beautifully situated, and commands some of the finest and most extensive views in the country. Farther on to the right is "Old Oswestry," an ancient military post, situated on an eminence, a very picturesque looking object from the railway.
+(branch: start)
+  ### Oswestry Branch
+  The line to Oswestry presents few objects worthy of notice or description. *Park Hall*, the property of R. H. Kinchant, Esq., is a singular and interesting mansion, built in the Tudor style. *Porkington*, the seat of W. Ormsby Gore, Esq., is beautifully situated, and commands some of the finest and most extensive views in the country. Farther on to the right is "Old Oswestry," an ancient military post, situated on an eminence, a very picturesque looking object from the railway.
 
-(place: england/shropshire/oswestry)
+  (place: england/shropshire/oswestry)
+(branch: end)
 
 ### Great Western continued
 Proceeding onwards from Gobowen, with *St. Martin's* one mile on the right, and *Selattyn* one mile to the left, we soon come to the Chirk Viaduct, which carries us across the lovely vale of Ceiriog, and into the Welsh county of Denbigh, and stop at
@@ -193,16 +203,18 @@ The train now traverses for a considerable distance what is called "free" or neu
 
 Recrossing Watt's Dyke, we arrive at the junction of the
 
-### Brymbo, Minera, &c, Branch.
-Telegraph station at Wheatsheaf.
+(branch: start)
+  ### Brymbo, Minera, &c, Branch
+  Telegraph station at Wheatsheaf.
 
-This mineral branch diverges to the right, and passes across the coal field to the lime rocks of Minera. It is 6¼ miles in length. There are several smaller branches made for the accommodation of the works at Frood, Brynmally, Westminster, South Sea, Brymbo, and Vron, to the extent of about six miles in addition.
+  This mineral branch diverges to the right, and passes across the coal field to the lime rocks of Minera. It is 6¼ miles in length. There are several smaller branches made for the accommodation of the works at Frood, Brynmally, Westminster, South Sea, Brymbo, and Vron, to the extent of about six miles in addition.
 
-At a place called Wheatsheaf the locomotive portion of the branch terminates, and the lower self-acting inclined plane commences, by which the loaded wagons descend, and draw up the empty ones to Summerhill level.
+  At a place called Wheatsheaf the locomotive portion of the branch terminates, and the lower self-acting inclined plane commences, by which the loaded wagons descend, and draw up the empty ones to Summerhill level.
 
-At Summerhill the branch pierces through the crest of a hill by a tunnel, and enters the Moss Valley, which is here a narrow ravine, beautifully wooded, having its sides studded with cottages and gardens, which are chiefly small freeholds, the property of the workmen.
+  At Summerhill the branch pierces through the crest of a hill by a tunnel, and enters the Moss Valley, which is here a narrow ravine, beautifully wooded, having its sides studded with cottages and gardens, which are chiefly small freeholds, the property of the workmen.
 
-From Moss Valley the main branch rises by a steep inclined plane to Peutre, at an inclination of 1 in 4. At the top it pierces through the summit of the Peutre by a tunnel, on emerging from which is Brymbo Valley and iron works From the tunnel the railway winds its course for about four miles to Minera, celebrated for its lead mines and limestone rocks. As the railway winds along the slope of the hills a most magnificent panoramic tow is obtained, extending from the Mersey, dotted with white sails, across the Vale Royal, over Cheshire and Shropshire to the Severn, flanked on the left by the Hope Mountains, and on the right by the Berwyn range, to which succeed the Brydden, the Wrekin, Caer Caradoc, and the distant Cheshire hills; and while the eye is charmed with the beauty of the landscape, the mineral treasures and the varied mechanical contrivances by which their value is brought out, commands the attention and admiration of the geologist and scientific visitor.
+  From Moss Valley the main branch rises by a steep inclined plane to Peutre, at an inclination of 1 in 4. At the top it pierces through the summit of the Peutre by a tunnel, on emerging from which is Brymbo Valley and iron works From the tunnel the railway winds its course for about four miles to Minera, celebrated for its lead mines and limestone rocks. As the railway winds along the slope of the hills a most magnificent panoramic tow is obtained, extending from the Mersey, dotted with white sails, across the Vale Royal, over Cheshire and Shropshire to the Severn, flanked on the left by the Hope Mountains, and on the right by the Berwyn range, to which succeed the Brydden, the Wrekin, Caer Caradoc, and the distant Cheshire hills; and while the eye is charmed with the beauty of the landscape, the mineral treasures and the varied mechanical contrivances by which their value is brought out, commands the attention and admiration of the geologist and scientific visitor.
+(branch: end)
 
 ### Great Western Main Line continued
 Passing a fine ancient mansion, called *Geversyllt Hall*, the property of Sir Watkin W. Wynne, Bart., and then, by some deep cuttings and long embankments, we reach
@@ -232,13 +244,15 @@ The station at Chester stands to the north-east of the city, with *Abbot's Grang
 
 (place: england/cheshire/helsby)
 
-The line direct from Manchester to Liverpool turns off here, and takes a direction along the marshy shores of the Mersey to the town of
+(branch: start)
+  The line direct from Manchester to Liverpool turns off here, and takes a direction along the marshy shores of the Mersey to the town of
 
-(place: england/cheshire/ince)
+  (place: england/cheshire/ince)
 
-Continuing our course along the side of the river we pass [Whitby Locks](/stations/whitby-locks), at the station for which we stop for a minute. The river hence begins to recede; we pass the station of [Sutton](/stations/sutton), and in about four minutes arrive at
+  Continuing our course along the side of the river we pass [Whitby Locks](/stations/whitby-locks), at the station for which we stop for a minute. The river hence begins to recede; we pass the station of [Sutton](/stations/sutton), and in about four minutes arrive at
 
-[Hooton](/stations/hooton), the junction with the line from Chester to Birkenhead.
+  [Hooton](/stations/hooton), the junction with the line from Chester to Birkenhead.
+(branch: end)
 
 Leaving the station at Helsby we are borne along the base of a range of hills to our right, the principal of which is that of Overton, behind which is the town of Overton, of course concealed from our view. We are now at
 

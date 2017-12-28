@@ -21,15 +21,19 @@ From Bishopstoke the line diverges to the south-east, in order to preserve a con
 
 [Botley](/stations/botley).--For those who are disposed to avail themselves of it, railway accommodation is here afforded to the town of
 
-(place: england/hampshire/bishops-waltham)
+(branch: start)
+  (place: england/hampshire/bishops-waltham)
+(branch: end)
 
 (place: england/hampshire/fareham)
 
-(place: england/hampshire/gosport)
+(branch: start)
+  (place: england/hampshire/gosport)
 
-The railway extends 1½ mile further to
+  The railway extends 1½ mile further to
 
-(place: england/hampshire/stokes-bay)
+  (place: england/hampshire/stokes-bay)
+(branch: end)
 
 (place: england/hampshire/porchester)
 

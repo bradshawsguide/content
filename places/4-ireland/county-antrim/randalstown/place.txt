@@ -6,7 +6,7 @@ company:
 - belfast-and-northern-counties
 ----
 route:
-- cookstown-junction-to-cookstown
+- belast-to-ballymena-and-portrush
 ----
 info:
 - term: Hotel

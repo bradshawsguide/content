@@ -19,9 +19,11 @@ text: Coach to Newport, 1s. You leave on the right, Binstead and its old church,
 
 (place: england/isle-of-wight/newport)
 
-For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.
+(branch: start)
+  For those who desire to travel quickly from Newport to West Cowes, a railway communication has been opened out. It takes a direct course along the western side of the Medina.
 
-(place: england/isle-of-wight/west-cowes)
+  (place: england/isle-of-wight/west-cowes)
+(branch: end)
 
 (place: england/isle-of-wight/carisbrooke)
 

@@ -43,8 +43,12 @@ Proceeding from Bray, we pass the stations of [Delgany](/stations/delgany), the 
 
 [Rathnew](/stations/rathnew) and [Glenealy](/stations/glenealy) stations.
 
-[Rathdrum](/stations/rathdrum), the station for the *Seven Churches of Glendalough*. The next station is that of [Ovoca](/stations/avoca), mentioned in the route above. From thence we proceed to [Woodenbridge](/stations/woodenbridge-junction), the junction of a line 6½ miles long, *via* the stations of [Aughrim](/stations/aughrim) and [Tinahely](/stations/tinahely) to [Shillelagh](/stations/shillelagh). The stations of [Arklow](/stations/arklow), [Gorey](/stations/gorey), and [Ferns](/stations/ferns) are respectively passed, when we arrive at
+[Rathdrum](/stations/rathdrum), the station for the *Seven Churches of Glendalough*. The next station is that of [Ovoca](/stations/avoca), mentioned in the route above. From thence we proceed to [Woodenbridge](/stations/woodenbridge-junction).
 
-[Enniscorthy](/stations/enniscorthy), the present terminus of the railway, from whence coaches run in connection with the trains, a distance, of 13½ miles, to
+(branch: start)
+  The junction of a line 6½ miles long, *via* the stations of [Aughrim](/stations/aughrim) and [Tinahely](/stations/tinahely) to [Shillelagh](/stations/shillelagh).
+(branch: end)
+
+The stations of [Arklow](/stations/arklow), [Gorey](/stations/gorey), and [Ferns](/stations/ferns) are respectively passed, when we arrive at [Enniscorthy](/stations/enniscorthy), the present terminus of the railway, from whence coaches run in connection with the trains, a distance, of 13½ miles, to
 
 **Wexford**, a telegraph station, the capital of the county of that name, at the mouth of the river Slaney. A line of steamers sail from here to Bristol and Liverpool about once a week.

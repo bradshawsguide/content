@@ -6,7 +6,7 @@ company:
 - belfast-and-northern-counties
 ----
 route:
-- carrickfergus-junction-to-larne
+- belast-to-ballymena-and-portrush
 ----
 notes:
 - A telegraph station.

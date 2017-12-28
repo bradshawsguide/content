@@ -60,12 +60,16 @@ Still passing along the valley of the Evenlode, we pass [Ascott](/stations/ascot
 
 Three miles beyond Shipton we arrive at the junction of the
 
-### Chipping Norton Branch,
-and at a distance of four miles further, at the ancient town of
+(branch: start)
+  ### Chipping Norton Branch
+  And at a distance of four miles further, at the ancient town of
 
-(place: england/oxfordshire/chipping-norton)
+  (place: england/oxfordshire/chipping-norton)
+(branch: end)
 
-Another branch line turns off to the left from this junction to [Bourton-on-the-Water](/stations/bourton-on-the-water), a small village on the side of a Roman Foss-way, leading from Cirencester to Stow-on-the-Wold.
+(branch: start)
+  Another branch line turns off to the left from this junction to [Bourton-on-the-Water](/stations/bourton-on-the-water), a small village on the side of a Roman Foss-way, leading from Cirencester to Stow-on-the-Wold.
+(branch: end)
 
 Returning to the junction of the Main line, we pursue our journey onwards to
 
@@ -77,10 +81,12 @@ Again proceeding on our way, we soon arrive at
 
 [Blockley](/stations/blockley), [Campden](/stations/campden), and [Honeybourne](/stations/honeybourne) stations, the last of which is the junction of the branch to the classic town of Stratford.
 
-### Stratford-upon-Avon Branch
-The stations *en route* are [Long Marston](/stations/long-marston), and [Milcote](/stations/milcote).
+(branch: start)
+  ### Stratford-upon-Avon Branch
+  The stations *en route* are [Long Marston](/stations/long-marston), and [Milcote](/stations/milcote).
 
-(place: england/warwickshire/stratford-upon-avon)
+  (place: england/warwickshire/stratford-upon-avon)
+(branch: end)
 
 ### Honeybourne to Worcester and Wolverhampton
 Again on the Main Line, we next pay a visit to the small town of
@@ -117,7 +123,9 @@ Another branch, belonging to the Midland Company, here interrupts our course.
 
 (place: england/worcestershire/stourbridge)
 
-A line of 2¼ miles diverges from here to the right, *via* the station of [Lye](/stations/lye) to the village of [Cradley](/stations/cradley), in the vicinity of which some hops are grown.
+(branch: start)
+  A line of 2¼ miles diverges from here to the right, *via* the station of [Lye](/stations/lye) to the village of [Cradley](/stations/cradley), in the vicinity of which some hops are grown.
+(branch: end)
 
 [Brettel Lane](/stations/brettel-lane), [Brierley Hill](/stations/brierley-hill), [Round Oak](/stations/round-oak), and [Netherton](/stations/netherton) stations.
 

@@ -62,7 +62,9 @@ The next stations in succession are [Tisbury](/stations/tisbury), [Semley](/stat
 
 [Sutton Bingham](/stations/sutton-bingham), [Crewkerne](/stations/crewkerne), and [Chard Road](/stations/chard-road) stations, at the last of which a branch of the railway diverges to the right, three miles long, to the town of
 
-[Chard](/stations/chard), a well-built market town, trading in silks and broad cloths.
+(branch: start)
+  [Chard](/stations/chard), a well-built market town, trading in silks and broad cloths.
+(branch: end)
 
 (place: england/devonshire/axminster)
 

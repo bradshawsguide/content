@@ -148,7 +148,11 @@ The railway, after passing the station of [Llanfair](/stations/llanfair), now ru
 
 Further on the line gradually curves in a south-western direction, near which is Tre'r Dryu, or the habitation, of the Arch Druid, abounding in rude memorials of the religious rites practised by our forefathers.
 
-[Gaerwen](/stations/gaerwen).--The Anglesea central railways turns off here to the right, at present eleven miles of it only is open, and runs through the Bern Coalfield across the *Malldraeth Marsh*, via [Holland Arms Llangefni](/stations/holland-arms-llangefni) and [Llangwillog](/stations/llangwillog) to [Llanerchymedd](/stations/llanerchymedd). It is ultimately intended to run through to [Amlwch](/stations/amlwch), a seaport on the north coast of the island, a distance of 18¾ miles.
+[Gaerwen](/stations/gaerwen).
+
+(branch: start)
+  The Anglesea central railways turns off here to the right, at present eleven miles of it only is open, and runs through the Bern Coalfield across the *Malldraeth Marsh*, via [Holland Arms Llangefni](/stations/holland-arms-llangefni) and [Llangwillog](/stations/llangwillog) to [Llanerchymedd](/stations/llanerchymedd). It is ultimately intended to run through to [Amlwch](/stations/amlwch), a seaport on the north coast of the island, a distance of 18¾ miles.
+(branch: end)
 
 ### Holyhead Main Line continued
 

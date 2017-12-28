@@ -24,9 +24,10 @@ text: The line proceeds through a country equally characterised by its luxuriant
 
 The stations on this line are those of [Bason Bridge](/stations/bason-bridge), [Edington](/stations/edington) (a nice trip hence over the Panlet Ridge to Sedgemoor), [Shapwick](/stations/shapwick), [Ashcott](/stations/ashcott), stations of no particular note, and
 
-(place: england/somerset/glastonbury)
-
-(place: england/somerset/wells)
+(branch: start)
+  (place: england/somerset/glastonbury)
+  (place: england/somerset/wells)
+(branch: end)
 
 We next, pass the stations of [West Peonaed][/stations/west-pennard], [Pylle](/stations/pylle), [Eyercreech](/stations/evercreech), and [Cole](/stations/cole), and stop at
 

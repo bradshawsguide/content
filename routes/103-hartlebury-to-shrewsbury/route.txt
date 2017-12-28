@@ -18,7 +18,8 @@ stops:
 - [coalport, hadley]
 - ironbridge
 - [buildwas, much-wenlock]
-- [buildwas, [coalbrookdale, madeley, shiffnal], horsehay, lawley-bank, ketley, wellington]
+- [coalbrookdale, madeley, shiffnal]
+- [coalbrookdale, horsehay, lawley-bank, ketley, wellington]
 - cressage
 - berrington
 - shrewsbury
@@ -34,25 +35,33 @@ text: Taking a north-westerly direction, this line runs *via* [Stourport](/stati
 
 (place: england/shropshire/bridgnorth)
 
-[Linley](/stations/linley) and [Coalport](/stations/coalport) stations. The latter station is the junction of a line to [Hadley](/stations/hadley), station on the Shropshire Union line, a little to the east of Wellington.
+[Linley](/stations/linley) and [Coalport](/stations/coalport) stations.
+
+(branch: start)
+  The latter station is the junction of a line to [Hadley](/stations/hadley), station on the Shropshire Union line, a little to the east of Wellington.
+(branch: end)
 
 [Ironbridge](/stations/ironbridge) station.--Following the course of the Severn, we next come to
 
 [Buildwas](/stations/buildwas), where may be seen the almost perfect ruins of a Cistercian Abbey, on the southern bank of the river, built by Roger, Bishops of Chester, in the the twelfth century.
 
-The Much Wenlock and Severn Junction line runs in a south westerly direction, a distance of 4½ miles to
+(branch: start)
+  The Much Wenlock and Severn Junction line runs in a south westerly direction, a distance of 4½ miles to
 
-(place: england/shropshire/much-wenlock)
+  (place: england/shropshire/much-wenlock)
+(branch: end)
 
 Returning to Buildwas Junction we pass along a portion of the Wenlock Railway to
 
 (place: england/shropshire/coalbrookdale)
 
-A short line extends from this place through [Madeley](/stations/madeley) to [Shiffnal](/stations/shiffnal), a place on the Great Western line from Wolverhampton to Shrewsbury.
+(branch: start)
+  A short line extends from this place through [Madeley](/stations/madeley) to [Shiffnal](/stations/shiffnal), a place on the Great Western line from Wolverhampton to Shrewsbury.
 
-(place: england/shropshire/horsehay)
+  (place: england/shropshire/horsehay)
 
-[Lawley Bank](/stations/lawley-bank) and [Ketley](/stations/ketley) stations, [Wellington](/stations/wellington), the joint station of the Great Western and Shropshire Union railways, and terminus of the Wellington and Severn Junction.
+  [Lawley Bank](/stations/lawley-bank) and [Ketley](/stations/ketley) stations, [Wellington](/stations/wellington), the joint station of the Great Western and Shropshire Union railways, and terminus of the Wellington and Severn Junction.
+(branch: end)
 
 Once more returning to Buildwas Junction, we pass on, *via* the stations of [Cressage](/stations/cressage) and [Berrington](/stations/berrington), to the old parliamentary town of
 

@@ -23,7 +23,9 @@ text: Presuming that our traveller is intended for Epsom, we proceed by the line
 
 Proceeding thense, we come to [Sutton](/stations/sutton), 1½ mile from which is the *Oaks*, giving its name to the race, the seat of the Earl of Derby.
 
-A short line of railway runs hence by [California](/stations/california), across *Banstead Downs*, a range of hills commanding some very pretty and extensive scenery, at the foot of which is the station of [Banstead](/stations/banstead). It extends to [Epsom Downs](/stations/epsom-downs), in the immediate neighbourhood of the Race Course.
+(branch: start)
+  A short line of railway runs hence by [California](/stations/california), across *Banstead Downs*, a range of hills commanding some very pretty and extensive scenery, at the foot of which is the station of [Banstead](/stations/banstead). It extends to [Epsom Downs](/stations/epsom-downs), in the immediate neighbourhood of the Race Course.
+(branch: end)
 
 [Cheam](/stations/cheam).--This little village lies on our right, and near to it are the remains of *Nonsuch Palace*, built with great magnificence by Henry VIII., and the scene of gay revels in the days of Queen Elizabeth.
 

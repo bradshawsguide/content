@@ -21,7 +21,7 @@ stops:
 - castletown
 - [streamstown, clara]
 - moate
-- [athlone, castlebar, westport]
+- athlone
 - ballinasloe
 - athenry
 - oranmore
@@ -46,23 +46,29 @@ Passing [Kilcock](/stations/kilcock), where markets are held on Wednesday; and f
 
 This station forms the junction of the line to Longford, winch turns off to the right.
 
-### Mullingar to Cavan and Sligo
-**[Multyfarnham](/stations/multyfarnham),** beautifully situated near Lake Deraveragh, has the ruins of an abbey, with a steeple 90 feet high, built in 1236, and which contains tombs of the Nugents. Here the Observantines held a chapter in 1529, and the Roman Catholics assembled in 1641. Fairs are held on March 4th, May 13th, September 1st, December 2nd. Close at hand are the beautiful seats of *Ballinadoon*, C. P. Murphy, Esq.; *Donore*, Sir P. Nugent, Bart.,; Mornington, E. Daly, Esq.
+(branch: start)
+  ### Mullingar to Cavan and Sligo
+  **[Multyfarnham](/stations/multyfarnham),** beautifully situated near Lake Deraveragh, has the ruins of an abbey, with a steeple 90 feet high, built in 1236, and which contains tombs of the Nugents. Here the Observantines held a chapter in 1529, and the Roman Catholics assembled in 1641. Fairs are held on March 4th, May 13th, September 1st, December 2nd. Close at hand are the beautiful seats of *Ballinadoon*, C. P. Murphy, Esq.; *Donore*, Sir P. Nugent, Bart.,; Mornington, E. Daly, Esq.
 
-From hence the line continues its course to [Cavan](/stations/cavan), a place of some importance, near to Lake Oughter; and from thence to Clones in connection with the [Irish North Western](/routes/londonderry-to-enniskillen-and-dundalk).
+(branch: start)
+  From hence the line continues its course to [Cavan](/stations/cavan), a place of some importance, near to Lake Oughter; and from thence to Clones in connection with the [Irish North Western](/routes/londonderry-to-enniskillen-and-dundalk).
+(branch: end)
 
-We again proceed from Multyfamham, in the direction of [Longford](/stations/longford), and very soon enter the county of that name.
+  We again proceed from Multyfamham, in the direction of [Longford](/stations/longford), and very soon enter the county of that name.
 
-(place: ireland/county-longford/longford)
+  (place: ireland/county-longford/longford)
 
-(place: ireland/county-sligo/sligo)
+  (place: ireland/county-sligo/sligo)
+(branch: end)
 
 ### Midland Great Western Main Line continued
 Leaving Mullingar we pass the station of [Castletown](/stations/castletown), and in a few minutes arrive at [Streamstown](/stations/streamstown), the junction of a line to [Clara](/stations/clara), a station in connection with the Athlone section of the Great Southern Railway to Killarney and Cork. Proceeding onward from Mullingar we pass the little station of [Moate](/stations/moate), and soon after that of
 
 (place: ireland/county-westmeath/athlone)
 
-The Great Northern and Western railway now turns off to the right. It intersects the counties of Roscommon and Mayo to [Castlebar](/stations/castlebar) and [Westport](/stations/westport), a place of considerable importance, both as to its coasting and foreign trade.
+(branch: start)
+  The Great Northern and Western railway now turns off to the right. It intersects the counties of Roscommon and Mayo to [Castlebar](/stations/castlebar) and [Westport](/stations/westport), a place of considerable importance, both as to its coasting and foreign trade.
+(branch: end)
 
 We then reach [Ballinasloe](/stations/ballinasloe), which is on the borders of the counties of Roscommon and Galway, and noted for its cattle fairs, which are held on the 5th October, May 7th, 4th and 6th July. The castle is an old, moated fort, of Elizabeth's time, and is the seat of J. T. Maher, Esq. There are markets on Saturday for corn. We reach
 

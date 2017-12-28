@@ -29,7 +29,9 @@ At Bow the train receives and puts down passengers; and soon after starting from
 
 (place: england/middlesex/hackney)
 
-After a short stoppage the train moves on towards [Dalston](/stations/dalston), the junction of a short branch running to [Shoreditch](/stations/shoreditch) and [Broad Street](/stations/broad-street), a very great convenience for city traffic.
+(branch: start)
+  After a short stoppage the train moves on towards [Dalston](/stations/dalston), the junction of a short branch running to [Shoreditch](/stations/shoreditch) and [Broad Street](/stations/broad-street), a very great convenience for city traffic.
+(branch: end)
 
 On again leaving Dalston, we pass the station of [Newington Road](/stations/newington-road), and proceed through a cutting towards Islington, and passing under the Great North Road, and leaving the Model Prison to our right, we arrive at the [Islington and Highbury](/stations/islington-and-highbury) station, at the point where the road branches to Holloway and Highbury. Through the high level of Islington the railway is in a cutting. We quit this near the Caledonian Road, and cross the same by a bridge.
 

@@ -30,7 +30,9 @@ At a distance of 6¼ miles beyond Minety, the train stops at
 
 (place: england/gloucestershire/tetbury)
 
-(place: england/gloucestershire/cirencester)
+(branch: start)
+  (place: england/gloucestershire/cirencester)
+(branch: end)
 
 (place: england/gloucestershire/brimscomb)
 

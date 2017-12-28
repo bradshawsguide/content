@@ -44,13 +44,15 @@ Making for the banks of the Severn, we come to the pretty little village of [Abe
 
 Passing the station of [Scafell](/stations/scafell), we next come to that of [Moat Lane](/stations/moat-lane), the junction of the Machynlleth section of the Cambrian line.
 
-Leaving the station westward we soon come to the small hamlet of [Caersws](/stations/caersws), which has the remains of two Roman camps. The river Carno falls into the Severn at this point. We then leave the latter, and, taking a direction parallel with the former, come to the town of
+(branch: start)
+  Leaving the station westward we soon come to the small hamlet of [Caersws](/stations/caersws), which has the remains of two Roman camps. The river Carno falls into the Severn at this point. We then leave the latter, and, taking a direction parallel with the former, come to the town of
 
-[Carno](/stations/carno), remarkable for the bloody contentions which, in the earlier history of the principality, from time to time took place amongst its princes.
+  [Carno](/stations/carno), remarkable for the bloody contentions which, in the earlier history of the principality, from time to time took place amongst its princes.
 
-[Llanbrynmair](/stations/llanbrynmair) and [Cemmes Road](/stations/cemmes-road) are respectively passed and our arrival announced at
+  [Llanbrynmair](/stations/llanbrynmair) and [Cemmes Road](/stations/cemmes-road) are respectively passed and our arrival announced at
 
-(place: wales/montgomeryshire/machynlleth)
+  (place: wales/montgomeryshire/machynlleth)
+(branch: end)
 
 Returning again to the station at Moat Lane, we pursue our course *via* [Llandinam](/stations/llandinam) and [Dolwen](/stations/dolwen) to [Llanidloes](/stations/llanidloes).
 

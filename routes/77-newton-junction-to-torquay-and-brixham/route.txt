@@ -29,7 +29,9 @@ text: Leaving Newton, we pass the stations of [Kingskerswell](/stations/kingsker
 
 [Brixham Road](/stations/brixham-road) station.
 
-(place: england/devonshire/brixham)
+(branch: start)
+  (place: england/devonshire/brixham)
+(branch: end)
 
 [Kingswear](/stations/kingswear), from whence passengers are ferried across the river Dart to
 

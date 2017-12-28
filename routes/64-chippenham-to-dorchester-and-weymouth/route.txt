@@ -37,15 +37,19 @@ text: (place: england/wiltshire/melksham)
 
 (place: england/wiltshire/trowbridge)
 
-A short branch here turns of at
+(branch: start)
+  A short branch here turns of at
 
-(place: england/wiltshire/bradford-on-avon)
+  (place: england/wiltshire/bradford-on-avon)
 
-This line continues its course, *via* [Freshford](/stations/freshford), [Limpley Stoke](/stations/limpley-stoke), and [Bathampton](/stations/bathampton) to
+  This line continues its course, *via* [Freshford](/stations/freshford), [Limpley Stoke](/stations/limpley-stoke), and [Bathampton](/stations/bathampton) to
 
-(place: england/somerset/bath)
+  (place: england/somerset/bath)
 
-a distance of 12½ miles from Trowbridge. From Trowbridge we continue by the Valley of the Avon, with the grounds of *Rowed Ashton* and *Heywood House* on the left, and arrive at
+  a distance of 12½ miles from Trowbridge.
+(branch: end)
+
+From Trowbridge we continue by the Valley of the Avon, with the grounds of *Rowed Ashton* and *Heywood House* on the left, and arrive at
 
 (place: england/wiltshire/westbury)
 

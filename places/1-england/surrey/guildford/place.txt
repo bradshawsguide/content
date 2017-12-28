@@ -9,7 +9,7 @@ company:
 ----
 route:
 - reigate-to-reading
-- horsham-to-guildford
+- three-bridges-to-horsham-and-arundel
 - woking-to-godalming-and-portsmouth
 - guildford-to-farnham-and-alton
 ----

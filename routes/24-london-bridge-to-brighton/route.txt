@@ -20,9 +20,9 @@ stops:
 - merstham
 - red-hill-junction
 - horley
-- three-bridges
+- [three-bridges, rowfant, east-grinstead]
 - balcombe
-- haywards-heath
+- [haywards-heath, cooks-bridge, lewes, newhaven]
 - burgess-hill
 - hassocks-gate
 - brighton
@@ -92,7 +92,12 @@ This is the junction point of the
 
 (route: three-bridges-to-horsham-and-arundel)
 
-(route: three-bridges-to-east-grinstead)
+(branch: start)
+  ### East Grindstead Branch
+  This branch is 6½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of
+
+  (place: england/sussex/east-grinstead)
+(branch: end)
 
 ### Three Bridges to Hayward's Heath
 The line now passes over an embankment of considerable length, and the railway thence commences a descent. Passing through a series of cuttings, we enter the Balcombe tunnel, the second of the great tunnels along the line, soon after emerging from which we arrive at the [Balcombe](/stations/balcombe) station.
@@ -105,9 +110,20 @@ A short distance further on the line crosses the Ouse by the viaduct of that nam
 
 As we are whirled along it, the prospect presents us with an unbounded scene of beauty, the country round being steeped in the most luxuriant verdure, and hill and dale, woodland and pasture land, succeed each other in infinite variety to the very verge of the horizon.
 
-(place: england/sussex/haywards-heath)
+(place: england/sussex/haywards-heath suffix: Junction)
 
-(route: haywards-heath-to-lewes-and-newhaven)
+(branch: start)
+  ### Newhaven Branch
+  #### Hayward's Heath to Lewes and Newhaven
+
+  The line passes through an undulating, and in some places a hilly, country to
+
+  [Cook's Bridge](/stations/cooks-bridge), in the vicinity of which is *Coneyburrow Park*. We have here a full view of the lofty range of the south downs, the highest point of which, *Ditching Beacon*, a little to the right, is 858 feet above the sea.
+
+  (place: england/sussex/lewes)
+
+  (place: england/sussex/newhaven)
+(branch: end)
 
 ### Hayward's Heath to Brighton
 Retracing our way to Hayward's Heath we pass through a short tunnel, and then perceive a beautiful pastoral country, on which is dotted pretty seats of the gentry, and the farms of substantial yeomen, occasionally enlivened by a church steeple peering above its wooded covert. A short four miles and we arrive at

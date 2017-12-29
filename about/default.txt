@@ -26,14 +26,22 @@ Still, as a tome of considerable size, Bradshaw's insights into the places we pa
 
 This site has been developed by [Paul Robert Lloyd](https://paulrobertlloyd.com), a graphic designer and web developer based in Brighton, England. If you have any feedback regarding this site, you can [contact him on Twitter](https://twitter.com/paulrobertlloyd).
 
-## Colophon
-Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> by George Bradshaw, published in Great Britain in 1866. Identified as being in the public domain, content is [free of known copyright restrictions](https://creativecommons.org/publicdomain/mark/1.0/). Sourced from [original texts](https://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](https://www.hathitrust.org). Typographical errors appearing in the original have been corrected, with the exception of instances where the common spelling of a Victorian word appears to differ from the modern-day equivalent. Examples include chimnies and Shakspeare.
+### Colophon
+Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> by George Bradshaw, published in Great Britain in 1866. Identified as being in the public domain, content is [free of known copyright restrictions](https://creativecommons.org/publicdomain/mark/1.0/). Sourced from [original texts](https://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](https://www.hathitrust.org). Typographical errors appearing in the original have been corrected, with the exception of instances where the common spelling of a Victorian word appears to differ from the modern-day equivalent. Examples include *chimnies* and *Shakspeare*.
 
-* Body text set in *[Linux Libertine](http://www.linuxlibertine.org)*. Headings set in *[League Gothic](https://www.theleagueofmoveabletype.com/league-gothic)* by [The League of Moveable Type](https://www.theleagueofmoveabletype.com/). Emboldened text set in *[Kameron](https://github.com/vernnobile/kameronFont)* by Vernon Adams.
-* Photochrom images taken from the [Photochrom Print Collection](https://www.loc.gov/collections/photochrom-prints/about-this-collection), digitized by the [Library of Congress](https://www.loc.gov/) Prints and Photographs Division.
-* Built with *[Kirby](https://getkirby.com/)*, an extremely flexible and easy-to-use file-based CMS.
-* Hosted by *[WebFaction](https://www.webfaction.com/?aid=42929)*.
-* Uses *[Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise)*, a Kirby plugin by [Russ Baldwin](http://shoesforindustry.net).
+Photochrom images taken from the [Photochrom Print Collection](https://www.loc.gov/collections/photochrom-prints/about-this-collection), digitized by the [Library of Congress](https://www.loc.gov/) (Prints and Photographs Division).
 
-*[CMS]: Content Management System
+Body text set in [Scotch Text](https://www.myfonts.com/fonts/positype/scotch/) by [Neil Summerour](https://www.positype.com). Condensed headings set in [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic) from [The League of Moveable Type](https://www.theleagueofmoveabletype.com/). Display and emboldened text set in [Trocchi](https://github.com/vernnobile/TrocchiFont) by Vernon Adams.
+
+Hosted by [WebFaction](https://www.webfaction.com/?aid=42929).
+
+Published using [Kirby](https://getkirby.com/) and these supporting plugins:
+  * [Alphabetise](https://github.com/shoesforindustry/kirby-plugins-alphabetise) by [Russ Baldwin](http://shoesforindustry.net).
+  * [Geo](https://github.com/getkirby-plugins/geo-plugin) and [Patterns](https://github.com/getkirby-plugins/patterns-plugin) by [Bastian Allgeier](https://bastianallgeier.com)
+  * [CSV Handler](https://github.com/texnixe/kirby-csv-handler) by [Sonja Broda](https://www.texniq.de)
+  * [kirbytextRaw](https://github.com/jbeyerstedt/kirby-plugin-kirbytextRaw) by [Jannik Beyerstedt](https://jannikbeyerstedt.de/)
+  * [Minify HTML](https://github.com/ian-cox/Kirby-MinifyHTML) by [Ian Cox](https://iancox.com)
+  * [Sitemap](https://github.com/jpangborn/kirby-sitemap) by [Joshua Pangborn](http://jpangborn.github.io)
+  * [Kirby-Typography](https://github.com/fabianmichael/kirby-typography) by [Fabian Michael](https://fabianmichael.de)
+
 *[BBC]: British Broadcasting Corporation

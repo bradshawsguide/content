@@ -6,7 +6,7 @@ company:
 - south-eastern
 ----
 route:
-- minster-junction-to-deal
+- ashford-to-canterbury-and-ramsgate
 ----
 info:
 - term: Population

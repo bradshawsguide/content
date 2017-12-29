@@ -6,7 +6,7 @@ company:
 - london-and-south-western
 ----
 route:
-- twickenham-to-kingston
+- london-to-richmond-and-staines
 - london-to-southampton-dorchester-and-weymouth
 ----
 info:

@@ -35,7 +35,7 @@ links:
 ----
 text: The North Kent line commences at [New Cross](/stations/new-cross), from which also a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).
 
-(place: england/kent/lewisham)
+(place: england/kent/lewisham suffix: Junction)
 
 (route: lewisham-to-beckenham-and-croydon)
 

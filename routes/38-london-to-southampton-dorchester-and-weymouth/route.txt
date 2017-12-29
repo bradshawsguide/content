@@ -14,7 +14,7 @@ stops:
 - clapham
 - wimbledon
 - coombe-and-malden
-- surbiton-and-kingston
+- [surbiton-and-kingston, thames-ditton, hampton-court]
 - esher
 - walton-and-hersham
 - [weybridge, addlestone, chertsey]
@@ -43,6 +43,7 @@ stops:
 ----
 links:
 - (wikipedia: South_Western_main_line)
+- (wikipedia: Hampton_Court_branch_line)
 ----
 desc: Of the many alluring rambles held forth to the tourist who wishes to avail himself of the speedy communication by rail, with some of the most picturesque scenery in England, there is no line which intersects so many places of glorious memory as the South Western.
 ----
@@ -84,7 +85,14 @@ Emerging from the excavation, we proceed onwards over an embankment, which affor
 
 About two miles from Surbiton the line turns off to the
 
-(route: surbiton-to-hampton-court)
+(branch: start)
+  ### Hampton Court Branch
+  **Surbiton to Hampton Court**
+
+  (place: england/surrey/thames-ditton)
+
+  (place: england/middlesex/hampton-court suffix: East Moulsey)
+(branch: end)
 
 ## Surbiton to Weybridge
 

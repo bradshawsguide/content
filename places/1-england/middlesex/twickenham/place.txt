@@ -7,7 +7,6 @@ company:
 ----
 route:
 - london-to-richmond-and-staines
-- twickenham-to-kingston
 - twickenham-to-shepperton
 ----
 info:

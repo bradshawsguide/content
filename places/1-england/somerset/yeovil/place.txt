@@ -6,7 +6,7 @@ company:
 - bristol-and-exeter
 ----
 route:
-- durston-junction-to-yeovil
+- bristol-to-exeter
 ----
 info:
 - term: Hotels

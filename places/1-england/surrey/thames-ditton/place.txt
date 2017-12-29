@@ -6,7 +6,7 @@ company:
 - london-and-south-western
 ----
 route:
-- surbiton-to-hampton-court
+- london-to-southampton-dorchester-and-weymouth
 ----
 info:
 - term: Hotel

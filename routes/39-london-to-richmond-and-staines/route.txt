@@ -15,13 +15,16 @@ stops:
 - barnes
 - mortlake
 - richmond
-- twickenham
+- [twickenham, teddington, hampton-wick, kingston]
+- [twickenham, fulwell, hampton, sunbury, shepperton]
 - feltham
 - ashford-middlesex
 - staines
 ----
 links:
 - (wikipedia: Waterloo–Reading_line)
+- (wikipedia: Kingston_loop_line)
+- (wikipedia: Shepperton_branch_line)
 ----
 text: ## Wandsworth to Barnes
 The Richmond line properly branches off about the point where the road to the village of Battersea leaves the Wandsworth road, and at a short distance from Battersea. It then pursues a pretty course through the villas, orchards, and nursery gardens which stud that locality, till it reaches Wandsworth. The river Wandle and the valley are crossed by a splendid viaduct.
@@ -53,11 +56,15 @@ The line crosses the Thames over the railway bridge at Richmond--a very handsome
 
 (place: england/surrey/twickenham)
 
-A line of railway here turns off to the left.
+(branch: start)
+  A line of railway here turns off to the left, and running through the village of [Teddington](/stations/teddington), passes along the side of the Thames on the one hand and *Bushey Park* on the other to [Hampton Wick](/stations/hampton-wick), and
 
-(route: twickenham-to-kingston)
+  (place: england/surrey/kingston)
+(branch: end)
 
-(route: twickenham-to-shepperton)
+(branch: start)
+  The Thames Valley railway from Twickenham cuts off a small part of the county of Middlesex in passing the station of [Fulwell](/stations/fulwell) to [Hampton](/stations/hampton), on the north bank of the Thames, a little to the right of which is *Kenton Park*, once the seat of royalty, now the residence of T. Manners, Esq. Skirting the river to our left, we pass the station of [Sunbury](/stations/sunbury), and thence to [Shepperton](/stations/shepperton), on the Thames, where good fishing may be obtained.
+(branch: end)
 
 [Feltham](/stations/feltham) and [Ashford](/stations/ashford).
 

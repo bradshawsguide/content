@@ -6,7 +6,7 @@ company:
 - south-devon
 ----
 route:
-- newton-junction-to-torquay-and-brixham
+- exeter-to-torquay-and-plymouth
 ----
 info:
 - term: Hotels

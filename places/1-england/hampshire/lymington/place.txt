@@ -6,7 +6,7 @@ company:
 - london-and-south-western
 ----
 route:
-- brockenhurst-to-lymington
+- london-to-southampton-dorchester-and-weymouth
 ----
 notes:
 - A telegraph station.

@@ -15,7 +15,7 @@ stops:
 - star-cross
 - dawlish
 - teignmouth
-- newton-junction
+- [newton-junction, kingskerswell, torre, torquay, paignton, [brixham-road, brixham], kingswear, dartmouth]
 - totness
 - brent
 - kingsbridge-road
@@ -26,6 +26,7 @@ stops:
 ----
 links:
 - (wikipedia: South_Devon_Railway_Company)
+- (wikipedia: Dartmouth_and_Torbay_Railway)
 ----
 text: This part of the line is invested with additional interest, from the magnificent scenery which opens on each side as we proceed. There is scarcely a mile traversed which does not unfold some peculiar picturesque charm or new feature of its own to make the eye "dazzled and drunk with beauty."
 
@@ -37,9 +38,27 @@ On leaving Exeter we pass in rapid succession the stations of [St. Thomas](/stat
 
 (place: england/devonshire/teignmouth)
 
-(place: england/devonshire/newton-abbots)
+(place: england/devonshire/newton-abbots suffix: Junction)
 
-(route: newton-junction-to-torquay-and-brixham)
+(branch: start)
+  ### Torquay and Dartmouth Branch
+
+  Leaving Newton, we pass the stations of [Kingskerswell](/stations/kingskerswell) and [Torre](/stations/torre), and arrive at
+
+  (place: england/devonshire/torquay)
+
+  [Paignton Station](/stations/paignton).--The situation of this place is really beautiful, commanding a central aspect of Torbay. Its picturesque church and the sands rounding from it to the fine woods of Tor Abbey, and the town and pier below it, form a pleasing *coup d'œil*.
+
+  [Brixham Road](/stations/brixham-road) station.
+
+(branch: start)
+  (place: england/devonshire/brixham)
+(branch: end)
+
+  [Kingswear](/stations/kingswear), from whence passengers are ferried across the river Dart to
+
+  (place: england/devonshire/dartmouth)
+(branch: end)
 
 (place: england/devonshire/totness)
 

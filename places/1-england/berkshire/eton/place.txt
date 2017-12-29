@@ -6,7 +6,7 @@ company:
 - great-western
 ----
 route:
-- slough-to-windsor
+- london-to-reading-bath-and-bristol
 ----
 info:
 - term: Population

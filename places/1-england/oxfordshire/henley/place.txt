@@ -6,7 +6,7 @@ company:
 - great-western
 ----
 route:
-- twyford-to-henley
+- london-to-reading-bath-and-bristol
 ----
 info:
 - term: Population

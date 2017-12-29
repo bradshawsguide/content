@@ -31,7 +31,7 @@ stops:
 - redbridge
 - totton
 - lyndhurst-road
-- brockenhurst
+- [brockenhurst, lymington]
 - [ringwood, herne, christchurch]
 - [wimborne, sturminster, spettisbury, blandford]
 - [poole-junction, poole]
@@ -44,6 +44,7 @@ stops:
 links:
 - (wikipedia: South_Western_main_line)
 - (wikipedia: Hampton_Court_branch_line)
+- (wikipedia: Lymington_branch_line)
 ----
 desc: Of the many alluring rambles held forth to the tourist who wishes to avail himself of the speedy communication by rail, with some of the most picturesque scenery in England, there is no line which intersects so many places of glorious memory as the South Western.
 ----
@@ -109,7 +110,7 @@ Emerging from the Walton cutting we gain a somewhat lofty embankment, affording 
 A little distance beyond Weybridge station a short line branches off to Addlestone and Chertsey.
 
 (branch: start)
-## Chertsey Branch
+  ### Chertsey Branch
   [Addlestone](/stations/addlestone) station.
 
   (place: england/surrey/chertsey)
@@ -180,7 +181,14 @@ This line of railway passes through a country of picturesque character and antiq
 
 (place: england/hampshire/brockenhurst)
 
-(route: brockenhurst-to-lymington)
+(branch: start)
+  ### Lymington Branch
+  Turning to the left from [Brockenhurst](/stations/brockenhurst), a run of about twenty minutes brings us to the parliamentary borough of
+
+  (place: england/hampshire/lymington)
+(branch: end)
+
+## South Western Main Line continued
 
 (place: england/hampshire/ringwood)
 

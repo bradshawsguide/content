@@ -13,7 +13,7 @@ stops:
 - oakley
 - overton
 - whitchurch
-- andover
+- [andover, clatford, fullerton-bridge, stockbridge, horsebridge, mottisfont, romsey, redbridge]
 - grateley
 - porton
 - salisbury
@@ -39,12 +39,15 @@ stops:
 ----
 links:
 - (wikipedia: West_of_England_line)
+- (wikipedia: Sprat_and_Winkle_Line)
 ----
 text: After leaving Basingstoke the line proceeds through a chalky range, from which various parks may be seen extending on every side--blended with scattered villages Passing the stations of [Oakley](/stations/oakley), [Overton](/stations/overton), and [Whitchurch](/stations/whitchurch), we arrive at the important station of
 
 (place: england/hampshire/andover)
 
-A deviation of the [Andover and Redbridge](/routes/andover-to-redbridge), a line 22½ miles long, takes place here.
+(branch: start)
+  A deviation of the [Andover and Redbridge](/routes/andover-to-redbridge), a line 22½ miles long, takes place here. It passes the stations of [Clatford](/stations/clatford), [Fullerton Bridge](/stations/fullerton-bridge), [Stockbridge](/stations/stockbridge), [Horsebridge](/stations/horsebridge), [Mottisfont](/stations/mottisfont), and [Romsey](/stations/romsey) to [Redbridge](/stations/redbridge), a station between Southampton and Dorchester.
+(branch: end)
 
 [Grateley](/stations/grateley) and [Porton](/stations/porton) stations are next passed, and in a few minutes the train arrives at
 

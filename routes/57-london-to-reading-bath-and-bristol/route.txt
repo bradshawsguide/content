@@ -15,9 +15,9 @@ stops:
 - [southall, brentford]
 - [west-drayton, uxbridge]
 - langley
-- slough
+- [slough, windsor-gwr]
 - maidenhead
-- twyford
+- [twyford, shiplake, henley]
 - reading
 - pangbourne
 - goring
@@ -41,6 +41,8 @@ stops:
 ----
 links:
 - (wikipedia: Great_Western_main_line)
+- (wikipedia: Slough–Windsor_&_Eton_line)
+- (wikipedia: Henley_branch_line)
 ----
 desc: This route at first lies through the Thames Valley, then, after passing the elevated plains to the north of Marborough Downs, gradually descends down into the fertile and picturesque valley of the Avon.
 ----
@@ -88,9 +90,16 @@ A few minutes more brings us to
 
 (place: england/buckinghamshire/slough)
 
-Slough is now chiefly noticeable as the station or medium of communication, by the branch railway, to Eton and Windsor. It is two and a half miles in length, and passes Eton College, near the Thames.
+(branch: start)
+  ### Windsor Branch
+  **Slough to Windsor**
 
-(route: slough-to-windsor)
+  (place: england/berkshire/eton)
+
+  Passing over a neat bridge, which connects Eton with Windsor, the visitor will enter the town, associated with historical and literary reminiscences of the highest interest.
+
+  The scenery around [Windsor](/places/england/berkshire/windsor) is remarkable for its sylvan beauty; and the weary citizen, who desires to enjoy a summer holiday, cannot do better than procure an admission ticket to Windsor Castle from the printsellers, Messrs. Comaghi, of Pall Mall, and then make his way to the Great Western Railway, in time for an early train. Within the next three hours he may see all the regal splendours of the palatial halls of Windsor; and then, having refreshed the inward man at any of the "hostelries" which abound in that town, he may stroll forth into the country, and contrast the quiet and enduring charms of nature with the more glittering productions of art, with which wealth and power surround themselves. He may walk in the shades of the forest, sung by Pope; he may saunter over Datchet Mead, immortalised by Shakspeare, in his story of Jack Falstaff and the buck-basket; or he may prolong his stroll to the quiet village of Horton, where Milton lived, and sang its rural charms in the immortal rhymes of "L'Allegro" and "Il Penseroso."
+(branch: end)
 
 ## Slough to Maidenhead
 Between the lofty and luxuriant foliage of Stoke Park, about two miles to the right of Slough, may be descried, modestly peering through the surrounding trees, the spire of Stoke Pogis Church, the scene of Gray's "Elegy." The following inscription to his memory is on the east wall of the church:--"Opposite to this stone, in the same tomb upon which he has so feelingly recorded his grief at the loss of a beloved parent, lie deposited the remains of Thomas Gray, the author of the 'Elegy written in a Country Churchyard,' &c, &c, &c. He was buried August 6th, 1771." The church itself has no internal beauty, being over-crowded with pews; but the churchyard is one of the prettiest in England. The cloister is worth a visit. As the train proceeds, the broad and verdant fields spread out on each side of us in all the pride of luxuriant vegetation.
@@ -104,11 +113,16 @@ Burnham Village is close by, situate in the midst of picturesque woodland scener
 ## Maidenhead to Reading
 Upon leaving Maidenhead the railway soon spans, by a bridge, of ten arches, the river Thames which here glides through a flat, but most charming country. Having crossed the Windsor road, and diverged gradually to the southward we suddenly dip into an excavation of considerable depth; the characteristic chalky sides of which are replete with geological interest. This cutting, which continues for upwards of five miles, completely shuts out the surrounding country; but coming suddenly upon the Ruscombe embankment, we are amply repaid by a magnificent expanse of landscape. Hill and dale, dotted with elegant villas and noble mansions, woodland and water scenery, together with wide far-stretching meadow and corn-land, follow each other in varied succession to the very verge of the horizon. We have scarcely had time, however, to feast our vision with this delightful prospect, before we are again buried in a cutting, though of shorter duration, and through this we reach the station at
 
-(place: england/berkshire/twyford)
+(place: england/berkshire/twyford suffix: Junction)
 
 A short line hence branches off to Henley-upon-Thames, passing by *Wargrave*.
 
-(route: twyford-to-henley)
+(branch: start)
+  ### Henley Branch
+  [Shiplake](/stations/shiplake).
+
+  (place: england/oxfordshire/henley)
+(branch: end)
 
 Within a few minutes after quitting the station, we emerge from the excavation, and cross, on an embankment, the river Loddon. From this we enter into another cutting of great depth conducting us to an embankment which affords a pleasing view of the county bordering on the woody lands of Oxfordshire. Crossing, on a level embankment, the river Kennet, we soon after reach the station at
 

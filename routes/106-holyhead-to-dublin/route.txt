@@ -2,8 +2,6 @@ section: 2
 ----
 title: Holyhead to Dublin
 ----
-subtitle: Dublin and Kingstown Railway
-----
 company: dublin-and-kingstown
 ----
 stops:

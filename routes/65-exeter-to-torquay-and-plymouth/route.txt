@@ -4,8 +4,6 @@ title: Exeter to Torquay and Plymouth
 ----
 title_short: Exeter to Plymouth
 ----
-subtitle: South Devon Railway
-----
 company: south-devon
 ----
 stops:

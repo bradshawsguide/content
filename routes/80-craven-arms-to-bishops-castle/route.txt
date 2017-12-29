@@ -2,8 +2,6 @@ section: 2
 ----
 title: Leominster to Kington
 ----
-subtitle: Bishops Castle Railway
-----
 company: bishops-castle
 ----
 stops:

@@ -1,6 +1,6 @@
 section: 1
 ----
-title: Red Hill Junction
+title: Red Hill
 ----
 company:
 - south-eastern

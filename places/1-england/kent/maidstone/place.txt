@@ -6,8 +6,8 @@ company:
 - south-eastern
 ----
 route:
-- paddock-wood-to-maidstone
-- strood-to-maidstone
+- charing-cross-to-woolwich-gravesend-strood-and-rochester
+- charing-cross-to-folkestone-and-dover
 ----
 info:
 - term: Population

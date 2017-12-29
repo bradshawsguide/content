@@ -3,9 +3,11 @@ section: 1
 title: Ramsgate
 ----
 company:
+- london-chatham-and-dover
 - south-eastern
 ----
 route:
+- london-to-chatham-and-dover
 - ashford-to-canterbury-and-ramsgate
 ----
 info:

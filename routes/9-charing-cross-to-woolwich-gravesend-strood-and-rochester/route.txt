@@ -9,8 +9,6 @@ subtitle: North Kent Line
 company: south-eastern
 ----
 stops:
-- charing-cross
-- london-bridge
 - [new-cross, chislehurst]
 - lewisham
 - blackheath
@@ -26,12 +24,13 @@ stops:
 - northfleet
 - gravesend
 - higham-kent
-- strood
+- [strood, cuxton, snodland, aylesford, maidstone]
 - rochester
 - chatham
 ----
 links:
 - (wikipedia: North_Kent_Line)
+- (wikipedia: Medway_Valley_line)
 ----
 text: The North Kent line commences at [New Cross](/stations/new-cross), from which also a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).
 
@@ -78,6 +77,25 @@ The first station from Gravesend is
 From Higham we pass through a tunnel, 1¼ mile long, under Higham Down, a chalky ridge. Emerging from which we arrive at
 
 (place: england/kent/strood)
+
+(branch: start)
+  ### Maidstone Branch
+  **Strood to Maidstone**
+
+  On leaving Strood, the line, skirting the banks of the swift Medway, soon brings us to
+
+  (place: england/kent/cuxton)
+
+  Proceeding through a magnificent hop country we arrive at
+
+  (place: england/kent/snodland)
+
+  Soon after leaving Snodland the train crosses the Medway, and we arrive at
+
+  (place: england/kent/aylesford)
+
+  (place: england/kent/maidstone)
+(branch: end)
 
 A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with
 

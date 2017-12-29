@@ -32,9 +32,9 @@ stops:
 - new-brompton
 - rainham-kent
 - newington
-- sittingbourne
+- [sittingbourne, queenborough, sheerness]
 - teynham
-- faversham
+- [faversham, whitstable, herne-bay, birchington, margate-west, broadstairs, ramsgate-harbour]
 - selling
 - canterbury-east
 - bekesbourne
@@ -45,6 +45,8 @@ stops:
 ----
 links:
 - (wikipedia: Chatham_main_line)
+- (wikipedia: Sheerness_line)
+- (wikipedia: Kent_Coast_line)
 ----
 text: This company has now two termini in London; both conveniently situated to accommodate pleasure and business traffic. The West End terminus is a portion of the extensive Victoria station, Pimlico, whilst the City station is at Farringdon Street, where it unites with the Metropolitan or under-ground railway to King's Cross and Paddington. This section of the line, under the name of [the Metropolitan Extension](/routes/farringdon-street-to-herne-hill), joins with that of the Western at Herne Hill, and has become very much crowded with local traffic.
 
@@ -76,8 +78,12 @@ One of the villages on the Old Roman road, Watling Street, passing which, and th
 
 (place: england/kent/sittingbourne)
 
-(route: sittingbourne-to-sheerness)
+(branch: start)
+  ### Sittingbourne & Sheerness
+  A branch 7 miles long, running direct across the western extremity of the Isle of Sheppy, passing through [Queenborough](/stations/queenborough), to Sheerness (described [here](/routes/london-bridge-to-herne-bay#sheerness) and at [Chatham](/stations/chatham#sheerness)).
+(branch: end)
 
+## Chatham and Dover continued
 Continuing the route we pass the station of
 
 (place: england/kent/teynham)
@@ -88,7 +94,37 @@ and arrive at
 
 (route: faversham-to-ramsgate-harbour)
 
-On retaking our seats at Faversham, a few minutes brings us to the station of [Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of [Canterbury](/stations/canterbury-east).
+(branch: start)
+  ### Kent Coast
+  **Faversham to Ramsgate**
+
+  This branch turns off to the left at [Faversham](/stations/faversham), taking a direction coastwise by the Whitstable Flats to [Whitstable](/stations/whitstable). A distance of 3¾ miles further brings us to
+
+  (place: england/kent/herne-bay)
+
+  Leaving the Herne Bay temporary station we immediately pass the handsome red brick permanent station, which will be opened in June, 1864, and through deep earth cuttings and over marshy down; we pass the celebrated Reculver ruins on our left hand and reach
+
+  (place: england/kent/birchington)
+
+  About three miles further is the station at
+
+  **[Margate](england/kent/margate)**.--At the back of the Bathing Infirmary and close to the sea; there is a second Margate station for the convenience of the local traffic between here and Ramsgate, whence the trains run off the main line on a short branch to the right, and enter a station facing the sea and directly parallel with the South Eastern Station.
+
+  Proceeding across fields, through cuttings, and oil embankments, we next come to
+
+  (place: england/kent/broadstairs)
+
+  Immediately on leaving Broadstairs the traveller enters upon the chalk cliff line of the coast, and on emerging from the tunnel has the sudden and agreeable surprise of finding himself in a familiar place, amongst the bathing machines of Ramsgate sands. The station is directly under the cliff and close to Augusta stairs, a position which literally leaves the visitor where he wishes to be, at
+
+  **[Ramsgate](england/kent/ramsgate)**, and the sea side, without the need of walking another step. A short continuation of the line will ultimately have a terminus on the Pier.
+(branch: end)
+
+## Chatham and Dover Main Line continued
+On retaking our seats at Faversham, a few minutes brings us to the station of
+
+[Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of
+
+[Canterbury](/stations/canterbury-east).
 
 A distance of 15 miles brings us through the little villages of [Bekesbourne](/stations/bekesbourne), [Adisham](/stations/adisham) (the station for Wingham), [Shepherd's Well](/stations/shepherds-well), and [Ewell](/stations/temple-ewell) to
 

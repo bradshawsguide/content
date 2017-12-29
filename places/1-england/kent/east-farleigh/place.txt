@@ -6,7 +6,7 @@ company:
 - south-eastern
 ----
 route:
-- paddock-wood-to-maidstone
+- charing-cross-to-folkestone-and-dover
 ----
 info:
 - term: Money Order Office

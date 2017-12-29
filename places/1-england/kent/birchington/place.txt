@@ -6,7 +6,7 @@ company:
 - london-chatham-and-dover
 ----
 route:
-- faversham-to-ramsgate-harbour
+- london-to-chatham-and-dover
 ----
 notes:
 - A telegraph station.

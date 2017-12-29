@@ -21,7 +21,9 @@ stops:
 links:
 - (wikipedia: London_and_Greenwich_Railway)
 ----
-text: (place: england/middlesex/charing-cross)
+text: To commence our description of the Kent railways we shall take the shortest and most northern.
+
+(place: england/middlesex/charing-cross)
 
 Notwithstanding the competition of river steamers and omnibuses there are as many as 60 trains daily by this railway to and from Greenwich. The line runs over viaducts the whole distance, and passengers are generally on a level with the attics of the houses surrounding them. Passing over the new Hungerford bridge, which hardly vibrates more than does the solid ground, we reach, by a sharp curve, the
 

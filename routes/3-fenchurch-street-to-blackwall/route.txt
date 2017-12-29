@@ -23,6 +23,7 @@ We next descend into a deep cutting, and, passing under the Bow Road, arrive at 
 
 (route: fenchurch-street-to-chalk-farm)
 
-The stations of [Limehouse](/stations/limehouse), [West India Docks](/stations/west-india-docks), and [Poplar](/stations/poplar), are respectively passed, and the train stops at
+## London and Blackwall continued
+Having returned to Stepney the stations of [Limehouse](/stations/limehouse), [West India Docks](/stations/west-india-docks), and [Poplar](/stations/poplar), are respectively passed, and the train stops at
 
 (place: england/middlesex/blackwall)

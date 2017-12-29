@@ -23,7 +23,7 @@ stops:
 - edenbridge
 - penshurst
 - tunbridge
-- paddock-wood-junction
+- [paddock-wood-junction, yalding, wateringbury, east-farleigh, maidstone]
 - marden
 - staplehurst
 - headcorn
@@ -37,6 +37,7 @@ stops:
 ----
 links:
 - (wikipedia: South_Eastern_main_line)
+- (wikipedia: Medway_Valley_line)
 ----
 text: This has been called the "Pleasure Line;" and certainly the beauty and extent, of the country traversed by its trains justly entitle it to that distinguishing appellation. It is not only one of the chief mediums of daily communication between England and the Continent, but its iron roads and branches intersect the beautiful county of Kent in all directions, affording the inhabitants of the great metropolis faculties of visiting the numerous watering places on its coast, and enabling them to become acquainted with its picturesque scenery, cities, and baronial halls, and he astonishing fertility of its soil.
 
@@ -89,7 +90,24 @@ On leaving Tunbridge, the line passes through the beautiful park of *Summerhill*
 
 (place: england/kent/paddock-wood-junction)
 
-(route: paddock-wood-to-maidstone)
+(branch: start)
+  ### Maidstone Branch
+  **Paddock Wood to Maidstone**
+
+  The branch to Maidstone from Paddock Wood follows the course of the Medway throughout, and enables the traveller to snatch some rapid glimpses of a woody country, presenting the true characteristics of a Kentish landscape. On each side of us we find the land studded with substantial homesteads and wealthy looking farms, rising in the midst of corn fields or orchards, or surrounded by the British vineyards, the Kentish hop-grounds.
+
+  (place: england/kent/yalding)
+
+  (place: england/kent/wateringbury)
+
+  A mile beyond, above the line, is the neat village of Teston, the scenery around which, with the bridge across the Medway, is quite picturesque. *Barham Court*, the mansion and park of the Earl of Gainsborough, is in the vicinity. There are several unusually pretty villages and villas on the right side of the river and railway. East and West Farleigh, on the banks of the Medway, though consisting only of scattered houses, are exceedingly pleasing. The church in the latter place is a very ancient one covered with ivy, and, with the hop-grounds and orchards, has quite a sylvan appearance.
+
+  (place: england/kent/east-farleigh)
+
+  Two miles beyond this the train enters the present terminus of this line at Maidstone. It is a very neat and commodious structure, within a few minutes' walk of the High-street.
+
+  (place: england/kent/maidstone)
+(branch: end)
 
 ## Paddock Wood to Ashford
 From Paddock the main line proceeds rapidly in the direction of the coast, and although the country presents very charming alternations of waste and woodland scenery, yet it does not offer objects of sufficient interest to describe in detail. Views of hop fields are shut in by excavations which, like the change of slides in dissolving views, transform, the landscape every moment.

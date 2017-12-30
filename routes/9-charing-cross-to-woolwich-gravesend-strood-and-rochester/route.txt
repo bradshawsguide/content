@@ -78,8 +78,7 @@ From Higham we pass through a tunnel, 1¼ mile long, under Higham Down, a chalky
 
 (place: england/kent/strood)
 
-(branch: start)
-  ### Maidstone Branch
+(branch: start title: Maidstone Branch)
   **Strood to Maidstone**
 
   On leaving Strood, the line, skirting the banks of the swift Medway, soon brings us to

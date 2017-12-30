@@ -91,8 +91,7 @@ On leaving Tunbridge, the line passes through the beautiful park of *Summerhill*
 
 (place: england/kent/paddock-wood-junction)
 
-(branch: start)
-  ### Maidstone Branch
+(branch: start title: Maidstone Branch)
   **Paddock Wood to Maidstone**
 
   The branch to Maidstone from Paddock Wood follows the course of the Medway throughout, and enables the traveller to snatch some rapid glimpses of a woody country, presenting the true characteristics of a Kentish landscape. On each side of us we find the land studded with substantial homesteads and wealthy looking farms, rising in the midst of corn fields or orchards, or surrounded by the British vineyards, the Kentish hop-grounds.
@@ -129,8 +128,7 @@ From Headcorn the railway passes the villages of Smarden and Bedenham on the rig
 
 (route: ashford-to-canterbury-and-ramsgate)
 
-(branch: start)
-  ### Hastings Branch
+(branch: start title: Hastings Branch)
   **Ashford to Hastings**
   We now bear to the south, through a well-wooded country, arriving at [Ham Street](/stations/ham-street) station, soon after leaving which we cross the Military Canal, which was cut during the French war, at the close of the last century. Its breadth is about 30 yards, 6 feet deep, and extends 23 miles. We now skirt the Romney Marshes, a most valuable tract of land, pass the station at [Appledore](/stations/appledore-kent), and arrive at
 

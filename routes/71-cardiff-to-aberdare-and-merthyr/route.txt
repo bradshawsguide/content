@@ -24,7 +24,7 @@ text:
 (place: wales/glamorganshire/llandaff)
 
 (branch: start)
-Leaving Llandaff we very soon arrive at [Walnut Tree](/stations/walnut-tree-junction), the junction of a line *via* [Llantrissant](/stations/llantrissant) and [Ystrad Owen](/stations/ystrad-owen) to the market town of
+  Leaving Llandaff we very soon arrive at [Walnut Tree](/stations/walnut-tree-junction), the junction of a line *via* [Llantrissant](/stations/llantrissant) and [Ystrad Owen](/stations/ystrad-owen) to the market town of
 
   [Cowbridge](/stations/cowbridge), with its ancient and well-endowed Grammar School. Five miles beyond is situated *Fouman Castle*, the seat of Oliver Jones, Esq.: it belonged to the St. John's, of Bletsoe, and Colonel Jones, the regicide, and contains a beautiful portrait of Cromwell.
 (branch: end)
@@ -39,9 +39,7 @@ Leaving Llandaff we very soon arrive at [Walnut Tree](/stations/walnut-tree-junc
 
 [Aberdare](/stations/aberdare-junction) junction.
 
-(branch: start)
-  ## Aberdare branch
-
+(branch: start title: Aberdare branch)
   [Mountain Ash](/stations/mountain-ash) and [Treaman](/stations/treaman) stations.
 
   (place: wales/glamorganshire/aberdare)

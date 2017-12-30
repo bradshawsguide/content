@@ -78,8 +78,7 @@ One of the villages on the Old Roman road, Watling Street, passing which, and th
 
 (place: england/kent/sittingbourne)
 
-(branch: start)
-  ### Sittingbourne & Sheerness
+(branch: start title: Sittingbourne & Sheerness)
   A branch 7 miles long, running direct across the western extremity of the Isle of Sheppy, passing through [Queenborough](/stations/queenborough), to Sheerness (described [here](/routes/london-bridge-to-herne-bay#sheerness) and at [Chatham](/stations/chatham#sheerness)).
 (branch: end)
 
@@ -94,8 +93,7 @@ and arrive at
 
 (route: faversham-to-ramsgate-harbour)
 
-(branch: start)
-  ### Kent Coast
+(branch: start title: Kent Coast)
   **Faversham to Ramsgate**
 
   This branch turns off to the left at [Faversham](/stations/faversham), taking a direction coastwise by the Whitstable Flats to [Whitstable](/stations/whitstable). A distance of 3¾ miles further brings us to

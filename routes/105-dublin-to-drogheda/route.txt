@@ -27,8 +27,7 @@ text: This line of railway passes along the eastern shores of the northern part 
 
 [Junction](/stations/howth-junction), one mile. Here the
 
-(branch: start)
-  ## Howth Branch
+(branch: start title: Howth Branch)
   Three-and-a-half miles long, runs out from the main line. Two miles beyond the Junction brings us to
 
   [Baldoyle and Sutton](/stations/baldoyle-and-sutton) stations, situated on the narrow isthmus that connects the famed Hill of Howth with the mainland. To the north lies the picturesque fishing village, of *Baldoyle*, and to the south the Sutton side of the Hill of Howth. Few places can compare with Sutton for beauty of scenery and the mildness and salubrity of its atmosphere. It commands a fine situation on the northern banks of the Bay of Dublin, at the foot of the Hill of Howth, which here protects it from the easterly winds, thereby affording great attractions to the invalid and lovers of sea-side resort. One-and-a-half mile further brings us to

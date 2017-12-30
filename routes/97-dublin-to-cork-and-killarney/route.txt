@@ -36,8 +36,7 @@ The next station arrived at is Kildare, the junction of the lines to Carlow and 
 
 (place: ireland/county-kildare/kildare)
 
-(branch: start)
-  ## Kildare to Carlow, Kilkenny, & Waterford
+(branch: start title: Kildare to Carlow, Kilkenny, & Waterford)
   Passing [Athy](/stations/athy), on the Barrow, where there is an old castle, built by Lord Kildare in 1506, and has Markets on Tuesday and Saturday, and Fairs March 17th, April 25th, June 9th, July 10th, October 11th, and Dec., we then proceed to [Mageney](/stations/mageney), and enter [Carlow](/places/ireland/county-carlow).
 
   (place: ireland/county-carlow/carlow)
@@ -66,8 +65,7 @@ We now return to Kildare, the point of deviation to Carlow, &c, and soon reach *
 
 (place: ireland/kings-county/portarlington)
 
-(branch: start)
-  ## Athlone Branch
+(branch: start title: Athlone Branch)
   [Geashill](/stations/geashill).--Here is O'Dempsey's Castle; Fairs are held on May 1st, October 6th, and December 26th.
 
   (place: ireland/kings-county/tullamore)

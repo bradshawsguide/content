@@ -26,8 +26,7 @@ stops:
 ----
 text: From Belfast we pass the stations of [Greencastle](/stations/greencastle), [Whitehouse](/stations/whitehouse), [Whiteabbey](/stations/whiteabbey), and [Jordanstown](/stations/jordanstown), and arrive at the Junction of the
 
-(branch: start)
-  ## Carrickfergus Branch
+(branch: start title: Carrickfergus Branch)
   In the course, of five or six minutes after passing the station at [Trooper's Lane](/stations/troopers-lane), the arrival of the train is announced at
 
   (place: ireland/county-antrim/carrickfergus)

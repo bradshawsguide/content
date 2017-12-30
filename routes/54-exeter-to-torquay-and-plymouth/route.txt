@@ -38,9 +38,7 @@ On leaving Exeter we pass in rapid succession the stations of [St. Thomas](/stat
 
 (place: england/devonshire/newton-abbots suffix: Junction)
 
-(branch: start)
-  ### Torquay and Dartmouth Branch
-
+(branch: start title: Torquay and Dartmouth Branch)
   Leaving Newton, we pass the stations of [Kingskerswell](/stations/kingskerswell) and [Torre](/stations/torre), and arrive at
 
   (place: england/devonshire/torquay)

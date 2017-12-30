@@ -67,8 +67,7 @@ The train passes through a lovely and picturesque country.
 
 The line now passes through a fine open country, and shortly reaches the junction of the Epsom Branch of the Croydon Railway.
 
-(branch: start)
-  ### Epsom branch
+(branch: start title: Epsom branch)
   **Croydon to Epsom**
   Presuming that our traveller is intended for Epsom, we proceed by the line of rails past [Croydon](/stations/east-croydon) town station, and pass by the pretty little village of *Beddington*, and the time-honoured seat of the Carews, thence to the station at
 
@@ -89,8 +88,7 @@ The line now passes through a fine open country, and shortly reaches the junctio
 
 Returning to Croydon we will now pass over the
 
-(branch: start)
-  ### Croydon and Wimbledon Branch
+(branch: start title: Croydon and Wimbledon Branch)
   **Croydon to Wimbledon**
   The first stations being [Beddington](/stations/beddington-lane) and [Mitcham](/stations/mitcham), both on the river Wandle. The church of the latter is worth a visit. We then approach the station of [Morden](/stations/morden), near which is *Merton*, possessing much historical interest. Here are the remains of a rich abbey founded for St. Augustine Canons; and here Ethelred I. was defeated by the Danes, 871, and received his death wound. Here were enacted "the provisions of Merton," in the reign of Henry III.; and here the glorious Nelson lived. The church is partly of Norman, and partly of the early English styles. *Morden Park*, ½ mile.
 
@@ -125,16 +123,14 @@ Four miles beyond, the railway passes over the boundary line into the county of 
 
 This is the junction point of the
 
-(branch: start)
-  ### East Grindstead Branch
+(branch: start title: East Grindstead Branch)
   **Three Bridges to East Grinstead**
   This branch is 6½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of
 
   (place: england/sussex/east-grinstead)
 (branch: end)
 
-(branch: start)
-  ### Horsham Branch
+(branch: start title: Horsham Branch)
   **Three Bridges to Horsham, Petworth, and Arundel**
   This branch is 8½ miles in length. The line proceeds from [Three Bridges](/stations/crawley) in a west-south-west direction to the station at
 
@@ -190,8 +186,7 @@ As we are whirled along it, the prospect presents us with an unbounded scene of 
 
 (place: england/sussex/haywards-heath suffix: Junction)
 
-(branch: start)
-  ### Newhaven Branch
+(branch: start title: Newhaven Branch)
   **Hayward's Heath to Lewes and Newhaven**
 
   The line passes through an undulating, and in some places a hilly, country to
@@ -202,8 +197,7 @@ As we are whirled along it, the prospect presents us with an unbounded scene of 
 
   (route: lewes-to-hailsham-eastbourne-and-hastings)
 
-(branch: start)
-  ### Uckfield Branch
+(branch: start title: Uckfield Branch)
   **Lewes to Uckfield**
   From [Lewes](/stations/lewes) this line, 7 miles long, passes through the villages of [Barcombe](/stations/barcombe) and [Isfield](/stations/isfield) to
 

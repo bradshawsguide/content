@@ -60,8 +60,7 @@ Still passing along the valley of the Evenlode, we pass [Ascott](/stations/ascot
 
 Three miles beyond Shipton we arrive at the junction of the
 
-(branch: start)
-  ## Chipping Norton Branch
+(branch: start title: Chipping Norton Branch)
   And at a distance of four miles further, at the ancient town of
 
   (place: england/oxfordshire/chipping-norton)
@@ -81,8 +80,7 @@ Again proceeding on our way, we soon arrive at
 
 [Blockley](/stations/blockley), [Campden](/stations/campden), and [Honeybourne](/stations/honeybourne) stations, the last of which is the junction of the branch to the classic town of Stratford.
 
-(branch: start)
-  ## Stratford-upon-Avon Branch
+(branch: start title: Stratford-upon-Avon Branch)
   The stations *en route* are [Long Marston](/stations/long-marston), and [Milcote](/stations/milcote).
 
   (place: england/warwickshire/stratford-upon-avon)

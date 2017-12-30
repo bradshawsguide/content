@@ -177,8 +177,7 @@ Two miles further we arrive at
 
 (place: england/shropshire/gobowen-junction)
 
-(branch: start)
-  ## Oswestry Branch
+(branch: start title: Oswestry Branch)
   The line to Oswestry presents few objects worthy of notice or description. *Park Hall*, the property of R. H. Kinchant, Esq., is a singular and interesting mansion, built in the Tudor style. *Porkington*, the seat of W. Ormsby Gore, Esq., is beautifully situated, and commands some of the finest and most extensive views in the country. Farther on to the right is "Old Oswestry," an ancient military post, situated on an eminence, a very picturesque looking object from the railway.
 
   (place: england/shropshire/oswestry)

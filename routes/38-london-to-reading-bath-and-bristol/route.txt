@@ -90,8 +90,7 @@ A few minutes more brings us to
 
 (place: england/buckinghamshire/slough)
 
-(branch: start)
-  ### Windsor Branch
+(branch: start title: Windsor Branch)
   **Slough to Windsor**
 
   (place: england/berkshire/eton)
@@ -117,8 +116,7 @@ Upon leaving Maidenhead the railway soon spans, by a bridge, of ten arches, the 
 
 A short line hence branches off to Henley-upon-Thames, passing by *Wargrave*.
 
-(branch: start)
-  ### Henley Branch
+(branch: start title: Henley Branch)
   [Shiplake](/stations/shiplake).
 
   (place: england/oxfordshire/henley)

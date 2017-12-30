@@ -16,8 +16,7 @@ text: About one mile beyond [Willesden Junction](/stations/willesden-junction) w
 
 (place: england/middlesex/acton)
 
-(branch: start)
-  ### Hampstead Branch
+(branch: start title: Hampstead Branch)
   A short branch, 1¼ mile, turns off to the left here, by which the tourist is enabled to visit
 
   (place: england/middlesex/hammersmith)

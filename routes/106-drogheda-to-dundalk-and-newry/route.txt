@@ -43,8 +43,7 @@ text: [Dunleer](/stations/dunleer): here fairs are held monthly.
 
 [Scarva](/stations/scarva), the junction of the Banbridge line which here turns off to the right.
 
-(branch: start)
-  ## Banbridge Branch
+(branch: start title: Banbridge Branch)
   It passes the station of [Lawrencetown](/stations/lawrencetown) to
 
   [Banbridge](/stations/banbridge), an important market town on the river Bann; a good deal of linen is here manufactured, and webbing. We then pass on *via* [Mullaternaghan](/stations/mullaternaghan), [Dromore](/stations/dromore), and [Hillsborough](/stations/hillsborough), to [Lisburn](/stations/lisburn).

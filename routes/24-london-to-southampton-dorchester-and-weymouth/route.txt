@@ -86,8 +86,7 @@ Emerging from the excavation, we proceed onwards over an embankment, which affor
 
 About two miles from Surbiton the line turns off to the
 
-(branch: start)
-  ### Hampton Court Branch
+(branch: start title: Hampton Court Branch)
   **Surbiton to Hampton Court**
 
   (place: england/surrey/thames-ditton)
@@ -109,8 +108,7 @@ Emerging from the Walton cutting we gain a somewhat lofty embankment, affording 
 
 A little distance beyond Weybridge station a short line branches off to Addlestone and Chertsey.
 
-(branch: start)
-  ### Chertsey Branch
+(branch: start title: Chertsey Branch)
   [Addlestone](/stations/addlestone) station.
 
   (place: england/surrey/chertsey)
@@ -181,8 +179,7 @@ This line of railway passes through a country of picturesque character and antiq
 
 (place: england/hampshire/brockenhurst)
 
-(branch: start)
-  ### Lymington Branch
+(branch: start title: Lymington Branch)
   Turning to the left from [Brockenhurst](/stations/brockenhurst), a run of about twenty minutes brings us to the parliamentary borough of
 
   (place: england/hampshire/lymington)
@@ -204,8 +201,7 @@ The line now passes from the county of Hants into [Dorsetshire](/places/england/
 
 (place: england/dorsetshire/wimborne)
 
-(branch: start)
-  ## Wimborne to Blandford
+(branch: start title: Wimborne to Blandford)
   [Sturminster](/stations/sturminster) and [Spettisbury](/stations/spettisbury) Stations.
 
   (place: england/dorsetshire/blandford)

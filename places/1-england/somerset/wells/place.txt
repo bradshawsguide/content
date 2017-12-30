@@ -2,12 +2,6 @@ section: 2
 ----
 title: Wells
 ----
-company:
-- somerset-and-dorset
-----
-route:
-- highbridge-to-glastonbury-wells-and-templecombe
-----
 info:
 - term: Hotels
   desc: Mitre; Somerset; Star.

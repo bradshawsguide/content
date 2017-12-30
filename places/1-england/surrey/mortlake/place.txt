@@ -2,12 +2,6 @@ section: 1
 ----
 title: Mortlake
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-richmond-and-staines
-----
 info:
 - term: Inn
   desc: Kings Arms.

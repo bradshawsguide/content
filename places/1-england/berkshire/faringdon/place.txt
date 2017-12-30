@@ -2,12 +2,6 @@ section: 2
 ----
 title: Faringdon
 ----
-company:
-- great-western
-----
-route:
-- london-to-reading-bath-and-bristol
-----
 info:
 - term: Hotels
   desc: Bell, Crown.

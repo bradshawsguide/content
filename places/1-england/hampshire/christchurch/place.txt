@@ -2,12 +2,6 @@
 ----
 title: Christchurch
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-----
 info:
 - term: Hotel
   desc: King's Arms.

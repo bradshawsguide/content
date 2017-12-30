@@ -2,14 +2,6 @@
 ----
 title: Bishopstoke
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-- bishopstoke-to-gosport-and-portsmouth
-- bishopstoke-to-salisbury
-----
 notes:
 - A telegraph station.
 ----

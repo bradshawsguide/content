@@ -2,12 +2,6 @@ section: 2
 ----
 title: Crediton
 ----
-company:
-- north-devon
-----
-route:
-- exeter-to-barnstaple-and-bideford
-----
 info:
 - term: Population
   desc: 4,048.

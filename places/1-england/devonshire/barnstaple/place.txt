@@ -2,12 +2,6 @@ section: 2
 ----
 title: Barnstaple
 ----
-company:
-- north-devon
-----
-route:
-- exeter-to-barnstaple-and-bideford
-----
 info:
 - term: Hotels
   desc: Fortescue Arms; Golden Lion.

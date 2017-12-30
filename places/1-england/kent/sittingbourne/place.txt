@@ -2,14 +2,6 @@ section: 1
 ----
 title: Sittingbourne
 ----
-company:
-- london-chatham-and-dover
-- sittingbourne-and-sheerness
-----
-route:
-- london-to-chatham-and-dover
-- sittingbourne-to-sheerness
-----
 info:
 - term: Market Day
   desc: Saturday. Much corn is shipped here.

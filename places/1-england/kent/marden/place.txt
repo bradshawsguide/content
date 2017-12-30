@@ -2,12 +2,6 @@ section: 1
 ----
 title: Marden
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-folkestone-and-dover
-----
 info:
 - term: Fair
   desc: October 11.

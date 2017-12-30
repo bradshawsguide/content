@@ -2,12 +2,6 @@ section: 2
 ----
 title: Codford
 ----
-company:
-- great-western
-----
-route:
-- westbury-to-salisbury
-----
 notes:
 - Telegraph station at Westbury, 11 miles.
 ----

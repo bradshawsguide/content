@@ -2,12 +2,6 @@
 ----
 title: Yeovil
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- bristol-to-exeter
-----
 info:
 - term: Hotels
   desc: Mermaid, Three Choughs.

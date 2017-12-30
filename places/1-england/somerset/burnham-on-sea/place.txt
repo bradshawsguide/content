@@ -2,12 +2,6 @@ section: 2
 ----
 title: Burnham-on-Sea
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- highbridge-to-burnham-on-sea
-----
 info:
 - term: Population
   desc: 2,252.

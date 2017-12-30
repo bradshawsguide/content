@@ -2,12 +2,6 @@ section: 2
 ----
 title: Downpatrick
 ----
-company:
-- belfast-and-county-down
-----
-route:
-- belast-to-donaghadee-and-downpatrick
-----
 info:
 - term: Market Day
   desc: Saturday

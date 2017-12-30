@@ -2,13 +2,6 @@
 ----
 title: Andover
 ----
-company:
-- london-and-south-western
-----
-route:
-- basingstoke-to-salisbury-and-exeter
-- andover-to-redbridge
-----
 info:
 - term: Hotel
   desc: Star and Garter.

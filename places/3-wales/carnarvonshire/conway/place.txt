@@ -4,12 +4,6 @@ title: Conway
 ----
 subtitle: Conwy
 ----
-company:
-- london-and-north-western
-----
-route:
-- chester-to-holyhead
-----
 info:
 - term: Population
   desc: 2,523.

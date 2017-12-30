@@ -2,12 +2,6 @@ section: 1
 ----
 title: East Grinstead
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- london-bridge-to-brighton
-----
 info:
 - term: Market Day
   desc: Thursday.

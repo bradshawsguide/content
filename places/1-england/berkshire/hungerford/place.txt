@@ -2,12 +2,6 @@ section: 2
 ----
 title: Hungerford
 ----
-company:
-- great-western
-----
-route:
-- reading-to-hungerford-and-devizes
-----
 info:
 - term: Population
   desc: 2,051.

@@ -2,13 +2,6 @@ section: 2
 ----
 title: Bridgend
 ----
-company:
-- great-western
-----
-route:
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-- bridgend-to-maesteg
-----
 info:
 - term: Hotels
   desc: Wyndham Arms; Railway.

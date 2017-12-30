@@ -2,12 +2,6 @@ section: 2
 ----
 title: Tenby
 ----
-company:
-- pembroke-and-tenby
-----
-route:
-- new-milford-to-tenby
-----
 info:
 - term: Population
   desc: 2,982.

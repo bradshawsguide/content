@@ -2,12 +2,6 @@ section: 1
 ----
 title: Bentley
 ----
-company:
-- london-and-south-western
-----
-route:
-- guildford-to-farnham-and-alton
-----
 info:
 - term: Market Day
   desc: Saturday.

@@ -2,13 +2,6 @@
 ----
 title: Brockenhurst
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-- brockenhurst-to-lymington
-----
 info:
 - term: Money Order Office
   desc: at Lymington.

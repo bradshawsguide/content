@@ -2,12 +2,6 @@ section: 2
 ----
 title: Bangor
 ----
-company:
-- london-and-north-western
-----
-route:
-- chester-to-holyhead
-----
 info:
 - term: Hotels
   desc: The George, Bangor Ferry, Miss Roberts is a first-class house, delightfully situated between Bangor and Menai Bridge and is deservedly celebrated for its excellent arrangements.

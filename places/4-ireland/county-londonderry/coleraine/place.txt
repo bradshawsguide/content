@@ -2,14 +2,6 @@ section: 2
 ----
 title: Coleraine
 ----
-company:
-- belfast-and-northern-counties
-- londonderry-and-coleraine
-----
-route:
-- belast-to-ballymena-and-portrush
-- coleraine-to-londonderry
-----
 info:
 - term: Hotels
   desc: Clothworkers' Arms.

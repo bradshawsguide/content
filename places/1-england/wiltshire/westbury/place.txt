@@ -2,13 +2,6 @@ section: 2
 ----
 title: Westbury
 ----
-company:
-- great-western
-----
-route:
-- chippenham-to-dorchester-and-weymouth
-- westbury-to-salisbury
-----
 info:
 - term: Population
   desc: 6,495.

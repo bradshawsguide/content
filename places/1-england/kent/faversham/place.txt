@@ -2,13 +2,6 @@ section: 1
 ----
 title: Faversham
 ----
-company:
-- london-chatham-and-dover
-----
-route:
-- london-to-chatham-and-dover
-- faversham-to-ramsgate-harbour
-----
 info:
 - term: Population
   desc: 5,858.

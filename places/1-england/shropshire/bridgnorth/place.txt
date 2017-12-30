@@ -2,12 +2,6 @@ section: 2
 ----
 title: Bridgnorth
 ----
-company:
-- great-western
-----
-route:
-- hartlebury-to-shrewsbury
-----
 info:
 - term: Market Day
   desc: Saturday.

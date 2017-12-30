@@ -2,12 +2,6 @@ section: 2
 ----
 title: Menai Bridge
 ----
-company:
-- london-and-north-western
-----
-route:
-- chester-to-holyhead
-----
 desc: Two miles from Bangor, across the narrow channel which cuts off Anglesea, is best seen from the water below, above which it rises 100 feet, at high tide.
 ----
 text: Two miles from Bangor, across the narrow channel which cuts off Anglesea, is best seen from the water below, above which it rises 100 feet, at high tide. It was built by Telford, between 1819 and 1826, to complete the coach route to Holyhead. From pier to pier (each 153 feet high) the main part of the bridge is 550 feet long, and 20 broad, including a carriage road of 12 feet. The first mail coach drove over this in a wintry storm. It is suspended from 16 chains, each having: a total length of 1,715 feet, and fastened into 60 feet of solid rock on each side. The total weight of iron is 650 tons; it would bear about 1,300 tons. It is still the longest suspension bridge in this country, but is exceeded by those at Freibourg, in Switzerland (870 feet between the piers, and 167 high), across the Dordogne, near Bordeaux, and over the Danube, at Pesth.

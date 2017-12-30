@@ -2,12 +2,6 @@ section: 2
 ----
 title: Uxbridge
 ----
-company:
-- great-western
-----
-route:
-- london-to-reading-bath-and-bristol
-----
 info:
 - term: Population
   desc: 3,815.

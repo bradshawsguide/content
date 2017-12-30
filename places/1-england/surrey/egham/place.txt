@@ -2,12 +2,6 @@ section: 1
 ----
 title: Egham
 ----
-company:
-- staines-wokingham-and-reading
-----
-route:
-- staines-to-wokingham-and-reading
-----
 info:
 - term: Hotels
   desc: Crown, Victoria Arms, Coach and Horses.

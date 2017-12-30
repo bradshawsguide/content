@@ -2,13 +2,6 @@ section: 1
 ----
 title: Tunbridge
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-folkestone-and-dover
-- tunbridge-to-hastings
-----
 info:
 - term: Population
   desc: 5,919.

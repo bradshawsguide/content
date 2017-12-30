@@ -2,14 +2,6 @@ section: 2
 ----
 title: Frome
 ----
-company:
-- great-western
-- east-somerset
-----
-route:
-- chippenham-to-dorchester-and-weymouth
-- frome-to-wells
-----
 info:
 - term: Population
   desc: 9,522.

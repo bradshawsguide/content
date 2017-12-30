@@ -2,14 +2,6 @@ section: 1
 ----
 title: Leigh
 ----
-region: essex
-----
-company:
-- london-tilbury-and-southend
-----
-route:
-- stepney-and-ilford-to-tilbury-and-southend
-----
 info:
 - term: Population
   desc: 1,473.

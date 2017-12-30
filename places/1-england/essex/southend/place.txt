@@ -2,14 +2,6 @@ section: 1
 ----
 title: Southend
 ----
-region: essex
-----
-company:
-- london-tilbury-and-southend
-----
-route:
-- stepney-and-ilford-to-tilbury-and-southend
-----
 info:
 - term: Hotels
   desc: Ship, Chas. Woosnam, family and commercial hotel, a very comfortable house, and deservedly recommended; Royal Hotel, near the railway station.

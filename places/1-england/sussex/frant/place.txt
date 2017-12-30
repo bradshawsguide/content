@@ -2,12 +2,6 @@ section: 1
 ----
 title: Frant
 ----
-company:
-- south-eastern
-----
-route:
-- tunbridge-to-hastings
-----
 info:
 - term: Hotels
   desc: Spread Eagle, and Abergavenny Arms.

@@ -2,13 +2,6 @@ section: 1
 ----
 title: Weybridge
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-- weybridge-to-chertsey
-----
 info:
 - term: Hotels
   desc: Hand and Spear, Ship.

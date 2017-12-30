@@ -2,13 +2,6 @@ section: 2
 ----
 title: Wolverhampton
 ----
-company:
-- great-western
-----
-route:
-- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
-- oxford-to-worchester-and-wolverhampton
-----
 info:
 - term: Hotels
   desc: The Swan; Star and Garter.

@@ -4,12 +4,6 @@ title: Llandilo
 ----
 subtitle: Llandeilo
 ----
-company:
-- llanelly-railway-and-docks
-----
-route:
-- llanelly-to-llandilo-and-llandovery
-----
 info:
 - term: Population
   desc: 5,440.

@@ -2,10 +2,4 @@ section: 2
 ----
 title: Foynes
 ----
-company:
-- limerick-and-foynes
-----
-route:
-- limerick-to-foynes
-----
 text: From this place steamers sail down the Shannon to Tarbert and Kilrush, from the former of which a very agreeable tour, via Tralee, may be made to Killarney. Maviston Abbey is near.

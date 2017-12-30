@@ -4,14 +4,6 @@ title: Forest Hill
 ----
 subtitle: for Dartmouth Arms
 ----
-company:
-- south-eastern
-- london-brighton-and-south-coast
-----
-route:
-- charing-cross-to-folkestone-and-dover
-- london-bridge-to-brighton
-----
 notes:
 - A telegraph station.
 ----

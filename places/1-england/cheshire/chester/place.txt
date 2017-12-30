@@ -2,17 +2,6 @@ section: 2
 ----
 title: Chester
 ----
-company:
-- great-western
-- london-and-north-western
-----
-route:
-- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
-- chester-to-birkenhead-and-liverpool
-- chester-to-manchester
-- chester-to-mold
-- chester-to-holyhead
-----
 info:
 - term: Hotel
   desc: Albion.

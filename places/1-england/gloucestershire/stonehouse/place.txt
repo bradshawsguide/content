@@ -2,12 +2,6 @@ section: 2
 ----
 title: Stonehouse
 ----
-company:
-- great-western
-----
-route:
-- swindon-to-gloucester-and-cheltenham
-----
 info:
 - term: Population
   desc: 2,609.

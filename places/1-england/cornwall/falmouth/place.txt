@@ -2,12 +2,6 @@ section: 2
 ----
 title: Falmouth
 ----
-company:
-- cornwall
-----
-route:
-- plymouth-to-truro
-----
 info:
 - term: Population
   desc: 5,709.

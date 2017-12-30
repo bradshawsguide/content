@@ -2,12 +2,6 @@ section: 2
 ----
 title: Ivy Bridge
 ----
-company:
-- south-devon
-----
-route:
-- exeter-to-torquay-and-plymouth
-----
 notes:
 - A telegraph station.
 ----

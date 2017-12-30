@@ -2,12 +2,6 @@ section: 1
 ----
 title: Robertsbridge
 ----
-company:
-- south-eastern
-----
-route:
-- tunbridge-to-hastings
-----
 info:
 - term: Hotel
   desc: Old George.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Randalstown
 ----
-company:
-- belfast-and-northern-counties
-----
-route:
-- belast-to-ballymena-and-portrush
-----
 info:
 - term: Hotel
   desc: O'Neill's Arms.

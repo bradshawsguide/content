@@ -2,12 +2,6 @@ section: 1
 ----
 title: Pluckley
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-folkestone-and-dover
-----
 info:
 - term: Fairs
   desc: Whit Mondays (Toys and Pedlery), Feast of St. Nicholas (cattle).

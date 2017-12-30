@@ -2,16 +2,6 @@ section: 2
 ----
 title: Shrewsbury
 ----
-company:
-- great-western
-- london-and-north-western
-----
-route:
-- hereford-to-shrewsbury
-- hartlebury-to-shrewsbury
-- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
-- shrewsbury-to-welshpool
-----
 info:
 - term: Hotels
   desc: The Lion, The Raven, The George.

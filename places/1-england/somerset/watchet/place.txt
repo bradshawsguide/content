@@ -2,12 +2,6 @@ section: 2
 ----
 title: Watchet
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- taunton-to-watchet
-----
 notes:
 - Telegraph station at Taunton.
 ----

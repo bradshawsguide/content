@@ -4,12 +4,6 @@ title: Llangadock
 ----
 subtitle: Llangadog
 ----
-company:
-- llanelly-railway-and-docks
-----
-route:
-- llanelly-to-llandilo-and-llandovery
-----
 info:
 - term: Market Day
   desc: Thursday.

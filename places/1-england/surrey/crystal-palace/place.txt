@@ -2,13 +2,6 @@ section: 1
 ----
 title: Crystal Palace
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- london-bridge-to-brighton
-- victoria-to-crystal-palace
-----
 notes:
 - A telegraph station.
 ----

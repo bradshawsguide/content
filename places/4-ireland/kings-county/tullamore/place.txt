@@ -2,12 +2,6 @@ section: 2
 ----
 title: Tullamore
 ----
-company:
-- great-southern-and-western
-----
-route:
-- dublin-to-cork-and-killarney
-----
 info:
 - term: Market Days
   desc: Tuesday and Saturday.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Barmouth
 ----
-company:
-- aberystwith-and-welsh-coast
-----
-route:
-- machynlleth-to-aberystwith
-----
 info:
 - term: Market Days
   desc: Tuesday and Friday.

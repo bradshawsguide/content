@@ -2,12 +2,6 @@ section: 1
 ----
 title: Rye
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-folkestone-and-dover
-----
 info:
 - term: Population
   desc: 8,202.

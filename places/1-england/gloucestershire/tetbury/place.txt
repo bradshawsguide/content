@@ -2,12 +2,6 @@ section: 2
 ----
 title: Tetbury
 ----
-company:
-- great-western
-----
-route:
-- swindon-to-gloucester-and-cheltenham
-----
 info:
 - term: Hotels
   desc: Talbot; White Hart.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Usk
 ----
-company:
-- great-western
-----
-route:
-- pontypool-road-to-monmouth
-----
 info:
 - term: Population
   desc: 1,545.

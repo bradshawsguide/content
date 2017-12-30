@@ -2,13 +2,6 @@ section: 1
 ----
 title: Camden Road
 ----
-company:
-- north-london
-----
-route:
-- fenchurch-street-to-chalk-farm
-- camden-road-to-willesden-junction
-----
 info:
 - term: Hotel
   desc: Brecknock Arms.

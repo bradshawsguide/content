@@ -2,12 +2,6 @@ section: 1
 ----
 title: Sandown
 ----
-company:
-- isle-of-wight
-----
-route:
-- ryde-to-newchurch
-----
 info:
 - term: Hotels
   desc: Star and Garter (Hale's).

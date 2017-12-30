@@ -2,12 +2,6 @@
 ----
 title: Bishop's Waltham
 ----
-company:
-- london-and-south-western
-----
-route:
-- bishopstoke-to-gosport-and-portsmouth
-----
 notes:
 - Telegraph station at Botley.
 ----

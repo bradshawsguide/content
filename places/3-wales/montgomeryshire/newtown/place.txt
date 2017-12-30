@@ -2,13 +2,6 @@ section: 2
 ----
 title: Newtown
 ----
-company:
-- cambrian
-----
-route:
-- ostwestry-to-newtown-and-llanidloes
-- newtown-to-machynlleth
-----
 info:
 - term: Population
   desc: 5,916.

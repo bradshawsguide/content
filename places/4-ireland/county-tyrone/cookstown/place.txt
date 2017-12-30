@@ -2,12 +2,6 @@ section: 2
 ----
 title: Cookstown
 ----
-company:
-- belfast-and-northern-counties
-----
-route:
-- belast-to-ballymena-and-portrush
-----
 info:
 - term: Hotels
   desc: Commercial; Stewart's Arms.

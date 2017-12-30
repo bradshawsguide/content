@@ -2,14 +2,6 @@ section: 2
 ----
 title: Bristol
 ----
-company:
-- great-western
-- bristol-and-exeter
-----
-route:
-- london-to-reading-bath-and-bristol
-- bristol-to-exeter
-----
 info:
 - term: Population
   desc: 154,093.

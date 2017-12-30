@@ -2,12 +2,6 @@ section: 2
 ----
 title: Llangollen
 ----
-company:
-- great-western
-----
-route:
-- ruabon-to-corwen
-----
 notes:
 - A telegraph station.
 ----

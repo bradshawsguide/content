@@ -2,12 +2,6 @@ section: 2
 ----
 title: Weston-super-Mare
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- bristol-to-exeter
-----
 info:
 - term: Population
   desc: 8,038.

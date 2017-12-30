@@ -2,12 +2,6 @@ section: 2
 ----
 title: Heytesbury
 ----
-company:
-- great-western
-----
-route:
-- westbury-to-salisbury
-----
 info:
 - term: Population
   desc: 1,103.

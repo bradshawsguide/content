@@ -2,12 +2,6 @@ section: 2
 ----
 title: Bodorgan
 ----
-company:
-- london-and-north-western
-----
-route:
-- chester-to-holyhead
-----
 notes:
 - Telegraph station at Bangor, 12¾ miles.
 ----

@@ -2,14 +2,6 @@ section: 2
 ----
 title: Newry
 ----
-company:
-- dublin-and-belfast-junction
-- newry-warrenpoint-and-rostrevor
-----
-route:
-- drogheda-to-dundalk-and-newry
-- newry-to-warrenpoint-and-rostrevor
-----
 info:
 - term: Hotel
   desc: Dransfield's.

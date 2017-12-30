@@ -2,13 +2,6 @@ section: 1
 ----
 title: Kingston
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-richmond-and-staines
-- london-to-southampton-dorchester-and-weymouth
-----
 info:
 - term: Hotels
   desc: Sun; Griffin; Southampton Hotel (Railway Station).

@@ -2,14 +2,6 @@ section: 2
 ----
 title: Machynlleth
 ----
-company:
-- cambrian
-- aberystwith-and-welsh-coast
-----
-route:
-- newtown-to-machynlleth
-- machynlleth-to-aberystwith
-----
 info:
 - term: Population
   desc: 1,645.

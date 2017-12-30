@@ -2,12 +2,6 @@ section: 2
 ----
 title: Waterford
 ----
-company:
-- great-southern-and-western
-----
-route:
-- dublin-to-cork-and-killarney
-----
 info:
 - term: Hotel
   desc: Commin's, commercial and family, on the Quay; Dolbyn's, Commercial Buildings.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Kingstown
 ----
-company:
-- dublin-and-kingstown
-----
-route:
-- holyhead-to-dublin
-----
 info:
 - term: Hotel
   desc: Rathbone's.

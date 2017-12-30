@@ -2,13 +2,6 @@ section: 1
 ----
 title: Minster Junction
 ----
-company:
-- south-eastern
-----
-route:
-- ashford-to-canterbury-and-ramsgate
-- minster-junction-to-deal
-----
 info:
 - term: Omnibuses
   desc: to and from the station.

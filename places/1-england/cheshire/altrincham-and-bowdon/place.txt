@@ -2,14 +2,6 @@ section: 2
 ----
 title: Altrincham and Bowdon
 ----
-company:
-- london-and-north-western
-- cheshire-lines-committee
-----
-route:
-- bowdon-to-manchester
-- altrincham-to-northwich
-----
 info:
 - term: Population
   desc: 6,628.

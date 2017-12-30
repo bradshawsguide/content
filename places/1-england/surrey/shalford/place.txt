@@ -2,12 +2,6 @@ section: 1
 ----
 title: Shalford
 ----
-company:
-- south-eastern
-----
-route:
-- reigate-to-reading
-----
 info:
 - term: Money Order Office
   desc: at Guildford.

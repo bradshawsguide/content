@@ -2,14 +2,6 @@ section: 2
 ----
 title: Leominster
 ----
-company:
-- great-western
-- london-and-north-western
-----
-route:
-- hereford-to-shrewsbury
-- leominster-to-kington
-----
 info:
 - term: Hotels
   desc: Lion; Royal Oak.

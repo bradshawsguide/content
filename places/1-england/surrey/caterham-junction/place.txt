@@ -4,15 +4,6 @@ title: Caterham Junction
 ----
 title_short: Caterham Jct.
 ----
-company:
-- south-eastern
-- london-brighton-and-south-coast
-----
-route:
-- charing-cross-to-folkestone-and-dover
-- london-bridge-to-brighton
-- caterham-junction-to-caterham
-----
 notes:
 - A telegraph station.
 ----

@@ -2,15 +2,6 @@ section: 1
 ----
 title: Wimbledon
 ----
-company:
-- london-brighton-and-south-coast
-- london-and-south-western
-----
-route:
-- london-bridge-to-brighton
-- london-to-southampton-dorchester-and-weymouth
-- wimbledon-to-epsom-and-leatherhead
-----
 info:
 - term: Hotel
   desc: Rose and Crown.

@@ -2,17 +2,6 @@ section: 2
 ----
 title: Hereford
 ----
-company:
-- great-western
-- london-and-north-western
-----
-route:
-- gloucester-to-ross-and-hereford
-- hereford-to-hay-and-brecon
-- newport-to-abergavenny-and-hereford
-- hereford-to-shrewsbury
-- worchester-to-hereford
-----
 info:
 - term: Hotels
   desc: City Arms, Green Dragon.

@@ -2,12 +2,6 @@ section: 1
 ----
 title: Etchingham
 ----
-company:
-- south-eastern
-----
-route:
-- tunbridge-to-hastings
-----
 info:
 - term: Money Order Office
   desc: at Wadhurst.

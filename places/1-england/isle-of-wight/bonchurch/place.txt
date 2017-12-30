@@ -2,9 +2,6 @@ section: 1
 ----
 title: Bonchurch
 ----
-route:
-- ryde-to-newchurch
-----
 info:
 - term: Hotel
   desc: Bonchurch.

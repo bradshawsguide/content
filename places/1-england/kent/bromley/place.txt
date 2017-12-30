@@ -2,12 +2,6 @@ section: 1
 ----
 title: Bromley
 ----
-company:
-- london-chatham-and-dover
-----
-route:
-- london-to-chatham-and-dover
-----
 info:
 - term: Population
   desc: 5,505.

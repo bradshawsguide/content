@@ -2,13 +2,6 @@
 ----
 title: New Shoreham
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- brighton-to-worthing-chichester-and-portsmouth
-- horsham-to-steyning-and-shoreham
-----
 info:
 - term: Hotels
   desc: Surrey Arms, Buckingham Arms, and Swiss Cottage.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Holyhead
 ----
-company:
-- london-and-north-western
-----
-route:
-- chester-to-holyhead
-----
 info:
 - term: Population
   desc: 6,193.

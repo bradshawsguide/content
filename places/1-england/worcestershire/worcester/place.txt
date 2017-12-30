@@ -2,13 +2,6 @@ section: 2
 ----
 title: Worcester
 ----
-company:
-- great-western
-----
-route:
-- oxford-to-worchester-and-wolverhampton
-- worchester-to-hereford
-----
 info:
 - term: Hotels
   desc: Star and Garter; the Hop Pole; the Bell; the Unicorn; the Crown.

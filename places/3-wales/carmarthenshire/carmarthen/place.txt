@@ -2,16 +2,6 @@ section: 2
 ----
 title: Carmarthen
 ----
-company:
-- llanelly-railway-and-docks
-- great-western
-- carmathen-and-cardigan
-----
-route:
-- llanelly-to-llandilo-and-llandovery
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-- carmarthen-to-cardigan
-----
 info:
 - term: Hotels
   desc: Ivy Bush, and Boar's Head.

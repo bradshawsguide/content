@@ -2,12 +2,6 @@ section: 2
 ----
 title: St. Cyres
 ----
-company:
-- north-devon
-----
-route:
-- exeter-to-barnstaple-and-bideford
-----
 info:
 - term: Hotel
   desc: Railway.

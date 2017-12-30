@@ -2,17 +2,6 @@ section: 2
 ----
 title: Belfast
 ----
-company:
-- ulster
-- belfast-and-county-down
-- belfast-and-northern-counties
-----
-route:
-- clones-to-armagh-and-belfast
-- belast-to-donaghadee-and-downpatrick
-- belast-to-holywood-and-bangor
-- belast-to-ballymena-and-portrush
-----
 info:
 - term: Hotels
   desc: Imperial; Royal; Commercial; Queen's; and Plough.

@@ -2,12 +2,6 @@ section: 1
 ----
 title: Isleworth
 ----
-company:
-- london-and-south-western
-----
-route:
-- barnes-to-hounslow-and-feltham
-----
 info:
 - term: Fair
   desc: First Monday in July.

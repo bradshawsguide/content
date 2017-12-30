@@ -2,13 +2,6 @@
 ----
 title: Wimborne
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-- wimborne-to-blandford
-----
 info:
 - term: Population
   desc: 2,271.

@@ -2,12 +2,6 @@ section: 1
 ----
 title: Uckfield
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- lewes-to-uckfield
-----
 info:
 - term: Hotels
   desc: Maidenhead; Bell.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Kington
 ----
-company:
-- great-western
-----
-route:
-- leominster-to-kington
-----
 info:
 - term: Hotels
   desc: King's Head; Oxford Arms.

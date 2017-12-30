@@ -2,13 +2,6 @@
 ----
 title: Winchester
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-- guildford-to-farnham-and-alton
-----
 info:
 - term: Population,
   desc: 14,776.

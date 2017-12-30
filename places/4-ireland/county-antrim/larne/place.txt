@@ -2,12 +2,6 @@ section: 2
 ----
 title: Larne
 ----
-company:
-- belfast-and-northern-counties
-----
-route:
-- belast-to-ballymena-and-portrush
-----
 notes:
 - A telegraph station.
 ----

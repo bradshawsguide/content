@@ -2,12 +2,6 @@ section: 1
 ----
 title: Chiswick
 ----
-company:
-- london-and-south-western
-----
-route:
-- barnes-to-hounslow-and-feltham
-----
 notes:
 - Telegraph station at Kew, 1 mile.
 ----

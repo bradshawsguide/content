@@ -2,12 +2,6 @@ section: 2
 ----
 title: High Wycombe
 ----
-company:
-- great-western
-----
-route:
-- maidenhead-to-wycombe-and-oxford
-----
 info:
 - term: Population
   desc: 4,221.

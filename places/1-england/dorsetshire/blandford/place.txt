@@ -2,12 +2,6 @@
 ----
 title: Blandford
 ----
-company:
-- london-and-south-western
-----
-route:
-- wimborne-to-blandford
-----
 notes:
 - A telegraph station.
 ----

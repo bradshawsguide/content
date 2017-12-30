@@ -4,12 +4,6 @@ title: Narberth Road
 ----
 subtitle: (For Tenby)
 ----
-company:
-- great-western
-----
-route:
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-----
 info:
 - term: Hotel
   desc: De Rutzen Arms.

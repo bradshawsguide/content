@@ -2,12 +2,6 @@ section: 2
 ----
 title: Kilkenny
 ----
-company:
-- great-southern-and-western
-----
-route:
-- dublin-to-cork-and-killarney
-----
 info:
 - term: Hotel
   desc: Callanan's.

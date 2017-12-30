@@ -2,9 +2,6 @@ section: 1
 ----
 title: Niton
 ----
-route:
-- ryde-to-newchurch
-----
 info:
 - term: Hotel
   desc: Royal Sand Rock.

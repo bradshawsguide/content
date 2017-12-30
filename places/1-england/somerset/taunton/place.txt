@@ -2,13 +2,6 @@ section: 2
 ----
 title: Taunton
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- bristol-to-exeter
-- taunton-to-watchet
-----
 info:
 - term: Hotels
   desc: Castle; London Inn.

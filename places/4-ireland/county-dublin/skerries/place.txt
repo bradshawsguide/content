@@ -2,12 +2,6 @@ section: 2
 ----
 title: Skerries
 ----
-company:
-- dublin-and-drogheda
-----
-route:
-- dublin-to-drogheda
-----
 info:
 - term: Market Day
   desc: Saturday.

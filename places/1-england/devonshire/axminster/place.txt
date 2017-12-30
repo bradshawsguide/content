@@ -2,16 +2,6 @@
 ----
 title: Axminster
 ----
-region: devonshire
-----
-location: 50.779, -3.005
-----
-company:
-- london-and-south-western
-----
-route:
-- basingstoke-to-salisbury-and-exeter
-----
 info:
 - term: Population
   desc: 2,896.

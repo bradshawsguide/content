@@ -2,12 +2,6 @@ section: 2
 ----
 title: Wilton
 ----
-company:
-- great-western
-----
-route:
-- westbury-to-salisbury
-----
 info:
 - term: Population
   desc: 8,675.

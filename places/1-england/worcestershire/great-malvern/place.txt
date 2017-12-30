@@ -2,12 +2,6 @@ section: 2
 ----
 title: Great Malvern
 ----
-company:
-- great-western
-----
-route:
-- worchester-to-hereford
-----
 info:
 - term: Population
   desc: 4,484.

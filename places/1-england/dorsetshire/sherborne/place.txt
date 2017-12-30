@@ -2,12 +2,6 @@
 ----
 title: Sherborne
 ----
-company:
-- london-and-south-western
-----
-route:
-- basingstoke-to-salisbury-and-exeter
-----
 notes:
 - A telegraph station.
 ----

@@ -2,12 +2,6 @@ section: 1
 ----
 title: Herne Bay
 ----
-company:
-- london-chatham-and-dover
-----
-route:
-- london-to-chatham-and-dover
-----
 info:
 - term: Hotels
   desc: Pier, and Dolphin.

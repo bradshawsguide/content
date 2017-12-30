@@ -2,13 +2,6 @@
 ----
 title: Southampton
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-- southampton-to-netley
-----
 info:
 - term: Population
   desc: 46,960.

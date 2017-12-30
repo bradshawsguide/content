@@ -2,12 +2,6 @@ section: 2
 ----
 title: Pembroke
 ----
-company:
-- pembroke-and-tenby
-----
-route:
-- new-milford-to-tenby
-----
 desc: The capital of the county. In conjunction with Tenby and two or three other little boroughs it returns one member to parliament.
 ----
 text: The capital of the county. In conjunction with Tenby and two or three other little boroughs it returns one member to parliament. Population, 15,071. Both the town and shire take name from the Welsh words, *Pen fro*, signifying the head of the peninsula, as the town lies on a long point, marked on both sides by a creek of Milford Haven. In this commanding spot, Arnulph de Montgomery began a Norman *Castle* in 1092, which a few year's after was strengthened by the famous Richard de Clare, or Strongbow, before he sailed for the conquest of Ireland. Its ruins still exist on a hill over the town; the round keep is 75 feet high.

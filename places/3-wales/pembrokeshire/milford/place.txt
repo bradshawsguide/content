@@ -2,12 +2,6 @@ section: 2
 ----
 title: Milford
 ----
-company:
-- great-western
-----
-route:
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-----
 info:
 - term: Hotels
   desc: Royal; Victoria.

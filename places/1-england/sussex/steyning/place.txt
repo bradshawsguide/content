@@ -2,12 +2,6 @@ section: 1
 ----
 title: Steyning
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- horsham-to-steyning-and-shoreham
-----
 info:
 - term: Market Day
   desc: Wednesday.

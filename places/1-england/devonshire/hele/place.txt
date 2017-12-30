@@ -2,12 +2,6 @@ section: 2
 ----
 title: Hele
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- bristol-to-exeter
-----
 info:
 - term: Money Order Office
   desc: at Collumpton.

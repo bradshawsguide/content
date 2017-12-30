@@ -2,14 +2,6 @@ section: 2
 ----
 title: Bewdley
 ----
-company:
-- tenbury-and-bewdley
-- great-western
-----
-route:
-- hartlebury-to-shrewsbury
-- wooferton-to-bewdley
-----
 info:
 - term: Population
   desc: 2,905.

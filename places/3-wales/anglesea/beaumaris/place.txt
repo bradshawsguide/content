@@ -2,8 +2,6 @@ section: 2
 ----
 title: Beaumaris
 ----
-location: 53.267, -4.093
-----
 info:
 - term: Population
   desc: 2,558.

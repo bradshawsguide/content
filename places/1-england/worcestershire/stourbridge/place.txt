@@ -2,12 +2,6 @@ section: 2
 ----
 title: Stourbridge
 ----
-company:
-- great-western
-----
-route:
-- oxford-to-worchester-and-wolverhampton
-----
 info:
 - term: Hotel
   desc: Talbot.

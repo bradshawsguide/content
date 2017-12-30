@@ -2,12 +2,6 @@
 ----
 title: Gosport
 ----
-company:
-- london-and-south-western
-----
-route:
-- bishopstoke-to-gosport-and-portsmouth
-----
 info:
 - term: Population
   desc: 7,789.

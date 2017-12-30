@@ -2,12 +2,6 @@ section: 2
 ----
 title: Hayle
 ----
-company:
-- great-western
-----
-route:
-- truro-to-redruth-and-penzance
-----
 notes:
 - A telegraph station.
 ----

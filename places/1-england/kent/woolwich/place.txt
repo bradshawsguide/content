@@ -2,12 +2,6 @@ section: 1
 ----
 title: Woolwich
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-woolwich-gravesend-strood-and-rochester
-----
 info:
 - term: Hotel
   desc: Royal Pavilion.

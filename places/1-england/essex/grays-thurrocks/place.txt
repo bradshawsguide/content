@@ -4,14 +4,6 @@ title: Gray's Thurrocks
 ----
 subtitle: Grays
 ----
-region: essex
-----
-company:
-- london-tilbury-and-southend
-----
-route:
-- stepney-and-ilford-to-tilbury-and-southend
-----
 info:
 - term: Population
   desc: 2,209.

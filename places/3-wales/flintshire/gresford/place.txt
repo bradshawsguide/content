@@ -2,12 +2,6 @@ section: 2
 ----
 title: Gresford
 ----
-company:
-- great-western
-----
-route:
-- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
-----
 notes:
 - Telegraph station at Wrexham, 3 miles.
 ----

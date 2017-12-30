@@ -2,12 +2,6 @@ section: 1
 ----
 title: Glynde
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- lewes-to-hailsham-eastbourne-and-hastings
-----
 info:
 - term: Money Order Office
   desc: at Lewes.

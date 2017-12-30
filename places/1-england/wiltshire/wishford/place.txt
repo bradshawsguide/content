@@ -2,12 +2,6 @@ section: 2
 ----
 title: Wishford
 ----
-company:
-- great-western
-----
-route:
-- westbury-to-salisbury
-----
 notes:
 - Telegraph station at Wilton, 2½ miles.
 ----

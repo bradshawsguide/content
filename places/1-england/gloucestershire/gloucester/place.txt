@@ -2,13 +2,6 @@ section: 2
 ----
 title: Gloucester
 ----
-company:
-- great-western
-----
-route:
-- swindon-to-gloucester-and-cheltenham
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-----
 info:
 - term: Population
   desc: 10,512.

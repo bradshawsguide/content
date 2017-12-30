@@ -2,12 +2,6 @@ section: 2
 ----
 title: Alrewas
 ----
-company:
-- london-and-north-western
-----
-route:
-- dudley-to-walsall-derby-and-burton
-----
 info:
 - term: Population
   desc: 1,125.

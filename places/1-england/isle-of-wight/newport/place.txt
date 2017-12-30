@@ -2,9 +2,6 @@ section: 1
 ----
 title: Newport
 ----
-route:
-- ryde-to-the-needles
-----
 info:
 - term: Hotel
   desc: Bugle; Star; Green Dragon.

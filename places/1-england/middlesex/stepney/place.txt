@@ -2,15 +2,6 @@ section: 1
 ----
 title: Stepney
 ----
-company:
-- london-and-blackwall
-- london-tilbury-and-southend
-----
-route:
-- fenchurch-street-to-blackwall
-- fenchurch-street-to-chalk-farm
-- stepney-and-ilford-to-tilbury-and-southend
-----
 info:
 - term: Omnibuses
   desc: to and from all parts of London every quarter of an hour.

@@ -4,14 +4,6 @@ title: Polegate (Willingdon)
 ----
 title_short: Polegate
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- lewes-to-hailsham-eastbourne-and-hastings
-- polegate-to-hailsham
-- polegate-to-eastbourne
-----
 info:
 - term: Money Order Office
   desc: at Eastbourne.

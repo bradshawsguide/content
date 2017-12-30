@@ -2,11 +2,4 @@ section: 2
 ----
 title: Helsby
 ----
-company:
-- great-western
-- london-and-north-western
-----
-route:
-- chester-to-manchester
-----
 text: *Helsby Hill Camp* to our right.

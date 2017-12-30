@@ -2,12 +2,6 @@ section: 2
 ----
 title: Adare
 ----
-company:
-- limerick-and-foynes
-----
-route:
-- limerick-to-foynes
-----
 info:
 - term: Fairs
   desc: are held here on February 21, March 25, June 9, July 6, November 8, and December 4.

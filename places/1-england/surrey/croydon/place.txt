@@ -2,15 +2,6 @@ section: 1
 ----
 title: Croydon
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- lewisham-to-beckenham-and-croydon
-- london-bridge-to-brighton
-- croydon-to-epsom
-- croydon-to-wimbledon
-----
 info:
 - term: Population
   desc: 20,325.

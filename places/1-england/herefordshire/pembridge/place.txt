@@ -2,12 +2,6 @@ section: 2
 ----
 title: Pembridge
 ----
-company:
-- great-western
-----
-route:
-- leominster-to-kington
-----
 info:
 - term: Population
   desc: 1,500.

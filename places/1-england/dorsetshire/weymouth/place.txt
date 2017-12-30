@@ -2,14 +2,6 @@
 ----
 title: Weymouth
 ----
-company:
-- london-and-south-western
-- great-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-- chippenham-to-dorchester-and-weymouth
-----
 info:
 - term: Hotels
   desc: Luce's Royal; Drew's Victoria; Jeffries.

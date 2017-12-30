@@ -2,12 +2,6 @@ section: 1
 ----
 title: Wadhurst
 ----
-company:
-- south-eastern
-----
-route:
-- tunbridge-to-hastings
-----
 info:
 - term: Market Day
   desc: Saturday.

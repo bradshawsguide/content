@@ -2,12 +2,6 @@ section: 2
 ----
 title: Castle Cary
 ----
-company:
-- great-western
-----
-route:
-- chippenham-to-dorchester-and-weymouth
-----
 info:
 - term: Population
   desc: 2,060.

@@ -2,14 +2,6 @@ section: 1
 ----
 title: Ash
 ----
-company:
-- south-eastern
-- london-and-south-western
-----
-route:
-- reigate-to-reading
-- guildford-to-farnham-and-alton
-----
 info:
 - term: Omnibuses
   desc: to and from the station.

@@ -2,12 +2,6 @@
 ----
 title: Porchester
 ----
-company:
-- london-and-south-western
-----
-route:
-- bishopstoke-to-gosport-and-portsmouth
-----
 info:
 - term: Money Order Office
   desc: at Fareham.

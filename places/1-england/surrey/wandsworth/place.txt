@@ -2,12 +2,6 @@ section: 1
 ----
 title: Wandsworth
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-richmond-and-staines
-----
 notes:
 - Telegraph station at Vauxhall, 3 miles.
 ----

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Killarney
 ----
-company:
-- cork-bandon-and-south-coast
-----
-route:
-- mallow-to-killarney-and-tralee
-----
 info:
 - term: Hotels
   desc: The Lake, Coffee's; Royal Victoria, O'Leary's--both on the margin of the Lake; The Railway, by the station; Kenmare Arms; Royal Hibernian.

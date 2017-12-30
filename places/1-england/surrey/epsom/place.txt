@@ -2,14 +2,6 @@ section: 1
 ----
 title: Epsom
 ----
-company:
-- london-brighton-and-south-coast
-- london-and-south-western
-----
-route:
-- london-bridge-to-brighton
-- wimbledon-to-epsom-and-leatherhead
-----
 info:
 - term: Population
   desc: 4,890.

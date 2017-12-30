@@ -2,12 +2,6 @@ section: 2
 ----
 title: Denbigh
 ----
-company:
-- vale-of-clwyd
-----
-route:
-- rhyl-to-corwen
-----
 info:
 - term: Population
   desc: 5,946.

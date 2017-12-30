@@ -2,14 +2,6 @@ section: 1
 ----
 title: Beckenham
 ----
-company:
-- mid-kent
-- london-chatham-and-dover
-----
-route:
-- lewisham-to-beckenham-and-croydon
-- london-to-chatham-and-dover
-----
 info:
 - term: Population
   desc: 2,124.

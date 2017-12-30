@@ -2,14 +2,6 @@ section: 2
 ----
 title: Truro
 ----
-company:
-- cornwall
-- great-western
-----
-route:
-- plymouth-to-truro
-- truro-to-redruth-and-penzance
-----
 info:
 - term: Hotel
   desc: Red Lion.

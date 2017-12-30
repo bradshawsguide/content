@@ -2,12 +2,6 @@ section: 2
 ----
 title: Redruth
 ----
-company:
-- great-western
-----
-route:
-- truro-to-redruth-and-penzance
-----
 info:
 - term: Population
   desc: 7,919.

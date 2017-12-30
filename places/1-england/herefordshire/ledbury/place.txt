@@ -2,12 +2,6 @@ section: 2
 ----
 title: Ledbury
 ----
-company:
-- great-western
-----
-route:
-- worchester-to-hereford
-----
 info:
 - term: Population
   desc: 3,263.

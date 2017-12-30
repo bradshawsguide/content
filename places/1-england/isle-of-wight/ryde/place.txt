@@ -2,13 +2,6 @@ section: 1
 ----
 title: Ryde
 ----
-company:
-- isle-of-wight
-----
-route:
-- ryde-to-newchurch
-- ryde-to-the-needles
-----
 info:
 - term: Population
   desc: 9,269.

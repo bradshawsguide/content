@@ -2,12 +2,6 @@ section: 2
 ----
 title: Llanrwst
 ----
-company:
-- london-and-north-western
-----
-route:
-- conway-to-llanrwst
-----
 info:
 - term: Population
   desc: 3,593.

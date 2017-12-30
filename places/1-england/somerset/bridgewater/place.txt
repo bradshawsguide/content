@@ -2,12 +2,6 @@ section: 2
 ----
 title: Bridgewater
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- bristol-to-exeter
-----
 info:
 - term: Hotels
   desc: Royal Clarence, Globe, White Hart.

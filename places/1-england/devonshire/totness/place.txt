@@ -2,12 +2,6 @@ section: 2
 ----
 title: Totness
 ----
-company:
-- south-devon
-----
-route:
-- exeter-to-torquay-and-plymouth
-----
 info:
 - term: Population
   desc: 4,001.

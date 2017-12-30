@@ -2,12 +2,6 @@ section: 1
 ----
 title: Rainham
 ----
-company:
-- london-chatham-and-dover
-----
-route:
-- london-to-chatham-and-dover
-----
 notes:
 - A telegraph station.
 ----

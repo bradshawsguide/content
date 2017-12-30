@@ -2,12 +2,6 @@
 ----
 title: Romsey
 ----
-company:
-- london-and-south-western
-----
-route:
-- bishopstoke-to-salisbury
-----
 info:
 - term: Hotel
   desc: White Horse.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Northwich
 ----
-company:
-- cheshire-lines-committee
-----
-route:
-- altrincham-to-northwich
-----
 notes:
 - A telegraph station.
 ----

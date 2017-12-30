@@ -2,14 +2,6 @@ section: 2
 ----
 title: Newport
 ----
-company:
-- great-western
-----
-route:
-- newport-to-ebbw-vale
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-- newport-to-abergavenny-and-hereford
-----
 info:
 - term: Hotel
   desc: King's Head; West Gate.

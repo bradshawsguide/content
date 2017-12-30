@@ -2,12 +2,6 @@
 ----
 title: Fareham
 ----
-company:
-- london-and-south-western
-----
-route:
-- bishopstoke-to-gosport-and-portsmouth
-----
 info:
 - term: Population
   desc: 4,O11.

@@ -2,13 +2,6 @@ section: 2
 ----
 title: Hartlebury
 ----
-company:
-- great-western
-----
-route:
-- oxford-to-worchester-and-wolverhampton
-- hartlebury-to-shrewsbury
-----
 info:
 - term: Population
   desc: 1,852.

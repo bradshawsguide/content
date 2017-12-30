@@ -4,12 +4,6 @@ title: Dolgelley
 ----
 subtitle: Dolgellau
 ----
-company:
-- aberystwith-and-welsh-coast
-----
-route:
-- machynlleth-to-aberystwith
-----
 info:
 - term: Market Days
   desc: Tuesday and Saturday.

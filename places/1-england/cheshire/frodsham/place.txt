@@ -2,13 +2,6 @@ section: 2
 ----
 title: Frodsham
 ----
-company:
-- great-western
-- london-and-north-western
-----
-route:
-- chester-to-manchester
-----
 info:
 - desc: Hotel
   term: Bear's Paw.

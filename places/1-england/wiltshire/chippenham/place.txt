@@ -2,14 +2,6 @@ section: 2
 ----
 title: Chippenham
 ----
-company:
-- great-western
-----
-route:
-- london-to-reading-bath-and-bristol
-- chippenham-to-calne
-- chippenham-to-dorchester-and-weymouth
-----
 info:
 - term: Hotels
   desc: Angel, George.

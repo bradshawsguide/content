@@ -2,17 +2,6 @@ section: 1
 ----
 title: Guildford
 ----
-company:
-- south-eastern
-- london-brighton-and-south-coast
-- london-and-south-western
-----
-route:
-- reigate-to-reading
-- three-bridges-to-horsham-and-arundel
-- woking-to-godalming-and-portsmouth
-- guildford-to-farnham-and-alton
-----
 info:
 - term: Population
   desc: 8,020.

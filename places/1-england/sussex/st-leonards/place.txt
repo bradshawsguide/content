@@ -2,14 +2,6 @@ section: 1
 ----
 title: St. Leonards
 ----
-company:
-- south-eastern
-- london-brighton-and-south-coast
-----
-route:
-- tunbridge-to-hastings
-- lewes-to-hailsham-eastbourne-and-hastings
-----
 info:
 - term: Hotel
   desc: Royal Victoria; Royal Saxon.

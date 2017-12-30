@@ -2,12 +2,6 @@
 ----
 title: Brading
 ----
-company:
-- isle-of-wight
-----
-route:
-- ryde-to-newchurch
-----
 info:
 - term: Hotels
   desc: Bugle; Wheat Sheaf.

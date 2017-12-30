@@ -2,13 +2,6 @@ section: 2
 ----
 title: Newton Abbots
 ----
-company:
-- south-devon
-----
-route:
-- exeter-to-torquay-and-plymouth
-- newton-junction-to-torquay-and-brixham
-----
 info:
 - term: Population
   desc: 5,226.

@@ -2,12 +2,6 @@ section: 1
 ----
 title: Tunbridge Wells
 ----
-company:
-- south-eastern
-----
-route:
-- tunbridge-to-hastings
-----
 info:
 - term: Population
   desc: about 13,867.

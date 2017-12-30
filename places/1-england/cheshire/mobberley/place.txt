@@ -2,12 +2,6 @@ section: 2
 ----
 title: Mobberley
 ----
-company:
-- cheshire-lines-committee
-----
-route:
-- altrincham-to-northwich
-----
 info:
 - desc: Population
   term: 1,245.

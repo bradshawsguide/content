@@ -2,12 +2,6 @@ section: 1
 ----
 title: Windsor
 ----
-company:
-- london-and-south-western
-----
-route:
-- staines-to-windsor
-----
 info:
 - term: Hotels
   desc: Castle; White Hart

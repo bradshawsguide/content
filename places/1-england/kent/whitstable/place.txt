@@ -2,14 +2,6 @@ section: 1
 ----
 title: Whitstable
 ----
-company:
-- london-chatham-and-dover
-- south-eastern
-----
-route:
-- faversham-to-ramsgate-harbour
-- ashford-to-canterbury-and-ramsgate
-----
 info:
 - term: Hotels
   desc: Two Brewers; Bear and Key.

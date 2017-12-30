@@ -2,13 +2,6 @@ section: 1
 ----
 title: Canterbury
 ----
-company:
-- south-eastern
-----
-route:
-- ashford-to-canterbury-and-ramsgate
-- canterbury-to-whitstable
-----
 info:
 - term: Population
   desc: 21,324.

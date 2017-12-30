@@ -2,12 +2,6 @@ section: 2
 ----
 title: Penzance
 ----
-company:
-- great-western
-----
-route:
-- truro-to-redruth-and-penzance
-----
 info:
 - term: Hotels
   desc: Union; Star.

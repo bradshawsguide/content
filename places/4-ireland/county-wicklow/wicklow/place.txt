@@ -2,12 +2,6 @@ section: 2
 ----
 title: Wicklow
 ----
-company:
-- dublin-wicklow-and-wexford
-----
-route:
-- dublin-to-wicklow-and-wexford
-----
 info:
 - term: Hotel
   desc: Byrne's.

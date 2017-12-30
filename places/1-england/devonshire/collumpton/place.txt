@@ -2,12 +2,6 @@ section: 2
 ----
 title: Collumpton
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- bristol-to-exeter
-----
 info:
 - term: Hotel
   desc: White Hart.

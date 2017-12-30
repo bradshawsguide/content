@@ -2,12 +2,6 @@ section: 2
 ----
 title: Carrickfergus
 ----
-company:
-- belfast-and-northern-counties
-----
-route:
-- belast-to-ballymena-and-portrush
-----
 info:
 - term: Omnibuses
   desc: to and from the station.

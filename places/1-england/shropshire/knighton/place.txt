@@ -2,12 +2,6 @@ section: 2
 ----
 title: Knighton
 ----
-company:
-- london-and-north-western
-----
-route:
-- craven-arms-to-knighton-and-llandrindod
-----
 notes:
 - Telegraph station at Craven Arms, 12½ miles.
 ----

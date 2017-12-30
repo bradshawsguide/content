@@ -2,14 +2,6 @@ section: 2
 ----
 title: Highbridge
 ----
-company:
-- bristol-and-exeter
-- somerset-and-dorset
-----
-route:
-- bristol-to-exeter
-- highbridge-to-glastonbury-wells-and-templecombe
-----
 info:
 - term: Hotel
   desc: Railway.

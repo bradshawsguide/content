@@ -2,14 +2,6 @@ section: 2
 ----
 title: New Milford
 ----
-company:
-- great-western
-- pembroke-and-tenby
-----
-route:
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-- new-milford-to-tenby
-----
 notes:
 - A telegraph station.
 ----

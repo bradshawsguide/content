@@ -2,12 +2,6 @@ section: 2
 ----
 title: Rhayader
 ----
-company:
-- hereford-hay-and-brecon
-----
-route:
-- hereford-to-hay-and-brecon
-----
 desc: The town stands among mountains, and has some fragments of a castle.
 ----
 text: Or *Rhayader-Gwy*, i.e., the Falls of the Gwy (the Welsh name for the Wye), so called from a cascade made by the river, close to the bridge. The town stands among mountains, and has some fragments of a castle. About nine miles up the stream is Llyn Gwyn, in which croaking trout, are caught.

@@ -2,12 +2,6 @@ section: 1
 ----
 title: Sandwich
 ----
-company:
-- south-eastern
-----
-route:
-- ashford-to-canterbury-and-ramsgate
-----
 info:
 - term: Population
   desc: 23,914.

@@ -2,14 +2,6 @@ section: 2
 ----
 title: Drogheda
 ----
-company:
-- dublin-and-drogheda
-- dublin-and-belfast-junction
-----
-route:
-- dublin-to-drogheda
-- drogheda-to-dundalk-and-newry
-----
 info:
 - term: Hotel
   desc: Imperial.

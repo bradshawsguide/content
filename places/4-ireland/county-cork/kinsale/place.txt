@@ -2,12 +2,6 @@ section: 2
 ----
 title: Kinsale
 ----
-company:
-- cork-bandon-and-south-coast
-----
-route:
-- cork-to-bandon
-----
 notes:
 - A telegraph station.
 ----

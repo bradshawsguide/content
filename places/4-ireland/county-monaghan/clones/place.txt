@@ -2,15 +2,6 @@ section: 2
 ----
 title: Clones
 ----
-company:
-- ulster
-- londonderry-and-enniskillen
-- dundalk-and-enniskillen
-----
-route:
-- clones-to-armagh-and-belfast
-- londonderry-to-enniskillen-and-dundalk
-----
 info:
 - term: Market Day
   desc: Thursday.

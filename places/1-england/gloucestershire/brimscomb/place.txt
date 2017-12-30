@@ -2,12 +2,6 @@ section: 2
 ----
 title: Brimscomb
 ----
-company:
-- great-western
-----
-route:
-- swindon-to-gloucester-and-cheltenham
-----
 info:
 - term: Hotel
   desc: Railway.

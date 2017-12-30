@@ -2,12 +2,6 @@ section: 2
 ----
 title: Llandaff
 ----
-company:
-- taff-vale
-----
-route:
-- cardiff-to-aberdare-and-merthyr
-----
 info:
 - term: Population
   desc: 6,585.

@@ -2,12 +2,6 @@ section: 1
 ----
 title: Ascot
 ----
-company:
-- staines-wokingham-and-reading
-----
-route:
-- staines-to-wokingham-and-reading
-----
 info:
 - term: Hotel
   desc: Royal Ascot (Portridge); Swan.

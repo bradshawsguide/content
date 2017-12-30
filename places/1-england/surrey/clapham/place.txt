@@ -2,13 +2,6 @@ section: 1
 ----
 title: Clapham
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-- london-to-richmond-and-staines
-----
 info:
 - term: Population
   desc: 20,894.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Longford
 ----
-company:
-- midland-great-western
-----
-route:
-- dublin-to-mullingar-athlone-and-galway
-----
 info:
 - term: Hotel
   desc: Sutcliffe's.

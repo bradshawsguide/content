@@ -2,12 +2,6 @@ section: 2
 ----
 title: Montgomery
 ----
-company:
-- cambrian
-----
-route:
-- ostwestry-to-newtown-and-llanidloes
-----
 info:
 - term: Population
   desc: 1,276.

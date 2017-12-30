@@ -2,15 +2,6 @@ section: 1
 ----
 title: Hayward's Heath
 ----
-subtitle: (Junction)
-----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- london-bridge-to-brighton
-- haywards-heath-to-lewes-and-newhaven
-----
 notes:
 - A telegraph station.
 ----

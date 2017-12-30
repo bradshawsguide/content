@@ -2,12 +2,6 @@ section: 1
 ----
 title: Aylesford
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-woolwich-gravesend-strood-and-rochester
-----
 notes:
 - A telegraph station.
 ----

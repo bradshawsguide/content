@@ -2,13 +2,6 @@ section: 2
 ----
 title: Melksham
 ----
-company:
-- great-western
-----
-route:
-- chippenham-to-dorchester-and-weymouth
-- melksham-to-devizes
-----
 info:
 - term: Hotel
   desc: Bear, King's Arms.

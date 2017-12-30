@@ -2,14 +2,6 @@ section: 1
 ----
 title: Rochester
 ----
-company:
-- south-eastern
-- london-chatham-and-dover
-----
-route:
-- charing-cross-to-woolwich-gravesend-strood-and-rochester
-- london-to-chatham-and-dover
-----
 info:
 - term: Hotels
   desc: Victoria and Bull Inns; Crown.

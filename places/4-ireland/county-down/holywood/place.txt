@@ -2,12 +2,6 @@ section: 2
 ----
 title: Holywood
 ----
-company:
-- belfast-and-county-down
-----
-route:
-- belast-to-holywood-and-bangor
-----
 info:
 - term: Hotel
   desc: Power's.

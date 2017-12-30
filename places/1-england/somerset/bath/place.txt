@@ -2,13 +2,6 @@ section: 2
 ----
 title: Bath
 ----
-company:
-- great-western
-----
-route:
-- trowbridge-to-bath
-- london-to-reading-bath-and-bristol
-----
 info:
 - term: Population
   desc: 52,528.

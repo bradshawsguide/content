@@ -2,12 +2,6 @@ section: 2
 ----
 title: Dawlish
 ----
-company:
-- south-devon
-----
-route:
-- exeter-to-torquay-and-plymouth
-----
 info:
 - term: Population
   desc: 3,505.

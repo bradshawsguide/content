@@ -2,13 +2,6 @@ section: 2
 ----
 title: Birkenhead
 ----
-company:
-- great-western
-- london-and-north-western
-----
-route:
-- chester-to-birkenhead-and-liverpool
-----
 info:
 - term: Hotels
   desc: The Woodside, Adelphi, and Castle.

@@ -2,15 +2,6 @@ section: 1
 ----
 title: Red Hill
 ----
-company:
-- south-eastern
-- london-brighton-and-south-coast
-----
-route:
-- charing-cross-to-folkestone-and-dover
-- reigate-to-reading
-- london-bridge-to-brighton
-----
 info:
 - term: Hotel
   desc: Railway Hotel.

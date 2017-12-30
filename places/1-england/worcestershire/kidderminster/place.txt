@@ -2,12 +2,6 @@ section: 2
 ----
 title: Kidderminster
 ----
-company:
-- great-western
-----
-route:
-- oxford-to-worchester-and-wolverhampton
-----
 info:
 - term: Hotels
   desc: Lion, Black Horse.

@@ -2,14 +2,6 @@ section: 2
 ----
 title: Mallow
 ----
-company:
-- great-southern-and-western
-- cork-bandon-and-south-coast
-----
-route:
-- dublin-to-cork-and-killarney
-- mallow-to-killarney-and-tralee
-----
 info:
 - term: Hotel
   desc: Imperial.

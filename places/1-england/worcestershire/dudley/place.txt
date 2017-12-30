@@ -2,13 +2,6 @@ section: 2
 ----
 title: Dudley
 ----
-company:
-- great-western
-----
-route:
-- oxford-to-worchester-and-wolverhampton
-- dudley-to-walsall-derby-and-burton
-----
 info:
 - term: Population
   desc: 44,975.

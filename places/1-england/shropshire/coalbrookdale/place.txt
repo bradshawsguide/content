@@ -2,12 +2,6 @@ section: 2
 ----
 title: Coalbrookdale
 ----
-company:
-- great-western
-----
-route:
-- hartlebury-to-shrewsbury
-----
 desc: Situate in the north west angle of the parish of Madeley, about 14 miles from Shrewsbury, 5 from Wellington, and 6 from Shiffnal, with all of which places there is now railway communication.
 ----
 text: Situate in the north west angle of the parish of Madeley, about 14 miles from Shrewsbury, 5 from Wellington, and 6 from Shiffnal, with all of which places there is now railway communication.

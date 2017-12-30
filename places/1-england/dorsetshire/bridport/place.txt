@@ -2,12 +2,6 @@
 ----
 title: Bridport
 ----
-company:
-- great-western
-----
-route:
-- maiden-newton-to-bridport
-----
 info:
 - term: Population
   desc: 7,712.

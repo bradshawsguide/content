@@ -2,13 +2,6 @@ section: 2
 ----
 title: Trowbridge
 ----
-company:
-- great-western
-----
-route:
-- chippenham-to-dorchester-and-weymouth
-- trowbridge-to-bath
-----
 info:
 - term: Hotel
   desc: George.

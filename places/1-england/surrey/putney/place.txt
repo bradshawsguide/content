@@ -2,12 +2,6 @@ section: 1
 ----
 title: Putney
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-richmond-and-staines
-----
 notes:
 - A telegraph station.
 ----

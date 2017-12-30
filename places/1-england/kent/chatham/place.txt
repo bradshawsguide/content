@@ -2,14 +2,6 @@ section: 1
 ----
 title: Chatham
 ----
-company:
-- south-eastern
-- london-chatham-and-dover
-----
-route:
-- charing-cross-to-woolwich-gravesend-strood-and-rochester
-- london-to-chatham-and-dover
-----
 info:
 - term: Population
   desc: 12,015.

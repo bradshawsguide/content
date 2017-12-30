@@ -4,12 +4,6 @@ title: Longhope
 ----
 subtitle: (late Hopebrook)
 ----
-company:
-- great-western
-----
-route:
-- gloucester-to-ross-and-hereford
-----
 info:
 - term: Hotel
   desc: Railway.

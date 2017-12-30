@@ -2,13 +2,6 @@ section: 2
 ----
 title: Ludlow
 ----
-company:
-- great-western
-- london-and-north-western
-----
-route:
-- hereford-to-shrewsbury
-----
 info:
 - term: Hotel
   desc: Angel.

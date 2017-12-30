@@ -2,12 +2,6 @@ section: 2
 ----
 title: Monmouth
 ----
-company:
-- great-western
-----
-route:
-- pontypool-road-to-monmouth
-----
 info:
 - term: Hotels
   desc: Beaufort Arms; King's Head.

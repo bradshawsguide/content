@@ -2,12 +2,6 @@
 ----
 title: Wareham
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-----
 info:
 - term: Population
   desc: 6,694.

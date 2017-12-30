@@ -2,12 +2,6 @@ section: 2
 ----
 title: Calne
 ----
-company:
-- great-western
-----
-route:
-- chippenham-to-calne
-----
 info:
 - term: Population
   desc: 5,179.

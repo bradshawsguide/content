@@ -2,12 +2,6 @@ section: 1
 ----
 title: Kingston-on-Sea
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- brighton-to-worthing-chichester-and-portsmouth
-----
 info:
 - term: Hotel
   desc: Kingston Inn.

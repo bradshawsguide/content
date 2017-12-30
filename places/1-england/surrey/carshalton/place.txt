@@ -2,12 +2,6 @@ section: 1
 ----
 title: Carshalton
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- london-bridge-to-brighton
-----
 info:
 - term: Hotels
   desc: Greyhound, King's Arms.

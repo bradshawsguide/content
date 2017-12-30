@@ -2,15 +2,6 @@ section: 2
 ----
 title: Merthyr Tydvil
 ----
-company:
-- great-western
-- taff-vale
-----
-route:
-- pontypool-road-to-merthyr
-- cardiff-to-aberdare-and-merthyr
-- swansea-to-merthyr
-----
 info:
 - term: Population
   desc: 83,875.

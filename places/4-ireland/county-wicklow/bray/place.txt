@@ -2,12 +2,6 @@ section: 2
 ----
 title: Bray
 ----
-company:
-- dublin-wicklow-and-wexford
-----
-route:
-- dublin-to-wicklow-and-wexford
-----
 info:
 - term: Hotels
   desc: The International; Breslins.

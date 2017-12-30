@@ -2,14 +2,6 @@ section: 2
 ----
 title: Llanidloes
 ----
-company:
-- hereford-hay-and-brecon
-- cambrian
-----
-route:
-- hereford-to-hay-and-brecon
-- ostwestry-to-newtown-and-llanidloes
-----
 notes:
 - A telegraph station.
 ----

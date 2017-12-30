@@ -2,12 +2,6 @@ section: 2
 ----
 title: Brecon
 ----
-company:
-- hereford-hay-and-brecon
-----
-route:
-- hereford-to-hay-and-brecon
-----
 info:
 - term: Hotels
   desc: The Castle; Swan.

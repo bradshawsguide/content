@@ -4,12 +4,6 @@ title: Wiley
 ----
 subtitle: Wylye
 ----
-company:
-- great-western
-----
-route:
-- westbury-to-salisbury
-----
 notes:
 - Telegraph station at Wilton, 7¼ miles.
 ----

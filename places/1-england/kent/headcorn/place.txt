@@ -2,12 +2,6 @@ section: 1
 ----
 title: Headcorn
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-folkestone-and-dover
-----
 info:
 - term: Hotels
   desc: The George, King's Anns.

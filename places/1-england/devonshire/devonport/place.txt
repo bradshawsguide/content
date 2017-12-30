@@ -2,12 +2,6 @@ section: 2
 ----
 title: Devonport
 ----
-company:
-- cornwall
-----
-route:
-- plymouth-to-truro
-----
 notes:
 - A telegraph station.
 ----

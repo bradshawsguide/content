@@ -2,13 +2,6 @@ section: 2
 ----
 title: Devizes
 ----
-company:
-- great-western
-----
-route:
-- reading-to-hungerford-and-devizes
-- melksham-to-devizes
-----
 notes:
 - A telegraph station.
 ----

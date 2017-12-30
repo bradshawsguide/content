@@ -2,12 +2,6 @@ section: 2
 ----
 title: Bandon
 ----
-company:
-- cork-bandon-and-south-coast
-----
-route:
-- cork-to-bandon
-----
 info:
 - term: Hotel
   desc: French's.

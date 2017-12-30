@@ -2,12 +2,6 @@ section: 2
 ----
 title: Cheltenham
 ----
-company:
-- great-western
-----
-route:
-- swindon-to-gloucester-and-cheltenham
-----
 info:
 - term: Population
   desc: 39,693.

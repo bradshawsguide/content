@@ -2,16 +2,6 @@ section: 2
 ----
 title: Plymouth
 ----
-company:
-- south-devon
-- south-devon-and-tavistock
-- cornwall
-----
-route:
-- exeter-to-torquay-and-plymouth
-- plymouth-to-launceston
-- plymouth-to-truro
-----
 info:
 - term: Hotels
   desc: Royal Hotel; Chubbs' Commercial.

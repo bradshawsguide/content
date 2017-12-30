@@ -2,14 +2,6 @@ section: 1
 ----
 title: Ashford
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-folkestone-and-dover
-- ashford-to-canterbury-and-ramsgate
-- ashford-to-hastings
-----
 info:
 - term: Population
   desc: 5,522.

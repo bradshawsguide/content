@@ -2,12 +2,6 @@ section: 2
 ----
 title: Bideford
 ----
-company:
-- north-devon
-----
-route:
-- exeter-to-barnstaple-and-bideford
-----
 info:
 - term: Hotel
   desc: Commercial.

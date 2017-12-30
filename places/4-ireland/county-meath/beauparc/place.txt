@@ -2,12 +2,6 @@ section: 2
 ----
 title: Beauparc
 ----
-company:
-- dublin-and-drogheda
-----
-route:
-- dublin-to-drogheda
-----
 notes:
 - Telegraph station at Navan, 5 miles.
 ----

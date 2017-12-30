@@ -2,13 +2,6 @@ section: 2
 ----
 title: Bilston
 ----
-company:
-- great-western
-----
-route:
-- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
-- oxford-to-worchester-and-wolverhampton
-----
 info:
 - term: Population
   desc: 24,364.

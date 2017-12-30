@@ -2,15 +2,6 @@
 ----
 title: Salisbury
 ----
-company:
-- london-and-south-western
-- great-western
-----
-route:
-- basingstoke-to-salisbury-and-exeter
-- bishopstoke-to-salisbury
-- westbury-to-salisbury
-----
 info:
 - term: Hotels
   desc: White Hart; Red Lion; Three Swans.

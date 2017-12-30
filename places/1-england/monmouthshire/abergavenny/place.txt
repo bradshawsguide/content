@@ -2,14 +2,6 @@ section: 2
 ----
 title: Abergavenny
 ----
-company:
-- great-western
-- merthyr-tredegar-and-abergavenny
-----
-route:
-- newport-to-abergavenny-and-hereford
-- abergavenny-to-tredegar
-----
 info:
 - term: Hotel
   desc: Angel.

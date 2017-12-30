@@ -2,14 +2,6 @@ section: 2
 ----
 title: Athlone
 ----
-company:
-- great-southern-and-western
-- midland-great-western
-----
-route:
-- dublin-to-cork-and-killarney
-- dublin-to-mullingar-athlone-and-galway
-----
 info:
 - term: Hotel
   desc: Rourke's.

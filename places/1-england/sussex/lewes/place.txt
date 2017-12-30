@@ -2,15 +2,6 @@ section: 1
 ----
 title: Lewes
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- london-bridge-to-brighton
-- lewes-to-hailsham-eastbourne-and-hastings
-- lewes-to-uckfield
-- brighton-to-lewes
-----
 info:
 - term: Population
   desc: 9,716.

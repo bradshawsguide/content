@@ -2,16 +2,6 @@ section: 2
 ----
 title: Limerick
 ----
-company:
-- parsonstown-and-limerick
-- cork-and-limerick-direct
-- limerick-and-foynes
-----
-route:
-- ballybrophy-to-limerick
-- charleville-to-limerick
-- limerick-to-foynes
-----
 info:
 - term: Hotel
   desc: Moore's, J. W. Moore, Clare, Catherine O'Brien; Cruise's Royal, Edward Cruise.

@@ -2,16 +2,6 @@ section: 2
 ----
 title: Londonderry
 ----
-company:
-- londonderry-and-coleraine
-- londonderry-and-lough-swilly
-- londonderry-and-enniskillen
-----
-route:
-- coleraine-to-londonderry
-- londonderry-to-buncrana
-- londonderry-to-enniskillen-and-dundalk
-----
 info:
 - term: Hotel
   desc: Imperial.

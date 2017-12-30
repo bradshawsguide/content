@@ -2,13 +2,6 @@ section: 2
 ----
 title: Twyford
 ----
-company:
-- great-western
-----
-route:
-- london-to-reading-bath-and-bristol
-- twyford-to-henley
-----
 info:
 - term: Hotels
   desc: Station Hotel; King's Arms.

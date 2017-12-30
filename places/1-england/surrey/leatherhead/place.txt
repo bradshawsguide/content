@@ -2,12 +2,6 @@ section: 1
 ----
 title: Leatherhead
 ----
-company:
-- london-and-south-western
-----
-route:
-- wimbledon-to-epsom-and-leatherhead
-----
 info:
 - term: Hotels
   desc: Swan; Duke's Head.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Lisburn
 ----
-company:
-- ulster
-----
-route:
-- clones-to-armagh-and-belfast
-----
 info:
 - term: Hotel
   desc: Mrs. Lennon's.

@@ -2,12 +2,6 @@
 ----
 title: Exmouth
 ----
-company:
-- london-and-south-western
-----
-route:
-- exeter-to-exmouth
-----
 info:
 - term: Population
   desc: 5,228.

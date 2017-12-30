@@ -2,18 +2,6 @@ section: 2
 ----
 title: Exeter
 ----
-region: devonshire
-----
-location: 50.729538, -3.543649
-----
-company:
-- bristol-and-exeter
-- south-devon
-----
-route:
-- bristol-to-exeter
-- exeter-to-torquay-and-plymouth
-----
 info:
 - term: Fly Fares
   desc: To and from any part of the City, 1s.; to and from Heavitree, 1s. 6d.; to and from Mount Radford, 1s. 6d; beyond the boundaries of the City, 1s. per mile. A fraction of a mile considered as a mile.

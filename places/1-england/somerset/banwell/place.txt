@@ -2,12 +2,6 @@ section: 2
 ----
 title: Banwell
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- bristol-to-exeter
-----
 info:
 - term: Population
   desc: 1,853.

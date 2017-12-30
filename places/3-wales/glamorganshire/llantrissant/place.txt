@@ -2,14 +2,6 @@ section: 2
 ----
 title: Llantrissant
 ----
-company:
-- taff-vale
-- great-western
-----
-route:
-- cardiff-to-aberdare-and-merthyr
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-----
 info:
 - term: Population
   desc: 1,493.

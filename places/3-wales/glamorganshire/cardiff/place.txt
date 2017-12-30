@@ -2,12 +2,6 @@ section: 2
 ----
 title: Cardiff
 ----
-company:
-- great-western
-----
-route:
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-----
 info:
 - term: Population
   desc: 32,954.

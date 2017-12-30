@@ -2,12 +2,6 @@ section: 2
 ----
 title: Chepstow
 ----
-company:
-- great-western
-----
-route:
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-----
 info:
 - term: Population
   desc: 3,364.

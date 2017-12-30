@@ -4,12 +4,6 @@ title: Ticehurst Road
 ----
 title_short: Ticehurst Rd.
 ----
-company:
-- south-eastern
-----
-route:
-- tunbridge-to-hastings
-----
 info:
 - term: Market Day
   desc: Saturday.

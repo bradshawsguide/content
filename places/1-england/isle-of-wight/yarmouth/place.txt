@@ -2,9 +2,6 @@ section: 1
 ----
 title: Yarmouth
 ----
-route:
-- ryde-to-the-needles
-----
 - term: Hotel
   desc: George.
 - term: Carriers

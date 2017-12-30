@@ -2,12 +2,6 @@ section: 2
 ----
 title: Llandovery
 ----
-company:
-- llanelly-railway-and-docks
-----
-route:
-- llanelly-to-llandilo-and-llandovery
-----
 info:
 - term: Population
   desc: 1,855.

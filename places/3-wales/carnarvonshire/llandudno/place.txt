@@ -2,12 +2,6 @@ section: 2
 ----
 title: Llandudno
 ----
-company:
-- london-and-north-western
-----
-route:
-- conway-to-llandudno
-----
 info:
 - term: Population
   desc: 2,316.

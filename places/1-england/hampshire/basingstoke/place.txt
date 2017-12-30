@@ -2,15 +2,6 @@
 ----
 title: Basingstoke
 ----
-company:
-- london-and-south-western
-- great-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-- basingstoke-to-salisbury-and-exeter
-- reading-to-basingstoke
-----
 info:
 - term: Hotels
   desc: Angel; Red Lion; Wheat Sheaf.

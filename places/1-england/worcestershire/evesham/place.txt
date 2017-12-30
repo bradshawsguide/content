@@ -2,14 +2,6 @@ section: 2
 ----
 title: Evesham
 ----
-company:
-- great-western
-- midland
-----
-route:
-- oxford-to-worchester-and-wolverhampton
-- evesham-to-ashchurch
-----
 info:
 - term: Hotel
   desc: Crown.

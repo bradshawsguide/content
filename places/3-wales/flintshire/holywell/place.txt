@@ -2,12 +2,6 @@ section: 2
 ----
 title: Holywell
 ----
-company:
-- london-and-north-western
-----
-route:
-- chester-to-holyhead
-----
 info:
 - term: Hotel
   desc: White Horse.

@@ -2,20 +2,6 @@ section: 2
 ----
 title: Dublin
 ----
-company:
-- dublin-and-kingstown
-- great-southern-and-western
-- midland-great-western
-- dublin-wicklow-and-wexford
-- dublin-and-drogheda
-----
-route:
-- holyhead-to-dublin
-- dublin-to-cork-and-killarney
-- dublin-to-mullingar-athlone-and-galway
-- dublin-to-wicklow-and-wexford
-- dublin-to-drogheda
-----
 info:
 - term: Hotels
   desc: Bilton, 56, Upper Sackville Street, Lewis Heinkey; Reynolds', 12, Upper Sackville Street, F. Reynolds; Tuthill's, 51, Dawson Street, William Tuthill; Morrison's, 1, Dawson Street, John Baker; for Families.

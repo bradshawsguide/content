@@ -2,13 +2,6 @@ section: 1
 ----
 title: Twickenham
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-richmond-and-staines
-- twickenham-to-shepperton
-----
 info:
 - term: Hotels
   desc: King's Head; Royal.

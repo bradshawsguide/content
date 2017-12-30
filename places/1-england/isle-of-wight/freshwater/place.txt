@@ -2,9 +2,6 @@
 ----
 title: Freshwater
 ----
-route:
-- ryde-to-the-needles
-----
 info:
 - term: Hotels
   desc: Lambert's Hotel; Royal Albion.

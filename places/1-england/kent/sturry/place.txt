@@ -2,12 +2,6 @@ section: 1
 ----
 title: Sturry
 ----
-company:
-- south-eastern
-----
-route:
-- ashford-to-canterbury-and-ramsgate
-----
 info:
 - term: Hotel
   desc: The Swan.

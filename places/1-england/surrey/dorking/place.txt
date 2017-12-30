@@ -2,12 +2,6 @@ section: 1
 ----
 title: Dorking
 ----
-company:
-- south-eastern
-----
-route:
-- reigate-to-reading
-----
 info:
 - term: Population
   desc: 4,161.

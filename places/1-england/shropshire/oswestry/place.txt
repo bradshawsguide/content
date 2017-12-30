@@ -2,12 +2,6 @@ section: 2
 ----
 title: Oswestry
 ----
-company:
-- cambrian
-----
-route:
-- ostwestry-to-newtown-and-llanidloes
-----
 info:
 - term: Population
   desc: 5,414.

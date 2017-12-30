@@ -2,12 +2,6 @@ section: 1
 ----
 title: Caterham
 ----
-company:
-- south-eastern
-----
-route:
-- caterham-junction-to-caterham
-----
 info:
 - term: Hotel
   desc: Railway.

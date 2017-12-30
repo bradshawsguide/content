@@ -2,13 +2,6 @@ section: 2
 ----
 title: Neath
 ----
-company:
-- great-western
-----
-route:
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-- swansea-to-merthyr
-----
 info:
 - term: Population
   desc: 6,810.

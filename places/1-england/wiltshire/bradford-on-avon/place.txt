@@ -4,12 +4,6 @@ title: Bradford
 ----
 subtitle: Bradford-on-Avon
 ----
-company:
-- great-western
-----
-route:
-- trowbridge-to-bath
-----
 notes:
 - A telegraph station.
 ----

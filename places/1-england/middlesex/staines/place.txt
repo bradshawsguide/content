@@ -2,15 +2,6 @@ section: 1
 ----
 title: Staines
 ----
-company:
-- london-and-south-western
-- staines-wokingham-and-reading
-----
-route:
-- london-to-richmond-and-staines
-- staines-to-windsor
-- staines-to-wokingham-and-reading
-----
 info:
 - term: Population
   desc: 2,584.

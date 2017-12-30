@@ -2,13 +2,6 @@ section: 2
 ----
 title: Ruabon
 ----
-company:
-- great-western
-----
-route:
-- didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
-- ruabon-to-corwen
-----
 info:
 - term: Population
   desc: 14,343.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Bucknell
 ----
-company:
-- london-and-north-western
-----
-route:
-- craven-arms-to-knighton-and-llandrindod
-----
 info:
 - term: Population
   desc: 622.

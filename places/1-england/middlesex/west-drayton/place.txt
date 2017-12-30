@@ -2,12 +2,6 @@ section: 2
 ----
 title: West Drayton
 ----
-company:
-- great-western
-----
-route:
-- london-to-reading-bath-and-bristol
-----
 info:
 - term: Hotels
   desc: Crown; King's Head; De Burgh Arms.

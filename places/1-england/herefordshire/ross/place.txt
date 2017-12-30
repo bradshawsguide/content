@@ -4,12 +4,6 @@ title: Ross
 ----
 subtitle: Ross-on-Wye
 ----
-company:
-- great-western
-----
-route:
-- gloucester-to-ross-and-hereford
-----
 info:
 - term: Hotels
   desc: Royal; King's Head.

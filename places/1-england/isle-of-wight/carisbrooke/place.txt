@@ -2,9 +2,6 @@
 ----
 title: Carisbrooke
 ----
-route:
-- ryde-to-the-needles
-----
 info:
 - term: Hotel
   desc: The Castle.

@@ -2,12 +2,6 @@ section: 2
 ----
 title: Torquay
 ----
-company:
-- south-devon
-----
-route:
-- exeter-to-torquay-and-plymouth
-----
 info:
 - term: Population
   desc: 16,419.

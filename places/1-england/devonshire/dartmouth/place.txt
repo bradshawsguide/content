@@ -2,12 +2,6 @@ section: 2
 ----
 title: Dartmouth
 ----
-company:
-- south-devon
-----
-route:
-- exeter-to-torquay-and-plymouth
-----
 info:
 - term: Hotels
   desc: Commercial; Castle.

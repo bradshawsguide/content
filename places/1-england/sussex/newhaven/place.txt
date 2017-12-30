@@ -2,12 +2,6 @@ section: 1
 ----
 title: Newhaven
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- london-bridge-to-brighton
-----
 info:
 - term: Hotel
   desc: Bridge Inn.

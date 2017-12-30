@@ -2,9 +2,6 @@ section: 1
 ----
 title: Newchurch
 ----
-route:
-- ryde-to-newchurch
-----
 info:
 - term: Coaches
   desc: to and from Newport and Ryde, daily.

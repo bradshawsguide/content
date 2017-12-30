@@ -2,12 +2,6 @@
 ----
 title: Dorchester
 ----
-company:
-- london-and-south-western
-----
-route:
-- london-to-southampton-dorchester-and-weymouth
-----
 info:
 - term: Hotels
   desc: King's Arms; Antelope.

@@ -2,12 +2,6 @@ section: 1
 ----
 title: Greenwich
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-greenwich
-----
 info:
 - term: Population
   desc: 139,436.

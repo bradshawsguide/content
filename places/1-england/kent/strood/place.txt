@@ -2,15 +2,6 @@ section: 1
 ----
 title: Strood
 ----
-company:
-- south-eastern
-- london-chatham-and-dover
-----
-route:
-- charing-cross-to-woolwich-gravesend-strood-and-rochester
-- london-to-chatham-and-dover
-- strood-to-maidstone
-----
 info:
 - term: Hotel
   desc: Old George.

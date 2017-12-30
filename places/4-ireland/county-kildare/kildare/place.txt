@@ -2,12 +2,6 @@ section: 2
 ----
 title: Kildare
 ----
-company:
-- great-southern-and-western
-----
-route:
-- dublin-to-cork-and-killarney
-----
 info:
 - term: Market day
   desc: Thursday.

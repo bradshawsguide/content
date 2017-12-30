@@ -4,10 +4,4 @@ title: Dingestow
 ----
 subtitle: or Dynystow
 ----
-company:
-- great-western
-----
-route:
-- pontypool-road-to-monmouth
-----
 text: In a barn, among beautiful orchards, may be seen the remains of Grace Dieu Abbey.

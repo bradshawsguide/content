@@ -2,14 +2,6 @@ section: 1
 ----
 title: Havant
 ----
-company:
-- london-brighton-and-south-coast
-- london-and-south-western
-----
-route:
-- brighton-to-worthing-chichester-and-portsmouth
-- woking-to-godalming-and-portsmouth
-----
 info:
 - term: Hotel
   desc: Bear.

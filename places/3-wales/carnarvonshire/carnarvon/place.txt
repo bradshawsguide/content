@@ -4,12 +4,6 @@ title: Carnarvon
 ----
 subtitle: Caernarvon
 ----
-company:
-- london-and-north-western
-----
-route:
-- menai-bridge-to-carnarvon
-----
 info:
 - term: Population
 - desc: 8,512.

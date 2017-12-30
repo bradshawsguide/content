@@ -2,12 +2,6 @@ section: 2
 ----
 title: Charlbury
 ----
-company:
-- great-western
-----
-route:
-- oxford-to-worchester-and-wolverhampton
-----
 info:
 - term: Population
   desc: 1,380.

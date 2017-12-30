@@ -2,9 +2,6 @@ section: 1
 ----
 title: St. Lawrence
 ----
-route:
-- ryde-to-newchurch
-----
 info:
 - term: Hotel
   desc: St. Lawrence.

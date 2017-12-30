@@ -2,12 +2,6 @@ section: 1
 ----
 title: Angmering
 ----
-company:
-- london-brighton-and-south-coast
-----
-route:
-- brighton-to-worthing-chichester-and-portsmouth
-----
 info:
 - term: Money Order Office
   desc: at Arundel.

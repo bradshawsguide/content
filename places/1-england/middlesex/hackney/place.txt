@@ -2,12 +2,6 @@ section: 1
 ----
 title: Hackney
 ----
-company:
-- north-london
-----
-route:
-- fenchurch-street-to-chalk-farm
-----
 info:
 - term: Omnibuses
   desc: Every 5 minutes to and from the city and Oxford Street, London.

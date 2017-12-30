@@ -2,12 +2,6 @@ section: 2
 ----
 title: Prestatyn
 ----
-company:
-- london-and-north-western
-----
-route:
-- chester-to-holyhead
-----
 notes:
 - Telegraph station at Rhyl, 3¾ miles.
 ----

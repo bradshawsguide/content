@@ -2,12 +2,6 @@ section: 1
 ----
 title: Blackwall
 ----
-company:
-- london-and-blackwall
-----
-route:
-- fenchurch-street-to-blackwall
-----
 info:
 - term: Hotel
   desc: Brunswick.

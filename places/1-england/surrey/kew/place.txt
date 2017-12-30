@@ -2,14 +2,6 @@ section: 1
 ----
 title: Kew
 ----
-company:
-- north-and-south-western-junction
-- london-and-south-western
-----
-route:
-- willesden-junction-to-kew
-- barnes-to-hounslow-and-feltham
-----
 info:
 - term: Population
   desc: 1,102.

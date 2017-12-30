@@ -2,12 +2,6 @@ section: 1
 ----
 title: Chilworth
 ----
-company:
-- south-eastern
-----
-route:
-- reigate-to-reading
-----
 notes:
 - Distance from station, ½ mile.
 - A telegraph station.

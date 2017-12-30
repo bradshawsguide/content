@@ -4,14 +4,6 @@ title: Llanelly
 ----
 subtitle: Llanelli
 ----
-company:
-- great-western
-- llanelly-railway-and-docks
-----
-route:
-- gloucester-to-newport-swansea-carmarthen-and-milford-haven
-- llanelly-to-llandilo-and-llandovery
-----
 info:
 - term: Population
   desc: 11,446.

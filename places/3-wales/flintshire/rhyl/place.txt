@@ -2,14 +2,6 @@ section: 2
 ----
 title: Rhyl
 ----
-company:
-- london-and-north-western
-- vale-of-clwyd
-----
-route:
-- chester-to-holyhead
-- rhyl-to-corwen
-----
 info:
 - term: Hotels
   desc: The Mostyn Arms; the Royal; Belvoir George; Queen's.

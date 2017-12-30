@@ -2,12 +2,6 @@ section: 2
 ----
 title: Purton
 ----
-company:
-- great-western
-----
-route:
-- swindon-to-gloucester-and-cheltenham
-----
 info:
 - term: Population
   desc: 2,038.

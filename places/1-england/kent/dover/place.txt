@@ -2,13 +2,6 @@ section: 1
 ----
 title: Dover
 ----
-company:
-- south-eastern
-----
-route:
-- london-to-chatham-and-dover
-- charing-cross-to-folkestone-and-dover
-----
 - term: Population
   desc: 25,323.
 - term: Hotels

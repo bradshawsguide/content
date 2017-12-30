@@ -2,12 +2,6 @@ section: 1
 ----
 title: Betchworth
 ----
-company:
-- south-eastern
-----
-route:
-- reigate-to-reading
-----
 notes:
 - A telegraph station.
 ----

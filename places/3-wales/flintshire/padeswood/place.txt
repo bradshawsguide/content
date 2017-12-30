@@ -2,12 +2,6 @@ section: 2
 ----
 title: Padeswood
 ----
-company:
-- london-and-north-western
-----
-route:
-- chester-to-mold
-----
 info:
 - term: Fairs
   desc: are held here on Shrove Tuesday, May 10th, August 12th, and October 27th.

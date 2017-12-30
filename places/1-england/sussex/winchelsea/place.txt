@@ -2,12 +2,6 @@ section: 1
 ----
 title: Winchelsea
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-folkestone-and-dover
-----
 info:
 - term: Hotel
   desc: New Inn.

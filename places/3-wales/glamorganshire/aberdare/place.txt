@@ -2,12 +2,6 @@ section: 2
 ----
 title: Aberdare
 ----
-company:
-- taff-vale
-----
-route:
-- cardiff-to-aberdare-and-merthyr
-----
 info:
 - term: Population
   desc: 32,299.

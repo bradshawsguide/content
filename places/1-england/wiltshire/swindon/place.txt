@@ -2,13 +2,6 @@ section: 2
 ----
 title: Swindon
 ----
-company:
-- great-western
-----
-route:
-- london-to-reading-bath-and-bristol
-- swindon-to-gloucester-and-cheltenham
-----
 info:
 - term: Population
   desc: 4,167.

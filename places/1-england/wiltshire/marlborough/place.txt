@@ -2,12 +2,6 @@ section: 2
 ----
 title: Marlborough
 ----
-company:
-- great-western
-----
-route:
-- savernake-to-marlborough
-----
 notes:
 - Telegraph station at Savernake, 5½ miles
 ----

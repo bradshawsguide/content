@@ -2,14 +2,6 @@ section: 1
 ----
 title: Charing Cross
 ----
-company:
-- south-eastern
-----
-route:
-- charing-cross-to-greenwich
-- charing-cross-to-woolwich-gravesend-strood-and-rochester
-- charing-cross-to-folkestone-and-dover
-----
 notes:
 - A telegraph station.
 ----

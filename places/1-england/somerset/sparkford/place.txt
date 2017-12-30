@@ -2,12 +2,6 @@ section: 2
 ----
 title: Sparkford
 ----
-company:
-- great-western
-----
-route:
-- chippenham-to-dorchester-and-weymouth
-----
 notes:
 - Telegraph station at Yeovil, 7 miles.
 ----

@@ -2,13 +2,6 @@ section: 1
 ----
 title: Brentford
 ----
-company:
-- london-and-south-western
-----
-route:
-- barnes-to-hounslow-and-feltham
-- london-to-reading-bath-and-bristol
-----
 info:
 - term: Population
   desc: 9,521.

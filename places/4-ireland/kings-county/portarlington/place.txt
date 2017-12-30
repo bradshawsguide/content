@@ -2,13 +2,6 @@ section: 2
 ----
 title: Portarlington
 ----
-company:
-- great-southern-and-western
-----
-route:
-- dublin-to-cork-and-killarney
-- portarlington-to-athlone
-----
 info:
 - term: Market Days
   desc: Wednesday and Saturday.

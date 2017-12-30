@@ -2,12 +2,6 @@ section: 2
 ----
 title: Wellington
 ----
-company:
-- bristol-and-exeter
-----
-route:
-- bristol-to-exeter
-----
 info:
 - term: Population
   desc: 3,689.

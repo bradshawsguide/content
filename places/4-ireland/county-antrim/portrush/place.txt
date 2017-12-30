@@ -2,12 +2,6 @@ section: 2
 ----
 title: Portrush
 ----
-company:
-- belfast-and-northern-counties
-----
-route:
-- belast-to-ballymena-and-portrush
-----
 info:
 - term: Hotel
   desc: Coleman's.

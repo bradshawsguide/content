@@ -2,12 +2,6 @@ section: 2
 ----
 title: Steventon
 ----
-company:
-- great-western
-----
-route:
-- london-to-reading-bath-and-bristol
-----
 info:
 - term: Money Order Office
   desc: at Abingdon.

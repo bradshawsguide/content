@@ -2,12 +2,6 @@ section: 2
 ----
 title: Pangbourne
 ----
-company:
-- great-western
-----
-route:
-- london-to-reading-bath-and-bristol
-----
 notes:
 - A telegraph station.
 ----

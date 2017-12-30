@@ -7,7 +7,7 @@ company:
 - london-and-south-western
 ----
 route:
-- croydon-to-epsom
+- london-bridge-to-brighton
 - wimbledon-to-epsom-and-leatherhead
 ----
 info:

@@ -7,9 +7,9 @@ company:
 - london-brighton-and-south-coast
 ----
 route:
+- charing-cross-to-folkestone-and-dover
 - tunbridge-to-hastings
 - lewes-to-hailsham-eastbourne-and-hastings
-- ashford-to-hastings
 ----
 info:
 - term: Population

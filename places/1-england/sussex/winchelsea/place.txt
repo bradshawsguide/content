@@ -6,7 +6,7 @@ company:
 - south-eastern
 ----
 route:
-- ashford-to-hastings
+- charing-cross-to-folkestone-and-dover
 ----
 info:
 - term: Hotel

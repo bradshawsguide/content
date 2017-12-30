@@ -28,7 +28,7 @@ stops:
 - staplehurst
 - headcorn
 - pluckley
-- ashford
+- [ashford, ham-street, appledore-kent, rye, winchelsea, hastings]
 - smeeth
 - westenhanger
 - shorncliffe-camp
@@ -38,6 +38,7 @@ stops:
 links:
 - (wikipedia: South_Eastern_main_line)
 - (wikipedia: Medway_Valley_line)
+- (wikipedia: Marshlink_line)
 ----
 text: This has been called the "Pleasure Line;" and certainly the beauty and extent, of the country traversed by its trains justly entitle it to that distinguishing appellation. It is not only one of the chief mediums of daily communication between England and the Continent, but its iron roads and branches intersect the beautiful county of Kent in all directions, affording the inhabitants of the great metropolis faculties of visiting the numerous watering places on its coast, and enabling them to become acquainted with its picturesque scenery, cities, and baronial halls, and he astonishing fertility of its soil.
 
@@ -128,7 +129,17 @@ From Headcorn the railway passes the villages of Smarden and Bedenham on the rig
 
 (route: ashford-to-canterbury-and-ramsgate)
 
-(route: ashford-to-hastings)
+(branch: start)
+  ### Hastings Branch
+  **Ashford to Hastings**
+  We now bear to the south, through a well-wooded country, arriving at [Ham Street](/stations/ham-street) station, soon after leaving which we cross the Military Canal, which was cut during the French war, at the close of the last century. Its breadth is about 30 yards, 6 feet deep, and extends 23 miles. We now skirt the Romney Marshes, a most valuable tract of land, pass the station at [Appledore](/stations/appledore-kent), and arrive at
+
+  (place: england/sussex/rye)
+
+  (place: england/sussex/winchelsea)
+
+  (place: england/sussex/hastings)
+(branch: end)
 
 ## Ashford to Folkestone and Dover
 The main line on leaving Ashford makes a gradual approach towards the coast, swerving slightly to the south-east, and having on each side a delightful champaign country.
@@ -141,9 +152,7 @@ From this point the line passes almost immediately to the north of the extensive
 
 (place: england/kent/westenhanger)
 
-Three miles to the south-east is
-
-(place: england/kent/hythe)
+Three miles to the south-east is **[Hythe](/places/england/kent/hythe)**.
 
 The deep chalk cutting that succeeds our departure from Westenhanger introduces us to Saltwood Tunnel, and, emerging from this, we immediately catch on the right the first transient glimpse of the sea--that sight which involuntarily quickens our pulse, and sends a pleasurable emotion tingling through our veins. A lofty amphitheatre of hills, stretching away in the blue distance, varies the view in the opposite direction. Passing [Shorncliffe Camp](/stations/shorncliffe-camp), we then come to an embankment, and, borne across a viaduct 90 feet above the valley below, we come almost magically within a fine view of Folkestone and its harbour, immediately afterwards reaching the station at
 

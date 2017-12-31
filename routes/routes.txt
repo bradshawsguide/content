@@ -9,7 +9,13 @@ sections:
   text: **North & South Wales, Ireland and the Lakes of Killarney.** Tours through the counties of Berks, Buckingham, Wilts, Dorset, Cornwall, Somerset, Gloucester, the South Wales districts, Oxford, Warwick, Salop, Chester, Flint, Carnarvon, Anglesea, and through Ireland.
 - uid: 3
   title: Section III
-  text: **English & Scotch Lake Districts, Ayr (the Land of Burns).** Tours through the counties of Hertford, Buckingham, Northampton, Warwick, Stafford, Chester, Lancaster, York, Cumberland, Westmorland, Northumberland, Dumfries, Lanark, Ayr, and the Northern Counties of Scotland.
+  text: >
+    **English & Scotch Lake Districts, Ayr (the Land of Burns).** Tours through the counties of Hertford, Buckingham, Northampton, Warwick, Stafford, Chester, Lancaster, York, Cumberland, Westmorland, Northumberland, Dumfries, Lanark, Ayr, and the Northern Counties of Scotland.
+
+    *Routes for this section will be added soon.*
 - uid: 4
   title: Section IV
-  text: **The Great Manufacturing Districts of Lancashire and Yorkshire.** Tours through the counties of Essex, Suffolk, Norfolk, Hertford, Cambridge, Huntingdon, Rutland, Leicester, Nottingham, Lincoln, Lancaster (South East), York, Durham, Northumberland, Berwick, and the South-Eastern Counties of Scotland.
+  text: >
+    **The Great Manufacturing Districts of Lancashire and Yorkshire.** Tours through the counties of Essex, Suffolk, Norfolk, Hertford, Cambridge, Huntingdon, Rutland, Leicester, Nottingham, Lincoln, Lancaster (South East), York, Durham, Northumberland, Berwick, and the South-Eastern Counties of Scotland.
+
+    *Routes for this section will be added soon.*

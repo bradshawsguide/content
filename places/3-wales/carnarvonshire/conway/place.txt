@@ -17,6 +17,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: The ancient town of Conway is within the wall that were erected at the same time as the castle. Although not a manufacturing town, it has always been a place of some importance.
+----
 text: The ancient, town of Conway is within the wall that were erected at the same time as the castle, and which are ornamented with circular, towers. Although not a manufacturing town, it has always been a place of some importance.
 
 The vale through which the river Conway flows, is remarkable for its beauty and fertility. Its luxuriant pastures, corn fields, and groves, are finely contrasted with the bleak appearance of the Snowdon mountain, which towers in frowning majesty above it.

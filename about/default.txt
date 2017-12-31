@@ -1,7 +1,5 @@
 title: About Bradshaw's Guide
 ----
-title_short: About
-----
 desc: This site is inspired by the work of Victorian cartographer, printer and publisher George Bradshaw.
 ----
 text: (figure:)

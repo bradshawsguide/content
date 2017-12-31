@@ -1,7 +1,5 @@
 title: Routes & Tours
 ----
-title_short: Routes
-----
 sections:
 - uid: 1
   title: Section I

@@ -2,6 +2,8 @@ section: 2
 ----
 title: Llanberis
 ----
+station: bangor
+----
 info:
 - term: Population
   desc: 2,558.

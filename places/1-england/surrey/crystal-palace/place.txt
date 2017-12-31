@@ -2,6 +2,8 @@ section: 1
 ----
 title: Crystal Palace
 ----
+station: crystal-palace-high-level
+----
 notes:
 - A telegraph station.
 ----

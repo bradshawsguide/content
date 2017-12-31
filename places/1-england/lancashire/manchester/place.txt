@@ -1,3 +1,5 @@
 section: 3
 ----
 title: Manchester
+----
+station: manchester-oxford-road

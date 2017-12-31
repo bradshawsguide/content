@@ -2,6 +2,8 @@ section: 2
 ----
 title: Ilfracombe
 ----
+station: barnstaple
+----
 info:
 - term: Hotels
   desc: The Clarence, situated at the higher end--and the Britannia and Packet Hotels, at the lower end of the town. There is a boarding house on the quay, and excellent private lodgings in every part of the town.

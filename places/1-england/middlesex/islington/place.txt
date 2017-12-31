@@ -2,6 +2,8 @@ section: 1
 ----
 title: Islington
 ----
+station: islington-and-highbury
+----
 info:
 - term: Hotel
   desc: Angel.

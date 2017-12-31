@@ -1,6 +1,8 @@
 section: 1
 ----
-title: Camden Road
+title: Camden
+----
+station: camden-road
 ----
 info:
 - term: Hotel

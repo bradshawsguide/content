@@ -2,6 +2,8 @@ section: 1
 ----
 title: Newport
 ----
+station: newport-isle-of-wight
+----
 info:
 - term: Hotel
   desc: Bugle; Star; Green Dragon.

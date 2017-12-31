@@ -2,6 +2,8 @@ section: 2
 ----
 title: Wilton
 ----
+station: wilton-south
+----
 info:
 - term: Population
   desc: 8,675.

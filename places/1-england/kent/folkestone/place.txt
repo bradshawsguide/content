@@ -2,6 +2,8 @@ section: 1
 ----
 title: Folkestone
 ----
+station: folkestone-junction
+----
 info:
 - term: Population
   desc: 8,507.

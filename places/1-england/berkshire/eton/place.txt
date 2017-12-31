@@ -2,6 +2,8 @@ section: 2
 ----
 title: Eton
 ----
+station: windsor-gwr
+----
 info:
 - term: Population
   desc: 3,122.

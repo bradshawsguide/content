@@ -2,6 +2,8 @@ section: 2
 ----
 title: Aberdare
 ----
+station: aberdare-low-level
+----
 info:
 - term: Population
   desc: 32,299.

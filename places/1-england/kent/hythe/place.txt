@@ -2,6 +2,8 @@ section: 1
 ----
 title: Hythe
 ----
+station: folkestone-junction
+----
 info:
 - term: Hotel
   desc: White Hart

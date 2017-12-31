@@ -2,6 +2,8 @@ section: 2
 ----
 title: Beaumaris
 ----
+station: llanfair
+----
 info:
 - term: Population
   desc: 2,558.

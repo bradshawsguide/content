@@ -2,6 +2,8 @@ section: 2
 ----
 title: Bilston
 ----
+station: bilston-central
+----
 info:
 - term: Population
   desc: 24,364.

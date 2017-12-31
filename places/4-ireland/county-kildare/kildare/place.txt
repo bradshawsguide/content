@@ -2,6 +2,8 @@ section: 2
 ----
 title: Kildare
 ----
+station: kildare-junction
+----
 info:
 - term: Market day
   desc: Thursday.

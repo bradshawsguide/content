@@ -2,6 +2,8 @@ section: 2
 ----
 title: Tetbury
 ----
+station: tetbury-road
+----
 info:
 - term: Hotels
   desc: Talbot; White Hart.

@@ -34,7 +34,7 @@ text: (place: england/devonshire/st-cyres)
 
 We next pass through the stations of [Copplestone](/stations/copplestone), [Morchard Road](/stations/morchard-road), [Lapford](/stations/lapford), [Eggesford](/stations/eggesford), [South Molton Road](/stations/south-molton-road), [Portsmouth Arms](/stations/portsmouth-arms), and [Umberleigh](/stations/umberleigh), having no particular attraction and arrive at
 
-(place: england/devonshire/barnstable)
+(place: england/devonshire/barnstaple)
 
 (place: england/devonshire/ilfracombe)
 

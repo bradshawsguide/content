@@ -2,6 +2,8 @@ section: 2
 ----
 title: Swansea
 ----
+station: swansea-high-street
+----
 info:
 - term: Population
   desc: 41,606.

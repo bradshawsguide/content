@@ -2,6 +2,8 @@ section: 1
 ----
 title: Windsor
 ----
+station: windsor-gwr
+----
 info:
 - term: Hotels
   desc: Castle; White Hart

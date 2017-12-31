@@ -1,5 +1,7 @@
 title: Places of Amusement
 ----
+station: charing-cross
+----
 text: (navigation: siblings)
 
 ## Terms and Times of Admission to the following Buildings, Institutions, &c., in London and its suburbs

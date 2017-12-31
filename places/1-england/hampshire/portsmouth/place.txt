@@ -2,6 +2,7 @@
 ----
 title: Portsmouth
 ----
+info:
 - term: Population
   desc: 94,799.
 - term: Hotels

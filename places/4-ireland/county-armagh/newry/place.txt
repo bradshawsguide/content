@@ -2,6 +2,8 @@ section: 2
 ----
 title: Newry
 ----
+station: bessbrook
+----
 info:
 - term: Hotel
   desc: Dransfield's.

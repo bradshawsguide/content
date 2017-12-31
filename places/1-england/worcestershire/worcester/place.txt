@@ -2,6 +2,8 @@ section: 2
 ----
 title: Worcester
 ----
+station: worcester-shrub-hill
+----
 info:
 - term: Hotels
   desc: Star and Garter; the Hop Pole; the Bell; the Unicorn; the Crown.

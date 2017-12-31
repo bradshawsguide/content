@@ -2,6 +2,8 @@ section: 2
 ----
 title: Wolverhampton
 ----
+station: wolverhampton-low-level
+----
 info:
 - term: Hotels
   desc: The Swan; Star and Garter.

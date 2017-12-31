@@ -2,6 +2,8 @@ section: 2
 ----
 title: Swindon
 ----
+station: swindon-junction
+----
 info:
 - term: Population
   desc: 4,167.

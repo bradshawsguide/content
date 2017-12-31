@@ -2,6 +2,8 @@ section: 2
 ----
 title: Wantage
 ----
+station: wantage-road
+----
 info:
 - term: Population
   desc: 3,064.

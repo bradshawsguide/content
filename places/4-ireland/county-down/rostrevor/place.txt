@@ -2,6 +2,8 @@ section: 2
 ----
 title: Rostrevor
 ----
+station: warrenpoint
+----
 info:
 - term: Market Day
   desc: Saturday.

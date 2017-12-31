@@ -1,6 +1,6 @@
 title: London
 ----
-country: England
+station: charing-cross
 ----
 text: (navigation: children)
 

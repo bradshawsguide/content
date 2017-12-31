@@ -2,6 +2,8 @@
 ----
 title: Yeovil
 ----
+station: yeovil-pen-mill
+----
 info:
 - term: Hotels
   desc: Mermaid, Three Choughs.

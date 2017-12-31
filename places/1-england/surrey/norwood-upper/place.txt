@@ -2,6 +2,8 @@ section: 1
 ----
 title: Norwood, Upper
 ----
+station: norwood-junction
+----
 info:
 - term: Hotels
   desc: Beulah Spa, Royal Albert, Royal Crystal Palace

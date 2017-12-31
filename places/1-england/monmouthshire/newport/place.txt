@@ -2,6 +2,8 @@ section: 2
 ----
 title: Newport
 ----
+station: newport-high-street
+----
 info:
 - term: Hotel
   desc: King's Head; West Gate.

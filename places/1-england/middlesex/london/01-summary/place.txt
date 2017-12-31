@@ -2,6 +2,8 @@ title: London Summary
 ----
 title_short: Summary
 ----
+station: charing-cross
+----
 text: (navigation: siblings)
 
 Which we intend shall include, irrespective of position, whatever characteristics give London its individuality.

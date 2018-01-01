@@ -10,7 +10,7 @@ company: london-and-south-western
 ----
 stops:
 - woking
-- guildford
+- [guildford, ash, tongham, farnham, bentley-hants, alton, ropley, alresford, itchen-abbas, winchester]
 - godalming
 - milford-surrey
 - witley
@@ -24,6 +24,7 @@ stops:
 ----
 links:
 - (wikipedia: Portsmouth_Direct_line)
+- (wikipedia: Alton_line)
 ----
 text: (place: england/surrey/woking)
 
@@ -31,7 +32,24 @@ Three-quarters of a mile beyond Woking a line branches off to the left to Guildf
 
 (place: england/surrey/guildford)
 
-(route: guildford-to-farnham-and-alton)
+(branch: start title: Alton Branch)
+  **Guildford to Alton**
+  (place: england/surrey/guildford)
+
+  (place: england/surrey/ash)
+
+  [Tongham](/stations/tongham), station for Aldershott.
+
+  (place: england/surrey/farnham)
+
+  (place: england/hampshire/bentley)
+
+  (place: england/hampshire/alton)
+
+  [Ropley](/stations/ropley), [Alresford](/stations/alresford) and [Itchen Abbas](/stations/itchen-abbas) Stations.
+
+  (place: england/hampshire/winchester)
+(branch: end)
 
 Returning to Guildford the line takes a southerly direction, and at the distance of 3¾ miles brings us to the important town of
 

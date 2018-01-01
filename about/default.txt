@@ -44,6 +44,7 @@ Published using [Kirby](https://getkirby.com/) and these supporting plugins:
   * [kirbytextRaw](https://github.com/jbeyerstedt/kirby-plugin-kirbytextRaw) by [Jannik Beyerstedt](https://jannikbeyerstedt.de/)
   * [Minify HTML](https://github.com/ian-cox/Kirby-MinifyHTML) by [Ian Cox](https://iancox.com)
   * [Sitemap](https://github.com/jpangborn/kirby-sitemap) by [Joshua Pangborn](http://jpangborn.github.io)
+  * [Kirby SRI](https://github.com/S1SYPHOS/kirby-sri) by [Martin Folkers](https://twobrain.io/)
   * [Kirby-Typography](https://github.com/fabianmichael/kirby-typography) by [Fabian Michael](https://fabianmichael.de)
 
 *[BBC]: British Broadcasting Corporation

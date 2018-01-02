@@ -27,7 +27,7 @@ This site has been developed by [Paul Robert Lloyd](https://paulrobertlloyd.com)
 ### Colophon
 Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> by George Bradshaw, published in Great Britain in 1866. Identified as being in the public domain, content is [free of known copyright restrictions](https://creativecommons.org/publicdomain/mark/1.0/). Sourced from [original texts](https://catalog.hathitrust.org/Record/000075905) digitised by the [Hathi Trust](https://www.hathitrust.org). Typographical errors appearing in the original have been corrected, with the exception of instances where the common spelling of a Victorian word appears to differ from the modern-day equivalent. Examples include *chimnies* and *Shakspeare*.
 
-Photochrom images taken from the [Photochrom Print Collection](https://www.loc.gov/collections/photochrom-prints/about-this-collection), digitized by the [Library of Congress](https://www.loc.gov/) (Prints and Photographs Division).
+Photochrom images taken from the [Photochrom Print Collection](https://www.loc.gov/collections/photochrom-prints/about-this-collection), digitised by the [Library of Congress](https://www.loc.gov/) (Prints and Photographs Division).
 
 Home page features <cite>Rain, Steam and Speed – The Great Western Railway</cite> (J. M. W. Turner, 1844). Original: [The National Gallery, London](https://artuk.org/discover/artworks/rain-steam-and-speed-the-great-western-railway-115073)
 

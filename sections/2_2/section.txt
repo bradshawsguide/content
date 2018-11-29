@@ -1,0 +1,7 @@
+title: Section II
+----
+desc: North & South Wales, Ireland and the Lakes of Killarney.
+----
+label: Section 2
+----
+text: Tours through the counties of Berks, Buckingham, Wilts, Dorset, Cornwall, Somerset, Gloucester, the South Wales districts, Oxford, Warwick, Salop, Chester, Flint, Carnarvon, Anglesea, and through Ireland.

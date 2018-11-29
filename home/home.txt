@@ -1,9 +1,9 @@
 title: Bradshaw's Guide For Tourists in Great Britain & Ireland
 ----
 feature:
-- england/sussex/brighton
-- england/surrey/crystal-palace
-- england/gloucestershire/bristol
-- wales/carnarvonshire/menai-bridge
-- wales/carnarvonshire/conway
-- ireland/county-kerry/killarney
+- places/england/sussex/brighton
+- places/england/surrey/crystal-palace
+- places/england/gloucestershire/bristol
+- places/wales/carnarvonshire/menai-bridge
+- places/wales/carnarvonshire/conway
+- places/ireland/county-kerry/killarney

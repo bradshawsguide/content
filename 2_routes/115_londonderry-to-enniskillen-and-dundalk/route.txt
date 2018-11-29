@@ -1,0 +1,93 @@
+section: 2
+----
+title: Londonderry to Enniskillen & Dundalk
+----
+title_short: Londonderry to Dundalk
+----
+company:
+- companies/londonderry-and-enniskillen
+- companies/dundalk-and-enniskillen
+----
+stops:
+- londonderry-foyle-road
+- carrigans
+- st-johnston
+- porthall
+- strabane
+- sion-mills
+- victoria-bridge
+- newtownstewart
+- mountjoy
+- omagh
+- [fintona-junction, fintona]
+- dromore-road
+- irvinestown-road
+- ballinamallard
+- enniskillen
+- lisbellaw
+- maguires-bridge
+- lisnaskea
+- newtownbutler
+- [clones, cavan]
+- newbliss
+- monaghan-road
+- [ballybay, rockcorry, cootehill]
+- castleblaney
+- culloville
+- inniskeen
+- dundalk
+----
+links:
+- (wikipedia: Londonderry_and_Enniskillen_Railway)
+----
+text: [Carrigans](/stations/carrigans), close to which is *Dunmore*, the seat of R. M. Clintock, Esq.
+
+[St. Johnston](/stations/st-johnston), where fairs are held April 7th, October 13th, and November 26th.
+
+[Porthall](/stations/porthall) station.
+
+[Strabane](/stations/strabane) has a population of about 6,000, principally employed in the linen trade. Markets are held here on Tuesdays, and fairs first Thursday in every month, May and November 12th. Close at hand are *Miltown*, Major Dumfries; *Hollyhill* and *Strabane Glen*, J. Sinclare, Esq.
+
+The Finn Valley railway also turns off here to the right.
+
+(route: strabane-to-killygordon)
+
+[Sion Mills](/stations/sion-mills) and [Victoria Bridge](/stations/victoria-bridge) stations.
+
+[Newtownstewart](/stations/newtownstewart).--This place was burnt by James II. after the siege of Derry, but rebuilt in 1722: here is shown the house in which James II. slept. Close, at hand are King O'Nial's castle, in ruins; *Baron's Court*, Marquis of Abercorn; *Newtownstewart*, Hon. Major Crawford. Markets are held here on Mondays, and fairs monthly.
+
+[Mountjoy](/stations/mountjoy), close to which is the seat of C. J. Gardner, Esq.
+
+(place: ireland/county-tyrone/omagh)
+
+[Fintona](/stations/fintona), where markets are held on Fridays, and Fairs the 22nd of every month, and close to which is *Ecclesville*, seat of C. Eccles, Esq.
+
+[Dromore Road](/stations/dromore-road), close to which is the town of Dromore, "the Great Ridge," which has a population of about 14,954 employed in the linen trade; four chapels, market house, schools, clergy widows' houses, dispensary, factories, two bridges, on one of which there is a tablet to Bishop Percy; cathedral, built by Bishop Jeremy Taylor, whose tomb, together with that of Bishop Percy is here; Danish fort, remains of an elk, 10¼ feet between the horns. Fairs are held here on 1st Saturday in March, May 12th, August 6th, October 10th, December 14th; and Markets on Saturday for linen. Close at hand are *Gill Hall Castle*, Earl Clanwilliam; *Dromore House*, J. H. Quinn, Esq.; about four miles beyond is the little town of *Trillick*, where Markets are held for butter, on Tuesdays, and Fairs on the 14th of every month. Close by are the ruins of *Castle Meragn*.
+
+[Irvinestown Road](/stations/irvinestown-road), near to which is Lowtherstown, where Markets are held on Wednesdays, avid Fairs the 8th of every month, and April 12th.
+
+[Ballinamallard](/stations/ballinamallard) station.
+
+(place: ireland/county-fermanagh/enniskillen)
+
+[Lisbellaw](/stations/lisbellaw), [Maguire's Bridge](/stations/maguires-bridge), [Lisnaskea](/stations/lisnaskea), and [Newtownbutler](/stations/newtownbutler) stations.
+
+(place: ireland/county-monaghan/clones)
+
+(branch: start)
+  A connecting link is here formed between this line and the Midland Great Western, by which the Midland and more western districts are brought into much more intimate connection with those of the north. The line runs from Clones, *via* <span class="smcp">Belturbet</span>, to Cavan, for continuation of which route, to Galway, see [Dublin to Galway](/routes/dublin-to-mullingar-athlone-and-galway).
+(branch: end)
+
+[Newbliss](/stations/newbliss) and [Monaghan Road](/stations/monaghan-road) stations.
+
+[Ballybay](/stations/ballybay).--Here Markets are held on Saturday, and Fairs on 3rd Saturday in every month. It is also the junction of a line to Cavan, 9 miles of which, to Cootehill are now open.
+
+(place: ireland/county-monaghan/castleblaney)
+
+[Culloville](/stations/culloville) station.
+
+**[Inniskeen](/stations/inniskeen)** was one of the chief seats of tha Danes, and has ruins of several forts. Close at hand are *Northland*, Dean Adams: *Cabra Castle*, J. Pratt, Esq., close to the ruins of an old castle.
+
+We now enter the county of Louth, and shortly after the town of
+
+(place: ireland/county-louth/dundalk)

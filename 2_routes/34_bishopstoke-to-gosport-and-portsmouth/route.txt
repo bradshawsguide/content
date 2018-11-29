@@ -1,0 +1,42 @@
+section: 1
+----
+title: Bishopstoke to Gosport & Portsmouth
+----
+title_short: Bishopstoke to Portsmouth
+----
+subtitle: Gosport and Portsmouth Branches
+----
+company: companies/london-and-south-western
+----
+stops:
+- bishopstoke
+- [botley, bishops-waltham]
+- [fareham, gosport, stokes-bay]
+- porchester
+- [cosham, portsmouth]
+----
+text: By Botley and Fareham, and Fareham and Cosham to Portsmouth, or from Gosport by ferry across to Portsmouth, or *vice versa*.
+
+From Bishopstoke the line diverges to the south-east, in order to preserve a connecting link between two towns which must ever be the focus of our military and maritime interest.
+
+[Botley](/stations/botley).--For those who are disposed to avail themselves of it, railway accommodation is here afforded to the town of
+
+(branch: start)
+  (place: england/hampshire/bishops-waltham)
+(branch: end)
+
+(place: england/hampshire/fareham)
+
+(branch: start)
+  (place: england/hampshire/gosport)
+
+  The railway extends 1½ mile further to
+
+  (place: england/hampshire/stokes-bay)
+(branch: end)
+
+(place: england/hampshire/porchester)
+
+[Cosham](/stations/cosham) station.
+
+(place: england/hampshire/portsmouth)

@@ -1,0 +1,223 @@
+section: 1
+----
+title: London Bridge to Brighton
+----
+title_short: London to Brighton
+----
+subtitle: London and Brighton Main Line
+----
+company: companies/london-brighton-and-south-coast
+----
+stops:
+- london-bridge
+- new-cross
+- forest-hill
+- [sydenham, crystal-palace-low-level]
+- anerley
+- norwood-junction
+- [east-croydon, carshalton, [sutton, california, banstead, epsom-downs], cheam, ewell-east, epsom]
+- [east-croydon, beddington-lane, mitcham, morden, wimbledon]
+- caterham-junction
+- merstham
+- red-hill-junction
+- horley
+- [three-bridges, crawley, fay-gate, [horsham, slinford, rudgwick, baynards, cranley, bramley, guildford], [horsham, southwater, west-grinstead, partridge-green, henfield, steyning, bramber, new-shoreham], billingshurst, [pulborough, petworth], amberley, arundel, ford]
+- [three-bridges, rowfant, east-grinstead]
+- balcombe
+- [haywards-heath, cooks-bridge, [lewes, barcombe, isfield, uckfield], newhaven]
+- burgess-hill
+- hassocks-gate
+- brighton
+----
+links:
+- (wikipedia: Brighton_main_line)
+- (wikipedia: Sutton_and_Mole_Valley_lines)
+- (wikipedia: West_Croydon_to_Wimbledon_Line)
+- (wikipedia: Arun_Valley_line)
+- (wikipedia: Cranleigh_line)
+- (wikipedia: Steyning_Line)
+- (wikipedia: Wealden_Line)
+----
+desc: This line runs through a succession of the most varied and diversified scenery, fraught with a host of welcome associations, before terminating at a sea-side town, which fashion in pursuit of pleasure has justly selected a marine residence.
+----
+text: ## London to Croydon
+The London terminus of the Brighton Railway, though approached by the same line as the South Eastern Railway, is a distinct building, occupying a considerable place to the south, at the right hand or furthest corner of the fabric, and embraces in its arrangements every thing calculated to promote the convenience of the passengers, and all that can contribute to their security. This company conveys the traffic of the counties of Surrey and Sussex, and also that with France, *via* Newhaven and Dieppe; also the passengers of the Sydenham Railway to and from the Crystal Palace.
+
+So entangled is the mighty maze of London with its suburbs that on emerging from the station it is some time before we entirely lose sight of its multi-farious characteristics; we seem, Asmodeus-like, to be fleeting over the habitations of a dense and crowded district. The first part of the line to New Cross is carried over arches, and continues so for some time, passing by a viaduct over market gardens, as far as the Greenwich Junction, and then turns oft towards New Cross, where the Company has a large depot for repairing locomotives. Immediately the line emerges from the streets and houses that obstruct the view, and the Crystal Palace at Sydenham, sparkling in the distance, appears in sight.
+
+(place: england/kent/new-cross)
+
+From this station the line passes through cuttings that exclude all view of the country; the passengers, however, cannot fail to admire the ingenuity with which the declivities on each side have been converted into flower and kitchen gardens. Emerging from this cutting a wide and extensive prospect of undulating ground is opened on both sides. To the east appears a succession of gardens; to the west, a glimpse of the cemetery at Nunhead is obtained. Sydenham and Norwood appear next in succession, studded with white villas, and on every side a range of wooded and picturesque scenery is unfolded to the view.
+
+(place: england/surrey/forest-hill)
+
+To the left lies the village of Sydenham, celebrated for its beauty and salubrity, and shortly after we reach the station at
+
+(place: england/surrey/sydenham)
+
+(place: england/surrey/crystal-palace)
+
+Resuming our seats in the train we arrive at [Anerley](/stations/anerley) Station.
+
+(place: england/surrey/norwood-upper)
+
+The train passes through a lovely and picturesque country.
+
+(place: england/surrey/croydon)
+
+The line now passes through a fine open country, and shortly reaches the junction of the Epsom Branch of the Croydon Railway.
+
+(branch: start title: Epsom branch)
+  **Croydon to Epsom**
+  Presuming that our traveller is intended for Epsom, we proceed by the line of rails past [Croydon](/stations/east-croydon) town station, and pass by the pretty little village of *Beddington*, and the time-honoured seat of the Carews, thence to the station at
+
+  (place: england/surrey/carshalton)
+
+  Proceeding thense, we come to [Sutton](/stations/sutton), 1½ mile from which is the *Oaks*, giving its name to the race, the seat of the Earl of Derby.
+
+(branch: start)
+  A short line of railway runs hence by [California](/stations/california), across *Banstead Downs*, a range of hills commanding some very pretty and extensive scenery, at the foot of which is the station of [Banstead](/stations/banstead). It extends to [Epsom Downs](/stations/epsom-downs), in the immediate neighbourhood of the Race Course.
+(branch: end)
+
+  [Cheam](/stations/cheam).--This little village lies on our right, and near to it are the remains of *Nonsuch Palace*, built with great magnificence by Henry VIII., and the scene of gay revels in the days of Queen Elizabeth.
+
+  [Ewell](/stations/ewell-east).--A small town with some little trade, and a very large sheep fair.
+
+  (place: england/surrey/epsom)
+(branch: end)
+
+Returning to Croydon we will now pass over the
+
+(branch: start title: Croydon and Wimbledon Branch)
+  **Croydon to Wimbledon**
+  The first stations being [Beddington](/stations/beddington-lane) and [Mitcham](/stations/mitcham), both on the river Wandle. The church of the latter is worth a visit. We then approach the station of [Morden](/stations/morden), near which is *Merton*, possessing much historical interest. Here are the remains of a rich abbey founded for St. Augustine Canons; and here Ethelred I. was defeated by the Danes, 871, and received his death wound. Here were enacted "the provisions of Merton," in the reign of Henry III.; and here the glorious Nelson lived. The church is partly of Norman, and partly of the early English styles. *Morden Park*, ½ mile.
+
+  (place: england/surrey/wimbledon)
+(branch: end)
+
+## Croydon to Three Bridges
+After leaving Croydon we pass through a short cutting, and emerge upon an embankment upwards of two miles long, which affords delightful views of the surrounding scenery; and at the distance of about 4½ miles from Croydon, arrive at the station of
+
+(place: england/surrey/caterham-junction)
+
+(route: caterham-junction-to-caterham)
+
+## London and Brighton Main Line continued
+Proceeding on our way to the south the train passes close to the village of
+
+**Chipstead.** the church of which, dedicated, to St. Margaret, is of Norman style, and of considerable antiquity. Sir Edward Banks, the well-known contractor and builder of the London, Southward, and Waterloo Bridges, is buried in this quiet and rural churchyard, near the scenes of his early career, where he commenced life in the neighbourhood as a labourer.
+
+Proceeding on, some high grounds now intercept our view, until the line enters the Merstham tunnel, rather more than a mile long, and in some parts nearly 190 feet below the surface. The transition, from the gloomy darkness of the tunnel to the daylight we had temporarily forsaken is certainly agreeable, and we are rewarded on emerging by a pretty view of the little village of Merstham, and the adjacent country.
+
+After passing [Merstham](/stations/merstham) station, which is a minor one, we obtain a fine view of *Gatton* and its picturesque park, the property of the Dowager Countess of Warwick, and famous before the Reform Bill as having returned two members to parliament, with a population of a hundred persons, living in scarcely two dozen houses. Half a mile further on, an embankment 20 feet high brings us to
+
+(place: england/surrey/red-hill)
+
+(place: england/surrey/horley)
+
+From the Horley station the line begins for some time rising, and the view on every side continues, as before, uninterrupted.
+
+Four miles beyond, the railway passes over the boundary line into the county of [Sussex](/places/england/sussex), and arrives at
+
+(place: england/sussex/three-bridges)
+
+This is the junction point of the
+
+(branch: start title: East Grindstead Branch)
+  **Three Bridges to East Grinstead**
+  This branch is 6½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of
+
+  (place: england/sussex/east-grinstead)
+(branch: end)
+
+(branch: start title: Horsham Branch)
+  **Three Bridges to Horsham, Petworth, and Arundel**
+  This branch is 8½ miles in length. The line proceeds from [Three Bridges](/stations/crawley) in a west-south-west direction to the station at
+
+  (place: england/sussex/crawley)
+
+  The line then passes through a rural district, to
+
+  (place: england/sussex/fay-gate)
+
+  (place: england/sussex/horsham)
+
+(branch: start)
+  A line to Guildford branches off here. It passes this station of [Slinford](/stations/slinford) to [Rudgwick](/stations/rudgwick), immediately on clearing which we enter the county of Surrey, pass the antiquated farms of [Baynards](/stations/baynards) and Knowle, and arrive at
+
+  [Cranley](/stations/cranley), the church of which is rendered attractive by its stained windows, &c. It has the honour of conferring the title of viscount upon the Onslow family.
+
+  Running parallel with the Sussex and Surrey Canal we pass the station of [Bramley](/stations/bramley), and in a very few minutes arrive at the county town of
+
+  (place: england/surrey/guildford)
+(branch: end)
+
+(branch: start)
+  Continuing our route from Horsham, we pass the stations of [Southwater](/stations/southwater), [West Grinstead](/stations/west-grinstead), [Partridge Green](/stations/partridge-green), and [Henfield](/stations/henfield), to the small town of
+
+  (place: england/sussex/steyning)
+  (place: england/sussex/bramber)
+  (place: england/sussex/new-shoreham)
+(branch: end)
+
+  On leaving Horsham we pass the little village of [Billingshurst](/stations/billingshurst), and very soon arrive at [Pulborough](/stations/pulborough), the junction of a short line to
+
+(branch: start)
+  (place: england/sussex/petworth)
+(branch: end)
+
+  Again taking our departure from Pulborough we pass the station of [Amberley](/stations/amberley), on the banks of the the Arun, a stream noted for its trout, and on to the town of
+
+  (place: england/sussex/arundel)
+
+  Continuing our course 1¾ mile further south, we arrive at the junction of the South Coast section of the Brighton Railway, where, no doubt, the traveller will find convenience for the further prosecution of his journey to the east or west.
+(branch: end)
+
+## Three Bridges to Hayward's Heath
+The line now passes over an embankment of considerable length, and the railway thence commences a descent. Passing through a series of cuttings, we enter the Balcombe tunnel, the second of the great tunnels along the line, soon after emerging from which we arrive at the [Balcombe](/stations/balcombe) station.
+
+The line proceeds southward, and enters the Weald of Sussex through Tilgate Forest, and to the Balcombe tunnel.
+
+(place: england/sussex/balcombe)
+
+A short distance further on the line crosses the Ouse by the viaduct of that name, one of the fittest works in the kingdom, which is only excelled by the viaduct over the Dee on the Chester and Shrewsbury Railway. It consists of 37 arches, and its summit commands extensive views of the surrounding country.
+
+As we are whirled along it, the prospect presents us with an unbounded scene of beauty, the country round being steeped in the most luxuriant verdure, and hill and dale, woodland and pasture land, succeed each other in infinite variety to the very verge of the horizon.
+
+(place: england/sussex/haywards-heath suffix: Junction)
+
+(branch: start title: Newhaven Branch)
+  **Hayward's Heath to Lewes and Newhaven**
+
+  The line passes through an undulating, and in some places a hilly, country to
+
+  [Cook's Bridge](/stations/cooks-bridge), in the vicinity of which is *Coneyburrow Park*. We have here a full view of the lofty range of the south downs, the highest point of which, *Ditching Beacon*, a little to the right, is 858 feet above the sea.
+
+  (place: england/sussex/lewes)
+
+  (route: lewes-to-hailsham-eastbourne-and-hastings)
+
+(branch: start title: Uckfield Branch)
+  **Lewes to Uckfield**
+  From [Lewes](/stations/lewes) this line, 7 miles long, passes through the villages of [Barcombe](/stations/barcombe) and [Isfield](/stations/isfield) to
+
+  (place: england/sussex/uckfield)
+(branch: end)
+
+  (place: england/sussex/newhaven)
+(branch: end)
+
+## Hayward's Heath to Brighton
+Retracing our way to Hayward's Heath we pass through a short tunnel, and then perceive a beautiful pastoral country, on which is dotted pretty seats of the gentry, and the farms of substantial yeomen, occasionally enlivened by a church steeple peering above its wooded covert. A short four miles and we arrive at
+
+(place: england/sussex/burgess-hill)
+
+The line passes through a beautiful, cultivated, and fertile country to
+
+(place: england/sussex/hassocks-gate)
+
+From the Hassock's Gate station, a graceful piece of Gothic architecture marks the entrance to the Clayton tunnel, which is cut through blocks of chalk. These enormous chalk hills are composed of lime, in chemical combination with carbonic gas, the same which sparkles in a bottle of soda water; and if nature had not combined these substances, the first shower of rain would raise the lime to a great heat, and these stalwart cliffs would crumble into atoms.
+
+On the left is Ditchling Beacon, 864 feet high, on the South Downs, stretching their giant bulk for miles to the eastward, where about a half a million of prime sheep are fed. The train thence passes Clayton and Patcham tunnels. On the right is Devil's Dyke, noted for its extensive view over the woodland in the Weald. As the train approaches the village of Preston, and the platform of the Brighton terminus, the guards collect the tickets, and the passenger has an opportunity of noting the two branch lines that diverge from Preston, one across the Preston viaduct [to Lewes](/routes/brighton-to-lewes), and the other through a deep cutting [towards Shoreham, Worthing, Chichester, and Portsmouth](/routes/brighton-to-worthing-chichester-and-portsmouth).
+
+(place: england/sussex/brighton)

@@ -1,0 +1,22 @@
+section: 2
+----
+title: Coleraine to Londonderry
+----
+company: companies/londonderry-and-coleraine
+----
+stops:
+- coleraine
+- castlerock
+- downhill
+- magilligan
+- bellarena
+- [limavady-junction, newtown-limavady]
+- ballykelly
+- carrickhugh
+- eglinton
+- culmore
+- londonderry
+----
+text: This line skirts the east and south banks of Lough Foyle, an arm of the sea about 15 miles long and 10 broad, dividing the northern portion of Derry from that of the county of Donegal, and runs, *via* [Castlerock](/stations/castlerock), [Downhill](/stations/downhill), [Magilligan](/stations/magilligan), and [Bellarena](/stations/bellarena), to [Newtown](/stations/limavady-junction), the juncton of a short line to [Newtown Limavady](/stations/newtown-limavady). From the junction, pass [Ballykelly](/stations/ballykelly), [Carrickhugh](/stations/carrickhugh), [Eglinton](/stations/eglinton), and [Culmore](/stations/culmore), at the mouth of the Foyle, thence along the margin of the river about 4 miles, to Londonderry, situated on the western bank of the Foyle, here crossed by a magnificent iron bridge, 1,200 feet long, and 32 feet wide within the rails. It is divided into two platforms, the lower one used by the railway. This undertaking was inaugurated on the 26th of September, 1863, by the late Earl of Carlisle, at that time Lord Lieutenant of Ireland.
+
+(place: ireland/county-londonderry/londonderry)

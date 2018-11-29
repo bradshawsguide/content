@@ -1,0 +1,3 @@
+template: image
+----
+caption: Arrival of a boat at St. Peter's Port, Guernsey. Taken between ca. 1890 and ca. 1900. Original: [Library of Congress](https://www.loc.gov/item/2002696476/)

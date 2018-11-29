@@ -1,0 +1,27 @@
+section: 2
+----
+title: Holyhead to Dublin
+----
+company: companies/dublin-and-kingstown
+----
+stops:
+- holyhead
+- kingstown
+- salthill
+- blackrock
+- booterstown
+- merrion
+- dublin
+----
+text: The passage across from Holyhead to Kingstown, a distance of 64 miles, is now generally performed in 4 to 6 hours, and the traveller has scarcely lost sight of the mountains of Carnarvon before those of Dublin and Wicklow become visible.
+
+The entrance into the bay of Dublin unfolds one of the finest land and sea prospects ever beheld. On the right is the rugged hill of Howth, with its rocky bays, wanting only a volcano to render the surrounding scenery a fac-simile of the beautiful bay of Naples; whilst, nearer to the eye, at the extremity of a white line of masonry just fringing the sea, the light-house presents its alabaster front. On the left are the town of *Dalkey*, with its romantic rocks, mutilated castles, martello towers, elegant villas and the picturesque town of *Dunleary*, whilst behind is seen a line of parks and plantations, above which the mountains of Wicklow ascend with the greatest majesty.
+
+In the immediate neighbourhood of Kingstown, on the west side, are many excellent bathing-places. The sea here is singularly adapted tor bathing. The sands are perfectly level; at least the eye cannot discern any declivity for a mile. When the tide is full all these sands are covered to the depth of from two to three feet: when it is ebb-tide they are quite dry.
+
+(place: ireland/county-dublin/kingstown)
+
+## Kingstown to Dublin
+After traversing the Dublin and Kingstown railway and stopping at the stations of [Salthill](/stations/salthill), [Blackrock](/stations/blackrock), [Booterstown](/stations/booterstown), and [Merrion](/stations/merrion), we arrive at
+
+(place: ireland/county-dublin/dublin)

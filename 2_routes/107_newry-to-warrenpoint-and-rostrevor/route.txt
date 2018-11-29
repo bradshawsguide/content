@@ -1,0 +1,17 @@
+section: 2
+----
+title: Newry to Warrenpoint and Rostrevor
+----
+title_short: Newry to Rostrevor
+----
+company: companies/newry-warrenpoint-and-rostrevor
+----
+stops:
+- bessbrook
+- warrenpoint
+----
+text: (place: ireland/county-down/warrenpoint)
+
+Main line to Rostrevor is still incomplete.
+
+(place: ireland/county-down/rostrevor)

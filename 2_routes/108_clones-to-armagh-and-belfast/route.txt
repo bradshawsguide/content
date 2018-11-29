@@ -1,0 +1,51 @@
+section: 2
+----
+title: Clones to Armagh and Belfast
+----
+title_short: Clones to Belfast
+----
+company: companies/ulster
+----
+stops:
+- clones
+- monaghan
+- glaslough
+- tynan
+- killylea
+- armagh
+- richhill
+- portadown
+- lurgan
+- moira
+- lisburn
+- dunmurry
+- balmoral
+- belfast
+----
+links:
+- (wikipedia: Ulster_Railway)
+----
+text: Taking our departure from [Clones](/stations/clones), and in a direction parallel with the Ulster Canal, the little village of Smithborough, associated in some measure with the manufacture of spades, shortly presents itself. A distance of about 4 miles further brings us to the town of
+
+(place: ireland/county-monaghan/monaghan)
+
+[Glasslough](/stations/glaslough), [Tynan](/stations/tynan), and [Killylea](/stations/killylea) stations.
+
+(place: ireland/county-armagh/armagh)
+
+[Richhill](/stations/richhill) (where Fairs are held on Shrove Tuesday, July 26th, October 15th). [Portadown](/stations/portadown) Junction.
+
+(route: portadown-to-dungannon-and-omagh)
+
+## Ulster Main Line continued
+[Lurgan](/stations/lurgan), a telegraph station, which had a castle, burnt in 1641, and rebuilt in 1690, and where Markets are held on Fridays, and Fairs the 2nd Thursday in every month, August 5th, and November 22nd.
+
+(place: ireland/county-down/moira)
+
+On leaving this we are immediately transferred to the County of [Antrim](/places/ireland/county-antrim).
+
+(place: ireland/county-antrim/lisburn)
+
+Passing [Dunmurry](/stations/dunmurry), where are the remains of walls, and *Dunmurry House*, the seat of W. Hunter, Esq., we arrive at [Balmoral](/stations/balmoral), and soon after at
+
+(place: ireland/county-antrim/belfast)

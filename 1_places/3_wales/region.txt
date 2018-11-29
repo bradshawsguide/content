@@ -1,0 +1,11 @@
+title: The Principality of Wales
+----
+title_short: Wales
+----
+feature:
+- places/wales/glamorganshire/cardiff
+- places/wales/pembrokeshire/tenby
+- places/wales/carnarvonshire/menai-bridge
+- places/wales/carnarvonshire/conway
+- places/wales/cardiganshire/aberystwith
+- places/wales/anglesea/holyhead

@@ -1,0 +1,9 @@
+title: Section IV
+----
+desc: The Great Manufacturing Districts of Lancashire and Yorkshire.
+----
+label: Section 4
+----
+text: Tours through the counties of Essex, Suffolk, Norfolk, Hertford, Cambridge, Huntingdon, Rutland, Leicester, Nottingham, Lincoln, Lancaster (South East), York, Durham, Northumberland, Berwick, and the South-Eastern Counties of Scotland.
+
+*This section will be added soon.*

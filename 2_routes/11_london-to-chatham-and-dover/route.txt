@@ -1,0 +1,129 @@
+section: 1
+----
+title: London and Beckenham to Chatham, Canterbury and Dover
+----
+title_short: London to Chatham and Dover
+----
+subtitle: Chatham Main Line
+----
+company: companies/london-chatham-and-dover
+----
+stops:
+- victoria
+- battersea-park
+- stewarts-lane
+- wandsworth-road
+- clapham-high-street
+- brixton
+- herne-hill
+- penge
+- beckenham
+- shortlands
+- bromley
+- bickley
+- st-mary-cray
+- [sevenoaks-junction, eynsford, shoreham, sevenoaks]
+- farningham
+- meopham
+- sole-street
+- strood
+- rochester
+- chatham
+- new-brompton
+- rainham-kent
+- newington
+- [sittingbourne, queenborough, sheerness]
+- teynham
+- [faversham, whitstable, herne-bay, birchington, margate-west, broadstairs, ramsgate-harbour]
+- selling
+- canterbury-east
+- bekesbourne
+- adisham
+- shepherds-well
+- temple-ewell
+- dover
+----
+links:
+- (wikipedia: Chatham_main_line)
+- (wikipedia: Sheerness_line)
+- (wikipedia: Kent_Coast_line)
+----
+text: This company has now two termini in London; both conveniently situated to accommodate pleasure and business traffic. The West End terminus is a portion of the extensive Victoria station, Pimlico, whilst the City station is at Farringdon Street, where it unites with the Metropolitan or under-ground railway to King's Cross and Paddington. This section of the line, under the name of [the Metropolitan Extension](/routes/farringdon-street-to-herne-hill), joins with that of the Western at Herne Hill, and has become very much crowded with local traffic.
+
+Leaving [Victoria](/stations/victoria), we almost immediately cross the Thames, pass [Battersea Park](/stations/battersea-park), and arrive at [Stewart's Lane](/stations/stewarts-lane), at which are situate extensive works belonging to the company. From thence we pass [Wandsworth Road](/stations/wandsworth-road), [Clapham](/stations/clapham), and [Brixton](/stations/brixton) to [Herne Hill](/stations/herne-hill), the point of connection with the City or eastern section of the line, from whence we proceed over a viaduct of 30 arches, 1,000 feet in extent, and which has from a distance a very picturesque appearance, Beyond this is an embankment of a mile and a quarter, in the middle of which is Dulwich station. Following the embankment is a cutting of one third of a mile in extent, with slopes of 4 to 1, This brings us when at the depth of 60 feet, to the tunnel under Sydenham hill, and at the face of which there is now erected a station for the accommodation of the neighbourhood. Immediately beyond the tunnel, the line passes under nine lines of railway belonging to the [South Eastern](/companies/south-eastern) and [Brighton](/companies/london-brighton-and-south-coast) Companies. We next come to a small cutting which brings us to
+
+[Penge](/stations/penge), and an embankment, similar in character to the one already mentioned, brings us to [Beckenham](/stations/beckenham). We next pass the station of [Shortlands](/stations/shortlands), and at the distance of three quarters of a mile further, arrive at
+
+(place: england/kent/bromley)
+
+[Bickley](/stations/bickley) and [St. Mary's Cray](/stations/st-mary-cray) stations.
+
+[Sevenoaks Junction](/stations/sevenoaks-junction).
+
+(branch: start)
+  A line here turns off to the right, 8 miles long, passing through [Eynesford](/stations/eynsford) and [Shoreham](/stations/shoreham), to
+
+  (place: england/kent/sevenoaks)
+(branch: end)
+
+[Farningham](/stations/farningham).--Lullingstone and Eynesford Castles in the neighbourhood.
+
+[Meopham](/stations/meopham) and [Sole Street](/stations/sole-street) are then passed; and at a distance of six mules beyond, the arrival of the train is announced at [Strood](/stations/strood) (the North Kent junction), which, together with [Rochester](/stations/rochester) and [Chatham](/stations/chatham), have just before been described.
+
+[New Brompton](/stations/new-brompton) station.
+
+(place: england/kent/rainham)
+
+One of the villages on the Old Roman road, Watling Street, passing which, and the station of [Newington](/stations/newington), we arrive at that of
+
+(place: england/kent/sittingbourne)
+
+(branch: start title: Sittingbourne & Sheerness)
+  A branch 7 miles long, running direct across the western extremity of the Isle of Sheppy, passing through [Queenborough](/stations/queenborough), to Sheerness (described [here](/routes/london-bridge-to-herne-bay#sheerness) and at [Chatham](/stations/chatham#sheerness)).
+(branch: end)
+
+## Chatham and Dover continued
+Continuing the route we pass the station of
+
+(place: england/kent/teynham)
+
+and arrive at
+
+(place: england/kent/faversham)
+
+(route: faversham-to-ramsgate-harbour)
+
+(branch: start title: Kent Coast)
+  **Faversham to Ramsgate**
+
+  This branch turns off to the left at [Faversham](/stations/faversham), taking a direction coastwise by the Whitstable Flats to [Whitstable](/stations/whitstable). A distance of 3¾ miles further brings us to
+
+  (place: england/kent/herne-bay)
+
+  Leaving the Herne Bay temporary station we immediately pass the handsome red brick permanent station, which will be opened in June, 1864, and through deep earth cuttings and over marshy down; we pass the celebrated Reculver ruins on our left hand and reach
+
+  (place: england/kent/birchington)
+
+  About three miles further is the station at
+
+  **[Margate](england/kent/margate)**.--At the back of the Bathing Infirmary and close to the sea; there is a second Margate station for the convenience of the local traffic between here and Ramsgate, whence the trains run off the main line on a short branch to the right, and enter a station facing the sea and directly parallel with the South Eastern Station.
+
+  Proceeding across fields, through cuttings, and oil embankments, we next come to
+
+  (place: england/kent/broadstairs)
+
+  Immediately on leaving Broadstairs the traveller enters upon the chalk cliff line of the coast, and on emerging from the tunnel has the sudden and agreeable surprise of finding himself in a familiar place, amongst the bathing machines of Ramsgate sands. The station is directly under the cliff and close to Augusta stairs, a position which literally leaves the visitor where he wishes to be, at
+
+  **[Ramsgate](england/kent/ramsgate)**, and the sea side, without the need of walking another step. A short continuation of the line will ultimately have a terminus on the Pier.
+(branch: end)
+
+## Chatham and Dover Main Line continued
+On retaking our seats at Faversham, a few minutes brings us to the station of
+
+[Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of
+
+[Canterbury](/stations/canterbury-east).
+
+A distance of 15 miles brings us through the little villages of [Bekesbourne](/stations/bekesbourne), [Adisham](/stations/adisham) (the station for Wingham), [Shepherd's Well](/stations/shepherds-well), and [Ewell](/stations/temple-ewell) to
+
+(place: england/kent/dover)

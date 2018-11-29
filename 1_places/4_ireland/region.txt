@@ -1,0 +1,9 @@
+title: Ireland
+----
+feature:
+- places/ireland/county-dublin/dublin
+- places/ireland/county-kerry/killarney
+- places/ireland/county-cork/cork
+- places/ireland/county-antrim/belfast
+- places/ireland/county-londonderry/londonderry
+- places/ireland/county-galway/galway

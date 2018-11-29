@@ -1,6 +1,0 @@
-title: Channel Islands
-----
-feature:
-- channel-islands/alderney-and-sark
-- channel-islands/guernsey
-- channel-islands/jersey

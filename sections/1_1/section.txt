@@ -1,0 +1,7 @@
+title: Section I
+----
+desc: London and its Environs, including Crystal Palace, Hampton Court, Windsor, etc.
+----
+label: Section 1
+----
+text: Tours through the counties of Kent, Sussex, Hants, Dorset, Devon, the Channel Islands, and the Isle of Wight.

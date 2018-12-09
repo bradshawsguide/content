@@ -8,7 +8,7 @@ company: companies/south-eastern
 ----
 stops:
 - red-hill-junction
-- reigate
+- reigate-town
 - betchworth
 - box-hill
 - dorking

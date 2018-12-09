@@ -1,0 +1,33 @@
+section: 1
+----
+title: Hayward's Heath to Lewes and Newhaven
+----
+subtitle: Newhaven Branch
+----
+company: companies/london-brighton-and-south-coast
+----
+stops:
+- haywards-heath
+- cooks-bridge
+- [lewes, barcombe, isfield, uckfield]
+- newhaven
+----
+links:
+- (wikipedia: Wealden_Line)
+----
+text: The line passes through an undulating, and in some places a hilly, country to
+
+[Cook's Bridge](/stations/cooks-bridge), in the vicinity of which is *Coneyburrow Park*. We have here a full view of the lofty range of the south downs, the highest point of which, *Ditching Beacon*, a little to the right, is 858 feet above the sea.
+
+(place: england/sussex/lewes)
+
+(route: lewes-to-hailsham-eastbourne-and-hastings)
+
+(branch: start title: Uckfield Branch)
+  **Lewes to Uckfield**
+  From [Lewes](/stations/lewes) this line, 7 miles long, passes through the villages of [Barcombe](/stations/barcombe) and [Isfield](/stations/isfield) to
+
+  (place: england/sussex/uckfield)
+(branch: end)
+
+(place: england/sussex/newhaven)

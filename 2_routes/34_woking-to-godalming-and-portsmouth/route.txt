@@ -10,7 +10,7 @@ company: companies/london-and-south-western
 ----
 stops:
 - woking
-- [guildford, ash, tongham, farnham, bentley-hants, alton, ropley, alresford, itchen-abbas, winchester]
+- [guildford, ash, tongham, farnham, bentley, alton, ropley, alresford, itchen-abbas, winchester]
 - godalming
 - milford-surrey
 - witley

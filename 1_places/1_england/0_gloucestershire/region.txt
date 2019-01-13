@@ -1,7 +1,5 @@
 title: Gloucestershire
 ----
-country: England
-----
 text: One of the western counties, which presents three beautiful varieties of landscape scenery, viz.: the hill, vale, and forest. The hill district, including those of Cotswold and Stroudwater, may be considered as a continuation of the central chain proceeding south from Derbyshire, and passing through this county into Wiltshire, there expanding into the Salisbury downs, and afterwards running in a western direction towards the Land's End in Cornwall. The downs, which formerly lay open, producing little else than furze, are now converted into arable enclosed fields, and communications have been opened between towns, where formerly the roads were impassable.
 
 That part of the county called the vale district, is bounded on the east by the Cotswold hills, and the river Severn on the west; it is usually subdivided into the vales of Evesham, Gloucester, and Berkeley. The characteristic features of the entire, district are nearly the same; though if a difference be admitted, it will probably be in favour of that of Berkeley.

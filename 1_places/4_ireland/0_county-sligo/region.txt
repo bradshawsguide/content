@@ -1,3 +1,1 @@
 title: County Sligo
-----
-country: Ireland

@@ -1,5 +1,3 @@
 title: County Fermanagh
 ----
-country: Ireland
-----
 text: This county, which returns two members, is divided by Lough Erne, which, properly speaking, consists of two lakes, the upper lake being nine miles in length, and from two to five in breadth, and the lower ten miles in length, and from two to eight in width, being connected with the former by a wide channel about seven miles long. The banks of these celebrated waters abound in picturesque scenes, although the surface of this county is not, in general, either productive or beautiful. Toward the northern division the land is tolerably productive, and farms are of considerable size. In other parts husbandry is more imperfectly understood.

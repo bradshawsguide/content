@@ -1,3 +1,1 @@
 title: Herefordshire
-----
-country: England

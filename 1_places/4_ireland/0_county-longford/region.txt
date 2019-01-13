@@ -1,5 +1,3 @@
 title: County Longford
 ----
-country: Ireland
-----
 text: Longford, is only a small county, and returns two members. The general aspect of it is flat; but towards its northern extremity, where it projects into the counties of Leitrim and Cavan, its character varies, and the surface becomes rugged and uneven, partly consisting of good tillage ground, and partly of mosses and fens. A considerable quantity of linen is made in this county, and it is improving and extending in all directions.

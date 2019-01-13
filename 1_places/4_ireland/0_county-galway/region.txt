@@ -1,5 +1,3 @@
 title: County Galway
 ----
-country: Ireland
-----
 text: Galway, a county in The province of Connaught, which returns two members, is bounded on the east by the river Shannon, the north-east by Roscommon, the west by the Atlantic, the north by Mayo, and on the south by Galway Bay. The general appearance of this county is remarkably beautiful, especially from the banks of the Shannon to the town of Galway. The soil is very fruitful; but agriculture is, generally speaking, in a backward state. This county possesses both rivers and lakes in great abundance. Lough Corrib alone extends more than 20 miles in length, and eleven in breadth.

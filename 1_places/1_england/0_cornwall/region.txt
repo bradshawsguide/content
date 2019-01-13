@@ -1,7 +1,5 @@
 title: Cornwall
 ----
-country: England
-----
 text: Cornwall, from its soil, appearance, and climate, is one of the least inviting of the English counties. A ridge of bare and rugged hills, intermixed with bleak moors, runs through the midst of its whole length, and exhibits the appearance of a dreary waste.
 
 The most important objects in the history of this county are its numerous mines, which for centuries have furnished employment to thousands of its inhabitants; and, the trade to winch they give birth, when considered in a national point of view, is of the greatest relative consequence.

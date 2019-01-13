@@ -1,5 +1,3 @@
 title: County Carlow
 ----
-country: Ireland
-----
 text: Carlow, a county in the province of Leinster, which returns two members, in the south-east part of Ireland. It is very fertile, both for tillage and pasture, and produces the best butter in the country. That portion which lies west of the river Barrow is mountainous, as is also that part which borders the county of Wicklow, but its general appearance is very picturesque and beautiful. It possesses inexhaustable quarries of limestone, beds of marls and different clays. In the mountains are found excellent iron ore, oxide of manganese, &c.

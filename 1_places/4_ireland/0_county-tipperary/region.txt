@@ -1,5 +1,3 @@
 title: County Tipperary
 ----
-country: Ireland
-----
 text: Tipperary, a county in the province of Munster, which returns two members, and consists of twelve baronies. It contains some of the most productive districts in the country; the peasantry, however, are the most riotous, distressed, and poverty-stricken. Trade and manufactures are scarcely known out of the large towns. Water-power might be produced to any extent in this part of Ireland, and it is only necessary for the hand of industry to be rightly directed to ensure the most abundant return.

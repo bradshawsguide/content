@@ -1,5 +1,3 @@
 title: County Armagh
 ----
-country: Ireland
-----
 text: Armagh, which returns two members, is beautifully diversified with gentle hills; the soil is rich and fertile, except in the district called the Fewes, which is exceedingly mountainous, but even a considerable part of this rough tract has been brought into cultivation. Throughout the county, however the farms are in general small. The linen manufacture in all its branches flourishes here, and, indeed forms the chief employment of the Inhabitants.

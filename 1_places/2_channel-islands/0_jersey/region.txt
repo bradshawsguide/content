@@ -1,7 +1,5 @@
 title: Jersey
 ----
-country: Channel Islands
-----
 notes: A telegraph station
 ----
 text: Which many prefer to the island already described, is in form, an irregular parallelogram, about ten miles long, and five broad. Its greatest length from south-east to north-west is about twelve miles, whilst it embraces a circumference, inclusive of its many curves and winding sinuosities, of about fifty miles, and a superficies of some 50,000 acres.

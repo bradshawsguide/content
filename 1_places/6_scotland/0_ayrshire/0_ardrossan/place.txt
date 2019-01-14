@@ -1,0 +1,23 @@
+section: 3
+----
+title: Ardrossan
+----
+info:
+- term: Population
+  desc: 6,778.
+- term: Hotel
+  desc: Eglinton Arms.
+- term: Fairs
+  desc: Second Tuesday in July, and November 9th.
+----
+notes:
+- A telegraph station.
+----
+text: A modern packet station and bathing place, in Ayrshire, on the Firth of Clyde, on a branch of the Glasgow and South Western, 5 miles from Irvine. This branch joins the main line at Kilwinning.
+
+Steamers to Belfast, &c. Sea passage 6½ hours. See "Bradshaw" for the month.
+
+The fine mountain scenery of Arran and Bute fronts this beautiful port, which was founded a few years back by the Eglinton family, and has a fashionable reputation, with baths, terraces, crescents, hotels, &c The harbour, on which two or three hundred thousand pounds have been expended, lies within a point of land, giving name (*Ard Ross*, i.e., high head) to the parish, from which a circular pier runs out north-west towards the Horse Rock or island. Another rock, called Grinan, takes its designation
+from *Grian*, the sun, the worship of which appear to have been common with the Celts in pagan times. For instance, *Grianan* of Aileach, a celebrated sun-altar in Ireland.
+
+Knockgeorgan hill to the north-west of Ardrossan, is 700 feet high, and offers a striking prospect. *Ardrossan Castle*, now a ruin, was a seat of the Eglinton family, whose present residence here is the *Pavilion*.

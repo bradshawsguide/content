@@ -1,0 +1,12 @@
+section: 3
+----
+title: Four Ashes
+----
+info:
+- term: Money Order Office
+  desc: at Wolverhampton.
+----
+notes:
+- Telegraph station at Wolverhampton, 6¼ miles.
+----
+text: To the left is Somerford Hall, and beyond *Brewood*, with its beautiful *Church* and *Grammar School*. *Chillington Park* and *Hilton Hall* are likewise in the vicinity.

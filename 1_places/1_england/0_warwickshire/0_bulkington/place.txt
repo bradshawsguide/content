@@ -1,0 +1,14 @@
+section: 3
+----
+title: Bulkington
+----
+info:
+- term: Population
+  desc: 1,858.
+- term: Money Order Office
+  desc: at Nuneaton, 4 miles.
+----
+notes:
+- Telegraph station at Shilton, 2¼ miles.
+----
+text: This station is a red brick erection, with stone dressings.

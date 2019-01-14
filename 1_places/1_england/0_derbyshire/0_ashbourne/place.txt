@@ -1,0 +1,33 @@
+section: 3
+----
+title: Ashbourne
+----
+info:
+- term: Hotel
+  desc: Green Man.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: First Tuesday in January, February 13, second Monday in March, April 3, May 21, July 5.
+- term: Banker
+  desc: Burton Union Bank.
+----
+notes:
+- A telegraph station.
+----
+text: This pretty market town, noted for its cattle fairs, of 3,501 inhabitants, is in the beautiful valley of the Henmore, on the western border of Derbyshire, near Dovedale. *Viator*, in Walton's Angler, going down Spittal Hill to the Talbot, with his friendly guide of the angle, says "But what pretty river is this that runs under this stone bridge? Hath it a name?" *Piscator*: "Yes, it is called Henmore, (or Schoo Brook), and has in it both trout and grayling. But we are now come to the Talbot, what will you drink, sir, ale or wine?" *Viator*: "Nay, I am for the country liquor, Derbyshire ale, if you please; for a man should not, methinks, come from London to drink wine in the Peak." *Piscator*: "You are in the right; and yet, let me tell you, you may drink worse French wine in many taverns in London than they have sometimes at this house. What ho! bring us a flagon of your best ale. And now, sir, my service to you: a good health to the gentleman you know of, and you are welcome to the Peak." *Viator*: "I thank you sir."
+
+Though we are in the region of the Lower Peak, there is nothing like Peak scenery at Ashbourne, but its ale is still celebrated. Ashbourne Hall is the seat of Captain HoDand, R.N. (here Charles Stuart slept in 1745), to one of whose family there is a beautiful monument by Banks, in the fine early English church. The latter is a cross, with triple-lancet windows, built as far back as 1241, and contains a brass of the same age, with other monuments of the Cockaynes, &c.
+
+At Mayfield they show the cottage to which Moore retreated from his gay friends, and in which, he wrote "Lalla, Rookh."
+
+Piscator says that the foul ways in this part of Derbyshire "seem to justify the fertility of the soil, according to the proverb 'There is good land where there is foul way,' and it is of good use to inform you of the riches of the country, and of its continual traffic to the county town you came from; which is also very observable by the loaden horses you meet everywhere on the road." The roads are better now, and the *pack horses* referred to, for carrying goods, are superseded by rapid locomotives.
+
+Crossing Bentley Brook, full of good trout and grayling, "but so encumbered with weed as is troublesome to an angler," you reach (three miles) Thorp Cloud Hill, 300 feet high, and the Walton Hotel, commanding a view of the bleak craggy ridges near the Dove, the bed of which should be descended here for the peculiar scenery of Dovedale. For two or three miles the swift and sparkling river is strained in its course between limestone rocks into a very narrow stream, 10 to 20 yards wide, which changes its course, motion, and appearance perpetually, and makes a continual noise as it rolls over the loose stones. "The cliffs are heaved into broken and picturesque piles, some naked or perforated into cavities, others adorned with foliage." Dovedale, however, has been much exaggerated, as the scenery is rather romantic than grand. In one part of the defile it is only seven yards across; the broken rocks having such names as the Twelve Apostles. Dovedale Church, Reynard's Cave, &c.
+
+On the Staffordshire side of the Dove, near this, is *Ilam Hall*, the handsome Elizabethan seat of the Russells, where the two rivers Hamps and Manifold rise from under ground, only 15 yards from each Other. Here Congreve, who was a Staffordshire man, wrote his first play, the "Old Bachelor;" so clever a thing that Dryden said " he had never seen such a first play." Three miles higher up the river is *Alsonefield* with an embattled church tower. "As I am an honest man," says *Viator*, (who was perhaps apt to be too much astonished), "a very pretty church. I thought myself a stage beyond Christendom." Further up the river is *Okeover* Hail, the old seat of Ward, the author of "Tremaine." After another three miles comes *Beresford Hall*, with its dilapidated fishing house, built by Cotton in 1674, near the Pike Rock, and dedicated to anglers, *sacrum piscatoribus*. His cypher is still seen over the door, but the marble floor and the panel portraits of Cotton, and his worthy father, Izaak Walton (who used to angle here), in full costume, have disappeared. Here the river runs pure and crystalline, but for a mile or two from its head (which is about 12 miles higher in the lofty moorlands round Axe Edge near Buxton) it is a "black water, as all the rest of the Derbyshire rivers of note are, for they all spring from the mosses." On the meadows, in the lower part of its course, the flood of the Dove lays so rich a cake that there is a rhyme which says:—
+
+> In April, Dove's flood
+> Is worth a king's good."
+
+*Ashbourne Green Hall*, the Miss Trenbaths, and *Ashbourne Grove*, are in the vicinity.

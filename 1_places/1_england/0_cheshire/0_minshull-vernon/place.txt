@@ -1,0 +1,14 @@
+section: 3
+----
+title: Minshull Vernon
+----
+info:
+- term: Population
+  desc: 402.
+- term: Money Order Office
+  desc: at Winsford, 2¾ miles.
+----
+notes:
+- Telegraph station at Winsford, 2¾ miles.
+----
+text: Soon after leaving this station we pass through a cutting of considerable length, and thence the scenery becomes more interesting. We have views of Beeston Castle Hill, the highlands in Cheshire, Wales, and further on, in clear weather, the Derbyshire hills.

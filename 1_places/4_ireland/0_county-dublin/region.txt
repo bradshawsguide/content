@@ -1,5 +1,5 @@
 title: County Dublin
 ----
-text: <span class="smcp">The County of Dublin</span>, which returns two members has its western limits formed by the Irish Sea and the coast is rendered extremely picturesque in many parts by the bays and creeks into which it is broken. On the north and north-west it is bounded by the county of Meath. Part of the western border joins the county of Kildare, and, in the south, he the mountainous tracts of Wicklow.
+text: (smcp: The County of Dublin), which returns two members has its western limits formed by the Irish Sea and the coast is rendered extremely picturesque in many parts by the bays and creeks into which it is broken. On the north and north-west it is bounded by the county of Meath. Part of the western border joins the county of Kildare, and, in the south, he the mountainous tracts of Wicklow.
 
 Except in the attractive varieties of its coasts, and the beauty of the mountainous district which borders the county of Wicklow, this county may be considered as possessing less diversity of natural scenery than many other parts of Ireland.

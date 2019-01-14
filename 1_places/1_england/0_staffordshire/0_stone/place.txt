@@ -1,0 +1,22 @@
+section: 3
+----
+title: Stone
+----
+subtitle: (Junction)
+----
+info:
+- term: Population
+  desc: 4,509.
+- term: Hotel
+  desc: Crown.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: Tuesday after Mid-Lent Shrove Tuesday, Whit Tuesday, August 5th, Tuesday before St, Michael.
+- term: Banker
+  desc: W. Moore; draw on Glyn and Co.
+----
+notes:
+- A telegraph station.
+----
+text: Here are manufactures of shoes. The church contains an altar-piece, by Beeehy, and monument to Earl St Vincent, born at Meaford Hall, in 1734. Junction of line to Norton Bridge. From Stone to the Potteries the scenery is scarcely less beautiful, including a view of the woods, &c., of Trentham (one of the seats of the Duke of Sutherland); Meaford Hall (Viscount St. Vincent's), &c.

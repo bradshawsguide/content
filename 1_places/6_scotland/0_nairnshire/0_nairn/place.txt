@@ -1,0 +1,18 @@
+section: 3
+----
+title: Nairn
+----
+info:
+- term: Population
+  desc: 3,827.
+- term: Hotel
+  desc: Andersen's.
+- term: Market Days
+  desc: Tuesday, Thursday, and Friday.
+- term: Fairs
+  desc: Tuesday before Beauly March, April, and May fairs; Wednesday of Beauly June, July, and August fairs; Friday alter Beauly September and October fairs; Thursday before November 22nd.
+----
+notes:
+- A telegraph station.
+----
+text: The Brighton of the North, a favorite seabathing place, and the county town of Nairnshire. It contains three kirks (Established, Free Kirk, and U. P.), an Episcopal Chapel (St. Columba's), schools, new museum, court house, gaol, new pier (1860), and bridge, gas and water works, and baths. The beach is sandy, and the excellent bathing machines are in great requisition. The "Links" is a favourite promenade, on which a handsome hotel was erected in 1859. It gives the title of Baroness to Lady Keith. Excellent salmon and trout fisheries are close at hand.

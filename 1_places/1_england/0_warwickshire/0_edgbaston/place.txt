@@ -1,0 +1,13 @@
+section: 3
+----
+title: Edgbaston
+----
+info:
+- term: Population
+  desc: 12,907.
+----
+notes:
+- Distance from station, ¼ mile.
+- Telegraph station at Birmingham, 1¼ mile.
+----
+text: Here are some fine Botanical Gardens.

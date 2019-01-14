@@ -1,0 +1,18 @@
+section: 3
+----
+title: Kilwinning Junction
+----
+info:
+- term: Population
+  desc: 7,717.
+- term: Hotel
+  desc: Eglinton Arms.
+- term: Fairs
+  desc: February 1st, and 1st Wednesday in November.
+----
+notes:
+- A telegraph station.
+----
+text: Here are the ruins of a Franciscan Abbey, founded by Hugh de Morville, in 1140. The church stands near the old spire of the abbey, the last abbot of which was Gavin Hamilton. An archery club is held here, which was established in 1488, and at which the popinjay is held.
+
+It is said that whilst building this abbey the society of Freemasons was first instituted. In the parish stands *Eglinglon Castle*, a splendid fabric, the seat of the ancient family of that name, and famous for the tournament which was held here a few years ago.

@@ -1,0 +1,7 @@
+section: 3
+----
+title: Spon Lane
+----
+notes:
+----
+text: Here, in 1851, the glass for the Great Exhibition was made at the celebrated factory, which employs 1,200 hands.

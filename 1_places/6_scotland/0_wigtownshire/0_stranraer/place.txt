@@ -1,0 +1,16 @@
+section: 3
+----
+title: Stranraer
+----
+info:
+- term: Hotels
+  desc: Commercial; George; King's Arms.
+- term: Market Day
+  desc: Friday.
+----
+notes:
+- A telegraph station.
+----
+text: Is a seaport town at the top of Loch Ryan, accessible to steamers of heavy tonnage; they only sail, however, about once a week to Glasgow and Belfast. The town itself has no particular attraction, but the country around is very interesting.
+
+*Kennedy Castle*, 3½ miles to the east of the town, once the residence of the Earls of Cassilis, was destroyed by fire in 1715. A part of the walls are still remaining, and the grounds are kept in excellent condition.

@@ -1,0 +1,11 @@
+section: 3
+----
+title: Barrow
+----
+info:
+- term: Monet Order Office
+----
+notes:
+- A telegraph station.
+----
+text: Close by Barrow Island, one mile in length and beyond Walney Island, eight miles long which is a mossy, flat sand bank, are the remains of a forest. On Haw Point there is a fixed revolving light, erected in 1790, and which can be seen at a distance of 13 miles.

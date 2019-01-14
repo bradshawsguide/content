@@ -1,0 +1,18 @@
+section: 3
+----
+title: Coventry
+----
+info:
+- term: Hotel
+  desc: King's Head.
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: 2nd Friday after Ash Wednesday, May 2nd, Friday in Trinity week, August 26th and 27th, and November 1st.
+----
+notes:
+- A telegraph station.
+----
+text: The fine steeples of St. Michael's and Trinity are the first to strike one in this old city, which is the seat of the ribbon trade, and a parliamentary borough, 94 miles from London. It returns two members, and has a population of 41,647. Woollens and blue thread were formerly the staple manufactures; but they are now superseded by ribbons and watches, two branches introduced by the French refugees of the 17th century. About 2,000 hands are employed on the latter, and upwards of 30,000 on silk weaving, throwing, and the weaving and dyeing of ribbons. Alabar and power looms are chiefly used in the manufacture. This trade in late years has greatly increased; many steam factories having been erected: one just completed for Mr. Hart is capable of holding about 300 large looms, and will give employment to 1,000 hands, producing as many ribbons as the whole town could make in 1830. Many women and children are employed. French ribbons are imported by the dealers; but in point of taste as well as cheapness, English productions are now a fair rival to foreign ones (see <cite>Bradshaw's Hand Book to the Manufacturing Districts</cite>). Coventry (like Covent Garden in London) takes its name from a monastery, founded in the 11th century, by Leofric, the Saxon, and his wife Godiva, whose memory is honoured by an occasional procession. According to the well known story, she obtained a grant of privileges to the town by consenting to ride naked through the streets. To save her delicacy, the people closed their windows and abstained from looking, except Peeping Tom, whose bust, adorned with a *pigtail*, stands at the comer of Hertford Street. Many old fashioned gable houses are to be seen here in the narrow back streets. The *Guildhall* is a fine middle-age building, with a timbered hall, adorned with escutcheons and stained windows. Another old pile, is the *House of Industry*, near some remains of a priory. Three gates, and fragments of the town walls, the Free Grammar School, Bablake's old hospital (1350), the church, and the Exchange, a handsome building containing a noble halL recently erected from designs by Mr. James Murray deserve notice. The beautiful steeple of *St. Michael's* on the Gothic church, is about 300 feet high; it was built, by the two Botoners, mayors of the town, between 1373 and '95; near it stands part of a palace belonging to the bishops, when Coventry was a diocese with Lichfield. The Cathedral, dissolved by Henry VIII., stood at Hill Close. Trinity, or the priory church is also Gothic, with a steeple 237 feet high, of later date. Here the Grey Friars acted then miracle plays at the feast of Corpus Christi—a series of Bible dramas, from the Creation to Doomsday. Henry VI. often came to see them. Coventry has an important School of Design.
+
+Within a distance of two miles are *Whitley Park*, an old Elizabethan seat of Viscount Hood. *Kenilworth Castle* (6 miles), the road to which is along an avenue of noble trees, the *Gate House* at which should be visited, on account of the large, sculptured mantel piece in it—Dr. Butler Was a native. *Stoneleigh Park*, Lord Leigh, with some Abbey ruins, a portrait of Byron, and Zaffery's famous one, "Garrick telling a Ghost story;" *Packington*, Earl of Aylesford; *Coombe Abbey*; Earl Craven, has Abbey ruins, with a gallery of Vandykes, Lelys, &c., and remains of an Abbey at *Berkswell*, seat of Sir J. Wilmot, Bart., at which is Canaletti's view of London.

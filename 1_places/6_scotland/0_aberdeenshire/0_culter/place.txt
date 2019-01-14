@@ -1,0 +1,8 @@
+section: 3
+----
+title: Culter
+----
+notes:
+- Telegraph station at Aberdeen, 7¾ miles.
+----
+text: Here are paper and saw mills, and close at hand is *Culter House* the seat of J. Duff, Esq.; also the *Corbie Linn*, the favourite resort of botanists and lovers of the picturesque.

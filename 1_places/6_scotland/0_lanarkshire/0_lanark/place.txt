@@ -1,0 +1,28 @@
+section: 3
+----
+title: Lanark
+----
+info:
+- term: Hotel
+  desc: Clydesdale.
+- term: Market Days
+  desc: Tuesday and Saturday.
+- term: Fairs
+  desc: Last Tuesday in February; second Wednesday in April; last Wednesday in May, *o.s.*; last Wednesday in July, *o. s.*; October, Thursday after Falkirk fair; November, 1st Wednesday, *o.s.*; and last Tuesday in December.
+----
+notes:
+- A telegraph station.
+----
+text: From this point travellers can visit the Falls of Clyde, and the romantic scenery in the neighbourhood. Independent of the more than magnificent grandeur of the various waterfalls themselves, the beauty of the country on every side of the river, and the picturesque succession of views which present themselves to the eye at every turn of the road, are a source of great attraction. A guide to the Falls may be obtained at any of the respectable inns in the town.
+
+The ancient town of Lanark, capital of the county, which returns one member, has a population of 5,384, and although not engaging in outward appearance, possesses many points of interest, and is remarkable as having been the scene of Wallace's first grand military exploit, in which he killed Heslerig, the English sheriff, and drove his soldiers from the town. The burgh consists of a principal street, and a number of smaller ones branching off. The grammar school had General Roy and Judge Macqueen as scholars. The church, built in 1774, contains a figure of Wallace. In the vicinity are Castle Hill Tower. Quair Castle, Cleghorn, with its Roman camp, 600 yards by 420; *Lee House*, seat of Sir N. Lockhart, Bart, at which is the "Lee Penny or Talisman." Judge Lee, and Lithgow, the traveller, were born here.
+
+(smcp: New Lanark) village is situated about one mile from Lanark, and contains a population of 1,807. It was established in 1774, by Robert Owen's father-in-law, the late David Dale, and is now the property of Messrs. Walker & Co. There are several cotton mills, at which about 1,100 hands are employed. No stranger ought to omit visiting this far-famed village, which is quite in his way when visiting the Upper Falls of the Clyde.
+
+(smcp: The Falls). -- *Bonnington Fall*, although the most inconsiderable, should be first visited, for the remarkable scenery surrounding it.
+
+*Corra Linn Fall*, 84 feet, considered by some as the finest of the Falls, about half a mile from *Bonnington*, the seat of Sir Charles Ross, at which are Wallace's chair, cup, and portrait, is composed of three slight falls, at an inconsiderable distance from each other, over which the vast body of water rushes with fearful impetuosity into a deep abyss. To describe the beauties of the scene is an almost impossible task, requiring the glowing language of the poet to do justice to them.
+
+*Stonebyres*. The approach to this (which is 70 feet) fall is by a gently winding road -- its tout ensemble and the adjacent landscape is sublime. Above we have lofty crags fringed with natural wood. The torrent dashes in one uninterrupted stream into the abyss beneath, raising clouds of stormy spray from the boiling gulph.
+
+*Cortland Crags* -- which extends nearly half a mile on both sides of the river, is a most romantic dell, composed of lofty rocks, beautifully diversified with natural wood. The approach from the north -- a level piece of ground, around which the Mouse makes a sweep -- conducts to the mouth of this great chasm. As you enter, and through its whole extent, a succession of the most picturesque scenes appear on every hand. In the most sequestered part of the dell is a natural chasm in the rock, called *Wallace's Cave*, which tradition and history concur in informing us was often resorted to by that hero.

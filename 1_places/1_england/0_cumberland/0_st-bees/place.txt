@@ -1,0 +1,17 @@
+section: 3
+----
+title: St. Bees
+----
+info:
+- term: Population
+  desc: 1,031.
+- term: Hotels
+  desc: Sea Coke; St. Bees.
+- term: Market Day
+  desc: Saturday
+- term: Money Order Office
+----
+notes:
+- A telegraph station.
+----
+text: At St. Bees, so called from St. Bega, an Irish saint who founded a monastery at this place in 650, is the church of an ancient abbey, part of which is used as a college, founded by Bishop Law in 1817, for clerical students, and in which many of the clergy have been educated. The Grammar School was founded by Archbishop Grindall, born at Hensingham. A lighthouse on the cliffs to the west was erected in 1822. An immense quantity of seafowl are in this locality. In the vicinity is St. Bees' Head, the market town of Egremont, with the ruins of a castle of the 12th century, and *Gill Foot*, eat of T. Hartley, Esq.; *Linethwaite*, E. Harrison, Esq.

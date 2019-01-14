@@ -1,0 +1,14 @@
+section: 3
+----
+title: Dalry
+----
+info:
+- term: Population
+  desc: 11,157.
+- term: Hotel
+  desc: Black Bull.
+----
+notes:
+- A telegraph station.
+----
+text: Here the Scottish people rebelled against episcopacy. The church is situated on a hill, which is almost an island. In the vicinity are Auchinskeith, with its cave, and the Temple lands, which belonged to the Knights Templars, with several cairns.

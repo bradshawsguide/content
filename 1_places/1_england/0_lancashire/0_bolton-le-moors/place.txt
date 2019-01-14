@@ -1,0 +1,22 @@
+section: 3
+----
+title: Bolton-le-Moors
+----
+info:
+- term: Hotel
+  desc: Swan.
+- term: Market Days
+  desc: Monday and Saturday.
+- term: Fairs
+  desc: January 4th, July 30th and 31st, October 13th and 14th, cattle; and every other Monday.
+- term: Bankers
+  desc: Bank of Bolton; Hardcastle, Cross, and Company.
+----
+notes:
+- A telegraph station.
+----
+text: A large manufacturing town, on the moors, where five or six railways meet. Population, 70,395, who send two members to parliament. Cotton velvets and muslins were first manufactured here about 1760-80, on a large scale, by the new machinery of Arkwright, who resided here when a barber; and Crompton, who lived at *Hall-in-the-Wood*, an old timbered house, (when a weaver, and there invented the mule). It was the Starkies' old seat, and still exists. Long before the cotton trade took root, Bolton was a great place for cloth and fustians, the making of which was introduced by the Flemings in 1337. There are now 60 cotton mills, many of them very large, as are also the bleach and dye-works, the whole employing about 13,000 hands. Muslins, counterpanes, cambrics, dimity, ginghams, &c., are the chief productions. Above 4,000 hands are engaged in the iron foundries and engine works. Much coal is quarried, and a little paper made.
+
+Among the buildings are the old *Parish Church*, *Town Hall*, Free Library, Public Baths, Infirmary, Church Institute for elementary education, Market Hall, the finest in England, opened in Dec. 1855, cost about £80,000; large *Waterworks* supplied by reservoirs 4 miles distant, Exchange, Theatre, Foundries, Mechanics' Institute, Lever's Grammar School, where the lexicographer Ainsworth was both pupil and master. At Dobson's machine works is an immense brick chimney, 3G8 feet high. At one time the manor belonged to the Derby "family, and it was here that the loyal seventh Earl was brought to be beheaded in 1651, after his defeat, at Wigan Lane. His Countess, who defended Lathom House so heroically against, the roundheads, a few years before, was the Charlotte de Tremouaille who figures in "Peveril of the Peak." *Smithills Hall* contains a chapel, with stained window and curious old carvings, and is the seat of the Ainsworths, near their bleach-works at Halliwell.
+
+Two miles distant is Eagley, with Messrs. Chadwick's sewing thread and small ware mills, most admirably arranged in every respect; adjacent is a school, with pleasure grounds and excellent library, containing the daily papers for the use of use of the work-people, whose happiness and comfort have been most carefully attended to by those spirited and philanthropic gentlemen.

@@ -1,0 +1,20 @@
+section: 3
+----
+title: Ashton-under-Lyne
+----
+info:
+- term: Hotel
+  desc: Commercial.
+- term: Market Days
+  desc: Tuesday and Saturday.
+- term: Fairs
+  desc: March 23rd, April 29th, July 25th, November 21st.
+- term: Bankers
+  desc: Hyde and Glossop Bank; Branch of Saddleworth Banking Co.
+----
+notes:
+- A telegraph station.
+----
+text: This is a busy cotton town and borough, with a population of 33,917, who return one member, in South Lancashire, 6 miles east of Manchester, on the river Tame, which branches out of the Mersey. "Under Line," probably refers to the natural line of division, made by the hills in this quarter. Some of the oldest houses are at Charlestown and Boston,—two places which an American will rightly guess were built during the American war. Here are upwards of ninety cotton mills. Ashton formerly gave name to the Assheton family, now represented by the Earl of Stamford, who is lord of a valuable manor—a bare worthless tract till the cotton trade was introduced in 1769. The parish church is of Henry VI.'s time. Like most feudal lords, they had the power of life and death over their serfs, and asserted it by keeping a gallows, a meadow, adjoining the residence of the ancient lords, where convicts were buried, being still known as the "gallows meadow." The remembrance of this is kept up by an annual custom of "riding the black lad," on Easter Monday, when the effigy of a knight in black armour, is paraded through the streets to the great diversion of the thousands of persons who come from a distance, to witness the ceremony
+
+*Dukinfield*, formerly the seat of an old family of that name, is across the Tame, on the Cheshire side. Here also cotton, with all its peaceful advantages, is in the ascendant.

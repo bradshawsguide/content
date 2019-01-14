@@ -1,0 +1,7 @@
+section: 3
+----
+title: Garelochead
+----
+text: A small village, situate at the head of Gare Loch, and from whence there is a very beautiful drive along the side of Loch Long to Arrochar, a quiet  though much frequented retreat during the summer months from its delightful situation on the margin, of the loch and in the midst of mountain scenery.
+
+It is only two miles across the pass from this point to Tarbet on Loch Lomond.

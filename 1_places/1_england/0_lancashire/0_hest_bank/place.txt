@@ -1,0 +1,8 @@
+section: 3
+----
+title: Hest Bank
+----
+notes:
+- Telegraph station at Lancaster, 3 miles.
+----
+text: This is a small and pretty village. A few families resort to it in summer for quiet and retirement, and in addition they have every combination of beautiful scenery, with the wide expansive bay, surrounded by the Westmoreland and Cumberland mountains, and when the tide is out, a wide expanse of sands. There is a road across these sands at low water to the Furness side of the bay; a guide is stationed on them by Government, to accompany travellers  across the channels, quicksands sometimes rendering  crossing dangerous.

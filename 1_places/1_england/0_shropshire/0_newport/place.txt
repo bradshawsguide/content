@@ -1,0 +1,20 @@
+section: 3
+----
+title: Newport
+----
+info:
+- term: Population
+  desc: 2,856.
+- term: Hotels
+  desc: Royal Victoria, Crown.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: 1st Tuesday in February, Saturday before Palm Sunday, May 28th, July 27th, September 25th, and December 10th.
+- term: Bankers
+  desc: National Provincial Bank of England.
+----
+notes:
+- A telegraph station.
+----
+text: Here is a fine church of the 15th century, and in the vicinity are *Chetwynd Park* and *Aqualate Hall* and *Mere*, a fine sheet of water covering nearly 200 acres.

@@ -1,0 +1,10 @@
+section: 3
+----
+title: Greenloaning
+----
+info:
+- term: Money order office
+  desc: at Dunblane, 6 miles.
+----
+notes:
+- Telegraph station at Stirling, 11 miles.

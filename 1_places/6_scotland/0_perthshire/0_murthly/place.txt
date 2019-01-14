@@ -1,0 +1,8 @@
+section: 3
+----
+title: Murthly
+----
+info:
+- A telegraph station.
+----
+text: This station stands at the edge of a deep and luxuriant valley to our right, at the bottom of which is Murthly Castle, the property of Sir W. D. Stewart, Bart., erected near to the old castle of the Stewarts, and ought by all means to be visited not only for the exquisite taste displayed in its grounds in the art of horticulture, but also for its Chapel, which, though a Romish one, is a perfect gem. Its floor is inlaid with tiles of an Arabesque pattern its walls are gorgeous and chaste, and the windows of stained glass casting their subdued and variegated tints along the floor, altogether producing a combination of circumstances highly calculated to engender feelings of awe and admiration.

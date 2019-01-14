@@ -10,7 +10,7 @@ info:
 - term: Omnibuses
   desc: every five minutes to all parts of the city.
 - term: Money Order Office
-  desc: at 39, High Street.
+  desc: at 89, High Street.
 ----
 notes:
 - Telegraph station at Camden Town.

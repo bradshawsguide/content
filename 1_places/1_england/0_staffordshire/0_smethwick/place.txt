@@ -1,0 +1,14 @@
+section: 3
+----
+title: Smethwick
+----
+info:
+- term: Population
+  desc: 13,379.
+- term: Money Order Office
+  desc: at Birmingham.
+----
+notes:
+- Telegraph station at Spon Lane, ½ mile.
+----
+text: Close at hand is the Summit IronBridge, over the Canal, of 150 feet span.

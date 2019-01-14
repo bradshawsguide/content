@@ -1,0 +1,16 @@
+section: 3
+----
+title: Broughton-in-Furness
+----
+info:
+- term: Hotels
+  desc: Hare and Hounds; Railway.
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: April 27th, August 1st, and 1st Friday in October.
+----
+notes:
+- A telegraph station.
+----
+text: This is small market-town, situated near the top of the estuary of the Dudden, with a population of 1,183, engaged in the slate, iron, and copper mines. It contains a good *Grammar School*. In the vicinity is *Broughton Tower,* the seat of J. Sawrey, Esq., from which there is a most superb view of the adjacent country.

@@ -1,0 +1,18 @@
+section: 3
+----
+title: Gretna
+----
+info:
+- term: Hotel
+  desc: Gretna Hall.
+- term: Post Horses, Flys, &c
+  desc: |
+    at the station and hotel.
+    Tariff -- 1s. 6d. per mile; post boy, 3d. per mile; one horse vehicle, 1s. per mile or 15s. per day; gig, 12s. per day; riding horse, 6s. to 7s. per day; pony, 5s. to 5s. 6d. per day.
+- term: Money Order Office
+  desc: at Carlisle.
+----
+notes:
+- Telegraph station at Carlisle, 9 miles.
+----
+text: The village of Gretna Green, in Dumfries, Scotland, is built on the banks of the Solway Firth, eight miles north of Carlisle. It is the first stage in Scotland from England, and has for more than eighty years been known as the place for the celebration of the marriages of fugitive lovers from England. According to the Scottish law, it was only necessary for a couple to declare before a justice of "the peace that they were unmarried, and wished to be married, in order to render the ceremony lawful. An Act of parliament has since come into operation which requires a residence in Scotland of too long a duration to suit the purpose of fugitive lovers, and the blacksmith of Gretna Green, like Othello, will now find his "occupation gone." More than three hundred marriages took place annually in this and the neighbouring village of Springfield, and the fees varied from one to forty guineas.

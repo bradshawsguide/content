@@ -1,0 +1,12 @@
+section: 3
+----
+title: Stalybridge
+----
+info:
+- term: Hotel
+  desc: White Hart.
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Stalybridge) contains 24,921 inhabitants, and is part in Lancashire, part in Cheshire—the two being joined by an old bridge. Formerly the Stavelieghs were seated here. The river, along with the rail and canal, now enter the defile, the rugged limestone ridge, forming the backbone of England, *Wild Hill* being 1,300 feet high; and the scenery becomes still more wild and bold as you ascend towards Saddleworth, in Yorkshire.

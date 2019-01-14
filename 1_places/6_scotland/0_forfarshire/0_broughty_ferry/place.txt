@@ -1,0 +1,16 @@
+section: 3
+----
+title: Broughty
+----
+subtitle: (Ferry)
+----
+info:
+- term: Hotel
+  desc: Railway.
+- term: Post Horses, Flys, &c.
+  desc: at the station and hotel.
+----
+notes:
+- Telegraph station at Dundee, 4½ miles.
+----
+text: Here are (smcp: thing) the ruins of an old castle, taken by the English after the battle of Prusey. It has a floating bridge to Ferry Port, and *Claypotts Castle* is close at hand.

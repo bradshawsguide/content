@@ -1,0 +1,28 @@
+section: 3
+----
+title: Carlisle
+----
+info:
+- term: Hotels
+  desc: County; Bush; Crown and Mitre; White Hart.
+- term: Market Days
+  desc: Wednesdays and Saturdays.
+- term: Fairs
+  desc: August 26th, September 19th, every Saturday from Michaelmas to Christmas, on the Sands, Saturday at Whitsuntide and Martinmas.
+- term: Races
+  desc: Races in July.
+----
+notes:
+- A telegraph station.
+----
+text: A cathedral town, parliamentary borough, and port, with a population of about 29,417, who return two members, in a healthy spot on the Eden, in Cumberland, near the Scottish border. Formerly it was the key to Scotland on this side of the island. The Romans made it one of their chief stations on Hadrian's wail, by the name of *Lvgvcallium*; and here the famous Briton, King Arthur, held his court. Cottons, ginghams, chintzes, checks, and hats are made in considerable quantities. One factory (Dixon's) is marked by an eight-sided brick chimney 305 feet high. A "railway"" ten miles long, readies (where the wall ended) to Bowness on the Solway Firth.
+
+It is also celebrated for its manufacture of fancy biscuits, which are produced in a most complete state, all by machinery, and to an extent that would certainly astonish visitors. The leading establishment in this branch of trade is that of Messrs. Carr and Co.; and if curiosity should induce the tourist to make a visit to the manufactory of this noted firm, we do not hesitate to say that it would be found highly interesting. If any prejudice exist against the free use of *fancy biscuits*, it will at once be removed, on an inspection of the works and the process of production, even from the minds of the most fastidious, -- the most scrupulous cleanliness being observable throughout the whole works.
+
+The *Cathedral* which has lately been restored and much embellished, under the superintendence of Owen Jones, and rendered more imposing by the removal of a block of buildings, which hid it, to some extent, from the passer by, was originally part of a Norman priory, and is cruciform, though a portion of the nave is gone; the other part is turned into a parish church. Length, 242 feet; tower, 130 feet high. The beautiful east window is 48 feet high. There are two or three fine brasses, and a monument to Paley. Near it are the Deanery, and a refectory, now used as the Chapter-house, the original one having been pulled down in the civil wars The restored Castle includes William Rufus' Keep and the barracks. Henry I. made it a bishop's see.
+
+Some of the oldest houses are in the market place, whence several well built streets diverge. Here stands a cross, built in 1682, and the ancient Moot-hall. The *Court House* and *County Goal* is an extensive pile by Smirke, at a cost of £100,000, who also built the new bridge over the Eden -- an excellent stone way, on five arches of 65 feet span each, which cost £70,000. There are two others across the Caldew. The *Library* and *News Room* is a work of Hickman's. There is a *County Hospital*, with a *Grammar School*, founded by Henry VIII., at which Bishop Thomas and Dean Carlyle, a native, were scholars. At the *Dispensary*, in 1768, "a child was born without any brain, and lived six days." The Pretender's son, 'Charles Stuart, was here in 1745, on his march to the south. The reader will not forget Fergus Mac Ivor's death in *Waverley*. In 1786 shocks of an earthquake were felt here.
+
+Several interesting spots are in this quarter. The *Roman* (or Picts') *Wall* may be traced at various points, near the railway to Newcastle. *Rickerby*, seat of G. H. Head, Esq. *Corby Castle*, seat of P. IE Howard, Esq., has the claymore of MacIvor (whose real name was Macdonald). Up the Irthing, down the moors, is *Naworth Castle*, belonging to the Earl of Carlisle (a Howard). Formerly it was the scat of Belted Will (Lord Will Howard), when guardian of the marches in Elizabeth's reign.
+
+A poor kind of coal is dug here. From the Moot Hill, near Brampton, there is a splendid view of the Cheviots. *Rose Castle*, the Gothic seat of the Bishop of Carlisle, lies situated in a fine well-wooded part of the Caldew.

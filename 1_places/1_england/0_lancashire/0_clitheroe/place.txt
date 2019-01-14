@@ -1,0 +1,20 @@
+section: 3
+----
+title: Clitheroe
+----
+info:
+- term: Hotel
+  desc: Swan.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: March 5th and 24th, April 4th, Friday and Saturday after September 20th, December 6th and 7th.
+- term: Bankers
+  desc: Alcocks, Birbecks, & Company.
+----
+notes:
+- A telegraph station.
+----
+text: This is a market town, with a population of 10,864, engaged in the cotton trade, and who return one member. It contains the ruins of the De Lacy's Castle, built in Henry II.'s time; *Grammar School*, founded in 1554, having a moot hall, with a spire 60 feet high. *St. Michael's* Church, built on the site of an old one, of which Webster, the astrologer, was curate, and where he was buried. Fine views can be obtained of the adjacent country from the castle keep, and cairns on  Pendle Hill.
+
+**Chatburn**, a small village on the river Ribble.

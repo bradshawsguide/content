@@ -1,0 +1,16 @@
+section: 3
+----
+title: Wigton
+----
+info:
+- term: Hotel
+  desc: King’s Arms.
+- term: Market Days
+  desc: Thursday and Friday.
+- term: Fairs
+  desc: February 20th, April 5h, Whit Sunday, Martinmas, and December 21st.
+----
+notes:
+- A telegraph station.
+----
+text: This town, which was burnt by the Scots in 1322 has a population of 4,011 employed in the cotton trade. The church, rebuilt in 1790, is erected on the site of one founded out of Old Carlisle--the ancient *Olenacum*. Clarke the poet, and Smirke the painter were natives. Here are print and dye works, tanneries &c. In the vicinity is *Wigton Hall*, seat of Rev. R. Matthews.

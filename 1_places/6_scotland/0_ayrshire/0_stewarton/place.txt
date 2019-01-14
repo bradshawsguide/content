@@ -1,0 +1,15 @@
+section: 3
+----
+title: Stewarton
+----
+info:
+- term: Population
+  desc: 4,449.
+- term: Hotel
+  desc: Railway.
+----
+notes:
+- Distance from station, 4¼ miles.
+- Telegraph station at Kilmarnock, 4¼ miles.
+----
+text: Considerable manufactures of woollen tartans, caps, Scotch bonnets, carpets, muslin, damask, &c., are carried on here. *Corsehill*, seat of Sir John Cunninghame, Bart, is close at hand.

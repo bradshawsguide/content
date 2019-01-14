@@ -1,0 +1,27 @@
+section: 3
+----
+title: Harrow
+----
+info:
+- term: Population
+  desc: 5,525.
+- term: Distance from station
+  desc: 1 mile.
+- term: Hotel
+  desc: King's Head
+- term: Omnibuses
+  desc: to and from the station.
+- term: Post Horses, Flys, &c
+  desc: at the station and hotels. Tariff—1s. 6d. per mile.
+- term: Coaches
+  desc: to and from London, daily.
+----
+notes:
+- A telegraph station.
+----
+text: On account of the delightful prospect which the churchyard and summit of Harrow Hill affords, and the associations connected with Harrow, it is a place of frequent resort.
+
+Crossing the meadow from the station we reach the foot of the hill, and if we ascend the summit, the view will be found to deserve all the encomiums bestowed upon it. The hill, rising almost isolated from an extensive plain, with the church and school on one side, and the old churchyard sloping on the other, forms in itself a combination of objects inexpressibly attractive and picturesque; but when the eye ranges over the vast expanse, and the landscape is lit up with the gorgeous and glowing sunset of a summer's eve, the prospect becomes extremely fascinating. It commands a delightful view of the wide, rich valley through which the Thames stretches its sirtuous course; on the west it embraces a view of the fertile portions of Buckinghamshire and Berkshire; on the east London, with the dome of St. Paul's; and to the south the towers of Windsor castle and the sweeping undulations of the Surrey hills. Harrow school was founded by John Lyon in the reign of Queen Elizabeth, and is still considered one of the first in the kingdom. The church contains a monument to Dr. Drury, by Westmacott, on the north side of the nave, representing the schoolmaster seated, with two of his pupils studying beside him—the likenesses identifying them with the late Sir Robert Peel and Lord Byron, whose names have contributed to the interest attached to the locality. The poet in one of his letters describes the regard he had for a particular spot in the churchyard, where he used to sit for hours looking towards Windsor—
+
+> As reclining at eve on yon tombstone he lay
+> To catch, the last gleam of the sun's setting ray.

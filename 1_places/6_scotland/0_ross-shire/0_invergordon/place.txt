@@ -1,0 +1,5 @@
+section: 3
+----
+title: Invergordon
+----
+text: A village situated on the northerly side of Cromarty Firth. It has a good harbour, and is about 5 miles from the Light-house, which stands on West Sutor, a bold and rocky eminence at the entrance to the Firth.

@@ -1,0 +1,24 @@
+section: 3
+----
+title: Inverness
+----
+info:
+- term: Market Days
+  desc: Tuesday and Friday.
+- term: Hotels
+  desc: The Station; Caledonian; Union.
+- term: Fairs
+  desc: First Wednesday after February 11th and November 11th, *o.s.*; second Thursday in July.
+- term: Bankers
+  desc: Caledonian Co.; British Linen Co.; Bank of Scotland; Commercial; National; North of Scotland.
+----
+notes:
+- A telegraph station.
+----
+text: Inverness, with a population of about 12,509, who return one member, lies at the foot of the Northern Highlands, on the Moray Firth, where the Caledonian Canal terminates, 106 miles from Aberdeen. The mouth of the Firth is guarded by Fort George and Fortrose, where Sir J. Mackintosh went to school. A small river, called the *Ness*, opening into a little estuary, or *Inver*, in Gaelic, gives name to the town, which is situated among plantations, and moderate hills, fertile and cultivated. Small ships are able to unload at Kessock Ferry, which divides the Firth from Loch Beauly. Inverness lies as it were at the back of Scotland, in a part formerly little visited or accessible. About the year 1770, it had no banks, lamps, or tiled houses, and one cargo of coals (called "black stones") a year was enough to supply the demand; but smuggled tea, brandy, fish, and game were plentiful. It was not loo far north for Cromwell, who paid it a visit in 1651, and built a fort; and it was occupied about a century later by Charles Stuart and the Duke of Cumberland, both of whom had their quarters at the Drummuirs' house in Church Street, then the best one in the town. At present it contains several well built streets and houses, among which are the *Court House*, on the site of a castle, built by the Thanes of Cawdor; *Tolbooth* or *prison*, with a spire, and a stone called Cach-na-Cudden in front of it; twelve churches and chapels; sir. banks, besides *Assembly Rooms*, an *Athenæum*, and a well-endowed *Academy*. There is a pleasant walk by the river, which rose so high in the great floods of 1849 as to break down the old stone bridge. The Episcopalian chapels are situated, one in Church street, and the other (the Bishop of Moray's) by the Ness. Manufactures, worsted stockings, tartans, brogues, and other essentially Highland productions. Inverneessians speak purer English than any other Scotch people.
+
+In the neighbourhood are various cairns and Druid's stones; Craig Phadric (or Patrick's Stone) Mountain, 1,150 feet high, with a vitrified fort on the top, cemented together by melting the surface of the stone; *Dochfour*, seat of E. Baillie, Esq., near Dochfour Loch, and the Roman station of *Bonatrie*, not far from Loch Ness. At the top of Loch Beauly is the seat, of Lord Lovat (the head of the Frasers), and remains of a priory where the Frasers and Chisholms are buried. *Eilan-agash* in *Strath-Glass*, is a pretty sheltered spot, which Sir Robert Peel bought for a Highland seat a little before his death.
+
+The coach road to Perth leads up Strath-Spey, and through a pass of the Grampians. To the left of the road, three miles from Inverness, is the *Culloden Cairn*, a pile 100 feet high, in the midst of the desolate moor. It is traversed by the Nairn river; descending which vou pass *Cawdor Castle* and *Rail Castle*.
+
+Good roads made by the Government and the landholders strike through the Highlands in various directions, in the counties of Inverness, Ross, and Sutherland; fir timber, deer, game, and sheep are the chief products. Vast tracts are preserved for deer-stalking, while (in Sutherland especially) thousands of clansmen have been transplanted to Canada, to make room for sheep-farms. The narrow passages between the mountains are called *Glens*, the wider valleys are *Straths*, each being watered by its own stream, and the character of the scenery resembles that of Wales, with a more piercing mist, keener air, more lakes, and a more broken coast. Some of the highest peaks are 3,000 to 4,000 feet high. The coach road to the north runs near the coast past Dingwall, Bonar Bridge, Luing to Tongue, 88 miles; or to Tain, Dornoch, and Wick, 123 miles.

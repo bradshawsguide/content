@@ -1,0 +1,11 @@
+section: 3
+----
+title: Biggar
+----
+info:
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: January, last Thursday, *o.s.*; March, 1st Thursday; April, last Thursday; August, last Thursday; October, last Thursday, *o.s.*
+----
+text: A small town situated in a hilly district, with a population of 2,000, and remarkable for its cattle fairs. The church, built by the Flemings, is in the form of a cross. Traces of a Roman camp may also be seen.

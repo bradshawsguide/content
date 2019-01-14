@@ -1,0 +1,14 @@
+section: 3
+----
+title: Muirkirk
+----
+info:
+- term: Hotel
+  desc: Black Bull.
+----
+notes:
+- A telegraph station.
+----
+text: Muirkirk parish abounds in coal and lime; there are also, in the town, extensive ironworks, and manufactories of lamp-black, coal tar, &c.
+
+At *Prieshill* is a memorial to John Brown, whom Claverhouse shot at his own door.

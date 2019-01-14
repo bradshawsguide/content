@@ -1,0 +1,19 @@
+section: 3
+----
+title: Leek
+----
+info:
+- term: Hotel
+  desc: Roebuck.
+- term: Market Days
+  desc: Wednesday and Saturday.
+- term: Fairs
+  desc: Easter Wednesday, May 18, Whit-Monday, July 3 and 28, October 10, November 13.
+- term: Bankers
+  desc: Manchester and Liverpool Banking Company.
+----
+notes:
+- Distance from station, ¾ mile.
+- A telegraph station.
+----
+text: A market town, population, 10,045, employed in the silk manufacture. It contains an old early English church, with a broken Danish cross, 10 feet high; *Grammar School*, *Alms Houses*, and factories of silk and cotton. Parker, Lord Chancellor Macclesfield, was a native. In the vicinity is *Westwood Hall*, the seat of J Davenport, Esq.

@@ -1,0 +1,14 @@
+section: 3
+----
+title: Wetheral
+----
+info:
+- term: Population
+  desc: 660.
+- term: Money Order Office
+  desc: at Carlisle, 12 miles.
+----
+notes:
+- Telegraph station at Carlisle, 3 miles.
+----
+text: Pleasantly situated on the Eden, with its old church, in which is Nolleken's beautiful monument of Mrs Howard, of Corby, and effigies of the Salkelds and Howards. There is a pretty walk to *Wetheral Safeguards*, or *St. Constantine's* three caves, the Hermitage, and Folly summer-house, from which a most magnificent view may be obtained. The gate of the *Priory*, founded by Randulph de Meschines, in 1088, is in a beautiful state of preservation. On the left is Warwick Hall, the seat of Mrs. Parker, close to an old chinch and cotton factory.

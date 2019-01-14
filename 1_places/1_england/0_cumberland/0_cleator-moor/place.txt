@@ -1,0 +1,8 @@
+section: 3
+----
+title: Cleator Moor
+----
+notes:
+- Telegraph station at Whitehaven.
+----
+text: On this moor iron ore, of a very superior quality, and in large quantities, is raised; there are also three furnaces where Hematite iron is manufactured.

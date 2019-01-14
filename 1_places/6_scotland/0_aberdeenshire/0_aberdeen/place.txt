@@ -1,0 +1,38 @@
+section: 3
+----
+title: Aberdeen
+----
+info:
+- term: Population
+  desc: 73,805.
+- term: Hotels
+  desc: Royal; Douglas.
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: Thursday and Friday, first and second week in July; first Tuesday of every month at Bridge of Don; Wednesday after Third Tuesday in October, *o.s.*, at Old Aberdeen; also every Wednesday, for cattle, in King Street.
+- term: Bankers
+  desc: Aberdeen, Town and County; Bank of Scotland; British Linen Co.; City of Glasgow; Commercial; National; Royal; Union.
+----
+notes:
+- Telegraph station at the railway station.
+----
+text: (smcp: Aberdeen (Old)) is a place of great antiquity. It lies about a mile to the north of the new town, near the mouth of the river Don, over which there is a line single-arched Gothic bridge, which rests on a rock on each side, and is universally admired. This town consists chiefly of one long street.
+
+(smcp: Aberdeen (New)), the capital of the county, is considered the third city of importance in Scotland. It lies on a slightly elevated ground on the north bank of the river Dee, near its efflux into the sea, and about a mile and a half from the mouth of the Don. It is a large and handsome city, having many spacious streets, lined on each side by eleganthouses, built of granite from the neighbouring quarries.
+
+Aberdeen derives its name from theDee, on the north bank of which it lies, not far from the Bevcma of Ptolemy, and the river's mouth (*aber* in Gaelic), which makes an excellent port, whence cotton, linen woollen goods, combs, and writing papers, in large quantities, granite, cattle, and agricultural produce from the interior, salmon, &c., are exported in great quantities. The salmon is sent to Billingsgate Market packed in ice, an ingenious plan for preserving it, which was first adopted here. The fisheries on the Dee, worth £10,000 a year to the city, were originally granted by Bruce, on account of the gallant behaviour of the people in driving out the English garrison planted here by Edward I. Their watch-word was "Bon-Accord," which is the motto of Aberdeen to this day. A history of the town has been written under this title. Its harbour, improved by Telford at a great cost, contains 34 acres, the pier is 1,200 feet long. Recently a large wet aock has been constructed, for the slapping of which there are registered at the port 230, nearly 70,000 tonnage.
+
+Most of the houses are built of white granite, which gives it a handsome and durable appearance. The almost inexhaustible supplies of this stone are close at hand. Leaving the old "Brig o' Dee," or Dee Bridge, above the suspension bridge, where Montrose, in one of his descents, fought a battle with the Covenanters and walking about a mile, we find ourselves ;n a fine street of high stone houses, called Union Street, a mile long, which leads over the Denburn (a ravine crossed by a dry bridge) to Castle Square, in the centre of the town, where it meets Castle Street, in a square surrounded by high houses. The principal buildings stand in these two thoroughfares. At the west end of Union Bridge is a bronze sedentary statue of the late Lamented Prince Consort, in his robes as a knight of the garter, by Marschetti, on a granite pedestal. Near the site of the old castle, which Edward I. besieged in 1298, is an octagonal building (the market cross), in the Gothic style, with medallion heads of Scottish Kings, and coats of arms upon it, first built in 1686, and restored in 1842. Close to this is a statue of the Duke of Gordon, a branch of which family (Earl of Aberdeen) takes his title from this city.
+
+Not far off, a spire, 120 feet high, marks the *Town House*, built in 1730; it has portraits by Jameson, a native of Aberdeen, with an armoury. The new *Assize Court* and *Prison* stand on the site of the old Tolbooth, or "Mids o' Mar," i.e., Middle of Mar, as the district round Aberdeen is called. The Earl of Mar, it will be remembered, was one of the most devoted partisans of the Stuarts; but the citizens, as a commercial body, were too "Aberdeen awa" as they say, to mix themselves up with his projects. Some of the handsomest buildings in this city are the *County Rooms* in Union Street (with portraits bv Lawrence and Piekersgill). *Athenæum News Room*, and *Aberdeen* and *North of Scotland Banks*, mostly in the Grecian style, for which the granite is best suited. Some idea of the prosperity and importance of Aberdeen may be derived from the fact that the deposits in the local banks amount to three millions sterling. The new *markets* are 315 feet long.
+
+The *East* and *West* churches, though in the Gothic style, are both modem, and close to the site of *St. Nicholas's* old church, the tower of which is seen in the East Church. Beattie, the poet of the "Minstrel," is buried in the latter. The *North* Church has a fine spire of 159 feet. Altogether there are between 20 and 30 churches and chapels, including four for the Episcopalians.
+
+There are. many educational and benevolent establishments, among which, the *Grammar School* (built in 1757, but founded as far back as 1418), *Dr. Bell's Schools*, *Gordon of Straloch's Hospital* (lately enlarged), *Deaf and Dumb School,* the *Infirmary*, &c., may be noticed. Barbour, Jameson, Gregory, Abercrombie, Gibbs, Anderson, Bishop Elphinstone, Dunbar, Patrick Forbes, Burnet, T. Reid, and R. Hamilton, were natives. One of the first printed Scottish books was the "Breviary of Aberdeen." In Broad Street Byron lived in his youth. His mother was a Gordon.
+
+(smcp: Maeischal College), founded in 1303 by the Keiths, Earls Marischal (or Marshal) of Scotland, but rebuilt of granite, in the Gothic style, by Simpson, in 1837. It is an imposing pile, with a tower 100 feet high. In the quadrangle is an elegant pillar of polished granite to the memory of the late Sir James M'Gregor, Bart., for many years Director-General of the army, Medical Department. The museum is 74 feet long, and contains portraits by Jameson, the "Scottish Vandyek," who was an excellent painter. His daughter, too, was an artist; some of her embroidery used to adorn St. Nicholas's Church. Above 20 professors are attached to this college, which numbers 600 students designed chiefly for the church and parochial schools. One of the Gregorys connected with this university invented the reflecting telescope.
+
+At Old Aberdeen, is *King's College*, with 360 students, founded in 1494; like its fellow it is in the Gothic style, and has a very elegant tower, a lantern on springers, an ancient chapel, and a library of 35,000 vols., with portraits by Jameson; Hector Boece, the first principal, is buried in it. Here also is the old *Cathedral*, the seat of a bishop in episcopal times; it contains many tombs, blazoned arms in the oak ceiling, and a beautiful west window. This old part of the town is on the Don, which falls into the sea about half a mile beyond Balgownie Bridge, a curious Gothic arch, 67 feet span, built by Bruce between two dark rocks. Byron refers to it, and the legend connected with it, in *Don Juan*. There is a new bridge, remarkable from the fact that it was built from a bequest of £2 5s. in the time of James VI., which, with care and economy, amounted to £20,000, a remarkable instance of how money accumulates at compound interest.
+
+Besides cotton and woollen mills, ironworks, and ship-yards, Aberdeen possesses granite polishing works, all of which deserve notice. Its fine steamers and clippers, with the "Aberdeen bow," are well known.

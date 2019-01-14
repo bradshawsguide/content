@@ -1,0 +1,10 @@
+section: 3
+----
+title: Marston Green
+----
+notes:
+- Distance from station, ¾ mile.
+- Telegraph station at Birmingham, 6½ miles.
+----
+text: After passing under Marston Hall bridge we traverse some prettily wooded country, having Marston Wood on the right, and *Elmdon Park* on the
+left. On reaching the Sheldon embankment, a prospect is obtained which is considered equal in beauty to any which the line affords. On the right is *Alcot Park*, the town and church of Coleshill, and *Maxtoke Park* on the left. *Elmdon*, with its fine woodlands, and the pretty village of Sheldon; whilst in advance, the high spire of Yardley church completes the landscape. A short cutting brings us opposite the village of Yardley, near enough to admire the fine tower and spire of the church.

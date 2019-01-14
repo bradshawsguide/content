@@ -1,3 +1,36 @@
 section: 3
 ----
 title: Warwick
+----
+info:
+- term: Population
+  desc: 10,570.
+- term: Hotels
+  desc: Warwick Anns, Mrs. Lake, family hotel and posting house. Woolpack, John Court, family and commercial, very good.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: 3rd Monday in January, 2nd Monday in February, Monday before April 5th, 1st Saturday in Lent, 1st, Monday in June, 2nd Monday in August, Monday before St. Thomas, May 12th, July 5th, September 4th, October 12th, November 8th, and December 21st.
+- term: Mails
+  desc: Two arrivals and departures, daily, between London and Warwick.
+- term: Money Order Office
+  desc: ""
+- term: Bankers
+  desc: Messrs. Greenway and Greaves; Leamington-Priors and Warwickshire Company; Warwick and Leamington Banking Company.
+----
+notes:
+- A telegraph station.
+----
+desc: A dull town, in the county of Warwick.
+----
+text: (smcp: Warwick) is a dull town, in the county of Warwick.
+
+The Castle is one of the finest specimens in the kingdom of the ancient residences of our feudal ancestors. Its appearance, overhanging the Avon, and surrounded by majestic masses of trees, is extremely picturesque, and the views from its lofty turrets are magnificent.
+
+Passing through a road cut through the solid rock, which now presents a plantation of shrubs judiciously arranged, so as to shut out the view of this noble pile till it is suddenly presented to the eye, the visitor finds himself in a spacious area, where he is at once surrounded by ancient fortifications, and Gothic buildings of a later date, now devoted to more peaceful occupations than those of the old chieftains. The keep is no more than a picturesque ruin, but two towers of great antiquity are still entire.
+
+From Guy's Tower the views are exceedingly fine. On the north side lies the town, of which you have a beautiful bird's-eye view. Far stretching in the distance are seen the spires of Coventry churches; the castle of Kenilworth; Guy's Cliff and Blacklow Hill; Grove Park; Shuckburgh and Shropshire Hills; the Saxon Tower on the Broadway Hill; the fashionable Spa of Leamington, which appears almost lying at your feet; while village churches lifting up their venerable heads from amidst embosoming trees, fill up a grand and interesting picture. A fine collection of pictures—splendid state-rooms—fitted up in accordance with the general style of the building, and an extensive armoury, lend a gorgeous air of completeness to this princely and magnificent establishment.
+
+The castellated remains of old England are all of them "beautiful for situation;" but few comprise so many objects of natural and historic interest as Warwick Castle. Standing at the windows of the great hall, the prospect which meets the eye is most delightful.
+
+The spacious and elegant conservatory contains the famous Warwick Vase, which was dug up from the ruins of the Emperor Adrian's Villa at Tivoli. It is considered one of the most entire, and to a certain extent, one of the most beautiful specimens of ancient sculpture which this country possesses. The material of which it is made is white marble. Its form is nearly spherical, with a deep reverted rim. Two interlacing vines, whose stems twine into and constitute the handles, wreath their tendrils with fruit and foliage round the upper part. The centre is composed of antique heads which stand forward-in grand-relief. A panther's skin, with the thyrsus of Bacchus (a favourite antique ornament), and other embellishments complete the composition. The size of this vase is immense, and it is capable of containing a hundred and sixty-three gallons.

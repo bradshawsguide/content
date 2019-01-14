@@ -33,4 +33,4 @@ desc: Sandown, a bathing place, with a fine sweep of sandy beach, and an old for
 ----
 text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
 
-(distances: Distances of Places from Sandown)
+(distances: title: Distances of Places from Sandown)

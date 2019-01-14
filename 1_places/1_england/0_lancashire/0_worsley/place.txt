@@ -1,0 +1,5 @@
+section: 3
+----
+title: Worsley
+----
+text: *Worsley Hall*, the seat of the Earl of Ellesmere, where Queen Victoria was so nobly entertained on the occasion of her visit to Manchester in 1851. The present splendid mansion was rebuilt by Blore in 1846, in the Elizabethan style of architecture. The late earl inherited the vast estates of the celebrated Duke of Bridgewater, for whom Brindley, the engineer, first made the subterranean canals here. They supply the coal mines below at a depth of 180 feet, and wind in and out for 18 miles. Landseer's well-known *Return from Hawking* may be seen at the house; and in the neighbourhood are a few of the timber and plaster buildings formerly so common in this part of England.

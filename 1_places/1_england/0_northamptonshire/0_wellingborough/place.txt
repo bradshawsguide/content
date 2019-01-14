@@ -1,0 +1,19 @@
+section: 3
+----
+title: Wellingborough
+----
+info:
+- term: Population
+  desc: 6,067.
+- term: Hotel
+  desc: Hind.
+- term: Market Day
+  desc: Wednesday.
+- term: Fairs
+  desc: Easter and Whit-Wednesday, and October 29th.
+----
+notes:
+- Distance from station, 1 mile.
+- A telegraph station.
+----
+text: In the neighbourhood of this place are a number of medicinal springs, from which, probably, the name of the town has been given. Charles I. and Henrietta, his queen, encamped here a whole season, for the purpose of drinking its waters. It has a very pretty church. Boots, shoes, and lace form its staple trade.

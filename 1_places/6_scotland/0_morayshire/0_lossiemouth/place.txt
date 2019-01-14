@@ -1,0 +1,16 @@
+section: 3
+----
+title: Lossiemouth
+----
+subtitle: (Branch)
+----
+info:
+- term: Hotel
+  desc: Railway.
+- term: Steamers
+  desc: to and from Aberdeen, Edinburgh, Inverness, &c.
+----
+notes:
+- Telegraph station at Elgin, 6 miles.
+----
+text: Here lead with silver is found to the west in the quartz.

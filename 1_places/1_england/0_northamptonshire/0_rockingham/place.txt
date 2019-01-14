@@ -1,0 +1,15 @@
+section: 3
+----
+title: Rockingham
+----
+info:
+- term: Population
+  desc: 211.
+- term: Fair
+  desc: September 25th.
+----
+notes:
+- Distance from station, 1 mile.
+- Telegraph station at Market Harboro', 9¾ miles.
+----
+text: The ancient *Castle*, now the seat of Lord Sondes, about a mile from the station, comprises remains of a fortress built, by the Conqueror, which suffered in the civil war, when it was garrisoned for the king. There was a forest here 30 miles long.

@@ -1,0 +1,16 @@
+section: 3
+----
+title: Crewe
+----
+info:
+- term: Population
+  desc: 8,159.
+- term: Hotels
+  desc: Refreshment Rooms at station, Crewe Arms.
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Crewe) is a railway town and first class depot, standing on the North Western main line, where the Chester, Manchester, and Staffordshire lines fall in. Formerly it was called Oak Farm, which an attorney bought for £35 an acre. The station, and many of the workmen's houses, are imitations of the Elizabethan style. Nearly 2,000 men are employed in the Company's workshops. Here are immense rolling mills for the rails, locomotive factories for the engines, including fitting-up and erecting shops, 300 feet and upwards long. An engine, with its tender, averaging £2,000, is made up of 5,416 separate pieces, and a new one is turned out every Monday morning. Wolverton is the chief hospital for repairs. At the Crewe Grease House, the yellow mixture of tallow, palm oil, and soda, used to grease the wheels is made.
+
+Lord Crewe's seat, near at hand, is the only real remnant of antiquity, being of the age of the renaissance, introduced by Inigo Jones. It is built of brick, and is really a fine specimen of the style of architecture in the reign of James I. At the time of the civil war, it was occupied by both parties. There are some very old portraits.

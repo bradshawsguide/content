@@ -1,0 +1,12 @@
+section: 3
+----
+title: Carstairs Junction
+----
+info:
+- term: Money Order Office
+  desc: Lanark, 5¼ miles.
+----
+notes:
+- A telegraph station.
+----
+text: Here are remains of the Bishops of Glasgow's castle, castle dykes, Roman camp of upwards of five acres, and *Carstairs House*, which is the seat of E. Monteith, Esq.

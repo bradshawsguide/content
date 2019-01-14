@@ -1,0 +1,19 @@
+section: 3
+----
+title: Higham Ferrers
+----
+info:
+- term: Population
+  desc: 1,152.
+- term: Hotel
+  desc: Green Dragon.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: Thursday before Feb. 5th, March 7th May 12th, June 28th, August 5th, Thursday after August 15th, October 10th, and December 6th.
+----
+notes:
+- Distance from station, 1 mile.
+- Telegraph station at Wellingborough, 4½ miles.
+----
+text: Boots and shoes are the staple employment here with lace making. It has a good church, and was the birth-place of Archbishop Chicheley, founder of All Soul's College, Oxford.

@@ -1,0 +1,31 @@
+section: 3
+----
+title: Montrose
+----
+subtitle: (Branch)
+----
+info:
+- term: Hotels
+  desc: Star; White Horse; Crown.
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: Friday after Wlut Sunday, o. s.; and Mar-
+  tinmas, *o.s.*
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Montrose), in Forfarshire, was called *Munross* as it stands on a little headland (*ross* in Gaelic[^1], *rhos* in Welsh) between the north sea and its harbour which is a natural lake or basin, a little up the South Esk, inside the town. This basin, though 3 miles in circuit, is very shallow; wet docks have been constructed, and about 15,000 tons of shipping belong to the port. Over a part of the river is one of Sir S Brown's suspension bridges, built in 1829, 432 feet long, and lying on towers 72 feet high.
+
+As a parliamentary burgh, Montrose returns one member, and has a population of about 15,238, many of whom are engaged in the linen manufacture. The late member, the estimable and patriotic Joseph Hume, Esq., was a native of this place, from which he was sent to India, under the patronage of the Panmure family, where he did great service as a Persian scholar. Another native was the late Sir Alexander Burnes, a kinsman of the poet Burns, who was assassinated at Cabool in 1841, on the outbreak of the Affghan war. The great Marquis of Montrose was also born here in 1612, in the house afterwards occupied by the Chevalier on his landing in 1716. Another local event is that related by Froissart of the Douglas, the "good Lord James," who, in 1330, embarked here with the heart of Bruce for the Holy Land. He was killed before he got there, having landed at Seville to fight the Moors; while the casket containing the King's heart was brought home and buried at Melrose.
+
+The site of the town is flat, but there are some moderate hills (Three Horns, &c.), in the environs, from which is a goodly prospect of the town, basin, and the distant Grampians. When the tide is up the basin appears like an animated lake, at the bottom of a cultivated amphitheatre, green to the water's edge, and covered with gardens and country houses.
+
+The basin above alluded to is nearly dry at low water, but is so completely filled up by every tide as to wash the garden walls on the west side of the town and to afford sufficient depth of water in the channel for allowing small vessels to be navigated three miles above the harbour. At high water, the appearance of Montrose, when first discovered from the public road on the south, is peculiarly striking, and seldom fails to arrest the eye of the stranger. The basin opening towards the left, in all the beauty of a circular lake; the fertile and finely cultivated fields rising gently from its banks; the numerous surrounding country seats which burst at once upon the view; the town, harbour, and bay stretching further on the right; and the lofty summit of the Grampians, nearly in the centre of the landscape, closing the view towards the north-west, altogether present to the eye of the traveller one of the most magnificent and diversified amphitheatres to be found in the United Kingdom. The South Esk is crossed by a very magnificent suspension bridge, which stretches across the river in a noble span, the distance between the points of suspension being 432 feet. The town consists cliiefiy of one spacious main street, from which numerous lanes run off on each side, as from the High-street of Edinburgh.
+
+None of the buildings are of much account. The *Town Hall* and *Linen Rail* are in High Street The Academy may be known by its dome, and the Parisn Church by the spire: the Public Library is of old date. The favourite game of golf, is played on the sandy links along the shore; and here (where the races are held) the Queen's Scottish Body Guard of Archers met in 1850 to compete for prizes. Fish, viz., salmon, lobsters, cod, «fcc, are abundant, the cod being caught at Montrose Pits, in the North Sea--a singular hollow, which is 30 fathom deeper than the tract around.
+
+All this part of the line passes through the fertile Vale of Strathmore.
+
+[^1]: Another derivation makes it *Mont Rosarum* or Mount of Roses; and, accordingly, on the town seal is a wreath of roses, with a motto signifying that these sea enriches aud the *Rose* embelishes.

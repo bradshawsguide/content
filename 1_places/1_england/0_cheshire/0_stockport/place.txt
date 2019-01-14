@@ -1,0 +1,18 @@
+section: 3
+----
+title: Stockport
+----
+info:
+- term: Hotels
+  desc: Warren Bulkeley Arms.
+----
+notes:
+- A telegraph station.
+----
+text: Though greatly improved of late years, Stockport is yet very irregularly built, and the ground on which it stands is remarkable for inequality of surface; from this circumstance, on a winter's night, the numerous and extensive factories elevated above each other, present an appearance when lighted of peculiar and striking grandeur, especially when approached by the high road from the north. It has a population of 54,681, engaged principally in the manufacture of cotton, and returns two members to parliament. The river Mersey divides the town into two unequal parts, the larger portion, that to the south, being situated in Cheshire, and that to the north in Lancashire.
+
+Between 50 and 60 factories are dispersed in and round the town; one of the largest is called Marsland's, a well known name; it is 300 feet long, and has 600 windows in its six storeys. Others are Howard's, Marshall's, Eskrigge's, &c. Here Radcliffe and Johnson invented the machine for dressing the warp about 1803.
+
+There was a castle here (the site of which is an inn) to guard the ford or port between the two county palatines, on the old Roman road. *St. Mary's Church*, of the fourteenth century, is on a hill It was restored in 1848; and contains several monumental effigies, &c., of ancient families in the neighbourhood. *St. Thomas's*, a large Grecian church, built in 1825. Five bridges cross the Mersey one of 210 feet span was carried away in the floods of 1798. The *Grammar School*, founded in 1487, has been rebuilt by Hardwicke; it is under the Goldsmith's Company. The *Infirmary* is a large neat building, 100 feet long. One pleasing feature of the wholesale manner in which things are done in this part of the world, is an immense Sunday School, built in 1826, 150 or 160 feet wide, and containing 84 class rooms. Between 5,000 and 6,000 children are here gathered together on a Sunday to receive religious instruction from pious and devoted volunteers of various denominations. It is endowed with an income of £560.
+
+The Goyt and Etherow, which join the Mersey a little above Stockport, may be ascended to the moorlands, on the Derbyshire border, where the peculiar scenery of the Peak begins. *Bramall House*, seat of W. Davenport, Esq., is a good specimen of the curious and picturesque timber houses, once so common in Lancashire, and *Poynton Hall*, Lord Vernon's seat, some of whose early ancestors are buried in Stockport Church.

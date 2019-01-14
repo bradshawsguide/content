@@ -1,0 +1,12 @@
+section: 3
+----
+title: Morley
+----
+info:
+- term: Hotel
+  desc: Royal.
+----
+notes:
+- Telegraph station at Leeds, 5 miles.
+----
+text: Here are the ruins of *St. Mary's Chapel*, where the Presbyterians congregated during the civil war in the time of Charles I., and a population of 6,840, engaged as weavers in the woollen trade.

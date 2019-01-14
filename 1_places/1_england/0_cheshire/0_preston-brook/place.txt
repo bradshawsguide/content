@@ -1,0 +1,12 @@
+section: 3
+----
+title: Preston Brook
+----
+info:
+- term: Money Order Office
+  desc: at Warrington, 5½ miles.
+----
+notes:
+- Telegraph station at Warrington, 5½ miles.
+----
+text: There is a large and comfortable inn, close to the station, where a good bed may be obtained. Preston Brook, though a small place, is of some importance from being the point of junction of the Bridgewater with the Grand Trunk canal.

@@ -1,0 +1,26 @@
+section: 3
+----
+title: Rugby
+----
+info:
+- term: Population
+  desc: 7,818.
+- term: Hotels
+  desc: Royal, and Eagle.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: February 17th, March 31st, May 15th, July 7th, August 21st, Monday before 29th September, November 22nd, and December 10th.
+- term: Bankers
+  desc: National Provincial Bank of England; Butlins and Sons.
+----
+notes:
+- A telegraph station.
+----
+desc: From Rugby several lines of railway branch off, making it a sort of starting point in the centre of England.
+----
+text: From Rugby several lines of railway, as the Trent Valley, Midland, Leamington, &c., branch off, making it a sort of starting point in the centre of England. It was this convenient position which made the late Sir R. Peel, at the opening of the Trent Valley Railway, propose Rugby as a good point to which the general office should be transferred. There is here a Deaf and Dumb College, lately founded, with an old Gothic church, restored by Richman, whose Essay on the subject contributed so much to the revival of this picturesque church style. Rugby stands near the river Avon, on a slight elevation (called *Rocheberie* at the Conquest) above the lias plain, between Watling Street and Dunsmore Heath. This healthy spot was fixed on by Lawrence Sheriff, a London tradesman, but a native of Brownsover, close by, for his school, which was founded in 1567, and endowed with property now worth nearly £7,000 a year. By the exertions of successive masters, especially the late Dr. Arnold, it ranks as one of the best grammar schools in the country. There are about a dozen masters, for whom, by a liberal arrangement, retiring pensions are provided; and 60 foundation scholars; besides 260 who pay, and who really give the tone to the institution. The *School* was rebuilt in the Tudor style in 1808, by Hakewell, with a front of 220 feet long; prize compositions are recited in the great room on Easter Wednesday. In the chapel are monuments to Drs. James and Arnold, the former by Chantrey. One of the prizes was established in honour of Dr. Arnold's memory, by the Queen, after the appearance of *Stanley's* most useful and interesting life of him. He was born at Cowes, and died here almost suddenly on June 12th, 1842. The fagging or monitor system prevails, as at most other large schools, but it was somewhat mitigated by the influence of Dr. Arnold. Parkhurst Cave, Gent., Abercromby Bray, the antiquary, Dr. Butler (the admirable Master of Shrewsbury School), and Sir H. Halford were educated here.
+
+Some old gable houses remain at Rugby. Fossils are occasionally dug in the blue lias. The castle on the east side occupies the site of a Norman castle, which was dismantled by Henry II.
+
+Within a short distance are the following:—*Coton Hall* (4 miles), the Hon. C. L. Butler's seat, has a good prospect; *Newnham Paddox* (5 miles), the ancient scat of the Earl of Denbigh, close to Watling Street, which here runs along the county border. *Ashby St. Ledger's*, Lady Senbourne's seat, was formerly that of the Catesby family, one of whom was Robert Catesby, who shared in the Gunpowder Plot. The church is ancient. To the west of Rugby are, *Holbrook Grange*, seat of J. Caldecott, Esq. *Coombe Abbey* and Coventry are further off. Danes Moor or Dunsmoor Heath was the appointed rendezvous of Catesby and his fellow plotters. At Stretton (where a Roman road or *street* is crossed) was a reformatory school for young criminals, established in 1817, but since given up from want of support.

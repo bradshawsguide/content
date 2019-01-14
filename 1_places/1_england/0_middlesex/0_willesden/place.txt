@@ -1,0 +1,16 @@
+section: 3
+----
+title: Willesden
+----
+info:
+- term: Population
+  desc: 3,879.
+- term: Distance from station
+  desc: 1 mile.
+- term: Money Order Office
+  desc: 116, Edgeware Road.
+----
+notes:
+- Telegraph station at Kilburn, 3 miles.
+----
+text: The grave of the celebrated Jack Sheppard and his mother will be found in the churchyard at this place.

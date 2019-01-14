@@ -1,0 +1,14 @@
+section: 3
+----
+title: Polesworth
+----
+info:
+- term: Population
+  desc: 2,451.
+- term: Money Order Office
+  desc: at Tamworth, 3½ miles.
+----
+notes:
+- Telegraph station at Tamworth, 3½ miles.
+----
+text: On nearing Tamworth the fine old church is a noble object in the view; and the country round being rather pretty the effect is greatly increased. In the vicinity is *Grendon Hall*, Sir T. Chetwynd, Bart. On approaching Tamworth we again enter the county of Stafford.

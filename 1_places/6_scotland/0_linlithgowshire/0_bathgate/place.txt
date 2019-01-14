@@ -1,0 +1,8 @@
+section: 3
+----
+title: Bathgate
+----
+notes:
+- A telegraph station.
+----
+text: Here a corn market is held on Wednesdays, and fairs on the first Wednesday after Whit-Sunday; fourth Wednesday in June and October; third  Wednesday in August; Wednesday after Martinmas, *o.s.* The rains of Walter Stewart's Castle, given to him by Bruce, may still be seen.

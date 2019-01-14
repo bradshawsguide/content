@@ -1,0 +1,9 @@
+section: 3
+----
+title: Laxey
+----
+info:
+- term: Hotel
+  desc: Commercial.
+----
+text: Beyond *Kirk Lonan*, is on a stream which passes paper and bleach works, and mines of lead, copper, and slate. Good trout fishing and oysters. *Cloven Stones* Druid circle is near. *Snafell*, 6 miles west.

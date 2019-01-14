@@ -41,7 +41,7 @@ Round this point, (or 1½ mile across the downs, from Freshwater) is
 
 (place: england/isle-of-wight/alum-bay)
 
-(distances: Second Route)
+(distances: title: Second Route)
 ----
 distances:
 - location: '[Ryde](/stations/ryde) to Wooton'

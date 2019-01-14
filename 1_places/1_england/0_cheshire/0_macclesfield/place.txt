@@ -1,0 +1,18 @@
+section: 3
+----
+title: Macclesfield
+----
+info:
+- term: Hotels
+  desc: Macclesfield Arms, Angel.
+- term: Market Days
+  desc: Tuesdays and Saturdays.
+- term: Fairs
+  desc: May 6, June 22, July 11, October 4, November 11.
+- term: Bankers
+  desc: Brocklehurst and Co.; Branch of the Manchester and Liverpool District Banking Co.
+----
+notes:
+- A telegraph station.
+----
+text: A market town and borough, population, 36,101, who return two members. *St. Michael's Church* restored, with tombs of Archbishop Savage and the Leghs of Lyme, and *Christ Church*, with the tomb of Roe, its founder, are worth visiting. The *Town Rail*, by Godwin, *Free Grammar School*, *School of Design*, and *Public Park*, and the silk and cotton factories should be viewed.

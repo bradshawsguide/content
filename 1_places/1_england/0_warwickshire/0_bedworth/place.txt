@@ -1,0 +1,14 @@
+section: 3
+----
+title: Bedworth
+----
+info:
+- term: Population
+  desc: 3,968.
+- term: Hotel
+  desc: Haunch of Venison.
+----
+notes:
+- Telegraph station at Nuneaton, 3½ miles.
+----
+text: In the vicinity is *Arbury Ball*, seat of C. N. Newdegate, Esq., M.P.

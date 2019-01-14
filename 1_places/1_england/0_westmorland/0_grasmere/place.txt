@@ -1,0 +1,12 @@
+section: 3
+----
+title: Grasmere
+----
+info:
+- term: Population
+  desc: 604.
+- term: Hotel
+  desc: Prince of Wales.
+----
+text: Good and cheap lodgings may be obtained. The
+town itself being on the side of a hill commands views  of the beautiful vallev beneath, Windermere, Rydal Park, &c. Formerly it was a Roman station, and  possesses, therefore, claims to great antiquity; but  everything about it has a modern appearance. The  church was built in 1852.

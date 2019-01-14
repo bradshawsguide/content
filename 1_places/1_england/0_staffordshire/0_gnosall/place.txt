@@ -1,0 +1,12 @@
+section: 3
+----
+title: Gnosall
+----
+info:
+- term: Population
+  desc: 2,400.
+----
+notes:
+- Telegraph station at Newport, 5¼ miles.
+----
+text: Here is a large Church; and close by, *Ranton Abbey*.

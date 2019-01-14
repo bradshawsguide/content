@@ -1,0 +1,21 @@
+section: 3
+----
+title: Buckingham
+----
+info:
+- term: Hotel
+  desc: White Hart.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: Monday fortnight after the Epiphany March 6th, May 6th, July 10th, September 4th, October 2nd, November 8th, Saturday after Old Michaelmas, Whit Thursday.
+- term: Bankers
+  desc: Bartlett, Parrott, and Co.; Branch of London and County Bank.
+----
+notes:
+- Distance from station, ¼ mile.
+- A telegraph station.
+----
+text: (smcp: Buckingham) has a population of 7,626: agriculture and lace making occupy their attention. The church, built in 1781, on the site of a castle, has rather a pretty appearance—the spire is 150 feet. A beautiful painting of Raphael's Transfiguration, the gift of the Duke of Buckingham, decorates the altar.
+
+At a distance of two miles from here is *Stowe*, the late magnificent residence of the Duke of Buckingham. It is a noble structure, in the Grecian style, designed by Lords Camelford and Cobham. Its internal decorations, consisting of works of art in plate, furniture, &c., were of the most costly description, and these, together with a library of 10,000 volumes, a large collection of MSS., portraits and engravings, with the principal family estates, were sold by auction in 1848, to pay off a mortgage debt of one and a half million.

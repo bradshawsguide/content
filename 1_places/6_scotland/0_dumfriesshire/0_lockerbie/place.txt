@@ -1,0 +1,16 @@
+section: 3
+----
+title: Lockerbie
+----
+info:
+- term: Hotel
+  desc: George.
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: Second Thursday in January, February, March, and May, *o.s.*; Thursday in week before April 23rd; June 3rd Thursday, *o.s.*; August 13th, or Tuesday after; Thursday in week before 30th September; October, 2nd Thursday after Falkirk; Thursday in week after 1st Wednesday in November.
+----
+notes:
+- A telegraph station.
+----
+text: Looking north from this station, there being no curve, we can see down the line a very long way. Here "Old Mortality" died at Brick Hall, in 1801. *Lockerbie Hall*, J. Douglas, Esq., and *Mains Tower*, which belonged to the Johnstones, are close at hand.

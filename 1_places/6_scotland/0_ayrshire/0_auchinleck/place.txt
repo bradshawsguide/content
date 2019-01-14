@@ -1,0 +1,16 @@
+section: 3
+----
+title: Auchinleck
+----
+info:
+- term: Hotel
+  desc: Dumfries Arms.
+- term: Fair
+  desc: Last Tuesday in August.
+- term: Money Order Office
+  desc: at Old Cumnock.
+----
+notes:
+- A telegraph station.
+----
+text: Here are remains of the Boswell's old castle. Dr. Johnson lived here in 1773, and the pious M'Gavin was a native. Close at hand are the ruins of Kyle Castle.

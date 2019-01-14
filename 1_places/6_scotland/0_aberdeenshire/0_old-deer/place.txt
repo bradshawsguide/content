@@ -1,0 +1,5 @@
+section: 3
+----
+title: Old Deer
+----
+text: This place is a quiet little village, pleasantly situated on the banks of the Ugie. It was once noted for its Abbey, St. Mary's, a Cistercian establishment, founded in 1218, by Comyn, Earl of Buchan, the ruins of which were completely removed in 1854. Old Deer has always been a stronghold of episcopacy, and has been the scene of many an ecclesiastical tumult; it is the scene of Meston's poem of "The Babblers Rabbled;" and a monument to the memory of Graham of Claverhouse, "Bloody Clavers," has just been erected in the churchyard. On the left lies Pitfaar House, Admiral Ferguson, with its tine park and lake, but not seen from the line.

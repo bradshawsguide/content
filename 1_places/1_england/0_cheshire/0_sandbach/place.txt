@@ -1,0 +1,21 @@
+section: 3
+----
+title: Sandbach
+----
+info:
+- term: Population
+  desc: 3,252.
+- term: Hotel
+  desc: George.
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: Easter Tuesday and Wednesday, and Thursday after September 11th, and December 27th.
+----
+notes:
+- Distance from station, 1½ mile.
+- Telegraph station at Crewe, 4½ miles.
+----
+text: This is a town occupying a very pretty situation on the banks of the river Wheelock, and embracing within its prospect a panorama that extends from the Welsh mountains in the west, to the Derbyshire hills in the east. It has no distinct manufacture of its own, but shares in the silk trade to a small extent, whilst being on the verge of the salt region, it derives some additional traffic from that proximity. Lord Crewe is the owner of the place. Its Grammar School is a well known institution.
+
+There are excellent Brine Springs at Wheelock St. Mary's perpendicular English Church, and a fine old Cross in the Market Place. *Abbeyfield*, seat of C. Ford, Esq., is in the vicinity.

@@ -1,0 +1,14 @@
+section: 3
+----
+title: Newton Stewart
+----
+info:
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: are held on the second Friday in each month, also on a Wednesday in August.
+----
+notes:
+- A telegraph station.
+----
+text: This town has a population of 4,056 engaged in the manufacture of leather. It is situated on the river Cree, which here forms the boundary line between the counties of Kircudbright and Wigton. The bridge across the river is a noble, structure?

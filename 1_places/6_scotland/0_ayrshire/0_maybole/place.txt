@@ -1,0 +1,5 @@
+section: 3
+----
+title: Maybole
+----
+text: A telegraph station, where there are remains of an old collegiate church, with the castle of Greenend.

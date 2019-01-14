@@ -1,0 +1,15 @@
+section: 3
+----
+title: Bootle
+----
+info:
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: April 5th and 26th, September 24th, and August 5th.
+----
+notes:
+- Distance from station, ¾ mile.
+- Telegraph station at Broughton, 14¼ miles.
+----
+text: This town, with a population of 901, engaged in the corn and provision trade, is delightfully situated in the midst of beautiful scenery and commands fine views of Bootle Fell and Black Combe Mountains 1,919 feet high, the latter of which has remains of a nunnery and church at Seton. The old church is a fine edifice, and contains an eight-sided font, and a cross of Sir H. Askew, of Seton Hall.

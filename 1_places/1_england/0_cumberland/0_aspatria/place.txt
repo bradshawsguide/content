@@ -1,0 +1,8 @@
+section: 3
+----
+title: Aspatria
+----
+notes:
+- A telegraph station.
+----
+text: This place belongs to the Gospatricks of Allerdale, has a population of 1,210, who are principally engaged in the quarries of redstone and coal-pits. It contains a fine old early English church, with chancel pillar in the churchyard to Oughterside. Close at hand is Beacon Hill barrow, where in 1790 a male skeleton was found, 7 feet long, with arms, &c. The town is pleasantly situated on the river Ellen.

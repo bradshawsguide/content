@@ -1,0 +1,16 @@
+section: 3
+----
+title: Workington
+----
+info:
+- term: Hotel
+  desc: Green Dragon.
+- term: Market Days
+  desc: Wednesday and Saturday.
+- term: Fairs
+  desc: May 18th and October 18th.
+----
+notes:
+- A telegraph station.
+----
+Text: (smcp: Workington), to the north of Whitehaven, is a coal port and market town belonging to the Curwens of *Workington Hall*, a fine old seat, in which Mary Queen of Scots took refuge when she fled to England in 1568, after her defeat at Langside. Her room is shown to visitors. She came from Dundrennan Abbey, on the coast of Kirkcudbright, now a fine old ruin. Here is an old church, built in 1770, with a good tower, and a modern one, erected in 1823; also, five chapels, corn market, assembly rooms, theatre, custom house, grammar school, harbour, three-arched bridge, coal mines, gas works, lighthouse (built in 1825, with two lights, and seen upwards of 11 miles distant), shipbuilding years, &c. It contains a population of 6,467, principally employed in the coasting and timber trade, salmon fishery (which continues from August to October), and straw plait manufacturing.

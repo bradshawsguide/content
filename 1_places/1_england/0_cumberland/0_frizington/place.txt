@@ -1,0 +1,8 @@
+section: 3
+----
+title: Frizington
+----
+notes:
+- Telegraph station at Whitehaven.
+----
+text: In this neighbourhood are a mineral spring and several quarries of ironstone, in which the people are mostly employed.

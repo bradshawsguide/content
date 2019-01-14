@@ -1,0 +1,11 @@
+section: 3
+----
+title: Strathaven
+----
+info:
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: First Thursday in April; last Thursday in June.
+----
+text: This place is supported principally by weaving, and noted for the superior quality of its horses.

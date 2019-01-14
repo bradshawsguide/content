@@ -1,0 +1,18 @@
+section: 3
+----
+title: Huntly
+----
+info:
+- term: Population
+  desc: 4,329.
+- term: Hotel
+  desc: Gordon Amis.
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: Last Wednesday in January; last Tuesday in February and March, *o.s.*; 2nd Tuesday, *n.s.*, And Wednesday after 2nd Tuesday, *o.s.*, in June; Wednesday after 1st Tuesday in July, *o.s.*; Wednesday after 2nd Tuesday in August, *o.s.*; 1st and 3rd Wednesday in September and November; 1st Tuesday in December, *o.s.*
+----
+notes:
+- A telegraph station.
+----
+text: Huntly is a picturesque village, standing on a point of land formed by the confluence of the Bogie with the Deveron, where there is excellent garnet, trout, and salmon fishing. It contains the ruins of Huntly Castle, the two halls and gate of which still remain. *Huntly Lodge*, residence of the late Duchess of Gordon, is in the immediate neighbourhood, and close at hand is the splendid modern mansion of *Gordon Castle*, the seat of the Duke of Richmond, to whom also Huntly Lodge now belongs.

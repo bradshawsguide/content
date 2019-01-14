@@ -1,0 +1,10 @@
+section: 3
+----
+title: South Luffenham
+----
+info:
+- term: Money Order Office
+  desc: at Uppingham, 5½ miles.
+----
+notes:
+- Telegraph station at Manton, 4 miles.

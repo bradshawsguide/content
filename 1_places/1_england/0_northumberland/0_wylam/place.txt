@@ -1,0 +1,8 @@
+section: 3
+----
+title: Wylam
+----
+notes:
+- Telegraph station at Blaydon, 4¼ miles.
+----
+text: In the vicinity of Wylam station, are *Wylam House*, C. Blackett, Esq., near which G. Stephenson, the engineer and inventor of the safety lamp (not Davy's), was born. *Close House*, Mrs. Beswicke, and *Dissington*, the seat of the descendant of Admiral  Lord Collingwood. Population, 1,040.

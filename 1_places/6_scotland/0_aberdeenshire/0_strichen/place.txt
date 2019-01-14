@@ -1,0 +1,8 @@
+section: 3
+----
+title: Strichen
+----
+notes:
+- A telegraph station.
+----
+text: In the immediate vicinity of the station, but not seen from the line, is the fine mansion of *Strichen House*, the seat of George Baird, Esq. The village was founded about the middle of the last century by Lord Strichen, the proprietor, and now (1865) contains a population of about 1,000. Here is a neat town house, snrmonnted by an elegant spire, and established, free, Episcopal, and Catholic churches. The village is picturesquely situated on the north bank of the Ugie on the one hand, and at the south base of *Mormond Hill* on the other. The hill rises to the height of about 800 feet above the sea level, and 600 feet above the site of the village at its base: it is in fact "the highest mountain in Buchan. On one of its sides is 'the White Horse of Mormond,' which is seen many miles off. The figure is cut out in the heath, and filled with white stones, and, seen from a distance, is perfect in out-line--a 'snow white steed.'" The space he occupies is about half an acre.

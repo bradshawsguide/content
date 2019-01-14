@@ -1,0 +1,18 @@
+section: 3
+----
+title: Dumbarton
+----
+info:
+- term: Market Day
+  desc: Tuesday.
+- term: Inns
+  desc: King's Arms, Elephant.
+- term: Fairs
+  desc: Third Tuesday in March and May; Thursday before Easter; first Wednesday in June; second Tuesday in August and November.
+----
+notes:
+- A telegraph station
+----
+text: (smcp: Dumbarton), is built in a level tract of country, near the confluence of the river Leven with the Clyde. It consists principally of one crescent-formed street, with several smaller ones diverging from it. It has also the advantage of possessing a spacious and convenient harbour. It contains 8,253 inhabitants, who return one member. Once famed for the manufacture of glass, now for iron ship building.
+
+The ancient *Castle of Dumbarton*, the *Dumbritton* (Britons' Fort.) of the Attacote, stands on the summit of a high and precipitous rock, and is a place of great strength and antiquity. From the top of the castle may be seen some of the finest and most extensive views in the whole of Scotland. From the batteries the visitor should ascend to Wallace's Seat, 560 feet high and a mile round. Here the patriot's sword is kept, and Queen Mary sailed from this place to France in 1548. A garrison is kept up here by the Act of Union. Colquhoun, the author of "Police of London" was a native, 1745. Looking towards the north is seen Lochlomond, bounded by rugged mountains, among which Benlomond is conspicuous, rearing its pointed summit far above the rest. Between the Lake and Dumbarton is the rich vale of Leven, enlivened by the windings of the river. Turning eastward the Clyde is seen forming some fine sweeps. Douglas Castle appears on the left. Beyond the Clyde the distant country is very rich; and on a clear day the. city of Glasgow may be discerned, particularly towards the evening. The prospect down the Clyde is no less interesting. The river expands into a large estuary, occupying a great part of the view; beyond are high mountains, whose rugged outlines and surfaces are softened by distance, or what painters call perspective; and under these mountains, on the left, are directly seen the towns of Greenock and Port Glasgow.

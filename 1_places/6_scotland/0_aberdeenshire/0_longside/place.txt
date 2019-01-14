@@ -1,0 +1,5 @@
+section: 3
+----
+title: Longside
+----
+text: A neat and pleasant little village, about half a mile from the station. In the neighbourhood is *Sinshart*, the scene of the ministrations for nearly 65 years of the Rev. John Skinner, Author of "Tullagorum," and the friend and correspondent of Burns. In the churchyard rests the remains of Jamie Fleeman, the Laird of Udny's fool, whose name and sayings are household words all over Aberdeenshire.

@@ -1,0 +1,12 @@
+section: 3
+----
+title: Winsford
+----
+info:
+- term: Hotel
+  desc: Lion.
+----
+notes:
+- A telegraph station.
+----
+text: A mile to the west is the village of Winsford, situated in one of the most important salt districts in the country. There are twenty-eight salt works here, some of them being like small towns in extent. Winsford station lies in a deep excavation, soon after leaving which we approach one of the finest and most remarkable parts of the line. The cuttings conceal it occasionally. There is a beautiful view of *Vale Royal*, the seat of Lord Delamere, situated in one of the most lovely vales in England, on each side of which are tracts of the richest pasture, and east and west the splendid valley, with its wooded hills and glens, spreads out and lengthens as we proceed. The Vale Royal Viaduct is a noble structure of red and variegated sandstone, consisting of five arches, and affords a fine prospect of the river Weaver and its course through this beautiful vale.

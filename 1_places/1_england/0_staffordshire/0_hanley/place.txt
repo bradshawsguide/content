@@ -1,0 +1,10 @@
+section: 3
+----
+title: Hanley
+----
+notes:
+- A telegraph station.
+----
+text: Containing a population of 31,953 inhabitants, is a municipal borough in the north of Staffordshire. The iron trade is now becoming a most important feature in the commerce of the pottery district. Earl Granville's furnaces, located near Hanley, employ about 3,000 hands.
+
+To the north of Hanley is *Norton-in-the-Moors*. These moors stretch for miles and miles through this end of the county, into Derbyshire and Yorkshire.

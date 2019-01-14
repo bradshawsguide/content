@@ -1,0 +1,32 @@
+section: 3
+----
+title: Fenny Stratford
+----
+info:
+- term: Population
+  desc: 1,199.
+- term: Market Day
+  desc: Monday.
+- term: Fairs
+  desc: April 19th, July 18th, October 10th, November 28th.
+- term: Mails
+  desc: Two arrivals and departures, daily between London and Fenny Stratford.
+----
+notes:
+- Distance from the station, ¼ mile
+- Telegraph station at Bletchley, 1¼ mile.
+----
+text: Fenny Stratford is in a once fenny part of the Ouzel, on the Watling Street, or Roman way, which crosses the Ouse, further on, at *Stony Stratford*, where Richard III. seized his poor little nephew, Edward V. Lace and plait are made at both places. The Ouse, as it sluggishly winds down to Newport Pagnell.
+
+> Now glitters in the sun, and now retires,
+> A3 bashful yet impatient to be seen.
+—(smcp: Cowper)
+
+Much lace and some paper are made at Newport Pagnell; in the church is an epitaph by Cowper. *Gayhurst*, the seat of Lord Canington, 2 miles to the north-west, is an antique Elizabethan house, and has a portrait of Sir Kenelin Digby, who was born here, "a prodigy of learning, credulity, valour, and romance." *Hanslope*, on a hill, has an old Gothic church, with a spire 190 feet high. Olney, another town of lacemakers, with the house in which Cowper lived till 1786.
+
+> Yon Cottager that weaves at her own door,
+> *Pillow and bobbins* all her little store;
+> Content though mean, &c.
+> —(smcp: Cowper)'s *Truth*
+
+Scott the commentator, and John Newton were curates of Olney, and the latter, in conjunction with Cowper, here wrote his well known Ohiey hymns.

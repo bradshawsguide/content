@@ -1,0 +1,5 @@
+section: 3
+----
+title: Fort George
+----
+text: This fort, erected in 1746, covers 10 acres, and holds a small garrison. There is a ferry here across the firth, on the opposite side of which (in Ross-shire) is *Fortrose*, once the seat of the Bishop of Ross; the remains of the old abbey still exist. Further east aoout 1½ mile, is *Rosemarkie*, and 3 miles further, the *Burn of Ethie*, where Hugh Miller's geological discoveries were made.

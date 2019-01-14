@@ -1,0 +1,16 @@
+section: 3
+----
+title: King's Langley
+----
+notes:
+- Telegraph station at Watford, 3½ miles.
+----
+text: The village of King's Langley on the right, is remarkable for the square tower and short spire of its ancient church: there are several paper mills in the neighbourhood, that of the Messrs. Dickinson and Longman, at Two Waters, deserves a visit; good fishing abounds. Several iron coffins were found here in 1840.
+----
+distances:
+- location: Population
+  miles: 1,509.
+- location: Mails
+  miles: Two arrivals and departures, daily, between London and King's Langley.
+- location: Hotel
+  miles: Rose and Crown.

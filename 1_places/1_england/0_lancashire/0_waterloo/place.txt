@@ -1,0 +1,15 @@
+section: 3
+----
+title: Waterloo
+----
+info:
+- term: Hotel
+  desc: Waterloo.
+- term: Money Order Office
+  desc: at Liverpool, 5½ miles.
+----
+notes:
+- A telegraph station.
+- Distance from station, ¾ mile.
+----
+text: This is a small but charming watering-place, much visited. It contains a fine church, assembly rooms, library, and bathing establishment.

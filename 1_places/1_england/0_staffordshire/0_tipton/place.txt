@@ -1,0 +1,14 @@
+section: 3
+----
+title: Tipton
+----
+info:
+- term: Population
+  desc: 28,870.
+- term: Hotel
+  desc: Albion.
+----
+notes:
+- Telegraph station at Dudley Port, 1 mile.
+----
+text: Here are extensive chemical works.

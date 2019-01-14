@@ -1,0 +1,10 @@
+section: 3
+----
+title: Dubton Junction
+----
+info:
+- term: Money Order Office
+  desc: at Montrose, 3 miles.
+----
+notes:
+- Telegraph station at Montrose, 3 miles.

@@ -1,0 +1,20 @@
+section: 3
+----
+title: Leighton Junction
+----
+title-short: Leighton Buzzard
+----
+info:
+- term: Hotels
+  desc: Swan, Unicorn.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: February 5th, Whit Tuesday, July 26th, October 24th, and second Tuesday in December.
+----
+notes:
+- A telegraph station.
+----
+text: This small market town, of 4,330 inhabitants, who make lace, and straw-plat, is situated in Bedfordshire. The branch to Dunstable turns off here; and the Ouzel, a branch of the Ouse, divides the town from Bucks and the chalk hills on the west. These hills are part of the range which, in south Bucks, run through the Chiltern Hundred (see Windsor), giving name to a nominal office, by which a M.P. is enabled to vacate his seat. Leighton *Church* is a good Gothic cross, with stalls (for the priests of one or two priory cells, that were here), and a tall spire, 193 feet high, before about 25 feet was struck down by lightning, 16th July, 1852. Its ancient Cross near the market house, also deserves notice, as a genuine relic of early English work, built about 1300, and stands 34 feet high on 5 steps, and set off with pinnacles and niches.
+
+In the neighbourhood are the following places. Slewldey, and its excellent *Norman Church*, on the Chiltern hills, *Liscombe House*, Lady Lovett, the old Elizabethan seat of an ancient family. *Aston Abbot's House*, seat of Sir James Ross, the Polar navigator, *Wing Park*, Lord Overstone the banker. Whaddon, on the hills, once the centre of a large chase or forest. *Great Brickhill*, Hon. P. Duncombe.

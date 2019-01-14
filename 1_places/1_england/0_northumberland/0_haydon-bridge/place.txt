@@ -1,0 +1,12 @@
+section: 3
+----
+title: Haydon Bridge
+----
+info:
+- term: Population
+  desc: 2,221.
+----
+notes:
+- A telegraph station.
+----
+text: This place belongs to Greenwich Hospital, and originally formed part of the Earl of Derwentwater's  property. Martin, the painter, was a native.

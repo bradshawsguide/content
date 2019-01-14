@@ -1,0 +1,20 @@
+section: 3
+----
+title: Dunstable
+----
+info:
+- term: Population
+  desc: 4,470.
+- term: Hotels
+  desc: White Hart, King's Head, Railway.
+- term: Market Day
+  desc: Wednesday.
+- term: Fairs
+  desc: Ash Wednesday, 22nd May, August 12th, and November 12th.
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Dunstable) is situated at the foot of the Chiltern hills. The principal attraction of this town was its ancient priory church, and the celebrity of its inns. It is noted for straw-plait manufacture. Many of the houses have an antiquated appearance, and the streets, which are four in number, take the direction of the four cardinal points, intersecting each other at right angles.
+
+The town lies among chalk hills, on the site of a Roman station or Watling Street. It has a large priory church, partly Norman.

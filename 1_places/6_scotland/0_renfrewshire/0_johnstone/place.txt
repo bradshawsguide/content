@@ -1,0 +1,12 @@
+section: 3
+----
+title: Irvine
+----
+info:
+- term: Population
+  desc: 8,140.
+----
+notes:
+- A telegraph station.
+----
+text: Near at hand are *Johnstone Castle*, seat of L. Houston, Esq., and *Milliken*, Sir W. Napier, Bart.

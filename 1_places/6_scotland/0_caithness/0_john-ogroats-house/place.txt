@@ -1,0 +1,7 @@
+section: 3
+----
+title: John O'Groat's House
+----
+text: This famous locality lies at the south side of the Pentland Frith, and gives one of the finest sights in the north. The view on a favourable day, of land and water, is very interesting. The Pentland Frith, the most dangerous race course of the British seaboard, divides Caithness from Orkney, which is seen to great advantage from John o'Groat's where there is a comfortable country inn.
+
+The route from Caithness to Sutherland by the west coast, is highly romantic. A coach runs regularly from Thurso, and will this season connect the district with the railway terminus at Bonar Bridge.

@@ -1,0 +1,14 @@
+section: 3
+----
+title: Holmes Chapel
+----
+info:
+- term: Hotel
+  desc: Swan.
+- term: Money Order Office
+  desc: at Middlewich, 4 miles.
+----
+notes:
+- Telegraph station at Crewe, 8¼ miles.
+----
+text: Near Bagmere Pool is *Brereton Hall* built by Sir W. Brereton, the parliamentary leader.

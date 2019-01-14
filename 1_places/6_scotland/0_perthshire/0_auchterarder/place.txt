@@ -1,0 +1,17 @@
+section: 3
+----
+title: Auchterarder
+----
+- term: Population
+  desc: 2,844.
+- term: Hotel
+  desc: Star.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: First. Tuesday in February; first Thursday in May; Friday before Falkirk August fair; December 6th.
+----
+notes:
+- Telegraph station at Perth, 13½ miles.
+----
+text: This place is famous for having given rise to the formation of the Free Church in 1843. At Abruthven is the old church, remains of King Malcolm's hunting seat, and St. Mungo's chapel.

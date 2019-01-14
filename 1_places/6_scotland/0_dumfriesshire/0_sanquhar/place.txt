@@ -1,0 +1,14 @@
+section: 3
+----
+title: Sanquhar
+----
+info:
+- term: Population
+  desc: 1,754.
+- term: Fairs
+  desc: First Friday in February, *o. s.*; third Friday in April; first Friday in May, *o. s.* July 17th if on Friday, if not, on the Friday after; first Friday in August, *o. s.* October. Friday before Falkirk Tryst, in October.
+----
+notes:
+- A telegraph station.
+----
+text: This place is famous for its woollen manufacture. The old castle, once the residence of the Grighton family, is worth a visit. The "admirable Crichton" was born at Elliock House. In the vicinity arc *Castle Gilmour*, a moot hill, and ruins

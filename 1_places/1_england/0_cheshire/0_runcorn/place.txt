@@ -1,0 +1,8 @@
+section: 3
+----
+title: Runcorn
+----
+notes:
+- A telegraph station.
+----
+text: Noted as one of the inland ports of the kingdom, and much resorted to for bathing in the summer season. Population, 10,434.

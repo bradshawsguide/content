@@ -1,0 +1,16 @@
+section: 3
+----
+title: Alloa
+----
+info:
+- term: Hotels
+  desc: Royal Oak, Crown.
+- term: Market Day
+  desc: Wednesday and Saturday.
+- term: Fairs
+  desc: 2nd Wednesday in February, May, August, and November.
+----
+notes:
+- A telegraph station.
+----
+text: This place, with a population of 8,707, engaged in the shipping trade, collieries, corn, woollen, glass, tile, and brick works, has two churches, one of which is pointed, with a steeple, and at which Fordyce was minister, five chapels, court house, custom house, assembly rooms, libraries, gas and water works, breweries, factories, and schools. The harbour has a good dry dock close to it. In the vicinity are *Alloa House*, the old seat of the Erskines, where James I. was nursed; it has a tower of the thirteenth century, 89 feet high and 11 thick, and was partly burnt in 1800, and *Shaw Park*, Lord Mansfield.

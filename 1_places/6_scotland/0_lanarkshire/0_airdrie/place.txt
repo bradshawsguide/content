@@ -1,0 +1,17 @@
+section: 3
+----
+title: Airdrie
+----
+info:
+- term: Hotel
+  desc: Royal.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: Last Tuesday in May, and third Tuesday in November.
+----
+notes:
+- Population, 12,922.
+- Telegraph station at Coatbridge, 2 miles.
+----
+text: This town is situated in the centre of the Scottish  coal district, which has caused its present prosperity.  It was the ancient Arderyth, where in 577 Rydderech defeated Aidan. Bathgate may be reached from this place by rail, 19f miles distant. At Monkland Well is a good mineral spa, and *Airdrie House* is the seat of Miss Mitchelson.

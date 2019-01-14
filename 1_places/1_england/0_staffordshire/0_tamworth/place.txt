@@ -1,0 +1,25 @@
+section: 3
+----
+title: Tamworth
+----
+info:
+- term: Hotel
+  desc: King's Arms.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: May 4th, July 26th, and October 24th.
+- term: Bankers
+  desc: National Provincial Bank of England.
+----
+notes:
+- A telegraph station.
+----
+text: This station is a very handsome and picturesque building. Its gables, bay windows, clustered chimnies, and roofs enriched with tiles of quaint form, are all in excellent taste. The frontage of the building towards the rail extends to one hundred and thirty feet, and the platform to three hundred feet.
+
+(smcp: Tamworth), a market town, population 10,192, who return two members, has an old castle of the Marmions—
+
+> They hailed him lord of Fontenay,
+> Of Tamworth towei and town.
+
+The church is large and ancient, and contains the monument of Peel, whose statue, by Noble, is in the Market-place, with his face turned to Bury (his birth-place). He founded a school here; another was built by Queen Elizabeth, and almshouses by Guy, who founded Guy's Hospital. *Drayton Manor*, Sir R. Peel, Bart. At *Abbots Bromley* lived Mrs. Cooper, who saw her descendants to the sixth generation.

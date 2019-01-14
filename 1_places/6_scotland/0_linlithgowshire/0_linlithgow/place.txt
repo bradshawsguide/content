@@ -1,0 +1,16 @@
+section: 3
+----
+title: Linlithgow
+----
+info:
+- term: Hotel
+  desc: Star and Garter.
+- term: Market Day
+  desc: —Friday.
+- term: Fairs
+  desc: First Friday after second Tuesday in January; last Friday in February; third Friday in April; second Friday in June; first Tuesday August; first Friday in November.
+----
+notes:
+- Telegraph station at Falkirk, 8 miles.
+----
+text: This town has a population of 3,843 engaged in the cotton trade and the manufacture of leather John, Earl of Stair, was a scholar at the Grammar School, where Kirkman was master. The church built by David I., and rebuilt in 1411, contains the tombs of the Livingstones and Dr. Henry's Library and Catherine's Aisle, where James IV., it is stated, was forewarned of the Battle of Flodden Field Close by it is the Palace on the Loch, of 80 acres, having, fish and fowl It was rebuilt by James IV., V., and VI., and contains some beautiful carvings in the Hall, Banquet Room, a Well, Parliament Hall, and Queen Mary's Room, from which there is a magnificent prospect. James V.'s jester (Rob Gib) was a native. The magistrates, trades, &c., ride the bounds in June.

@@ -1,0 +1,28 @@
+section: 3
+----
+title: Bedford
+----
+info:
+- term: Hotels
+  desc: Swan; George.
+- term: Omnibuses
+  desc: to and from the station; also to Kimbolton, on Tuesdays, Fridays, and Saturdays.
+- term: Market Days
+  desc: Tuesday and Saturday.
+- term: Fairs
+  desc: April 21st, July 5th, August 21st, October 11th, December 19th, first Tuesday in Lent.
+- term: Bankers
+  desc: Branch of London and County Bank; T. Barnard and Son.
+----
+notes:
+- A telegraph station.
+----
+text: The agricultural capital of *Bedfordshire*, 16 miles from Bletchley, at the terminus of a branch from the North Western line. The sedgy Ouse rims through the town, which takes its name from a *ford* guarded by a castle of the Beauchamps, when William the Conqueror gained military possession of the country. A good stone bridge now crosses it.
+
+Population, 13,413. Two members returned to parliament. Pillow lace, shoes, and straw plait are made. St. Paul's is the most remarkable of its six Gothic churches, and contains the effigy of a Beauchamp, and a monument to Lord Mayor Harpur, who was born here, and the founder of an extensive charity, to which is attached the celebrated Bedford Schools, open to all inhabitants of the town, well conducted, and amply endowed for boys and girls, and 70 or 80 alms-houses, besides distributing apprentice fees, and marriage portions, and now possessing a revenue of £2,000 per annum from land in Holborn and his native town. Being open to all it has the effect of drawing many families to the town.
+
+At Mill Lane Chapel *John Bunyan* preached, for which he was cast into gaol (on the site of the county prison), where he wrote his *Pilgrim's Progress*. The immortal tinker was born in 1628, at Elstow, 1½ mile south, past the asylum. His cottage and forge are there, while his chair is preserved in the chapel.
+
+One of the oldest houses in Bedford is the George Inn, a remnant of the 15th century.
+
+Within a distance of 5 or 6 miles are—*Kempston House*, seat of R. Ncwland, Esq.; *Bramham Hall*, seat of the Trevors; *Newnham Priory* ruins; *Howbury*, the Polhills' seat.

@@ -1,0 +1,36 @@
+section: 3
+----
+title: Perth
+----
+- term: Hotels
+  desc: Royal George; Salutation; Star; British.
+- term: Steamers
+  desc: to and from Dundee, twice daily.
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: 1st Friday in March, April, and July; 3rd Friday in October; 2nd Friday in December.
+- term: Bankers
+  desc: Bank of Scotland; British Linen Co.; Commercial; National; Royal; Union.
+----
+notes:
+- A telegraph station.
+----
+text: The capital of Perthshire, w4iich county returns one member, the middle of Scotland, a parliamentary burgh, and a port, to which steamers and small craft cornc up from the sea by the Firth of Tay. Population, 25,250, who return one member. Its situation, between the north and south inches, or meadows, of the Tay, is very beautiful. From the Moncrieffs' seat, on a trap hill, to the south, 756 feet high, there are some of the most splendid views in Scotland, embracing the city, and the course of the river, from the Grampians to Dundee. Scott refers to it at the beginning of the "Fair Maid of Perth." When Agricola's Roman legions came in sight of the river, they saluted it with cries of *Ecce Tiber!* but it is hardly a compliment to compare this respectable stream with that now filthy but immortal ditch, the modem Tiber. One of Smeaton's bridges, 900 feet long, crosses the Tay; the greatest width of the Tiber is 200 feet. Both streams, however, are subject to heavy floods. The Romans founded a town here called *Bertha*. Some rnuslin, cotton, and silk goods are manufactured here, but the trade is not in a prosperous state.
+
+In the present day, Perth is the handsomest town, of its size, in Scotland, and in some respects resembles Edinburgh. It consists principally of two streets, proceeding westward from the Tay, parallel to each other, and these are. intersected, from north to south, by cross streets. In the High-street is the *Guild Hall* At the north-east corner of the town the Tay is crossed by a bridge of ten arches. By far the most pleasing characteristics of Perth, in a popular point of view, are the two large meadows on the north and south sides of the town, which are exclusively appropriated for the recreation of the people.
+
+In 1600 an attempt, or a pretended attempt, the history of which is not accurately settled, was made to seize the person of James I., under the name ot the "Gowrie Plot," from the house in which he then resided. The site of this is now occupied by the *County Buildings*, built by Smirke, in the Grecian style; here are the County and Law Courts, with various pictures, one bemg Raeburn's portrait of Neil Gow,
+
+> The man that play'd the fiddle weel,
+> And dearly lo'ed the whisky O."
+
+*St John Baptist's Church*, or Kirk, is in fact three churches, and is 270 feet long, with a spire 155 feet high. In the east kirk is the grave of James I. (of Scotland), who was killed in the Blackfriars, in 1437; and a painted window. It was in an older church, on this site, that Knox preached with so much energy, in 1559, that the people sallied out to destroy the Romish monasteries, &c.; but their hearts were on fire from the cruelties of the mother of abominations, and the remembrance of six martyrs hung on the south inch, in front of the Spey Tower of the Greyfriary, in which Cardinal Beaton sat. This spot is now turned into gardens, and a cemetery; a gate only remains.
+
+The *Freemasons' Hall* occupies the place of the old House (pulled down in 1818) and Castle, in which many Parliaments were held, till their meetings were transfered to Edinburgh, upon the death of James I. *Scone Palace* being then the usual residence of the Sovereign. He founded a Carthusian Friary, which James VI. converted into an Hospital. This was rebuilt in 1750, the old one having been battered down along with the city cross by Cromwell in 1651. On this occasion he erected a fort, to command the town, on the North Inch. Here is the race course, on which the celebrated combat took place, before Robert II., between Clan Chattan and Clan Kay, thirty on each side, which is so graphically described in Scott's "Fair Maid of Perth."
+
+The *Model Prison*, for 350 prisoners, Avas used to confine French prisoners, in the revolutionary war. In 1823 a *Public Library* and *Museum* were erected in George-street, in compliment to Provost Marshall. A large *Lunatic Asylum* stands in the north suburbs, near Kinnoul and Dickson's Nursery. Both Inches, beyond the city bounds, are planted with trees, and laid out in beautiful walks.
+
+(smcp: Neighbourhood of Perth). -- *Kinfauns Castle* (3 miles), Lord Gray's seat, contains the great Charteris sword, nearly 6 feet long--Charteris was the patron of Perth. Behind is Kinnoul Hill, a basalt ridge, at the termination of Siddall Hills, 630 feet high; the view from it is magnificent. *Errol House* is three miles from this, on that rich and fertile tract of the Tay, called the "Carse of Gowrie," once covered by the river. *Bridge of Earn*, 5 miles south-east of Perth, is a prettv village, near the Pitcaithley sulphur waters. The Earn joins the Tay, a few miles lower down, past Abernethy (and its round tower); it may be ascended here, past *Dupplin Castle*, the Earl of Kinnoul's seat. The road to Crieff crosses Tippermuir, where Montrose routed the Covenanters in 1645. *Huntingtoun*, near it, now a cotton factory, belonged to the Gowries. Following this road you reach Crieff, in Strath-Earn, under a pass of the Grampians, 14 miles from Perth. Thence it is 13 miles to St. Fillans, at the bottom of Loch Earn; which is surrounded by fine mountains, one of which, Ben Voirlich, is 3,050 feet high; then up the Loch and through Glen Dochart, «fcc, to the top of Loch Lomond, about 30 miles.
+
+*Scone Palace*, the seat of the Earl of Mansfield, is a handsome building, on the site of the royal palace in which Charles II. and the Chevalier were crowned. This was once the seat of the Culdee, and here the famous *Coronation Stone* was kept, which originally came from Tara Hill in Ireland, and which Edward I. carried off to Westminster Abbey, where it is fixed under Edward the Confessor's Chair. The river Almond, from Glen Almond, here joins the Tay.

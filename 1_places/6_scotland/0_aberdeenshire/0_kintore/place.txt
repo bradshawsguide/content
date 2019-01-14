@@ -1,0 +1,8 @@
+section: 3
+----
+title: Kintore
+----
+notes:
+- Telegraph station at Inverury, 3 miles.
+----
+text: This was formerly a forest, and had a hunting seat given by Bruce to the Keiths. In the vicinity are *Thainston*, seat of D. Mitchell. Esq., Castle-hill Law, Bruce's Howe, some Cairns and the remains of four Druid circles.

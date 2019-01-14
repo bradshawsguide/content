@@ -1,3 +1,28 @@
 section: 3
 ----
 title: Lichfield
+----
+info:
+- term: Hotel
+  desc: George.
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: January 10th, Shrove Tuesday, Ash Wednesday, May 12, first Tuesday in November.
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Lichfield), a small cathedral town and parliamentary borough (two members), on the Trent Valley line, where the Burton and Dudley intersects it, 116 miles from London. A branch of the Trent (which is 3 miles off) runs through. Population, 6,893. Famous for its ale.
+
+There is a tradition that at a spot called Christian Field, a great number of martyrs were put to death in the third century by the Romans (who had a station at *Etocetum*, close by); and hence the name of the town is derived, *lich* being Saxon for a dead boy, as we see to this day, in the old Lich-gate, near some churches.
+
+At the corner of Sadler Street is the house in which *Johnson* was born in 1709, then a bookseller's shop, kept by his father, Michael Johnson, who built it on a piece of land belonging to the corporation. It is a high house, resting on two pillars, with, pilasters at the corners, and a projecting cornice. When the Doctor became famous the citizens, out of regard to him, renewed the lease at a long term without payment of a fine. The registry of his baptism is to be seen at St. Mary's opposite. Before he went to Oxford, he had half learnt his father's business, so that books of his binding are said to be still extant.
+
+Nichols, in his *Literary Anecdotes*, says, Johnson always spoke of his birth-place with enthusiasm, "Its' inhabitants were more orthodox in their religion, purer in their language, and politer in their manners, than any other town in the kingdom"—a high character, which we hope it still deserves. In the Market-place fronting the house, is his statue, near the old market house. Edward VI.'s *Grammar School*, in which that genius was trained, rebuilt in 1850, in the Tudor style. Here Addison, Garrick, Bishop Newton, who wrote on the Prophecies, Salt, the Egyptian traveller, and other eminent men, were educated. The Doctor used to say that his master, Dr Hunter, never taught a boy in his life; he whipped and they learned. He was a pompous man, always wearing his gown and cassock, with a full dressed, wig. He had a remarkably stem look; so that the great Ursa Major himself (the terror of Whigs and small literary fry) would tremble at the sight of Miss Seward, owing to her resemblance to her grandfather Hunter. St John's Hospital is a very ancient foundation. To the north-west of the city, in that division called the Close, is the *Cathedral*, marked by its three conspicuous tapering spires, and dedicated to St. Chad. It was founded as far back as 665, and afterwards made the seat of an archbishop; but the present building was begun after the Conquest (when Roger de Clinton built a castle and priory here), and finished in 1296. It suffered from the Puritans, who captured the town in 1643, when their leader, Lord Brooke, was shot through the eye, by an accidental shot fired by a deaf and dumb man. At the Restoration, Bishop Hacket collected 20,000*l*. to renovate it It is 410 feet long, the centre steeple 260 feet high, the other two, over the west front, 190 feet At this end-are the great wheel window, and many large figures of Scripture and other characters. The decorated English porches, and the choir, deserve notice; as well as the effigies of Bishop Langton (who built the screen and Lady chapel), Bishop Hacket, and one of the Stanleys, the monuments of Johnson, Garrick, Lady Wortley Montague, and the celebrated one ascribed to Chantrey, of Mrs. Robinson's *Sleeping Children*—which is said, on good authority, not to be a work of Chantrey, but of one of his pupils, from a design given by another pupil, who was an Italian. Westmacott's bust of Johnson is in the Dean's Court, on the south side; it was placed there by his friends. Another to Garrick, by his widow, has an inscription ending with Johnson's well known eulogy:—"His death eclipsed the gaiety of nations, and impoverished the public stock of harmless pleasure." Among the curiosities in the *Chapter House* are the Gospels in Saxon, an illuminated copy of Chaucer, and a Koran. The old palace, Vicar's College, and prebendal houses, are within the Close, the bounds of which are marked by a dry moat. Coventry diocese is now merged in that of Lichfield.
+
+Richard II. was confined in the castle, on the site of which are erected Newton's Alms-houses.
+
+There are three other churches, of which St. Chad's is the oldest, and St. Michael's (marked by a tower) contains Johnson's epitaphs on his parents and brother. A Court, of Array, one of the most ancient remnants of feudal times, is still held here at Whitsuntide. Queen Victoria, when Princess, paid Lichfield a visit in 1832, with the Duchess of Kent, her mother; and again after she became Queen of England, in 1843.
+
+In the neighbourhood of the city, the following may be visited. *Edial* or *Edgehill*, an old high-roofed house, where Johnson lived in 1736, when Garrick was his pupiL At *Stow Hill*, he wrote a good part of Ms "Lives of the Poets," when staying with the Astons, " frequently surrounded by five or six ladies engaged in work or conversation." It was here he scrambled over the great gate one day, having a mind (he said) to try whether he could climb a gate as he used to do when a lad. *Reeford*, seat of General Dyott, an ancient family. *Swinfin*, S. Swinfin, Esq., another old family. Dr. Swinfin was Johnson's godfather. *Elmhurst*, N. J. Lane, Esq.

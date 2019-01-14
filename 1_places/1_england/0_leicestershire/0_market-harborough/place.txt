@@ -1,0 +1,17 @@
+section: 3
+----
+title: Market Harborough
+----
+info:
+- term: Population
+  desc: 2,302.
+- term: Hotels
+  desc: Three Swans; Angel.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: January 6th, February 16th, April 20th, July 31st, and October 19th.
+----
+notes: A telegraph station.
+----
+text: This was the place where Charles I. fixed his head quarters immediately before the battle of Naseby. The tower is thought to be of Roman origin, having traces of a Roman Camp in the neighbourhood. Its principal trade is in carpets.

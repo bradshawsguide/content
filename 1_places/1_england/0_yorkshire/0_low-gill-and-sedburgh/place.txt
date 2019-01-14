@@ -1,0 +1,15 @@
+section: 3
+----
+title: Low Gill and Sedbergh
+----
+info:
+- term: Market Day
+  desc: at Sedbergh, on Wednesday.
+- term: Fairs
+  desc: at Sedburgh, March 20th, Whit-Wednesday and October 29th.
+----
+notes:
+- Distance from station, 5 miles.
+- A telegraph station.
+----
+text: Five miles distant is the market town of Sedbergh, on the Rothern, a beautiful romantic valley, surrounded by mountains. It has a population of 2,346,  who are employed in the cotton mills, and Dr. Lupton's Free Grammar School, founded in 1552, having three  fellowships and ten scholarships at St John's College, Cambridge, attached thereto. In the vicinity is  *Ingniere Hall*, on the Lune, seat of Mr. Upton. Under Calf Fell is the beautiful waterfall, Cantley  Spout, and near Borrow Bridge village is the Roman Camp, Castlehow.

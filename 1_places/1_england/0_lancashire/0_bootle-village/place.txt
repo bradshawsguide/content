@@ -1,0 +1,12 @@
+section: 3
+----
+title: Bootle Village
+----
+info:
+- term: Population
+  desc: 6,414.
+----
+notes:
+- Telegraph station at Marsh Lane.
+----
+text: This is a small village near Liverpool; a watering place, much frequented by the inhabitants of Liverpool. It contains a pretty church, assembly-rooms and bathing establishments.

@@ -1,0 +1,30 @@
+section: 3
+----
+title: Preston
+----
+info:
+- term: Hotels
+  desc: Bull; Victoria; Red Lion; Castle.
+- term: Market Days
+  desc: Wednesday, Friday, and Saturday.
+- term: Fairs
+  desc: Week before first Sunday after Epiphany, March 27th, August 25th, and November 7th.
+- term: Bankers
+  desc: Roskell and Co.; Branch Lancaster Banking Co.; Preston Banking Co.
+----
+notes:
+- A telegraph station.
+----
+text: An ancient borough (two members) and an important cotton manufacturing town in Lancashire, population 32,985, standing some distance without the manufacturing circle, on a hill above the beautiful valley of the Ribble, 210 miles from London.
+
+Below the town the river widens considerably. Recent improvements in its navigation have enabled. vessels of large tonnage to reach the town, Preston is a place of some historic importance. King John and two of the Edwards, John O'Gaunt, and James the First, visited the town. Cromwell defeated the royalist forces in the suburbs. The first Scottish rebellion in 1715 was quelled here, and the young Pretender passed through m 1745. Henry the First granted it a charter, and successive sovereigns have confirmed and extended its municipal privileges. One of its most peculiar institutions is its ancient guild, held every twenty years, at which the aristocracy of the county have been wont to assemble as participants in the festivities which distinguish it.
+
+In past times Preston was noted for the gentility of its inhabitants. Many Lancashire families made it their occasional residence, and it was, before the introduction of the cotton trade, according to Dr. Whitaker (History of Richmondshire), "an elegant and economical town, the resort of well-born but ill-portioned and ill-endowed old maids and widows." In 1777 the first cotton mill -was erected, and since that time the staple trade of Lancashire has so extended within it that Preston has become one of the principal manufacturing towns in the county. There are upwards of 50 cotton mills in the town, the largest establishment being that of Messrs Horrockses, Miller, and Co., who employ upwards of 3,000 hands. The commercial annals of this town are memorable from two long continued disputes between the employers and employed. The strike or lock-out of 1836-7 lasted fourteen weeks, and caused vast distress in the town; that of 1853-4 was prolonged to a period of thirty-nine weeks, during which 15,000 or 16,000 persons were out at employment, and the greater portion of the factories were entirely closed. The order which was preserved in the town, the good conduct of the operatives, and the support which they received from their class in other towns, were much noticed at the time.
+
+Preston is a well-built town, with some old streets and houses. Its parish church has been recently rebuilt, and all the other churches are modem. The town hall is a structure quite unworthy the town, which is singularly deficient in handsome public buildings, for, excepting the elegant edifice erected as the Mechanics' Institution, and the pile comprising the Grammar School, the Literary and Philosophical Institution, and the Winckley Club, it scarcely possesses any building of architectural importance.
+
+Although Preston was so aristocratic a town in days of yore, it possessed before the passing of the Reform Act, the only real democratic electoral sufrrage in the kingdom; all its inhabitants of six months' residence, and above twenty-one years of age, if free from the taint of pauperism, were entitled to a vote. The Stanleys were long the patrons of the borough, but the democratic suffrage had occasionally democratic suitors. Cobbett was once a candidate for its representation, and Henry Hunt sat in two parliaments for Preston.
+
+Preston is unrivalled for the beauty of its situation, and few towns are so well off for public walks and these are to be yet further extended. Sir Richard Arkwright, the great improver of the first spinning frame, was a native of Preston; Lady Hamilton, the friend of Nelson, is also said to have been born here.
+
+In the neighbourhood of Preston are *Tulketh Halt*, the seat of the monastic community who afterwards settled at Furness Abbey; *Penwortham Priory*, erected on the site of the ancient priory, that was a cell of the Abbey of Evesham; the Castle Hill; Penwortham, the site of a castle mentioned in Domesday Book; Walton-le-Dale, the recently discovered site of the Roman *Coccium*; Cuerdale, where the immense Danish hoard, comprising above 10,000 Saxon and Danish coins, was discovered; Ribchester, the site of the Roman *Rigodunum*; *Stonyhurst College*, once the seat of the ancient Lancashire family of Sherburne, now a noted educational establishment of the Jesuits. Preston, which is open to the saline breezes of the west, is also at a very convenient distance from Lytham, Fleetwood and Blackpool, with all of which bathing places it is directly connected by rail.

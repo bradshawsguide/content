@@ -1,0 +1,17 @@
+section: 3
+----
+title: Penrith
+----
+info:
+- term: Population
+  desc: 7,189.
+- term: Hotels
+  desc: The George, Family and Commercial;
+  New Crown.
+- term: Fairs
+  desc: March 1st, April 5th and 24th, 3rd Tuesday in October, Whit and Martinmas Tuesday.
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Penrith) is a large market town. It contains race stand, assembly, news and library rooms, free grammar school, founded by Bishop Strickland, in 1340, girls' school. St. Andrew's church, rebuilt in 1722, contained a chantry, built by Bishop Strickland, who was the first to have water conveyed to this place. It contains an old tower, and portraits, in stained glass, of Richard Plantagenet and his wife. The grave of Gevain (the giant), 15 feet long, with two pillar crosses, 11½ feet high, and the giant's thumb, with a cross, 5¼ feet high, are in the churchyard. The walls of the castle still remain, and from the Beacon Hill an extensive view of unsurpassable beauty is obtained. In the vicinity are *Ulleswater Lake* and *Eden Hall*, the latter the seat of Sir G. Musgrave, Bart., rebuilt in 1852, "at which is an old drinking glass, called the 'Luck of Eden Hall,' a gift of the fairies, the breaking of which, it is said, will bring misfortune to the house." -- <cite>Sharp's British Gazetteer</cite>.

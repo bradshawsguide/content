@@ -1,0 +1,14 @@
+section: 3
+----
+title: Laurencekirk
+----
+info:
+- term: Market Day
+  desc: Monday.
+- term: Fairs
+  desc: Third Wednesday in January, *o.s.*; Monday before Perth March fair; Thursday after second Tuesday in August, *o.s.*
+----
+notes:
+- A telegraph station.
+----
+text: Celebrated for the manufacture of wooden snuff boxes. Here Dr. Pitcairn found Ruddiman, the Latin grammar author, master of the school. Beattie, the poet, and opponent of Hume, in his Essay on Truth, was a native.

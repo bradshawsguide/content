@@ -1,6 +1,10 @@
+section: 1
+----
 title: London
 ----
 station: charing-cross
+----
+desc: The capital of Great Britain, and indeed, if its commercial and political influence be considered, of the civilised world.
 ----
 text: (navigation: children)
 

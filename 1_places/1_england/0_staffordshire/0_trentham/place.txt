@@ -1,0 +1,16 @@
+section: 3
+----
+title: Trentham
+----
+info:
+- term: Population
+  desc: 645.
+- term: Hotel
+  desc: Stafford Arms.
+- term: Money Order Office
+  desc: at Newcastle, 3½ miles.
+----
+notes:
+- Telegraph station at Stoke, 3 miles.
+----
+text: *Trentham Park*, the Duke of Sutherland's seat, on the river Trent, is of great extent; the old seat has been rebuilt by Sir J. Barry. It was visited by the Queen, when Princess Victoria, and her mother, the late Duchess of Kent, in 1832. A gallery of pictures, &c. The Trent is made to spread into a fine lake, planted with ornamental timber, the work of Brown, the famous landscape artist, of the last century.

@@ -1,0 +1,5 @@
+section: 3
+----
+title: Allerton
+----
+text: In the vicinity of which are *Allerton Hall*, the old seat of Roscoe, the historian, and *Woolton Hall*, a fine edifice built by Adam, near which is the site of an priory and a camp.

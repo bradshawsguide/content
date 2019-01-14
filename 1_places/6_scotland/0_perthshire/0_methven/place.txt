@@ -1,0 +1,5 @@
+section: 3
+----
+title: Methven
+----
+text: Here is *Methven Castle*, within the grounds of which is the Pepperwell Oak, the trunk of which is eighteen feet in circumference. In this neighbourhood Robert Bruce was defeated, June 19th, 1306, by the English, under the command of the Earl of Pembroke.

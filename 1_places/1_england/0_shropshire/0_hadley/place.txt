@@ -1,0 +1,12 @@
+section: 3
+----
+title: Hadley
+----
+info:
+- term: Money Order Office
+  desc: at Wellington, 1¼ mile.
+----
+notes:
+- Telegraph station at Wellington, 1¼ mile.
+----
+text: To the left is *Apley Castle*.

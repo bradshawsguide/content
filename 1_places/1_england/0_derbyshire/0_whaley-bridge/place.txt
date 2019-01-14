@@ -1,0 +1,5 @@
+section: 3
+----
+title: Whaley Bridge
+----
+text: A small hamlet on the river Goyt, which here divides Cheshire from Derbyshire.

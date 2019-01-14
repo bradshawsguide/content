@@ -1,0 +1,22 @@
+section: 3
+----
+title: Kenilworth
+----
+info:
+- term: Population
+  desc: 3,013.
+- term: Hotel
+  desc: King's Arms.
+----
+desc: A small town in the county of Warwick. It consists of one main street, nearly a mile in length, and is principally remarkable for the ruins of its once stately and magnificent castle.
+----
+notes:
+- Telegraph station at Leamington, 4½ miles.
+----
+text: (smcp: Kenilworth), a small town in the county of Warwick. It consists of one main street, nearly a mile in length, and is principally remarkable for the ruins of its once stately and magnificent castle.
+
+During the civil wars between the houses of York and Lancaster it was alternately taken by the partisans of the white and red roses: and very long after their termination, Queen Elizabeth bestowed it upon the Earl of Leicester.
+
+The most memorable incident in the history of Kenilworth Castle, is the Royal entertainment given by the Earl to his Queen. Elizabeth visited him in state, attended by thirty-one barons, besides the ladies of the Court, who, with four hundred servants, were all lodged in the Castle. The festival continued for seventeen days, at an expense estimated at £1,000 per day (a very large sum in those times). Ten oxen were slaughtered every morning; and the consumption of wine is said to have been sixteen hogsheads, and of beer, forty hogsheads daily. An account of this singular and romantic entertainment, published at the tune by an eye-witness, presents a curious picture of the luxury, plenty, and gallantly of Elizabeth's reign.
+
+During the civil wars the castle was besieged by Cromwell, and by him given to some of his officers. These matter-of-fact soldiers, who had but little feeling for the beauteous and majestic, soon reduced it to what it now is, a pile of ruins. They drained the lake which once flowed over so many hundred acres, beat down the walls, dismantled the towers, choked up its fair walks, and rooted out its pleasant gardens, destroyed the park, and divided and more usefully applied the lands. The estate and ruins of the castle subsequently passed into the possession of the Earl of Clarendon, in whose family they still remain.

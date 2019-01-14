@@ -1,0 +1,16 @@
+section: 3
+----
+title: Sandy
+----
+info:
+- term: Population
+  desc: 1,754.
+- term: Hotel
+  desc: Greyhound.
+- term: Money Order Office
+  desc: at Biggleswade, 3 miles.
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Sandy), the ancient Salina, was formerly a military station, surrounded with ramparts, and to the north-east is an immense hill called Caesar's Camp, supposed to have been the spot where the Conqueror encamped, after sailing up the river Ivel, from Lyne. On the top of this hill is a beautiful walk. The gardeners in this neighbourhood send large supplies of vegetables, especially cucumbers, to the London market. The railway now runs in the direction of the river Ouse, leaving the town of Eaton Socon on the left. About three miles distant is the market town of Potton, at which fairs are held in January, 3rd Tuesday *o.s.*; April, last Tuesday; July, 1st Tuesday; October, Tuesday before the 29th. Also, near at hand are *Sutton Park*, the seat of Sir J. Burgoyne, Bart.; and *Sandy Park*, Hon. Mrs. Ongley, where coins have been found of an ancient date.

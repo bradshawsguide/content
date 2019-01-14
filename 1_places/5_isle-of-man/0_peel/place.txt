@@ -1,0 +1,15 @@
+section: 3
+----
+title: Peel
+----
+info:
+- term: Population
+  desc: 2,848.
+- term: Hotel
+  desc: The Castle.
+----
+text: One of the inland towns, at the mouth of a stream near Contrary Head Beacon. There is an *apeel* or castle here on a rock joined to the mainland, formerly a large and strong building, enclosing part of an old church, a moot hill 50 feet high (where the gallows was fixed), and remains of *St. German's* cathedral, built in the thirteenth century. According to some this little rock or island was called Sodor, and bearing (it is said) the joint name of *Sodor and Man*. Dame Eleanor, wife of Duke Humphrey, was imprisoned in the castle for life, for conspiring against Richard II. The people (who are excessively superstitious) say that the Moddey Doo or Black Dog, referred to Scott in *Peveril of the Peak* still haunts this castle. There are grammar and mathematical schools in the town. The inhabitants subsist by fishing. *Kirk Patrick*, a little south of Peel, is on the road to Glenmoij (a pretty spot with a waterfall) and *Dalby Point*, near which are mines of lead and slate.
+
+From Tynwald Hill, the road passes the Peel river, to another fall, and the mines of *South Barrule*, which mountain is 1,545 feet high. Thence before reaching Ballasalla you come to
+
+*Rushen Abbey*, including some remains of a Cistercian cell, first founded by King Mac Marus, and built by the abbots of Furness in the 12th century, stands in the hollow of a stream which runs down to Castletown: descending this you pass an old Gothic bridge and *Ballasalla*, a small village.

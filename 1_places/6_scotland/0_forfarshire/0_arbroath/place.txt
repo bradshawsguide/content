@@ -1,0 +1,35 @@
+section: 3
+----
+title: Arbroath
+----
+info:
+- term: Population
+  desc: 17,593.
+- term: Hotels.
+  desc: Albion, White Hart, Royal.
+- term: Market Day
+  desc: Saturday
+- term: Fairs
+  desc: Last Saturday in January; 1st Saturday after Whit-Sunday.
+----
+notes:
+- A telegraph station.
+----
+text: A port and parliamentary burgh, in Forfar. Its proper name is Aberbrothock, signifying that it is situated at the mouth of the Brothock, which here falls into the North Sea. Provisions, paving-stone, linen (which is the staple manufacture) and bone-dust, are its chief exports; and about 8,000 tons of shipping are registered as belonging to the port. Formerly it was noted for a rich mitred abbey, founded in 1178, by King William the Lion, who was buried in it. All that remains of this gorgeous pile is the ruined church, 270 feet long, with its cloisters and fine east window. The latter has a circular light at the top, forming a conspicuous mark for seamen coming into harbour, who call it the "Round O of Arbroath." The three rows of blind arches on the wall produce a fine effect. The chapter house, great gate, and prison, are also left. The portcullis of the abbey figures in the town arms. Close to the site is a modern Parish Church, with a spire 150 feet high. A signal tower here commiinicates with the famous *Bell Rock Lighthouse*, which is 10 miles, south-east, out at sea, opposite the mouth of the Tay, and is the Inch-Cape Rock of Southey's well-known lines--a dangerous reef of red sandstone, 2,000 feet long, which was under the special care of the abbots:--
+
+> With neither sign nor sound of shock
+> The waves flowed over the Inch-Cape Rock.
+> So little they rose, so little they fell,
+> They did not move the Inch-Cape bell.
+> The pious Abbot of Aberbrothock
+> Had placed that bell on the Inch-Cape Rock:
+> On the waves of the storm it floated and swung.
+> And louder, and loxider, its warning rung.
+> When the rock was hid by the tempest's swell
+> The mairiners heard the warning bell,
+> And then they knew the perilous rock,
+> And blessed the Abbot of Aberbrothock.
+
+There is a bell swung in a wicker frame something like this, at the corner of a bank at the entrance of Southampton Water, called Jack-in-the-Basket. As to the Inch-Cape bell, the story is, that it was wantonly cut adrift by a pirate, to plague the Abbot, and that his vessel was soon after wrecked on the very rock. In 1807-11, a noble lighthouse was built by Stevenson, on the model of Smeaton's at the Eddystone, which is shaped like the trunk of a tree. It is of solid stone for 30 feet upwards, the total height being 115 feet, The stone blocks are dove-tailed together; there are five storeys above. At the base the diameter is 42 feet, which lessens to 15 feet at the top. The light itself is alternately bright and red every two minutes, and can be seen 14 miles off. In foggy weather a bell is tolled. Four men live here, each of whom every six. weeks, for a change, takes a fortnight's turn ashore, and there is no want of candidates for this office.
+
+Lighthouses of equal beauty and solidity have been built on this plan upon the Black Rock at Liverpool, and Skerryvore, in the Western Islands.

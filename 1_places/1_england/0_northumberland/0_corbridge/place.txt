@@ -1,0 +1,12 @@
+section: 3
+----
+title: Corbridge
+----
+info:
+- term: Population
+  desc: 1,340.
+----
+notes:
+- Telegraph station at Hexham, 3¾ miles.
+----
+text: This place was once a market town, and had a monastery in 771, when it was called Corabridge. It was burnt by the Scots in 1296. The church, which is fortified, was built from the ruins of Corchester, half-a-mile west, where are the Roman *Carstopitum*, and coins, remains of a bridge, altars, two Greek inscriptions, and a silver votive tablet, of 148 oz., have been found, and has a peel tower in the churchyard. In the vicinity is *Dilston* which was the seat of the unfortunate and misguided Earl of Derwentwater.

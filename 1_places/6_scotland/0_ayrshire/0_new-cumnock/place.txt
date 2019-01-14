@@ -1,0 +1,12 @@
+section: 3
+----
+title: New Cumnock
+----
+info:
+- term: Hotel
+  desc: Crown.
+----
+notes:
+- A telegraph station.
+----
+text: Close by *Afton Bridgend Castle*. Coal, with graphite and lead, abound in this neighbourhood.

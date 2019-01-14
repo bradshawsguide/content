@@ -1,0 +1,12 @@
+section: 3
+----
+title: Burntisland
+----
+info:
+- term: Hotel
+  desc: Forth.
+----
+notes:
+- A telegraph station.
+----
+text: This place has a population of 3,143 engaged in the ship building and coasting trade, and contains a pier harbour, used by the Romans, chapel, town house, market, distillery, bathing houses, schools, remains of the fortified walls and a fixed light on the pier. Here the General Assembly met in 1601. It was taken by Cromwell, and then by the Earl of Marr, in 1715. Rossend was built by the Druids. At Dunairn Camp there are fossils and volcanic remains.

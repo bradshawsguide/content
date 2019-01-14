@@ -1,0 +1,9 @@
+section: 3
+----
+title: Bowness
+----
+info:
+- term: Hotel
+  desc: Ullock's Royal.
+----
+text: (smcp: Bowness) is the chief port of the lake. Boats and carriages at moderate rates. Bishop Watson, who lived at Calgarth, is buried in the large white church, the east window of which is filled with stained glass brought from Furness Abbey. *Ferry House*, opposite Bowness, where the lake is only half a mile wide, should be visited, for the noble views it commands up and down the lake. Behind it are Esthwaite Water and Hawkshead (three miles), and, further off, Coniston and its fells. *Bell Grange* and *Storr's Hall*, a little below Bowness, are also good points of view, from which Langdale Pikes and the lakes appear to wonderful advantage. The latter is the seat of the Rev. Thomas Staniforth. Here in August, 1825, the late Colonel Bolton entertained Canning, Scott, and Lockhart, on their memorable visit to the Lakes; it was kept as a gala day, with firing of guns and other signs of rejoicing. Wordsworth was the cicerone to all the best points of view, and Professor Wilson acted as captain of the boat. *Fell Foot* and *Newby Bridge* (over the Leven) at the bottom of the lake, are delightfully placed among woods, and possess fine views of its scenery, and the Coniston fells. From the bridge, to Ulverton and Holker, at the Leven's mouth, it is about eight miles, Cartmel, five miles, Cark Station and Broughton, ten miles. From Holker the sands of Morecambe Bay may be crossed to Lancaster; but *not on any account without a guide*.

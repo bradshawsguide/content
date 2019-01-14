@@ -1,0 +1,12 @@
+section: 3
+----
+title: Over Darwen
+----
+info:
+- term: Money Order Office
+  desc: at Blackburn, 2½ miles.
+----
+notes:
+- A telegraph station.
+----
+text: This place contains a population of 14,327, employed in the cotton manufacture; close at hand are the paper nulls of Messrs. Potter. Here the Fourdrinier machine is used, and 400 miles of paper (weighing 40 tons) per day produced.

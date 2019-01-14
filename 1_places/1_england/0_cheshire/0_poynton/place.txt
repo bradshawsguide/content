@@ -1,0 +1,14 @@
+section: 3
+----
+title: Poynton
+----
+info:
+- term: Population
+  desc: 1,284.
+- term: Money Order Office
+  desc: at Stockport, 5½ miles.
+----
+notes:
+- Telegraph station at Stockport, 5½ miles.
+----
+text: In the vicinity is *Poynton Hall*, seat of Lord Vernon, who rebuilt it, together with *St. Mary's Church* in 1789; and about 1¼ mile to the east, *Lyme Hall*, T. Legh, Esq., is partly ancient, and standsin a vast park, or forest, once abounding in red deer. Sir Perkin & Legh was the favourite follower of the Black Prince, from whom the estate was inherited; their pictures are preserved here (in armour), with the Prince's bed, and other relics. It is a question however, if the portraits are authentic, though they are undoubtedly ancient.

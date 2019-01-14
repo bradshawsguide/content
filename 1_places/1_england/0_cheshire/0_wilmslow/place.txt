@@ -1,0 +1,15 @@
+section: 3
+----
+title: Wilmslow
+----
+info:
+- term: Population
+  desc: 6,616.
+- term: Hotel
+  desc: Swan.
+- term: Money Order Office
+  desc: at Stockport, 6¼ miles.
+----
+notes:
+- Distance from station, ½ mile.
+- Telegraph station at Alderley, 1¾ mile.

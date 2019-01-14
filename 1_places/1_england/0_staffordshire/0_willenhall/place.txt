@@ -1,0 +1,12 @@
+section: 3
+----
+title: Willenhall
+----
+info:
+- term: Hotel
+  desc: Railway.
+----
+notes:
+- Telegraph station at Bescot Junction.
+----
+text: (smcp: Willenhall) is a large village, population 17,256 the inhabitants of which, like all those in this district, are engaged in the manufacture of iron articles, but particularly locks, keys, &c. At this place, and at Wednesfield, locks and bolts are manufactured for all parts of England. Here excellent red sand is dug.

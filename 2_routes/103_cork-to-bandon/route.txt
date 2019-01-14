@@ -27,6 +27,6 @@ The line passes [Waterfall](/stations/waterfall), [Ballinhassig](/stations/balli
 
 [Upton and Brinny](/stations/upton-and-brinny), in the vicinity of which are *Brinny House*, J. Nash, Esq.; *Upton*, the Rev. S. Payne.
 
-<span class="smcp">Innoshannon Road</span>, close to which are the ruins of Downdaniel and Shippool Castles. Here Fairs are held on May 29th and October 3rd; and in the vicinity are *Innoshannon Road*, seat of S. Adderley, Esq., and *Firgrove*, R. Quin, Esq., and then quickly proceed to
+(smcp: Innoshannon Road), close to which are the ruins of Downdaniel and Shippool Castles. Here Fairs are held on May 29th and October 3rd; and in the vicinity are *Innoshannon Road*, seat of S. Adderley, Esq., and *Firgrove*, R. Quin, Esq., and then quickly proceed to
 
 (place: ireland/county-cork/bandon)

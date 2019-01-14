@@ -1,0 +1,17 @@
+section: 3
+----
+title: Winslow
+----
+info:
+- term: Population
+  desc: 1,890.
+- term: Hotel
+  desc: The Bell.
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: March 20, Holy Thursday, August 21st, September 22nd, Thursday before October 11th.
+----
+notes:
+- Distance from station, 5 mile.
+- A telegraph station.

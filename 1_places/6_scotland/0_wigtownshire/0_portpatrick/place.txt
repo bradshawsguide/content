@@ -1,0 +1,5 @@
+section: 3
+----
+title: Portpatrick
+----
+text: A small village, the inhabitants of which are generally engaged either in fishing or weaving. It is situated on a very rocky coast, and commands extensive sea views.

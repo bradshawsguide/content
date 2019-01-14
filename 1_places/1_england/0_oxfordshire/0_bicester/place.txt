@@ -1,0 +1,19 @@
+section: 3
+----
+title: Bicester
+----
+info:
+- term: Population
+  desc: 2,798.
+- term: Hotels
+  desc: King's Arms; Crown.
+- term: Market Day
+  desc: Friday.
+- term: Fairs
+  desc: Friday in Easter week, Whit Monday, first Friday in June, August 5th October 10th and December 11th.
+- term: Bankers
+  desc: Tubb and Co.
+----
+notes:
+- Distance from station, ¼ mile.
+- A telegraph station.

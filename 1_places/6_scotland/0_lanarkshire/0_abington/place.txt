@@ -1,0 +1,19 @@
+section: 3
+----
+title: Abington
+----
+info:
+- term: Hotel
+  desc: Hunter's.
+- term: Money Order Office
+  desc: at Biggar, 18 miles.
+----
+notes:
+- A telegraph station at Symington, 9 miles.
+----
+text: We now begin to perceive a distinct stream of the Clyde, which shortly after issuing from its source, from the accession of many tributary burns, becomes at this point, a river of considerable size, and keeps gradually increasing --
+
+> Now sunk in shades, now "bright in open day,
+> Bright Clyde, in simple beauty, wends his way.
+
+This is the junction of the Clyde and Glengowner water. Some gold was found here in the time of James VI.

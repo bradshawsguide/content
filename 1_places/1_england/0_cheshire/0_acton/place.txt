@@ -1,0 +1,12 @@
+section: 3
+----
+title: Acton
+----
+info:
+- term: Population
+  desc: 484.
+- term: Money Order Office
+  desc: at Northwich, 4 miles.
+----
+notes:
+- Telegraph station at Hartford, 2¾ miles.

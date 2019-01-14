@@ -1,0 +1,14 @@
+section: 3
+----
+title: Port Carlisle
+----
+info:
+- term: Hotels
+  desc: Steam Packet, Ferry, Solway.
+- term: Monet Order Office
+  desc: at Carlisle, 12 miles.
+----
+notes:
+- Telegraph station at Carlisle, 12 miles.
+----
+text: From the isthmus between Carlisle and Newcastle, northwards the ground rises gradually, and at last forms a lofty range of mountains, which, beginning  at Cheviot on the east, runs across the island to Loch Ryan on the west, and forms the boundary between South and North Britain. On the north of these chains of hills the principal part of the lowlands of Scotland are situated, extending quite across the island, from sea to sea, and reaching as far as the Grampian mountains, that stupendous and seemingly impenetrable barrier, which like a mighty wall, stretches along the southern front of the Highlands.

@@ -1,0 +1,8 @@
+section: 3
+----
+title: Stanley
+----
+info:
+- A telegraph station.
+----
+text: Here a small spinning trade is carried on by the inhabitants. This place is 7¼ miles from Perth.

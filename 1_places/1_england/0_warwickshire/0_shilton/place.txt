@@ -1,0 +1,12 @@
+section: 3
+----
+title: Shilton
+----
+info:
+- term: Population
+  desc: 487.
+----
+notes:
+- A telegraph station.
+----
+text: Close at hand is *Anstey Hall*, H. Adams, Esq.

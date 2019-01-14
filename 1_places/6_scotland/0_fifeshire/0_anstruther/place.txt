@@ -1,0 +1,5 @@
+section: 3
+----
+title: Anstruther
+----
+text: A seaport town, in the district of St. Andrews, and from whence there is daily steam communication with Edinburgh.

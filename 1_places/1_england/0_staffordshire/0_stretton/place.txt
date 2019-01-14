@@ -1,0 +1,14 @@
+section: 3
+----
+title: Stretton
+----
+info:
+- term: Population
+  desc: "745."
+- term: Hotel
+  desc: White Horse.
+----
+notes:
+- Telegraph station at Shilton, 3¼ miles.
+----
+text: In the vicinity is *Newbold Revel*, seat of Sir G Skipwith, Bart.

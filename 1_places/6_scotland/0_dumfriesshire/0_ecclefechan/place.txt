@@ -1,0 +1,14 @@
+section: 3
+----
+title: Ecclefechan
+----
+info:
+- term: Hotel
+  desc: Bush.
+- term: Fairs
+  desc: Once a month.
+----
+notes:
+- Telegraph station at Lockerbie, 5½ miles.
+----
+text: The town of Ecclefechan is remarkable for nothing but its frequent and well-attended markets and fairs. From the station may be perceived a strong square keep or tower, the seat of General Matthew Sharpe, and known as *Hoddam Castle*, formerly a place of considerable importance as a border stronghold, and at present distinguished as one of the most delightful residences in Dumfriesshire. Opposite the castle, on a conspicuous mount, stands *Traillron*, known as the Tower of Repentance, and formerly used as a beacon. It is said that Sir Richard Steele, while residing near this place, saw a shepherd boy reading his Bible, and asked him what he learned from it? "The way to heaven," answered the boy. "And can you show it to me?" said Sir Richard, in banter. "You must go by that tower," replied the shepherd, and he pointed to the Tower of Repentance.

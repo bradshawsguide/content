@@ -1,0 +1,13 @@
+section: 3
+----
+title: Kidsgrove Junction
+----
+subtitle: (Harecastle)
+----
+info:
+- term: Money Order Office
+  desc: at Burslem, 3½ miles.
+----
+notes:
+- Distance from station, ½ mile.
+- A telegraph station.

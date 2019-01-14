@@ -1,0 +1,8 @@
+section: 3
+----
+title: New Galloway
+----
+notes:
+- A telegraph station.
+----
+text: Sitnate on the river Ken, which at this point widens very considerably, which circumstance, together with the bold and picturesque aspect of the scenery along its banks, render it a place of considerable  interest to the tourist.

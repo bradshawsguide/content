@@ -1,0 +1,16 @@
+section: 3
+----
+title: Newcastle-under-Lyme
+----
+info:
+- term: Hotel
+  desc: Castle.
+- term: Market Days
+  desc: Monday and Saturday.
+- term: Fairs
+  desc: Shrove Tuesday, Easter and Whit Mondays, July 14th, Monday after September 13th, first Monday in November.
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Newcastle-under-Lyme) or under-Lyne, population 12,938, who return two members, is on a little stream called the Lyne, at the head of the river Trent, and had a castle, built by Edmund, Earl of Lancaster, which has long disappeared. General Harrison, the fifth-monarchy leader, was born here. *Keel Hall*, near this, is an old Elizabethan seat of the Sneyds. *Butterton Hall* belongs to Sir W. Pilkington; formerly it was the seat of the Swinnertons, who gave name to *Swinnerton Park*, close by, the seat of T. Fitzherbert, Esq. The beautiful Mrs. Fitzherbert, whom it has lately been proved was *actually* married to George IV., was of this family.

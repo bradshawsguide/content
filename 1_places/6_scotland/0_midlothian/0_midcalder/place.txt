@@ -1,0 +1,15 @@
+section: 3
+----
+title: Midcalder
+----
+info:
+- term: Population
+  desc: 1,389.
+- term: Hotel
+  desc: Lemon Tree.
+----
+notes:
+- Distance from station, 1 mile.
+- Telegraph station at Carstairs, 7½ miles.
+----
+text: Close at hand is *Calder House*, seat of Lord Torphichen, in which is a fine portrait of Knox, who first administered the sacrament here after the Reformation. *Greenbank* was the native place of Archbishop Spottiswoode, the church historian.

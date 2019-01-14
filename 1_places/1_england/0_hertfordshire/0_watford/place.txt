@@ -1,0 +1,34 @@
+section: 3
+----
+title: Watford
+----
+info:
+- term: Population
+  desc: 4,385.
+- term: Hotel
+  desc: Essex Arms.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: March 31st, August 29th and 30th, September 9th.
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Watford) is a busy, thriving, and populous town, situated on the banks of the river Colne and consists of only one street, with minor ones diverging from it. It is deficient in points of picturesque or antiquarian interest, but here are several places of attraction in the neighbourhood, viz.—*Cashiobury Park*, the seat of the Earl of Essex, at whose instigation the tunnel at this place 1,725 yards long, was suggested to the Railway Company; and *Grove Park*, the residence of the Earl of Clarendon.
+
+(distances:)
+----
+distances:
+- location: Bushey Hall
+  miles: 1
+- location: Bury Park
+  miles: 3
+- location: Cashiobury Park
+  miles: 0¾
+- location: Grove Park
+  miles: 1
+- location: Orgem Hall
+  miles: 4¼
+- location: Oxley Hall
+  miles: 2

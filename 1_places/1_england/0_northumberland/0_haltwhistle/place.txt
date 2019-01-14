@@ -1,0 +1,16 @@
+section: 3
+----
+title: Haltwhistle
+----
+info:
+- term: Hotel
+  desc: Crown.
+- term: Market Day
+  desc: Thursday.
+- term: Fairs
+  desc: May 12th and 14th, and November 22nd.
+----
+notes:
+- A telegraph station.
+----
+text: This is a small market town, with a population of 1,749, employed in the mines and quarries. The church contains tombs of the Blenkinsops, of *Bilisten Castle* (opposite the town), and John, Bishop Ridley the martyr's brother. At *Castle Banks*, is a mound, and at *Whitchester*, a Roman camp. *Blenkinsop Hall*, seat of J. Coulson, Esq., and *Unthank Hall*, D. Dixon, Esq., are close at hand.

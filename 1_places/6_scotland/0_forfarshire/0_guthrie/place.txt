@@ -1,0 +1,14 @@
+section: 3
+----
+title: Guthrie
+----
+subtitle: (Arbroath Junction)
+----
+info:
+- term: Money Order Office
+  desc: at Brechin, 5 miles
+----
+notes:
+- Telegraph station at Forfar, 7 miles.
+----
+text: Here are a Roman Camp not far from tho station, and *Guthrie House*, seat of J. Guthrie, Esq.

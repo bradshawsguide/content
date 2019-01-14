@@ -1,0 +1,24 @@
+section: 3
+----
+title: Boxmoor
+----
+subtitle: Hemel Hempstead
+----
+info:
+- term: Hotel
+  desc: King's Arms.
+- term: Omnibuses
+  desc: to and from Hemel Hempstead.
+- term: Market Day
+  desc: Thursday, at Hemel Hempstead.
+- term: Fairs
+  desc: Holy Thursday, Thursday after Trinity Sunday, and 3rd Monday in September.
+- term: Money Order Office
+  desc: at Hemel Hempstead.
+- term: Bankers
+  desc: Bucks and Oxon Union, and London and County.
+----
+notes:
+- Telegraph station at Watford, 7 miles.
+----
+text: Travellers would infer that this station derives its name from a moor in the vicinity; but the moor is at some distance, and the scenery in the neighbourhood of the station is exceedingly pretty and fertile. On leaving the station the line passes over an embankment, and the country becomes very interesting. To the left is Rowdown Common, with the richly wooded hills behind it, and on the right the village of Two Waters. The country is also interspersed with pretty cottages, with the church of Hemel Hempstead among the distant hills. *Westbrook Park*, the Hon. Dudley Ryder's seat, is in the vicinity.

@@ -1,0 +1,5 @@
+section: 3, 4
+----
+title: Buxton
+----
+text: The station here is a very pretty one, and within a few yards of the celebrated baths.

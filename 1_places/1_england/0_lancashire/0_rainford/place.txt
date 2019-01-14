@@ -1,0 +1,17 @@
+section: 3
+----
+title: Rainford
+----
+subtitle: Junction for St. Helens'
+----
+info:
+- term: Population
+  desc: 2,784.
+- term: Hotel
+  desc: Railway.
+----
+notes:
+- Distance from station, 1 mile.
+- A telegraph station.
+----
+text: This place is situated in what was once a marshy spot, but now well drained. Its principal manufactures are tobacco pipes and crucibles. Scythe stones abound here.

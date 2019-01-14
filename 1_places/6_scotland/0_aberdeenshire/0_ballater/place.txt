@@ -1,0 +1,8 @@
+section: 3
+----
+title: Ballater
+----
+notes:
+- Telegraph station at Aberdeen, 7¾ miles.
+----
+text: This watering place, which is close to the Pannanich Springs, is the Tunbridge Wells and Keswick of Aberdeenshire, where people go to drink the waters and enjoy the walks and excursions among the neighbouring hills, from some of which (Craigendarroch in particular) there are extensive and beautiful views. The objects of interest in the district are the *Burn of the Vat*, a natural wall of perpendicular rock; *Lochnagar*, which commands a splendid prospect; the *Linn and Loch of Muich*, and the *Dhu Loch*; and lastly, *Mont Keen*.

@@ -1,0 +1,18 @@
+section: 3
+----
+title: Weedon
+----
+info:
+- term: Population
+  desc: 2,189.
+- term: Hotels
+  desc: Globe, Bull.
+- term: Omnibuses
+  desc: to Daventry, at 9:22 and 11:20 a.m.; 1:38, 6:25 and 9:11 p.m. daily.
+----
+notes:
+- A telegraph station.
+----
+text: This village is divided into Upper and Lower Weedon; the latter is bisected by the railway, and the former lies at a short distance on the left. The military depot is a magnificent establishment, and is capable of containing 240,000 stand of small arms. Four miles west of this station is the ancient town of Daventry.
+
+*Daventry*, near the Nene's Head, and noted for its shoe manufacture, is situated on a gentle eminence near the source of the rivers Avon and Nene. It formerly possessed a rich priory, which Henry VIII. gave to Wolsey, the ruins of which are still visible. From Borough Hill, in the vicinity, there is a delightful prospect of Naseby, Northampton, Weedon, and Coventry, and this beautiful landscape is rendered peculiarly picturesque by the remains of a Roman encampment and ramparts in the foreground.

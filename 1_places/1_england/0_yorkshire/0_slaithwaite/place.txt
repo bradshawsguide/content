@@ -1,0 +1,8 @@
+section: 3
+----
+title: Slaithwaite
+----
+notes:
+- Telegraph station at Huddersfield, 4¾ miles.
+----
+text: Here is an excellent mineral spring, similar to that at Harrogate, and a population of 2,932, engaged in the cotton and woollen trades.

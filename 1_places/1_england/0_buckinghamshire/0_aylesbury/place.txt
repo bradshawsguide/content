@@ -1,0 +1,34 @@
+section: 3
+----
+title: Aylesbury
+----
+info:
+- term: Population
+  desc: 26,090.
+- term: Hotels
+  desc: George, White Hart
+- term: Omnibuses
+  desc: to and from Prince's Risboro', daily.
+- term: Coaches
+  desc: to Thame, daily.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: January 18th, May 8th, June 14th, October 11th, on which occasion the farmers hire all their servants from year to year, September 25th, and Saturday before Palm Sunday.
+----
+notes:
+- A telegraph station.
+----
+text: The town of Aylesbury, for the accommodation of which this line was formed, is nine miles west of the main line, delightfully situated in a fertile vale, which affords pasturage to an extraordinary number of sheep. It derives its importance chiefly from its being the mart for the produce of the rich vale in which it is situate.
+
+It is an agricultural town and borough (returning two members), in Bucks. It stands on a low hill in the rich vale of Aylesbury, a loose tract of luxuriant grass land, in the centre of the county, worth £25 an acre. Chalk Hills bound it to the north and south. Drayton describes it as "Lusty, firm, and fat."
+
+Aylesbury was a Saxon manor, which William the Conqueror granted to one of his followers, on the tenure of finding straw for his bed, three eels, and three green geese. For many generations it belonged to the Packingtons, who had such hold on the town, that Dame Packington, in Elizabeth's time, by letter appointed "my trusty and well-beloved so-and-so to be my burgessors from said time;" promising to ratify and approve what they did at Westminster, as fully as if she were present there herself. In 1804 it was so notorious for bribery that the voting was extended to the whole hundred. Before this (in 1702) one Ashby brought an action against White, the returning officer, for refusing his vote. He obtained a verdict, which the Court of Queen's Bench reversed; but, upon appeal, the House of Lords finally decided in his favour. The Commons, in consequence of that, claimed the sole right of judging how members were to be elected, and declared Ashby guilty of a breach of privilege in appealing to any tribunal but theirs, and sent his attorney to Newgate. The case being taken up by the House of Lords, led to some violent proceedings on the part of the Commons, which were terminated only by a prorogation. A similar attempt was made by the Commons, in the case of Stockdale the printer, in 1832. At present the supremacy of the regular courts of law is established, and no assertion of privilege would be allowed to contravene public right.
+
+Like most old country towns, it is irregularly built. A small branch of the Thame runs through it to that river, which is 2 miles off. Here are the brick county hall, where the county members are nominated; lodgings for the judges in their circuit, lately built by E. Lamb; a town hall and market house, rebuilt on the site of an ancient pile, in the Grecian style, copied from the Temple of the Wihda at Athens, which was of eight sides, facing the principal points of the compass; and a well-endowed grammar school.
+
+The church (in a large churchyard) is a decorated English cross, with a low tower, overlooking the vale, and seen from most parts of it. There is a carved pulpit, and tombs of the Lees of Quarendon, an ancient seat, 2 miles north. The vicarage is on the site of a monastery to St Osyth, who was born here. She was martyred, and gives name to Size Lane, London.
+
+Lace and straw plait are made here; but another *manufacture* peculiar to the town is ducklings, which are forced for the Christmas market. The ducks are kept from laying till about October or November, when they are fed with abundance of stimulating; food, and hens employed to sit on the eggs. The young brood being hatched are nursed with great care, opposite a fire, and fetch 15s. or 20s. a couple at Christmas. As many as three quarters of a million ducks are sent to London from this part.
+
+Within a few miles are several seats. *Hartwell*, that of Dr. Lee, was, in the late war, the residence of Louis XYIII. and his family. *Wooton*, belonging to the Duke of Buckingham, has been in that family (the Grenville) since the Conquest. Weedon is the Duke of Marlborough's. *Lillies* was the seat of the late Lord Nugent (a Grenville). Further off, on the Banbury Road, is *Wootton Underwood* consecrated to the memory of Cowper, who lived here with his cousin, Lady Hesketh, near the Throckmorton's old seat. The poet's house is standing. It was while living here, at the close of his life, that he. produced his Homer (1791).

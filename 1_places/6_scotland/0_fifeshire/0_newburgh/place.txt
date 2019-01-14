@@ -1,0 +1,18 @@
+section: 3
+----
+title: Newburgh
+----
+info:
+- term: Hotel
+  desc: Mrs. Anderson's.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: 3rd Friday in June and 1st Tuesday in December.
+----
+notes:
+- Population, 2,281.
+- Distance from station ¼ mile.
+- Telegraph station at Perth, 10¾ miles.
+----
+text: Ships of 500 tons burthen can come up to this place Salmon abounds, and in the vicinity are the ruins of an abbey, Mugdrum and Macduff crosses.

@@ -1,0 +1,21 @@
+section: 3
+----
+title: Congleton
+----
+info:
+- term: Hotel
+  desc: Lion and Swan.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: Thursday before Shrovetide, May 12th, July 12th, and November 22nd.
+----
+notes:
+- Distance from station, ¾ mile.
+- A telegraph station.
+----
+text: A municipal borough and old town, with manufactures of silk and cotton. Population, 12,344. It is on the Dane, in the neighbourhood of the wild moorland country which borders Derbyshire and Staffordshire. Here may be seen several old timbered houses, large silk, cotton, and ribbon factories, town hall, and good grammar school In the vicinity are Eaton Hall, G. Antrobus, Esq., and *Somerford Park*, Sir C. Shakerley, Bart At *Biddulph* are the picturesque ruins of an Elizabethan house, destroyed in the civil wars. *Knypersley Hall*. Lime quarries are worked under the Mow Cop, a peak 1,091 feet high.
+
+The route from Congleton to Macclesfield is rich in natural beauties, and furnishes various objects worthy attention, amongst winch is a stupendous viaduct across the Dane valley.
+
+Cloud-End and Mow Cop are noble features in the landscape to the right, between Macclesfield and the Potteries. Cloud-End is a bold promontory seen to great advantage near the junction with the Churnet Valley line, at North Rode. It is the termination of the hilly range known as Biddulph Moor, remarkable as the site of the bride-stones, a series of immense blocks supposed to be the remains of a Druidical temple. It also makes a fine background in the view through the arches of the Dane and Congleton viaducts. Mow Cop, although not really so lofty as Cloud-End, presents a much more striking appearance to a distant observer.

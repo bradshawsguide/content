@@ -1,3 +1,92 @@
 section: 3
 ----
 title: Leamington
+----
+info:
+- term: Hotels
+  desc: The Regent, Clarendon, and Bath.
+- term: Bankers
+  desc: Leamington Priors and Warwickshire Banking Company; Warwick and Leamington Banking Company.
+- term: Races
+  desc: in March, September, and November.
+----
+notes:
+- London and North Western Railway, the Avenue station, centrally situated, and Great Western.
+- A telegraph station.
+----
+text: (smcp: Leamington Spa), which fifty years since was an obscure and humble village, is now, though still rural and picturesque, become a large and handsome town, containing 17,958 inhabitants, and is proverbial for being better paved, lighted, and regulated, than any other town of its size in the kingdom. The *Hotels* are princely, both as to size and comfort; and the *Shops* equal to those in the metropolis. It abounds also with elegant houses and detached villas, and the lodging houses for visitors are most convenient and well-arranged. Its extraordinary rise and present importance is attributable to its *Celebrated Water and Baths*, the curative properties of which are so fully established as to be annually resorted to by vast "numbers of invalids, besides a constant succession of fashionable visitors! Leamington possesses, among its numerous attractions, a splendid *Tennis Court and Racket Ground* attached to an elegant pile of buildings, forming the Club Rooms of the leading members of the Aristocracy of Warwickshire. It has two Newspapers, the *Advertiser* and the *Courier*, the former published on Thursday, and the latter on Saturday; a Literary and Scientific Institution, Public Libraries and News Rooms, on an unusually spirited scale. Assembly Rooms, Music Hall, Theatre Royal, Pump Rooms and Baths; and for the admirers of the noble game of *Cricket*, a ground kept by the two acknowledged best players in England. Both at Leamington and in the neighbourhood, the fashionable sport of *Archery* is much practised, there being clubs at Leamington and Wellesbourne, in addition to that connected with the renowned *Forest of Arden*. Leamington is remarkable for its salubrity; is situated in the midst of a finely wooded and romantic neighbourhood, is contiguous to Warwick Castle, the fine old town of *Warwick*, the magnificent ruins of *Kenilworth Castle*, the beautiful Park of *Stoneleigh Abbey*, *Guy's Cliff*, *Offchurch Bury*; the interesting town of *Stratford-upon-Avon*, renowned as the birth-place of the immortal *Shakspeare*; the City of *Coventry*, full of antiquities: and *Birmingham*, celebrated for its arts and manufactures. *Coombe Abbey*, *Wroxhall Abbey*, *Compton Verney*, *Compton Wynyates*; *Edgehill*, the scene of the great battle during the reign of Charles I.; *Charlecote*; *Hampton Lucy*; The *Jephson Gardens*, delightfully situate in the centre of Leamington, are easily accessible to visitors, and very attractive. During the summer season a first-rate band performs there daily; and Galas, Archery, and Horticultural Fetes are frequently held in them.
+
+The "*Arboretum and Pinetum*" established by John Hitchman, Esq., comprises upwards of eleven acres, formed for the exclusive cultivation and sale of plants, contains an extensive collection of Deciduous and choice Coniferous Trees and Rare Shrubs, Roses, Rhododendrons, &c. The far-famed *Warwickshire Hounds* hunt within an easy distance of the Spa, rendering the winter season at Leamington particularly gay. The *Hunting Season* commences about the middle of October, and the Warwickshire country is now hunted daily by the *North and South Warwickshire Packs*. A pack of Hounds is kept at the Leamington Kennels; and other arrangements are made particularly advantageous to gentlemen for this enjoyment. The *Leamington College* is established upon the principle of our public foundation schools, for the education of the sons of Noblemen and Gentlemen, and under the superintendence of distinguished masters. The railway communication by the Great Western and North Western Companies, each of which has a station in the town, brings Leamington within reach of visitors from every part of the kingdom; and it will be found on investigation, that whether for a permanent residence or for occasional resort, few places possess so many attractions as this highly favoured town.
+
+*Table of average contents, without decimal fractions, of an Imperial Pint of the Leamington Mineral Waters.*
+
+#### Salts in grains.
+
+| Sulphate of Soda | Chloride of Sodium | Chloride of Calcium | Chloride of Magnesium |
+| --- | --- | --- | --- |
+| 35. | 30. | 23. | 11. |
+
+Silica—Peroxide of Iron—Iodine.
+Bromide of Sodium—minute proportion
+
+#### Gases in cubic inches.
+
+Oxygen, Nitrogen—in minute quantities, Carbonic Acid, 3.
+
+(distances:)
+----
+distances:
+- location: Alveston
+  miles: "8"
+- location: Ashorne
+  miles: 4½
+- location: Asps
+  miles: "2"
+- location: Aston Cantlow
+  miles: "12"
+- location: Barford
+  miles: "4"
+- location: Blacklow Hill
+  miles: "4"
+- location: Charlecoto Park
+  miles: "9"
+- location: Compton Verney
+  miles: "10"
+- location: Clopton House
+  miles: "9"
+- location: Cubbington
+  miles: "3"
+- location: "Guy's Cliff"
+  miles: "3"
+- location: Hampton Lucy
+  miles: "9"
+- location: Lillington
+  miles: 1¾
+- location: Long Bridge
+  miles: "4"
+- location: Myton
+  miles: "1"
+- location: Newbold Pacey
+  miles: 5½
+- location: Oftchurch Bury
+  miles: "3"
+- location: Princethorpe Priory
+  miles: "7"
+- location: Radford
+  miles: "2"
+- location: Snitterfield
+  miles: 7½
+- location: Stoneleigh Abbey
+  miles: "4"
+- location: Stratford-on-Avon
+  miles: "10"
+- location: Ufton
+  miles: "4"
+- location: Wasperton
+  miles: "5"
+- location: Wellesbourne
+  miles: "6"
+- location: Whitnash
+  miles: 1½
+- location: Wroxhall Abbey
+  miles: "8"

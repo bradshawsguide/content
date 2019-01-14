@@ -1,0 +1,20 @@
+section: 3
+----
+title: Nuneaton
+----
+notes:
+- A telegraph station.
+----
+info:
+- term: Population
+  desc: 4,655.
+- term: Hotels
+  desc: Bull, and Newdegate Arms,
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: February 18th, May 14th, and October 31st.
+----
+text: Here are remains of a nunnery of Stephen's time, old Gothic church, grammar school, and ribbon manufactures.
+
+This station is stone fronted, and in architectural arrangements similar to that at. Tamworth, the platform being paved with red, black, and yellow tiles. Indeed, the general character of the stations is much the same, the only difference being that the first class stations are larger and more elaborate in outline than the smaller ones. The piquant Tudor or Elizabethan style is the same in all; and perhaps no style is so well adapted for buildings in which domestic requirements are to be studied. It likewise harmonises thoroughly with English scenery.

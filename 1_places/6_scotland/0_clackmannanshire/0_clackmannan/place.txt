@@ -1,0 +1,8 @@
+section: 3
+----
+title: Clackmannan
+----
+notes:
+- Telegraph station at Alloa, 2¼ miles.
+----
+text: Here is a school, at which M. Bruce the author of "Lochloven" was master. In the vicinity are *Clackmamnan House*, near which are Brace's old tower and church, rebuilt in the pointed style by Gillespie, belonging to the Earl of Zetland, Kennetpans and Kilbaggie distilleries, Devon iron works, and *Brucefield*, the seat of Lord Abercrombie. The county returns one member jointly with Kinross-shire.

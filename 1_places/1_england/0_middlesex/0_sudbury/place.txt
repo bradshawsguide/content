@@ -1,0 +1,12 @@
+section: 3
+----
+title: Sudbury
+----
+info:
+- term: Hotel
+  desc: Swan.
+- term: Money Order Office
+  desc: at Harrow.
+----
+notes:
+- Telegraph station at Harrow, 3¼ miles.

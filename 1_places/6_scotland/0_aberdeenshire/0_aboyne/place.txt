@@ -1,0 +1,8 @@
+section: 3
+----
+title: Aboyne
+----
+notes:
+- Telegraph station at Aberdeen, 7¾ miles.
+----
+text: The terminus of the railway, and beautifully situated at the confluence of the Tanar with the Dee, and surrounded with hills thickly covered with wood on every side. *Aboyne Castle*, the' seat of the Marquis of Huntly, is close at hand, surrounded by extensive forests ot natural pine and birch. The village of *Charleston* of Aboyne is a most delightful spot. Aboyne offers an excellent starting point for the tourist to visit the picturesque scenery extending between Babater, Braemar, and Balmoral.

@@ -1,0 +1,8 @@
+section: 3
+----
+title: Stanford Hall
+----
+notes:
+- Telegraph station at Welford, 4 miles.
+----
+text: Situated on the Avon, the seat of Baroness Braye, of the Cave family. About 4½ miles to the east is Naseby Hall, near to the place where Cromwell defeated Charles I. and Prince Rupert.

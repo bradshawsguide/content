@@ -1,0 +1,9 @@
+section: 3
+----
+title: Rudyard
+----
+notes:
+- Distance from station, ¼ mile.
+- Telegraph station at Leek, 2 miles.
+----
+text: This was the Saxon seat of the Rudyard family.

@@ -1,0 +1,20 @@
+section: 3
+----
+title: Dunfermline
+----
+info:
+- term: Hotels
+  desc: Royal; Commercial.
+- term: Market Day
+  desc: Tuesday.
+- term: Fairs
+  desc: Third Tuesdays in January, February March, April, June, July, September, October, and November.
+----
+notes:
+- A telegraph station.
+----
+text: This is a large burgh town, in the county of Fife with a population of 13,500, who are engaged in the diaper, damask, and fine linen manufactures, and contains three Churches, seven Chapels, Town House, in which is a shirt without scam, woven by Inglis; Guiklry, with a spire 132 feet high; Mechanics' Institute School of Design, libraries, market, mills, breweries, gas works, soap, tobacco, and candle, factories. Bridge over a glen, built by Chalmers of Pittencrief. *St. Leonard's Hospital* The church was rebuilt in 1820, and has a fine view over fourteen counties, from Ben Lomond to Loutra Hill; the nave of the old one still remains, in which lie buried Malcolm Canmore and his queen Margaret, whose shrine, in ruins, is shown. The bones of "The Bruce" were reburied under the pulpit in 1818. There are ruins of the Abbey and part of the wall of the palace which James the First's queen built, where Charles I. was born, and at which place he signed the covenant. Her bed is at Broomhall, and her cupboard at Pittencrief. It is built on an eminence, and has an irregular appearance, from its having been erected at various periods of time. The great object of attraction is its Abbey, part of which is now used as a Parish Church; the rest is in ruins, and convey but a faint picture of the former magnificence, of the edifice.
+
+Dunfermline has long been celebrated for different branches of weaving, but particularly that of table linen, which is said to be conducted more extensively here than in any other part of the United Kingdom.
+
+In the vicinity are *Broomhall*, seat of Lord Elgin; *Pittencrief*, J. Hunt, Esq.; *Pittirran*, Sir J. Halket, Bart; Leggie, Cavil, Pitbier, and *Craiglascar Hill*, with its Pictish Fort.

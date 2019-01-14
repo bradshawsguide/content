@@ -1,0 +1,13 @@
+section: 3
+----
+title: Dingwall
+----
+info:
+- term: Population
+  desc: 2,084.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: Third Wednesday in January; first Wednesday in February, *o.s.*; first Wednesday in June, September, and November; first Tuesday in July.
+----
+text: The county town of Ross, and a parliamentary borough, prettily situated about 5 miles to the south of Ben Wynnis and at the south west corner of the Cromarty Firth. This splendid estuary is 12 miles long, and 2 miles broad, and forms a magnificent harbour and place ot refuge for vesssls in stormy weather. The town carries on a trade with Edinburgh, and even London. It has a pillar, 57 feet high, erected to the memory of one of the Earls of Cromarty.

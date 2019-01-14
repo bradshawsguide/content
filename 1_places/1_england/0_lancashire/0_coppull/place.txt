@@ -1,0 +1,8 @@
+section: 3
+----
+title: Coppull
+----
+notes:
+- Telegraph station at Euxton, 3¾ miles.
+----
+text: This place derives its name from a copse close to it. Near is *Chisnall Hall*, which was the old seat of the Chisnalls; to the left is *Wrightington Hall*, an old mansion.

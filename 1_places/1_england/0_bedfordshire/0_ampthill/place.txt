@@ -1,0 +1,15 @@
+section: 3
+----
+title: Ampthill
+----
+info:
+- term: Population
+  desc: 2,011.
+----
+notes:
+- Telegraph station at Bedford, 5¾ miles.
+----
+text: *Ampthill Park*, Lord Holland's seat, 5¾ mile from the station, was the residence of Queen Catherine after her divorce from Henry VIII. The sentence was pronounced by Cranmer in Dunstable Church. There is an inscription to her memory by Horace Walpole, the point of winch is—
+
+> From Catherine's wrongs a nation's bliss was spread,
+> And Luther's light from Henry's lawless bed.

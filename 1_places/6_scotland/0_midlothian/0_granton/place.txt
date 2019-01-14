@@ -1,0 +1,16 @@
+section: 3
+----
+title: Granton
+----
+info:
+- term: Hotel
+  desc: Granton.
+- term: Steamers
+  desc: See "Bradshaw" for the month.
+- term: Money Order Office
+  desc: at Edinburgh, 3 miles
+----
+notes:
+- Telegraph station at Edinburgh, 3 miles.
+----
+text: Here is an excellent pier, 1,700 feet, built by Walker, and a floating railway across to Burntisland, erected by Napier.

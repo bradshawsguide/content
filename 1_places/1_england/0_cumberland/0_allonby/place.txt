@@ -1,0 +1,5 @@
+section: 3
+----
+title: Port Carlisle
+----
+text: This place, a few miles south of Silloth, is remarkable for its sea bathing qualifications, for which it is much frequented in the summer season. It also commands extensive views across the Solway into the counties of Dumfries and Kirkcudbright.

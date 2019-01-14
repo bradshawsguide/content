@@ -1,0 +1,5 @@
+section: 3
+----
+title: Brora
+----
+text: A fishing village five miles from Golspie, is noted for the fine angling which its river affords.

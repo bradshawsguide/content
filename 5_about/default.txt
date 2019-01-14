@@ -37,8 +37,7 @@ Hosted by [WebFaction](https://www.webfaction.com/?aid=42929).
 
 Published using [Kirby](https://getkirby.com/) and these supporting plugins:
   * [Geo](https://github.com/getkirby-plugins/geo-plugin) by [Bastian Allgeier](https://bastianallgeier.com)
-  * [kirbytextRaw](https://github.com/jbeyerstedt/kirby-plugin-kirbytextRaw) by [Jannik Beyerstedt](https://jannikbeyerstedt.de/)
-  * [Sitemap](https://github.com/jpangborn/kirby-sitemap) by [Joshua Pangborn](http://jpangborn.github.io)
+  * [Kirby3 xmlsitemap](https://github.com/omz13/kirby3-xmlsitemap) by [David Somers](https://omz13.com)
   * [Kirby-Typography](https://github.com/fabianmichael/kirby-typography) by [Fabian Michael](https://fabianmichael.de)
 
 *[BBC]: British Broadcasting Corporation

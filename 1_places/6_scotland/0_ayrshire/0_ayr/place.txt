@@ -1,0 +1,155 @@
+section: 3
+----
+title: Ayr
+----
+info:
+- term: Hotels
+  desc: King's Arms; The Ayr Arms; Commercial; Queen's.
+- term: Steamers
+  desc: to and from Campbelton, calling oft Kildonan and Clauchog Shore, South End of Arran; Girvan, and Stranraer, calling off Girvan and Ballintrae.
+- term: Market Days
+  desc: Tuesday and Friday.
+- term: Fairs
+  desc: Thursday and Friday before 2nd Wednesday in January; last Friday in April; Thursday and Friday before 2nd Monday in July; 2nd Thursday and Friday in October.
+----
+notes:
+- A telegraph station.
+----
+text: (smcp: Ayr), a port, parliamentary burgh (one member), and capital of *Ayrshire*, on the west coast of Scotland, at the mouth of the Ayr water, a picturesque stream, running between steep banks, from about 30 miles in the interior. Salmon and Water o' Ayr whetstones are produced by it. Population, 18,573. About 5,000 tons of shipping are registered at the port, which, has a pier harbour. Shoes, cotton and woollen goods, carpets, and nails, are the chief branches of manufacture.
+
+Its old church of Cromwell's day, is on the site of a friary. About a quarter of a mile from St. John's Church is the Fort. At the latter place Bruce held a parliament to confirm the succession of the crown. Bruce's ancestors were Earls of Carrick. The southern is the most hilly of the three districts into which this county is divided,
+
+> Where Bruce auce nil'd the martial ranks,
+> And shook his Carrick spear. -- (smcp: Burns).
+
+Ayr itself stands in the middle one, called Kyle, after Coyl or Coil, -- "Auld King Cole" of the old song.
+
+There was an older church of the 13th century, of which a tower is left at the fort which Cromwell built in his Scottish campaign. It stood close to William the Lion's castle. The county buildings are copied from the Temple of Isis at Rome.
+
+Close by is the new Gothic clock tower, 113 feet high, on the site of Wallace's tower (so called because the Scottish hero was imprisoned here); it supports a statue of Wallace, by Thorn.
+
+> We'll sin? auld Coila's plains and fells,
+> Her moors red brown wi' heather bells,
+> Her banks and braes, her dens and dells,
+> Where glorious Wallace
+> Aft bore the gree, as story tells,
+> Frae Southron billies.
+
+> At Wallace' name, what Scottish blood,
+> But boils up in a spring-tide flood !
+> Oft have our fearless father's strode
+> By Wallace' side,
+> Still pressing onward, red-wat shod,
+> Or glorious died. -- (smcp: Burns).
+
+Thus sings the Ayrshire Bard, whose name is identified with the town, and almost every part of his native county. The oldest of the "twa brigs" is a high, narrow, solid structure, on four arches, built in 1485, by two sisters, near the "Ducat Stream," a ford just above it. About 100 yards off is the new bridge, built by Adam, in 1788* which gave occasion to the *Brigs of Ayr*. In this humorous dialogue, the poet describes the river at the time of the floods. And from Glenbuck down to the Ratton quay, "auld Ayr is just one lengthened tumbling sea." Glenbuck is at its source.
+
+He refers again to the. "bonnie banks of Ayr," in what was meant to be his farewell song when leaving for Jamaica, "The gloomy night is gathering fast." About 2¼ miles out of Ayr, on the Maybole road, is Burns' Cottage, "the auld clay biggin'," in which be was born, in 1759. Further on is "Alloway's auld haunted Kirk," where he and his father, William Burness (this was how the family name was spelt), "the saint, father, and husband" of his *Cottar's Saturday Night*, are buried. It is a mere ruin, without a roof or rafters, the wood of which has been converted into snuff boxes, &c.; but the churchyard, which was walled round by Burns' father, is crowded with graves of the poet's admirers, who choose tins as their last resting place. Burns put a stone over his father's grave, but this has been gradually earned away, and is replaced by another. Through one of the windows of this kirk Tarn O 'Shanter saw the witches dancing to the sound of their master's bagpipe --
+
+> A winnock-bunker in the east,
+> There sat auld Nick in shape o' beast.
+
+This window seat remains, divided by a mullion. About a quarter of a mile north-west, is a solitary tree in the field --
+
+> by the cairn,
+> Whare hunters fand the murder'd bairn;
+
+and a little further, on a small branch of the Doon, --
+
+> the ford,
+> Where in the snaw the chapman smoor'd.
+
+Close to the Doon was a thorn (now gone) --
+
+> abune the well,
+> Where Mungo's mither hang'd hersel'.
+
+Then comes the "key-stane o' the brig," which Tam, on noble Maggie, made such strenuous efforts to cross, pursued by the hellish legion.
+
+This river is the subject of one of Burns' sweetest songs--" Ye banks and braes o' bonnie Doon." Close to the bridge, on a picturesque height above the road, commanding a view of these interesting localities, is Burns' *Monument*, a small circular dome, surmounted by a tripod and other ornaments, resting on nine open Corinthian pillars, and a spreading basement in which are deposited Burns' bust, by Park, his portrait, by Nasmyth, the Bible he gave to his Highland Mary, and other relics. The design was by Hamilton, and the first stone was laid by Sir A. Boswell (son of Dr. Johnson's biographer), in 1820, with an eloquent speech. In the grounds of this monument are the two celebrated statues of Tarn O'Shanter and Souter Johnnie, by Thorn, the self-taught sculptor. These immortal heroes of what Burns justly looked on as his "standard performance in the poetic line," were Douglas Graham, a farmer of Shanter, near Kirkoswald, and John Davidson, a shoemaker (souter), of the same place, where both are buried. The scene is fixed at Jean Kennedy's Inn. Burns wrote "*Tain O'Shanter*" for Grose (who first published it in his <cite>Antiquities of Scotland</cite>), in return for the Captain's sketch of Allow ay church.
+
+On the coast in this neighbourhood, is *Colzean* or *Gulzeen Castle*, the noble seat of the Marquis of Ailsa, and, about 3½ miles above Burns' monument, on the banks of the Doon, is *Cassilis Castle*, still more ancient, and a favourite haunt of the fairies, which suggested his Hallowe'en.
+
+> Upon that night when fames light
+> On Cassilis Downans dance.
+> * * *
+> Or for Colean the route is ta'en, &c.
+
+To the west, are the wild ruins of *Dunure Castle*, the fine seat of the same (Kennedy) family. Along the shore to the south stands *Culzeen Castle*; and further still stands Turnberry Castle. In a direct line Culzeen Castle will be nine, and *Turnberry Castle* twelve miles south-west from Burns' monument, at the latter of which Scott, in his *Lord of the Isles*, makes Bruce land from Arran by mistaking a signal, when his country was overrun by the English.
+
+About 10 miles south-west, out in the sea, opposite the mouth of "Girvan's fairy-haunted stream," is *Ailsa Craig*, a huge basalt rock, 1,100 feet high, and two miles round.
+
+> Duncan fleech'd and Duncan pray'd,
+> Ha, ha, the wooing o't;
+> Meg was deaf as AiUa Craig,
+> Ha, ha, the wooing o't.
+> Duncan sigh'd, baith out and in,
+> Grab his e'en baith bleart an' blin',
+> Spak o' lowptn' ower a linn;
+> Ha, ha the wooing o't.
+
+Christopher North said, he would give all he had written for that line, "Spak o' lowpin' ower a linn."
+
+About 6 miles east of Ayr, is *Coylton Kirk*, and *Mill Mannock*, a quiet spot on the banks of the Coyl, the scene of "The Soldier's Return." He was in an inn, at Brown-hill, when a poor worn-out soldier passed the window, and put this sweet song into his head. At Ochiltree, on the Lugar water, Cumnock Road, Willie Simpson, one of the poet's early friends, and a brother rhymer, was schoolmaster:—
+
+> Auld Coila now may fidge fu' fain,
+> She's gotten poets o' her ain,
+> Chiels wha their chanters winna hain,
+> But tune their lays,
+> Till echoes a' resound again
+> Her well-sung praise.
+> * * *
+> Th' Illissus, Tiber, Thames and Seine,
+> Glide sweet in monie a tunefu' line,
+> But Willie, set your fit to mine,
+> And cock your crest;
+> We'll gar our streams and burnies shine
+> Up wi' the best.
+
+In ascending the Ayr from the town, you pass
+*Auchincrvive*, a seat of the Oswalds, then *Stair Kirk* and *Barskimming Bridge*, where was the house of old Kemp, and the *Mill* which suggested his "Man was made to mourn." "*Catrine Lea*" Dugald Stewart's seat, near the Braes of Ballochmyle, where lie first met young Lord Daer, and *Sorn Castle*, are higher up. South of this is *Auchinleck House*, the Boswells' seat, with Reynolds' portrait of Johnson's biographer. The Doctor was here in 1773.
+
+> But could I like Montgornerie fight,
+> Or gab like Boswell,
+> There's some sark necks I wad draw tight,
+> And tie some hose well.
+
+Boswell as might be expected, was fond of shining at public meetings.
+
+A little north of Barskimming is *Mossgiel Farm*, in Mauchline (or Macklin) parish. His humble farm house remains, with only one window in it. Here, when ploughing in 1785, the little field mouse led him to write his beautiful lines to the "Wee, sleekit, cow rin tim'rous beastie."
+
+> I doubt na whyles, but thou may thieve;
+> What then, poor beastie thou maim live;
+> A daimen icker in a thrave
+> 'S a sma' request:
+> I'll get a blessin' wi' tlic lave,
+> And never miss't"
+
+Here, too, his equally beautiful *Mountain Daisy*, "Wee, modest crimson-tipped flower," and his noble *Cottar's Saturday Night* were written -- the latter for his friend Aikin, a surgeon of Ayr. Another production of this period was his lines to *James Smith*, "Dear Smith, the. slee'est, paukiest thief." It was in Smith's company that he dropped in one evening at Poosie Nansie's Inn, in the Cowgate, opposite the church, and witnessed something which suggested the *Jolly Beggars*. The church yard was the scene of his *Holy Fair*; and W. Fisher, a Mauchline farmer, was the hero of *Holy Willie's Prayer*. Near the Church is *Mauchline Castle*, originally part of a cell to Melrose Abbey, the seat" of another friend, Gavin Hamilton, the lawyer, and the poet's landlord. A new church has been built on the Moor; at the Green, is a stone, commemorating the death of five covenanters in 1615, by "Bloody Dumbarton, Douglas, and Dundee." At Morrison's, the carpenters' house, Burns wrote his spirited lines *To a Haggis* --
+
+> Fair fa' your honest sonsie face,
+> Great Chieftain o' the puddin' race!
+
+A haggis is a pudding exclusively Scotch, but considered of French origin. Its ingredients are oatmeal, suet, pepper, &c., and it is usually boiled in a sheep's stomach. Although a heavy, yet it is by no means a disagreeable dish.
+
+Going back to Ayr from Mauchline, you pass Tarbolton, whose learned schoolmaster was the hero of *Death and Dr. Hornbook*, and the Mill on the river Faile.
+
+> I was come round about the hill,
+> And toddlin' down on Willie's Mill
+> Setting my staff, &c.
+
+Willie, was William Muir, of Tarbolton. "Oh! rough, rude, ready-witted Rankine" had a farm at Adam Hill. Another resident was Anne Ronald, the Annie of *Rigs o' Barley*.
+
+*Coilsfield*, in this parish (so called because Coilus, the Pictish King was buried here) on the Faile, is the seat of the Montgomery (Earls of Eglinton), at which Mary Campbell, his immortal "Highland Mary," lived dairy woman: she was to have been married to Burns, but died in early life, and he never forgot her.
+
+> Ye banks and braes and streams around
+> The Castle o' Montgornerie,
+> Green be your woods, and fair your flowers
+> Your waters never drumhe!
+
+> There simmer first tmfauld her robes,
+> And there the langest tarry;
+> For there I took the Lost fareweel
+> O' my sweet Highland Mary.
+
+His exquisite lines to *Mary in Heaven*, "Thou lingering star, with lessening ray," were written at Mossgiel, on the anniversary of her death; and there can be no question that Mary was in his heart when he wrote *Ae' fond kiss*, which Sir Walter Scott says contains the "essence of a thousand love tales."

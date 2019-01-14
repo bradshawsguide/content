@@ -1,0 +1,16 @@
+section: 3
+----
+title: Kincardine
+----
+info:
+- term: Hotel
+  desc: Union.
+- term: Market Days
+  desc: Wednesday and Saturday.
+- term: Fairs
+  desc: Last Friday in July, *o.s.*. and Monday before Falkirk October fair.
+----
+notes:
+- Telegraph station at Alloa, 3½ miles.
+----
+text: Here is a good pier and a cross 18½ feet high. The trade consists of shipbuilding, weaving, and sail making, which employ a population of about 2,697. This county returns one member.

@@ -1,0 +1,16 @@
+section: 3
+----
+title: Kirkcaldy
+----
+info:
+- term: Hotel
+  desc: Railway.
+- term: Market Day
+  desc: Saturday.
+- term: Fairs
+  desc: Third Fridays in February, April, and July; first Friday in October.
+----
+notes:
+- A telegraph station.
+----
+text: This town has a population of 10,841, who return one member, and are engaged in the linen trade. It contains six chapels, Town House, erected in 1850, Prison, Custom House, Gas and Water Works, Savings' Bank, Market House, Newsroom, Mechanics' Institution, factories, breweries, rope and linen factories, foundries distilleries. Grammar School, founded by Philip of Edenshead, who bequeathed £70,000 in 1828; *Mason Lodge*, Gilt Box Fund for seamen, a tidal harbour, but narrow, with a fixed light, which can be seen about nine miles distant; *St. Bryce's Church*, with its old Norman portico; and *Port Brae Church*. Adam Smith was a native, in 1724. In the vicinity are *Bahwearel Tower*, *Ravenscraig Castle*, *Raith*, seat of Colonel Ferguson, M.P., *Dunniker*, Lady Oswald.

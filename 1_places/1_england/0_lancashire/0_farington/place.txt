@@ -1,0 +1,12 @@
+section: 3
+----
+title: Farington
+----
+info:
+- term: Population
+  desc: 1,791.
+----
+notes:
+- A telegraph station.
+----
+text: *Cuerden Hall*, the seat of R. Townley Parker, Esq.

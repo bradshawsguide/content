@@ -1,0 +1,17 @@
+section: 3
+----
+title: Saddleworth
+----
+info:
+- term: Hotel
+  desc: Commercial.
+- term: Money Order Office
+  desc: at Ashton-under-Lyne, 7¼ miles.
+----
+notes:
+- Distance from station, ¾ mile.
+- Telegraph station at Mossley, 3¼ miles.
+----
+text: This place, situated in the centre of a large woollen cotton district, has a population of 18,631, some of whom are stockingers.
+
+What the rugged character of the moorlands is may be well seen here. The town, at the foot of the rocks called Pots and Pans, is a little island of stone houses, in the hollow of some hills, which rise in an amphitheatre about them, and consists of two straggling streets of shops and cottages—the ground so abrupt and irregular, that the back door of one house, will be often on a level with the top storey of another. The high road, railway, canal, and river all run aide by side, within a few hundred yards of each other, in a deep valley surrounded by a labyrinth of hills; "the ridges forming a combination of perspective, which seem more like clouds than things of solid land." The country is thinly peopled; and every turn of the road shuts out the world here and there. Magnificent cotton mills, with the villas of their proprietors, are seen in all directions, the streams making a splendid water power, and clusters of grey stone cottages for the hands are scattered about, without breaking the loneliness and silence which prevail. (See "The great Saddle worth exhibition" in *Household Words.*) "The hills should be traversed when the heather is in full bloom."

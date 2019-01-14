@@ -1,0 +1,8 @@
+section: 3
+----
+title: Blaydon
+----
+notes:
+- A telegraph station.
+----
+text: Close at hand are a large colliery and *Arwell Park*, the handsome seat of Sir T. Clavering, Bart.

@@ -1,0 +1,8 @@
+section: 3
+----
+title: Cawdor
+----
+text: Here is *Cawdor Castle*, the seat of Lord Candor, built in 1400, on the site of that which belonged to Macbeth, "The Thane of Cawdor." There is a curious drawbridge and portcullis; and the Castle contains some fine old tapestry, secret passages, a vault under the tower, in which is an ancient tree, where "success to the hawthorn" (house of Cawdor) is drunk by the peasantry. King Duncan is reported to have been murdered here. The "*Burn*" of *Cawdor* is one of the most beautiful in Scotland; it is a miniature Rhine without the towns and vineyards, and is well worth a visit from those who can realise that
+
+> Many a grace is beaming
+> O'er the burn, the wishing brook.

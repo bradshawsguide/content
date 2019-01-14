@@ -1,0 +1,15 @@
+section: 3
+----
+title: Carluke
+----
+info:
+- term: Population
+  desc: 3,111.
+- term: Hotel
+  desc: Commercial.
+----
+notes:
+- Distance from station, ½ mile.
+- Telegraph station at Motherwell, 7¼ miles.
+----
+text: The line now passes through a district of country rich in mineral wealth—beautiful scenery—celebrated far and near as the Orchard of Scotland, and famous for its fine fruit. The growers clear very large sums by sending the produce of their orchards to Glasgow. On the left side of the railway, shortly after leaving the station, is *Milton*, a handsome building, in the Tudor style of architecture, situated on a fine peninsula, and skirted on three sides by the Clyde. Next appears the stately seat of *Mauldslee Castle*, belonging to the Hyndfords, and St. Oswald's chapel, a hermitage.

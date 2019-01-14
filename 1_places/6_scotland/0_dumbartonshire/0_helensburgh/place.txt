@@ -1,0 +1,12 @@
+section: 3
+----
+title: Helensburgh
+----
+info:
+- term: Hotels
+  desc: Queen's; Tontine.
+----
+notes:
+- A telegraph station.
+----
+text: This large and commodious watering place extends a considerable distance along the banks of the Clyde, at the mouth of the Gareloch, with Glenfruin extending behind. It was founded by Sir James Colquhoun, about 80 years ago, and is now become a place of growing importance.

@@ -1,0 +1,77 @@
+section: 3
+----
+title: Douglas
+----
+info:
+- term: Hotels
+  desc: Castle Mona; Fort Anne; Royal; Imperial.
+- term: Steam Packets
+  desc: to and from Liverpool, Silloth, Whitehaven, and Dublin. See <cite>Bradshaw's Railway Guide</cite>.
+----
+notes:
+- A telegraph station.
+----
+text: A pleasant bathing and fishing port, in front of a fine bay which it has been proposed to convert into a harbour of refuge. The best view is from the Castle Mona Hotel (*Mona* is the Manx name for man), which was the seat of the Duke of Atholl, whose rights over the island (through the Stanleys) were finally purchased by government in 1829 for nearly half a million. Prior to this, its chief prosperity arose out of the smuggling business. There is a landing pier 530 feet long, also 4 churches and 6 chapels in some of which the service is performed in Manx; news rooms, &c. One of the best buildings is the Court House. The Duf-glas or Blackwater runs through the town to the bay from the mountains behind.
+
+From Douglas the distances are as follows:–
+
+(distances: title: First Route)
+(distances: distances2 title: Second Route)
+(distances: distances3 title: Third Route)
+(distances: distances4 title: Fourth Route)
+----
+distances:
+- location: Douglas to Kirk Onchan
+  miles: 3
+- location: Douglas to Laxey
+  miles: 8
+- location: Douglas to Ballaglass
+  miles: 13
+- location: Douglas to Ramsey
+  miles: 17
+- location: Douglas to Kirk Bridge
+  miles: 17
+- location: Douglas to Ayre Point
+  miles: 27
+----
+distances2:
+- location: Ramsey to Sulby
+  miles: 4
+- location: Ramsey to Kirk Ballaugh
+  miles: 8
+- location: Ramsey to Bishop's Court
+  miles: 10
+- location: Ramsey to Kirk Michael
+  miles: 12
+- location: Ramsey to Tynwald Hill
+  miles: 21
+- location: Ramsey to Peel
+  miles: 24
+- location: Ramsey to South Barrule
+  miles: 28
+- location: Ramsey to Ballasalla
+  miles: 32
+- location: Ramsey to Castletown
+  miles: 35
+----
+distances3:
+- location: Douglas to Nunnery
+  miles: 1
+- location: Douglas to Kirk Marown
+  miles: 6
+- location: Douglas to Tynwld Hill
+  miles: 9
+- location: Douglas to Peel
+  miles: 13
+----
+distances4:
+- location: Douglas to Kirk Stanton
+  miles: 6
+- location: Douglas to Ballasalla
+  miles: 8
+- location: Douglas to Castletown
+  miles: 10
+- location: Douglas to Port le Murray
+  miles: 16
+- location: Douglas to Calf of Man
+  miles: 21

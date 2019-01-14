@@ -19,7 +19,7 @@ notes:
 ----
 desc: Worcester, the capital of Worcestershire, in a fine part of the Severn, is a parliamentary borough, and seat of a diocese, with a population of 31,227.
 ----
-text: <span class="smcp">Worcester</span>, the capital of Worcestershire, in a fine part of the Severn, is a parliamentary borough (two members), and seat of a diocese, with a population of 31,227.
+text: (smcp: Worcester), the capital of Worcestershire, in a fine part of the Severn, is a parliamentary borough (two members), and seat of a diocese, with a population of 31,227.
 
 One distinct branch of manufacture is glove making, to the amount of half-a-million pairs of leather and kid gloves annually, employing between one thousand and two thousand persons. Another is boots and shoes; and the third is fine porcelain china, which was established here about a century ago by Dr. Wall (the same who made the Malvern Waters known). Chamberlain and Grainger's are the two oldest.
 

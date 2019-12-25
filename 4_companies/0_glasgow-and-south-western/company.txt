@@ -1,0 +1,6 @@
+section: 3
+----
+title: Glasgow and South Western
+----
+links:
+- (wikipedia: Glasgow_and_South_Western_Railway)

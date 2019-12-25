@@ -1,0 +1,6 @@
+section: 3
+----
+title: Perth, Almond Valley, and Methven
+----
+links:
+- (wikipedia: Perth,_Almond_Valley_and_Methven_Railway)

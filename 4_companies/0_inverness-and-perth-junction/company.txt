@@ -1,0 +1,6 @@
+section: 3
+----
+title: Inverness and Perth Junction
+----
+links:
+- (wikipedia: Inverness_and_Perth_Junction_Railway)

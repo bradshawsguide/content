@@ -1,0 +1,6 @@
+section: 3
+----
+title: Banff, Portsoy, and Strathisla
+----
+links:
+- (wikipedia: Banff,_Portsoy_and_Strathisla_Railway)

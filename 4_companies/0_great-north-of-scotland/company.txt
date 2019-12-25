@@ -1,0 +1,6 @@
+section: 3
+----
+title: Great North of Scotland
+----
+links:
+- (wikipedia: Great_North_of_Scotland_Railway)

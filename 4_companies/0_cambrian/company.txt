@@ -1,4 +1,6 @@
-section: 2
+section:
+- 2
+- 3
 ----
 title: Cambrian Railways
 ----

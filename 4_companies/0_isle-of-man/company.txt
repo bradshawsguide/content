@@ -1,0 +1,6 @@
+section: 3
+----
+title: Isle of Man
+----
+links:
+- (wikipedia: Isle_of_Man_Railway)

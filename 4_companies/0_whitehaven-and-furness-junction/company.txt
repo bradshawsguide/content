@@ -1,0 +1,6 @@
+section: 3
+----
+title: Whitehaven & Furness Junction
+----
+links:
+- (wikipedia: Cumbrian_Coast_line#Whitehaven_and_Furness_Junction_Railway text: Whitehaven and Furness Junction Railway)

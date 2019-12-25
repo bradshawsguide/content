@@ -1,0 +1,6 @@
+section: 3
+----
+title: Castle Douglas and Dumfries
+----
+links:
+- (wikipedia: Castle_Douglas_and_Dumfries_Railway)

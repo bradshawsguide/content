@@ -1,0 +1,6 @@
+section: 3
+----
+title: Kinross-shire
+----
+links:
+- (wikipedia: Railways_of_Kinross#The_Kinross-shire_Railway text: The Kinross-shire Railway)

@@ -1,0 +1,6 @@
+section: 3
+----
+title: Lancashire and Yorkshire
+----
+links:
+- (wikipedia: Lancashire_and_Yorkshire_Railway)

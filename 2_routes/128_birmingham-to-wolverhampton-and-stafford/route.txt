@@ -1,0 +1,43 @@
+section: 3
+----
+title: Birmingham to Wolverhampton and Stafford
+----
+subtitle: *viá* Stour Valley
+----
+company: companies/london-and-north-western
+----
+stops:
+- birmingham-new-street
+- soho
+- smethwick
+- spon-lane
+- oldbury
+- albion
+- dudley-port-high-level
+- tipton
+- deepfields
+- ettingshall
+- monmore-green
+- wolverhampton
+----
+text: (place: england/warwickshire/edgbaston)
+
+[Soho](/stations/soho).
+
+(place: england/staffordshire/smethwick)
+
+(place: england/staffordshire/spon-lane)
+
+The next station on our route is that of
+
+(place: england/staffordshire/oldbury)
+
+We are then whirled on past the station of [Albion](/stations/albion) to
+
+(place: england/staffordshire/dudley-port)
+
+(place: england/staffordshire/tipton)
+
+[Deepfields](/stations/deepfields), [Ettingshall Road](/stations/ettingshall-road), and [Monmore Green](/stations/monmore-green) are next in succession. They have no particular interest. Leaving these, we soon arrive at
+
+(place: england/staffordshire/wolverhampton)

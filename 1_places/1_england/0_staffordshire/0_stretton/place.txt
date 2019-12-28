@@ -11,4 +11,6 @@ info:
 notes:
 - Telegraph station at Shilton, 3¼ miles.
 ----
+desc: In the vicinity is *Newbold Revel*, seat of Sir G Skipwith, Bart.
+----
 text: In the vicinity is *Newbold Revel*, seat of Sir G Skipwith, Bart.

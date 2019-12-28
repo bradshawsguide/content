@@ -14,4 +14,6 @@ notes:
 - Distance from station, 1¾ mile.
 - A telegraph station.
 ----
+desc: This is a pleasant market town, with a population of 3,645.
+----
 text: This is a pleasant market town, with a population of 3,645. Here is a fine church, lately rebuilt, except the old spire, which is 179 feet high; Free Grammar School, founded by Allen, the mathematician, in 1570, a native, and a curious six-arched stone bridge. Sir S. Degge, the antiquary, and Lord Gardner, the sailor, were natives. In the vicinity is Hollingbury House, the Mynor's old seat.

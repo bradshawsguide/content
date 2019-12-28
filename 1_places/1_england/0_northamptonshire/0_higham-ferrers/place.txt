@@ -16,4 +16,6 @@ notes:
 - Distance from station, 1 mile.
 - Telegraph station at Wellingborough, 4½ miles.
 ----
+desc: Boots and shoes are the staple employment here with lace making.
+----
 text: Boots and shoes are the staple employment here with lace making. It has a good church, and was the birth-place of Archbishop Chicheley, founder of All Soul's College, Oxford.

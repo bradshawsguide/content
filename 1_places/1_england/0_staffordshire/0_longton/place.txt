@@ -14,4 +14,6 @@ notes:
 - Distance from the station, 1 mile
 - A telegraph station.
 ----
+desc: In the vicinity are *Longton Hall*, seat of H. Wileman, Esq., and Edmsor, where there is a handsome new church.
+----
 text: In the vicinity are *Longton Hall*, seat of H. Wileman, Esq., and Edmsor, where there is a handsome new church.

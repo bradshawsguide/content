@@ -9,4 +9,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Close at hand is *Anstey Hall*, H. Adams, Esq.
+----
 text: Close at hand is *Anstey Hall*, H. Adams, Esq.

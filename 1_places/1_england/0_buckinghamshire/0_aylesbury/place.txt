@@ -19,6 +19,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: The town of Aylesbury is delightfully situated in a fertile vale, which affords pasturage to an extraordinary number of sheep.
+----
 text: The town of Aylesbury, for the accommodation of which this line was formed, is nine miles west of the main line, delightfully situated in a fertile vale, which affords pasturage to an extraordinary number of sheep. It derives its importance chiefly from its being the mart for the produce of the rich vale in which it is situate.
 
 It is an agricultural town and borough (returning two members), in Bucks. It stands on a low hill in the rich vale of Aylesbury, a loose tract of luxuriant grass land, in the centre of the county, worth £25 an acre. Chalk Hills bound it to the north and south. Drayton describes it as "Lusty, firm, and fat."

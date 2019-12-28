@@ -10,4 +10,6 @@ notes:
 - Distance from station, 1 mile.
 - Telegraph station at Coventry, 5½ miles.
 ----
+desc: The landscape improves somewhat here.
+----
 text: The landscape improves somewhat here, and we have, views of several fine seats, comprising *Mercote Hall*, *Packington Park*, and *Berkswell Hall*, Sir J. Wilmot, Bart. After crossing the Blythe, by a viaduct of noble proportions, the traveller will perceive on the left, a very old, and almost ruined bridge, with live arches, which, with a quaint windmill and rich surrounding country, form a pretty picture.

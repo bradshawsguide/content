@@ -16,4 +16,6 @@ notes:
 - Distance from station, 1 mile.
 - A telegraph station.
 ----
+desc: In the neighbourhood of this place are a number of medicinal springs, from which, probably, the name of the town has been given.
+----
 text: In the neighbourhood of this place are a number of medicinal springs, from which, probably, the name of the town has been given. Charles I. and Henrietta, his queen, encamped here a whole season, for the purpose of drinking its waters. It has a very pretty church. Boots, shoes, and lace form its staple trade.

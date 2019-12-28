@@ -13,6 +13,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Lichfield, a small cathedral town and parliamentary borough on the Trent Valley line.
+----
 text: (smcp: Lichfield), a small cathedral town and parliamentary borough (two members), on the Trent Valley line, where the Burton and Dudley intersects it, 116 miles from London. A branch of the Trent (which is 3 miles off) runs through. Population, 6,893. Famous for its ale.
 
 There is a tradition that at a spot called Christian Field, a great number of martyrs were put to death in the third century by the Romans (who had a station at *Etocetum*, close by); and hence the name of the town is derived, *lich* being Saxon for a dead boy, as we see to this day, in the old Lich-gate, near some churches.

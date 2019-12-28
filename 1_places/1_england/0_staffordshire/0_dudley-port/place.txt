@@ -9,4 +9,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This is a very busy station, forming as it does the junction of the various lines to Birmingham, Wolverhampton, Dudley, Worcester, Burton, and Derby.
+----
 text: This is a very busy station, forming as it does the junction of the various lines to Birmingham, Wolverhampton, Dudley, Worcester, Burton, and Derby. From the numerous trains passing and repassing great watchfulness is required, passengers generally having to change carriages when handed over from one Company to another.

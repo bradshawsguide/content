@@ -5,5 +5,3 @@ desc: English & Scotch Lake Districts, Ayr (the Land of Burns).
 label: Section 3
 ----
 text: Tours through the counties of Hertford, Buckingham, Northampton, Warwick, Stafford, Chester, Lancaster, York, Cumberland, Westmorland, Northumberland, Dumfries, Lanark, Ayr, and the Northern Counties of Scotland.
-
-*This section will be added soon.*

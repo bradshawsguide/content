@@ -12,4 +12,6 @@ notes:
 - Distance from station, 3 miles.
 - Telegraph station at Rugby, 6½ miles.
 ----
+desc: The village of Crick lies to the north of the station, and is a place of no importance.
+----
 text: The village of Crick lies to the north of the station, and is a place of no importance.

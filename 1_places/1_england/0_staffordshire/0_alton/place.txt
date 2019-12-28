@@ -11,4 +11,6 @@ info:
 - term: Money Order Office
   desc: at Cheadle, 4 miles.
 ----
+desc: The ruins of a castle of the De Verdons are situated on a rock 300 feet above the river, commanding a splendid prospect *Alton Towers*, the princely seat of the Earl of Shrewsbury and Talbot.
+----
 text: The ruins of a castle of the De Verdons are situated on a rock 300 feet above the river, commanding a splendid prospect *Alton Towers*, the princely seat of the Earl of Shrewsbury and Talbot, built in 1814, contains a magnificent hall, with armoury, 120 feet long, picture gallery, 150 feet, in which are a superb collection of pictures, &c. from Madame Bonaparte's selection; chapel, with stained windows by Pugin; state drawing room, with some of Queen Catherine's ornaments. In the beautiful gardens are the Choragic Temple (after that of Lysicrates), Chinese conservatory, an imitation Stonehenge, Jacob's ladder, Pagoda, 95 feet high, Harper's cottage, Gothic temple, from which the Wrekin can be seen, &c., &c. Near the old castle is *St. John's Hospital*, founded by the Talbot for a Warden and Fellows, with church, school, &c., all worth a visit.

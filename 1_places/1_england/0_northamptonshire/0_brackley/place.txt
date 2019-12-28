@@ -14,4 +14,6 @@ notes:
 - Distance from station, 5 mile.
 - A telegraph station.
 ----
+desc: This place has a population of 2,239: staple manufacture, lace and shoes.
+----
 text: This place has a population of 2,239: staple manufacture, lace and shoes. It is one of the oldest boroughs in the kingdom, and contains some relics of its former state. Brackley gives the title of viscount to the Earl of Ellesmere.

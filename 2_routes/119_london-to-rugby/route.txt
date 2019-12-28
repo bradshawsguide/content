@@ -1,0 +1,201 @@
+section: 3
+----
+title: London to Rugby
+----
+company: companies/london-and-north-western
+----
+stops:
+- euston-square
+- camden-town
+- kilburn
+- willesden
+- sudbury
+- harrow
+- pinner
+- bushey
+- [watford, rickmansworth]
+- [watford, bricket-wood, park-street, st-albans]
+- kings-langley
+- boxmoor
+- berkhamsted
+- tring
+- [cheddington, marston-gate, aylesbury]
+- [leighton-junction, dunstable]
+- bletchley
+- wolverton
+- roade
+- blisworth-junction
+- weedon
+- crick
+- rugby
+----
+text: ## London to Cheddington
+
+(place: england/middlesex/euston-square)
+
+Upon starting from the Euston Square station the train proceeds somewhat leisurely as far as Camden Town station, passing under arches, and between brick walls, above which may be seen at intervals, elegant villas and rows of houses, the inhabitants of which must be great admirers of the locomotive, with its shrieking whistle, to choose their residence in the immediate vicinity of this terminus.
+
+The train runs up an incline to
+
+(place: england/middlesex/camden)
+
+On quitting the Camden station, we leave Regent's Park and Hampstead on the left, and the beautiful grounds of Highgate on the right; thence we proceed past Chalk Farm, a spot once celebrated as the scene of repeated duels. Passing on, we enter the Primrose Hill tunnel--thence we are conveyed imder the Edgeware Road, and beneath a number of bridges, chiefly used for connecting private property severed by the line. Beyond this is the pretty village of
+
+[Kilburn](/stations/kilburn); and the open country, which now begins to appear on either hand, is sufficiently beautiful to interest the traveller. On the right is the spire of Hampstead church--to the left that of Notting Hill and we have scarcely time to admire their architecture before we are enclosed in the banks of a deep cutting, through which we proceed a few seconds, and then enter another tunnel called the Kensal Green Tunnel, the celebrated cemetery--the Pere la Chaise of London--being on the left side, which is worthy of a visit, from the number of eminent individuals who are entombed within its limits. The tombs of His Royal Highness the late Duke of Sussex, the Princess Sophia, Ducrow, and George Robins (the princes of horsemanship and auctioneering), are worth a visit. The cemetery approaches the railway, and extends over a part of the tunnel.
+
+The railway now enters a richly pastoral country, and as the beauties of nature have hitherto been veiled from us by a succession of tunnels and cuttings, we welcome the landscapes which are presented to our view, as we begin to experience the exciting affect of railway travelling.
+
+Passing through an open country, by an express or fast, train, where the eye can embrace an uninterrupted view--the steady, but swift motion of the train imparts a peculiarly pleasing sensation, which may be compared to the sense of enjoying the changing scenes of a constantly varying panorama, without being required to perform the least effort or labour to obtain it.
+
+The scenery now rapidly improves; passing Wormwood Scrubs on the left, we may notice the junction line of the North and South-Western Companies, curving towards the south. To the right appears some of the prettiest scenery in Middlesex; on the left is the rich foliage of Twyford Abbey--and before us expands the valley of the Brent.
+
+(place: england/middlesex/willesden)
+
+The line now proceeds through fertile meads, the river Brent winding gracefully through the vale, and crossing this by a viaduct, we pass Apperton and Sudbury, to the south or left, and reach the station at
+
+(place: england/middlesex/sudbury)
+
+Soon after leaving Sudbury we obtain a view of Harrow-on-the-Hill on the left, which, with its conspicuous church, becomes an interesting object in the landscape. The Harrow station is rather more than a mile from Harrow, lying in the vale below.
+
+(place: england/middlesex/harrow)
+
+Crossing the meadow from the station we reach the foot of the hill, and if we ascend the summit, the view will be found to deserve all the encomiums bestowed upon it. The hill, rising almost isolated from an extensive plain, with the church and school on one side, and the old churchyard sloping on the other, forms in itself a combination of objects inexpressibly attractive and picturesque; but when the eye ranges over the vast expanse, and the landscape is lit up with the gorgeous and glowing sunset of a summer's eve, the prospect becomes extremely fascinating. It commands a delightful view of the wide, rich valley through which the Thames stretches its sirtuous course; on the west it embraces a view of the fertile portions of Buckinghamshire and Berkshire; on the east London, with the dome of St. Paul's; and to the south the towers of Windsor castle and the sweeping undulations of the Surrey hills. Harrow school was founded by John Lyon in the reign of Queen Elizabeth, and is still considered one of the first in the kingdom. The church contains a monument to Dr. Drury, by Westmacott, on the north side of the nave, representing the schoolmaster seated, with two of his pupils studying beside him--the likenesses identifying them with the late Sir Robert Peel and Lord Byron, whose names have contributed to the interest attached to the locality. The poet in one of his letters describes the regard he had for a particular spot in the churchyard, where he used to sit for hours looking towards Windsor--
+
+> As reclining at eve on yon tombstone he lay
+> To catch, the last gleam of the sun's setting ray.
+
+Upon leaving Harrow station, we proceed over a slight ascent, passing Little Stanmore on the right--a small village, possessing an elegant little church, erected by the Chandos family. Great Stanmore is two miles distant, and is situated on an eminence, adorned with handsome seats and villas.
+
+After passing through a short cutting, the little village of Hatchend, which closely adjoins the railway on the right, appears pleasantly situated on the gentle slope of a hill. The bridge' beneath, which we are now carried over, connects Hatchend with the village of Pinner, which, with the trees scattered around it, and the rich foliage of Pinner Park, forms a landscape of very considerable beauty.
+
+(place: england/middlesex/pinner)
+
+We cross the Oxley ridge, which forms a part of a chain of hills, and constitutes the boundary of the two counties. From this elevated position we have an opportunity of admiring the appearance of Hertfordshire.
+
+To see the west side of Hertfordshire easily, an excursion tourist should get out at the Watford station.
+
+Proceeding onward we enter the valley of the Colne, which forms a pretty landscape, and shortly after reach the station at
+
+(place: england/hertfordshire/bushey)
+
+Just beyond Bushey, a handsome viaduct conducts us over the river Colne, and shortly after, we arrive at the Watford station, which is about a mile from the town.
+
+(place: england/hertfordshire/watford)
+
+(branch: start)
+  A short branch turns off to the left. A little distance from the junction the line passes through the town of Watford, continuing its course to the town of
+
+  [Rickmansworth](/stations/rickmansworth), situated in the South Western extremity of the County of Herts, on the Grand Junction Canal. A good deal of straw-plait is manufactured here.
+(branch: end)
+
+(branch: start)
+  ## Watford to St. Albans
+
+  A run of seven miles from Watford, passing [Bricket Wood](/stations/bricket-wood), and leaving the little village of [Park Street](/stations/park-street) a little to the right, brings us to the town of
+
+  (place: england/hertfordshire/st-albans)
+(branch: end)
+
+Upon leaving the station at Watford, the train passes beneath a bridge, and a short distance beyond we enter the Watford Tunnel, and, on emerging therefrom, we continue for some time through an excavation, and, on the prospect opening on the left, we see the village of Langley Bury, a short distance from which is *Grove Park*, the seat of the Earl of Clarendon; and beautifully situated on the distant rising ground is the ancient village of King's Langley, so much frequented by King John. The Grand Junction Canal here runs close to the line, on the south of the embankment, and while the traveller looks with a smile of compassion upon the rival route.
+
+Which, like a wounded snake, drags its slow length along, we arrive at the station of
+
+(place: england/hertfordshire/kings-langley)
+
+Proceeding onwards, the line crosses the King's Langley Viaduct, and thence by a bridge over the Grand Junction Canal, from which the prospect is extensive and beautiful. On the left is Moor Park, in the distance, and Primrose Green and King's Langley in the foreground. On the right, and near the line are Nash Mills, and a little further on a picturesque dingle, beyond which is *Gorhambury Park*, the seat of the Earl of Verulam. We thence pass through a short cutting, upon emerging from which, the village of Two Waters, and Corner Hall, surrounded with rich foliage, form a pleasing landscape.
+
+The line then enters a cutting nearly two miles long, on leaving which the train immediately arrives at the station at
+
+(place: england/hertfordshire/boxmoor)
+
+On leaving the station the line passes over an embankment, and the country becomes very interesting. To the left is Rowdown Common, with the richly wooded hills behind it, and on the right the village of Two Waters. The countiy is also interspersed with pretty cottages, with the church of Hemel Hempstead among the distant hills. *Westbrook Park*, the Hon. Dudley Ryder's seat, is in the vicinity.
+
+Crossing the Box Lane Viaduct, the line runs parallel for some distance by the side of the Grand Junction Canal, which forms another agreeable feature in the picturesque scenery of this beautiful valley. Upon crossing the canal it proceeds along an embankment, which affords a fine prospect. We pass various hamlets on each side, and then reach the village of Bourne End on the left, where the embankment terminates; thence we pass through a cutting, on emerging from which we pass under Haxter's End Bridge, where the right-hand bank of the cutting terminates. On reaching Bank Mill Bridge a landscape of very great beauty bursts upon our view, including a view of the tower of Berkhampstead Church, the town itself, and the ruins of its ancient castle. Thence the line proceeds through a cutting, along an embankment, and arrives at the station of
+
+(place: england/hertfordshire/berkhampstead)
+
+After leaving this station we observe the houses of the town extend by the side of the line for some distance; whilst White Hill appears in the contrary direction. The line proceeds along the embankment, thence through a cutting into Northchurch Tunnel; on emerging from which we find ourselves again on an embankment, with a charming prospect on each side. *Ashbridge Park*, the seat of the Lady Alford, lies on the right. Passing alternately by embankment and cutting, we reach Wigginton Bridge, and obtain a view of the Chiltern Hills, the name of which is so familiar to us in connection with retiring members of parliament.
+
+Tring Park is then seen to the left of the line, beautifully situated among hills, studded with trees, and containing a splendid mansion, built by Charles II., for the unfortunate Nell or Eleanor Gwynn, who caused that monarch to found Chelsea, and rebuild Greenwich Hospitals.
+
+(place: england/hertfordshire/tring)
+
+On leaving Tring station the line enters a deep cutting through the Chiltern Hills. This range of hills, once covered with woods, is part of a chain of hills extending from Norfolk (south-eastward) into Dorsetshire. They form at this point the northern basin of the Colne, and separate it from that part of Buckingham which is designated the vale.
+
+Upon issuing from this cutting a great extent ot country becomes visible on both sides of the line, which now passes from the county of Hertford into Buckinghamshire.
+
+(place: england/buckinghamshire/cheddington)
+
+(branch: start title: Aylesbury branch)
+  [Marston Gate](/stations/marston-gate) station.
+
+  (place: england/buckinghamshire/aylesbury)
+(branch: end)
+
+## Cheddington to Leighton Junction
+
+The line crosses Aylesbury Vale by an embankment, which is 25 feet in height, and affords an extensive view in every direction. Several pretty villages are scattered over the valley and slopes; and after crossing the Horton Viaduct, we catch a glimpse of the spire of Leighton Buzzard Church, and the country beyond, and shortly after of that town itself. We proceed by alternate embankment and cutting past several beautiful views, and then reach
+
+(place: england/bedfordshire/leighton-junction)
+
+(branch: start title: Dunstable Branch)
+  ## Leighton to Dunstable
+
+  A branch rail, six miles long, turns off on the right from Leighton Buzzard to Dunstable, in Bedfordshire.
+
+  (place: england/bedfordshire/dunstable)
+(branch: end)
+
+## Leighton to Bletchley Junction
+
+Upon leaving Leighton, the line passes over a level country for nearly fifteen miles, but has occasionally to go through a tunnel or cutting in its course. At this distance it makes a curve, and on reaching the open country Linslade Wood is seen on both sides, and Linslade Hall and Church to the right. A short distance beyond is the town of Great Brickhill, standing on one of the hills which lie to the right. In the same direction is Stoke Hammond; and on the left are Stewkley, Soulbury, and Liscombc Park. The church of Stewkley is one of the most enriched and perfect specimens of Norman architecture now existing. From this point the scenery improves, the hills are studded with trees, and the landscape is of a very pleasing character.
+
+The train next reaches
+
+(place: england/buckinghamshire/bletchley)
+
+From the Bletchley station branch rails turn off on the left to Winslow, Oxford, and Banbury, and on the right to Bedford, both of which lines we will here describe.
+
+(route: bletchley-to-bedford-and-cambridge)
+
+(route: bletchley-to-winslow-and-oxford)
+
+## Bletchley to Blisworth
+
+Upon leaving Bletchley we pass through a cutting, and cross the London road by an iron bridge, and proceeding onwards we arrive in view of the churches of Loughton and Shewston, the latter of which is a fair specimen of the Norman style of architecture. Near the line on the right is the village of Bradwell, and thence after a short cutting we reach the station at
+
+(place: england/buckinghamshire/wolverton)
+
+Proceeding onwards from Wolverton the train conveys us through a beautifully diversified country. First the lofty spire of Hanslope church is seen, then Bradwell Wharf, Linford, and Mill Mead, appear on the right, and the village of Wolverton on the left, shortly after which we arrive at the far-famed viaduct over the Ouse valley. This remarkable and beautiful structure consists of six arches of sixty feet span, in addition to six smaller ones placed in the abutments. The viaduct presents a noble and magnificent appearance to a person in the valley; and the view from the train in passing over it is exceedingly fine.
+
+After the termination of the Wolverton embankment, we pass through a short cutting, and then proceed along another embankment, through some finely wooded country, interspersed with hill, vale, and picturesque villages. The scenery on the left retains the same characteristic for miles. The country surrounding Stoney Stratford forms a fine rear view; and Stoke Park adds to the beauties ot the landscape.
+
+Immediately after coming within sight of these parks we cross the boundary line between Buckinghamshire and Northampton.
+
+The entrance of the line into the county is known by some pretty thatched cottages, which stand on each side of the line, and constitute the village of Ashton. Here the embankment, which has extended nearly a mile, and afforded so many delightful views of the siurounding country comes to a termination. After passing through three moderate cuttings we reach the station at
+
+(place: england/northamptonshire/roade)
+
+Immediately preceding our arrival at Blisworth Junction we perceive the pretty village of Blisworth, situate on the gentle sloping ground on the right.
+
+[Blisworth Junction](/stations/blisworth-junction), a telegraph station.
+
+(route: blisworth-to-northampton-and-peterborough)
+
+## Blisworth to Rugby
+
+Upon leaving this station the line proceeds alono an embankment, which terminates after we have crossed the Grand Junction Canal. We then pass the village of Gayton Wharf on the left; thence through a short cutting, we enter a wide extent of beautiful country, called the Valley of the Nene.
+
+Occasionally, but only in very clear weather, the town of Northampton can be discerned, about 5 miles distant to the right, and proceeding on along the western declivity of the valley, we pass several villages too numerous to mention. In crossing the Viaduct over the Harstone Brook, we obtain a view of the aqueduct by which the Grand Junction Canal is carried over the stream. Upon issuing from Stonehill tunnel, a short distance beyond, we are presented with a landscape of unusual beauty, the details of which are frequently shut out from view by the embankment of the canal, but on crossing the Viaduct over the Nene, we obtain a fine prospect of the village of Weedon, and reach the station of that name.
+
+(place: england/northamptonshire/weedon-bec)
+
+From Weedon the line traverses a long cutting, through the occasional openings in which the traveller will catch a glimpse of Brockhall Park and mansion, which has a fine appearance. Proceeding alternately along an embankment, or through a cutting, the most conspicuous object in view is Borough Hill, until we perceive on the right the small village of Watford, and shortly after reach
+
+(place: england/northamptonshire/crick)
+
+The canal passes through a tunnel here 1,524 yards in length, under the hills which stretch before us, and which is the boundary between the counties of Northampton and Warwick. They form also the separating ridge between the valley of the Avon, and that of the Ouse and Nene, and contain the sources of rivers which flow to different sidles of the island. In approaching them, we enter a cutting which gradually becomes deeper and deeper, and at length brings us to the Grand Kilsby Tunnel, on emerging from which we perceive a wooded but uninteresting country, the entrance to Warwickshire.
+
+Several villages are spread over the hills on the right, among which is Brownsover, the birth place of Lawrence Sheriff, founder of Rugby School, and shortly after we arrive at
+
+(place: england/warwickshire/rugby)

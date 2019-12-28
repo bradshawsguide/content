@@ -14,4 +14,6 @@ info:
 ----
 notes: A telegraph station.
 ----
+desc: This was the place where Charles I. fixed his head quarters immediately before the battle of Naseby.
+----
 text: This was the place where Charles I. fixed his head quarters immediately before the battle of Naseby. The tower is thought to be of Roman origin, having traces of a Roman Camp in the neighbourhood. Its principal trade is in carpets.

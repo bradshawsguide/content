@@ -15,6 +15,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Watford is a busy, thriving, and populous town, situated on the banks of the river Colne and consists of only one street, with minor ones diverging from it.
+----
 text: (smcp: Watford) is a busy, thriving, and populous town, situated on the banks of the river Colne and consists of only one street, with minor ones diverging from it. It is deficient in points of picturesque or antiquarian interest, but here are several places of attraction in the neighbourhood, viz.—*Cashiobury Park*, the seat of the Earl of Essex, at whose instigation the tunnel at this place 1,725 yards long, was suggested to the Railway Company; and *Grove Park*, the residence of the Earl of Clarendon.
 
 (distances:)

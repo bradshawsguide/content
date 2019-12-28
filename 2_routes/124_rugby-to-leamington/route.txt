@@ -1,0 +1,18 @@
+section: 3
+----
+title: Rugby to Leamington and Warwick
+----
+company: companies/london-and-north-western
+----
+stops:
+- rugby
+- birdingbury
+- marton
+- leamington
+- warwick
+----
+text: Without stopping at the stations of [Birdingbury](/stations/birdingbury) and [Marton](/stations/marton), we pass on to
+
+(place: england/warwickshire/leamington)
+
+(place: england/warwickshire/warwick)

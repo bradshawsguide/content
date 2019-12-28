@@ -34,7 +34,7 @@ stops:
 - bordesley
 - birmingham-snow-hill
 - hockley
-- soho
+- soho-and-winson-green
 - handsworth
 - west-bromwich
 - swan-village
@@ -123,7 +123,7 @@ About three miles beyond Culham, we come in sight of Bagley Wood, seen to the le
 
 (place: england/warwickshire/birmingham)
 
-[Hockley](/stations/hockley), [Soho](/stations/soho) (junction of the Stour Valley Line), [Handsworth](/stations/handsworth), [West Bromwich](/stations/west-bromwich), and [Swan Village](/stations/swan-village) stations.
+[Hockley](/stations/hockley), [Soho](/stations/soho-and-winson-green) (junction of the Stour Valley Line), [Handsworth](/stations/handsworth), [West Bromwich](/stations/west-bromwich), and [Swan Village](/stations/swan-village) stations.
 
 (place: england/staffordshire/wednesbury)
 

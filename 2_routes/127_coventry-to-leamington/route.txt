@@ -1,0 +1,19 @@
+section: 3
+----
+title: Coventry to Leamington
+----
+company: companies/london-and-north-western
+----
+stops:
+- coventry
+- kenilworth
+- leamington
+- warwick
+----
+text: (place: england/warwickshire/coventry)
+
+(place: england/warwickshire/kenilworth)
+
+(place: england/warwickshire/leamington)
+
+(place: england/warwickshire/warwick)

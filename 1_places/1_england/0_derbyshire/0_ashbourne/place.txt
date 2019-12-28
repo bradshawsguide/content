@@ -15,6 +15,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This pretty market town, noted for its cattle fairs, of 3,501 inhabitants, is in the beautiful valley of the Henmore, on the western border of Derbyshire, near Dovedale.
+----
 text: This pretty market town, noted for its cattle fairs, of 3,501 inhabitants, is in the beautiful valley of the Henmore, on the western border of Derbyshire, near Dovedale. *Viator*, in Walton's Angler, going down Spittal Hill to the Talbot, with his friendly guide of the angle, says "But what pretty river is this that runs under this stone bridge? Hath it a name?" *Piscator*: "Yes, it is called Henmore, (or Schoo Brook), and has in it both trout and grayling. But we are now come to the Talbot, what will you drink, sir, ale or wine?" *Viator*: "Nay, I am for the country liquor, Derbyshire ale, if you please; for a man should not, methinks, come from London to drink wine in the Peak." *Piscator*: "You are in the right; and yet, let me tell you, you may drink worse French wine in many taverns in London than they have sometimes at this house. What ho! bring us a flagon of your best ale. And now, sir, my service to you: a good health to the gentleman you know of, and you are welcome to the Peak." *Viator*: "I thank you sir."
 
 Though we are in the region of the Lower Peak, there is nothing like Peak scenery at Ashbourne, but its ale is still celebrated. Ashbourne Hall is the seat of Captain HoDand, R.N. (here Charles Stuart slept in 1745), to one of whose family there is a beautiful monument by Banks, in the fine early English church. The latter is a cross, with triple-lancet windows, built as far back as 1241, and contains a brass of the same age, with other monuments of the Cockaynes, &c.

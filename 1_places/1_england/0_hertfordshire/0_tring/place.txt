@@ -18,4 +18,6 @@ notes:
 - Distance from station, 1¾ mile.
 - A telegraph station.
 ----
+desc: At this station the railway reaches its greatest elevation, being 420 feet above the level of the sea, and 300 above that of Camden Town depot.
+----
 text: At this station the railway reaches its greatest elevation, being 420 feet above the level of the sea, and 300 above that of Camden Town depot. This elevation is attained by a series of gradients never exceeding 1 in 300. The town of Tring has a handsome church containing some good monuments, and a curious enriched font.

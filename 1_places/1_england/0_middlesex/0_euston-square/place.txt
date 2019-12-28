@@ -2,6 +2,8 @@ section: 3
 ----
 title: Euston Square
 ----
+desc: Passing under the magnificent Doric entrance, which forms so grand a feature of the metropolitan terminus of this line of railway, the huge pile of building at once arrests the eye.
+----
 text: Passing under the magnificent Doric entrance, which forms so grand a feature of the metropolitan terminus of this line of railway, the huge pile of building at once arrests the eye. It was designed by Philip Hardwick, Esq., and erected by Messrs. William Cubitt and Co., at a cost of about £50,000.
 
 The structure, of the interior, is of plain Roman style of architecture, and is 220 feet long by 168 feet in width. At the southern front there are five entrances. The outer doors lead into what is called the "outer vestibule," having a beautifully designed mosaic pavement, constructed of patent metallic lead, within a border of Craigleith stone. On the northern side of the "outer vestibule" are five other entrances, leading into the grand hall or vestibule; and this hall for size and grandeur is probably unique; in dimensions it is truly gigantic, being 125 feet in length, 61 feet in width, and 60 feet in height. At the northern end is a noble flight of steps, leading to a vestibule, in which are doors entering into the general meeting room, the board room, and the conference room, and the gallery which runs round the hall, thus giving facility of communication to an infinity of offices connected with the railway traffic.

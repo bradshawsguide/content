@@ -1,0 +1,60 @@
+section: 3
+----
+title: Rugby to Stafford
+----
+subtitle: via Trent Valley
+----
+company: companies/london-and-north-western
+----
+stops:
+- rugby
+- stretton
+- shilton
+- bulkington
+- nuneaton
+- atherstone
+- polesworth
+- tamworth
+- lichfield
+- armitage
+- rugeley
+- colwich
+- stafford
+----
+text: (place: england/warwickshire/rugby)
+
+From Rugby the line runs on an embankment, and crosses the river Avon on a viaduct, the arches of which are thirty feet span; it then passes over the Oxford canal, and through a very pretty country, crossing the north east section of the county of Warwick.
+
+(place: england/warwickshire/stretton)
+
+(place: england/warwickshire/shilton)
+
+(place: england/warwickshire/bulkington)
+
+(place: england/warwickshire/nuneaton)
+
+(place: england/warwickshire/atherstone)
+
+At Atherstone the line crosses the old coach road. *Atherstone Hall* is the seat of C. A. Bracebridge, Esq.
+
+The park contains some of the finest old oaks in England. *Merevale*, the fine seat of W. Dugdale, Esq. descendant of the antiquary.
+
+(place: england/warwickshire/polesworth)
+
+On nearing Tamworth the fine old church is a noble object in the view; and the country round being rather pretty the effect is greatly increased. In the vicinity is *Grendon Hall*, Sir T. Chetwynd, Bart. On approaching Tamworth we again enter the county of Stafford.
+
+(place: england/staffordshire/tamworth)
+
+As we approach Lichfield the magnificent and lofty spires of the Cathedral attract attention.
+
+(place: england/staffordshire/lichfield)
+
+(place: england/staffordshire/armitage)
+
+(place: england/staffordshire/rugeley)
+
+The old roadway passes under the line, which is on a lofty embankment. The station is of pleasing design, stone fronted, and has all the variety of outline so essential to the true spirit of the Tudor style of architecture. *Hagley Hall*, seat of Lady de la Zouche.
+
+(place: england/staffordshire/colwich)
+
+(place: england/staffordshire/stafford)

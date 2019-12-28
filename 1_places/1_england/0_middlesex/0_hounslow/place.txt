@@ -16,4 +16,6 @@ notes:
 - Distance from station, 1 mile.
 - A telegraph station.
 ----
+desc: The Powder Mills and the Cavalry Barracks are about a mile distant.
+----
 text: The Powder Mills and the Cavalry Barracks are about a mile distant.

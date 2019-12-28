@@ -16,6 +16,8 @@ notes:
 - Distance from the station, ¼ mile
 - Telegraph station at Bletchley, 1¼ mile.
 ----
+desc: Fenny Stratford is in a once fenny part of the Ouzel, on the Watling Street, or Roman way, which crosses the Ouse.
+----
 text: Fenny Stratford is in a once fenny part of the Ouzel, on the Watling Street, or Roman way, which crosses the Ouse, further on, at *Stony Stratford*, where Richard III. seized his poor little nephew, Edward V. Lace and plait are made at both places. The Ouse, as it sluggishly winds down to Newport Pagnell.
 
 > Now glitters in the sun, and now retires,

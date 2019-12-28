@@ -1,0 +1,46 @@
+section: 3
+----
+title: Bletchley to Wislow and Oxford
+----
+company: companies/london-and-north-western
+----
+stops:
+- bletchley
+- swanbourne
+- [winslow, buckingham, brackley, farthinghoe, banbury]
+- claydon
+- bicester
+- islip
+- oxford-road-halt
+----
+text: (place: england/buckinghamshire/swanbourne)
+
+(place: england/buckinghamshire/winslow)
+
+(branch: start title: Banbury Branch)
+  ## Winslow to Buckingham and Banbury
+
+  A distance of seven miles beyind the junction at Winslow brings us to the town of
+
+  (place: england/buckinghamshire/buckingham)
+
+  We now pass through a fiat country for about seven miles, watered by the river Ouse, over which the rails frequently cross. We then enter the county of Northampton, upon which the arrival of the train is announced at
+
+  (place: england/buckinghamshire/brackley)
+
+  We are now traversing the south western section of the fox-hunting county of Northampton, and, at the distance of 4f miles, arrive at the station of
+
+  [Farthinghoe](/stations/farthinghoe), in the vicinity of which the river Ouse takes its rise. Four miles further brings us to
+
+  (place: england/buckinghamshire/banbury)
+(branch: end)
+
+## Winslow to Oxford
+
+(place: england/buckinghamshire/claydon)
+
+(place: england/oxfordshire/bicester)
+
+(place: england/oxfordshire/islip)
+
+(place: england/oxfordshire/oxford)

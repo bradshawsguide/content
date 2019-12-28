@@ -10,4 +10,6 @@ notes:
 - Distance from station, ¼ mile.
 - Telegraph station at Birmingham, 1¼ mile.
 ----
+desc: Here are some fine Botanical Gardens.
+----
 text: Here are some fine Botanical Gardens.

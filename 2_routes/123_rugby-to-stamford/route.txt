@@ -1,0 +1,43 @@
+section: 3
+----
+title: Rugby to Stamford
+----
+company: companies/london-and-north-western
+----
+stops:
+- rugby
+- lilbourne
+- stanford-hall
+- welford
+- theddingworth
+- market-harborough
+- medbourne-bridge
+- rockingham
+- [seaton, uppingham]
+- south-luffenham
+- stamford
+- peterborough
+----
+text: (place: england/warwickshire/rugby)
+
+With one or two slight exceptions, this railway traverses very nearly the line of boundary dividing the counties of Leicester and Rutland from that of Northampton, taking in the whole breadth of the two former from south-west to north-east. The first station on the line is
+
+[Lilbourne](/stations/lilbourne), or the ancient Tripontiain, where Watling Street crossed the Avon.
+
+(place: england/leicestershire/stanford-hall)
+
+[Welford](/stations/welford) and [Theddingworth](/stations/theddingworth) stations.
+
+(place: england/leicestershire/market-harborough)
+
+[Medbourne Bridge](/stations/medbourne-bridge) station.
+
+(place: england/northamptonshire/rockingham)
+
+[Seaton](/stations/seaton), the station for the town of [Uppingham](/stations/uppingham).
+
+(place: england/rutland/south-luffenham)
+
+(place: england/lincolnshire/stamford)
+
+(place: england/northamptonshire/peterborough)

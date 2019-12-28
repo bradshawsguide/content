@@ -9,4 +9,6 @@ info:
 notes:
 - Telegraph station at Newport, 5¼ miles.
 ----
+desc: Here is a large Church; and close by, *Ranton Abbey*.
+----
 text: Here is a large Church; and close by, *Ranton Abbey*.

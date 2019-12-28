@@ -11,6 +11,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: This is the busy capital of the *Staffordshire Potteries*.
+----
 text: This is the busy capital of the *Staffordshire Potteries*, a district 9 miles long, including *Longton*, *Fenton*, *Hartley*, *Burslem*, *Etruria*, *Tunstall*, &c., which, with other places, are incorporated within the new borough, containing a population of 101,207, who return two members, nearly all employed in the manufacture of pottery, or the arts connected with it. Potters' clay (though of a coarse quality) and coal are both abundant; hence the peculiar advantages hitherto possessed by this spot. Stout low kilns, like the martello towers in Kent, are smoking about everywhere; each the centre of a pottery establishment, for which a "Bank" is the local name. Copeland's Bank, for instance, means Copeland's Works. At these, and at Minton's, are produced the most beautiful porcelain, rivalling the best made abroad; also the terracotta, tesselated tiles, &c., so extensively used in new churches, and the small figures, in imitation of marble statuary.
 
 At Stoke, the principal buildings are, a modern *Town Hall*, vast *Railway Station*, built in the Tudor style, at a cost of £150,000. The approaches are paved with Minton's tiles; new *Church*, in which are the tombs of Wedgwood and Spode, two eminent names in this locality. Wedgwood died in 1795, at Etruria, so called because of his successful imitation of the ancient vases under that name, now the seat of one of his family. At *Stoke*, or *Fenton Manor House*, Fenton, the poet, was born. Dr. Lightfoot the Hebraist, was a native. Hanley and Longton are both larger than Stoke. Peacock coal is quarried at the former, and at the latter much of the coarser sort of pottery is made.

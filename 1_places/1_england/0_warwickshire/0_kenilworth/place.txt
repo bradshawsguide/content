@@ -8,10 +8,10 @@ info:
 - term: Hotel
   desc: King's Arms.
 ----
-desc: A small town in the county of Warwick. It consists of one main street, nearly a mile in length, and is principally remarkable for the ruins of its once stately and magnificent castle.
-----
 notes:
 - Telegraph station at Leamington, 4½ miles.
+----
+desc: A small town in the county of Warwick. It consists of one main street, nearly a mile in length, and is principally remarkable for the ruins of its once stately and magnificent castle.
 ----
 text: (smcp: Kenilworth), a small town in the county of Warwick. It consists of one main street, nearly a mile in length, and is principally remarkable for the ruins of its once stately and magnificent castle.
 

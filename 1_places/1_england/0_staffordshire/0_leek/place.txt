@@ -16,4 +16,6 @@ notes:
 - Distance from station, ¾ mile.
 - A telegraph station.
 ----
+desc: A market town, population, 10,045, employed in the silk manufacture.
+----
 text: A market town, population, 10,045, employed in the silk manufacture. It contains an old early English church, with a broken Danish cross, 10 feet high; *Grammar School*, *Alms Houses*, and factories of silk and cotton. Parker, Lord Chancellor Macclesfield, was a native. In the vicinity is *Westwood Hall*, the seat of J Davenport, Esq.

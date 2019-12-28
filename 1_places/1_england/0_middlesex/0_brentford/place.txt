@@ -18,4 +18,6 @@ notes:
 - Distance from station ½ mile.
 - A telegraph station.
 ----
+desc: It is the county town, where members of Parliament are elected.
+----
 text: Brentford has a weekly market and two annual fairs. It is the county town, where members of Parliament are elected. Here, the Brent falls into the Thames. The town is a long straggling street.

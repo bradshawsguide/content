@@ -11,4 +11,6 @@ info:
 notes:
 - Telegraph station at Dudley Port, 1 mile.
 ----
+desc: Here are extensive chemical works.
+----
 text: Here are extensive chemical works.

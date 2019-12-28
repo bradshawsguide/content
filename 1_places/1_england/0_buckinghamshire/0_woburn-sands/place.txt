@@ -16,6 +16,8 @@ notes:
 - Distance from the station, 2 miles.
 - Telegraph station at Bletchley, 4¼ miles.
 ----
-text: (smcp: Woburn)—situated on a gentle eminence—is surrounded with plantations and evergreens, and consists of four broad streets, which intersect each other at right angles. In the centre of the town is a noble market house, erected by the Duke of Bedford, in the Tudor style of architecture. The church is covered with ivy, and has a remarkably beautiful appearance.
+desc: Woburn--situated on a gentle eminence--is surrounded with plantations and evergreens, and consists of four broad streets, which intersect each other at right angles.
+----
+text: (smcp: Woburn)--situated on a gentle eminence--is surrounded with plantations and evergreens, and consists of four broad streets, which intersect each other at right angles. In the centre of the town is a noble market house, erected by the Duke of Bedford, in the Tudor style of architecture. The church is covered with ivy, and has a remarkably beautiful appearance.
 
 In the immediate vicinity of the town is *Woburn Abbey*, the seat of the Duke of Bedford. It is a modern quadrangular building, handsome, but heavy. The west front has four Ionic columns, and the east four fluted Doric ones. The interior contains a large gallery of portraits, and a collection of Italian and Dutch paintings; and in the pleasure ground is a sculpture gallery formed by the present Duke which contains a group of the Graces, by Canova, which cost £3,000. The park is twelve miles in circuit, and contains a large herd of deer.

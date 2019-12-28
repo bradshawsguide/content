@@ -11,4 +11,6 @@ info:
 notes:
 - Telegraph station at Hanley, 1¼ mile.
 ----
+desc: Here the celebrated Wedgwood built his beautiful mansion, and erected the spacious manufactory of earthenware now carried on by one of his grandsons, in conjunction with a partner.
+----
 text: Etruria, almost classic ground, is on the east side of the pottery valley. Here the celebrated Wedgwood built his beautiful mansion, and erected the spacious manufactory of earthenware now carried on by one of his grandsons, in conjunction with a partner. Here, too, Flaxman modelled some of his finest forms, to be reproduced in almost pristine beauty by the potter's art The park, and nearly the whole estate, except the manufactory and the village, a long street of workmen's cottages, have within these few years been sold to the Duchy of Lancaster, whose coal and iron works threaten at no distant period utterly to destroy the waning beauty of the place.

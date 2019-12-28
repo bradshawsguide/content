@@ -11,4 +11,6 @@ info:
 notes:
 - Telegraph station at Spon Lane, ½ mile.
 ----
+desc: Close at hand is the Summit IronBridge, over the Canal, of 150 feet span.
+----
 text: Close at hand is the Summit IronBridge, over the Canal, of 150 feet span.

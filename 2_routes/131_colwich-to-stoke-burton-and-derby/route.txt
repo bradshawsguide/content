@@ -1,0 +1,79 @@
+section: 3
+----
+title: Colwich to Stoke, Burton, and Derby
+----
+company: companies/north-staffordshire
+----
+stops:
+- colwich
+- hixon
+- weston
+- sandon
+- [stone, norton-bridge]
+- barlaston
+- trentham
+- [stoke, ford-green, black-bull, gillow-heath, congleton]
+- [stoke, newcastle-under-lyme, silverdale-staffs]
+- fenton
+- longton
+- blythe-bridge
+- cresswell
+- leigh-staffs
+- uttoxeter-junction
+- marchington
+- sudbury-staffs
+- tutbury
+- egginton
+- derby
+----
+text: ## Colwich to Stoke
+
+(place: england/staffordshire/colwich)
+
+From Colwich to Stoke the line passes through a country of singular beauty, having almost the appearance of one continued park, and affording the traveller, amidst varied and lovely scenery, views of *Shugborough Hall* (a seat of the Earl of Lichfield), *Sandon Hall* (the Earl of Harrowby’s), *Ingestre* (Earl of Shrewsbury and Talbot’s), and many other objects of interest.
+
+Passing [Weston](/stations/weston), [Hixon](/stations/hixon), and [Sandon](/stations/sandon) stations, we arrive at
+
+(place: england/staffordshire/stone)
+
+Junction of the line to [Norton Bridge](/stations/norton-bridge).
+
+From Stone to the Potteries the scenery is scarcely less beautiful, including a view of the woods, &c., of *Trentham* (one of the seats of the Duke of Sutherland); *Meaford Hall* (Viscount St. Vincent’s), &c.
+
+The line then passes within a near view of the various and very populous series of towns, known as the “Staffordshire Potteries.”
+
+Passing [Barlaston](/stations/barlaston), we arrive at
+
+(place: england/staffordshire/trentham)
+
+(place: england/staffordshire/stoke)
+
+Taking Stoke-upon-Trent as the centre, the North Staffordshire lines radiate in almost every direction; the main line from Colwich to Macclesfield going direct through the Potteries; the Derby and Crewe line, commencing at Crewe, falls into the Macclesfield and Colwich line at Harecastle. After traversing the Pottery Valley, it branches eastward from Stoke-upon-Trent, and falls into the Midland (Birmingham and Derby) at Burton-upon-Trent, where it unites with the South Staffordshire, Leicester, and Swannington lines. The Churnet Valley line leaves the Macclesfield and Colwich line at North Rode, about five miles south of the former place, and passing for about 27 miles through one of the loveliest vallies in England, unites with the Derby and Crewe line at Uttoxeter.
+
+(branch: start)
+In addition to the direct Pottery line, there is the Biddulph Branch from Stoke, through [Ford Green](/stations/ford-green), [Black Bull](/stations/black-bull), and [Gillow Heath](/stations/gillow-heath), to Congleton.
+(branch: end)
+
+(route: stoke-to-macclesfield)
+
+## Stoke to Burton and Derby
+
+Leaving Stoke, we soon pass the station at [Fenton](/stations/fenton), only used for local traffic between Longton and Hanley, and come to
+
+(place: england/staffordshire/longton)
+
+Then passing [Blythe Bridge](/stations/blythe-bridge), [Cresswell](/stations/cresswell), and [Leigh](/stations/leigh-staffs) stations, we arrive at
+
+(place: england/staffordshire/uttoxeter-junction)
+
+[Marchington](/stations/marchington) station.
+
+(place: england/staffordshire/sudbury)
+
+(place: england/staffordshire/tutbury)
+
+(place: england/staffordshire/burton-on-trent)
+
+(place: england/derbyshire/egginton)
+
+(place: england/derbyshire/derby)

@@ -15,6 +15,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: Dunstable is situated at the foot of the Chiltern hills. The principal attraction of this town was its ancient priory church, and the celebrity of its inns.
+----
 text: (smcp: Dunstable) is situated at the foot of the Chiltern hills. The principal attraction of this town was its ancient priory church, and the celebrity of its inns. It is noted for straw-plait manufacture. Many of the houses have an antiquated appearance, and the streets, which are four in number, take the direction of the four cardinal points, intersecting each other at right angles.
 
 The town lies among chalk hills, on the site of a Roman station or Watling Street. It has a large priory church, partly Norman.

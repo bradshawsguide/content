@@ -13,4 +13,6 @@ info:
 notes:
 - Telegraph station at Kilburn, 3 miles.
 ----
+desc: The grave of the celebrated Jack Sheppard and his mother will be found in the churchyard at this place.
+----
 text: The grave of the celebrated Jack Sheppard and his mother will be found in the churchyard at this place.

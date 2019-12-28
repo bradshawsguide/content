@@ -19,6 +19,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: The elevated position of this station commands a delightful view of the valley on the left, in the bosom of which lies the town of Great Berkhampstead.
+----
 text: The elevated position of this station commands a delightful view of the valley on the left, in the bosom of which lies the town of Great Berkhampstead, where the author of the "Task," the poet Cowper, was born, in 1731, and whose father was rector of this town. The church is cruciform, and as old as the cross. The beauties of the vale excite general admiration, and one cannot avoid remarking how singularly happy "Nature" or the "Muses" are in selecting the birthplaces of her favourite minstrels. What lovelier spot could be chosen to prompt the first accents of poetry than the groves and meads of this lovely valley. What could be more inspiring to the great bard than the scenery around Stratford-on-Avon; or where could a spot be found more adapted to inspire the muse of the Scottish minstrel, Burns, than the banks of the Doon?
 
 Berkhampstead Castle, in ruins, was built soon after the Conquest, by Robert Montaigne.

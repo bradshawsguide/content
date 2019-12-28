@@ -1,0 +1,42 @@
+section: 3
+----
+title: Bletchley to Bedford and Cambridge
+----
+company: companies/london-and-north-western
+----
+stops:
+- bletchley
+- fenny-stratford
+- woburn-sands
+- ridgemont
+- lidington
+- ampthill
+- bedford
+- blunham
+- sandy
+- gamlingay
+- old-north-road
+- lords-bridge
+- cambridge
+----
+text: The first station on this Branch being partly in the parish of Bletchley is quickly announed.
+
+(place: england/buckinghamshire/fenny-stratford)
+
+(place: england/buckinghamshire/woburn-sands)
+
+Immediately after leaving this station we take our leave of the county of Bucks, and enter that of Bedford.
+
+[Ridgemont](/stations/ridgemont) and [Lidlington](/stations/lidlington) stations.
+
+(place: england/bedfordshire/ampthill)
+
+(place: england/bedfordshire/bedford)
+
+[Blunham](/stations/blunham) station.
+
+(place: england/bedfordshire/sandy)
+
+Passing the stations of [Gamlingay](/stations/gamlingay), [Old North Road](/stations/old-north-road), and [Lord's Bridge](/stations/lords-bridge), we very soon cross the River Cam, when the arrival of the train is announced at
+
+(place: england/cambridgeshire/cambridge)

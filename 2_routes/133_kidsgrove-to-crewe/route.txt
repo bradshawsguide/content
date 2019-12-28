@@ -1,0 +1,19 @@
+section: 3
+----
+title: Kidsgrove to Crewe
+----
+subtitle: Crewe Branch
+----
+company: companies/north-staffordshire
+----
+stops:
+- kidsgrove-junction
+- alsager
+- radway-green
+- crewe
+----
+text: (place: england/staffordshire/kidsgrove-junction)
+
+This is a short line from Kidsgrove to Crewe, about 9 miles, for the convenience of the salt district of Cheshire, communicating with the line from Crewe to Burton, and so on to the eastern coast. It also opens out a valuable connection with Liverpool and the midland districts. Leaving this ancient seat of the earthenware manufacture — a district now also vicing with the southern part of the county in certain branches of the iron trade — the train enters the Harecastle tunnel, by Telford (1¾ mile), passing through a hill previously perforated by two tunnels of the Trent and Mersey canal, emerging therefrom on the confines of Cheshire. The branch itself affords no extraordinary or interesting feature. The stations are [Alsager](/stations/alsager) and [Radway Green](/stations/radway-green).
+
+(place: england/cheshire/crewe)

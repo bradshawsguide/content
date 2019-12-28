@@ -17,6 +17,8 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: The agricultural capital of Bedfordshire, 16 miles from Bletchley, at the terminus of a branch from the North Western line.
+----
 text: The agricultural capital of *Bedfordshire*, 16 miles from Bletchley, at the terminus of a branch from the North Western line. The sedgy Ouse rims through the town, which takes its name from a *ford* guarded by a castle of the Beauchamps, when William the Conqueror gained military possession of the country. A good stone bridge now crosses it.
 
 Population, 13,413. Two members returned to parliament. Pillow lace, shoes, and straw plait are made. St. Paul's is the most remarkable of its six Gothic churches, and contains the effigy of a Beauchamp, and a monument to Lord Mayor Harpur, who was born here, and the founder of an extensive charity, to which is attached the celebrated Bedford Schools, open to all inhabitants of the town, well conducted, and amply endowed for boys and girls, and 70 or 80 alms-houses, besides distributing apprentice fees, and marriage portions, and now possessing a revenue of £2,000 per annum from land in Holborn and his native town. Being open to all it has the effect of drawing many families to the town.

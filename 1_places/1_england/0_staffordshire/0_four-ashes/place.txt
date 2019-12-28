@@ -9,4 +9,6 @@ info:
 notes:
 - Telegraph station at Wolverhampton, 6¼ miles.
 ----
+desc: To the left is Somerford Hall, and beyond *Brewood*, with its beautiful *Church* and *Grammar School*. *Chillington Park* and *Hilton Hall* are likewise in the vicinity.
+----
 text: To the left is Somerford Hall, and beyond *Brewood*, with its beautiful *Church* and *Grammar School*. *Chillington Park* and *Hilton Hall* are likewise in the vicinity.

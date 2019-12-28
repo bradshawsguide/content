@@ -15,4 +15,6 @@ info:
 notes:
 - Telegraph station at Rugeley, 3 miles.
 ----
+desc: Colwich is a pretty village, with a population of about 1,600.
+----
 text: (smcp: Colwich) is a pretty village, with a population of about 1,600. The station is situated near the church, and adjoining a beautifully wooded estate belonging to the Earl of Lichfield, at whose seat the celebrated Lord Anson, circumnavigator of the globe, was born. He was also buried here, in close contiguity to the splendid residence of his descendants.

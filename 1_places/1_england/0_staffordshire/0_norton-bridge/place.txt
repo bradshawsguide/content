@@ -12,4 +12,6 @@ notes:
 - A telegraph station.
 - Distance from station, ¾ mile.
 ----
+desc: In the vicinity is *Eccleshall*, the seat of the Bishops of Lichfield since the 13th century.
+----
 text: In the vicinity is *Eccleshall*, the seat of the Bishops of Lichfield since the 13th century. In the church, Margaret of Anjou sought refuge after her flight from Blore Heath, in 1459.

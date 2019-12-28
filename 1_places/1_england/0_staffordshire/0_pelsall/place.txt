@@ -9,4 +9,6 @@ info:
 notes:
 - Telegraph station at Walsall, 3¼ miles.
 ----
+desc: This is a celebrated mining place, with a population of 1,892.
+----
 text: This is a celebrated mining place, with a population of 1,892.

@@ -15,6 +15,8 @@ info:
 Notes:
 - A telegraph station.
 ----
+desc: Here is a fine cruciform church, Market House, on pillars, *Devereux's Grammar School*, and the *Three Tuns Inn*, where Richmond remained the night previous to the Battle of Bosworth Field, 1485.
+----
 text: Here is a fine cruciform church, Market House, on pillars, *Devereux's Grammar School*, and the *Three Tuns Inn*, where Richmond remained the night previous to the Battle of Bosworth Field, 1485.
 
 At Atherstone the line crosses the old coach road *Atherstone Hall* is the seat of C. A. Bracebridge, Esq. The park contains some of the finest old oaks in England. *Merevale*, the line seat of W. Dugdale, Esq., descendant of the antiquary.

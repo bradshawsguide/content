@@ -13,4 +13,6 @@ info:
 notes:
 - Telegraph station at Norton Bridge, 8½ miles.
 ----
+desc: This station is situated in a deep cutting of sand stone, in the midst, of a wild heath, with hills and woods, and forest scenery.
+----
 text: This station is situated in a deep cutting of sand stone, in the midst, of a wild heath, with hills and woods, and forest scenery. The village of Whitmore, to the east of the line, is a pleasant place, situated in a beautiful valley, and near at hand is *Whitmore Hall*.

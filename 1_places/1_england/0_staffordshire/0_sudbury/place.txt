@@ -13,4 +13,6 @@ info:
 notes:
 - Telegraph station at Uttoxeter, 4½ miles.
 ----
+desc: Here is an old ivy-covered church, containing tombs of the Venions of Sudbury Hall, whose motto is "Yeimon semper viret."
+----
 text: Here is an old ivy-covered church, containing tombs of the Venions of Sudbury Hall, whose motto is "Yeimon semper viret."

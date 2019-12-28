@@ -17,7 +17,9 @@ info:
 notes:
 - Telegraph stations—Temple Buildings, 112, New Street, and the railway stations.
 ----
-text: This is the great centre of the manufactured metal trades, being situated in North Warwickshire, on the border of the South Staffordshire iron and coal district—112 miles from London by the North Western railway, or 129 miles by the Great Western railway. The town stands upon a series of sandstone hills, of moderate elevation; it is well-drained, and very healthy, although containing a population of 296,076 inhabitants.
+desc: This is the great centre of the manufactured metal trades, being situated in North Warwickshire, on the border of the South Staffordshire iron and coal district.
+----
+text: This is the great centre of the manufactured metal trades, being situated in North Warwickshire, on the border of the South Staffordshire iron and coal district -- 112 miles from London by the North Western railway, or 129 miles by the Great Western railway. The town stands upon a series of sandstone hills, of moderate elevation; it is well-drained, and very healthy, although containing a population of 296,076 inhabitants.
 
 Steam power is here used extensively, scarcely a street being without its manufactory and steam-engine; at same time a considerable amount of the labour is of a manual kind, earned on in small workshops attached to the dwelling-houses of the artisans; and, it is worthy of remark, that the houses of the poorer classes here are very superior to those usually met with in large manufacturing or densely inhabited towns.
 

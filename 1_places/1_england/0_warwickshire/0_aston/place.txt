@@ -9,4 +9,6 @@ info:
 - term: Population
   desc: 16,387.
 ----
+desc: In the vicinity are *Aston Hall* and *Park*.
+----
 text: In the vicinity are *Aston Hall* and *Park*. This valuable estate formerly covered an area of 350 acres, 40 of which have been purchased by the subscriptions of the people of Birmingham, at a cost of £35,000 and appropriated as a museum and place of recreation for the inhabitants of that town. The 15th June, 1858, will long be remembered as the day of opening the same by the Queen in person. The park is a beautiful piece of undulating ground, commanding a fine prospect over hill and dale and stream, and the hall itself is a noble specimen of the ancient English manor-house. It was originally erected by Sir Thomas Holte, in 1620, and in which he entertained Charles I. previous to the battle of Edge Hill  Aston Church, which appears at several points of the line, is a beautiful building, having a handsome tower, with a fine lofty spire.

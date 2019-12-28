@@ -16,4 +16,6 @@ notes:
 - Distance from station, ½ mile.
 - A telegraph station.
 ----
+desc: In old times, Burslem was noted for its common yellow ware, so much so that "Butter Pot" was its ordinary name, even on the county map.
+----
 text: In old times, Burslem was noted for its common yellow ware, so much so that "Butter Pot" was its ordinary name, even on the county map. Near here Josiah Wedgwood was born in 1730, and brought his improved wares and porcelain to perfection; but the china clay, felspar or soapstone, and flint, necessary for the finer sorts, are imported from the south, especially Devonshire and Cornwall.

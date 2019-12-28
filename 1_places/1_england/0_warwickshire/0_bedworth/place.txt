@@ -11,4 +11,6 @@ info:
 notes:
 - Telegraph station at Nuneaton, 3½ miles.
 ----
+desc: In the vicinity is *Arbury Ball*, seat of C. N. Newdegate, Esq., M.P.
+----
 text: In the vicinity is *Arbury Ball*, seat of C. N. Newdegate, Esq., M.P.

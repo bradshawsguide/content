@@ -15,4 +15,6 @@ info:
 notes:
 - Telegraph station at Stafford, 5¼ miles.
 ----
+desc: Here is a large church, and two miles north-east, *Teddesley Park*, seat of Lord Hatherton.
+----
 text: Here is a large church, and two miles north-east, *Teddesley Park*, seat of Lord Hatherton.

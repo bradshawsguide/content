@@ -11,4 +11,6 @@ info:
 notes:
 - Telegraph station at Spon Lane, ½ mile.
 ----
+desc: In the vicinity is an old camp.
+----
 text: In the vicinity is an old camp.

@@ -14,6 +14,8 @@ notes:
 - Distance from station, ¾ mile.
 - A telegraph station.
 ----
+desc: A municipal borough and old town, with manufactures of silk and cotton.
+----
 text: A municipal borough and old town, with manufactures of silk and cotton. Population, 12,344. It is on the Dane, in the neighbourhood of the wild moorland country which borders Derbyshire and Staffordshire. Here may be seen several old timbered houses, large silk, cotton, and ribbon factories, town hall, and good grammar school In the vicinity are Eaton Hall, G. Antrobus, Esq., and *Somerford Park*, Sir C. Shakerley, Bart At *Biddulph* are the picturesque ruins of an Elizabethan house, destroyed in the civil wars. *Knypersley Hall*. Lime quarries are worked under the Mow Cop, a peak 1,091 feet high.
 
 The route from Congleton to Macclesfield is rich in natural beauties, and furnishes various objects worthy attention, amongst winch is a stupendous viaduct across the Dane valley.

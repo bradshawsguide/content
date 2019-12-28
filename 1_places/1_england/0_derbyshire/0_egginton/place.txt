@@ -1,6 +1,6 @@
 section: 3
 ----
-title: Eggington
+title: Egginton
 ----
 info:
 - term: Population
@@ -11,4 +11,6 @@ info:
 notes:
 - Telegraph station at Derby, 8 miles.
 ----
-text: In the vicinity is *Eggington Hall*, seat of Sir H. Every, Bart.
+desc: In the vicinity is *Egginton Hall*, seat of Sir H. Every, Bart.
+----
+text: In the vicinity is *Egginton Hall*, seat of Sir H. Every, Bart.

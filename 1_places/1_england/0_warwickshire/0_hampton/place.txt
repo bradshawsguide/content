@@ -14,4 +14,6 @@ notes:
 - Distance from station, ¾ mile.
 - Telegraph station at Whitacre, 7¼ miles.
 ----
+desc: The village of Hampton lies on the left of the line, and consists of little to interest the traveller. Two miles beyond is *Elmdon Hall*.
+----
 text: The village of Hampton lies on the left of the line, and consists of little to interest the traveller. Two miles beyond is *Elmdon Hall*.

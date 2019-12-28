@@ -1,0 +1,64 @@
+section: 3
+----
+title: Stoke to Macclesfield
+----
+company: companies/north-staffordshire
+----
+stops:
+- stoke
+- [etruria, hanley]
+- burslem
+- tunstall
+- kidsgrove-junction
+- mow-cop
+- congleton
+- north-rode
+- macclesfield
+----
+text: (place: england/staffordshire/stoke)
+
+The northern portion of the county of Stafford, through which this line passes, is distinguished from its being the centre, of that celebrated district which produces the Staffordshire Pottery, comprised in a large area of about thirty thousand acres, lying a little to the eastward of Newcastle-under-Lyme.
+
+If we could survey this industrious region from any elevated position, we should find the whole of the towns and villages of the Potteries resembling one long street, stretching for a distance of nine miles from south-east to north-west, and linked together by intermediate suburbs, and so intimately connected that the eye might travel from one to the other without finding a break in their continuity.
+
+There may be seen the surrounding hills, crowned with towering columns and huge pyramids of chimnies, and great rounded furnaces, in which the ware is baked, clustering together like hives. Beneath these are the drying houses, the magnificent warehouses, and the massive walls that enclose the whole of these great establishments, containing the various materials used in the manufactories.
+
+Between the great factories or "banks" as they are called, are scattered the houses of the shopkeepers, and cottages of the workmen and artisans associated in these establishments; whilst hero and there the intervals are filled up by the churches and chapels, or stately mansions of those who by pottery have become enriched. This district includes an enormous population, so continuously employed in the production of pottery that it seems a matter for wonder where the market could be found. At most of the towns and hamlets the pottery works are kept in incessant action. Very little progress was made in the potteries of Staffordshire until the late Mr. Wedgwood commenced his improvements, to the genius and enterprise of whom may be attributed the present flourishing state of the manufacture of earthenware in this district. But if this celebrated man could have witnessed the evidence of the vast progress made during the last ten years, as displayed by the pottery and porcelain department of the Crystal Palace in 1851, not only in the high specimens exhibited, but in the commonest articles, he would have felt richly rewarded for the genius, enterprise, and perseverance with which he had contributed to establish this branch of our industry on so good a foundation.
+
+To the left of the station, at Stoke, a short branch takes us to
+
+(place: england/staffordshire/newcastle-under-lyme)
+
+This part of the system terminates at the little village of [Silverdale](/stations/silverdale-staffs), about two miles further.
+
+(place: england/staffordshire/etruria)
+
+(branch: start)
+Another very short branch turns off here to the right, running into the town of
+
+(place: england/staffordshire/hanley)
+(branch: end)
+
+(place: england/staffordshire/burslem)
+
+[Tunstall](/stations/tunstall) station.
+
+(place: england/staffordshire/kidsgrove-junction)
+
+(route: kidsgrove-to-crewe)
+
+From Kidsgrove to Congleton, the main line passes through a fine country, close by the loot of the celebrated Mow Cop.
+
+The various stations on the line are all m the Tudor style of architecture.
+
+(place: england/staffordshire/mow-cop)
+
+(place: england/cheshire/congleton)
+
+The route from Congleton to Macclesfield is rich in natural beauties, and furnishes various objects worthy attention, amongst winch is a stupendous viaduct across the Dane valley.
+
+Cloud-End and Mow Cop are noble features in the landscape to the right, between Macclesfield and the Potteries. Cloud-End is a bold promontory, seen to great advantage near the junction with the Churnet Valley line, at North Rode. It is the termination of the hilly range known as Biddulph Moor, remarkable as the site of the bride-stones, a series of immense blocks supposed to be the remains of a Druidical temple. It also makes a fine background in the view through the arches of the Dane and Congleton viaducts. Mow Cop, although not really so lofty as Cloud-End, presents a much more striking appearance to a distant observer.
+
+[North Rode](/stations/north-rode), the junction of the Churnet Valley railway.
+
+(place: england/cheshire/macclesfield)

@@ -9,4 +9,6 @@ info:
 notes:
 - A telegraph station.
 ----
+desc: *Bescot Hall* (from which are fine views) is an moated edifice.
+----
 text: *Bescot Hall* (from which are fine views) is an moated edifice. It is the point of junction with the South Stafford line to Walsall and Dudley.

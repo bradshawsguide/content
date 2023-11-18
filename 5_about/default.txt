@@ -35,9 +35,9 @@ Body text set in [Scotch Text](https://www.myfonts.com/fonts/positype/scotch/) b
 
 Hosted by [WebFaction](https://www.webfaction.com/?aid=42929).
 
-Published using [Kirby](https://getkirby.com/) and these supporting plugins:
-  * [Geo](https://github.com/getkirby-plugins/geo-plugin) by [Bastian Allgeier](https://bastianallgeier.com)
-  * [Kirby3 xmlsitemap](https://github.com/omz13/kirby3-xmlsitemap) by [David Somers](https://omz13.com)
-  * [Kirby-Typography](https://github.com/fabianmichael/kirby-typography) by [Fabian Michael](https://fabianmichael.de)
+Published using [Kirby](https://getkirby.com/) and with these supporting plugins:
+  * [Geo](https://getkirby.com/plugins/getkirby/geo)
+  * [Locator](https://getkirby.com/plugins/sylvainjule/locator) by [Sylvain Julé](https://getkirby.com/plugins/sylvainjule)
+  * [Markdown Field](https://getkirby.com/plugins/fabianmichael/markdown-field) by [Fabian Michael](https://getkirby.com/plugins/fabianmichael)
 
 *[BBC]: British Broadcasting Corporation

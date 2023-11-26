@@ -20,35 +20,43 @@ Company: companies/great-western
 
 Stops:
 
-- paddington
-- ealing
-- hanwell
-- [southall, brentford]
-- [west-drayton, uxbridge]
-- langley
-- [slough, windsor-gwr]
-- maidenhead
-- [twyford, shiplake, henley]
-- reading
-- pangbourne
-- goring
-- [wallingford-road, wallingford]
-- didcot
-- steventon
-- wantage-road
-- challow
-- [uffington, faringdon]
-- shrivenham
-- swindon-junction
-- wootton-basset
-- [chippenham, calne]
-- corsham
-- box
-- bath
-- twerton
-- saltford
-- keynsham
-- bristol
+- stations/paddington
+- stations/ealing
+- stations/hanwell
+- - stations/southall
+  - stations/brentford
+- - stations/west-drayton
+  - stations/uxbridge
+- stations/langley
+- - stations/slough
+  - stations/windsor-gwr
+- stations/maidenhead
+- - stations/twyford
+  - stations/shiplake
+  - stations/henley
+- stations/reading
+- stations/pangbourne
+- stations/goring
+- - stations/wallingford-road
+  - stations/wallingford
+- stations/didcot
+- stations/steventon
+- stations/wantage-road
+- stations/challow
+- - stations/uffington
+  - stations/faringdon
+- stations/shrivenham
+- stations/swindon-junction
+- stations/wootton-basset
+- - stations/chippenham
+  - stations/calne
+- stations/corsham
+- stations/box
+- stations/bath
+- stations/twerton
+- stations/saltford
+- stations/keynsham
+- stations/bristol
 
 ----
 

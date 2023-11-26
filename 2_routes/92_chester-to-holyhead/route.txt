@@ -16,29 +16,33 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- chester
-- queensferry-flintshire
-- flint
-- bagillt
-- holywell
-- mostyn
-- prestatyn
-- rhyl
-- abergele
-- llandulas
-- colwyn
-- llandudno-junction
-- conway
-- penmaen-mawr
-- aber
-- bangor
-- menai-bridge
-- llanfair
-- [gaerwen, holland-arms-llangefni, llangwillog, llanerchymedd, amlwch]
-- bodorgan
-- ty-croes
-- valley
-- holyhead
+- stations/chester
+- stations/queensferry-flintshire
+- stations/flint
+- stations/bagillt
+- stations/holywell
+- stations/mostyn
+- stations/prestatyn
+- stations/rhyl
+- stations/abergele
+- stations/llandulas
+- stations/colwyn
+- stations/llandudno-junction
+- stations/conway
+- stations/penmaen-mawr
+- stations/aber
+- stations/bangor
+- stations/menai-bridge
+- stations/llanfair
+- - stations/gaerwen
+  - stations/holland-arms-llangefni
+  - stations/llangwillog
+  - stations/llanerchymedd
+  - stations/amlwch
+- stations/bodorgan
+- stations/ty-croes
+- stations/valley
+- stations/holyhead
 
 ----
 

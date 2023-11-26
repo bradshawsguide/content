@@ -20,19 +20,20 @@ Company: companies/great-western
 
 Stops:
 
-- reading
-- theale
-- aldermaston
-- woolhampton
-- thatcham
-- newbury
-- kintbury
-- hungerford
-- bedwyn
-- [savernake, marlborough]
-- pewsey
-- woodborough
-- devizes
+- stations/reading
+- stations/theale
+- stations/aldermaston
+- stations/woolhampton
+- stations/thatcham
+- stations/newbury
+- stations/kintbury
+- stations/hungerford
+- stations/bedwyn
+- - stations/savernake
+  - stations/marlborough
+- stations/pewsey
+- stations/woodborough
+- stations/devizes
 
 ----
 

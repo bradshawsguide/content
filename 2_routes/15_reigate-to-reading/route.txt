@@ -16,23 +16,23 @@ Company: companies/south-eastern
 
 Stops:
 
-- red-hill-junction
-- reigate-town
-- betchworth
-- box-hill
-- dorking
-- gomshall-and-sheire
-- chilworth
-- shalford
-- guildford
-- ash
-- aldershott-north-camp
-- farnborough-north
-- blackwater
-- sandhurst
-- wokingham
-- earley
-- reading-southern
+- stations/red-hill-junction
+- stations/reigate-town
+- stations/betchworth
+- stations/box-hill
+- stations/dorking
+- stations/gomshall-and-sheire
+- stations/chilworth
+- stations/shalford
+- stations/guildford
+- stations/ash
+- stations/aldershott-north-camp
+- stations/farnborough-north
+- stations/blackwater
+- stations/sandhurst
+- stations/wokingham
+- stations/earley
+- stations/reading-southern
 
 ----
 

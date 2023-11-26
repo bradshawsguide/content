@@ -16,21 +16,23 @@ Company: companies/north-devon
 
 Stops:
 
-- exeter-st-davids
-- st-cyres
-- crediton
-- [yeoford, bow-devon, north-tawton]
-- copplestone
-- morchard-road
-- lapford
-- eggesford
-- south-molton-road
-- portsmouth-arms
-- umberleigh
-- barnstaple
-- fremington
-- instow
-- bideford
+- stations/exeter-st-davids
+- stations/st-cyres
+- stations/crediton
+- - stations/yeoford
+  - stations/bow-devon
+  - stations/north-tawton
+- stations/copplestone
+- stations/morchard-road
+- stations/lapford
+- stations/eggesford
+- stations/south-molton-road
+- stations/portsmouth-arms
+- stations/umberleigh
+- stations/barnstaple
+- stations/fremington
+- stations/instow
+- stations/bideford
 
 ----
 

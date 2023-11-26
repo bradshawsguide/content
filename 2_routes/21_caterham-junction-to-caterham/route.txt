@@ -16,10 +16,10 @@ Company: companies/south-eastern
 
 Stops:
 
-- caterham-junction
-- kenley
-- warlingham
-- caterham
+- stations/caterham-junction
+- stations/kenley
+- stations/warlingham
+- stations/caterham
 
 ----
 

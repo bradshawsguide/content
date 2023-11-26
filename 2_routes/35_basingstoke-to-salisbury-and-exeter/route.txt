@@ -20,33 +20,41 @@ Company: companies/london-and-south-western
 
 Stops:
 
-- basingstoke
-- oakley
-- overton
-- whitchurch
-- [andover, clatford, fullerton-bridge, stockbridge, horsebridge, mottisfont, romsey, redbridge]
-- grateley
-- porton
-- salisbury
-- wilton-south
-- dinton
-- tisbury
-- semley
-- gillingham
-- templecombe
-- milbourne-port
-- sherborne
-- yeovil-junction
-- sutton-bingham
-- crewkerne
-- [chard-road, chard]
-- axminster
-- colyton
-- honiton
-- feniton
-- whimple
-- broad-clyst
-- exeter-queen-street
+- stations/basingstoke
+- stations/oakley
+- stations/overton
+- stations/whitchurch
+- - stations/andover
+  - stations/clatford
+  - stations/fullerton-bridge
+  - stations/stockbridge
+  - stations/horsebridge
+  - stations/mottisfont
+  - stations/romsey
+  - stations/redbridge
+- stations/grateley
+- stations/porton
+- stations/salisbury
+- stations/wilton-south
+- stations/dinton
+- stations/tisbury
+- stations/semley
+- stations/gillingham
+- stations/templecombe
+- stations/milbourne-port
+- stations/sherborne
+- stations/yeovil-junction
+- stations/sutton-bingham
+- stations/crewkerne
+- - stations/chard-road
+  - stations/chard
+- stations/axminster
+- stations/colyton
+- stations/honiton
+- stations/feniton
+- stations/whimple
+- stations/broad-clyst
+- stations/exeter-queen-street
 
 ----
 

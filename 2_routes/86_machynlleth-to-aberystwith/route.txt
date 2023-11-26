@@ -12,13 +12,20 @@ Company: companies/aberystwith-and-welsh-coast
 
 Stops:
 
-- machynlleth
-- glan-dovey
-- [ynys-las, aberdovey, towyn, llwyngwril, [barmouth-ferry, barmouth], penmaen-pool, dolgelley]
-- borth
-- llanfihangel
-- bow-street
-- aberystwith
+- stations/machynlleth
+- stations/glan-dovey
+- - stations/ynys-las
+  - stations/aberdovey
+  - stations/towyn
+  - stations/llwyngwril
+  - - stations/barmouth-ferry
+    - stations/barmouth
+  - stations/penmaen-pool
+  - stations/dolgelley
+- stations/borth
+- stations/llanfihangel
+- stations/bow-street
+- stations/aberystwith
 
 ----
 

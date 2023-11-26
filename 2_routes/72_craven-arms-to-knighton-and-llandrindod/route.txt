@@ -20,11 +20,16 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- craven-arms
-- broom
-- hopton-heath
-- bucknell
-- [knighton, knucklas, llangunlo, dolau, penybont, llandrindod]
+- stations/craven-arms
+- stations/broom
+- stations/hopton-heath
+- stations/bucknell
+- - stations/knighton
+  - stations/knucklas
+  - stations/llangunlo
+  - stations/dolau
+  - stations/penybont
+  - stations/llandrindod
 
 ----
 

@@ -16,22 +16,36 @@ Company: companies/belfast-and-northern-counties
 
 Stops:
 
-- york-road
-- greencastle
-- whitehouse
-- whiteabbey
-- jordanstown
-- [carrickfergus-junction, troopers-lane, carrickfergus, whitehead, ballycarey, magheramorne, glynn, larne]
-- [ballynure, ballyclare]
-- dunadry
-- antrim
-- [cookstown-junction, randalstown, toome-bridge, castledawson, magherafelt, moneymore, cookstown]
-- ballymena
-- bellaghy
-- ballymoney
-- coleraine
-- portstewart
-- portrush
+- stations/york-road
+- stations/greencastle
+- stations/whitehouse
+- stations/whiteabbey
+- stations/jordanstown
+- - stations/carrickfergus-junction
+  - stations/troopers-lane
+  - stations/carrickfergus
+  - stations/whitehead
+  - stations/ballycarey
+  - stations/magheramorne
+  - stations/glynn
+  - stations/larne
+- - stations/ballynure
+  - stations/ballyclare
+- stations/dunadry
+- stations/antrim
+- - stations/cookstown-junction
+  - stations/randalstown
+  - stations/toome-bridge
+  - stations/castledawson
+  - stations/magherafelt
+  - stations/moneymore
+  - stations/cookstown
+- stations/ballymena
+- stations/bellaghy
+- stations/ballymoney
+- stations/coleraine
+- stations/portstewart
+- stations/portrush
 
 ----
 

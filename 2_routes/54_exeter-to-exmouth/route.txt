@@ -16,11 +16,11 @@ Company: companies/london-and-south-western
 
 Stops:
 
-- exeter-queen-street
-- topsham
-- woodbury-road
-- lympstone
-- exmouth
+- stations/exeter-queen-street
+- stations/topsham
+- stations/woodbury-road
+- stations/lympstone
+- stations/exmouth
 
 ----
 

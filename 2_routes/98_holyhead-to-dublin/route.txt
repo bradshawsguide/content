@@ -12,13 +12,13 @@ Company: companies/dublin-and-kingstown
 
 Stops:
 
-- holyhead
-- kingstown
-- salthill
-- blackrock
-- booterstown
-- merrion
-- dublin
+- stations/holyhead
+- stations/kingstown
+- stations/salthill
+- stations/blackrock
+- stations/booterstown
+- stations/merrion
+- stations/dublin
 
 ----
 

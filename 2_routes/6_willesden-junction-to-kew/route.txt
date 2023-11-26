@@ -12,9 +12,10 @@ Company: companies/north-and-south-western-junction
 
 Stops:
 
-- willesden-junction
-- [acton, hammersmith]
-- kew
+- stations/willesden-junction
+- - stations/acton
+  - stations/hammersmith
+- stations/kew
 
 ----
 

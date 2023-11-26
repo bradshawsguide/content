@@ -16,11 +16,11 @@ Company: companies/london-brighton-and-south-coast
 
 Stops:
 
-- east-croydon
-- beddington-lane
-- mitcham
-- morden
-- wimbledon
+- stations/east-croydon
+- stations/beddington-lane
+- stations/mitcham
+- stations/morden
+- stations/wimbledon
 
 ----
 

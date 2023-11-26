@@ -20,24 +20,30 @@ Company: companies/great-western
 
 Stops:
 
-- chippenham
-- melksham
-- holt-junction
-- [trowbridge, bradford-on-avon, freshford, limpley-stoke, bathampton, bath]
-- westbury
-- frome
-- witham-junction
-- bruton
-- castle-cary
-- sparkford
-- marston
-- yeovil-pen-mill
-- yetminster
-- evershot
-- maiden-newton
-- grimstone
-- dorchester-west
-- [weymouth, portland]
+- stations/chippenham
+- stations/melksham
+- stations/holt-junction
+- - stations/trowbridge
+  - stations/bradford-on-avon
+  - stations/freshford
+  - stations/limpley-stoke
+  - stations/bathampton
+  - stations/bath
+- stations/westbury
+- stations/frome
+- stations/witham-junction
+- stations/bruton
+- stations/castle-cary
+- stations/sparkford
+- stations/marston
+- stations/yeovil-pen-mill
+- stations/yetminster
+- stations/evershot
+- stations/maiden-newton
+- stations/grimstone
+- stations/dorchester-west
+- - stations/weymouth
+  - stations/portland
 
 ----
 

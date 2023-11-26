@@ -16,9 +16,9 @@ Company: companies/london-brighton-and-south-coast
 
 Stops:
 
-- three-bridges
-- rowfant
-- east-grinstead
+- stations/three-bridges
+- stations/rowfant
+- stations/east-grinstead
 
 ----
 

@@ -20,24 +20,29 @@ Company: companies/south-eastern
 
 Stops:
 
-- [new-cross, chislehurst]
-- lewisham
-- blackheath
-- charlton
-- woolwich-dock
-- woolwich-arsenal
-- plumstead
-- abbey-wood
-- belvedere
-- erith
-- dartford
-- greenhithe
-- northfleet
-- gravesend
-- higham-kent
-- [strood, cuxton, snodland, aylesford, maidstone]
-- rochester
-- chatham
+- - stations/new-cross
+  - stations/chislehurst
+- stations/lewisham
+- stations/blackheath
+- stations/charlton
+- stations/woolwich-dock
+- stations/woolwich-arsenal
+- stations/plumstead
+- stations/abbey-wood
+- stations/belvedere
+- stations/erith
+- stations/dartford
+- stations/greenhithe
+- stations/northfleet
+- stations/gravesend
+- stations/higham-kent
+- - stations/strood
+  - stations/cuxton
+  - stations/snodland
+  - stations/aylesford
+  - stations/maidstone
+- stations/rochester
+- stations/chatham
 
 ----
 

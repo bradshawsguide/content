@@ -20,15 +20,16 @@ Company: companies/great-western
 
 Stops:
 
-- swindon-junction
-- purton
-- minety
-- [tetbury-road, cirencester]
-- brimscomb
-- stroud
-- stonehouse
-- gloucester
-- cheltenham
+- stations/swindon-junction
+- stations/purton
+- stations/minety
+- - stations/tetbury-road
+  - stations/cirencester
+- stations/brimscomb
+- stations/stroud
+- stations/stonehouse
+- stations/gloucester
+- stations/cheltenham
 
 ----
 

@@ -20,18 +20,30 @@ Company: companies/london-and-south-western
 
 Stops:
 
-- woking
-- [guildford, ash, tongham, farnham, bentley, alton, ropley, alresford, itchen-abbas, winchester]
-- godalming
-- milford-surrey
-- witley
-- haslemere
-- liphook
-- liss
-- [petersfield, rogate, elsted, midhurst]
-- rowlands-castle
-- havant
-- portsmouth
+- stations/woking
+- - stations/guildford
+  - stations/ash
+  - stations/tongham
+  - stations/farnham
+  - stations/bentley
+  - stations/alton
+  - stations/ropley
+  - stations/alresford
+  - stations/itchen-abbas
+  - stations/winchester
+- stations/godalming
+- stations/milford-surrey
+- stations/witley
+- stations/haslemere
+- stations/liphook
+- stations/liss
+- - stations/petersfield
+  - stations/rogate
+  - stations/elsted
+  - stations/midhurst
+- stations/rowlands-castle
+- stations/havant
+- stations/portsmouth
 
 ----
 

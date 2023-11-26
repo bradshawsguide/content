@@ -12,21 +12,29 @@ Company: companies/bristol-and-exeter
 
 Stops:
 
-- bristol
-- bourton
-- nailsea
-- [yatton, clevedon]
-- banwell
-- [weston-junction, weston-super-mare]
-- [highbridge, burnham-on-sea]
-- bridgewater
-- [durston-junction, athelney, langport, martock, yeovil-town]
-- taunton
-- wellington-somerset
-- [tiverton-junction, tiverton]
-- collumpton
-- hele
-- exeter-st-davids
+- stations/bristol
+- stations/bourton
+- stations/nailsea
+- - stations/yatton
+  - stations/clevedon
+- stations/banwell
+- - stations/weston-junction
+  - stations/weston-super-mare
+- - stations/highbridge
+  - stations/burnham-on-sea
+- stations/bridgewater
+- - stations/durston-junction
+  - stations/athelney
+  - stations/langport
+  - stations/martock
+  - stations/yeovil-town
+- stations/taunton
+- stations/wellington-somerset
+- - stations/tiverton-junction
+  - stations/tiverton
+- stations/collumpton
+- stations/hele
+- stations/exeter-st-davids
 
 ----
 

@@ -12,14 +12,14 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- coventry
-- counden-road
-- foleshill
-- longford-and-exhall
-- hawkesbury-lane
-- bedworth
-- chilvers-coton
-- nuneaton
+- stations/coventry
+- stations/counden-road
+- stations/foleshill
+- stations/longford-and-exhall
+- stations/hawkesbury-lane
+- stations/bedworth
+- stations/chilvers-coton
+- stations/nuneaton
 
 ----
 

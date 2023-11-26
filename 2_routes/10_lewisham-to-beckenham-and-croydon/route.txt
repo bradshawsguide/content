@@ -16,12 +16,12 @@ Company: companies/mid-kent
 
 Stops:
 
-- lewisham
-- ladywell
-- lower-sydenham
-- beckenham
-- elmers-end
-- croydon-addiscombe-road
+- stations/lewisham
+- stations/ladywell
+- stations/lower-sydenham
+- stations/beckenham
+- stations/elmers-end
+- stations/croydon-addiscombe-road
 
 ----
 

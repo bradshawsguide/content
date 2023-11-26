@@ -16,14 +16,14 @@ Company: companies/staines-wokingham-and-reading
 
 Stops:
 
-- staines
-- egham
-- virginia-water
-- sunningdale
-- ascot
-- bracknell
-- wokingham
-- reading-southern
+- stations/staines
+- stations/egham
+- stations/virginia-water
+- stations/sunningdale
+- stations/ascot
+- stations/bracknell
+- stations/wokingham
+- stations/reading-southern
 
 ----
 

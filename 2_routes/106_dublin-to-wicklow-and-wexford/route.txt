@@ -16,29 +16,32 @@ Company: companies/dublin-wicklow-and-wexford
 
 Stops:
 
-- harcourt-street
-- milltown
-- dundrum-dublin
-- stillorgan
-- foxrock
-- carrickmines
-- shankill
-- bray
-- delgany
-- kilcoole
-- newcastle
-- killoughter
-- wicklow
-- rathnew
-- glenealy
-- rathdrum
-- avoca
-- [woodenbridge-junction, aughrim, tinahely, shillelagh]
-- arklow
-- gorey
-- ferns
-- enniscorthy
-- wexford
+- stations/harcourt-street
+- stations/milltown
+- stations/dundrum-dublin
+- stations/stillorgan
+- stations/foxrock
+- stations/carrickmines
+- stations/shankill
+- stations/bray
+- stations/delgany
+- stations/kilcoole
+- stations/newcastle
+- stations/killoughter
+- stations/wicklow
+- stations/rathnew
+- stations/glenealy
+- stations/rathdrum
+- stations/avoca
+- - stations/woodenbridge-junction
+  - stations/aughrim
+  - stations/tinahely
+  - stations/shillelagh
+- stations/arklow
+- stations/gorey
+- stations/ferns
+- stations/enniscorthy
+- stations/wexford
 
 ----
 

@@ -16,14 +16,19 @@ Company: companies/belfast-and-county-down
 
 Stops:
 
-- belfast
-- knock
-- dundonald
-- [comber, newtownards, conlig, groomsport, donaghadee]
-- ballygowan
-- saintfield
-- [ballynahinch-junction, ballynahinch]
-- downpatrick
+- stations/belfast
+- stations/knock
+- stations/dundonald
+- - stations/comber
+  - stations/newtownards
+  - stations/conlig
+  - stations/groomsport
+  - stations/donaghadee
+- stations/ballygowan
+- stations/saintfield
+- - stations/ballynahinch-junction
+  - stations/ballynahinch
+- stations/downpatrick
 
 ----
 

@@ -12,12 +12,12 @@ Company: companies/bishops-castle
 
 Stops:
 
-- craven-arms
-- horderley
-- plowden
-- eaton
-- lydham-heath
-- bishops-castle
+- stations/craven-arms
+- stations/horderley
+- stations/plowden
+- stations/eaton
+- stations/lydham-heath
+- stations/bishops-castle
 
 ----
 

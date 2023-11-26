@@ -12,26 +12,33 @@ Company: companies/north-staffordshire
 
 Stops:
 
-- colwich
-- hixon
-- weston
-- sandon
-- [stone, norton-bridge]
-- barlaston
-- trentham
-- [stoke, ford-green, black-bull, gillow-heath, congleton]
-- [stoke, newcastle-under-lyme, silverdale-staffs]
-- fenton
-- longton
-- blythe-bridge
-- cresswell
-- leigh-staffs
-- uttoxeter-junction
-- marchington
-- sudbury-staffs
-- tutbury
-- egginton
-- derby
+- stations/colwich
+- stations/hixon
+- stations/weston
+- stations/sandon
+- - stations/stone
+  - stations/norton-bridge
+- stations/barlaston
+- stations/trentham
+- - stations/stoke
+  - stations/ford-green
+  - stations/black-bull
+  - stations/gillow-heath
+  - stations/congleton
+- - stations/stoke
+  - stations/newcastle-under-lyme
+  - stations/silverdale-staffs
+- stations/fenton
+- stations/longton
+- stations/blythe-bridge
+- stations/cresswell
+- stations/leigh-staffs
+- stations/uttoxeter-junction
+- stations/marchington
+- stations/sudbury-staffs
+- stations/tutbury
+- stations/egginton
+- stations/derby
 
 ----
 

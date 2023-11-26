@@ -16,20 +16,20 @@ Company: companies/ulster
 
 Stops:
 
-- clones
-- monaghan
-- glaslough
-- tynan
-- killylea
-- armagh
-- richhill
-- portadown
-- lurgan
-- moira
-- lisburn
-- dunmurry
-- balmoral
-- belfast
+- stations/clones
+- stations/monaghan
+- stations/glaslough
+- stations/tynan
+- stations/killylea
+- stations/armagh
+- stations/richhill
+- stations/portadown
+- stations/lurgan
+- stations/moira
+- stations/lisburn
+- stations/dunmurry
+- stations/balmoral
+- stations/belfast
 
 ----
 

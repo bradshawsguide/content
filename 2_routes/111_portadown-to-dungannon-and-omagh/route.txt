@@ -16,17 +16,17 @@ Company: companies/portadown-dungannon-and-omagh-junction
 
 Stops:
 
-- portadown
-- annaghmore
-- vernersbridge
-- trew-and-moy
-- dungannon
-- donaghmore
-- pomeroy
-- carrickmore
-- sixmilecross
-- beragh
-- omagh
+- stations/portadown
+- stations/annaghmore
+- stations/vernersbridge
+- stations/trew-and-moy
+- stations/dungannon
+- stations/donaghmore
+- stations/pomeroy
+- stations/carrickmore
+- stations/sixmilecross
+- stations/beragh
+- stations/omagh
 
 ----
 

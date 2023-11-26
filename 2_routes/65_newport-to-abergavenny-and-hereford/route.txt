@@ -20,18 +20,18 @@ Company: companies/great-western
 
 Stops:
 
-- newport-mill-street
-- upper-pontnewydd
-- pontypool-road
-- nantyderry
-- penpergwm
-- abergavenny
-- llanvihangel
-- pandy
-- pontrilas
-- st-devereux
-- tram-inn
-- hereford
+- stations/newport-mill-street
+- stations/upper-pontnewydd
+- stations/pontypool-road
+- stations/nantyderry
+- stations/penpergwm
+- stations/abergavenny
+- stations/llanvihangel
+- stations/pandy
+- stations/pontrilas
+- stations/st-devereux
+- stations/tram-inn
+- stations/hereford
 
 ----
 

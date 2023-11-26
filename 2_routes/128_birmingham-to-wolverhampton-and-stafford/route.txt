@@ -16,18 +16,18 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- birmingham-new-street
-- soho
-- smethwick
-- spon-lane
-- oldbury
-- albion
-- dudley-port-high-level
-- tipton
-- deepfields
-- ettingshall
-- monmore-green
-- wolverhampton
+- stations/birmingham-new-street
+- stations/soho
+- stations/smethwick
+- stations/spon-lane
+- stations/oldbury
+- stations/albion
+- stations/dudley-port-high-level
+- stations/tipton
+- stations/deepfields
+- stations/ettingshall
+- stations/monmore-green
+- stations/wolverhampton
 
 ----
 

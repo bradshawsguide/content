@@ -12,14 +12,14 @@ Company: companies/merthyr-tredegar-and-abergavenny
 
 Stops:
 
-- abergavenny
-- govilan
-- gilwern
-- clydach
-- brynmawr
-- beaufort
-- trevil
-- nantybwch
+- stations/abergavenny
+- stations/govilan
+- stations/gilwern
+- stations/clydach
+- stations/brynmawr
+- stations/beaufort
+- stations/trevil
+- stations/nantybwch
 
 ----
 

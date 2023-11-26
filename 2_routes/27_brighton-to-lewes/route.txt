@@ -16,9 +16,9 @@ Company: companies/london-brighton-and-south-coast
 
 Stops:
 
-- brighton
-- falmer
-- lewes
+- stations/brighton
+- stations/falmer
+- stations/lewes
 
 ----
 

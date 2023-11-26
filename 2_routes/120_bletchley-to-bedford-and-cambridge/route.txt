@@ -12,19 +12,19 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- bletchley
-- fenny-stratford
-- woburn-sands
-- ridgemont
-- lidington
-- ampthill
-- bedford
-- blunham
-- sandy
-- gamlingay
-- old-north-road
-- lords-bridge
-- cambridge
+- stations/bletchley
+- stations/fenny-stratford
+- stations/woburn-sands
+- stations/ridgemont
+- stations/lidington
+- stations/ampthill
+- stations/bedford
+- stations/blunham
+- stations/sandy
+- stations/gamlingay
+- stations/old-north-road
+- stations/lords-bridge
+- stations/cambridge
 
 ----
 

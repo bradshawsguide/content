@@ -20,23 +20,24 @@ Company: companies/london-brighton-and-south-coast
 
 Stops:
 
-- london-bridge
-- new-cross
-- forest-hill
-- [sydenham, crystal-palace-low-level]
-- anerley
-- norwood-junction
-- east-croydon
-- caterham-junction
-- merstham
-- red-hill-junction
-- horley
-- three-bridges
-- balcombe
-- haywards-heath
-- burgess-hill
-- hassocks-gate
-- brighton
+- stations/london-bridge
+- stations/new-cross
+- stations/forest-hill
+- - stations/sydenham
+  - stations/crystal-palace-low-level
+- stations/anerley
+- stations/norwood-junction
+- stations/east-croydon
+- stations/caterham-junction
+- stations/merstham
+- stations/red-hill-junction
+- stations/horley
+- stations/three-bridges
+- stations/balcombe
+- stations/haywards-heath
+- stations/burgess-hill
+- stations/hassocks-gate
+- stations/brighton
 
 ----
 

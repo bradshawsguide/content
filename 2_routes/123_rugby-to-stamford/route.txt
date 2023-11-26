@@ -12,18 +12,19 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- rugby
-- lilbourne
-- stanford-hall
-- welford
-- theddingworth
-- market-harborough
-- medbourne-bridge
-- rockingham
-- [seaton, uppingham]
-- south-luffenham
-- stamford
-- peterborough
+- stations/rugby
+- stations/lilbourne
+- stations/stanford-hall
+- stations/welford
+- stations/theddingworth
+- stations/market-harborough
+- stations/medbourne-bridge
+- stations/rockingham
+- - stations/seaton
+  - stations/uppingham
+- stations/south-luffenham
+- stations/stamford
+- stations/peterborough
 
 ----
 

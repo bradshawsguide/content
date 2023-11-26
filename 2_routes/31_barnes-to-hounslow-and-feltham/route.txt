@@ -20,13 +20,13 @@ Company: companies/london-and-south-western
 
 Stops:
 
-- barnes
-- chiswick
-- kew-bridge
-- brentford
-- isleworth
-- hounslow
-- feltham
+- stations/barnes
+- stations/chiswick
+- stations/kew-bridge
+- stations/brentford
+- stations/isleworth
+- stations/hounslow
+- stations/feltham
 
 ----
 

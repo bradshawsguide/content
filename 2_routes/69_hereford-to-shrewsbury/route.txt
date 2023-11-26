@@ -19,23 +19,29 @@ Company:
 
 Stops:
 
-- hereford
-- moreton-on-lugg
-- dinmore
-- ford-bridge
-- leominster
-- berrington-and-eye
-- [wooferton, easton-court, tenbury, newnham-bridge, neen-sollers, cleobury-mortimer, bewdley]
-- ludlow
-- bromfield
-- onibury
-- craven-arms
-- marsh-brook
-- church-stretton
-- leebotwood
-- dorrington
-- condover
-- shrewsbury
+- stations/hereford
+- stations/moreton-on-lugg
+- stations/dinmore
+- stations/ford-bridge
+- stations/leominster
+- stations/berrington-and-eye
+- - stations/wooferton
+  - stations/easton-court
+  - stations/tenbury
+  - stations/newnham-bridge
+  - stations/neen-sollers
+  - stations/cleobury-mortimer
+  - stations/bewdley
+- stations/ludlow
+- stations/bromfield
+- stations/onibury
+- stations/craven-arms
+- stations/marsh-brook
+- stations/church-stretton
+- stations/leebotwood
+- stations/dorrington
+- stations/condover
+- stations/shrewsbury
 
 ----
 

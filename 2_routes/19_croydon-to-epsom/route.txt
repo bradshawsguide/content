@@ -16,12 +16,15 @@ Company: companies/london-brighton-and-south-coast
 
 Stops:
 
-- east-croydon
-- carshalton
-- [sutton, california, banstead, epsom-downs]
-- cheam
-- ewell-east
-- epsom
+- stations/east-croydon
+- stations/carshalton
+- - stations/sutton
+  - stations/california
+  - stations/banstead
+  - stations/epsom-downs
+- stations/cheam
+- stations/ewell-east
+- stations/epsom
 
 ----
 

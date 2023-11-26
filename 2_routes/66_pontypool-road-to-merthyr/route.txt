@@ -16,14 +16,14 @@ Company: companies/great-western
 
 Stops:
 
-- pontypool-road
-- pontypool-clarence-street
-- crumlin-high-level
-- tredegar-junction
-- rhymney-junction
-- llancaich
-- quakers-yard
-- merthyr
+- stations/pontypool-road
+- stations/pontypool-clarence-street
+- stations/crumlin-high-level
+- stations/tredegar-junction
+- stations/rhymney-junction
+- stations/llancaich
+- stations/quakers-yard
+- stations/merthyr
 
 ----
 

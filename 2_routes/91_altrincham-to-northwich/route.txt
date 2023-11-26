@@ -16,14 +16,14 @@ Company: companies/cheshire-lines-committee
 
 Stops:
 
-- altrincham-and-bowdon
-- peel-causeway
-- ashley
-- mobberley
-- knutsford
-- plumley
-- lostock
-- northwich
+- stations/altrincham-and-bowdon
+- stations/peel-causeway
+- stations/ashley
+- stations/mobberley
+- stations/knutsford
+- stations/plumley
+- stations/lostock
+- stations/northwich
 
 ----
 

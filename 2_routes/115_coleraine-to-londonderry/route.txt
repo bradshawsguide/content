@@ -12,17 +12,18 @@ Company: companies/londonderry-and-coleraine
 
 Stops:
 
-- coleraine
-- castlerock
-- downhill
-- magilligan
-- bellarena
-- [limavady-junction, newtown-limavady]
-- ballykelly
-- carrickhugh
-- eglinton
-- culmore
-- londonderry
+- stations/coleraine
+- stations/castlerock
+- stations/downhill
+- stations/magilligan
+- stations/bellarena
+- - stations/limavady-junction
+  - stations/newtown-limavady
+- stations/ballykelly
+- stations/carrickhugh
+- stations/eglinton
+- stations/culmore
+- stations/londonderry
 
 ----
 

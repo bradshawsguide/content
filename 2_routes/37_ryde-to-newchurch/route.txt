@@ -16,16 +16,16 @@ Company: companies/isle-of-wight
 
 Stops:
 
-- ryde
-- brading
-- sandown
-- shanklin
-- bonchurch
-- ventnor
-- st-lawrence
-- niton
-- chale
-- newchurch
+- stations/ryde
+- stations/brading
+- stations/sandown
+- stations/shanklin
+- stations/bonchurch
+- stations/ventnor
+- stations/st-lawrence
+- stations/niton
+- stations/chale
+- stations/newchurch
 
 ----
 

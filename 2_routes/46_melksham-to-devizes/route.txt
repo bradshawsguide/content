@@ -16,9 +16,9 @@ Company: companies/great-western
 
 Stops:
 
-- holt-junction
-- seend
-- devizes
+- stations/holt-junction
+- stations/seend
+- stations/devizes
 
 ----
 

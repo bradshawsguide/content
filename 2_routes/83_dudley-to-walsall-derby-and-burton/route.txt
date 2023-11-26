@@ -20,22 +20,22 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- dudley
-- dudley-port-low-level
-- great-bridge
-- wednesbury-town
-- walsall
-- rushall
-- pelsall
-- brownhills
-- hammerwich
-- lichfield
-- trent-valley-junction
-- alrewas
-- barton
-- burton-on-trent
-- willington
-- derby
+- stations/dudley
+- stations/dudley-port-low-level
+- stations/great-bridge
+- stations/wednesbury-town
+- stations/walsall
+- stations/rushall
+- stations/pelsall
+- stations/brownhills
+- stations/hammerwich
+- stations/lichfield
+- stations/trent-valley-junction
+- stations/alrewas
+- stations/barton
+- stations/burton-on-trent
+- stations/willington
+- stations/derby
 
 ----
 

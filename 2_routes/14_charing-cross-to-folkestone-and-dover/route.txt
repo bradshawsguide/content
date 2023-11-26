@@ -20,31 +20,40 @@ Company: companies/south-eastern
 
 Stops:
 
-- charing-cross
-- london-bridge
-- new-cross
-- forest-hill
-- sydenham
-- anerley
-- norwood-junction
-- caterham-junction
-- merstham
-- red-hill-junction
-- godstone
-- edenbridge
-- penshurst
-- tunbridge
-- [paddock-wood-junction, yalding, wateringbury, east-farleigh, maidstone]
-- marden
-- staplehurst
-- headcorn
-- pluckley
-- [ashford, ham-street, appledore-kent, rye, winchelsea, hastings]
-- smeeth
-- westenhanger
-- shorncliffe-camp
-- folkestone-junction
-- dover-town
+- stations/charing-cross
+- stations/london-bridge
+- stations/new-cross
+- stations/forest-hill
+- stations/sydenham
+- stations/anerley
+- stations/norwood-junction
+- stations/caterham-junction
+- stations/merstham
+- stations/red-hill-junction
+- stations/godstone
+- stations/edenbridge
+- stations/penshurst
+- stations/tunbridge
+- - stations/paddock-wood-junction
+  - stations/yalding
+  - stations/wateringbury
+  - stations/east-farleigh
+  - stations/maidstone
+- stations/marden
+- stations/staplehurst
+- stations/headcorn
+- stations/pluckley
+- - stations/ashford
+  - stations/ham-street
+  - stations/appledore-kent
+  - stations/rye
+  - stations/winchelsea
+  - stations/hastings
+- stations/smeeth
+- stations/westenhanger
+- stations/shorncliffe-camp
+- stations/folkestone-junction
+- stations/dover-town
 
 ----
 

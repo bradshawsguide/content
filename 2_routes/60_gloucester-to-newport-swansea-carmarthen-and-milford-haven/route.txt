@@ -20,47 +20,54 @@ Company: companies/great-western
 
 Stops:
 
-- gloucester
-- oakle-street
-- grange-court-junction
-- newnham
-- gatcombe
-- lydney
-- woolaston
-- chepstow
-- portskewet
-- magor
-- llanwern
-- newport-high-street
-- marshfield
-- cardiff
-- ely-cardiff
-- st-fagans
-- peterston
-- llantrissant
-- pencoed
-- [bridgend, [tondu, cefn-cribwr, pyle, porthcawl], llangonoyd, maesteg]
-- pyle
-- port-talbot
-- briton-ferry
-- neath
-- llansamlet
-- landore
-- swansea-high-street
-- gower-road
-- loughor
-- llanelly
-- pembrey
-- kidwelly
-- ferryside
-- carmarthen
-- st-clears
-- whitland
-- narberth-road
-- clarbeston-road
-- haverfordwest
-- [johnston-pembs, milford]
-- new-milford
+- stations/gloucester
+- stations/oakle-street
+- stations/grange-court-junction
+- stations/newnham
+- stations/gatcombe
+- stations/lydney
+- stations/woolaston
+- stations/chepstow
+- stations/portskewet
+- stations/magor
+- stations/llanwern
+- stations/newport-high-street
+- stations/marshfield
+- stations/cardiff
+- stations/ely-cardiff
+- stations/st-fagans
+- stations/peterston
+- stations/llantrissant
+- stations/pencoed
+- - stations/bridgend
+  - - stations/tondu
+    - stations/cefn-cribwr
+    - stations/pyle
+    - stations/porthcawl
+  - stations/llangonoyd
+  - stations/maesteg
+- stations/pyle
+- stations/port-talbot
+- stations/briton-ferry
+- stations/neath
+- stations/llansamlet
+- stations/landore
+- stations/swansea-high-street
+- stations/gower-road
+- stations/loughor
+- stations/llanelly
+- stations/pembrey
+- stations/kidwelly
+- stations/ferryside
+- stations/carmarthen
+- stations/st-clears
+- stations/whitland
+- stations/narberth-road
+- stations/clarbeston-road
+- stations/haverfordwest
+- - stations/johnston-pembs
+  - stations/milford
+- stations/new-milford
 
 ----
 

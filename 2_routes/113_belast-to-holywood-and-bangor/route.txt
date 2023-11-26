@@ -16,14 +16,14 @@ Company: companies/belfast-and-county-down
 
 Stops:
 
-- belfast
-- sydenham-belfast
-- tillysburn
-- holywood
-- cultra
-- craigavad
-- clandeboyd
-- bangor-county-down
+- stations/belfast
+- stations/sydenham-belfast
+- stations/tillysburn
+- stations/holywood
+- stations/cultra
+- stations/craigavad
+- stations/clandeboyd
+- stations/bangor-county-down
 
 ----
 

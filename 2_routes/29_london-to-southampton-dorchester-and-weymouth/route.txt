@@ -16,37 +16,62 @@ Company: companies/london-and-south-western
 
 Stops:
 
-- waterloo-bridge
-- vauxhall
-- clapham
-- [wimbledon, old-malden, ewell-west, epsom, ashtead, leatherhead]
-- coombe-and-malden
-- [surbiton-and-kingston, thames-ditton, hampton-court]
-- esher
-- walton-and-hersham
-- [weybridge, addlestone, chertsey]
-- woking
-- farnborough
-- fleetpond
-- winchfield
-- basingstoke
-- micheldever
-- winchester
-- [bishopstoke, chandlers-ford, romsey, dunbridge, dean, salisbury]
-- [portswood, bitterne-road, woolston, netley-abbey]
-- southampton
-- redbridge
-- totton
-- lyndhurst-road
-- [brockenhurst, lymington]
-- [ringwood, herne, christchurch]
-- [wimborne, sturminster, spettisbury, blandford]
-- [poole-junction, poole]
-- wareham
-- wool
-- moreton-dorset
-- dorchester-south
-- [weymouth, portland]
+- stations/waterloo-bridge
+- stations/vauxhall
+- stations/clapham
+- - stations/wimbledon
+  - stations/old-malden
+  - stations/ewell-west
+  - stations/epsom
+  - stations/ashtead
+  - stations/leatherhead
+- stations/coombe-and-malden
+- - stations/surbiton-and-kingston
+  - stations/thames-ditton
+  - stations/hampton-court
+- stations/esher
+- stations/walton-and-hersham
+- - stations/weybridge
+  - stations/addlestone
+  - stations/chertsey
+- stations/woking
+- stations/farnborough
+- stations/fleetpond
+- stations/winchfield
+- stations/basingstoke
+- stations/micheldever
+- stations/winchester
+- - stations/bishopstoke
+  - stations/chandlers-ford
+  - stations/romsey
+  - stations/dunbridge
+  - stations/dean
+  - stations/salisbury
+- - stations/portswood
+  - stations/bitterne-road
+  - stations/woolston
+  - stations/netley-abbey
+- stations/southampton
+- stations/redbridge
+- stations/totton
+- stations/lyndhurst-road
+- - stations/brockenhurst
+  - stations/lymington
+- - stations/ringwood
+  - stations/herne
+  - stations/christchurch
+- - stations/wimborne
+  - stations/sturminster
+  - stations/spettisbury
+  - stations/blandford
+- - stations/poole-junction
+  - stations/poole
+- stations/wareham
+- stations/wool
+- stations/moreton-dorset
+- stations/dorchester-south
+- - stations/weymouth
+  - stations/portland
 
 ----
 

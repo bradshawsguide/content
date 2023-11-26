@@ -20,17 +20,24 @@ Company: companies/london-and-south-western
 
 Stops:
 
-- clapham
-- wandsworth
-- putney
-- barnes
-- mortlake
-- richmond
-- [twickenham, teddington, hampton-wick, kingston]
-- [twickenham, fulwell, hampton, sunbury, shepperton]
-- feltham
-- ashford-middlesex
-- staines
+- stations/clapham
+- stations/wandsworth
+- stations/putney
+- stations/barnes
+- stations/mortlake
+- stations/richmond
+- - stations/twickenham
+  - stations/teddington
+  - stations/hampton-wick
+  - stations/kingston
+- - stations/twickenham
+  - stations/fulwell
+  - stations/hampton
+  - stations/sunbury
+  - stations/shepperton
+- stations/feltham
+- stations/ashford-middlesex
+- stations/staines
 
 ----
 

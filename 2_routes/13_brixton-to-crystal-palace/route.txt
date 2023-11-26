@@ -16,12 +16,12 @@ Company: companies/london-chatham-and-dover
 
 Stops:
 
-- brixton
-- denmark-hill
-- peckham-rye
-- honor-oak
-- lordship-lane
-- crystal-palace-high-level
+- stations/brixton
+- stations/denmark-hill
+- stations/peckham-rye
+- stations/honor-oak
+- stations/lordship-lane
+- stations/crystal-palace-high-level
 
 ----
 

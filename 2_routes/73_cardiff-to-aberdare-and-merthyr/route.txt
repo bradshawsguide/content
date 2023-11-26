@@ -12,15 +12,26 @@ Company: companies/taff-vale
 
 Stops:
 
-- cardiff
-- llandaff
-- [walnut-tree-junction, llantrissant, ystrad-owen, cowbridge]
-- trefforest
-- [pontypridd, havod, porth, tonypandy, ystrad-rhondda, treherbert]
-- [aberdare-junction, mountain-ash, treaman, aberdare-low-level]
-- quakers-yard
-- troedyrhiew
-- merthyr
+- stations/cardiff
+- stations/llandaff
+- - stations/walnut-tree-junction
+  - stations/llantrissant
+  - stations/ystrad-owen
+  - stations/cowbridge
+- stations/trefforest
+- - stations/pontypridd
+  - stations/havod
+  - stations/porth
+  - stations/tonypandy
+  - stations/ystrad-rhondda
+  - stations/treherbert
+- - stations/aberdare-junction
+  - stations/mountain-ash
+  - stations/treaman
+  - stations/aberdare-low-level
+- stations/quakers-yard
+- stations/troedyrhiew
+- stations/merthyr
 
 ----
 

@@ -12,23 +12,30 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- blisworth-junction
-- [northampton, brampton, spratton, brixworth, lamport, kelmarsh, clipston, market-harborough]
-- billing-road
-- castle-ashby
-- wellingborough-london-road
-- ditchford
-- higham-ferrers
-- ringstead
-- thrapston
-- thorpe
-- barnwell
-- oundle
-- elton
-- wansford
-- castor
-- overton-northants
-- peterborough
+- stations/blisworth-junction
+- - stations/northampton
+  - stations/brampton
+  - stations/spratton
+  - stations/brixworth
+  - stations/lamport
+  - stations/kelmarsh
+  - stations/clipston
+  - stations/market-harborough
+- stations/billing-road
+- stations/castle-ashby
+- stations/wellingborough-london-road
+- stations/ditchford
+- stations/higham-ferrers
+- stations/ringstead
+- stations/thrapston
+- stations/thorpe
+- stations/barnwell
+- stations/oundle
+- stations/elton
+- stations/wansford
+- stations/castor
+- stations/overton-northants
+- stations/peterborough
 
 ----
 

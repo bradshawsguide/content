@@ -12,29 +12,36 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- euston-square
-- camden-town
-- kilburn
-- willesden
-- sudbury
-- harrow
-- pinner
-- bushey
-- [watford, rickmansworth]
-- [watford, bricket-wood, park-street, st-albans]
-- kings-langley
-- boxmoor
-- berkhamsted
-- tring
-- [cheddington, marston-gate, aylesbury]
-- [leighton-junction, dunstable]
-- bletchley
-- wolverton
-- roade
-- blisworth-junction
-- weedon
-- crick
-- rugby
+- stations/euston-square
+- stations/camden-town
+- stations/kilburn
+- stations/willesden
+- stations/sudbury
+- stations/harrow
+- stations/pinner
+- stations/bushey
+- - stations/watford
+  - stations/rickmansworth
+- - stations/watford
+  - stations/bricket-wood
+  - stations/park-street
+  - stations/st-albans
+- stations/kings-langley
+- stations/boxmoor
+- stations/berkhamsted
+- stations/tring
+- - stations/cheddington
+  - stations/marston-gate
+  - stations/aylesbury
+- - stations/leighton-junction
+  - stations/dunstable
+- stations/bletchley
+- stations/wolverton
+- stations/roade
+- stations/blisworth-junction
+- stations/weedon
+- stations/crick
+- stations/rugby
 
 ----
 

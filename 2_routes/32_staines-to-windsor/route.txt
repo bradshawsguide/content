@@ -16,10 +16,10 @@ Company: companies/london-and-south-western
 
 Stops:
 
-- staines
-- wraysbury
-- datchet
-- windsor-lswr
+- stations/staines
+- stations/wraysbury
+- stations/datchet
+- stations/windsor-lswr
 
 ----
 

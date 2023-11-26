@@ -12,20 +12,20 @@ Company: companies/vale-of-clwyd
 
 Stops:
 
-- rhyl
-- foryd
-- rhuddlan
-- st-asaph
-- trefnant
-- denbigh
-- llanrhaidr
-- rhewl
-- ruthin
-- eyarth
-- nantclwyd
-- derwen
-- gwyddelwern
-- corwen
+- stations/rhyl
+- stations/foryd
+- stations/rhuddlan
+- stations/st-asaph
+- stations/trefnant
+- stations/denbigh
+- stations/llanrhaidr
+- stations/rhewl
+- stations/ruthin
+- stations/eyarth
+- stations/nantclwyd
+- stations/derwen
+- stations/gwyddelwern
+- stations/corwen
 
 ----
 

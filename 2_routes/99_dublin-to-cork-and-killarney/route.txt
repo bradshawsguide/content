@@ -16,24 +16,55 @@ Company: companies/great-southern-and-western
 
 Stops:
 
-- dublin
-- newbridge-kildare
-- [kildare-junction, athy, mageney, carlow, milford-carlow, bagnalstown, [gowran, borris, ballywilliam], kilkenny, bennetts-bridge, thomastown, ballyhale, mullinavat, kilmacow, waterford]
-- [portarlington, geashill, tullamore, athlone]
-- maryborough
-- mountrath
-- ballybrophy
-- templemore
-- thurles
-- goolds-cross
-- dundrum
-- [limerick-junction, oola, pallas, dromkeen, boher, killonan, [limerick, longpavement, cratloe, six-mile-bridge, ballycar, ardsollus, clare-castle, ennis]]
-- knocklong
-- kilmallock
-- charleville
-- buttevant
-- mallow
-- cork
+- stations/dublin
+- stations/newbridge-kildare
+- - stations/kildare-junction
+  - stations/athy
+  - stations/mageney
+  - stations/carlow
+  - stations/milford-carlow
+  - stations/bagnalstown
+  - - stations/gowran
+    - stations/borris
+    - stations/ballywilliam
+  - stations/kilkenny
+  - stations/bennetts-bridge
+  - stations/thomastown
+  - stations/ballyhale
+  - stations/mullinavat
+  - stations/kilmacow
+  - stations/waterford
+- - stations/portarlington
+  - stations/geashill
+  - stations/tullamore
+  - stations/athlone
+- stations/maryborough
+- stations/mountrath
+- stations/ballybrophy
+- stations/templemore
+- stations/thurles
+- stations/goolds-cross
+- stations/dundrum
+- - stations/limerick-junction
+  - stations/oola
+  - stations/pallas
+  - stations/dromkeen
+  - stations/boher
+  - stations/killonan
+  - - stations/limerick
+    - stations/longpavement
+    - stations/cratloe
+    - stations/six-mile-bridge
+    - stations/ballycar
+    - stations/ardsollus
+    - stations/clare-castle
+    - stations/ennis
+- stations/knocklong
+- stations/kilmallock
+- stations/charleville
+- stations/buttevant
+- stations/mallow
+- stations/cork
 
 ----
 

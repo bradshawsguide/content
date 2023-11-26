@@ -16,22 +16,31 @@ Company: companies/llanelly-railway-and-docks
 
 Stops:
 
-- llanelly
-- dock
-- bynea
-- llangennech
-- pontardulais
-- [pantyffynnon, cross-inn, garnant, brynamman]
-- duffryn
-- llandebie
-- derwydd-road
-- ffairfach
-- [llandilo, llandilo-bridge, golden-grove, llanarthney, nantgaredig, abergwilly, carmarthen]
-- talley-road
-- glanrhyd
-- llangadock
-- lampeter-road
-- llandovery
+- stations/llanelly
+- stations/dock
+- stations/bynea
+- stations/llangennech
+- stations/pontardulais
+- - stations/pantyffynnon
+  - stations/cross-inn
+  - stations/garnant
+  - stations/brynamman
+- stations/duffryn
+- stations/llandebie
+- stations/derwydd-road
+- stations/ffairfach
+- - stations/llandilo
+  - stations/llandilo-bridge
+  - stations/golden-grove
+  - stations/llanarthney
+  - stations/nantgaredig
+  - stations/abergwilly
+  - stations/carmarthen
+- stations/talley-road
+- stations/glanrhyd
+- stations/llangadock
+- stations/lampeter-road
+- stations/llandovery
 
 ----
 

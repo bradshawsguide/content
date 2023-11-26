@@ -16,12 +16,15 @@ Company: companies/bristol-and-exeter
 
 Stops:
 
-- taunton
-- bishops-lydeard
-- crowcombe
-- stogumber
-- williton
-- [watchet, washford, roadwater, combe-row]
+- stations/taunton
+- stations/bishops-lydeard
+- stations/crowcombe
+- stations/stogumber
+- stations/williton
+- - stations/watchet
+  - stations/washford
+  - stations/roadwater
+  - stations/combe-row
 
 ----
 

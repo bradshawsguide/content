@@ -16,15 +16,15 @@ Company: companies/great-western
 
 Stops:
 
-- westbury
-- warminster
-- heytesbury
-- codford
-- wiley
-- langford
-- wishford
-- wilton-north
-- salisbury
+- stations/westbury
+- stations/warminster
+- stations/heytesbury
+- stations/codford
+- stations/wiley
+- stations/langford
+- stations/wishford
+- stations/wilton-north
+- stations/salisbury
 
 ----
 

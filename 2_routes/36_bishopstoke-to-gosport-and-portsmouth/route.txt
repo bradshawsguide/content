@@ -20,11 +20,15 @@ Company: companies/london-and-south-western
 
 Stops:
 
-- bishopstoke
-- [botley, bishops-waltham]
-- [fareham, gosport, stokes-bay]
-- porchester
-- [cosham, portsmouth]
+- stations/bishopstoke
+- - stations/botley
+  - stations/bishops-waltham
+- - stations/fareham
+  - stations/gosport
+  - stations/stokes-bay
+- stations/porchester
+- - stations/cosham
+  - stations/portsmouth
 
 ----
 

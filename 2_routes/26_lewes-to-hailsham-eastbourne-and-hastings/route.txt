@@ -20,15 +20,17 @@ Company: companies/london-brighton-and-south-coast
 
 Stops:
 
-- lewes
-- glynde
-- berwick
-- [polegate, hailsham]
-- [polegate, eastbourne]
-- pevensey
-- bexhill
-- st-leonards
-- hastings
+- stations/lewes
+- stations/glynde
+- stations/berwick
+- - stations/polegate
+  - stations/hailsham
+- - stations/polegate
+  - stations/eastbourne
+- stations/pevensey
+- stations/bexhill
+- stations/st-leonards
+- stations/hastings
 
 ----
 

@@ -20,21 +20,46 @@ Company: companies/monmouthshire
 
 Stops:
 
-- newport-dock-street
-- [newport-mill-street, llantarnam, cwmbran, upper-pontnewydd, pontrhydyrun, pontypool-crane-street, pontnewynydd, abersychan, cwm-avon, blaenavon]
-- [bassaleg-junction, rhiwderin, church-road, machen, bedwas, maesycwmmer, pengam, bargoed, new-tredegar, rhymney]
-- tydee
-- [risca, tredegar-junction, blackwood, argoed, tredegar, sirhowy]
-- cross-keys
-- chapel-bridge
-- abercarne
-- newbridge
-- crumlin-low-level
-- llanhilleth
-- [aberbeeg, abertillery, blaina]
-- cwm
-- victoria-ebbw-vale
-- ebbw-vale-low-level
+- stations/newport-dock-street
+- - stations/newport-mill-street
+  - stations/llantarnam
+  - stations/cwmbran
+  - stations/upper-pontnewydd
+  - stations/pontrhydyrun
+  - stations/pontypool-crane-street
+  - stations/pontnewynydd
+  - stations/abersychan
+  - stations/cwm-avon
+  - stations/blaenavon
+- - stations/bassaleg-junction
+  - stations/rhiwderin
+  - stations/church-road
+  - stations/machen
+  - stations/bedwas
+  - stations/maesycwmmer
+  - stations/pengam
+  - stations/bargoed
+  - stations/new-tredegar
+  - stations/rhymney
+- stations/tydee
+- - stations/risca
+  - stations/tredegar-junction
+  - stations/blackwood
+  - stations/argoed
+  - stations/tredegar
+  - stations/sirhowy
+- stations/cross-keys
+- stations/chapel-bridge
+- stations/abercarne
+- stations/newbridge
+- stations/crumlin-low-level
+- stations/llanhilleth
+- - stations/aberbeeg
+  - stations/abertillery
+  - stations/blaina
+- stations/cwm
+- stations/victoria-ebbw-vale
+- stations/ebbw-vale-low-level
 
 ----
 

@@ -16,12 +16,12 @@ Company: companies/midland
 
 Stops:
 
-- evesham
-- bengeworth
-- hinton
-- ashton-under-hill
-- beckford
-- ashchurch
+- stations/evesham
+- stations/bengeworth
+- stations/hinton
+- stations/ashton-under-hill
+- stations/beckford
+- stations/ashchurch
 
 ----
 

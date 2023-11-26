@@ -20,13 +20,13 @@ Company: companies/great-western
 
 Stops:
 
-- grange-court-junction
-- longhope
-- mitcheldean-road
-- ross
-- fawley
-- holme-lacey
-- hereford
+- stations/grange-court-junction
+- stations/longhope
+- stations/mitcheldean-road
+- stations/ross
+- stations/fawley
+- stations/holme-lacey
+- stations/hereford
 
 ----
 

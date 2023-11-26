@@ -20,17 +20,18 @@ Company: companies/great-western
 
 Stops:
 
-- truro
-- chacewater
-- scorrier-gate
-- redruth
-- pool
-- camborne
-- gwinear-road
-- hayle
-- [st-ives-road, st-ives]
-- marazion-road
-- penzance
+- stations/truro
+- stations/chacewater
+- stations/scorrier-gate
+- stations/redruth
+- stations/pool
+- stations/camborne
+- stations/gwinear-road
+- stations/hayle
+- - stations/st-ives-road
+  - stations/st-ives
+- stations/marazion-road
+- stations/penzance
 
 ----
 

@@ -20,19 +20,19 @@ Company: companies/great-western
 
 Stops:
 
-- maidenhead
-- cookham
-- marlow-road
-- woburn-green
-- loudwater
-- high-wycombe
-- west-wycombe
-- princes-risborough
-- bledlow
-- thame
-- wheatley
-- littlemore
-- oxford
+- stations/maidenhead
+- stations/cookham
+- stations/marlow-road
+- stations/woburn-green
+- stations/loudwater
+- stations/high-wycombe
+- stations/west-wycombe
+- stations/princes-risborough
+- stations/bledlow
+- stations/thame
+- stations/wheatley
+- stations/littlemore
+- stations/oxford
 
 ----
 

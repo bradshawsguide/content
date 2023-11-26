@@ -16,13 +16,16 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- shrewsbury
-- [hanwood, plealey-road, pontesbury, minsterley]
-- yockleton
-- westbury-salop
-- middletown
-- buttington
-- welshpool
+- stations/shrewsbury
+- - stations/hanwood
+  - stations/plealey-road
+  - stations/pontesbury
+  - stations/minsterley
+- stations/yockleton
+- stations/westbury-salop
+- stations/middletown
+- stations/buttington
+- stations/welshpool
 
 ----
 

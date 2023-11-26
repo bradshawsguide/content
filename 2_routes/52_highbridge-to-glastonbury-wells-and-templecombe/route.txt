@@ -16,18 +16,19 @@ Company: companies/somerset-and-dorset
 
 Stops:
 
-- highbridge
-- bason-bridge
-- edington
-- shapwick
-- ashcott
-- [glastonbury, wells]
-- west-pennard
-- pylle
-- evercreech
-- cole
-- wincanton
-- templecombe
+- stations/highbridge
+- stations/bason-bridge
+- stations/edington
+- stations/shapwick
+- stations/ashcott
+- - stations/glastonbury
+  - stations/wells
+- stations/west-pennard
+- stations/pylle
+- stations/evercreech
+- stations/cole
+- stations/wincanton
+- stations/templecombe
 
 ----
 

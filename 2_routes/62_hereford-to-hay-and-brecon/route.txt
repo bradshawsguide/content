@@ -16,20 +16,21 @@ Company: companies/hereford-hay-and-brecon
 
 Stops:
 
-- hereford
-- credenhill
-- moorhampton
-- kinnersley
-- eardisley
-- whitney
-- hay
-- glasbury
-- three-cocks-junction
-- talgarth
-- [talyllyn-junction, brecon]
-- talybont
-- dolygaer
-- dowlais
+- stations/hereford
+- stations/credenhill
+- stations/moorhampton
+- stations/kinnersley
+- stations/eardisley
+- stations/whitney
+- stations/hay
+- stations/glasbury
+- stations/three-cocks-junction
+- stations/talgarth
+- - stations/talyllyn-junction
+  - stations/brecon
+- stations/talybont
+- stations/dolygaer
+- stations/dowlais
 
 ----
 

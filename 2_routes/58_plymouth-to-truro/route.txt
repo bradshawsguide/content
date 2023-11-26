@@ -12,19 +12,22 @@ Company: companies/cornwall
 
 Stops:
 
-- plymouth
-- devonport
-- saltash
-- st-germans
-- menheniot
-- liskeard
-- doublebois
-- bodmin-road
-- lostwithiel
-- par
-- st-austell
-- grampound-road
-- [truro, perran, penryn, falmouth]
+- stations/plymouth
+- stations/devonport
+- stations/saltash
+- stations/st-germans
+- stations/menheniot
+- stations/liskeard
+- stations/doublebois
+- stations/bodmin-road
+- stations/lostwithiel
+- stations/par
+- stations/st-austell
+- stations/grampound-road
+- - stations/truro
+  - stations/perran
+  - stations/penryn
+  - stations/falmouth
 
 ----
 

@@ -12,13 +12,13 @@ Company: companies/limerick-and-foynes
 
 Stops:
 
-- limerick
-- fortetna-road
-- patricks-well
-- adare
-- rathkeale
-- askeaton
-- foynes
+- stations/limerick
+- stations/fortetna-road
+- stations/patricks-well
+- stations/adare
+- stations/rathkeale
+- stations/askeaton
+- stations/foynes
 
 ----
 

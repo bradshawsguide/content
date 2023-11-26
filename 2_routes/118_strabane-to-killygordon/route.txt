@@ -12,11 +12,11 @@ Company: companies/finn-valley
 
 Stops:
 
-- strabane
-- clady
-- castlefinn
-- liscooly
-- killygordon
+- stations/strabane
+- stations/clady
+- stations/castlefinn
+- stations/liscooly
+- stations/killygordon
 
 ----
 

@@ -16,20 +16,28 @@ Company: companies/south-devon
 
 Stops:
 
-- exeter-st-davids
-- exeter-st-thomas
-- exminster
-- star-cross
-- dawlish
-- teignmouth
-- [newton-junction, kingskerswell, torre, torquay, paignton, [brixham-road, brixham], kingswear, dartmouth]
-- totness
-- brent
-- kingsbridge-road
-- ivy-bridge
-- cornwood
-- plympton
-- plymouth
+- stations/exeter-st-davids
+- stations/exeter-st-thomas
+- stations/exminster
+- stations/star-cross
+- stations/dawlish
+- stations/teignmouth
+- - stations/newton-junction
+  - stations/kingskerswell
+  - stations/torre
+  - stations/torquay
+  - stations/paignton
+  - - stations/brixham-road
+    - stations/brixham
+  - stations/kingswear
+  - stations/dartmouth
+- stations/totness
+- stations/brent
+- stations/kingsbridge-road
+- stations/ivy-bridge
+- stations/cornwood
+- stations/plympton
+- stations/plymouth
 
 ----
 

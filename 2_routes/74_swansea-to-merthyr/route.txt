@@ -16,16 +16,16 @@ Company: companies/great-western
 
 Stops:
 
-- swansea-wind-street
-- briton-ferry
-- neath
-- aberdylais
-- resolven
-- glyn-neath
-- hirwain
-- llydcoed
-- abernant
-- merthyr
+- stations/swansea-wind-street
+- stations/briton-ferry
+- stations/neath
+- stations/aberdylais
+- stations/resolven
+- stations/glyn-neath
+- stations/hirwain
+- stations/llydcoed
+- stations/abernant
+- stations/merthyr
 
 ----
 

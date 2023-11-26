@@ -16,14 +16,14 @@ Company: companies/great-western
 
 Stops:
 
-- pontypool-road
-- usk
-- llandenny
-- raglan-road
-- raglan-footpath
-- raglan
-- dingestow
-- monmouth
+- stations/pontypool-road
+- stations/usk
+- stations/llandenny
+- stations/raglan-road
+- stations/raglan-footpath
+- stations/raglan
+- stations/dingestow
+- stations/monmouth
 
 ----
 

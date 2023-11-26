@@ -16,10 +16,13 @@ Company: companies/london-brighton-and-south-coast
 
 Stops:
 
-- haywards-heath
-- cooks-bridge
-- [lewes, barcombe, isfield, uckfield]
-- newhaven
+- stations/haywards-heath
+- stations/cooks-bridge
+- - stations/lewes
+  - stations/barcombe
+  - stations/isfield
+  - stations/uckfield
+- stations/newhaven
 
 ----
 

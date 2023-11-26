@@ -12,14 +12,17 @@ Company: companies/carmarthen-and-cardigan
 
 Stops:
 
-- carmarthen
-- bronwydd-arms
-- conwyl
-- llanpumpsaint
-- [pencader, maesycrugiau, llanybyther, lampeter]
-- llandyssil
-- newcastle-emlyn
-- cardigan
+- stations/carmarthen
+- stations/bronwydd-arms
+- stations/conwyl
+- stations/llanpumpsaint
+- - stations/pencader
+  - stations/maesycrugiau
+  - stations/llanybyther
+  - stations/lampeter
+- stations/llandyssil
+- stations/newcastle-emlyn
+- stations/cardigan
 
 ----
 

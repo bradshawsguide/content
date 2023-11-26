@@ -12,11 +12,11 @@ Company: companies/east-somerset
 
 Stops:
 
-- frome
-- wanstrow
-- cranmore
-- shepton-mallet
-- wells-east-somerset
+- stations/frome
+- stations/wanstrow
+- stations/cranmore
+- stations/shepton-mallet
+- stations/wells-east-somerset
 
 ----
 

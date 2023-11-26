@@ -12,24 +12,33 @@ Company: companies/cambrian
 
 Stops:
 
-- oswestry
-- llynclys
-- pant-salop
-- [llanymynech, llansaintffraid, llanfechain, llanfyllin]
-- four-crosses
-- arddleen
-- pool-quay
-- buttington
-- welshpool
-- forden
-- montgomery
-- [abermule, kerry]
-- newtown
-- scafell
-- [moat-lane, caersws, carno, llanbrynmair, cemmes-road, machynlleth]
-- llandinam
-- dolwen
-- llanidloes
+- stations/oswestry
+- stations/llynclys
+- stations/pant-salop
+- - stations/llanymynech
+  - stations/llansaintffraid
+  - stations/llanfechain
+  - stations/llanfyllin
+- stations/four-crosses
+- stations/arddleen
+- stations/pool-quay
+- stations/buttington
+- stations/welshpool
+- stations/forden
+- stations/montgomery
+- - stations/abermule
+  - stations/kerry
+- stations/newtown
+- stations/scafell
+- - stations/moat-lane
+  - stations/caersws
+  - stations/carno
+  - stations/llanbrynmair
+  - stations/cemmes-road
+  - stations/machynlleth
+- stations/llandinam
+- stations/dolwen
+- stations/llanidloes
 
 ----
 

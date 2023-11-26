@@ -12,18 +12,27 @@ Company: companies/dublin-and-drogheda
 
 Stops:
 
-- dublin
-- raheny
-- [howth-junction, baldoyle-and-sutton, howth]
-- portmarnock
-- malahide
-- donabate
-- rush-and-lusk
-- skerries
-- balbriggan
-- gormanston
-- laytown
-- [drogheda, duleek, beauparc, navan, ballybeg, kells, virginia-road, oldcastle]
+- stations/dublin
+- stations/raheny
+- - stations/howth-junction
+  - stations/baldoyle-and-sutton
+  - stations/howth
+- stations/portmarnock
+- stations/malahide
+- stations/donabate
+- stations/rush-and-lusk
+- stations/skerries
+- stations/balbriggan
+- stations/gormanston
+- stations/laytown
+- - stations/drogheda
+  - stations/duleek
+  - stations/beauparc
+  - stations/navan
+  - stations/ballybeg
+  - stations/kells
+  - stations/virginia-road
+  - stations/oldcastle
 
 ----
 

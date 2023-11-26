@@ -12,10 +12,10 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- coventry
-- kenilworth
-- leamington
-- warwick
+- stations/coventry
+- stations/kenilworth
+- stations/leamington
+- stations/warwick
 
 ----
 

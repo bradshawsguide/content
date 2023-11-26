@@ -16,10 +16,10 @@ Company: companies/north-staffordshire
 
 Stops:
 
-- kidsgrove-junction
-- alsager
-- radway-green
-- crewe
+- stations/kidsgrove-junction
+- stations/alsager
+- stations/radway-green
+- stations/crewe
 
 ----
 

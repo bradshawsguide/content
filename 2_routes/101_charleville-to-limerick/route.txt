@@ -12,12 +12,12 @@ Company: companies/cork-and-limerick-direct
 
 Stops:
 
-- charleville
-- bruree
-- rosstemple
-- croom
-- patricks-well
-- limerick
+- stations/charleville
+- stations/bruree
+- stations/rosstemple
+- stations/croom
+- stations/patricks-well
+- stations/limerick
 
 ----
 

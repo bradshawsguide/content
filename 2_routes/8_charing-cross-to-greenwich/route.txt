@@ -20,14 +20,14 @@ Company: companies/south-eastern
 
 Stops:
 
-- charing-cross
-- waterloo-junction
-- blackfriars-road
-- london-bridge
-- spa-road
-- commercial-dock
-- deptford
-- greenwich
+- stations/charing-cross
+- stations/waterloo-junction
+- stations/blackfriars-road
+- stations/london-bridge
+- stations/spa-road
+- stations/commercial-dock
+- stations/deptford
+- stations/greenwich
 
 ----
 

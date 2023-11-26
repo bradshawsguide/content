@@ -12,13 +12,13 @@ Company: companies/hampstead-junction
 
 Stops:
 
-- camden-road
-- kentish-town
-- hampstead-heath
-- finchley
-- edgware-road
-- kensal-green
-- willesden-junction
+- stations/camden-road
+- stations/kentish-town
+- stations/hampstead-heath
+- stations/finchley
+- stations/edgware-road
+- stations/kensal-green
+- stations/willesden-junction
 
 ----
 

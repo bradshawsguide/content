@@ -16,16 +16,16 @@ Company: companies/south-devon-and-tavistock
 
 Stops:
 
-- plymouth
-- marsh-mills
-- bickleigh
-- horrabridge
-- tavistock-south
-- marytavy
-- lidford
-- coryton
-- lifton
-- launceston
+- stations/plymouth
+- stations/marsh-mills
+- stations/bickleigh
+- stations/horrabridge
+- stations/tavistock-south
+- stations/marytavy
+- stations/lidford
+- stations/coryton
+- stations/lifton
+- stations/launceston
 
 ----
 

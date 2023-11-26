@@ -12,10 +12,10 @@ Company: companies/bristol-port-and-pier
 
 Stops:
 
-- clifton
-- sea-mills
-- shirehampton
-- avonmouth
+- stations/clifton
+- stations/sea-mills
+- stations/shirehampton
+- stations/avonmouth
 
 ----
 

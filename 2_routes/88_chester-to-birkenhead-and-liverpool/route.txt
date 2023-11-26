@@ -19,16 +19,16 @@ Company:
 
 Stops:
 
-- chester
-- mollington
-- ledsham
-- hooton
-- bromborough
-- spital
-- bebington
-- rock-ferry
-- birkenhead
-- liverpool-pier-head
+- stations/chester
+- stations/mollington
+- stations/ledsham
+- stations/hooton
+- stations/bromborough
+- stations/spital
+- stations/bebington
+- stations/rock-ferry
+- stations/birkenhead
+- stations/liverpool-pier-head
 
 ----
 

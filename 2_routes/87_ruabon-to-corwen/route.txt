@@ -16,14 +16,14 @@ Company: companies/great-western
 
 Stops:
 
-- ruabon
-- acrefair
-- trevor
-- llangollen
-- berwyn
-- glyndyfrdwy
-- carrog
-- corwen
+- stations/ruabon
+- stations/acrefair
+- stations/trevor
+- stations/llangollen
+- stations/berwyn
+- stations/glyndyfrdwy
+- stations/carrog
+- stations/corwen
 
 ----
 

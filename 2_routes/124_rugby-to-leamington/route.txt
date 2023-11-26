@@ -12,11 +12,11 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- rugby
-- birdingbury
-- marton
-- leamington
-- warwick
+- stations/rugby
+- stations/birdingbury
+- stations/marton
+- stations/leamington
+- stations/warwick
 
 ----
 

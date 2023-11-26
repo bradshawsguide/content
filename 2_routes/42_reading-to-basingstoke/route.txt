@@ -16,9 +16,9 @@ Company: companies/great-western
 
 Stops:
 
-- reading
-- mortimer
-- basingstoke
+- stations/reading
+- stations/mortimer
+- stations/basingstoke
 
 ----
 

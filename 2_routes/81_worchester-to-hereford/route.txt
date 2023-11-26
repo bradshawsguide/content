@@ -16,19 +16,19 @@ Company: companies/great-western
 
 Stops:
 
-- worcester-shrub-hill
-- worcester-foregate-street
-- henwick
-- bransford-road
-- malvern-link
-- great-malvern
-- malvern-wells
-- colwall
-- ledbury
-- ashperton
-- stoke-edith
-- withington
-- hereford
+- stations/worcester-shrub-hill
+- stations/worcester-foregate-street
+- stations/henwick
+- stations/bransford-road
+- stations/malvern-link
+- stations/great-malvern
+- stations/malvern-wells
+- stations/colwall
+- stations/ledbury
+- stations/ashperton
+- stations/stoke-edith
+- stations/withington
+- stations/hereford
 
 ----
 

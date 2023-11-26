@@ -16,12 +16,12 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- chester
-- broughton-hall
-- hope
-- padeswood
-- llong
-- mold
+- stations/chester
+- stations/broughton-hall
+- stations/hope
+- stations/padeswood
+- stations/llong
+- stations/mold
 
 ----
 

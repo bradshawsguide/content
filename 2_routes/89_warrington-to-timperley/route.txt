@@ -16,14 +16,14 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- warrington
-- latchford
-- thelwall
-- lymm
-- heatley
-- dunham-massey
-- broadheath-altrincham
-- timperley
+- stations/warrington
+- stations/latchford
+- stations/thelwall
+- stations/lymm
+- stations/heatley
+- stations/dunham-massey
+- stations/broadheath-altrincham
+- stations/timperley
 
 ----
 

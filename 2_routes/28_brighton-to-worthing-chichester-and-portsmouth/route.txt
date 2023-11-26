@@ -20,26 +20,27 @@ Company: companies/london-brighton-and-south-coast
 
 Stops:
 
-- brighton
-- hove
-- cliftonville
-- portslade
-- southwick
-- kingston-on-sea
-- new-shoreham
-- lancing
-- worthing
-- goring-by-sea
-- angmering
-- littlehampton
-- ford
-- [barnham, bognor]
-- drayton
-- chichester
-- bosham
-- emsworth
-- havant
-- portsmouth
+- stations/brighton
+- stations/hove
+- stations/cliftonville
+- stations/portslade
+- stations/southwick
+- stations/kingston-on-sea
+- stations/new-shoreham
+- stations/lancing
+- stations/worthing
+- stations/goring-by-sea
+- stations/angmering
+- stations/littlehampton
+- stations/ford
+- - stations/barnham
+  - stations/bognor
+- stations/drayton
+- stations/chichester
+- stations/bosham
+- stations/emsworth
+- stations/havant
+- stations/portsmouth
 
 ----
 

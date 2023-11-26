@@ -16,16 +16,26 @@ Company: companies/dublin-and-belfast-junction
 
 Stops:
 
-- drogheda
-- dunleer
-- castlebellingham
-- dundalk
-- bessbrook
-- [goraghwood, loughgilly, market-hill, hamiltonsbawn, armagh]
-- poyntzpass
-- [scarva, lawrencetown, banbridge, mullaternaghan, dromore, hillsborough, lisburn]
-- tandragee
-- portadown
+- stations/drogheda
+- stations/dunleer
+- stations/castlebellingham
+- stations/dundalk
+- stations/bessbrook
+- - stations/goraghwood
+  - stations/loughgilly
+  - stations/market-hill
+  - stations/hamiltonsbawn
+  - stations/armagh
+- stations/poyntzpass
+- - stations/scarva
+  - stations/lawrencetown
+  - stations/banbridge
+  - stations/mullaternaghan
+  - stations/dromore
+  - stations/hillsborough
+  - stations/lisburn
+- stations/tandragee
+- stations/portadown
 
 ----
 

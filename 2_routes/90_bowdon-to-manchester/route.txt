@@ -16,14 +16,14 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- altrincham-and-bowdon
-- timperley
-- brooklands
-- sale
-- stretford
-- old-trafford
-- knott-mill
-- manchester-oxford-road
+- stations/altrincham-and-bowdon
+- stations/timperley
+- stations/brooklands
+- stations/sale
+- stations/stretford
+- stations/old-trafford
+- stations/knott-mill
+- stations/manchester-oxford-road
 
 ----
 

@@ -16,22 +16,30 @@ Company: companies/great-western
 
 Stops:
 
-- hartlebury
-- stourport
-- bewdley
-- arley
-- highley
-- hampton-loade
-- bridgnorth
-- linley
-- [coalport, hadley]
-- ironbridge
-- [buildwas, much-wenlock]
-- [coalbrookdale, madeley, shiffnal]
-- [coalbrookdale, horsehay, lawley-bank, ketley, wellington]
-- cressage
-- berrington
-- shrewsbury
+- stations/hartlebury
+- stations/stourport
+- stations/bewdley
+- stations/arley
+- stations/highley
+- stations/hampton-loade
+- stations/bridgnorth
+- stations/linley
+- - stations/coalport
+  - stations/hadley
+- stations/ironbridge
+- - stations/buildwas
+  - stations/much-wenlock
+- - stations/coalbrookdale
+  - stations/madeley
+  - stations/shiffnal
+- - stations/coalbrookdale
+  - stations/horsehay
+  - stations/lawley-bank
+  - stations/ketley
+  - stations/wellington
+- stations/cressage
+- stations/berrington
+- stations/shrewsbury
 
 ----
 

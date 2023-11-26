@@ -12,13 +12,13 @@ Company: companies/pembroke-and-tenby
 
 Stops:
 
-- new-milford
-- hobbs-point
-- pembroke
-- lamphey
-- manorbeer
-- penally
-- tenby
+- stations/new-milford
+- stations/hobbs-point
+- stations/pembroke
+- stations/lamphey
+- stations/manorbeer
+- stations/penally
+- stations/tenby
 
 ----
 

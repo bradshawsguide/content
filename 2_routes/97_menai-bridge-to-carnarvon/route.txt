@@ -20,11 +20,11 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- menai-bridge
-- treborth
-- port-dinorwic
-- griffiths-crossing
-- carnarvon
+- stations/menai-bridge
+- stations/treborth
+- stations/port-dinorwic
+- stations/griffiths-crossing
+- stations/carnarvon
 
 ----
 

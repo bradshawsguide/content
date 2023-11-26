@@ -12,14 +12,15 @@ Company: companies/parsonstown-and-limerick
 
 Stops:
 
-- ballybrophy
-- [roscrea, parsonstown]
-- cloughjordan
-- nenagh
-- birdhill
-- castleconnel
-- killonan
-- limerick
+- stations/ballybrophy
+- - stations/roscrea
+  - stations/parsonstown
+- stations/cloughjordan
+- stations/nenagh
+- stations/birdhill
+- stations/castleconnel
+- stations/killonan
+- stations/limerick
 
 ----
 

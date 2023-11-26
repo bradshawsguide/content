@@ -16,16 +16,18 @@ Company: companies/north-london
 
 Stops:
 
-- fenchurch-street
-- stepney
-- bow
-- victoria-park
-- hackney
-- [dalston, shoreditch, broad-street]
-- newington-road
-- islington-and-highbury
-- camden-road
-- chalk-farm
+- stations/fenchurch-street
+- stations/stepney
+- stations/bow
+- stations/victoria-park
+- stations/hackney
+- - stations/dalston
+  - stations/shoreditch
+  - stations/broad-street
+- stations/newington-road
+- stations/islington-and-highbury
+- stations/camden-road
+- stations/chalk-farm
 
 ----
 

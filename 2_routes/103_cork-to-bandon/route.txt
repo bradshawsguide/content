@@ -12,12 +12,14 @@ Company: companies/cork-bandon-and-south-coast
 
 Stops:
 
-- cork
-- waterfall
-- ballinhassig
-- [kinsale-junction, farrangalway, kinsale]
-- upton-and-brinny
-- bandon
+- stations/cork
+- stations/waterfall
+- stations/ballinhassig
+- - stations/kinsale-junction
+  - stations/farrangalway
+  - stations/kinsale
+- stations/upton-and-brinny
+- stations/bandon
 
 ----
 

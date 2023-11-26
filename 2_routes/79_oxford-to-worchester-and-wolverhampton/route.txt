@@ -20,39 +20,46 @@ Company: companies/great-western
 
 Stops:
 
-- oxford
-- handborough
-- charlbury
-- ascott
-- [shipton, chipping-norton]
-- [shipton, bourton-on-the-water]
-- addlestrop-and-stow-road
-- moreton-in-the-marsh
-- blockley
-- campden
-- [honeybourne, long-marston, milcote, stratford-upon-avon]
-- evesham
-- fladbury
-- pershore
-- worcester-shrub-hill
-- fearnall-heath
-- droitwich
-- hartlebury
-- kidderminster
-- churchill
-- hagley
-- [stourbridge, lye, cradley]
-- brettel-lane
-- brierley-hill
-- round-oak
-- netherton
-- dudley
-- tipton
-- princes-end
-- daisy-bank
-- bilston-west
-- priestfield
-- wolverhampton-low-level
+- stations/oxford
+- stations/handborough
+- stations/charlbury
+- stations/ascott
+- - stations/shipton
+  - stations/chipping-norton
+- - stations/shipton
+  - stations/bourton-on-the-water
+- stations/addlestrop-and-stow-road
+- stations/moreton-in-the-marsh
+- stations/blockley
+- stations/campden
+- - stations/honeybourne
+  - stations/long-marston
+  - stations/milcote
+  - stations/stratford-upon-avon
+- stations/evesham
+- stations/fladbury
+- stations/pershore
+- stations/worcester-shrub-hill
+- stations/fearnall-heath
+- stations/droitwich
+- stations/hartlebury
+- stations/kidderminster
+- stations/churchill
+- stations/hagley
+- - stations/stourbridge
+  - stations/lye
+  - stations/cradley
+- stations/brettel-lane
+- stations/brierley-hill
+- stations/round-oak
+- stations/netherton
+- stations/dudley
+- stations/tipton
+- stations/princes-end
+- stations/daisy-bank
+- stations/bilston-west
+- stations/priestfield
+- stations/wolverhampton-low-level
 
 ----
 

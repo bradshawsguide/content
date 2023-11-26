@@ -23,73 +23,87 @@ Company:
 
 Stops:
 
-- didcot
-- culham
-- [abingdon-junction, abingdon]
-- [oxford, yarnton, eynsham, south-leigh, witney]
-- woodstock-road
-- kirtlington
-- heyford
-- somerton
-- aynho
-- banbury
-- cropredy
-- fenny-compton
-- southam-road-and-harbury
-- leamington
-- warwick
-- [hatton, claverdon, bearley, wilmcote, stratford-upon-avon]
-- kingswood
-- knowle
-- solihull
-- acocks-green
-- bordesley
-- birmingham-snow-hill
-- hockley
-- soho-and-winson-green
-- handsworth
-- west-bromwich
-- swan-village
-- wednesbury
-- bilston-central
-- priestfield
-- wolverhampton-low-level
-- codsall
-- albrighton
-- shiffnal
-- oakengates
-- wellington
-- admaston
-- walcot
-- upton-magna
-- shrewsbury
-- leaton
-- baschurch
-- rednal
-- whittington
-- [gobowen-junction, oswestry-gwr]
-- chirk
-- cefn-mawr
-- ruabon
-- wrexham
-- gresford
-- rossett
-- saltney
-- chester
-- dunham-hill
-- [helsby, ince, whitby-locks, little-sutton, hooton]
-- frodsham
-- runcorn-road
-- norton
-- daresbury
-- warrington
-- kenyon-junction
-- bury-lane
-- astley
-- patricroft
-- eccles-manchester
-- ordsall-lane
-- manchester-exchange
+- stations/didcot
+- stations/culham
+- - stations/abingdon-junction
+  - stations/abingdon
+- - stations/oxford
+  - stations/yarnton
+  - stations/eynsham
+  - stations/south-leigh
+  - stations/witney
+- stations/woodstock-road
+- stations/kirtlington
+- stations/heyford
+- stations/somerton
+- stations/aynho
+- stations/banbury
+- stations/cropredy
+- stations/fenny-compton
+- stations/southam-road-and-harbury
+- stations/leamington
+- stations/warwick
+- - stations/hatton
+  - stations/claverdon
+  - stations/bearley
+  - stations/wilmcote
+  - stations/stratford-upon-avon
+- stations/kingswood
+- stations/knowle
+- stations/solihull
+- stations/acocks-green
+- stations/bordesley
+- stations/birmingham-snow-hill
+- stations/hockley
+- stations/soho-and-winson-green
+- stations/handsworth
+- stations/west-bromwich
+- stations/swan-village
+- stations/wednesbury
+- stations/bilston-central
+- stations/priestfield
+- stations/wolverhampton-low-level
+- stations/codsall
+- stations/albrighton
+- stations/shiffnal
+- stations/oakengates
+- stations/wellington
+- stations/admaston
+- stations/walcot
+- stations/upton-magna
+- stations/shrewsbury
+- stations/leaton
+- stations/baschurch
+- stations/rednal
+- stations/whittington
+- - stations/gobowen-junction
+  - stations/oswestry-gwr
+- stations/chirk
+- stations/cefn-mawr
+- stations/ruabon
+- stations/wrexham
+- stations/gresford
+- stations/rossett
+- stations/saltney
+- stations/chester
+- stations/dunham-hill
+- - stations/helsby
+  - stations/ince
+  - stations/whitby-locks
+  - stations/little-sutton
+  - stations/hooton
+- stations/frodsham
+- stations/runcorn-road
+- stations/norton
+- stations/daresbury
+- stations/warrington
+- stations/kenyon-junction
+- stations/bury-lane
+- stations/astley
+- stations/patricroft
+- stations/eccles-manchester
+- stations/ordsall-lane
+- stations/manchester-exchange
 
 ----
 

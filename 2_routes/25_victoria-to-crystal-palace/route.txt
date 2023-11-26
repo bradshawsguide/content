@@ -16,15 +16,18 @@ Company: companies/london-brighton-and-south-coast
 
 Stops:
 
-- victoria
-- battersea
-- new-wandsworth
-- [balham, thornton-heath, selhurst, west-croydon]
-- streatham
-- lower-norwood
-- gipsy-hill
-- crystal-palace-low-level
-- norwood-junction
+- stations/victoria
+- stations/battersea
+- stations/new-wandsworth
+- - stations/balham
+  - stations/thornton-heath
+  - stations/selhurst
+  - stations/west-croydon
+- stations/streatham
+- stations/lower-norwood
+- stations/gipsy-hill
+- stations/crystal-palace-low-level
+- stations/norwood-junction
 
 ----
 

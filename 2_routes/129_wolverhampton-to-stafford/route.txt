@@ -12,12 +12,12 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- wolverhampton
-- bushbury
-- four-ashes
-- spread-eagle
-- penkridge
-- stafford
+- stations/wolverhampton
+- stations/bushbury
+- stations/four-ashes
+- stations/spread-eagle
+- stations/penkridge
+- stations/stafford
 
 ----
 

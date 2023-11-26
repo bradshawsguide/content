@@ -12,15 +12,16 @@ Company: companies/north-staffordshire
 
 Stops:
 
-- stoke
-- [etruria, hanley]
-- burslem
-- tunstall
-- kidsgrove-junction
-- mow-cop
-- congleton
-- north-rode
-- macclesfield
+- stations/stoke
+- - stations/etruria
+  - stations/hanley
+- stations/burslem
+- stations/tunstall
+- stations/kidsgrove-junction
+- stations/mow-cop
+- stations/congleton
+- stations/north-rode
+- stations/macclesfield
 
 ----
 

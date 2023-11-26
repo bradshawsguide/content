@@ -16,15 +16,15 @@ Company: companies/cork-bandon-and-south-coast
 
 Stops:
 
-- mallow
-- lombardstown
-- kanturk
-- mill-street
-- shinnagh
-- headford
-- killarney
-- farranfore
-- tralee
+- stations/mallow
+- stations/lombardstown
+- stations/kanturk
+- stations/mill-street
+- stations/shinnagh
+- stations/headford
+- stations/killarney
+- stations/farranfore
+- stations/tralee
 
 ----
 

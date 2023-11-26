@@ -20,39 +20,50 @@ Company: companies/london-chatham-and-dover
 
 Stops:
 
-- victoria
-- battersea-park
-- stewarts-lane
-- wandsworth-road
-- clapham-high-street
-- brixton
-- herne-hill
-- penge
-- beckenham
-- shortlands
-- bromley
-- bickley
-- st-mary-cray
-- [sevenoaks-junction, eynsford, shoreham, sevenoaks]
-- farningham
-- meopham
-- sole-street
-- strood
-- rochester
-- chatham
-- new-brompton
-- rainham-kent
-- newington
-- [sittingbourne, queenborough, sheerness]
-- teynham
-- [faversham, whitstable, herne-bay, birchington, margate-west, broadstairs, ramsgate-harbour]
-- selling
-- canterbury-east
-- bekesbourne
-- adisham
-- shepherds-well
-- temple-ewell
-- dover
+- stations/victoria
+- stations/battersea-park
+- stations/stewarts-lane
+- stations/wandsworth-road
+- stations/clapham-high-street
+- stations/brixton
+- stations/herne-hill
+- stations/penge
+- stations/beckenham
+- stations/shortlands
+- stations/bromley
+- stations/bickley
+- stations/st-mary-cray
+- - stations/sevenoaks-junction
+  - stations/eynsford
+  - stations/shoreham
+  - stations/sevenoaks
+- stations/farningham
+- stations/meopham
+- stations/sole-street
+- stations/strood
+- stations/rochester
+- stations/chatham
+- stations/new-brompton
+- stations/rainham-kent
+- stations/newington
+- - stations/sittingbourne
+  - stations/queenborough
+  - stations/sheerness
+- stations/teynham
+- - stations/faversham
+  - stations/whitstable
+  - stations/herne-bay
+  - stations/birchington
+  - stations/margate-west
+  - stations/broadstairs
+  - stations/ramsgate-harbour
+- stations/selling
+- stations/canterbury-east
+- stations/bekesbourne
+- stations/adisham
+- stations/shepherds-well
+- stations/temple-ewell
+- stations/dover
 
 ----
 

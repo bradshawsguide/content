@@ -12,13 +12,17 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- bletchley
-- swanbourne
-- [winslow, buckingham, brackley, farthinghoe, banbury]
-- claydon
-- bicester
-- islip
-- oxford-road-halt
+- stations/bletchley
+- stations/swanbourne
+- - stations/winslow
+  - stations/buckingham
+  - stations/brackley
+  - stations/farthinghoe
+  - stations/banbury
+- stations/claydon
+- stations/bicester
+- stations/islip
+- stations/oxford-road-halt
 
 ----
 

@@ -16,19 +16,19 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- rugby
-- stretton
-- shilton
-- bulkington
-- nuneaton
-- atherstone
-- polesworth
-- tamworth
-- lichfield
-- armitage
-- rugeley
-- colwich
-- stafford
+- stations/rugby
+- stations/stretton
+- stations/shilton
+- stations/bulkington
+- stations/nuneaton
+- stations/atherstone
+- stations/polesworth
+- stations/tamworth
+- stations/lichfield
+- stations/armitage
+- stations/rugeley
+- stations/colwich
+- stations/stafford
 
 ----
 

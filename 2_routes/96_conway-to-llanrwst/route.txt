@@ -16,10 +16,10 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- llandudno-junction
-- llansaintfraidd
-- tal-y-cafn
-- llanrwst
+- stations/llandudno-junction
+- stations/llansaintfraidd
+- stations/tal-y-cafn
+- stations/llanrwst
 
 ----
 

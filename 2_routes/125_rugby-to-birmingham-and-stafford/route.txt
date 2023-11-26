@@ -12,27 +12,32 @@ Company: companies/london-and-north-western
 
 Stops:
 
-- rugby
-- brandon
-- coventry
-- tile-hill
-- berkswell
-- hampton-junction
-- marston-green
-- stechford
-- birmingham-new-street
-- bloomsbury
-- [aston, gravelley-hill, erdington, chester-road, wylde-green, sutton-coldfield]
-- perry-barr
-- hamstead
-- newton-road
-- bescot
-- darlaston-james-bridge
-- willenhall
-- portobello
-- wednesfield-heath
-- bushbury
-- wolverhampton
+- stations/rugby
+- stations/brandon
+- stations/coventry
+- stations/tile-hill
+- stations/berkswell
+- stations/hampton-junction
+- stations/marston-green
+- stations/stechford
+- stations/birmingham-new-street
+- stations/bloomsbury
+- - stations/aston
+  - stations/gravelley-hill
+  - stations/erdington
+  - stations/chester-road
+  - stations/wylde-green
+  - stations/sutton-coldfield
+- stations/perry-barr
+- stations/hamstead
+- stations/newton-road
+- stations/bescot
+- stations/darlaston-james-bridge
+- stations/willenhall
+- stations/portobello
+- stations/wednesfield-heath
+- stations/bushbury
+- stations/wolverhampton
 
 ----
 

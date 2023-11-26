@@ -20,15 +20,18 @@ Company: companies/south-eastern
 
 Stops:
 
-- ashford
-- wye
-- chilham
-- [canterbury-west, whitstable]
-- sturry
-- grove-ferry
-- [minster-junction, sandwich, deal]
-- ramsgate-town
-- margate-sands
+- stations/ashford
+- stations/wye
+- stations/chilham
+- - stations/canterbury-west
+  - stations/whitstable
+- stations/sturry
+- stations/grove-ferry
+- - stations/minster-junction
+  - stations/sandwich
+  - stations/deal
+- stations/ramsgate-town
+- stations/margate-sands
 
 ----
 

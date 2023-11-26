@@ -16,8 +16,8 @@ Company: companies/newry-warrenpoint-and-rostrevor
 
 Stops:
 
-- bessbrook
-- warrenpoint
+- stations/bessbrook
+- stations/warrenpoint
 
 ----
 

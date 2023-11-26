@@ -16,20 +16,20 @@ Company: companies/london-tilbury-and-southend
 
 Stops:
 
-- stepney
-- bromley-by-bow
-- plaistow
-- east-ham
-- barking
-- rainham
-- purfleet
-- grays-thurrocks
-- tilbury
-- stanford-le-hope
-- pitsea
-- benfleet
-- leigh
-- southend
+- stations/stepney
+- stations/bromley-by-bow
+- stations/plaistow
+- stations/east-ham
+- stations/barking
+- stations/rainham
+- stations/purfleet
+- stations/grays-thurrocks
+- stations/tilbury
+- stations/stanford-le-hope
+- stations/pitsea
+- stations/benfleet
+- stations/leigh
+- stations/southend
 
 ----
 

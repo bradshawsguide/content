@@ -19,33 +19,37 @@ Company:
 
 Stops:
 
-- londonderry-foyle-road
-- carrigans
-- st-johnston
-- porthall
-- strabane
-- sion-mills
-- victoria-bridge
-- newtownstewart
-- mountjoy
-- omagh
-- [fintona-junction, fintona]
-- dromore-road
-- irvinestown-road
-- ballinamallard
-- enniskillen
-- lisbellaw
-- maguires-bridge
-- lisnaskea
-- newtownbutler
-- [clones, cavan]
-- newbliss
-- monaghan-road
-- [ballybay, rockcorry, cootehill]
-- castleblaney
-- culloville
-- inniskeen
-- dundalk
+- stations/londonderry-foyle-road
+- stations/carrigans
+- stations/st-johnston
+- stations/porthall
+- stations/strabane
+- stations/sion-mills
+- stations/victoria-bridge
+- stations/newtownstewart
+- stations/mountjoy
+- stations/omagh
+- - stations/fintona-junction
+  - stations/fintona
+- stations/dromore-road
+- stations/irvinestown-road
+- stations/ballinamallard
+- stations/enniskillen
+- stations/lisbellaw
+- stations/maguires-bridge
+- stations/lisnaskea
+- stations/newtownbutler
+- - stations/clones
+  - stations/cavan
+- stations/newbliss
+- stations/monaghan-road
+- - stations/ballybay
+  - stations/rockcorry
+  - stations/cootehill
+- stations/castleblaney
+- stations/culloville
+- stations/inniskeen
+- stations/dundalk
 
 ----
 

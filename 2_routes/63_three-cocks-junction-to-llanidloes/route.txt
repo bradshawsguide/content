@@ -20,16 +20,16 @@ Company: companies/cambrian
 
 Stops:
 
-- three-cocks-junction
-- boughrood
-- erwood
-- builth
-- newbridge-on-wye
-- doldowlod
-- rhayader
-- pantydwr
-- tylwch
-- llanidloes
+- stations/three-cocks-junction
+- stations/boughrood
+- stations/erwood
+- stations/builth
+- stations/newbridge-on-wye
+- stations/doldowlod
+- stations/rhayader
+- stations/pantydwr
+- stations/tylwch
+- stations/llanidloes
 
 ----
 

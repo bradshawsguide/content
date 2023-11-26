@@ -16,16 +16,16 @@ Company: companies/south-eastern
 
 Stops:
 
-- tunbridge
-- tunbridge-wells
-- frant
-- wadhurst
-- ticehurst-road
-- etchingham
-- robertsbridge
-- battle
-- st-leonards
-- hastings
+- stations/tunbridge
+- stations/tunbridge-wells
+- stations/frant
+- stations/wadhurst
+- stations/ticehurst-road
+- stations/etchingham
+- stations/robertsbridge
+- stations/battle
+- stations/st-leonards
+- stations/hastings
 
 ----
 

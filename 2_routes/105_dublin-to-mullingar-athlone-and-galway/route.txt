@@ -12,25 +12,30 @@ Company: companies/midland-great-western
 
 Stops:
 
-- dublin
-- blanchardstown
-- clonsilla
-- lucan
-- leixlip
-- maynooth
-- kilcock
-- moy-valley
-- hill-of-down
-- killucan
-- [mullingar, [multyfarnham, cavan], longford, sligo]
-- castletown
-- [streamstown, clara]
-- moate
-- athlone
-- ballinasloe
-- athenry
-- oranmore
-- galway
+- stations/dublin
+- stations/blanchardstown
+- stations/clonsilla
+- stations/lucan
+- stations/leixlip
+- stations/maynooth
+- stations/kilcock
+- stations/moy-valley
+- stations/hill-of-down
+- stations/killucan
+- - stations/mullingar
+  - - stations/multyfarnham
+    - stations/cavan
+  - stations/longford
+  - stations/sligo
+- stations/castletown
+- - stations/streamstown
+  - stations/clara
+- stations/moate
+- stations/athlone
+- stations/ballinasloe
+- stations/athenry
+- stations/oranmore
+- stations/galway
 
 ----
 

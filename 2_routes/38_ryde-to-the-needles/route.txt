@@ -16,13 +16,14 @@ Company: companies/isle-of-wight
 
 Stops:
 
-- ryde
-- [newport-isle-of-wight, west-cowes]
-- carisbrooke
-- calbourne
-- yarmouth
-- freshwater
-- alum-bay
+- stations/ryde
+- - stations/newport-isle-of-wight
+  - stations/west-cowes
+- stations/carisbrooke
+- stations/calbourne
+- stations/yarmouth
+- stations/freshwater
+- stations/alum-bay
 
 ----
 

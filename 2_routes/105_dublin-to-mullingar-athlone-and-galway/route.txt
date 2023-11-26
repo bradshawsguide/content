@@ -76,6 +76,7 @@ This station forms the junction of the line to Longford, winch turns off to the 
 (branch: end)
 
 ## Midland Great Western Main Line continued
+
 Leaving Mullingar we pass the station of [Castletown](/stations/castletown), and in a few minutes arrive at [Streamstown](/stations/streamstown), the junction of a line to [Clara](/stations/clara), a station in connection with the Athlone section of the Great Southern Railway to Killarney and Cork. Proceeding onward from Mullingar we pass the little station of [Moate](/stations/moate), and soon after that of
 
 (place: ireland/county-westmeath/athlone)

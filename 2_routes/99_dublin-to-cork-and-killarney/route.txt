@@ -108,6 +108,7 @@ The next station arrived at is Kildare, the junction of the lines to Carlow and 
 (branch: end)
 
 ## Kildare to Cork
+
 We now return to Kildare, the point of deviation to Carlow, &c, and soon reach *Monasterevan*, where are ruins of a monastery, built in the 7th century, rebuilt in the 8th, and refounded in the 12th, by the O'Dempseys. There is a Market here on Saturdays, and Fairs on March 28th, May 29th, July 31st, and December 8th. We now enter [King's County](/places/ireland/kings-county).
 
 (place: ireland/kings-county/portarlington)
@@ -147,6 +148,7 @@ Returning to the junction at Roscrea, we pass on to [Templemore](/stations/templ
 (branch: end)
 
 ## Great Southern and Western Main Line continued
+
 From Limerick Junction the line again turns off to the left for Clonmel and Waterford, a description of which latter town [will be found here](/places/ireland/county-waterford/waterford).
 
 Again taking our seats at the Junction we pass on about 9 miles further and enter the county of [Limerick](/places/ireland/county-limerick).

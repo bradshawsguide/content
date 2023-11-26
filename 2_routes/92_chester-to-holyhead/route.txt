@@ -69,6 +69,7 @@ In consequence of one of the public roads of the city crossing the rails close t
 Before pursuing his journey on the Main Line the tourist cannot do better than take a rapid survey of the line to Mold, for which purpose [we here introduce a short sketch](/routes/chester-to-mold).
 
 ## Chester to Rhyl.--Main Line
+
 From Chester the line of railway skirts along the side of the river Dee; afterwards its course, till near Conway, is close by the sea shore, and again it winds its way by the seaside to Beaumaris Bay, near Penmaen Mawr. The line of the railway being along the sea, much of the beautiful scenery of North Wales is lost; but by this route the undertaking was rendered easier of construction than it otherwise would have been. Yet there are many beautiful landscapes on the line, glimpses of the huge piles of mountains towering high above the vallies whence they rise; and ruins also to be noticed by the way-side, telling of ages past, adding historical interest to the charms of nature.
 
 Upon leaving Chester the whistle of the engine announces our approach to the tunnel under North Gate Street and the adjacent gardens, and we immediately pass through this and merge through deep cuttings of red rock. The train then proceeds over the girder bridge, crossing the Ellesmere and Chester Canal, passing thence through the west angle of the city walls, on to the high and long embankment across the Tower Fields. The line is carried over a viaduct of 47 arches, and passes, on the left, the well known plains of Roodee, where the Chester races take place in the spring and autumn of the year.
@@ -112,6 +113,7 @@ Proceeding onward we pass the village of *Melidan* with its rural Church, on the
 (route: rhyl-to-corwen)
 
 ## Rhyl to Conway
+
 Upon leaving the Rhyl station the line proceeds on an embankment and drawbridge over the river Foryd. The extensive tract of land on the left is the celebrated spot where the battle of Rhuddlan Marsh took place in 785; this marsh was secured from the encroachments of the sea in 1799, enclosing about 27,000 acres of sandy loam land.
 
 The village on the hill is called *St. George*, or *Llan St. Sior*.
@@ -135,6 +137,7 @@ Retracing our steps to Llandudno Junction, we take another turn along the
 (route: conway-to-llanrwst)
 
 ## Holyhead Main Line continued
+
 Returning once more to Llandudno Junction we again take our seats, and pursuing our course along the main line, suddenly approach the river, where a most magnificent landscape presents itself. The fine old town of *Conway*, with its ancient castles, walls, and towers, appears in front, and the vast range of the Carnarvonshire mountains forming a back ground, has a beautiful effect. The line runs on an embankment several hundred yards parallel with the turnpike road, and then crosses the broad expanse of the river, through the tubular bridge, that wonder of modern engineering skill, and after a few seconds of darkness we emerge into daylight, beneath the lofty shattered walls of Conway Castle. Sweeping round the base of the castle on a circle, the railway glides on and enters the town of Conway, under a pointed arch constructed in the old walls of the town. This arch gives great picturesqueness of effect to the station, which adjoins it; and the castellated character of the wall is preserved by the battlements upon it. The station is an extremely handsome and well-designed building, in the Elizabethan style, with gabled wings, rising in steps, and projecting from the main portion.
 
 (place: wales/carnarvonshire/conway)
@@ -156,6 +159,7 @@ The train shortly enters the Bangor tunnel, through Bangor mountain, and, on eme
 (route: menai-bridge-to-carnarvon)
 
 ## Bangor to Holyhead
+
 Upon quitting Bangor station we almost immediately enter the Egyptian arch of Belmont Tunnel, under the Carnarvon mountains, on emerging from which we have a beautiful view of the Menai Straits, with its accompaniments, Telford's Suspension Bridge and the Britannia Tubular Bridge. In viewing the massive towers and lengthened tubes of the latter, its heavy and colossal proportions stand out in striking contrast with the slender and gossamer-like components of its older rival, the Menai Bridge, which is used for ordinary vehicles and foot passengers, both structures being situated within a mile of each other.
 
 (place: wales/carnarvonshire/menai-bridge)

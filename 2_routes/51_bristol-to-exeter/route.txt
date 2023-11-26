@@ -75,6 +75,7 @@ Leaving the Banwell station, we pass the villages of Wick, St. Lawrence, Kewstok
 (route: highbridge-to-glastonbury-wells-and-templecombe)
 
 ## Highbridge to Durston Junction
+
 (place: england/somerset/bridgewater)
 
 (place: england/somerset/durston-junction)
@@ -86,6 +87,7 @@ Leaving the Banwell station, we pass the villages of Wick, St. Lawrence, Kewstok
 (branch: end)
 
 ## Durston to Tiverton and Exeter
+
 On leaving the Bridgewater station the line is continued by embankment across the river Parret, and soon after we enter the fertile valley of the Tone. The river, which gives name to this luxuriant district rises in the Quantock hills, near the town of Wiveliscombe, and, flowing for some miles, passes Taunton, to which town it gives name. Taunton Dean is famed for its fruitful ground, winch is proverbially alleged to produce three crops a year. After gliding along several scenes of wild fertility and romantic beauty, we pass a hill which quite shuts out the prospect, and entering a brief but deep cutting, we reach the neat and commodious station at [Taunton](/stations/taunton).
 
 (place: england/somerset/taunton)

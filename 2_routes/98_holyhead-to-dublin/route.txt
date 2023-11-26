@@ -33,6 +33,7 @@ In the immediate neighbourhood of Kingstown, on the west side, are many excellen
 (place: ireland/county-dublin/kingstown)
 
 ## Kingstown to Dublin
+
 After traversing the Dublin and Kingstown railway and stopping at the stations of [Salthill](/stations/salthill), [Blackrock](/stations/blackrock), [Booterstown](/stations/booterstown), and [Merrion](/stations/merrion), we arrive at
 
 (place: ireland/county-dublin/dublin)

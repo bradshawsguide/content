@@ -70,6 +70,7 @@ Text:
 This has been called the "Pleasure Line;" and certainly the beauty and extent, of the country traversed by its trains justly entitle it to that distinguishing appellation. It is not only one of the chief mediums of daily communication between England and the Continent, but its iron roads and branches intersect the beautiful county of Kent in all directions, affording the inhabitants of the great metropolis faculties of visiting the numerous watering places on its coast, and enabling them to become acquainted with its picturesque scenery, cities, and baronial halls, and he astonishing fertility of its soil.
 
 ## London to Red Hill
+
 No sooner is the train in motion than we escape from the confinement of the station and emerge into purer air--although the first mile we pass over no less than a dozen streets, thronged with a restless, busy population, who inhabit the dense neighbourhood of Horsleydown and Bermondsey.
 
 The [Greenwich Railway](/routes/charing-cross-to-greenwich) diverges to the east, and to the west is the branch to the Bricklayers' Arms, built upon arches, and extending by the side of the Surrey Canal over a long tract of market-garden ground.
@@ -91,6 +92,7 @@ After this the line enters the Great Junction Station at
 (route: reigate-to-reading)
 
 ## Red Hill to Tunbridge
+
 On leaving Reigate, the railway turns off towards the south-east, past the village of Nutfield, a short distance beyond which is Bletchingly, both situated on a range of hills. Bletchingley church is a handsome building containing several line monuments and there are the remains of a castle in the neighbourhood.
 
 A little further on, the line passes through Bletchingley Tunnel, and shortly after the train reaches
@@ -114,6 +116,7 @@ This, besides being the branch station for passengers to Tunbridge Wells, has a 
 (route: tunbridge-to-hastings)
 
 ## Tunbridge to Paddock Wood
+
 On leaving Tunbridge, the line passes through the beautiful park of *Summerhill* the property of Baron de Goldschmidt, and thence, on past the villages of Tudely and Capel to the
 
 (place: england/kent/paddock-wood-junction)
@@ -137,6 +140,7 @@ On leaving Tunbridge, the line passes through the beautiful park of *Summerhill*
 (branch: end)
 
 ## Paddock Wood to Ashford
+
 From Paddock the main line proceeds rapidly in the direction of the coast, and although the country presents very charming alternations of waste and woodland scenery, yet it does not offer objects of sufficient interest to describe in detail. Views of hop fields are shut in by excavations which, like the change of slides in dissolving views, transform, the landscape every moment.
 
 (place: england/kent/marden)
@@ -167,6 +171,7 @@ From Headcorn the railway passes the villages of Smarden and Bedenham on the rig
 (branch: end)
 
 ## Ashford to Folkestone and Dover
+
 The main line on leaving Ashford makes a gradual approach towards the coast, swerving slightly to the south-east, and having on each side a delightful champaign country.
 
 [Smeeth](/stations/smeeth).--In this neighbourhood is *Merstham Hatch*, the property of the Knatchbull family since the reign of Henry VII. The mansion is a modern building, of considerable architectural beauty, situated in a very fine park, and the interior is most elegantly fitted up.

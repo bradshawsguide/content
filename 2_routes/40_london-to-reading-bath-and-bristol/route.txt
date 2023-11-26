@@ -129,6 +129,7 @@ A few minutes more brings us to
 (branch: end)
 
 ## Slough to Maidenhead
+
 Between the lofty and luxuriant foliage of Stoke Park, about two miles to the right of Slough, may be descried, modestly peering through the surrounding trees, the spire of Stoke Pogis Church, the scene of Gray's "Elegy." The following inscription to his memory is on the east wall of the church:--"Opposite to this stone, in the same tomb upon which he has so feelingly recorded his grief at the loss of a beloved parent, lie deposited the remains of Thomas Gray, the author of the 'Elegy written in a Country Churchyard,' &c, &c, &c. He was buried August 6th, 1771." The church itself has no internal beauty, being over-crowded with pews; but the churchyard is one of the prettiest in England. The cloister is worth a visit. As the train proceeds, the broad and verdant fields spread out on each side of us in all the pride of luxuriant vegetation.
 
 Burnham Village is close by, situate in the midst of picturesque woodland scenery, popularised by the adventures of Albert Smith's Mr. Ledbury.
@@ -138,6 +139,7 @@ Burnham Village is close by, situate in the midst of picturesque woodland scener
 (route: maidenhead-to-wycombe-and-oxford)
 
 ## Maidenhead to Reading
+
 Upon leaving Maidenhead the railway soon spans, by a bridge, of ten arches, the river Thames which here glides through a flat, but most charming country. Having crossed the Windsor road, and diverged gradually to the southward we suddenly dip into an excavation of considerable depth; the characteristic chalky sides of which are replete with geological interest. This cutting, which continues for upwards of five miles, completely shuts out the surrounding country; but coming suddenly upon the Ruscombe embankment, we are amply repaid by a magnificent expanse of landscape. Hill and dale, dotted with elegant villas and noble mansions, woodland and water scenery, together with wide far-stretching meadow and corn-land, follow each other in varied succession to the very verge of the horizon. We have scarcely had time, however, to feast our vision with this delightful prospect, before we are again buried in a cutting, though of shorter duration, and through this we reach the station at
 
 (place: england/berkshire/twyford suffix: Junction)
@@ -159,6 +161,7 @@ Within a few minutes after quitting the station, we emerge from the excavation, 
 (route: reading-to-hungerford-and-devizes)
 
 ## Reading to Didcot
+
 Passing slowly from the station at a pace that affords us a pleasing bird's eye view of the town, we are earned forward on the same level embankment, and crossing the valley of the Thames soon reach the Roebuck excavation. An embankment, followed by a brief though deep cutting, through the grounds of Purley Park, gives us some charming prospects on the Oxfordshire side, with a mass of woodland scenery scattered over the undulating ground, and cresting even the high summits of the Mapledurham hills beyond.
 
 (place: england/berkshire/pangbourne)
@@ -180,6 +183,7 @@ On leaving the station the railway returns into the county of Berks, and the cou
 (route: didcot-to-oxford)
 
 ## Didcot to Swindon Junction
+
 Leaving Didcot on a rise of seven feet in a mile, we now enter an excavation of about half-a-mile, and emerging thence, bend gradually to the west on an embankment, when again plunging into a short cutting, we are carried past Milton, a small village to the left, and in a few minutes afterwards stop at
 
 (place: england/berkshire/steventon)
@@ -209,6 +213,7 @@ The valley of **Stroud** through which the railway passes from Swindon to Glouce
 (route: swindon-to-gloucester-and-cheltenham)
 
 ## Swindon to Chippenham
+
 About a mile to the left is the market town which gives its name to the station, and which is now rapidly rising into importance. The old town is pleasantly situated on the summit of a considerable eminence, commanding extensive views of Berkshire and Gloucestershire.
 
 The line here continues on a rapid descent, of about seven feet in a mile, and by embankment crosses several roads, leading from the neighbouring towns and villages. About a mile to the right, is Lydiard, near which can be recognised the lofty trees of the park, the ancient seat of the Bolingbroke family. Sweeping in rather a serpentine course over a richly-cultivated country, we next pass in succession a cluster of small hamlets to our left; and looking forward, scenery of that quiet pastoral description so characteristic of English rural life is continued to the very verge of the horizon.
@@ -228,6 +233,7 @@ We now proceed on an embankment, having a rapid descent in our favour of about f
 (route: chippenham-to-dorchester-and-weymouth)
 
 ## Chippenham to Yatton
+
 Leaving the Chippenham station we continue for some time on an embankment, and then dipping into an excavation we arrive at [Corsham](/stations/corsham).
 
 Shortly after leaving this station we enter the Box Tunnel which is upwards of one mile and three quarters in length, through the solid heart and immense mass of Box Hill. At intervals a gleam of light appears down the shafts that have been cut through the rock to the surface above. Emerging once more into daylight we proceed over a wide-ranging pasture land, spotted and diversified with herds and flocks.

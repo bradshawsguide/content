@@ -90,6 +90,7 @@ Upon starting, the line proceeds over an embankment and viaduct over the low mea
 (route: gloucester-to-ross-and-hereford)
 
 ## Grange Court to Newport
+
 The forest hills are soon approached, and then we obtain a glimpse of the Severn, and passing on through Broadoak, we reach the station at
 
 (place: england/gloucestershire/newnham)
@@ -119,6 +120,7 @@ We here leave the county of Gloucester, and enter that of [Monmouth](/places/eng
 (route: newport-to-abergavenny-and-hereford)
 
 ## Newport to Cardiff
+
 From Newport, we pass through a short tunnel and cross the river Ebbw, soon after arriving at [Marshfield](/stations/marshfield) Station, situated in a dreary extent of country, called the Westloeg Level. Crossing the river Rumney, we enter [Glamorganshire](/places/wales/glamorganshire).
 
 (place: wales/glamorganshire/cardiff)
@@ -126,6 +128,7 @@ From Newport, we pass through a short tunnel and cross the river Ebbw, soon afte
 (route: cardiff-to-aberdare-and-merthyr)
 
 ## Cardiff to Neath
+
 Our onward progress from Cardiff brings us through [Ely](/stations/ely-cardiff), [St. Fagans](/stations/st-fagans), and [Peterston](/stations/peterston) to
 
 (place: wales/glamorganshire/llantrissant)

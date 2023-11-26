@@ -112,6 +112,7 @@ One of the villages on the Old Roman road, Watling Street, passing which, and th
 (branch: end)
 
 ## Chatham and Dover continued
+
 Continuing the route we pass the station of
 
 (place: england/kent/teynham)
@@ -147,6 +148,7 @@ and arrive at
 (branch: end)
 
 ## Chatham and Dover Main Line continued
+
 On retaking our seats at Faversham, a few minutes brings us to the station of
 
 [Selling](/stations/selling), and a distance of 6½ miles further, the archiepiscopal city of

@@ -166,6 +166,7 @@ About three miles beyond Culham, we come in sight of Bagley Wood, seen to the le
 Before proceeding further North, we will [retrace our journey to Oxford](/routes/oxford-to-worchester-and-wolverhampton), and introduce our traveller to some of the scenes of Shakspeare.
 
 ## Great Western Main Line continued
+
 [Codsall](/stations/codsall) and [Albrighton](/stations/albrighton) stations.
 
 (place: england/shropshire/shiffnal)
@@ -181,6 +182,7 @@ Before proceeding further North, we will [retrace our journey to Oxford](/routes
 (route: shrewsbury-to-welshpool)
 
 ## Shresbury and Chester Railway {#shrewsbury-to-chester}
+
 To the tourist, this line of railway holds out peculiar attractions. The Vale of Gresford, the grounds of Wynnstay, the valley of the Dee, and the vale of Llangollen, offer some of the most beautiful views, unsurpassed for grandeur and picturesque effect. Here Cambria discloses herself between the mountains of Trevor and Berwyn, and by her own sacred Dee, the happy valley, which leads to scenes of the richest beauty, where amidst her mountains and lakes she revels in all her native splendour of rocks, woods, and streams. Throughout the rest of the line, as it crosses the valley of the Ceiriog, and passes along the borders of Wales to St. Oswald's town of Shrewsbury, the scenery is most lovely and park-like; and the adjoining Welsh mountains form, a noble and varied background to many a delightful view. It is both a business and pleasure line. It curves so as to either nearly touch or pass through the borders of Wales; it intersects a very important iron and coal district in Denbighshire, and passes either close to, or as near as possible the chief towns on its route--Oswestry, Llangollen, and Wrexham.
 
 Proceeding on our way, with the "fair Sabrina" on our left hand, we pass *Berwick Park*, the seat of Lord Berwick, and arrive at
@@ -214,6 +216,7 @@ Two miles further we arrive at
 (branch: end)
 
 ## Great Western continued
+
 Proceeding onwards from Gobowen, with *St. Martin's* one mile on the right, and *Selattyn* one mile to the left, we soon come to the Chirk Viaduct, which carries us across the lovely vale of Ceiriog, and into the Welsh county of Denbigh, and stop at
 
 (place: wales/denbighshire/chirk)
@@ -234,6 +237,7 @@ Recrossing Watt's Dyke, we arrive at the junction of the
 
 (branch: start)
   ## Brymbo, Minera, &c, Branch
+
   Telegraph station at Wheatsheaf.
 
   This mineral branch diverges to the right, and passes across the coal field to the lime rocks of Minera. It is 6¼ miles in length. There are several smaller branches made for the accommodation of the works at Frood, Brynmally, Westminster, South Sea, Brymbo, and Vron, to the extent of about six miles in addition.
@@ -246,6 +250,7 @@ Recrossing Watt's Dyke, we arrive at the junction of the
 (branch: end)
 
 ## Great Western Main Line continued
+
 Passing a fine ancient mansion, called *Geversyllt Hall*, the property of Sir Watkin W. Wynne, Bart., and then, by some deep cuttings and long embankments, we reach
 
 (place: wales/flintshire/gresford)
@@ -267,6 +272,7 @@ For continuation of route to Holyhead, see [Chester to Holyhead](/routes/chester
 (route: chester-to-birkenhead-and-liverpool)
 
 ## Chester to Manchester {#chester-to-manchester}
+
 *(Viâ Warrington and Newton Junction).*
 
 The station at Chester stands to the north-east of the city, with *Abbot's Grange* a little to the left. About two miles along the line we pass *Hoole Hall*, the residence of Lady Broughton, and a little beyond, the village of *Mickle Trafford*, and shortly after arrive at the first station on the line, that of [Dunham Hill](/stations/dunham-hill), close to which are *Wimbold's Trafford Hall* and *Bridge Trafford*. The next place we stop at is

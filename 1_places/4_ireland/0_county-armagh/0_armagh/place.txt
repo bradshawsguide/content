@@ -1,23 +1,39 @@
-section: 2
+Title: Armagh
+
 ----
-title: Armagh
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Wiltshire's.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday, Wednesday, and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 21st, June 10th, August 12th, Tuesday before October 10th, and November 20th.
-- term: Bankers
+-
+  term: Bankers
   desc: Branch of Bank of Ireland; Branch of Belfast Banking Co.; Branch of Northern Banking Co.; Branch of Ulster Banking Co.; Provincial Bank of Ireland.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This is the seat of the primacy of Ireland and a city, returning one member. It is well seated on *Druira Sailech* near the Callan, and originated, it is said, in a church and college founded by St. Patrick, in 435, which became a celebrated school of learning.
+
+Desc: This is the seat of the primacy of Ireland and a city, returning one member. It is well seated on *Druira Sailech* near the Callan, and originated, it is said, in a church and college founded by St. Patrick, in 435, which became a celebrated school of learning.
+
 ----
-text: This is the seat of the primacy of Ireland and a city, returning one member. It is well seated on *Druira Sailech*, i. e., Willow Hill, near the Callan, and originated, it is said, in a church and college founded by St. Patrick, in 435, which became a celebrated school of learning. Some writers, indeed, go back to a royal city called *Eamania*, and a palace of the Ulster kings, three or four centuries before Christ, but this is fabulous. After suffering from war and other contests, in which it was burnt about 17 times, it was reduced to a mere heap of cottages, when Dr. Robinson (Lord Rokeby) succeeded, in 1765, to the primacy, and began to renovate it. To this munificent prelate it is indebted for some of its best buildings and endowments, such as the *Palace*, a quiet looking pile, 90 feet long, with beautiful gardens, open to the public, a chapel, some abbey ruins, and a column of 157 feet, built as a memorial to the Archbishop's friend, the Duke of Northumberland; the *College*, or royal school, near the Mall; a public lending *Library*, close to the cathedral with 14,000 vols., from which any one within 30 miles may borrow--besides a reading-room in the Tontine Buildings. A well-organised *Observatory* on a hill 110 feet high, north of the college, containing- transit zenith-sector, mural circle, telescope, Electro-Meter, &c.; assembly rooms, the county *Infirmary*, besides barracks, shambles, and bridges. To these Primate Beresford added a Fever Hospital, and Primate Stewart the Market-house.
+
+Text:
+
+This is the seat of the primacy of Ireland and a city, returning one member. It is well seated on *Druira Sailech*, i. e., Willow Hill, near the Callan, and originated, it is said, in a church and college founded by St. Patrick, in 435, which became a celebrated school of learning. Some writers, indeed, go back to a royal city called *Eamania*, and a palace of the Ulster kings, three or four centuries before Christ, but this is fabulous. After suffering from war and other contests, in which it was burnt about 17 times, it was reduced to a mere heap of cottages, when Dr. Robinson (Lord Rokeby) succeeded, in 1765, to the primacy, and began to renovate it. To this munificent prelate it is indebted for some of its best buildings and endowments, such as the *Palace*, a quiet looking pile, 90 feet long, with beautiful gardens, open to the public, a chapel, some abbey ruins, and a column of 157 feet, built as a memorial to the Archbishop's friend, the Duke of Northumberland; the *College*, or royal school, near the Mall; a public lending *Library*, close to the cathedral with 14,000 vols., from which any one within 30 miles may borrow--besides a reading-room in the Tontine Buildings. A well-organised *Observatory* on a hill 110 feet high, north of the college, containing- transit zenith-sector, mural circle, telescope, Electro-Meter, &c.; assembly rooms, the county *Infirmary*, besides barracks, shambles, and bridges. To these Primate Beresford added a Fever Hospital, and Primate Stewart the Market-house.
 
 The *Mall* is a well kept walk, near the Deanery, about 1,500 feet long. At one cud is the Court House, built in 1809, of the coarse marble quarried here, with a Grecian portico, &c. The *County Jail* is near it. A *Lunatic Asylum* was built in 1325, for £20,000, on the Ballynahone ruin, not far from the town. Armagh is now, through the liberality of various primates of the see, one of the prettiest towns in Ulster. Most of the houses are of stone, with slated roofs. There are linen halls for the sale of the staple produce of the district, with corn mills, tanneries, &c, and 5 banks, one of the latter being built on the site of a monastery, founded in 610, by St. Columb. A Wesleyan chapel stands where John Wesley often preached. *St. Mark's* church is modern.
 
@@ -28,3 +44,7 @@ The ecclesiastical province of Armagh takes in one half of Ireland (the other ha
 One of the most distinguished holders of the primacy was the learned and pious Usher or Usther, whose family name (like the Butlers, Grosvenors, and others), originated in an office held about court by its founder. Usher came to the primacy in 1624, and retained it through good and evil report till episcopacy was abolished, and Charles I. brought to the block. He had the anguish of witnessing his sovereign's execution from the leads of Wallingford House (now the Admiralty), at Charing Cross ; and commemorated the day by fasting and prayer, till his death, which happened at his friend Lady Peterborough's, at Reigate. A love of books, a sweet temper, and a quiet firmness of principle, were the chief traits in this amiable prelate's character.
 
 In the neighbourhood are various objects of notice, such as Navanrath, said to be the real site of *Eamania*; Grieve Roe--Nial's grave, where a King of Ulster was drowned in 846; Dobbin's Valley, a beautiful cultivated hollow; the Vicar's Cairn; *Castle Dillon*, seat of Sir T. Molyneux, Bart. The county has a cultivated and prosperous appearance.
+
+----
+
+Uuid: a8eIdiiQdLAijxTZ

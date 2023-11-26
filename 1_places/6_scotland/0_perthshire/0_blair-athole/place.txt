@@ -1,7 +1,17 @@
-section: 3
+Title: Blair Athole
+
 ----
-title: Blair Athole
+
+Section: 3
+
 ----
-text: Situated on the borders of the county of Inverness,  at the foot of the Grampians. A few miles to our right, are *Glen Tilt* and the grisly and deep furrowed  Anakim of the Highlands, Ben-y-Gloe, a giant  among giants.
+
+Text:
+
+Situated on the borders of the county of Inverness,  at the foot of the Grampians. A few miles to our right, are *Glen Tilt* and the grisly and deep furrowed  Anakim of the Highlands, Ben-y-Gloe, a giant  among giants.
 
 (smcp: Athole House), the residence of the late lamented  Duke ot Athole, is close at hand; was visited by the  Queen in the Autumn of 1363, in sympathy for the  Duke under his afflictions, who lived only a very  few weeks after. The town and neighbourhood are held in great reputation by tourists generally.
+
+----
+
+Uuid: K7BNHxBYOrhi21cC

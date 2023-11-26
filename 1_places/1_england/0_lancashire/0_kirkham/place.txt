@@ -1,16 +1,33 @@
-section: 3
+Title: Kirkham
+
 ----
-title: Kirkham
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Railway.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
-- term: Fairs
+-
+  term: Fairs
   desc: February 4th and 5th, April 29th and October 18th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a small market-town, with a population of 3,380, employed in the cotton, linen, sacking, and sail-cloth manufactures. There are remains of an old Norman church. The present edifice was built in 1822. It has a good *Grammar School*. In the vicinity is *Ribby Hall* the seat of H. Hornby, Esq.
+
+Text:
+
+This is a small market-town, with a population of 3,380, employed in the cotton, linen, sacking, and sail-cloth manufactures. There are remains of an old Norman church. The present edifice was built in 1822. It has a good *Grammar School*. In the vicinity is *Ribby Hall* the seat of H. Hornby, Esq.
+
+----
+
+Uuid: zA44vDPs2vKHo7OX

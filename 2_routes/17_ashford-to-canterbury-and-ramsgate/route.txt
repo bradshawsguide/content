@@ -1,14 +1,25 @@
-section: 1
+Title: Ashford to Canterbury, Ramsgate, &c.
+
 ----
-title: Ashford to Canterbury, Ramsgate, &c.
+
+Section: 1
+
 ----
-title_short: Ashford to Margate
+
+Title-short: Ashford to Margate
+
 ----
-subtitle: Ashford and Canterbury Branch
+
+Subtitle: Ashford and Canterbury Branch
+
 ----
-company: companies/south-eastern
+
+Company: companies/south-eastern
+
 ----
-stops:
+
+Stops:
+
 - ashford
 - wye
 - chilham
@@ -18,12 +29,19 @@ stops:
 - [minster-junction, sandwich, deal]
 - ramsgate-town
 - margate-sands
+
 ----
-links:
+
+Links:
+
 - (wikipedia: Ashford_to_Ramsgate_line)
 - (wikipedia: Canterbury_and_Whitstable_Railway)
+
 ----
-text: At [Ashford](/stations/ashford), the line branches off to Canterbury, Whitstable, Sandwich, Deal, Ramsgate, and Margate, and, from the accommodation it affords to the towns through which it passes, and the exquisite beauty of the scenery along its route, will not suffer in comparison with any line of similar length in the kingdom. It follows throughout the meanderings of the river Stour, and traversing the most fertile district in the country, has one uninterrupted panorama of luxuriant fertility during its whole length.
+
+Text:
+
+At [Ashford](/stations/ashford), the line branches off to Canterbury, Whitstable, Sandwich, Deal, Ramsgate, and Margate, and, from the accommodation it affords to the towns through which it passes, and the exquisite beauty of the scenery along its route, will not suffer in comparison with any line of similar length in the kingdom. It follows throughout the meanderings of the river Stour, and traversing the most fertile district in the country, has one uninterrupted panorama of luxuriant fertility during its whole length.
 
 On leaving Ashford, the little villages of Brook and Wye are passed in succession to the right, imbedded in a valley sheltered by rising hills, and thickly studded with lofty and umbrageous patches of woodland.
 
@@ -78,3 +96,7 @@ Kent and the Kentish coast have long been celebrated for their delicious climate
 Four miles distant from Ramsgate, the traveller readies the terminus at
 
 (place: england/kent/margate)
+
+----
+
+Uuid: SaoI1FRoHV9O8MKx

@@ -1,14 +1,30 @@
-section: 1
+Title: Stanford-le-Hope
+
 ----
-title: Stanford-le-Hope
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 504.
-- term: Money Order Office,
+-
+  term: Money Order Office,
   desc: Horndon-on-the-Hill, 1 mile.
+
 ----
-notes:
-- Telegraph station at Tilbury, 5½ miles.
+
+Notes: Telegraph station at Tilbury, 5½ miles.
+
 ----
-text: The bend which the river makes here is called "The Hope".
+
+Text:
+
+The bend which the river makes here is called "The Hope".
+
+----
+
+Uuid: BcqDn8cwmemaMndP

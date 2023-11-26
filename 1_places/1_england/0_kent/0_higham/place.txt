@@ -1,14 +1,29 @@
-section: 1
+Title: Higham
+
 ----
-title: Higham
+
+Section: 1
+
 ----
-station: higham-kent
+
+Station: higham-kent
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Here is Mr. Charles Dicken's Country House.
+
+Desc: Here is Mr. Charles Dicken's Country House.
+
 ----
-text: *Gad's Hill*, (1 mile); *Cliffe*, (3 miles); *Cowling*, with its castle, (3¼ mile)--an embattled gateway forming a picturesque object.
+
+Text:
+
+*Gad's Hill*, (1 mile); *Cliffe*, (3 miles); *Cowling*, with its castle, (3¼ mile)--an embattled gateway forming a picturesque object.
 
 Here is Mr. Charles Dicken's Country House.
+
+----
+
+Uuid: UJP7RMkZ0KHFiJSE

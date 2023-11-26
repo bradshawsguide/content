@@ -1,10 +1,23 @@
-section: 2
+Title: Roscrea
+
 ----
-title: Roscrea
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Contains a population of about 9,690, engaged in the coarse woollen factories, and has ruins of a castle built by King John in 1213.
+
+Desc: Contains a population of about 9,690, engaged in the coarse woollen factories, and has ruins of a castle built by King John in 1213.
+
 ----
-text: Contains a population of about 9,690, engaged in the coarse woollen factories, and has ruins of a castle built by King John in 1213. In the churchyard are the porch, &c., of an old abbey, St Cronan's spire, and a round tower 80 feet high. A Roman Catholic Cathedral, with a tower of the Franciscan Friary, founded in 1490, and large infantry barracks (formerly the Darner's seat). Markets are held here on Thursday and Saturday, and Fairs on March 25th, May 27th, June 21st, August 8th, October 9th, and November 29th.
+
+Text:
+
+Contains a population of about 9,690, engaged in the coarse woollen factories, and has ruins of a castle built by King John in 1213. In the churchyard are the porch, &c., of an old abbey, St Cronan's spire, and a round tower 80 feet high. A Roman Catholic Cathedral, with a tower of the Franciscan Friary, founded in 1490, and large infantry barracks (formerly the Darner's seat). Markets are held here on Thursday and Saturday, and Fairs on March 25th, May 27th, June 21st, August 8th, October 9th, and November 29th.
+
+----
+
+Uuid: mi6jdE2RwjqSFYuZ

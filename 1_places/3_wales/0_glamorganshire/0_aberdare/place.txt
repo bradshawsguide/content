@@ -1,20 +1,40 @@
-section: 2
+Title: Aberdare
+
 ----
-title: Aberdare
+
+Section: 2
+
 ----
-station: aberdare-low-level
+
+Station: aberdare-low-level
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 32,299.
-- term: Hotels
+-
+  term: Hotels
   desc: Boot and Railway.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 1st and 16th, November 13th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: The scenery of the vale of Cynon here is charming. A little beyond there is a junction with the Vale of Neath Railway to Merthyr.
+
+Text:
+
+The scenery of the vale of Cynon here is charming. A little beyond there is a junction with the Vale of Neath Railway to Merthyr.
+
+----
+
+Uuid: UiVGoGXgOV0Gi6EF

@@ -1,8 +1,19 @@
-section: 3
+Title: Marsden
+
 ----
-title: Marsden
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Huddersfield, 7¼ miles.
+
+Notes: Telegraph station at Huddersfield, 7¼ miles.
+
 ----
-text: This is a first-class station, and contains, according to the census of 1861, a population of 2,689, who are principally engaged in woollen mills. At this place are the entrances to the railway and canal tunnels, which run parallel with each other, and are the longest in the world. A large and handsome National School has been erected, which from its position forms a striking object from the railway.
+
+Text:
+
+This is a first-class station, and contains, according to the census of 1861, a population of 2,689, who are principally engaged in woollen mills. At this place are the entrances to the railway and canal tunnels, which run parallel with each other, and are the longest in the world. A large and handsome National School has been erected, which from its position forms a striking object from the railway.
+
+----
+
+Uuid: rRQnIKkGdRbkNex7

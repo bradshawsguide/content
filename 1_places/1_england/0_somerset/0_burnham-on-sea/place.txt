@@ -1,12 +1,27 @@
-section: 2
+Title: Burnham-on-Sea
+
 ----
-title: Burnham-on-Sea
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,252.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This place from its invigorating atmosphere and affording, as it does, the usual requisites of a sea-side retreat, has become valuable to the tourist in the summer season. Steamers run regularly, plying between this place and Cardiff.
+
+Text:
+
+This place from its invigorating atmosphere and affording, as it does, the usual requisites of a sea-side retreat, has become valuable to the tourist in the summer season. Steamers run regularly, plying between this place and Cardiff.
+
+----
+
+Uuid: ZuiYCp9V3IshYmq2

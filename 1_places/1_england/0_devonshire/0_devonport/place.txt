@@ -1,13 +1,22 @@
-section: 2
+Title: Devonport
+
 ----
-title: Devonport
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Here is the royal *Dockyard*, on a space of 71 acres, inclusive of 5 more at the Gun Wharf.
+
+Desc: Here is the royal *Dockyard*, on a space of 71 acres, inclusive of 5 more at the Gun Wharf.
+
 ----
-text: A place of great importance, partly overlooking the Sound (where it is defended by Mount Wise battery), and the anchorage at the Tamar's mouth, called *Hamaoze*. Here is the royal *Dockyard*, on a space of 71 acres, inclusive of 5 more at the Gun Wharf (built by Sir J. Vanburgh). The Dockyard includes various docks and building slips, storehouses, a rope house 200 fathoms long, blacksmiths shop &c. Above this is a floating bridge to Torpoin, and the splendid *Steam Docks* and factory at Keyham, which occupy another 75 acres. There are two basins, 600 to 700 feet long, besides docks, all faced with solid stone, and built at a total cost of one and a half million, along with foundries, smithery, &c. One wrought-iron caisson is 82 feet long, and 13 feet thick. Devonport has a population of 50,440. and returns two members. A pillar opposite the Town Hall was placed there in 1824, when the name was altered from Plymouth Dock. There are various barracks near Mount Wise, where the Governor of the district and the Port Admiral reside.
+
+Text:
+
+A place of great importance, partly overlooking the Sound (where it is defended by Mount Wise battery), and the anchorage at the Tamar's mouth, called *Hamaoze*. Here is the royal *Dockyard*, on a space of 71 acres, inclusive of 5 more at the Gun Wharf (built by Sir J. Vanburgh). The Dockyard includes various docks and building slips, storehouses, a rope house 200 fathoms long, blacksmiths shop &c. Above this is a floating bridge to Torpoin, and the splendid *Steam Docks* and factory at Keyham, which occupy another 75 acres. There are two basins, 600 to 700 feet long, besides docks, all faced with solid stone, and built at a total cost of one and a half million, along with foundries, smithery, &c. One wrought-iron caisson is 82 feet long, and 13 feet thick. Devonport has a population of 50,440. and returns two members. A pillar opposite the Town Hall was placed there in 1824, when the name was altered from Plymouth Dock. There are various barracks near Mount Wise, where the Governor of the district and the Port Admiral reside.
 
 Plymouth Sound, and its three harbours, would hold, It is calculated, 2,000 vessels, such is its extent. One of the most striking scenes it has witnessed in modern times was the appearance of Napoleon here, in 1815, on board the Bellerophon, after his attempted escape to America, Across the mouth (having entrances on each side), 3 miles from the town, is the famous *Breakwater*, first begun in 1812, by Rennie. It is a vast stone dyke, gradually made by sinking 2½ million tons of stone, from the neighbouring cliffs; about 10 or 12 yards wide at the top, and spreading to 70 or 80 yards at the bottom--the side next the Atlantic being the most sloping. Its entire length is 1,700 yards, nearly a mile; but it is not straight, as the two ends bend inwards from the middle part, which is 1,000 yards long. A lighthouse stands at the west corner, 63 feet high. Several tremendous storms have tested its solidity and usefulness; once inside this artificial bulwark, the smallest craft is as safe as if it were on the slips of the Dockyard.
 
@@ -28,3 +37,7 @@ The number of keepers resident at the lighthouse was at first only two, but an i
 Since the above occurrence three men have been stationed at Eddystone, each of whom has, in the summer, a month's leave to visit his friends, and are provided with food and all other necessaries by a boat appointed for that purpose; but they are always stocked with salt provisions, to guard against the possibility of want, as in winter it sometimes happens that the boat cannot approach the rock for many weeks together.
 
 The range of the enjoyments of the keepers is confined within very narrow limits. In high winds so briny an atmosphere surrounds this gloomy solitude, from the dashing of the waves, that a person exposed to it could hardly draw his breath. At these dreadful intervals the forlorn inhabitants keep close quarters, and are obliged to live in darkness, listening to the howling storm, excluded in every emergency from the hope of human assistance, and without any earthly comfort but that which results from their confidence in the strength of the building in which they are immured. In fine weather they just scramble about the edge of the rock when the tide ebbs, and amuse themselves with fishing; and this is the only employment they have, except that of trimming their nightly fires. Singular as it may appear, there are yet facts which lead us to believe it possible for these men to become so weaned from society as to become enamoured of their situation. Smeaton, in speaking of one of these light-keepers, says, "In the fourteen years that he had been here he was grown so attached to the place, that for the two summers preceding he had given up his turn on shore to his companions, and declared his intention of doing the same the third, but was over-persuaded to go on shore and take his month's turn. He had always in this service proved himself a decent, sober, well-behaved man; but he had no sooner got on shore than he went to an alehouse and got intoxicated. This he continued the whole of his stay, which being noticed, he was carried, in this intoxicated state, on board the Eddystone boat, and delivered in the lighthouse, where "he was expected to grow sober; but after lingering two or three days, lie could by no means be recovered." In another place, he says, "I was applied to by a philosopher kind of a man to be one of the light-keepers, observing, that being a man of study and retirement, he could very well bear the confinement that must attend it. I asked him if he knew the salary? He replied no; but doubted not it must be something very handsome. When I told him it was £25 a-year, he replied he had quite mistaken the business; he did not mean to sell his liberty for so low a price; he could not have supposed it less than three times as much." Another man, a shoemaker, who was engaged to be the light-keeper, when in the boat which conveyed him thither, the skipper addressing him, said, "How happens it, friend Jacob, that you should choose to go and be cooped up here as a light-keeper, when you can on shore, as I am told, earn half-a-crown and three shillings a-day in making leathern hose (leathern pipes so called), whereas the light-keeper's salary is but £25 a-year, which is scarce ten shillings a-week?" " Every one to his taste," replied Jacob promptly; "I go to be a light-keeper because I don't like *confinement*." After this answer had produced its share of merriment, Jacob explained himself by saying that he did not like to be *confined* to work.
+
+----
+
+Uuid: l5CPPaESutac7j3S

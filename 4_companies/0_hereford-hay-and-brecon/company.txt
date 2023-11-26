@@ -1,6 +1,13 @@
-section: 2
+Title: Hereford, Hay and Brecon Railway
+
 ----
-title: Hereford, Hay and Brecon Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Hereford,_Hay_and_Brecon_Railway)
+
+Links: - (wikipedia: Hereford,_Hay_and_Brecon_Railway)
+
+----
+
+Uuid: AjxMCCgkt3MZ4o0w

@@ -1,8 +1,19 @@
-section: 2
+Title: Pangbourne
+
 ----
-title: Pangbourne
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This place is a very ancient one. Roman remains have been discovered. It is connected with *Whitchurch* on the opposite side of the Thames by a wooden bridge, toll one halfpenny.
+
+Text:
+
+This place is a very ancient one. Roman remains have been discovered. It is connected with *Whitchurch* on the opposite side of the Thames by a wooden bridge, toll one halfpenny.
+
+----
+
+Uuid: p46fptHe9fa8gSDK

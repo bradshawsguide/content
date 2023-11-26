@@ -1,26 +1,48 @@
-section: 3
+Title: St. Albans
+
 ----
-title: St. Albans
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 7,675.
-- term: Hotels
+-
+  term: Hotels
   desc: Peahen, George.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 25th, 26th, October 10th and 11th.
-- term: Mails
+-
+  term: Mails
   desc: Two arrivals and departures, daily, between London and St. Albans.
-- term: Bankers
+-
+  term: Bankers
   desc: Branch of London and County Bank.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This ancient town of Herts, should be visited for its venerable abbey church, and that of St. Michael's, which contains an excellent full-length statue of Lord Bacon.
+
+Desc: This ancient town of Herts, should be visited for its venerable abbey church, and that of St. Michael's, which contains an excellent full-length statue of Lord Bacon.
+
 ----
-text: This ancient town of Herts, should be visited for its venerable abbey church, and that of St. Michael's, which contains an excellent full-length statue of Lord Bacon, as he used to sit, thinking, in court. Bacon had a country house at Gorhambury, close by, and this figure of the "greatest, wisest, meanest of mankind," whose career is sketched with so much truth and reverence by Macaulay, in one of his best essays, was erected in the church, by Sir T. Meantys, or Mewtis, his admirer, as he calls himself. The *Abbey Churchy* lately restored, is a cross-shaped pile, 539 feet long, exceeding most cathedrals, and interesting for the variety of styles it exhibits, its beautiful screen, tracery, painted ceiling, old brasses, &c., and the pillar of St. Amphibalus, who converted St. Alban, to whom King Offa, in 793, dedicated the priory. He is reckoned one of the earliest English martyrs, having suffered in 293, on Holmhurst Hill, close to the church. St. Albans was the scene of two battles in the Wars of the Roses; the first in 1455, when Warwick, the king-maker, defeated Henry VI., and the other in 1461, when Margaret of Anjou routed Warwick. Many of those who fell were buried in the old church. It contains, also, the tombs of Good Duke Humphrey, and Matthew Paris, the historian. The body of Duke Humphrey (the same from whom dinner-hunters sometimes got an invitation), was found embalmed in *pickle* in 1703. Many Roman bricks or tiles, were used to rebuild this church, all collected from the spoils of *Verulamium*, one of the chief Roman cities in England; the sites of its walls, &c., are still traced, and relics frequently discovered. It was one of the places taken by Boadicea, in the time of Claudius, most of the inhabitants being put to the sword.
+
+Text:
+
+This ancient town of Herts, should be visited for its venerable abbey church, and that of St. Michael's, which contains an excellent full-length statue of Lord Bacon, as he used to sit, thinking, in court. Bacon had a country house at Gorhambury, close by, and this figure of the "greatest, wisest, meanest of mankind," whose career is sketched with so much truth and reverence by Macaulay, in one of his best essays, was erected in the church, by Sir T. Meantys, or Mewtis, his admirer, as he calls himself. The *Abbey Churchy* lately restored, is a cross-shaped pile, 539 feet long, exceeding most cathedrals, and interesting for the variety of styles it exhibits, its beautiful screen, tracery, painted ceiling, old brasses, &c., and the pillar of St. Amphibalus, who converted St. Alban, to whom King Offa, in 793, dedicated the priory. He is reckoned one of the earliest English martyrs, having suffered in 293, on Holmhurst Hill, close to the church. St. Albans was the scene of two battles in the Wars of the Roses; the first in 1455, when Warwick, the king-maker, defeated Henry VI., and the other in 1461, when Margaret of Anjou routed Warwick. Many of those who fell were buried in the old church. It contains, also, the tombs of Good Duke Humphrey, and Matthew Paris, the historian. The body of Duke Humphrey (the same from whom dinner-hunters sometimes got an invitation), was found embalmed in *pickle* in 1703. Many Roman bricks or tiles, were used to rebuild this church, all collected from the spoils of *Verulamium*, one of the chief Roman cities in England; the sites of its walls, &c., are still traced, and relics frequently discovered. It was one of the places taken by Boadicea, in the time of Claudius, most of the inhabitants being put to the sword.
 
 The gaol was the abbey gate-house. Much strawplait is made here for the London market Dame Juliana Berners, who wrote the "Book of St. Albans," the oldest work on hawking (1481), was abbess here; and there is a brass to her memory the likeness on which, curiously enough, bears a great resemblance to a descendant of her family, in the present day, Lord Berners, of Didlington. At *Gorhambury*, now the seat of Earl Verulam, rebuilt in the last century, there are a few fragments of the old house which Lord Bacon's father erected.
+
+----
+
+Uuid: 9vs1diu29iTCmm6O

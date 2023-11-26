@@ -1,14 +1,30 @@
-section: 3
+Title: Prestbury
+
 ----
-title: Prestbury
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 358.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Macclesfield, 2¼ miles.
+
 ----
-notes:
-- Telegraph station at Macclesfield, 2¼ miles.
+
+Notes: Telegraph station at Macclesfield, 2¼ miles.
+
 ----
-text: Here is a curious old church, which has recently undergone considerable improvements and decorations. The curious old Norman chapel, distinct from the church, is appropriated as a Nationals and Sunday school. In 1808, tumuli, urns, and human bones were found here. In the vicinity are *Adlington Hall*, seat of C. Legh, Esq., which was besieged for a fortnight by the parliamentarians *Butley Hall*, W. Brocklehurst, Esq.; *Mottram Park* Rev. H. Wright; *Styperson Park*; *Shrigley Hall*, Rev. B. Lowther.
+
+Text:
+
+Here is a curious old church, which has recently undergone considerable improvements and decorations. The curious old Norman chapel, distinct from the church, is appropriated as a Nationals and Sunday school. In 1808, tumuli, urns, and human bones were found here. In the vicinity are *Adlington Hall*, seat of C. Legh, Esq., which was besieged for a fortnight by the parliamentarians *Butley Hall*, W. Brocklehurst, Esq.; *Mottram Park* Rev. H. Wright; *Styperson Park*; *Shrigley Hall*, Rev. B. Lowther.
+
+----
+
+Uuid: 2YP9Zp99ao3zpEA1

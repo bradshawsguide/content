@@ -1,10 +1,17 @@
-section: 3
+Title: Colwich to Stoke, Burton, and Derby
+
 ----
-title: Colwich to Stoke, Burton, and Derby
+
+Section: 3
+
 ----
-company: companies/north-staffordshire
+
+Company: companies/north-staffordshire
+
 ----
-stops:
+
+Stops:
+
 - colwich
 - hixon
 - weston
@@ -25,8 +32,12 @@ stops:
 - tutbury
 - egginton
 - derby
+
 ----
-text: ## Colwich to Stoke
+
+Text:
+
+## Colwich to Stoke
 
 (place: england/staffordshire/colwich)
 
@@ -77,3 +88,7 @@ Then passing [Blythe Bridge](/stations/blythe-bridge), [Cresswell](/stations/cre
 (place: england/derbyshire/egginton)
 
 (place: england/derbyshire/derby)
+
+----
+
+Uuid: aThLBO8ve2jMHm5f

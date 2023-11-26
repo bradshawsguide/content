@@ -1,18 +1,37 @@
-section: 2
+Title: Glastonbury
+
 ----
-title: Glastonbury
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: George or Pilgrims; White Hart.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday
-- term: Fair
+-
+  term: Fair
   desc: Sept. 19th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This town, containing a population of 3,496, is situated near a high bill called the Tor, on which is a tower that serves for a sea mark.
+
+Desc: This town, containing a population of 3,496, is situated near a high bill called the Tor, on which is a tower that serves for a sea mark.
+
 ----
-text: This town, containing a population of 3,496, is situated near a high bill called the Tor, on which is a tower that serves for a sea mark. Here are considerable ruins of a famous abbey, which occupied an area of 60 acres. The Grange Inn was formerly an hospital for the accommodation of pilgrims who visited the abbey, and to see the holy thorn, said, to have been planted by Joseph of Arimathea, and to blossom on Christmas eve. The last abbot of this place was hanged on the top of the Tor, by order of Henry VIII., for not acknowledging his supremacy.
+
+Text:
+
+This town, containing a population of 3,496, is situated near a high bill called the Tor, on which is a tower that serves for a sea mark. Here are considerable ruins of a famous abbey, which occupied an area of 60 acres. The Grange Inn was formerly an hospital for the accommodation of pilgrims who visited the abbey, and to see the holy thorn, said, to have been planted by Joseph of Arimathea, and to blossom on Christmas eve. The last abbot of this place was hanged on the top of the Tor, by order of Henry VIII., for not acknowledging his supremacy.
+
+----
+
+Uuid: 8dXeXC0lbqVxByCB

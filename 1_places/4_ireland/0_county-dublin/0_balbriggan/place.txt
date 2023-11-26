@@ -1,16 +1,34 @@
-section: 2
+Title: Balbriggan
+
 ----
-title: Balbriggan
+
+Section: 2
+
 ----
-info:
-- term: Market Day
+
+Info:
+
+-
+  term: Market Day
   desc: Saturday, for corn.
-- term: Fairs
+-
+  term: Fairs
   desc: April 29, September 29.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This place has a population of about 2,959, who are chiefly employed in the stocking, linen, tanning, muslin, and embroidering trades.
+
+Desc: This place has a population of about 2,959, who are chiefly employed in the stocking, linen, tanning, muslin, and embroidering trades.
+
 ----
-text: This place has a population of about 2,959, who are chiefly employed in the stocking, linen, tanning, muslin, and embroidering trades. The harbour is inside a pier 600 feet long, with a fixed light 35 feet high, visible 10 miles distant. The Carjee Half Tide Rock lies one mile N.E.; and *Hampton Hill*, the seat of E. C. Hamilton, Esq., is close at hand.
+
+Text:
+
+This place has a population of about 2,959, who are chiefly employed in the stocking, linen, tanning, muslin, and embroidering trades. The harbour is inside a pier 600 feet long, with a fixed light 35 feet high, visible 10 miles distant. The Carjee Half Tide Rock lies one mile N.E.; and *Hampton Hill*, the seat of E. C. Hamilton, Esq., is close at hand.
+
+----
+
+Uuid: o7XCSL9iuvd3NCYc

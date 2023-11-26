@@ -1,12 +1,27 @@
-section: 3
+Title: Carnforth
+
 ----
-title: Carnforth
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 393.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Two miles distant is a limestone cave, 800 feet deep, called Dunal Mill Hole, out of which a stream issues underground, and falls into the sea near the village. In the vicinity is *Carnforth Lodge*, seat of T. Jackson, Esq.
+
+Text:
+
+Two miles distant is a limestone cave, 800 feet deep, called Dunal Mill Hole, out of which a stream issues underground, and falls into the sea near the village. In the vicinity is *Carnforth Lodge*, seat of T. Jackson, Esq.
+
+----
+
+Uuid: kcVSLSUQOqUoJmok

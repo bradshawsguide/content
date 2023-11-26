@@ -1,12 +1,27 @@
-﻿section: 1
+Title: Porchester
+
 ----
-title: Porchester
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Fareham.
+
 ----
-notes:
-- Telegraph station at Fareham, 3 miles.
+
+Notes: Telegraph station at Fareham, 3 miles.
+
 ----
-text: This place has an ancient castle, which serves for prisoners of war and ordnance stores.
+
+Text:
+
+This place has an ancient castle, which serves for prisoners of war and ordnance stores.
+
+----
+
+Uuid: OGjQSjstM5OSYp7n

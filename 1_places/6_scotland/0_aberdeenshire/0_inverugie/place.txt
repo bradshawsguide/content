@@ -1,5 +1,15 @@
-section: 3
+Title: Inverugie
+
 ----
-title: Inverugie
+
+Section: 3
+
 ----
-text: About a mile from the station stands *Inverugie Castle*, the birth place of the celebrated Field Marshal James Keith. On the opposite side of the river stands the Craig of Inverugie, or Ravenscraig, a hoary ruin: it was the seat of the knightly family of the Cheynes, of Anglo-Norman descent, who succeeded the family of Le Nemys, and were themselves succeeded by the family of Keith, Earls Marischal.
+
+Text:
+
+About a mile from the station stands *Inverugie Castle*, the birth place of the celebrated Field Marshal James Keith. On the opposite side of the river stands the Craig of Inverugie, or Ravenscraig, a hoary ruin: it was the seat of the knightly family of the Cheynes, of Anglo-Norman descent, who succeeded the family of Le Nemys, and were themselves succeeded by the family of Keith, Earls Marischal.
+
+----
+
+Uuid: jIdEqrlhSgQivJbc

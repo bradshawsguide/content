@@ -1,12 +1,21 @@
-section: 1
+Title: Staines to Wokingham and Reading
+
 ----
-title: Staines to Wokingham and Reading
+
+Section: 1
+
 ----
-title_short: Staines to Reading
+
+Title-short: Staines to Reading
+
 ----
-company: companies/staines-wokingham-and-reading
+
+Company: companies/staines-wokingham-and-reading
+
 ----
-stops:
+
+Stops:
+
 - staines
 - egham
 - virginia-water
@@ -15,11 +24,16 @@ stops:
 - bracknell
 - wokingham
 - reading-southern
+
 ----
-links:
-- (wikipedia: Waterloo–Reading_line)
+
+Links: - (wikipedia: Waterloo–Reading_line)
+
 ----
-text: On leaving Staines, we soon arrive at
+
+Text:
+
+On leaving Staines, we soon arrive at
 
 (place: england/surrey/egham)
 
@@ -38,3 +52,7 @@ We shortly after reach [Bracknell](/stations/bracknell) station, containing a po
 [Wokingham](/stations/wokingham).
 
 (place: england/berkshire/reading)
+
+----
+
+Uuid: tE1SEV4lbLWOsq89

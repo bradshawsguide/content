@@ -1,15 +1,33 @@
-section: 2
+Title: Cookstown
+
 ----
-title: Cookstown
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Commercial; Stewart's Arms.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: First Saturday in each month.
+
 ----
-desc: This town contains about 6,000 inhabitants, who are chiefly employed in the linen trade.
+
+Desc: This town contains about 6,000 inhabitants, who are chiefly employed in the linen trade.
+
 ----
-text: This town contains about 6,000 inhabitants, who are chiefly employed in the linen trade. In the vicinity is *Killymoon*, now in the occupation of Mr. Cooper (Saxon style, designed by Nash, who built Derryloran church), owner of the town. *Lissan*, seat of Sir T. Staples, Bart. There are also some forts and other remains to be seen.
+
+Text:
+
+This town contains about 6,000 inhabitants, who are chiefly employed in the linen trade. In the vicinity is *Killymoon*, now in the occupation of Mr. Cooper (Saxon style, designed by Nash, who built Derryloran church), owner of the town. *Lissan*, seat of Sir T. Staples, Bart. There are also some forts and other remains to be seen.
+
+----
+
+Uuid: nLdLWIBwSnXGr7jA

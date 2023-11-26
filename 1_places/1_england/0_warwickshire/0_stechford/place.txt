@@ -1,7 +1,16 @@
-section: 3
+Title: Stechford
+
 ----
-title: Stechford
+
+Section: 3
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - Telegraph station at Birmingham, 4 miles.
+
+----
+
+Uuid: 9ZeRNwKKjoH54l9b

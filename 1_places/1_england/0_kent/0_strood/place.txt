@@ -1,14 +1,30 @@
-section: 1
+Title: Strood
+
 ----
-title: Strood
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Old George.
-- term: Steam Boats
+-
+  term: Steam Boats
   desc: to Sheerness several times daily.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](/stations/rochester).
+
+Text:
+
+A bridge over the Medway, replacing the old bridge built in the reign of Rufus, recently demolished, joins this town with [Rochester](/stations/rochester).
+
+----
+
+Uuid: vDWCTNvU0UJb4CTE

@@ -1,14 +1,25 @@
-section: 1
+Title: London to Richmond and Staines
+
 ----
-title: London to Richmond and Staines
+
+Section: 1
+
 ----
-title_short: London to Staines
+
+Title-short: London to Staines
+
 ----
-subtitle: Windsor and Richmond Branch
+
+Subtitle: Windsor and Richmond Branch
+
 ----
-company: companies/london-and-south-western
+
+Company: companies/london-and-south-western
+
 ----
-stops:
+
+Stops:
+
 - clapham
 - wandsworth
 - putney
@@ -20,13 +31,20 @@ stops:
 - feltham
 - ashford-middlesex
 - staines
+
 ----
-links:
+
+Links:
+
 - (wikipedia: Waterloo–Reading_line)
 - (wikipedia: Kingston_loop_line)
 - (wikipedia: Shepperton_branch_line)
+
 ----
-text: ## Wandsworth to Barnes
+
+Text:
+
+## Wandsworth to Barnes
 The Richmond line properly branches off about the point where the road to the village of Battersea leaves the Wandsworth road, and at a short distance from Battersea. It then pursues a pretty course through the villas, orchards, and nursery gardens which stud that locality, till it reaches Wandsworth. The river Wandle and the valley are crossed by a splendid viaduct.
 
 (place: england/surrey/wandsworth)
@@ -73,3 +91,7 @@ The line crosses the Thames over the railway bridge at Richmond--a very handsome
 (route: staines-to-windsor)
 
 (route: staines-to-wokingham-and-reading)
+
+----
+
+Uuid: JvwEs6N3Uk4yzo8i

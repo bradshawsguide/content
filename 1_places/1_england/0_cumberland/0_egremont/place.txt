@@ -1,14 +1,30 @@
-section: 3
+Title: Egremont
+
 ----
-title: Egremont
+
+Section: 3
+
 ----
-info:
-- term: Market Day
+
+Info:
+
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: February 18, third Friday in May; September 18, horses, cattle, &c.
+
 ----
-notes:
-- Telegraph station at Whitehaven.
+
+Notes: Telegraph station at Whitehaven.
+
 ----
-text: A neat little town, of about 2,511 inhabitants, belonging to General Wyndham, the son of Lord Egremont. It is situated on the banks of the River Eden, a small stream, which flows from Ennerdale Lake. At the time when members of parliament were paid for their services, this town enjoyed the privilege of representation, but the inhabitants deeming it too expensive a luxury, petitioned against it, and were accordingly disenfranchised. To the west of the town stand the ruins of Egremont Castle, built by William de Meschines, soon after the Norman conquest.
+
+Text:
+
+A neat little town, of about 2,511 inhabitants, belonging to General Wyndham, the son of Lord Egremont. It is situated on the banks of the River Eden, a small stream, which flows from Ennerdale Lake. At the time when members of parliament were paid for their services, this town enjoyed the privilege of representation, but the inhabitants deeming it too expensive a luxury, petitioned against it, and were accordingly disenfranchised. To the west of the town stand the ruins of Egremont Castle, built by William de Meschines, soon after the Norman conquest.
+
+----
+
+Uuid: tN7iMCFxU0MsvVY4

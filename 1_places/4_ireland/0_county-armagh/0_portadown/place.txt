@@ -1,18 +1,37 @@
-section: 2
+Title: Portadown
+
 ----
-title: Portadown
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Manchester Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Third Saturday in the month, Easter and Whit-Monday.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This town has a population of about 2,560, engaged in the linen trade.
+
+Desc: This town has a population of about 2,560, engaged in the linen trade.
+
 ----
-text: This town has a population of about 2,560, engaged in the linen trade. Here are ruins of a castle given by Charles I. to the Obyns and which belongs to the Duke of Manchester, Close at hand is *Ballyworkan* seat of G. Pepper, Esq.
+
+Text:
+
+This town has a population of about 2,560, engaged in the linen trade. Here are ruins of a castle given by Charles I. to the Obyns and which belongs to the Duke of Manchester, Close at hand is *Ballyworkan* seat of G. Pepper, Esq.
+
+----
+
+Uuid: up5xQxDEWrkiWO9C

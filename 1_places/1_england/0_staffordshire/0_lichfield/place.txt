@@ -1,21 +1,36 @@
-section: 3
+Title: Lichfield
+
 ----
-title: Lichfield
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: George.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: January 10th, Shrove Tuesday, Ash Wednesday, May 12, first Tuesday in November.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Lichfield, a small cathedral town and parliamentary borough on the Trent Valley line.
+
+Desc: Lichfield, a small cathedral town and parliamentary borough on the Trent Valley line.
+
 ----
-text: (smcp: Lichfield), a small cathedral town and parliamentary borough (two members), on the Trent Valley line, where the Burton and Dudley intersects it, 116 miles from London. A branch of the Trent (which is 3 miles off) runs through. Population, 6,893. Famous for its ale.
+
+Text:
+
+(smcp: Lichfield), a small cathedral town and parliamentary borough (two members), on the Trent Valley line, where the Burton and Dudley intersects it, 116 miles from London. A branch of the Trent (which is 3 miles off) runs through. Population, 6,893. Famous for its ale.
 
 There is a tradition that at a spot called Christian Field, a great number of martyrs were put to death in the third century by the Romans (who had a station at *Etocetum*, close by); and hence the name of the town is derived, *lich* being Saxon for a dead boy, as we see to this day, in the old Lich-gate, near some churches.
 
@@ -28,3 +43,7 @@ Richard II. was confined in the castle, on the site of which are erected Newton'
 There are three other churches, of which St. Chad's is the oldest, and St. Michael's (marked by a tower) contains Johnson's epitaphs on his parents and brother. A Court, of Array, one of the most ancient remnants of feudal times, is still held here at Whitsuntide. Queen Victoria, when Princess, paid Lichfield a visit in 1832, with the Duchess of Kent, her mother; and again after she became Queen of England, in 1843.
 
 In the neighbourhood of the city, the following may be visited. *Edial* or *Edgehill*, an old high-roofed house, where Johnson lived in 1736, when Garrick was his pupiL At *Stow Hill*, he wrote a good part of Ms "Lives of the Poets," when staying with the Astons, " frequently surrounded by five or six ladies engaged in work or conversation." It was here he scrambled over the great gate one day, having a mind (he said) to try whether he could climb a gate as he used to do when a lad. *Reeford*, seat of General Dyott, an ancient family. *Swinfin*, S. Swinfin, Esq., another old family. Dr. Swinfin was Johnson's godfather. *Elmhurst*, N. J. Lane, Esq.
+
+----
+
+Uuid: hudRvaC8uqBFh3YI

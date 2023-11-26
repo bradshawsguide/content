@@ -1,20 +1,40 @@
-section: 2
+Title: High Wycombe
+
 ----
-title: High Wycombe
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 4,221.
-- term: Hotel
+-
+  term: Hotel
   desc: Red Lion.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: Monday before New Michaelmas.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Wycombe is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.
+
+Desc: Wycombe is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.
+
 ----
-text: (smcp: Wycombe) is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.
+
+Text:
+
+(smcp: Wycombe) is a borough in Buckinghamshire on the Wyck. In the vicinity are many corn and paper mills.
+
+----
+
+Uuid: yOuodb2CcCf0GWy6

@@ -1,6 +1,13 @@
-section: 3
+Title: Glasgow, Paisley, and Greenock
+
 ----
-title: Glasgow, Paisley, and Greenock
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Glasgow,_Paisley_and_Greenock_Railway)
+
+Links: - (wikipedia: Glasgow,_Paisley_and_Greenock_Railway)
+
+----
+
+Uuid: cnsOQweKNBnpT9Q3

@@ -1,15 +1,33 @@
-section: 2
+Title: Stonehouse
+
 ----
-title: Stonehouse
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,609.
-- term: Hotels
+-
+  term: Hotels
   desc: Crown and Anchor; Plough.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - A telegraph station.
+
 ----
-text: At this point the line joins the Bristol and Birmingham rail, which proceeds on the left to Bristol, and on the right to Gloucester and Cheltenham.
+
+Text:
+
+At this point the line joins the Bristol and Birmingham rail, which proceeds on the left to Bristol, and on the right to Gloucester and Cheltenham.
+
+----
+
+Uuid: dsUSuKtxLWcTbfVT

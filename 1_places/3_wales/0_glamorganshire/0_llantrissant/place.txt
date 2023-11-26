@@ -1,11 +1,24 @@
-section: 2
+Title: Llantrissant
+
 ----
-title: Llantrissant
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,493.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1½ mile.
 - Telegraph station at Bridgend, 9 miles.
+
+----
+
+Uuid: X4UIJFmQqAMlHRU6

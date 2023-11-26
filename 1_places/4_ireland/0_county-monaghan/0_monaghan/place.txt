@@ -1,18 +1,37 @@
-section: 2
+Title: Monaghan
+
 ----
-title: Monaghan
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: McPhilips' and Campbell's.
-- term: Market Days
+-
+  term: Market Days
   desc: Monday (for linen and pigs), Tuesday, Wednesday, and Saturday, (for grain.)
-- term: Fairs
+-
+  term: Fairs
   desc: 1st Monday in every month.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This town was built by the Blaneys in 1611, and has a population of about 3,484, who are principally shop-keepers.
+
+Desc: This town was built by the Blaneys in 1611, and has a population of about 3,484, who are principally shop-keepers.
+
 ----
-text: This town was built by the Blaneys in 1611, and has a population of about 3,484, who are principally shop-keepers. Large flour mills are in the vicinity. The Ulster canal passes the town. Its public buildings consist of a county court house and jail, cavalry barracks, fever hospital, and workhouse. Close at hand are the ruins of some forts. *Cortalvin*, Lord Rossmore; *Castle Shane*, Right Hon. E. Lucas; *Camla Vale*, Colonel Westenra.
+
+Text:
+
+This town was built by the Blaneys in 1611, and has a population of about 3,484, who are principally shop-keepers. Large flour mills are in the vicinity. The Ulster canal passes the town. Its public buildings consist of a county court house and jail, cavalry barracks, fever hospital, and workhouse. Close at hand are the ruins of some forts. *Cortalvin*, Lord Rossmore; *Castle Shane*, Right Hon. E. Lucas; *Camla Vale*, Colonel Westenra.
+
+----
+
+Uuid: uX9ZGDoENxKGNja4

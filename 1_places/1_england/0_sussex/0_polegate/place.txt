@@ -1,13 +1,28 @@
-section: 1
+Title: Polegate (Willingdon)
+
 ----
-title: Polegate (Willingdon)
+
+Section: 1
+
 ----
-title_short: Polegate
+
+Title-short: Polegate
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Eastbourne.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
+----
+
+Uuid: NEle6c7fMFXrXDtc

@@ -1,24 +1,44 @@
-section: 2
+Title: Antrim
+
 ----
-title: Antrim
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: McMatly's.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday and Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: January 1st, May 12th, August 1st, November 12th.
-- term: Bankers
+-
+  term: Bankers
   desc: Ulster Banking Co.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This small town, which gives name to Antrim, county, stands at the mouth of Six Mile Water, as it falls into Lough Neagh, has a population of about 6,000, whose trade consists of paper, linen, &c.
+
+Desc: This small town, which gives name to Antrim, county, stands at the mouth of Six Mile Water, as it falls into Lough Neagh, has a population of about 6,000, whose trade consists of paper, linen, &c.
+
 ----
-text: This small town, which gives name to Antrim, county, stands at the mouth of Six Mile Water, as it falls into Lough Neagh, has a population of about 6,000, whose trade consists of paper, linen, &c. All this part of Ireland once belonged to the O'Neils or O'Nials; and in the petty contests which took place between them and the settlers planted over their heads by James I., Antrim had a full share. The last historical event was the death of Lord O'Neill, who was mortally wounded, in an action with the rebels of 1798, though the latter were defeated. St. Patrick, the missionary and church-builder, founded a church here in 495, which the present structure replaces. There is nothing remarkable in it, but close at hand is a perfect *Round Tower*, 95 feet high, well worth examination. There are about 80 of these singular towers in Ireland, of which about one-third are perfect. "They are from 60 to 130 feet high and only 8 to 11 feet in diameter; being shaped in general like the Eddystone Lighthouse. Each story is lit by a single window; and the whole pile is surmounted by a cap or conical roof." From the absence of any authentic early history of Ireland, it is difficult to account for their origin. Whether they were built by the Irish, or the Danes, whether for Christian or pagan uses, is a keen subject of dispute with antiquarians--each of whom, like Smith O'Brien, Esq., would "die on the floor" for his favourite theory, and would probably perish of *ennui* if the question were satisfactorily settled. Those in existence are always found to be near a church or abbey; and human bones have been discovered at the bottom of some. Dr. Petrie, the best informed of Irish writers on this fertile theme, thinks they were built for belfries, and also as storehouses in cases of attack. The square keep of Norman castles, and the peel towers on the Scottish border were designed for a similar purpose, and are built on much the same plan.
+
+Text:
+
+This small town, which gives name to Antrim, county, stands at the mouth of Six Mile Water, as it falls into Lough Neagh, has a population of about 6,000, whose trade consists of paper, linen, &c. All this part of Ireland once belonged to the O'Neils or O'Nials; and in the petty contests which took place between them and the settlers planted over their heads by James I., Antrim had a full share. The last historical event was the death of Lord O'Neill, who was mortally wounded, in an action with the rebels of 1798, though the latter were defeated. St. Patrick, the missionary and church-builder, founded a church here in 495, which the present structure replaces. There is nothing remarkable in it, but close at hand is a perfect *Round Tower*, 95 feet high, well worth examination. There are about 80 of these singular towers in Ireland, of which about one-third are perfect. "They are from 60 to 130 feet high and only 8 to 11 feet in diameter; being shaped in general like the Eddystone Lighthouse. Each story is lit by a single window; and the whole pile is surmounted by a cap or conical roof." From the absence of any authentic early history of Ireland, it is difficult to account for their origin. Whether they were built by the Irish, or the Danes, whether for Christian or pagan uses, is a keen subject of dispute with antiquarians--each of whom, like Smith O'Brien, Esq., would "die on the floor" for his favourite theory, and would probably perish of *ennui* if the question were satisfactorily settled. Those in existence are always found to be near a church or abbey; and human bones have been discovered at the bottom of some. Dr. Petrie, the best informed of Irish writers on this fertile theme, thinks they were built for belfries, and also as storehouses in cases of attack. The square keep of Norman castles, and the peel towers on the Scottish border were designed for a similar purpose, and are built on much the same plan.
 
 Lough Neagh, the largest lake in the United Kingdom (nearly 100,000 acres, 60 miles in circuit), is a fine sheet of water, At one period it was surrounded by immense forests, the fallen timber of which in process of ages has been converted into coal and lignite in which cornelian and other pebbles are found. This lignite, which is a common production in certain localities, gave rise to a story that "the waters of the lake were petrifying;" while the stumps of trees seen at the bottom have been magnified into the "round towers of other days" of Moore's song. There are three small islands, and the Bann is its only outlet. As it is not more than 102 feet in the deepest part, the time may come when this immense basin of useless water will be drained, like the lake of Haarlem. Two miles from Antrim, on the west side of the bay, towards Randalstown, is *Shane's Castle*, the seat of the O'Neills, but now owned by the Rev. Mr. Chichester.
 
 A small feeder of the lake, Maine Water, runs through the grounds, which are large and well planted. The castle itself was burnt in 1816, and is a picturesque ruin; a small house near it is now occupied by the family. The castle is supposed to be haunted by the Banshee, whose wail is heard whenever one of the O'Neills die. This is firmly believed. A bloody or red hand is the arms of Ulster, from the story that "the first O'Neill was one of a company, the leader of which promised that whoever touched the land first should have it. O'Neill, seeing another boat ahead of his, took a sword, cut off his left hand, flung it ashore, and so was first to touch it." This hand appears in the arms of all baronet's dignity, created by James I., at the plantation of Ulster. Within a short distance, are *Antrim Castle*, the seat of Viscount Massareene; and *Castle Upton*, the ancient Elizabethan seat of Lord Templetown.
+
+----
+
+Uuid: 8eNGLtwQYBodNG4W

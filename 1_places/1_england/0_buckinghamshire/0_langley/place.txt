@@ -1,12 +1,27 @@
-section: 2
+Title: Langley
+
 ----
-title: Langley
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,874.
+
 ----
-notes:
-- A telegraph station at Slough, 1¼ mile.
+
+Notes: A telegraph station at Slough, 1¼ mile.
+
 ----
-text: To the right, at a short distance, is *Langley Park*.
+
+Text:
+
+To the right, at a short distance, is *Langley Park*.
+
+----
+
+Uuid: ezdUG8YbkAcmDFtb

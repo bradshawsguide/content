@@ -1,14 +1,30 @@
-section: 2
+Title: Skerries
+
 ----
-title: Skerries
+
+Section: 2
+
 ----
-info:
-- term: Market Day
+
+Info:
+
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 28, August 10.
+
 ----
-notes:
-- Telegraph station at Balbriggan, 4 miles.
+
+Notes: Telegraph station at Balbriggan, 4 miles.
+
 ----
-text: It has a pier harbour and Holmpatrick Church, and is celebrated for the lauding of Sir P. Sidney in 1575.
+
+Text:
+
+It has a pier harbour and Holmpatrick Church, and is celebrated for the lauding of Sir P. Sidney in 1575.
+
+----
+
+Uuid: xeIDwhiH2JLurrjd

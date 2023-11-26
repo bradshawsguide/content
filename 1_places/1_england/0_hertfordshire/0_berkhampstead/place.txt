@@ -1,26 +1,48 @@
-section: 3
+Title: Berkhampstead
+
 ----
-title: Berkhampstead
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,631.
-- term: Hotel
+-
+  term: Hotel
   desc: King's Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Shrove Tuesday, Whit Monday, Michaelmas Tuesday and Wednesday.
-- term: Mails
+-
+  term: Mails
   desc: Two arrivals and departures, daily, between London and Berhampstead.
-- term: Bankers
+-
+  term: Bankers
   desc: London and County Bank.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: The elevated position of this station commands a delightful view of the valley on the left, in the bosom of which lies the town of Great Berkhampstead.
+
+Desc: The elevated position of this station commands a delightful view of the valley on the left, in the bosom of which lies the town of Great Berkhampstead.
+
 ----
-text: The elevated position of this station commands a delightful view of the valley on the left, in the bosom of which lies the town of Great Berkhampstead, where the author of the "Task," the poet Cowper, was born, in 1731, and whose father was rector of this town. The church is cruciform, and as old as the cross. The beauties of the vale excite general admiration, and one cannot avoid remarking how singularly happy "Nature" or the "Muses" are in selecting the birthplaces of her favourite minstrels. What lovelier spot could be chosen to prompt the first accents of poetry than the groves and meads of this lovely valley. What could be more inspiring to the great bard than the scenery around Stratford-on-Avon; or where could a spot be found more adapted to inspire the muse of the Scottish minstrel, Burns, than the banks of the Doon?
+
+Text:
+
+The elevated position of this station commands a delightful view of the valley on the left, in the bosom of which lies the town of Great Berkhampstead, where the author of the "Task," the poet Cowper, was born, in 1731, and whose father was rector of this town. The church is cruciform, and as old as the cross. The beauties of the vale excite general admiration, and one cannot avoid remarking how singularly happy "Nature" or the "Muses" are in selecting the birthplaces of her favourite minstrels. What lovelier spot could be chosen to prompt the first accents of poetry than the groves and meads of this lovely valley. What could be more inspiring to the great bard than the scenery around Stratford-on-Avon; or where could a spot be found more adapted to inspire the muse of the Scottish minstrel, Burns, than the banks of the Doon?
 
 Berkhampstead Castle, in ruins, was built soon after the Conquest, by Robert Montaigne.
+
+----
+
+Uuid: 2F34NiVZqemTqjb4

@@ -1,21 +1,43 @@
-section: 2
+Title: Keynsham
+
 ----
-title: Keynsham
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,190.
-- term: Hotel
+-
+  term: Hotel
   desc: White Hart.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 24th and 26th, April 27th, and August. 15th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
 ----
-desc: Proceeding over a lofty embankment, which affords a commanding prospect on every side, and enables us to trace, the windings of the silvery Avon, along its verdant shores.
+
+Desc: Proceeding over a lofty embankment, which affords a commanding prospect on every side, and enables us to trace, the windings of the silvery Avon, along its verdant shores.
+
 ----
-text: Proceeding over a lofty embankment, which affords a commanding prospect on every side, and enables us to trace, the windings of the silvery Avon, along its verdant shores, edged with towering poplars and branching elms. Nature here seems to have put on her loveliest robe, but Art, as if envious of her beauty, jealously encloses us in a ponderous cutting--the very moment we are most enthusiastically enjoying the prospect.
+
+Text:
+
+Proceeding over a lofty embankment, which affords a commanding prospect on every side, and enables us to trace, the windings of the silvery Avon, along its verdant shores, edged with towering poplars and branching elms. Nature here seems to have put on her loveliest robe, but Art, as if envious of her beauty, jealously encloses us in a ponderous cutting--the very moment we are most enthusiastically enjoying the prospect.
+
+----
+
+Uuid: 1Md3Pyb4ZtwLh5h3

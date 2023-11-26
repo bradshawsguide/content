@@ -1,16 +1,33 @@
-section: 3
+Title: Chorley
+
 ----
-title: Chorley
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Royal Oak.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 26th, May 5th, August 20th, and September 4th and 6th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a market-town, with a population of 15,013, engaged in the cotton trade, and working the coal, lead, and slate mines. Here is *St Laurence's* Church, with its old monuments, *St George's*, built in the Gothic style in 1825, and an excellent *Grammar School*. In the vicinity are *Astley Hall*, Lady Highten, *Gillibrand Hall*, H. Fazakerley, Esq., and the *Bleaching Works*, which are well worth a visit.
+
+Text:
+
+This is a market-town, with a population of 15,013, engaged in the cotton trade, and working the coal, lead, and slate mines. Here is *St Laurence's* Church, with its old monuments, *St George's*, built in the Gothic style in 1825, and an excellent *Grammar School*. In the vicinity are *Astley Hall*, Lady Highten, *Gillibrand Hall*, H. Fazakerley, Esq., and the *Bleaching Works*, which are well worth a visit.
+
+----
+
+Uuid: xf7n4QvZtqRUuAhR

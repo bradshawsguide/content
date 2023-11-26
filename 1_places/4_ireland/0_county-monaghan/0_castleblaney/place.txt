@@ -1,16 +1,33 @@
-section: 2
+Title: Castleblaney
+
 ----
-title: Castleblaney
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Mc. Master's.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: 1st Wednesday in every month.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: *Castleblaney House*, formerly belonging to Lord Blayney, has recently been purchased by Mr. Hope, who has put the beautiful grounds, spacious lake, &c., into exquisite order, and most liberally thrown, them open to the public.
+
+Text:
+
+*Castleblaney House*, formerly belonging to Lord Blayney, has recently been purchased by Mr. Hope, who has put the beautiful grounds, spacious lake, &c., into exquisite order, and most liberally thrown, them open to the public.
+
+----
+
+Uuid: 5E4U6243VNnzPoJo

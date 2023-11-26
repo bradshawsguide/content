@@ -1,18 +1,35 @@
-section: 3
+Title: Elgin
+
 ----
-title: Elgin
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Gordon Arms; Station Hotel.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: 3rd Friday in February, March, and April; 2nd Friday in May; 1st Tuesday in June; 3rd Tuesday in July, August, September, and October; 2nd Friday in November; 3rd Wednesday in December.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This town has a population of 8,726, who return one member -- the county another, and was founded by Helgy, a Norwegian. It is situated 5 miles from the sea, on the river Lossie, and contains 5 chapels, prison, library, news and assembly rooms, literary and horticultural societies, breweries, gas and water-works, woollen factory, grammar school, free school, hospital school of industry, founded by General Anderson (a native who was a poor boy of this town), on the site of Bishop Andrew's *Domus Dei*, erected in 1227; hospital founded by Dr. Gray, a native, and built by Gillespie; pauper lunatic asylum, church in the Grecian style. The cathedral was built in the latter part of the 14th century, and is one of the finest specimens in Scotland of the first pointed style of architecture. Its extreme length is 289 feet, the breadth of nave and side aisles, 87 feet. The original building was completed in 1242, but was destroyed bv the "Wolfe of Badenoch" in 1390 (*vide* Sir T. Dick Lauder's "Wolfe of Badenoch"). The present building, through lack of funds, was not completed till 1506. "Mighty, though in ruins," the western towers are 84 feet high, and the eastern turrets 64 feet. Near the south gate is the stone coffin of King Duncan, who was subsequently reinterred at Icolmkill (see [Iona](#)). The apprentice's aisle, octagonal chapter house, the tombs of Bishops Innes and Dunbar, and the lavatory where Marjory Gilgean lived, are worthy of special attention.
+
+Text:
+
+This town has a population of 8,726, who return one member -- the county another, and was founded by Helgy, a Norwegian. It is situated 5 miles from the sea, on the river Lossie, and contains 5 chapels, prison, library, news and assembly rooms, literary and horticultural societies, breweries, gas and water-works, woollen factory, grammar school, free school, hospital school of industry, founded by General Anderson (a native who was a poor boy of this town), on the site of Bishop Andrew's *Domus Dei*, erected in 1227; hospital founded by Dr. Gray, a native, and built by Gillespie; pauper lunatic asylum, church in the Grecian style. The cathedral was built in the latter part of the 14th century, and is one of the finest specimens in Scotland of the first pointed style of architecture. Its extreme length is 289 feet, the breadth of nave and side aisles, 87 feet. The original building was completed in 1242, but was destroyed bv the "Wolfe of Badenoch" in 1390 (*vide* Sir T. Dick Lauder's "Wolfe of Badenoch"). The present building, through lack of funds, was not completed till 1506. "Mighty, though in ruins," the western towers are 84 feet high, and the eastern turrets 64 feet. Near the south gate is the stone coffin of King Duncan, who was subsequently reinterred at Icolmkill (see [Iona](#)). The apprentice's aisle, octagonal chapter house, the tombs of Bishops Innes and Dunbar, and the lavatory where Marjory Gilgean lived, are worthy of special attention.
 
 In the vicinity is *Pluscarden Abbey*, one of the finest specimens of Gothic architecture in the North of Scotland. Although much overgrown with ivy, the interior is fine, and contains the remains of some fine frescoes.
+
+----
+
+Uuid: WQwLYVoF71g769bl

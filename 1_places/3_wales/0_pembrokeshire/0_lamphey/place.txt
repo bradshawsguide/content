@@ -1,5 +1,15 @@
-section: 2
+Title: Lamphey
+
 ----
-title: Lamphey
+
+Section: 2
+
 ----
-text: In the vicinity of which is *Lamphey Court* belonging to C. Mathias, Esq. It stands near to the fine ruins of a deserted palace of the bishops of St. Davids, in a rich Gothic style; the great hall is 76 feet long.
+
+Text:
+
+In the vicinity of which is *Lamphey Court* belonging to C. Mathias, Esq. It stands near to the fine ruins of a deserted palace of the bishops of St. Davids, in a rich Gothic style; the great hall is 76 feet long.
+
+----
+
+Uuid: aPKEn09UaEgxPJuu

@@ -1,25 +1,42 @@
-section: 3
+Title: Liverpool
+
 ----
-title: Liverpool
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Victoria, and London North and Western Railway Hotel, opposite St. George's Hall, a most comfortable house, and much commended. Hartley's Adelphi; Lynn's Waterloo, Ranelagh Street.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from the station.
-- term: Market Days
+-
+  term: Market Days
   desc: Daily.
-- term: Fairs
+-
+  term: Fairs
   desc: Every alternate Wednesday, beginning March 12th, July 25th, and November 11th.
-- term: Races
+-
+  term: Races
   desc: (At Aintree) in February, July, and November.
+
 ----
-notes:
-- Telegraph stations, 35, Castle Street, 9, Exchange Buildings, and at the Lime Street Railway Station.
+
+Notes: Telegraph stations, 35, Castle Street, 9, Exchange Buildings, and at the Lime Street Railway Station.
+
 ----
-desc: Fronting the Irish Sea on the north side of the Mersey's mouth, at the south extremity of Lancashire, 210 miles from London, and as near as can be in the centre of the British Islands.
+
+Desc: Fronting the Irish Sea on the north side of the Mersey's mouth, at the south extremity of Lancashire, 210 miles from London, and as near as can be in the centre of the British Islands.
+
 ----
-text: The *Lyrpool*, or *Litherpool*, of early times, when it was an insignificant chapelry, sent one little bark with 6 men to the siege of Calais, in 1333, Hastings then sending 21 tall ships, but is now the second port in the United Kingdom, as well as a parliamentary borough, &c., with a population of 443,938, who return two members. It stands fronting the Irish Sea on the north side of the Mersey's mouth, at the south extremity of Lancashire, 210 miles from London, by the North Western Railway, via Warrington; 230 miles by way of Birkenhead and Chester; and as near as can be in the centre of the British Islands.
+
+Text:
+
+The *Lyrpool*, or *Litherpool*, of early times, when it was an insignificant chapelry, sent one little bark with 6 men to the siege of Calais, in 1333, Hastings then sending 21 tall ships, but is now the second port in the United Kingdom, as well as a parliamentary borough, &c., with a population of 443,938, who return two members. It stands fronting the Irish Sea on the north side of the Mersey's mouth, at the south extremity of Lancashire, 210 miles from London, by the North Western Railway, via Warrington; 230 miles by way of Birkenhead and Chester; and as near as can be in the centre of the British Islands.
 
 The site a sloping rock of red sandstone, through which three tunnels are cut from the Edge Hill Station—one to the Lime Street terminus (opposite St. George's Hall), another for goods, of 1¼ mile long, to Wapping, and a third, as long, to Clarence Dock. The Mersey, above the town, widens into a little shallow sea, 2 miles wide in one part; while at the mouth it is choked by large sandbanks, leaving two main entrances—the Victoria Channel, 12 miles long, the most used—and the Rock Channel, 10 miles in length. Besides the Floating Light Ship there is a handsome stone Light House off New Brighton, like the Eddystone, and 90 feet high.
 
@@ -56,3 +73,7 @@ The Cheshire side of the Mersey is now a prosperous suburb of Liverpool, with a 
 The facility and cheapness of steam transit, either by rail or boat, gives the tourist an excellent opportunity of making Liverpool the starting point to some delightful spots on the Welsh coast. During the summer months there is daily steam communication between Menai Bridge, Bangor, Beaumaris, and Liverpool. The passage is accomplished in about five hours.
 
 Another route for those who like to enjoy the country by occasionally pedestrianising, is to take the packet from Liverpool to Rhyl, or Mostyn, North Wales, and thence continue the journey on foot, or the line of railway from Chester to Holyhead, which affords the same facilities for reaching picturesque stations.
+
+----
+
+Uuid: VfdIYQRTLOaxzdE2

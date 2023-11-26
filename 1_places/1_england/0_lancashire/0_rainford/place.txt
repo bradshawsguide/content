@@ -1,17 +1,37 @@
-section: 3
+Title: Rainford
+
 ----
-title: Rainford
+
+Section: 3
+
 ----
-subtitle: Junction for St. Helens'
+
+Subtitle: Junction for St. Helens'
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,784.
-- term: Hotel
+-
+  term: Hotel
   desc: Railway.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-text: This place is situated in what was once a marshy spot, but now well drained. Its principal manufactures are tobacco pipes and crucibles. Scythe stones abound here.
+
+Text:
+
+This place is situated in what was once a marshy spot, but now well drained. Its principal manufactures are tobacco pipes and crucibles. Scythe stones abound here.
+
+----
+
+Uuid: UQJQ0sgw4bvmTCr2

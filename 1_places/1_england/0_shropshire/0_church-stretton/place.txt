@@ -1,14 +1,27 @@
-section: 2
+Title: Church Stretton
+
 ----
-title: Church Stretton
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Crown.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 10th, May 14th, July 3rd, and September 25th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
+----
+
+Uuid: gNBAw3mWGZvhlb8r

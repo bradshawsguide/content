@@ -1,18 +1,24 @@
-section: 1
+Title: Godstone
+
 ----
-title: Godstone
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: White Hart.
-- term: Fair
+-
+  term: Fair
   desc: July 22.
+
 ----
-notes
-- Distance from station, 3 miles.
-- A telegraph station.
-----
-distances:
+
+Distances:
+
 - location: Anchor Farm
   miles: "2½"
 - location: Blackgrove
@@ -113,9 +119,19 @@ distances:
   miles: "4½"
 - location: Wonham
   miles: "3"
+
 ----
-desc: The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked.
+
+Desc: The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked.
+
 ----
-text: The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked. There was formerly a mineral spring of some repute a short distance, from Godstone. The parks and mansions in this neighbourhood are much admired, and from some of the hills there are beautiful views of the surrounding country of Surrey and Kent. Tandridge and Limpsfield are pretty villages, about two miles distant.
+
+Text:
+
+The name of the village adjacent is derived from a corruption of "good stone," significant of the excellence of the quarries there worked. There was formerly a mineral spring of some repute a short distance, from Godstone. The parks and mansions in this neighbourhood are much admired, and from some of the hills there are beautiful views of the surrounding country of Surrey and Kent. Tandridge and Limpsfield are pretty villages, about two miles distant.
 
 (distances:)
+
+----
+
+Uuid: BVKUsOb5K6B7PEWD

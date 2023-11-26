@@ -1,7 +1,17 @@
-section: 3
+Title: Ballaglass
+
 ----
-title: Ballaglass
+
+Section: 3
+
 ----
-text: *Balla*, as in Irish names, means a Norman town.
+
+Text:
+
+*Balla*, as in Irish names, means a Norman town.
 
 *Kirk Manghold*, 3 miles to the right, has lead mines, various Scandinavian remains, a pillar with runic characters, and a carved cross. From the hill overlooking the church there is a fine view of Ramsey and its bay. Here Prince Albert stood to view it, in 1846, and a small pillar marks the spot
+
+----
+
+Uuid: 2AmyCH1tCla3ryb3

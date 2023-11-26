@@ -1,25 +1,42 @@
-﻿section: 1
+Title: Portsmouth
+
 ----
-title: Portsmouth
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 94,799.
-- term: Hotels
+-
+  term: Hotels
   desc: The Fountain; the York; Pier.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from the station.
-- term: Steam Bridge
+-
+  term: Steam Bridge
   desc: to Gosport every half hour.
-- term: Market Days
+-
+  term: Market Days
   desc: Thursday and Saturday.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Portsmouth, the first naval port in the British Islands, 75 miles, from London by the South Western Line or 95 by way of the Brighton and South Coast Line.
+
+Desc: Portsmouth, the first naval port in the British Islands, 75 miles, from London by the South Western Line or 95 by way of the Brighton and South Coast Line.
+
 ----
-text: Portsmouth, the first naval port in the British Islands, and a parliamentary borough &c., 75 miles, from London by the South Western Line or 95 by way of the Brighton and South Coast Line.
+
+Text:
+
+Portsmouth, the first naval port in the British Islands, and a parliamentary borough &c., 75 miles, from London by the South Western Line or 95 by way of the Brighton and South Coast Line.
 
 Portsmouth, Portsea, Southsea, &c., are seated on a low island, about 4 miles long, between Portsmouth and Langstone Harbours, and inside the Spithead anchorage, and the Isle of Wight, whose beautiful hills are seen about 5 miles over the water. The Dockyard is at Portsea; and on the Gosport side of the harbour are the Victualling Office, Haslar Hospital, and other establishments. Portsdown Hill is to the north.
 
@@ -46,3 +63,7 @@ Within a short distance from Portsmouth, excursions may be made to the *Isle of 
 Near Purbrook is *Merchistoun*, the seat of the late Admiral Sir Charles Napier, not far off the mansion of his cousin, the late General Sir C. Napier, the conqueror of Scinde. *Leigh Park*, near Havant, the seat of Sir G. Staunton, Bart. From Havant, at the east end of Portsdown, looking down on Chichester Cathedral, there is a bridge to Hayling Island, a flat pasture tract like its neighbour, and separated from it by Langstone harbour. A quiet bathing place has been established at Hayling. Portsdown Fair begins July 26th.
 
 Conveyances by railway to Southampton, Winchester, London, Dorchester, Chichester, Brighton, Hastings, Dover, &c. By steamers to Ryde, Cowes, Southampton, several times a day, from the Albert and Victoria piers; to Plymouth and Liverpool once a week.
+
+----
+
+Uuid: LkX71kDqyXHDY1LO

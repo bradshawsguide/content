@@ -1,13 +1,29 @@
-section: 2
+Title: Howth
+
 ----
-title: Howth
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Royal.
+
 ----
-desc: The town is situated on the northern side of the peninsula and has risen within a very few years to a considerable degree of importance by the construction of a magnificent harbour for the protection of vessels bound for the port of Dublin.
+
+Desc: The town is situated on the northern side of the peninsula and has risen within a very few years to a considerable degree of importance by the construction of a magnificent harbour for the protection of vessels bound for the port of Dublin.
+
 ----
-text: The town is situated on the northern side of the peninsula and has risen within a very few years to a considerable degree of importance by the construction of a magnificent harbour for the protection of vessels bound for the port of Dublin. It consists of two piers, erected by Rennie at a cost of £800,000, which project for a considerable distance into the sea; one is rather more than 2,493 feet from the shore, and the other 2,020 feet: the entrance is 300 feet wide, and the area enclosed within this vast mass of masonry exceeds fifty English acres. George IV. landed here on his visit to Ireland, and the marks of his footsteps are still shown chiselled in the granite of the quay. In the summer the quays present a pleasing and exciting appearance, fleets of fishing boats engaged in the herring fishery, making this their head quarters, the situation of the herring ground lying about 10 miles to the north-east. A chapel has recently been built on the quay for the accommodation of the Cornish portion of the fishermen, who are hero scrupulously strict in their observance of the Sabbath. On turning from the harbour, the first object that attracts the attention of the traveller is a ruined abbey, which directly fronts him. Placed on a precipitous bank, considerably elevated above the water's edge, and surrounded by a strong embattled wall, it may be considered half temple, and half fortress. It contains a fine tomb of a knight and lady. In the castle, the beautiful demesne of Lord Howth, are the old Abbey Bells, Tristram's sword, and a picture gallery in which is a portrait of Swift, Open to visitors on Saturday afternoons. The tourists' path cut around the cliffs to the east of the town or Head of Howth, presents some very extensive and charming views. At some points the path rises to a height of 250 feet above the level of the sea, and at others the visitor is sometimes enabled to see the seals disporting themselves in some of their haunts on this portion of the coast. Leaving the path, the pedestrian may turn to the right, skirting the south side of the hill, past the residence of Dr. Stokes, which celebrated physician has selected this charming spot as his country residence: from it, of all the views of the Bay of Dublin, the one here obtained is perhaps the finest. On Baily Point there is an immense fixed light, erected hi 1813, 114 feet high, and visible 15 miles at sea.
+
+Text:
+
+The town is situated on the northern side of the peninsula and has risen within a very few years to a considerable degree of importance by the construction of a magnificent harbour for the protection of vessels bound for the port of Dublin. It consists of two piers, erected by Rennie at a cost of £800,000, which project for a considerable distance into the sea; one is rather more than 2,493 feet from the shore, and the other 2,020 feet: the entrance is 300 feet wide, and the area enclosed within this vast mass of masonry exceeds fifty English acres. George IV. landed here on his visit to Ireland, and the marks of his footsteps are still shown chiselled in the granite of the quay. In the summer the quays present a pleasing and exciting appearance, fleets of fishing boats engaged in the herring fishery, making this their head quarters, the situation of the herring ground lying about 10 miles to the north-east. A chapel has recently been built on the quay for the accommodation of the Cornish portion of the fishermen, who are hero scrupulously strict in their observance of the Sabbath. On turning from the harbour, the first object that attracts the attention of the traveller is a ruined abbey, which directly fronts him. Placed on a precipitous bank, considerably elevated above the water's edge, and surrounded by a strong embattled wall, it may be considered half temple, and half fortress. It contains a fine tomb of a knight and lady. In the castle, the beautiful demesne of Lord Howth, are the old Abbey Bells, Tristram's sword, and a picture gallery in which is a portrait of Swift, Open to visitors on Saturday afternoons. The tourists' path cut around the cliffs to the east of the town or Head of Howth, presents some very extensive and charming views. At some points the path rises to a height of 250 feet above the level of the sea, and at others the visitor is sometimes enabled to see the seals disporting themselves in some of their haunts on this portion of the coast. Leaving the path, the pedestrian may turn to the right, skirting the south side of the hill, past the residence of Dr. Stokes, which celebrated physician has selected this charming spot as his country residence: from it, of all the views of the Bay of Dublin, the one here obtained is perhaps the finest. On Baily Point there is an immense fixed light, erected hi 1813, 114 feet high, and visible 15 miles at sea.
 
 *Ireland's Eye* is situated 1½ mile north of Howth, and may be visited in boats, which lie in the harbour; tariff, 2s., including all charges. _/
+
+----
+
+Uuid: 4hLoO54GIsAfkbqH

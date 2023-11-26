@@ -1,8 +1,19 @@
-section: 3
+Title: Tain
+
 ----
-title: Tain
+
+Section: 3
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Is a royal burgh of considerable antiquity, and one of the cluster of six which returns a member to Parliament. It is pleasantly situated, and has a good view of Eastern Sutherland and of Cromarty. Weekly grain markets are held here, and there is a rich agricultural district around the town, Easter Ross being famous for its large and early crop*.
+
+Text:
+
+Is a royal burgh of considerable antiquity, and one of the cluster of six which returns a member to Parliament. It is pleasantly situated, and has a good view of Eastern Sutherland and of Cromarty. Weekly grain markets are held here, and there is a rich agricultural district around the town, Easter Ross being famous for its large and early crop*.
+
+----
+
+Uuid: E1ikyaNd3wYjd6HP

@@ -1,14 +1,30 @@
-section: 1
+Title: Berwick
+
 ----
-title: Berwick
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Fuller's Arms.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Eastbourne.
+
 ----
-notes:
-- Telegraph station at Polegate, 4 miles.
+
+Notes: Telegraph station at Polegate, 4 miles.
+
 ----
-text: A little to the north of the village of the same name.
+
+Text:
+
+A little to the north of the village of the same name.
+
+----
+
+Uuid: d69y1UGsfnbnU2NW

@@ -1,10 +1,17 @@
-section: 3
+Title: Blisworth to Northampton and Peterborough
+
 ----
-title: Blisworth to Northampton and Peterborough
+
+Section: 3
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - blisworth-junction
 - [northampton, brampton, spratton, brixworth, lamport, kelmarsh, clipston, market-harborough]
 - billing-road
@@ -22,8 +29,12 @@ stops:
 - castor
 - overton-northants
 - peterborough
+
 ----
-text: The line turns off to the right; and commences in a curve over a bridge across the Grand Junction Canal, where a fine view of the surrounding country is obtained.
+
+Text:
+
+The line turns off to the right; and commences in a curve over a bridge across the Grand Junction Canal, where a fine view of the surrounding country is obtained.
 
 (place: england/northamptonshire/northampton)
 
@@ -66,3 +77,7 @@ text: The line turns off to the right; and commences in a curve over a bridge ac
 [Overton](/stations/overton-northants) station.
 
 (place: england/northamptonshire/peterborough)
+
+----
+
+Uuid: yaeDEW4ThYsLgSuI

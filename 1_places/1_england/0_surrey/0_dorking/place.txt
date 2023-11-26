@@ -1,23 +1,37 @@
-section: 1
+Title: Dorking
+
 ----
-title: Dorking
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 4,161.
-- term: Hotels
+-
+  term: Hotels
   desc: Red Lion, and White Horse.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from the station; to Epsom station several times daily.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fair
+-
+  term: Fair
   desc: The day before Holy Thursday.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-distances:
+
+Distances:
+
 - location: Abinger Hall
   miles: "3"
 - location: Anstie Bury
@@ -110,11 +124,21 @@ distances:
   miles: "1½"
 - location: Wotten
   miles: "2"
+
 ----
-desc: Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom.
+
+Desc: Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom.
+
 ----
-text: Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom. This town is of considerable antiquity, and so conveniently situated that it carries on a large trade in flour and corn and employs several mills on the Mole. The church is a fine old edifice and contains several handsome monuments. It is celebrated for its poultry, particularly for a five-toed breed, called Dorkings, supposed to have been introduced by the Romans.
+
+Text:
+
+Dorking is situated in a valley near the river Mole, nearly surrounded with hills, and commands some of the finest views in the kingdom. This town is of considerable antiquity, and so conveniently situated that it carries on a large trade in flour and corn and employs several mills on the Mole. The church is a fine old edifice and contains several handsome monuments. It is celebrated for its poultry, particularly for a five-toed breed, called Dorkings, supposed to have been introduced by the Romans.
 
 It is a favourite summer resort of invalids and lovers of rural scenery, and it would be difficult to name any place better calculated for both classes, as the salubrity of the air and the beauty of the surrounding country cannot be surpassed or equalled within so short a distance of the metropolis. There are several very beautiful country-seats villas, and mansions around the town, too numerous, however, to be enumerated in our pages.
 
 (distances:)
+
+----
+
+Uuid: JbnXct1u3EGC5sY8

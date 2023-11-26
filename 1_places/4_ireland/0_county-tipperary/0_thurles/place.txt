@@ -1,18 +1,37 @@
-section: 2
+Title: Thurles
+
 ----
-title: Thurles
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: O'Shee's.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: 1st Tuesday in the month, Easter Monday, August 21, and December.
+
 ----
-desc: Here the Danes and English were defeated in the 10th century, by O'Brien, who built the Castle, Carmelite Monastery, and Knights Templar's preceptory.
+
+Desc: Here the Danes and English were defeated in the 10th century, by O'Brien, who built the Castle, Carmelite Monastery, and Knights Templar's preceptory.
+
 ----
-text: Here the Danes and English were defeated in the 10th century, by O'Brien, who built the Castle, Carmelite Monastery, and Knights Templar's preceptory. It contains a population of about 10,300, chiefly engaged in the corn trade. Close at hand are the nuns of a monastery, and two castles. Then, passing Goold's Cross, 4± miles from which is *Cashel*, the ancient seat of the Kings of Munster, whose palace stood on the Rock of Cashel, as also did a church built by St. Patrick, whose effigy is here, on the site of which are the ruins of Cormac's chapel, 53 feet long, built in 1134, by Cormac Macarthy, having frescoes, which being discovered by Archdeacon Cotton, he restored the pile. The old early English Cathedral, built by King Donald O'Brien, in 1169, 210 feet by 170, has a monument to Archbishop Macgragh, and was used until 1745; Archbishop Hedran's Vicars Choral Hall, built in 1421. The Episcopal Palace, Archbishop M'Guvill's Cistercian Abbey, built in 1260, with the tribute stone, and round tower of freestone, 90 feet high, and 56 in girth. Bore Abbey, founded by that Archbishop in 1272, lies to the west, and in the town there is an old friary. Here Henry II. was confirmed monarch of Ireland, by Pope Alexander, in 1172. The Earl of Kildare burnt the cathedral, because he thought the Archbishop was in it, and in 1147, Lord Inchiquin captured it for the Parliament. Markets are held on Wednesday and Saturday, and Fans on the 26th March, 7th August, and 3rd Tuesday in every month.
+
+Text:
+
+Here the Danes and English were defeated in the 10th century, by O'Brien, who built the Castle, Carmelite Monastery, and Knights Templar's preceptory. It contains a population of about 10,300, chiefly engaged in the corn trade. Close at hand are the nuns of a monastery, and two castles. Then, passing Goold's Cross, 4± miles from which is *Cashel*, the ancient seat of the Kings of Munster, whose palace stood on the Rock of Cashel, as also did a church built by St. Patrick, whose effigy is here, on the site of which are the ruins of Cormac's chapel, 53 feet long, built in 1134, by Cormac Macarthy, having frescoes, which being discovered by Archdeacon Cotton, he restored the pile. The old early English Cathedral, built by King Donald O'Brien, in 1169, 210 feet by 170, has a monument to Archbishop Macgragh, and was used until 1745; Archbishop Hedran's Vicars Choral Hall, built in 1421. The Episcopal Palace, Archbishop M'Guvill's Cistercian Abbey, built in 1260, with the tribute stone, and round tower of freestone, 90 feet high, and 56 in girth. Bore Abbey, founded by that Archbishop in 1272, lies to the west, and in the town there is an old friary. Here Henry II. was confirmed monarch of Ireland, by Pope Alexander, in 1172. The Earl of Kildare burnt the cathedral, because he thought the Archbishop was in it, and in 1147, Lord Inchiquin captured it for the Parliament. Markets are held on Wednesday and Saturday, and Fans on the 26th March, 7th August, and 3rd Tuesday in every month.
+
+----
+
+Uuid: XYwvNXjLsEO3dQl6

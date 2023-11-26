@@ -1,17 +1,30 @@
-﻿section: 2
+Title: Exmouth
+
 ----
-title: Exmouth
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 5,228.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This place has, within the last few years, made rapid strides in the march of improvement. The Beacon Hill is covered with buildings, and the Parade is stretching away right and left, with no visible signs, hitherto, of limitation.
+
+Desc: This place has, within the last few years, made rapid strides in the march of improvement. The Beacon Hill is covered with buildings, and the Parade is stretching away right and left, with no visible signs, hitherto, of limitation.
+
 ----
-text: This place has, within the last few years, made rapid strides in the march of improvement. The Beacon Hill is covered with buildings, and the Parade is stretching away right and left, with no visible signs, hitherto, of limitation.
+
+Text:
+
+This place has, within the last few years, made rapid strides in the march of improvement. The Beacon Hill is covered with buildings, and the Parade is stretching away right and left, with no visible signs, hitherto, of limitation.
 
 Situated on the eastern side of the river Exe, two projecting sand banks form a partial enclosure, leaving an opening of about one-third the width of the harbour. The Exe is here about a mile and a half across, and though the entrance is somewhat difficult, the harbour is very convenient, and will admit the passage of ships of more than 300 tons burden.
 
@@ -32,3 +45,7 @@ Sidmouth is sheltered by its hills from every quarter, except the south, where i
 The present great features of interest in the neighbourhood are the landslips, ten miles distant, which, extending along the coast from Sidmouth to Lyme Regis, are most interesting to the geologist and the lover of nature. This range of cliffs, extending from Haven to Pinhay, has been the theatre of two convulsions, or landslips, one commencing on Christmas-day, 1839, at Bendon and Dowlands, whereby forty-five acres of arable land were lost to cultivation--the other about five weeks after on the 3rd of February, 1840, at Whitlands, little more than a mile to the eastward of the former, but much smaller in magnitude than the previous one.
 
 There are one or two situations, says an excellent local authority, overlooking the more western or great landslip, which seem to be admired as peculiarly striking--the view of the great chasm, looking eastward, and the view from Dowlands, looking westward, upon the undercliff and new beach. The best prospect, perhaps, for seeing the extraordinary nature of the whole district, combined with scenery, is from Pinhay and Whitlands, and looking inland you see the precipitous yet wooded summit of the main land, and the castellated crags of the ivy-clad rocks, on the terraces immediately below, and the deep dingle which separates you from it. By turning a little to the north-east Pinhay presents its chalky pinnacles and descending terraces; whilst to the west the double range and high perpendicular cliffs of Rowsedown offer themselves. By turning towards the sea is embraced the whole range of the great bay of Dorset and Devon, extending from Portland on the east to Start Point on the west, bounded on either side by scenery of the finest coast character.
+
+----
+
+Uuid: 0fGESgpEYYWBPjMv

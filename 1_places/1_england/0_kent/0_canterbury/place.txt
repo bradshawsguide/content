@@ -1,24 +1,41 @@
-section: 1
+Title: Canterbury
+
 ----
-title: Canterbury
+
+Section: 1
+
 ----
-station: canterbury-east
+
+Station: canterbury-east
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 21,324.
-- term: Hotels
+-
+  term: Hotels
   desc: Royal Fountain; Rose; Flenr-de-lis.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to the station; also to Barham, Ellam, Elmstead, Goodnestone, and Eastry.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesdays and Saturdays.
-- term: Fairs
+-
+  term: Fairs
   desc: May 4th and October 11th.
+
 ----
-desc: The appearance of Canterbury, from whatever part approached, is exquisitely beautiful, and as we enter, symbols of its antiquity stare us in the face everywhere.
+
+Desc: The appearance of Canterbury, from whatever part approached, is exquisitely beautiful, and as we enter, symbols of its antiquity stare us in the face everywhere.
+
 ----
-distances:
+
+Distances:
+
 - location: Adisham Down
   miles: "5"
 - location: Bekesbourne
@@ -79,8 +96,12 @@ distances:
   miles: "5"
 - location: Wingham
   miles: "6"
+
 ----
-text: In the western suburb. A telegraph station.
+
+Text:
+
+In the western suburb. A telegraph station.
 
 The appearance of Canterbury, from whatever part approached, is exquisitely beautiful, and as we enter, symbols of its antiquity stare us in the face everywhere; narrow passages, crazy tenements, with over-hanging windows, peaked gables, and wooden balustrades, jut out on every side. Here and there some formless sculpture of a fractured cherub or grotesque image, peer out from a creaking doorway. Crypts and vaults seem natural to every house, and yet withal, an air of liveliness pervades the town, that renders the contrast truly pleasing and striking. The city lies in a fertile vale, sheltered by gently rising hills, from which streams of excellent water are derived.
 
@@ -95,3 +116,7 @@ Riding Gate is in Watling Street, on the old road from London, which Chaucer's p
 Canterbury has a Guildhall, sessions house, cavalry and other barracks, with several schools and hospitals. St. Nicholas's hospital, at Harbledown, was founded by Archbishop Lanfranc in the 11th century. That part of the neighbourhood near the Dover road, is dotted all over with fine scats.
 
 (distances:)
+
+----
+
+Uuid: 3xUMVPYCQ1hIE10w

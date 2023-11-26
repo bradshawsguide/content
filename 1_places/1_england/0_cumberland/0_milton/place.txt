@@ -1,16 +1,33 @@
-section: 3
+Title: Milton
+
 ----
-title: Milton
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Howard's Anns.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 20th and 23rd, 2nd Monday after Whitsuntide, and 2nd Wednesday in September.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Brampton is a curious old-fashioned place, with 2,379 inhabitants, engaged in the check and gingham factories. Close at hand is *Naworth Castle*, seat of Lord Carlisle. It was occupied by the Pretender in 1745. Here is a *grammar school*, erected on the site of an hospital, founded in 1688. Below, in Mary's Holme, are the gate and towers of *Lanercost Abbey*, as old as the 12th century. *Walton House*, seat or W. Johnson, Esq., Castlesteads, *Irthingtor Cross* and *Watchcross*.
+
+Text:
+
+Brampton is a curious old-fashioned place, with 2,379 inhabitants, engaged in the check and gingham factories. Close at hand is *Naworth Castle*, seat of Lord Carlisle. It was occupied by the Pretender in 1745. Here is a *grammar school*, erected on the site of an hospital, founded in 1688. Below, in Mary's Holme, are the gate and towers of *Lanercost Abbey*, as old as the 12th century. *Walton House*, seat or W. Johnson, Esq., Castlesteads, *Irthingtor Cross* and *Watchcross*.
+
+----
+
+Uuid: R1WioYWevOInaAkn

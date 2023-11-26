@@ -1,10 +1,23 @@
-section: 2
+Title: Kinsale
+
 ----
-title: Kinsale
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Kinsale contains a church (in which no townspeople will be married), with tombs of the Southwells, the ruins of Castle-in-Park, founded in 1334.
+
+Desc: Kinsale contains a church (in which no townspeople will be married), with tombs of the Southwells, the ruins of Castle-in-Park, founded in 1334.
+
 ----
-text: With a population of about 6,970, who return one member. It contains a church (in which no townspeople will be married), with tombs of the Southwells, the ruins of Castle-in-Park, founded in 1334. Fairs are held hereon May 4th, September 4th, and November 21st, and Markets on Saturday and Wednesday. This place gives title to the De Courcys of Kinsale House, who are privileged to remain covered in the presence of the reigning sovereign. It was taken by the Spaniards in 1380, but recaptured from them in 1601. Sir E. Scott, in 1689, defended it for James II., who landed from Brest in the same year. Close at hand is *Ruthmore*, the seat of M. Cramer, Esq.
+
+Text:
+
+With a population of about 6,970, who return one member. It contains a church (in which no townspeople will be married), with tombs of the Southwells, the ruins of Castle-in-Park, founded in 1334. Fairs are held hereon May 4th, September 4th, and November 21st, and Markets on Saturday and Wednesday. This place gives title to the De Courcys of Kinsale House, who are privileged to remain covered in the presence of the reigning sovereign. It was taken by the Spaniards in 1380, but recaptured from them in 1601. Sir E. Scott, in 1689, defended it for James II., who landed from Brest in the same year. Close at hand is *Ruthmore*, the seat of M. Cramer, Esq.
+
+----
+
+Uuid: YNeuq324xc1bxZwH

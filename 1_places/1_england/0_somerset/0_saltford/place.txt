@@ -1,12 +1,27 @@
-section: 2
+Title: Saltford
+
 ----
-title: Saltford
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Railway.
+
 ----
-notes:
-- Telegraph station at Keynsham, 2½ miles.
+
+Notes: Telegraph station at Keynsham, 2½ miles.
+
 ----
-text: A very deep excavation here follows, and through a Gothic gateway conducts us to the Saltford Tunnel.
+
+Text:
+
+A very deep excavation here follows, and through a Gothic gateway conducts us to the Saltford Tunnel.
+
+----
+
+Uuid: MMlO9mv26R4RNDkl

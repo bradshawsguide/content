@@ -1,15 +1,33 @@
-section: 1
+Title: Robertsbridge
+
 ----
-title: Robertsbridge
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Old George.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
 ----
-text: The village is situated on the banks of the river Rother, and only remarkable for the houses being constructed of red brick, which gives the place a peculiar appearance.
+
+Text:
+
+The village is situated on the banks of the river Rother, and only remarkable for the houses being constructed of red brick, which gives the place a peculiar appearance.
+
+----
+
+Uuid: DSefG5gHerPfZ9cv

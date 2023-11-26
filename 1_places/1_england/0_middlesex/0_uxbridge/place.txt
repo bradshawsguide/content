@@ -1,20 +1,39 @@
-section: 2
+Title: Uxbridge
+
 ----
-title: Uxbridge
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,815.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday (Corn).
-- term: Fairs
+-
+  term: Fairs
   desc: 25th March, 31st July, 29th September, 11th October.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: The inhabitants are principally engaged in the corn trade, some in agricultural tool making, and others in making windows, chairs, bricks, &c.
+
+Desc: The inhabitants are principally engaged in the corn trade, some in agricultural tool making, and others in making windows, chairs, bricks, &c.
+
 ----
-text: The inhabitants are principally engaged in the corn trade, some in agricultural tool making, and others in making windows, chairs, bricks, &c. Is interesting historically as the place where King Charles I. tried to negotiate with Parliament in 1645. It was also occupied by Oliver Cromwell, in 1647--the Crown Inn replacing the old one where he held his head quarters.
+
+Text:
+
+The inhabitants are principally engaged in the corn trade, some in agricultural tool making, and others in making windows, chairs, bricks, &c. Is interesting historically as the place where King Charles I. tried to negotiate with Parliament in 1645. It was also occupied by Oliver Cromwell, in 1647--the Crown Inn replacing the old one where he held his head quarters.
 
 In the vicinity are *Swakeley's* (1½ mile), and a short walk beyond is *Harefield*, frequently visited by Milton; and crossing the Colne to *Chalfont St. Giles*, may be seen the house where I the blind bard wrote ins "Paradise Regained,"--returning by Denham, so well described by Davy, in his "Salmonia."
+
+----
+
+Uuid: ti0Cg98UgfF8e0Ym

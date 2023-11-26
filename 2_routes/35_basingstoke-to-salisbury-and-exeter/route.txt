@@ -1,14 +1,25 @@
-section: 1
+Title: Basingstoke to Salisbury, Yeovil, and Exeter
+
 ----
-title: Basingstoke to Salisbury, Yeovil, and Exeter
+
+Section: 1
+
 ----
-title_short: Basingstoke to Exeter
+
+Title-short: Basingstoke to Exeter
+
 ----
-subtitle: West of England Main Line
+
+Subtitle: West of England Main Line
+
 ----
-company: companies/london-and-south-western
+
+Company: companies/london-and-south-western
+
 ----
-stops:
+
+Stops:
+
 - basingstoke
 - oakley
 - overton
@@ -36,12 +47,19 @@ stops:
 - whimple
 - broad-clyst
 - exeter-queen-street
+
 ----
-links:
+
+Links:
+
 - (wikipedia: West_of_England_line)
 - (wikipedia: Sprat_and_Winkle_Line)
+
 ----
-text: After leaving Basingstoke the line proceeds through a chalky range, from which various parks may be seen extending on every side--blended with scattered villages Passing the stations of [Oakley](/stations/oakley), [Overton](/stations/overton), and [Whitchurch](/stations/whitchurch), we arrive at the important station of
+
+Text:
+
+After leaving Basingstoke the line proceeds through a chalky range, from which various parks may be seen extending on every side--blended with scattered villages Passing the stations of [Oakley](/stations/oakley), [Overton](/stations/overton), and [Whitchurch](/stations/whitchurch), we arrive at the important station of
 
 (place: england/hampshire/andover)
 
@@ -78,3 +96,7 @@ The next stations in succession are [Tisbury](/stations/tisbury), [Semley](/stat
 [Feniton](/stations/feniton), [Whimple](/stations/whimple), and [Broad Clyst](/stations/broad-clyst) stations.
 
 (place: england/devonshire/exeter)
+
+----
+
+Uuid: zYfiGGDdhfw8Sxiy

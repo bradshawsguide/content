@@ -1,12 +1,21 @@
-section: 2
+Title: Pontypool Road to Merthyr
+
 ----
-title: Pontypool Road to Merthyr
+
+Section: 2
+
 ----
-subtitle: Taff Vale Extension
+
+Subtitle: Taff Vale Extension
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - pontypool-road
 - pontypool-clarence-street
 - crumlin-high-level
@@ -15,10 +24,19 @@ stops:
 - llancaich
 - quakers-yard
 - merthyr
+
 ----
-links:
-- (wikipedia: Newport,_Abergavenny_and_Hereford_Railway#Taff_Vale_Extension_Railway text: Taff Vale Extension Railway)
+
+Links: - (wikipedia: Newport,_Abergavenny_and_Hereford_Railway#Taff_Vale_Extension_Railway text: Taff Vale Extension Railway)
+
 ----
-text: A short line, 16 miles long, running into the Taff Vale Line at Quaker's Yard. The stations on the line are [Pontypool](/stations/pontypool-road), [Crumlin](/stations/crumlin-high-level), [Tredegar](/stations/tredegar), [Rhymney Junction](/stations/rhymney-junction), [Llancaich](/stations/llancaich), and [Quaker's Yard](/stations/quakers-yard).
+
+Text:
+
+A short line, 16 miles long, running into the Taff Vale Line at Quaker's Yard. The stations on the line are [Pontypool](/stations/pontypool-road), [Crumlin](/stations/crumlin-high-level), [Tredegar](/stations/tredegar), [Rhymney Junction](/stations/rhymney-junction), [Llancaich](/stations/llancaich), and [Quaker's Yard](/stations/quakers-yard).
 
 (place: wales/glamorganshire/merthyr)
+
+----
+
+Uuid: ocixAuU5aNAgLQJR

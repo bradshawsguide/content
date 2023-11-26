@@ -1,18 +1,31 @@
-section: 1
+Title: Barnham
+
 ----
-title: Barnham
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Claremont, Norfolk.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Arundel.
+
 ----
-notes:
+
+Notes:
+
 - A telegraph station.
 - Distance from station, ¾ mile.
+
 ----
-distances:
+
+Distances:
+
 - location: Aldingbourne
   miles: "1"
 - location: Aldwick
@@ -77,7 +90,17 @@ distances:
   miles: "6"
 - location: Westergate
   miles: "1¼"
+
 ----
-desc: A telegraph station.
+
+Desc: A telegraph station.
+
 ----
-text: (distances:)
+
+Text:
+
+(distances:)
+
+----
+
+Uuid: Zrl6sziGlyy2lVdb

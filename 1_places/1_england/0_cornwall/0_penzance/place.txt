@@ -1,21 +1,36 @@
-section: 2
+Title: Penzance
+
 ----
-title: Penzance
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Union; Star.
-- term: Market Days
+-
+  term: Market Days
   desc: Thursday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Thursday before Advent, Thursday after Trinity Sunday, and Corpus Christi day.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This flourishing port is at the farther end of Cornwall, on the west side of Mount's Bay, at the terminus of the West Cornwall Railway.
+
+Desc: This flourishing port is at the farther end of Cornwall, on the west side of Mount's Bay, at the terminus of the West Cornwall Railway.
+
 ----
-text: This flourishing port is at the farther end of Cornwall, on the west side of Mount's Bay, at the terminus of the West Cornwall Railway. It is a municipal, but not a parliamentary borough, with a population of 9,414. Tin, copper, china, clay, granite, and pilchards, are the principal articles of trade here.
+
+Text:
+
+This flourishing port is at the farther end of Cornwall, on the west side of Mount's Bay, at the terminus of the West Cornwall Railway. It is a municipal, but not a parliamentary borough, with a population of 9,414. Tin, copper, china, clay, granite, and pilchards, are the principal articles of trade here.
 
 The harbour, enclosed by a pier, 600 feet long, is shallow, but it is easy to reach and get out of. All the best shops are in the Market Place, where the four principal streets centre. The stannary court for the hundred of Penwith is abolished. An excellent Geological Society was founded in 1813; and is enriched by a full collection of specimens obtained by Dr. Boase, from every corner of the county, and carefully arranged. The churches and houses are of stone. Madron is the mother church. Sir Humphrey Davy, the great chemist, was born at Penzance, 1778; Penzance is a cheap and healthy place for a resident. The soil in the neighbourhood is light and rich, from the granite dust at the bottom, and produces uncommonly heavy crops of *potatoes*, the returns being 300 to 600 bushels an acre. Sand, shells, and pilchards, are used to manure it
 
@@ -36,3 +51,7 @@ Proceeding northward by *Whitesand Bay*, we pass *Carnbrea Castle*, a small rema
 Our route now lies by the *Lanyon Guoit*, a fine cromlech, to *Pendeen*, near which is Chun Castle, an oval inclosure, with vallum and ditches, and a Cromlech near it. Here we may visit the gravestone of Riolobran, and the holed stone, from which we round *Gurnard's Head* (at *Zennor* another cromlech), whence we may return to Penzance by *Madron* (with the remains of a holy well), and *Trengwainton Cairn*, being a tour of a few days, unequalled in England.
 
 Before leaving Penzance, however, we would recommend a visit to *Gulval Church* and Cross, and a fine Cairn, *Castlean-Dinas*, an old fortification of three circles, and *Ludgvan Church*, where Borlase, the historian, lived and died--a short morning excursion.
+
+----
+
+Uuid: 7bNgEGEfCE9jsh26

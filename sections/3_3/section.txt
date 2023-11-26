@@ -1,7 +1,19 @@
-title: Section III
+Title: Section III
+
 ----
-desc: English & Scotch Lake Districts, Ayr (the Land of Burns).
+
+Desc: English & Scotch Lake Districts, Ayr (the Land of Burns).
+
 ----
-label: Section 3
+
+Label: Section 3
+
 ----
-text: Tours through the counties of Hertford, Buckingham, Northampton, Warwick, Stafford, Chester, Lancaster, York, Cumberland, Westmorland, Northumberland, Dumfries, Lanark, Ayr, and the Northern Counties of Scotland.
+
+Text:
+
+Tours through the counties of Hertford, Buckingham, Northampton, Warwick, Stafford, Chester, Lancaster, York, Cumberland, Westmorland, Northumberland, Dumfries, Lanark, Ayr, and the Northern Counties of Scotland.
+
+----
+
+Uuid: yNQvbtwA86WiktEM

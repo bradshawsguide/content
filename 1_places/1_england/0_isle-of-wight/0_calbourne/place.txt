@@ -1,19 +1,40 @@
-﻿section: 1
+Title: Calbourne
+
 ----
-title: Calbourne
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Albion.
-- term: Coaches
+-
+  term: Coaches
   desc: to and from Newport, Ryde, and Cowes, daily.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Newport.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station at Portsmouth, 20 miles.
 - Telegraph station at Newport, 5 miles.
+
 ----
-desc: Calbourne has an old church and is near to Westover Park.
+
+Desc: Calbourne has an old church and is near to Westover Park.
+
 ----
-text: Calbourne has an old church and is near to Westover Park. To the right, about two miles, is Shalfleet church, which contains a Norman porch, and the escutcheon of William de Montacute, to whom Wight was granted by Richard II.
+
+Text:
+
+Calbourne has an old church and is near to Westover Park. To the right, about two miles, is Shalfleet church, which contains a Norman porch, and the escutcheon of William de Montacute, to whom Wight was granted by Richard II.
+
+----
+
+Uuid: Gf5QKtjrg2w69Dmp

@@ -1,5 +1,15 @@
-section: 3
+Title: Cheadle Hulme
+
 ----
-title: Cheadle Hulme
+
+Section: 3
+
 ----
-text: This is the point of j auction with the line to Macclesfield, Congleton, &c. A distance, of 2½ miles further brings us to the celebrated Viaduct at Stockport, one of the railway marvels of our time, for it exhibits a roadway actually reared above a populous town, and spanning a valley nearly a third of a mile in length. The height, of the parapet above the river Mersey that flows below is 111 feet, and runs on 27 magnificent, arches. The cost of the undertaking was upwards of £70,000. It affords the traveller one of the best and most commanding views he can possibly obtain of an English manufacturing town. Thronged streets and narrow lanes stretch out on each side far below; mills and factories rise out of the dense mass of houses, and a forest of chimneys towering upwards, point out the local seats of manufacturing industry. The chief part of the town appears mapped out in bold irregular lines, with the fine church of St. Mary's crowning the summit; and the view altogether is sufficient to invite curiosity to examine the associations of a place presenting such a busy aspect to the eye.
+
+Text:
+
+This is the point of j auction with the line to Macclesfield, Congleton, &c. A distance, of 2½ miles further brings us to the celebrated Viaduct at Stockport, one of the railway marvels of our time, for it exhibits a roadway actually reared above a populous town, and spanning a valley nearly a third of a mile in length. The height, of the parapet above the river Mersey that flows below is 111 feet, and runs on 27 magnificent, arches. The cost of the undertaking was upwards of £70,000. It affords the traveller one of the best and most commanding views he can possibly obtain of an English manufacturing town. Thronged streets and narrow lanes stretch out on each side far below; mills and factories rise out of the dense mass of houses, and a forest of chimneys towering upwards, point out the local seats of manufacturing industry. The chief part of the town appears mapped out in bold irregular lines, with the fine church of St. Mary's crowning the summit; and the view altogether is sufficient to invite curiosity to examine the associations of a place presenting such a busy aspect to the eye.
+
+----
+
+Uuid: dPzGF5qRlmyY9up2

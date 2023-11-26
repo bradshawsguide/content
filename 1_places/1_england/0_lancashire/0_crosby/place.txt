@@ -1,13 +1,30 @@
-section: 3
+Title: Crosby
+
 ----
-title: Crosby
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Ship; George.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1¾ mile.
 - A telegraph station.
+
 ----
-text: This is a much-frequented watering-place, near Crosby Point, at the mouth of the Mersey. It contains 3,794 inhabitants, an excellent free grammar and girls' school. In the vicinity is *Crosby Hall*, the seat of William Blundell Esq., whose family have held the manor for upwards of seven centuries.
+
+Text:
+
+This is a much-frequented watering-place, near Crosby Point, at the mouth of the Mersey. It contains 3,794 inhabitants, an excellent free grammar and girls' school. In the vicinity is *Crosby Hall*, the seat of William Blundell Esq., whose family have held the manor for upwards of seven centuries.
+
+----
+
+Uuid: TQxpcW8n04vCVL35

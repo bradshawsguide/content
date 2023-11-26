@@ -1,16 +1,33 @@
-section: 1
+Title: Three Bridges to East Grinstead
+
 ----
-title: Three Bridges to East Grinstead
+
+Section: 1
+
 ----
-subtitle: East Grindstead Branch
+
+Subtitle: East Grindstead Branch
+
 ----
-company: companies/london-brighton-and-south-coast
+
+Company: companies/london-brighton-and-south-coast
+
 ----
-stops:
+
+Stops:
+
 - three-bridges
 - rowfant
 - east-grinstead
+
 ----
-text: This branch is 6½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of
+
+Text:
+
+This branch is 6½ miles long, passing through the small village of [Rowfant](/stations/rowfant), four miles beyond which brings us to the town of
 
 (place: england/sussex/east-grinstead)
+
+----
+
+Uuid: ZVBGT5inbSwQU5Fp

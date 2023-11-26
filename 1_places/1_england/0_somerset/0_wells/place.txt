@@ -1,14 +1,31 @@
-section: 2
+Title: Wells
+
 ----
-title: Wells
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Mitre; Somerset; Star.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This ancient city is prettily situated in a valley at the foot of the Mendip hills, and has a population of 4,648.
+
+Desc: This ancient city is prettily situated in a valley at the foot of the Mendip hills, and has a population of 4,648.
+
 ----
-text: This ancient city is prettily situated in a valley at the foot of the Mendip hills, and has a population of 4,648. Conjointly with Bath it forms the see of a bishop, and returns two members to Parliament. Its cathedral ranks amongst the most important, and presents one of the most splendid specimens of Gothic architecture in England.
+
+Text:
+
+This ancient city is prettily situated in a valley at the foot of the Mendip hills, and has a population of 4,648. Conjointly with Bath it forms the see of a bishop, and returns two members to Parliament. Its cathedral ranks amongst the most important, and presents one of the most splendid specimens of Gothic architecture in England.
+
+----
+
+Uuid: 6f5awq9eU3g1zwHp

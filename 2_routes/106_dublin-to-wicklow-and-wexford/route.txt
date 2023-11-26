@@ -1,12 +1,21 @@
-section: 2
+Title: Dublin to Wicklow, and Wexford
+
 ----
-title: Dublin to Wicklow, and Wexford
+
+Section: 2
+
 ----
-title_short: Dublin to Wexford
+
+Title-short: Dublin to Wexford
+
 ----
-company: companies/dublin-wicklow-and-wexford
+
+Company: companies/dublin-wicklow-and-wexford
+
 ----
-stops:
+
+Stops:
+
 - harcourt-street
 - milltown
 - dundrum-dublin
@@ -30,8 +39,12 @@ stops:
 - ferns
 - enniscorthy
 - wexford
+
 ----
-text: Taking our seats at the Harcourt station, Dublin, we soon pass [Milltown](/stations/milltown), and arrive at [Dundrum](/stations/dundrum), three miles, at which are the remains of an old castle, and 2½ miles further,
+
+Text:
+
+Taking our seats at the Harcourt station, Dublin, we soon pass [Milltown](/stations/milltown), and arrive at [Dundrum](/stations/dundrum), three miles, at which are the remains of an old castle, and 2½ miles further,
 
 [Stillorgan](/stations/stillorgan), in the vicinity of which are *Stillergan Park*; H. Verschoyle, Esq., and *Stillorgan House*, R, Guinness, Esq. One mile further brings us to [Foxrock](/stations/foxrock) and another to [Carrickmines](/stations/carrickmines), where are the ruins of an old castle. 2½ miles more brings us to the station of [Shankill](/stations/shankill), with its hill, 912 feet high, close at hand. Another run of 2½ miles brings us to
 
@@ -52,3 +65,7 @@ Proceeding from Bray, we pass the stations of [Delgany](/stations/delgany), the 
 The stations of [Arklow](/stations/arklow), [Gorey](/stations/gorey), and [Ferns](/stations/ferns) are respectively passed, when we arrive at [Enniscorthy](/stations/enniscorthy), the present terminus of the railway, from whence coaches run in connection with the trains, a distance, of 13½ miles, to
 
 **Wexford**, a telegraph station, the capital of the county of that name, at the mouth of the river Slaney. A line of steamers sail from here to Bristol and Liverpool about once a week.
+
+----
+
+Uuid: HSP7T4nYIpdzIQmh

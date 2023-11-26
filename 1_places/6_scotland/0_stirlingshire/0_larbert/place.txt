@@ -1,8 +1,19 @@
-section: 3
+Title: Larbert
+
 ----
-title: Larbert
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Falkirk, 3 miles.
+
+Notes: Telegraph station at Falkirk, 3 miles.
+
 ----
-text: Close at hand are some rums of Danish forts, and *Larbert House*, seat of J. Riddell, Esq.
+
+Text:
+
+Close at hand are some rums of Danish forts, and *Larbert House*, seat of J. Riddell, Esq.
+
+----
+
+Uuid: A0KiLU4g4F7bTYAc

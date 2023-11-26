@@ -1,15 +1,33 @@
-section: 3
+Title: Alderney
+
 ----
-title: Alderney
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,418.
-- term: Hotel
+-
+  term: Hotel
   desc: Queen's.
+
 ----
-notes:
+
+Notes:
+
 - A telegraph station.
 - Money Order Office at Knutsford, 4 miles.
+
 ----
-text: *Alderley Park* is the seat of Lord Stanley of Alderley.
+
+Text:
+
+*Alderley Park* is the seat of Lord Stanley of Alderley.
+
+----
+
+Uuid: cqX1NaIL6rHTt5uj

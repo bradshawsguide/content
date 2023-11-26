@@ -1,12 +1,21 @@
-section: 3
+Title: Birmingham to Wolverhampton and Stafford
+
 ----
-title: Birmingham to Wolverhampton and Stafford
+
+Section: 3
+
 ----
-subtitle: *viá* Stour Valley
+
+Subtitle: *viá* Stour Valley
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - birmingham-new-street
 - soho
 - smethwick
@@ -19,8 +28,12 @@ stops:
 - ettingshall
 - monmore-green
 - wolverhampton
+
 ----
-text: (place: england/warwickshire/edgbaston)
+
+Text:
+
+(place: england/warwickshire/edgbaston)
 
 [Soho](/stations/soho).
 
@@ -41,3 +54,7 @@ We are then whirled on past the station of [Albion](/stations/albion) to
 [Deepfields](/stations/deepfields), [Ettingshall Road](/stations/ettingshall-road), and [Monmore Green](/stations/monmore-green) are next in succession. They have no particular interest. Leaving these, we soon arrive at
 
 (place: england/staffordshire/wolverhampton)
+
+----
+
+Uuid: FobBa8ZKHLDyVbBq

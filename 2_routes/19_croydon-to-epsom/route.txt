@@ -1,23 +1,37 @@
-section: 1
+Title: Croydon to Epsom
+
 ----
-title: Croydon to Epsom
+
+Section: 1
+
 ----
-subtitle: Epsom Branch
+
+Subtitle: Epsom Branch
+
 ----
-company: companies/london-brighton-and-south-coast
+
+Company: companies/london-brighton-and-south-coast
+
 ----
-stops:
+
+Stops:
+
 - east-croydon
 - carshalton
 - [sutton, california, banstead, epsom-downs]
 - cheam
 - ewell-east
 - epsom
+
 ----
-links:
-- (wikipedia: Sutton_and_Mole_Valley_lines)
+
+Links: - (wikipedia: Sutton_and_Mole_Valley_lines)
+
 ----
-text: Presuming that our traveller is intended for Epsom, we proceed by the line of rails past [Croydon](/stations/east-croydon) town station, and pass by the pretty little village of *Beddington*, and the time-honoured seat of the Carews, thence to the station at
+
+Text:
+
+Presuming that our traveller is intended for Epsom, we proceed by the line of rails past [Croydon](/stations/east-croydon) town station, and pass by the pretty little village of *Beddington*, and the time-honoured seat of the Carews, thence to the station at
 
 (place: england/surrey/carshalton)
 
@@ -32,3 +46,7 @@ Proceeding thense, we come to [Sutton](/stations/sutton), 1½ mile from which is
 [Ewell](/stations/ewell-east).--A small town with some little trade, and a very large sheep fair.
 
 (place: england/surrey/epsom)
+
+----
+
+Uuid: G555raxU3BVeThAX

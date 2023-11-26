@@ -1,7 +1,17 @@
-section: 3
+Title: Culloden
+
 ----
-title: Culloden
+
+Section: 3
+
 ----
-text: Not far from which is Culloden Moor, where Charles Stuart was defeated by the Duke of Cumberland, in May, 1746 (who laid out Virginia water, near Windsor), and *Culloden House*, seat of C. Mackinnon, Esq., at which Prince Charles lodged the night before the battle, and left his stick. The remains of the cairn where the Duke stood lie close to the road. The moor has latterly been brought partly under cultivation. A little to the east of the moor, on the other side of the river Nairne, lies
+
+Text:
+
+Not far from which is Culloden Moor, where Charles Stuart was defeated by the Duke of Cumberland, in May, 1746 (who laid out Virginia water, near Windsor), and *Culloden House*, seat of C. Mackinnon, Esq., at which Prince Charles lodged the night before the battle, and left his stick. The remains of the cairn where the Duke stood lie close to the road. The moor has latterly been brought partly under cultivation. A little to the east of the moor, on the other side of the river Nairne, lies
 
 *Clava*, at which are a number of Druidical remains, happily saved from the grasping hand of a Highland laird. They are most interesting, but can only be reached on foot. They consist of cairns and circles, and are the most perfect remains of the kind in Scotland. They were saved from destruction by a. young Englishman, who brought the matter before the Scottish Society of Antiquarians. Other less important Druidical remains lie between Dalcross Castle and Inverness.
+
+----
+
+Uuid: k59nT4iqZVWrP2cl

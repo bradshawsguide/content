@@ -1,10 +1,17 @@
-section: 2
+Title: Limerick to Foynes
+
 ----
-title: Limerick to Foynes
+
+Section: 2
+
 ----
-company: companies/limerick-and-foynes
+
+Company: companies/limerick-and-foynes
+
 ----
-stops:
+
+Stops:
+
 - limerick
 - fortetna-road
 - patricks-well
@@ -12,8 +19,12 @@ stops:
 - rathkeale
 - askeaton
 - foynes
+
 ----
-text: This line of railway takes a south-westerly direction past the stations of [Foetetna Road](/stations/fortetna-road) and [Patrick's Well](/stations/patricks-well) to
+
+Text:
+
+This line of railway takes a south-westerly direction past the stations of [Foetetna Road](/stations/fortetna-road) and [Patrick's Well](/stations/patricks-well) to
 
 (place: ireland/county-cork/adare)
 
@@ -22,3 +33,7 @@ text: This line of railway takes a south-westerly direction past the stations of
 [Askeaton](/stations/askeaton).--Here is another of the Desmond's castles, with a priory founded by them, and a church which was built by the Knights Templars.
 
 (place: ireland/county-cork/foynes)
+
+----
+
+Uuid: 9G5P6lkVYAaru7T9

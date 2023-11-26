@@ -1,6 +1,13 @@
-section: 1
+Title: London and South Western Railway
+
 ----
-title: London and South Western Railway
+
+Section: 1
+
 ----
-links:
-- (wikipedia: London_and_South_Western_Railway)
+
+Links: - (wikipedia: London_and_South_Western_Railway)
+
+----
+
+Uuid: B92wQMkCr5eFiTy1

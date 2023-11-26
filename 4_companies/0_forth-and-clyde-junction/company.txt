@@ -1,6 +1,13 @@
-section: 3
+Title: Forth and Clyde Junction
+
 ----
-title: Forth and Clyde Junction
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Forth_and_Clyde_Junction_Railway)
+
+Links: - (wikipedia: Forth_and_Clyde_Junction_Railway)
+
+----
+
+Uuid: 3msuZVOcvdlCKuen

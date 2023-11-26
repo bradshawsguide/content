@@ -1,17 +1,37 @@
-section: 1
+Title: Woking
+
 ----
-title: Woking
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: White Hart; Railway.
-- term: Fair
+-
+  term: Fair
   desc: Whit Tuesday.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile
 - A telegraph station.
+
 ----
-desc: On both sides of the line Woking Common is seen to extend for miles, only broken by the windings of the Basingstoke Canal.
+
+Desc: On both sides of the line Woking Common is seen to extend for miles, only broken by the windings of the Basingstoke Canal.
+
 ----
-text: On both sides of the line Woking Common is seen to extend for miles, only broken by the windings of the Basingstoke Canal, and terminated by a long range of woodland scenery, which stands out in picturesque relief against the horizon.
+
+Text:
+
+On both sides of the line Woking Common is seen to extend for miles, only broken by the windings of the Basingstoke Canal, and terminated by a long range of woodland scenery, which stands out in picturesque relief against the horizon.
+
+----
+
+Uuid: 4AQxz7FrtemgxPGf

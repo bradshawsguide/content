@@ -1,14 +1,25 @@
-section: 2
+Title: Maidenhead to Wycombe and Oxford
+
 ----
-title: Maidenhead to Wycombe and Oxford
+
+Section: 2
+
 ----
-title_short: Maidenhead to Oxford
+
+Title-short: Maidenhead to Oxford
+
 ----
-subtitle: Wycombe and Thame Branch
+
+Subtitle: Wycombe and Thame Branch
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - maidenhead
 - cookham
 - marlow-road
@@ -22,11 +33,16 @@ stops:
 - wheatley
 - littlemore
 - oxford
+
 ----
-links:
-- (wikipedia: Wycombe_Railway)
+
+Links: - (wikipedia: Wycombe_Railway)
+
 ----
-text: From Maidenhead we pass [Taplow](/stations/maidenhead), [Cookham](/stations/cookham), [Marlow Road](/stations/marlow-road), [Woburn Green](/stations/woburn-green), and [Loudwater](/stations/loudwater), stations of no great importance, and arrive at
+
+Text:
+
+From Maidenhead we pass [Taplow](/stations/maidenhead), [Cookham](/stations/cookham), [Marlow Road](/stations/marlow-road), [Woburn Green](/stations/woburn-green), and [Loudwater](/stations/loudwater), stations of no great importance, and arrive at
 
 (place: england/buckinghamshire/high-wycombe)
 
@@ -37,3 +53,7 @@ The line continues hence through [West Wycombe](/stations/high-wycombe), the old
 [Wheatley](/stations/wheatley) and [Littlemore](/stations/littlemore), the latter of which has a very considerable pile of buildings used as a Pauper Lunatic Asylum.
 
 (place: england/oxfordshire/oxford)
+
+----
+
+Uuid: kzP0WJJmJrVGeVHy

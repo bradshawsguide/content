@@ -1,17 +1,34 @@
-section: 3
+Title: Ampthill
+
 ----
-title: Ampthill
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,011.
+
 ----
-notes:
-- Telegraph station at Bedford, 5¾ miles.
+
+Notes: Telegraph station at Bedford, 5¾ miles.
+
 ----
-desc: Ampthill Park, Lord Holland's seat, 5¾ mile from the station, was the residence of Queen Catherine after her divorce from Henry VIII.
+
+Desc: Ampthill Park, Lord Holland's seat, 5¾ mile from the station, was the residence of Queen Catherine after her divorce from Henry VIII.
+
 ----
-text: *Ampthill Park*, Lord Holland's seat, 5¾ mile from the station, was the residence of Queen Catherine after her divorce from Henry VIII. The sentence was pronounced by Cranmer in Dunstable Church. There is an inscription to her memory by Horace Walpole, the point of winch is—
+
+Text:
+
+*Ampthill Park*, Lord Holland's seat, 5¾ mile from the station, was the residence of Queen Catherine after her divorce from Henry VIII. The sentence was pronounced by Cranmer in Dunstable Church. There is an inscription to her memory by Horace Walpole, the point of winch is—
 
 > From Catherine's wrongs a nation's bliss was spread,
 > And Luther's light from Henry's lawless bed.
+
+----
+
+Uuid: Jw8J1YmqcATYt0rp

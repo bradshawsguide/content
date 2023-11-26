@@ -1,6 +1,13 @@
-title: Channel Islands
+Title: Channel Islands
+
 ----
-feature:
+
+Feature:
+
 - places/channel-islands/alderney-and-sark
 - places/channel-islands/guernsey
 - places/channel-islands/jersey
+
+----
+
+Uuid: RTasDeEtXqExMpAr

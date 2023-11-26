@@ -1,20 +1,40 @@
-section: 2
+Title: Newton Abbots
+
 ----
-title: Newton Abbots
+
+Section: 2
+
 ----
-station: newton-junction
+
+Station: newton-junction
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 5,226.
-- term: Hotel
+-
+  term: Hotel
   desc: Globe.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Last Wednesday in Feb., June 24th, first Wednesday in Sept., and Nov. 6th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Here is a stone where William of Orange first read his declaration.
+
+Text:
+
+Here is a stone where William of Orange first read his declaration.
+
+----
+
+Uuid: WzZwIsVKktD2I6EI

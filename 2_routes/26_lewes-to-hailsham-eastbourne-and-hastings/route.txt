@@ -1,14 +1,25 @@
-section: 1
+Title: Lewes to Hailsham, Eastbourne and Hastings
+
 ----
-title: Lewes to Hailsham, Eastbourne and Hastings
+
+Section: 1
+
 ----
-title_short: Lewes to Hastings
+
+Title-short: Lewes to Hastings
+
 ----
-subtitle: Hastings Branch
+
+Subtitle: Hastings Branch
+
 ----
-company: companies/london-brighton-and-south-coast
+
+Company: companies/london-brighton-and-south-coast
+
 ----
-stops:
+
+Stops:
+
 - lewes
 - glynde
 - berwick
@@ -18,12 +29,19 @@ stops:
 - bexhill
 - st-leonards
 - hastings
+
 ----
-links:
+
+Links:
+
 - (wikipedia: East_Coastway_line)
 - (wikipedia: Cuckoo_Line)
+
 ----
-text: The line from Lewes turns eastward, round the foot of Mount Caburn, and after passing through a valley in the South Downs, reaches the station at [Glynde](/stations/glynde). The line then passes the villages of Selmeston and Alceston to the station at
+
+Text:
+
+The line from Lewes turns eastward, round the foot of Mount Caburn, and after passing through a valley in the South Downs, reaches the station at [Glynde](/stations/glynde). The line then passes the villages of Selmeston and Alceston to the station at
 
 (place: england/sussex/berwick)
 
@@ -52,3 +70,7 @@ Proceeding eastward we pass along the coast on the very beach as it were, the vi
 (place: england/sussex/st-leonards)
 
 (place: england/sussex/hastings)
+
+----
+
+Uuid: MPsuZja4h6gxhArY

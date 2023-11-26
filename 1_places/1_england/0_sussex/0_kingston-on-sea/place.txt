@@ -1,14 +1,30 @@
-section: 1
+Title: Kingston-on-Sea
+
 ----
-title: Kingston-on-Sea
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Kingston Inn.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Shoreham.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This village is situated on the right of the line; it has a harbour and wharf, and is said to be prosperous and thriving.
+
+Text:
+
+This village is situated on the right of the line; it has a harbour and wharf, and is said to be prosperous and thriving.
+
+----
+
+Uuid: qKglVMjRKK7rDR6z

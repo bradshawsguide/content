@@ -1,8 +1,19 @@
-section: 3
+Title: Brayton
+
 ----
-title: Brayton
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Aspatria, 2 miles.
+
+Notes: Telegraph station at Aspatria, 2 miles.
+
 ----
-text: Here is *Brayton Hall*, the beautiful seat of Sir W. Lawson, Bart., with a superb picture gallery.
+
+Text:
+
+Here is *Brayton Hall*, the beautiful seat of Sir W. Lawson, Bart., with a superb picture gallery.
+
+----
+
+Uuid: vP7UKKm8rkr1kkcm

@@ -1,20 +1,38 @@
-section: 1
+Title: Brixton to Crystal Palace
+
 ----
-title: Brixton to Crystal Palace
+
+Section: 1
+
 ----
-subtitle: Crystal Palace and South London Junction Railway
+
+Subtitle: Crystal Palace and South London Junction Railway
+
 ----
-company: companies/london-chatham-and-dover
+
+Company: companies/london-chatham-and-dover
+
 ----
-stops:
+
+Stops:
+
 - brixton
 - denmark-hill
 - peckham-rye
 - honor-oak
 - lordship-lane
 - crystal-palace-high-level
+
 ----
-links:
-- (wikipedia: Crystal_Palace_and_South_London_Junction_Railway)
+
+Links: - (wikipedia: Crystal_Palace_and_South_London_Junction_Railway)
+
 ----
-text: The line used for the Crystal Palace traffic takes rather a circuitous course eastward from [Brixton](/stations/brixton) station, passing [Denmark Hill](/stations/denmark-hill), [Peckham Rye](/stations/peckham-rye), [Honor Oak](/stations/honor-oak), and [Lordship Lane](/stations/lordship-lane), to the [Crystal Palace](/stations/crystal-palace-high-level).
+
+Text:
+
+The line used for the Crystal Palace traffic takes rather a circuitous course eastward from [Brixton](/stations/brixton) station, passing [Denmark Hill](/stations/denmark-hill), [Peckham Rye](/stations/peckham-rye), [Honor Oak](/stations/honor-oak), and [Lordship Lane](/stations/lordship-lane), to the [Crystal Palace](/stations/crystal-palace-high-level).
+
+----
+
+Uuid: o9cW7UHLBJzmfIJf

@@ -1,25 +1,40 @@
-section: 3
-----
-title: Aberdeen
-----
-info:
-- term: Population
-  desc: 73,805.
-- term: Hotels
-  desc: Royal; Douglas.
-- term: Market Day
-  desc: Friday.
-- term: Fairs
-  desc: Thursday and Friday, first and second week in July; first Tuesday of every month at Bridge of Don; Wednesday after Third Tuesday in October, *o.s.*, at Old Aberdeen; also every Wednesday, for cattle, in King Street.
-- term: Bankers
-  desc: Aberdeen, Town and County; Bank of Scotland; British Linen Co.; City of Glasgow; Commercial; National; Royal; Union.
-----
-notes:
-- Telegraph station at the railway station.
-----
-text: (smcp: Aberdeen (Old)) is a place of great antiquity. It lies about a mile to the north of the new town, near the mouth of the river Don, over which there is a line single-arched Gothic bridge, which rests on a rock on each side, and is universally admired. This town consists chiefly of one long street.
+Title: Aberdeen
 
-(smcp: Aberdeen (New)), the capital of the county, is considered the third city of importance in Scotland. It lies on a slightly elevated ground on the north bank of the river Dee, near its efflux into the sea, and about a mile and a half from the mouth of the Don. It is a large and handsome city, having many spacious streets, lined on each side by eleganthouses, built of granite from the neighbouring quarries.
+----
+
+Section: 3
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 73,805.
+-
+  term: Hotels
+  desc: Royal; Douglas.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fairs
+  desc: Thursday and Friday, first and second week in July; first Tuesday of every month at Bridge of Don; Wednesday after Third Tuesday in October, *o.s.*, at Old Aberdeen; also every Wednesday, for cattle, in King Street.
+-
+  term: Bankers
+  desc: Aberdeen, Town and County; Bank of Scotland; British Linen Co.; City of Glasgow; Commercial; National; Royal; Union.
+
+----
+
+Notes: Telegraph station at the railway station.
+
+----
+
+Text:
+
+(smcp: Aberdeen (Old)) is a place of great antiquity. It lies about a mile to the north of the new town, near the mouth of the river Don, over which there is a line single-arched Gothic bridge, which rests on a rock on each side, and is universally admired. This town consists chiefly of one long street.
+
+(smcp: Aberdeen (New)), the capital of the county, is considered the third city of importance in Scotland. It lies on a slightly elevated ground on the north bank of the river Dee, near its efflux into the sea, and about a mile and a half from the mouth of the Don. It is a large and handsome city, having many spacious streets, lined on each side by elegant houses, built of granite from the neighbouring quarries.
 
 Aberdeen derives its name from theDee, on the north bank of which it lies, not far from the Bevcma of Ptolemy, and the river's mouth (*aber* in Gaelic), which makes an excellent port, whence cotton, linen woollen goods, combs, and writing papers, in large quantities, granite, cattle, and agricultural produce from the interior, salmon, &c., are exported in great quantities. The salmon is sent to Billingsgate Market packed in ice, an ingenious plan for preserving it, which was first adopted here. The fisheries on the Dee, worth £10,000 a year to the city, were originally granted by Bruce, on account of the gallant behaviour of the people in driving out the English garrison planted here by Edward I. Their watch-word was "Bon-Accord," which is the motto of Aberdeen to this day. A history of the town has been written under this title. Its harbour, improved by Telford at a great cost, contains 34 acres, the pier is 1,200 feet long. Recently a large wet aock has been constructed, for the slapping of which there are registered at the port 230, nearly 70,000 tonnage.
 
@@ -36,3 +51,7 @@ There are. many educational and benevolent establishments, among which, the *Gra
 At Old Aberdeen, is *King's College*, with 360 students, founded in 1494; like its fellow it is in the Gothic style, and has a very elegant tower, a lantern on springers, an ancient chapel, and a library of 35,000 vols., with portraits by Jameson; Hector Boece, the first principal, is buried in it. Here also is the old *Cathedral*, the seat of a bishop in episcopal times; it contains many tombs, blazoned arms in the oak ceiling, and a beautiful west window. This old part of the town is on the Don, which falls into the sea about half a mile beyond Balgownie Bridge, a curious Gothic arch, 67 feet span, built by Bruce between two dark rocks. Byron refers to it, and the legend connected with it, in *Don Juan*. There is a new bridge, remarkable from the fact that it was built from a bequest of £2 5s. in the time of James VI., which, with care and economy, amounted to £20,000, a remarkable instance of how money accumulates at compound interest.
 
 Besides cotton and woollen mills, ironworks, and ship-yards, Aberdeen possesses granite polishing works, all of which deserve notice. Its fine steamers and clippers, with the "Aberdeen bow," are well known.
+
+----
+
+Uuid: DedHaZCjBd1M4uGK

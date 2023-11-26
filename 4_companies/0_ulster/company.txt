@@ -1,6 +1,13 @@
-section: 2
+Title: Ulster Railway
+
 ----
-title: Ulster Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Ulster_Railway)
+
+Links: - (wikipedia: Ulster_Railway)
+
+----
+
+Uuid: 0NorBVXZXQKyfGyF

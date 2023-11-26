@@ -1,25 +1,42 @@
-section: 3
+Title: Birmingham
+
 ----
-title: Birmingham
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: The Queen's, North Western Central Railway Station, New-street, first-class hotel, for families and gentlemen. Dee's Royal; The Stork; King's Head; Nelson and Swan.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from the station.
-- term: Market Days
+-
+  term: Market Days
   desc: Monday, Thursday, and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Whit-Thursday, and Thursday nearest September 29th.
-- term: Bankers
+-
+  term: Bankers
   desc: Moilliet and Co.; Taylors and Lloyds; Birmingham Banking Co.; Birmingham and Midland Banking Co.; Branch Bank of England; National Provincial Bank of England; Town and District Banking Co.
+
 ----
-notes:
-- Telegraph stations—Temple Buildings, 112, New Street, and the railway stations.
+
+Notes: Telegraph stations—Temple Buildings, 112, New Street, and the railway stations.
+
 ----
-desc: This is the great centre of the manufactured metal trades, being situated in North Warwickshire, on the border of the South Staffordshire iron and coal district.
+
+Desc: This is the great centre of the manufactured metal trades, being situated in North Warwickshire, on the border of the South Staffordshire iron and coal district.
+
 ----
-text: This is the great centre of the manufactured metal trades, being situated in North Warwickshire, on the border of the South Staffordshire iron and coal district -- 112 miles from London by the North Western railway, or 129 miles by the Great Western railway. The town stands upon a series of sandstone hills, of moderate elevation; it is well-drained, and very healthy, although containing a population of 296,076 inhabitants.
+
+Text:
+
+This is the great centre of the manufactured metal trades, being situated in North Warwickshire, on the border of the South Staffordshire iron and coal district -- 112 miles from London by the North Western railway, or 129 miles by the Great Western railway. The town stands upon a series of sandstone hills, of moderate elevation; it is well-drained, and very healthy, although containing a population of 296,076 inhabitants.
 
 Steam power is here used extensively, scarcely a street being without its manufactory and steam-engine; at same time a considerable amount of the labour is of a manual kind, earned on in small workshops attached to the dwelling-houses of the artisans; and, it is worthy of remark, that the houses of the poorer classes here are very superior to those usually met with in large manufacturing or densely inhabited towns.
 
@@ -40,3 +57,7 @@ From Birmingham many interesting *excursions* may be made within a circle of abo
 Situated in New Street, Birmingham, the entrance is at the bottom of Stephenson Place, through an arcade, to the booking offices for the respective railways; passing through these we emerge on a magnificent corridor or gallery, guarded by a light railing, and open to the station (but enclosed by the immense glass and iron roof), from whence broad stone staircases, with bronze rails, afford access to the departure platform. We then stand on a level with a long series of offices, appropriated to the officials of the company, and a superb refreshment room, divided into three portions by rows of massive pillars, annexed to which is an hotel (the Queen's).
 
 The interior of this station deserves attention from its magnitude. The semicircular roof is 1,100 feet long, 205 feet wide, and 80 feet high, composed of iron and glass, without the slightest support except that afforded by the pillars on either side. If the reader notice the turmoil and bustle created by the excitement of the arrival and departure of trains, the trampling of crowds of passengers, the transport of luggage, the ringing of bells, and the noise of two or three hundred porters and workmen, he will retain a recollection of the extraordinary scene witnessed daily at the Birmingham Central Railway Station.
+
+----
+
+Uuid: aKjCktAbM8s5pZa5

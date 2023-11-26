@@ -1,16 +1,34 @@
-section: 3
+Title: Salford
+
 ----
-title: Salford
+
+Section: 3
+
 ----
-subtitle: (Oldfield Road)
+
+Subtitle: (Oldfield Road)
+
 ----
-info:
-- term: Market Days
+
+Info:
+
+-
+  term: Market Days
   desc: Saturday and Tuesday (cattle).
-- term: Fairs
+-
+  term: Fairs
   desc: Whit Monday, and November 17th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a borough town, joining Manchester, with a population of 102,499, who return one member. Its principal buildings are *St. John's* cruciform Roman Cathedral, by Weightman, 200 feet by 130, with a spire 240 feet; the west front is a fac-simile of Howden Church, York. The Town Hall, Market Place, by Goodwin, House, of Correction, Barracks, Schools, Trinity Church, built in 1634, Library, Lying-in Hospital, Dorcas Society, print works and factories. In the vicinity is Kersall Moor; here the troops were encamped in 1848. Byrom the poet and stenographer was a native of *Kersall Cell*, the seat of Miss Atherton.
+
+Text:
+
+This is a borough town, joining Manchester, with a population of 102,499, who return one member. Its principal buildings are *St. John's* cruciform Roman Cathedral, by Weightman, 200 feet by 130, with a spire 240 feet; the west front is a fac-simile of Howden Church, York. The Town Hall, Market Place, by Goodwin, House, of Correction, Barracks, Schools, Trinity Church, built in 1634, Library, Lying-in Hospital, Dorcas Society, print works and factories. In the vicinity is Kersall Moor; here the troops were encamped in 1848. Byrom the poet and stenographer was a native of *Kersall Cell*, the seat of Miss Atherton.
+
+----
+
+Uuid: IuaYP6wBJHlXK6aD

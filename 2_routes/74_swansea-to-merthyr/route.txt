@@ -1,12 +1,21 @@
-section: 2
+Title: Swansea to Merthyr
+
 ----
-title: Swansea to Merthyr
+
+Section: 2
+
 ----
-subtitle: Vale of Neath Railway
+
+Subtitle: Vale of Neath Railway
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - swansea-wind-street
 - briton-ferry
 - neath
@@ -17,11 +26,16 @@ stops:
 - llydcoed
 - abernant
 - merthyr
+
 ----
-links:
-- (wikipedia: Vale_of_Neath_Railway)
+
+Links: - (wikipedia: Vale_of_Neath_Railway)
+
 ----
-text: The Swansea terminus of this line is situated in Wind Street. Taking our departure hence, we very soon arrive at [Briton Ferry](/stations/briton-ferry), prettily situated at the entrance of the river Neath. About 2½ miles further are the extensive remains of a Cistercian Abbey, now accommodated with a station. It was built by Richard De Granville, in 1129, and is well worth a visit. A mile and a quarter beyond this brings us to the town of
+
+Text:
+
+The Swansea terminus of this line is situated in Wind Street. Taking our departure hence, we very soon arrive at [Briton Ferry](/stations/briton-ferry), prettily situated at the entrance of the river Neath. About 2½ miles further are the extensive remains of a Cistercian Abbey, now accommodated with a station. It was built by Richard De Granville, in 1129, and is well worth a visit. A mile and a quarter beyond this brings us to the town of
 
 (place: wales/glamorganshire/neath)
 
@@ -30,3 +44,7 @@ We next come to the stations of [Aberdylais](/stations/aberdylais), [Resolven](/
 [Hirwain](/stations/hirwain), junction of line to Aberdare, [Llydcoed](/stations/llydcoed), and [Abernant](/stations/abernant) stations follow, arriving at
 
 (place: wales/glamorganshire/merthyr)
+
+----
+
+Uuid: fE4HqEcBTmxEV3F1

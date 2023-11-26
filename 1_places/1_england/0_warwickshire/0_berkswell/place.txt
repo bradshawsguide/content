@@ -1,15 +1,34 @@
-section: 3
+Title: Berkswell
+
 ----
-title: Berkswell
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,624.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - Telegraph station at Coventry, 5½ miles.
+
 ----
-desc: The landscape improves somewhat here.
+
+Desc: The landscape improves somewhat here.
+
 ----
-text: The landscape improves somewhat here, and we have, views of several fine seats, comprising *Mercote Hall*, *Packington Park*, and *Berkswell Hall*, Sir J. Wilmot, Bart. After crossing the Blythe, by a viaduct of noble proportions, the traveller will perceive on the left, a very old, and almost ruined bridge, with live arches, which, with a quaint windmill and rich surrounding country, form a pretty picture.
+
+Text:
+
+The landscape improves somewhat here, and we have, views of several fine seats, comprising *Mercote Hall*, *Packington Park*, and *Berkswell Hall*, Sir J. Wilmot, Bart. After crossing the Blythe, by a viaduct of noble proportions, the traveller will perceive on the left, a very old, and almost ruined bridge, with live arches, which, with a quaint windmill and rich surrounding country, form a pretty picture.
+
+----
+
+Uuid: YtiyL50oFf4gqRTN

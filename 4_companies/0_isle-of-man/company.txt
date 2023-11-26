@@ -1,6 +1,13 @@
-section: 3
+Title: Isle of Man
+
 ----
-title: Isle of Man
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Isle_of_Man_Railway)
+
+Links: - (wikipedia: Isle_of_Man_Railway)
+
+----
+
+Uuid: XKTcMKK5PxNiF5D4

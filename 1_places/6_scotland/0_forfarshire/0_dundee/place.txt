@@ -1,21 +1,35 @@
-section: 3
+Title: Dundee
+
 ----
-title: Dundee
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Royal; British; Crown; Dundee Arms.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday and Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: Tuesday after July 11th; August 26th.
-- term: Bankers
+-
+  term: Bankers
   desc: British Linen Co.; Bank of Scotland; Clydesdale; Commercial; Royal; National.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: The capital of Forfarshire, seat of the Scottish linen trade, a port and burgh (returning one member), with a population of about 90,417, situated on the north side of the Tay. Coming direct from the metropolis, a ferry of two miles must be crossed, from Broughty to Tay Port, in connection with the railway. A swelling hill behind the town, called Dundee Law, is 525 feet high to the camp on the top. Here Montrose sat while Ms troops sacked the town, in 1645, after the battle of Tippermuir. Since 1815, Dundee has been greatly improved by the new quays, wet and graving docks, and the deepening of the chief harbour. About 50,000 tons of shipping belong to the port, a small portion being engaged in the whale fisheries. The factories for spinning and weaving flax exceed 100, employing as many as 16,000 hands, three-fourths of whom are women. Coarse linens, osnaburghs, diapers, sail-cloth, rope, canvas, &c, are the chief goods made up.
+
+Text:
+
+The capital of Forfarshire, seat of the Scottish linen trade, a port and burgh (returning one member), with a population of about 90,417, situated on the north side of the Tay. Coming direct from the metropolis, a ferry of two miles must be crossed, from Broughty to Tay Port, in connection with the railway. A swelling hill behind the town, called Dundee Law, is 525 feet high to the camp on the top. Here Montrose sat while Ms troops sacked the town, in 1645, after the battle of Tippermuir. Since 1815, Dundee has been greatly improved by the new quays, wet and graving docks, and the deepening of the chief harbour. About 50,000 tons of shipping belong to the port, a small portion being engaged in the whale fisheries. The factories for spinning and weaving flax exceed 100, employing as many as 16,000 hands, three-fourths of whom are women. Coarse linens, osnaburghs, diapers, sail-cloth, rope, canvas, &c, are the chief goods made up.
 
 Near the harbour is the triumphal arch, 82 feet wide, built, on the occasion of the Queen's visit in 1844. Among the modem improvements which have taken place in Dundee, may be noticed those in Union Street, which opens a communication with the Craig Pier and the Nethergate; indeed, nearly all the old buildings have been superseded by new ones. In front of the quay, along the margin of the Tay, are the various docks and shipyards, terminated on the west by the Craig Pier, which is exclusively used for the large ferry steam-boats. On the cast the piers project into the deep water, on which are placed various coloured lights to guide the seamen after sunset. Opposite the town is a beacon, which is built on a dangerous rock. Nearly the whole of the space now appropriated to the docks, was originally a semicircular sandy beach, but by great exertion the spirited inhabitants have erected a series of quays which are unequalled in Scotland. There are 20 churches and chapels. Three churches stand together on the site of that founded by William the Lion's brother, David (the hero of Scott's "Talisman") in pursuance of a vow made at sea on returning from the Crusades; its square tower, 156 feet high, still remains, though damaged by a fierce storm in 1840. David also built a castle, which figures in the war of independence as having been taken by Wallace and Bruce. The former great patriot was educated at the priory in this town, and made himself known, about 1271, by killing Delly, an insolent young Norman knight in the Governor's train. The *Town House* in High Street, was built by Adams, in 1734; other buildings are, the *Exchange*, *Trades Hall*, *Academy*, *St. Andrew's* Church, with a tall spire, &c.
 
@@ -27,3 +41,7 @@ Within a short distance are, *Brouqhty Castle*;
 *Gray*, the seat of Lord Gray; *Camperdown*,
 that of Lord Duncan; and *Mains*, another ot
 Claverhouse's seats.
+
+----
+
+Uuid: GFmweYsrv1xLsYUd

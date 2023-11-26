@@ -1,14 +1,30 @@
-section: 3
+Title: Ulverston
+
 ----
-title: Ulverston
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Sun.
-- term: Bankers
+-
+  term: Bankers
   desc: Branch of Lancaster Banking Co.; Petty and Postlethwaite.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a session-town, with a population of 6,630, employed in the cotton, linen, rope, and hat manufactures. It contains St. Mary's Church, rebuilt in 1804, with an old Norman door and stained windows after Rubens and Reynolds' Holy Trinity, four chapels, theatre, assembly and news-rooms, libraries, custom house, and an iron market, the cross of which was built in 1821. In 1795, Rennie cut a level canal large enough for ships of 400 tons. On Hoad Hill, 450 feet high, is a beacon of 100 feet founded by the sons of Sir John Barrow, who, with Richard de Ulverstone, the monk, was a native. G. Fox lived at Swartmoor Hall, and West was a priest.
+
+Text:
+
+This is a session-town, with a population of 6,630, employed in the cotton, linen, rope, and hat manufactures. It contains St. Mary's Church, rebuilt in 1804, with an old Norman door and stained windows after Rubens and Reynolds' Holy Trinity, four chapels, theatre, assembly and news-rooms, libraries, custom house, and an iron market, the cross of which was built in 1821. In 1795, Rennie cut a level canal large enough for ships of 400 tons. On Hoad Hill, 450 feet high, is a beacon of 100 feet founded by the sons of Sir John Barrow, who, with Richard de Ulverstone, the monk, was a native. G. Fox lived at Swartmoor Hall, and West was a priest.
+
+----
+
+Uuid: JyqBg9zJ8OoNEha2

@@ -1,10 +1,23 @@
-section: 2
+Title: Devizes
+
 ----
-title: Devizes
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Is an ancient borough, in the centre of Wiltshire, with a population of 6,638. Its staple trade is woollen.
+
+Desc: Is an ancient borough, in the centre of Wiltshire, with a population of 6,638. Its staple trade is woollen.
+
 ----
-text: Is an ancient borough, in the centre of Wiltshire, with a population of 6,638. Its staple trade is woollen. St. John's Church is somewhat remarkable, from the variety of architectural designs it displays. It returns two members to parliament.
+
+Text:
+
+Is an ancient borough, in the centre of Wiltshire, with a population of 6,638. Its staple trade is woollen. St. John's Church is somewhat remarkable, from the variety of architectural designs it displays. It returns two members to parliament.
+
+----
+
+Uuid: XZjh5EKhBeqm9Pzi

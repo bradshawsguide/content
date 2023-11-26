@@ -1,5 +1,15 @@
-section: 3
+Title: Alford
+
 ----
-title: Alford
+
+Section: 3
+
 ----
-text: A place remarkable for the defeat of the Covenanters by Montrose in 1645. It is situated on the Don, in which are salmon fisheries, and has a fair once a month for cattle. In the vicinity are *Haughton House*, J. Farquharson, Esq., *Castle Forbes*, Lord Forbes, and *Whitehaugh*, -- Forbes, Esq.
+
+Text:
+
+A place remarkable for the defeat of the Covenanters by Montrose in 1645. It is situated on the Don, in which are salmon fisheries, and has a fair once a month for cattle. In the vicinity are *Haughton House*, J. Farquharson, Esq., *Castle Forbes*, Lord Forbes, and *Whitehaugh*, -- Forbes, Esq.
+
+----
+
+Uuid: jfttxarjJoiUpZeb

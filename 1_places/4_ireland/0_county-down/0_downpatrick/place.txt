@@ -1,16 +1,34 @@
-section: 2
+Title: Downpatrick
+
 ----
-title: Downpatrick
+
+Section: 2
+
 ----
-info:
-- term: Market Day
+
+Info:
+
+-
+  term: Market Day
   desc: Saturday
-- term: Fairs
+-
+  term: Fairs
   desc: First Saturday in each month.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Situated on the river Quoile, in a valley, at the south-west corner of Strangford Lough, has a population of about 5,000.
+
+Desc: Situated on the river Quoile, in a valley, at the south-west corner of Strangford Lough, has a population of about 5,000.
+
 ----
-text: Situated on the river Quoile, in a valley, at the south-west corner of Strangford Lough, has a population of about 5,000, and returns one member to parliament. The Cathedral contains the tomb of Lord Kehany; the window at the east end is worth notice.
+
+Text:
+
+Situated on the river Quoile, in a valley, at the south-west corner of Strangford Lough, has a population of about 5,000, and returns one member to parliament. The Cathedral contains the tomb of Lord Kehany; the window at the east end is worth notice.
+
+----
+
+Uuid: 00Q9qOfpNqhariLJ

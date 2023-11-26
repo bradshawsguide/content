@@ -1,12 +1,27 @@
-section: 1
+Title: Lewisham
+
 ----
-title: Lewisham
+
+Section: 1
+
 ----
-info:
-- term: Fairs
+
+Info:
+
+-
+  term: Fairs
   desc: Horses, cattle, and pigs, May 12th and October 13th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Lewisham is a small village, in a beautiful situation on the high road to Sevenoaks and Tunbridge, and near the river Ravensbourne.
+
+Text:
+
+Lewisham is a small village, in a beautiful situation on the high road to Sevenoaks and Tunbridge, and near the river Ravensbourne.
+
+----
+
+Uuid: lPQSzQE152RqPhcL

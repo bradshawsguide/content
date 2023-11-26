@@ -1,14 +1,31 @@
-section: 3
+Title: Bescot
+
 ----
-title: Bescot
+
+Section: 3
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Darlaston, 1½ mile.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: *Bescot Hall* (from which are fine views) is an moated edifice.
+
+Desc: *Bescot Hall* (from which are fine views) is an moated edifice.
+
 ----
-text: *Bescot Hall* (from which are fine views) is an moated edifice. It is the point of junction with the South Stafford line to Walsall and Dudley.
+
+Text:
+
+*Bescot Hall* (from which are fine views) is an moated edifice. It is the point of junction with the South Stafford line to Walsall and Dudley.
+
+----
+
+Uuid: NipLC7GRzKk8VLgZ

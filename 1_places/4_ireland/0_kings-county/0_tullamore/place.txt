@@ -1,14 +1,30 @@
-section: 2
+Title: Tullamore
+
 ----
-title: Tullamore
+
+Section: 2
+
 ----
-info:
-- term: Market Days
+
+Info:
+
+-
+  term: Market Days
   desc: Tuesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 19, May 10, July 10, September 13, October 21, December 13.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Here are the ruins of Sragh Castle, near those of Ballycowan. The population of the town is employed in the linen trade.
+
+Text:
+
+Here are the ruins of Sragh Castle, near those of Ballycowan. The population of the town is employed in the linen trade.
+
+----
+
+Uuid: hssp548tt2Zry52c

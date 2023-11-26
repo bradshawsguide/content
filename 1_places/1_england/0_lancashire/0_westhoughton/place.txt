@@ -1,8 +1,19 @@
-section: 3
+Title: Westhoughton
+
 ----
-title: Westhoughton
+
+Section: 3
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This place has a population of 5,156, who are employed in the muslin trade. In 1812, a dreadful Luddite riot took place, at which a large quantity of machinery was destroyed by the mob.
+
+Text:
+
+This place has a population of 5,156, who are employed in the muslin trade. In 1812, a dreadful Luddite riot took place, at which a large quantity of machinery was destroyed by the mob.
+
+----
+
+Uuid: d49AHte2Xjlj5GD7

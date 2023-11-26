@@ -1,14 +1,30 @@
-section: 3
+Title: Dysart
+
 ----
-title: Dysart
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Railway.
-- term: Fairs
+-
+  term: Fairs
   desc: May 6th; 4th Wednesday in August, and November 8th.
+
 ----
-notes:
-- Telegraph station at Thornton, 2¾ miles.
+
+Notes: Telegraph station at Thornton, 2¾ miles.
+
 ----
-text: This place contains a population of 8,066, who are employed in the weaving, ship building, and coasting trades, and has a Church, Chapel, Newsroom, Mechanics' Library, School, small tidal harbour, with anew dock, patent slip for repairs, and a forge, on the site of the Black Priory. Wallace, the mathematician, was a native in 1768. In the vicinity is *Dysart House*, seat of the Earl of Rosslyn.
+
+Text:
+
+This place contains a population of 8,066, who are employed in the weaving, ship building, and coasting trades, and has a Church, Chapel, Newsroom, Mechanics' Library, School, small tidal harbour, with anew dock, patent slip for repairs, and a forge, on the site of the Black Priory. Wallace, the mathematician, was a native in 1768. In the vicinity is *Dysart House*, seat of the Earl of Rosslyn.
+
+----
+
+Uuid: NhCXKRwmYaUZ3a35

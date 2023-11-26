@@ -1,11 +1,26 @@
-section: 3
+Title: Newtyle
+
 ----
-title: Newtyle
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,139.
-- term: Hotel
+-
+  term: Hotel
   desc: Stratherch.
+
 ----
-text: In the vicinity are *Hatton Castle* in nuns, which was built in 1575, by Lord Oliphant; Castle of *Balcraig* and *Auchtertyre Camp*, both, ruins; at the latter of which Montrose rested. From Kilfarnie Beacon a view of ten counties is obtained, as far as St. Abb's Head, on a clear day.
+
+Text:
+
+In the vicinity are *Hatton Castle* in nuns, which was built in 1575, by Lord Oliphant; Castle of *Balcraig* and *Auchtertyre Camp*, both, ruins; at the latter of which Montrose rested. From Kilfarnie Beacon a view of ten counties is obtained, as far as St. Abb's Head, on a clear day.
+
+----
+
+Uuid: ve4WNsywT5VRQ99D

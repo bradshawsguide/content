@@ -1,28 +1,48 @@
-section: 3
+Title: Manchester
+
 ----
-title: Manchester
+
+Section: 3
+
 ----
-station: manchester-oxford-road
+
+Station: manchester-oxford-road
+
 ----
-info:
-- term: Telegraph stations
+
+Info:
+
+-
+  term: Telegraph stations
   desc: The Electric and International, York Street; Ducie Buildings, Exchange; 1, Mosley Street; Chapel Street, Salford; and at the Railway Stations. The Magnetic and British and Submarine, 11, Ducie Street, Exchange; 19, Bond Street; Queens Hote1, Portland Street; 36, Thomas Street, Shodehill; Wholesale Fish Market, Great Ducie Street; Corn Exchange, Hanging Ditch (Thursdays); Lancashire and Yorkshire Rail way Stations, Victoria, New Bailey Street, and Oldfield Road; Stock Exchange. The United Kingdom, Bank Street, opposite the Exchange; 1a, Cooper Street; Bonelli's, St. Ann's Square.
-- term: Hotels
+-
+  term: Hotels
   desc: Queen's, Thomas Johnson, first class, for families and gentlemen, recommended. Albion, Palatine, and Clarence.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday (manufactures), Thursday (corn), Friday (manufactures), and Saturday (general). The Markets are Victoria, Victoria Street; Smithfield, Shudehill; Bridge Street; London Road. The Cattle Market is in Cross Lane, Salford, held on Tuesdays.
-- term: Fairs
+-
+  term: Fairs
   desc: Easter Monday and Tuesday, Whit-Monday, October 1st, and November 17th.
-- term: Races
+-
+  term: Races
   desc: In Whit-week and September.
-- term: Principal Money Order Office
+-
+  term: Principal Money Order Office
   desc: Brown Street Manchester.
-- term: Bankers
+-
+  term: Bankers
   desc: Cunliffes, Brooks, and Co; Heywood Brothers and Co.; James Sewell; the Consolidated, Pall Mall; Branch Bank of England; Manchester and Liverpool District Bank; Manchester and Salford Banking Co.; National Provincial Bank of England; Union Bank of Manchester; Manchester and County.
+
 ----
-notes:
+
+Notes:
+
 ----
-text: (smcp: Manchester), the metropolis of the cotton manufacture, a cathedral city, and parliamentary borough, in the south-east comer of Lancashire, on the Irwell, 188¼ miles from London, and 31½ from Liverpool. The last named town is the real port which supplies its staple article in the raw state, but Manchester itself has all the privileges of one, being licensed to bond imported goods as much as it it were by the sea side. It has been the head of a bishop's see since 1848, when a new diocese was taken out of Chester, including the greater part of Lancashire; and the Collegiate Church turned into a cathedral.
+
+Text:
+
+(smcp: Manchester), the metropolis of the cotton manufacture, a cathedral city, and parliamentary borough, in the south-east comer of Lancashire, on the Irwell, 188¼ miles from London, and 31½ from Liverpool. The last named town is the real port which supplies its staple article in the raw state, but Manchester itself has all the privileges of one, being licensed to bond imported goods as much as it it were by the sea side. It has been the head of a bishop's see since 1848, when a new diocese was taken out of Chester, including the greater part of Lancashire; and the Collegiate Church turned into a cathedral.
 
 Manchester and Salford, though separate boroughs, divided by the Irwell, form one great town, which in 1861 contained a population of 460,428, of which 102,449 belonged to Salford. Manchester returns two members to parliament, and Salford one. With Salford it covers a space of about 3½ miles long, by 2½ broad, and 10 miles in circuit; a line which takes in various suburbs, as Hough, Pendleton, Strangeways, Cheetham, Smedley, Newton, Miles Platting, Beswick, Ardwick, Chorlton-upon-Medlock, Hulme, &c., all of which are continually spreading into the country, and constitute the best built and most modern portion of the town, the most ancient being in the centre, round the Cathedral. The principal buildings of Manchester are not numerous, but scattered; its great features being its vast and busy factories, the industry and spirit of its commercial relations, rather than the display of architectural refinement. But in this respect great changes have already been made; its government possessing a unity of purpose well adapted to develop the various schemes of improvement which from time to time are suggested. The manorial rights, which formerly belonged to the family of the Mosleys, together with the vast surplus profits arising out of the Gas Worts, first established in 1817, create a fund calculated to meet the progressive requirements of the times. Manchester is seated on a wide plain, with a slight elevation here and there; but not far off are the border lines of the three adjacent counties of Yorkshire, Derbyshire, and Cheshire. Some of the most rugged hills and the finest pass scenery in England, may here be witnessed. Four railways traverse this remarkable district—the Lancashire and Yorkshire, Loudon and North Western, Manchester, Sheffield, and Lincolnshire, and South Junction.
 
@@ -59,3 +79,7 @@ Of two well-known chemists, Henry was a native, and Dalton here developed his gr
 In the neighbourhood is Beaton Park, the seat of the Earl of Wilton, modernised by Wyatt.
 
 [^1]: The first interment that took place was that of the remains of the late Mr. Joseph Brotherton, the well-known member of parliament for Salford, to whose memory a monument has since been erected by public subscription.
+
+----
+
+Uuid: vsSXL40nAeeV3uFV

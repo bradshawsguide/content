@@ -1,17 +1,33 @@
-section: 2
+Title: Strabane to Killygordon
+
 ----
-title: Strabane to Killygordon
+
+Section: 2
+
 ----
-company: companies/finn-valley
+
+Company: companies/finn-valley
+
 ----
-stops:
+
+Stops:
+
 - strabane
 - clady
 - castlefinn
 - liscooly
 - killygordon
+
 ----
-links:
-- (wikipedia: Finn_Valley_Railway)
+
+Links: - (wikipedia: Finn_Valley_Railway)
+
 ----
-text: It passes along the banks of the Finn through the stations of [Clady](/stations/clady), [Castlefinn](/stations/castlefinn), [Liscooly](/stations/liscooly), and [Killygordon](/stations/killygordon), to *Stranorlar*, a small town in the county of Donegal, with some little trade in linen.
+
+Text:
+
+It passes along the banks of the Finn through the stations of [Clady](/stations/clady), [Castlefinn](/stations/castlefinn), [Liscooly](/stations/liscooly), and [Killygordon](/stations/killygordon), to *Stranorlar*, a small town in the county of Donegal, with some little trade in linen.
+
+----
+
+Uuid: TWnj6pJuwabJYU6k

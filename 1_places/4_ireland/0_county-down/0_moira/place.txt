@@ -1,7 +1,19 @@
-section: 2
+Title: Moira
+
 ----
-title: Moira
+
+Section: 2
+
 ----
-desc: Here is *Moira Castle*, the seat of the Hastings family, and the birth place of the first Marquis, the gallant Earl Moira.
+
+Desc: Here is *Moira Castle*, the seat of the Hastings family, and the birth place of the first Marquis, the gallant Earl Moira.
+
 ----
-text: Here is *Moira Castle*, the seat of the Hastings family, and the birth place of the first Marquis, the gallant Earl Moira, grandfather of the lamented and amiable Lady Flora Hastings, whose melancholy demise has cast an indelible stain on the British Court of the 19th century. Fairs are held on the 1st Thursday in February, May, August, and November. Markets on Thursday.
+
+Text:
+
+Here is *Moira Castle*, the seat of the Hastings family, and the birth place of the first Marquis, the gallant Earl Moira, grandfather of the lamented and amiable Lady Flora Hastings, whose melancholy demise has cast an indelible stain on the British Court of the 19th century. Fairs are held on the 1st Thursday in February, May, August, and November. Markets on Thursday.
+
+----
+
+Uuid: 17WoXYBIcVThYYSo

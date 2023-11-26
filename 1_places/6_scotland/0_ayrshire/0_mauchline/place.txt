@@ -1,15 +1,33 @@
-section: 3
+Title: Mauchline
+
 ----
-title: Mauchline
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Black Bull.
-- term: Fairs
+-
+  term: Fairs
   desc: Thursday after 4th February. Second and last Thursday in April; Wednesday after 18th May; 4th Wednesday in June; 1st Wednesday in August; September 26th, or Thursday after; Thursday after 4th November, and 4th Wednesday in December.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¾ mile.
 - A telegraph station.
+
 ----
-text: On Mauchline Moor is a church lately rebuilt, where Wishart preached in 1544; and here the royalists were defeated in 1647. At the Green is a stone on which is recorded the death of five persons by "Bloody Dumbarton, Douglas, Dundee," &c., in 1685. Burns wrote his u Mauchline Belles," &c., at J. Dow's and Poosie Nansie's Inns. Near at hand is Barskimming Bridge, erected by Sir T. Miller, of Glenlee, Gavin Hamilton's House, the Lugar, and Ballochmyle.
+
+Text:
+
+On Mauchline Moor is a church lately rebuilt, where Wishart preached in 1544; and here the royalists were defeated in 1647. At the Green is a stone on which is recorded the death of five persons by "Bloody Dumbarton, Douglas, Dundee," &c., in 1685. Burns wrote his u Mauchline Belles," &c., at J. Dow's and Poosie Nansie's Inns. Near at hand is Barskimming Bridge, erected by Sir T. Miller, of Glenlee, Gavin Hamilton's House, the Lugar, and Ballochmyle.
+
+----
+
+Uuid: R4PP3t6sYsAcMQbP

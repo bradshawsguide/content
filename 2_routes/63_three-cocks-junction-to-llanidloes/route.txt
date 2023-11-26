@@ -1,14 +1,25 @@
-section: 2
+Title: Three Cocks Junction to Llanidloes
+
 ----
-title: Three Cocks Junction to Llanidloes
+
+Section: 2
+
 ----
-title_short: Three Cocks to Llanidloes
+
+Title-short: Three Cocks to Llanidloes
+
 ----
-subtitle: Mid-Wales Railway
+
+Subtitle: Mid-Wales Railway
+
 ----
-company: companies/cambrian
+
+Company: companies/cambrian
+
 ----
-stops:
+
+Stops:
+
 - three-cocks-junction
 - boughrood
 - erwood
@@ -19,11 +30,16 @@ stops:
 - pantydwr
 - tylwch
 - llanidloes
+
 ----
-links:
-- (wikipedia: Mid-Wales_Railway)
+
+Links: - (wikipedia: Mid-Wales_Railway)
+
 ----
-text: Leaving the junction at Three Cocks, we soon come to
+
+Text:
+
+Leaving the junction at Three Cocks, we soon come to
 
 [Boughrood](/stations/boughrood), 2¾ miles, at which is an old castle, on the Radnor side of the river, which commanded the old ford here. Close at hand is *Llangoed Castle* (J. Macnamara, Esq.), on the Brecon side of the river.
 
@@ -42,3 +58,7 @@ Leaving Rhayader on our iron horse, we pass the stations of
 [Pantydwr](/stations/pantydwr), 7 miles, and [Tylwch](/stations/tylwch), 3¾ miles, and, at a distance of 3¼ miles farther, come to
 
 (place: wales/montgomeryshire/llanidloes)
+
+----
+
+Uuid: weS7Q8Q2rUv1Zq0U

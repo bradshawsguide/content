@@ -1,12 +1,21 @@
-section: 2
+Title: Plymouth to Tavistock and Launceston
+
 ----
-title: Plymouth to Tavistock and Launceston
+
+Section: 2
+
 ----
-title_short: Plymouth to Launceston
+
+Title-short: Plymouth to Launceston
+
 ----
-company: companies/south-devon-and-tavistock
+
+Company: companies/south-devon-and-tavistock
+
 ----
-stops:
+
+Stops:
+
 - plymouth
 - marsh-mills
 - bickleigh
@@ -17,11 +26,16 @@ stops:
 - coryton
 - lifton
 - launceston
+
 ----
-links:
-- (wikipedia: South_Devon_and_Tavistock_Railway)
+
+Links: - (wikipedia: South_Devon_and_Tavistock_Railway)
+
 ----
-text: The **South Devon and Tavistock** line takes a northerly direction from Plymouth, and passes the Stations of [Marsh Mills](/stations/marsh-mills), 4 miles, [Bickleigh](/stations/bickleigh), 3¾ miles, and [Horrabridge](/stations/horrabridge), 4¾ miles, to the town of
+
+Text:
+
+The **South Devon and Tavistock** line takes a northerly direction from Plymouth, and passes the Stations of [Marsh Mills](/stations/marsh-mills), 4 miles, [Bickleigh](/stations/bickleigh), 3¾ miles, and [Horrabridge](/stations/horrabridge), 4¾ miles, to the town of
 
 (place: england/devonshire/tavistock)
 
@@ -30,3 +44,7 @@ On passing [Marytavy](/stations/marytavy), 3¼ miles, and [Lidford](/stations/li
 A distance of 4½ miles beyond Lifton, and about two from the river, brings us to the county town of
 
 (place: england/cornwall/launceston)
+
+----
+
+Uuid: 9T2lxCqdcNEzjA67

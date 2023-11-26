@@ -1,18 +1,37 @@
-section: 2
+Title: Holywood
+
 ----
-title: Holywood
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Power's.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Every three months.
+
 ----
-notes:
-- Telegraph station at Belfast, 5 miles.
+
+Notes: Telegraph station at Belfast, 5 miles.
+
 ----
-desc: Holywood, or Hollywood, is a pretty bathing place on the Lough, 5 miles from Belfast, where the Irish Presbyterians signed the Solemn League and Covenant, 1644.
+
+Desc: Holywood, or Hollywood, is a pretty bathing place on the Lough, 5 miles from Belfast, where the Irish Presbyterians signed the Solemn League and Covenant, 1644.
+
 ----
-text: Holywood, or Hollywood, is a pretty bathing place on the Lough, 5 miles from Belfast, where the Irish Presbyterians signed the Solemn League and Covenant, 1644. The church is on the site of a priory, from which the name of the place is derived.
+
+Text:
+
+Holywood, or Hollywood, is a pretty bathing place on the Lough, 5 miles from Belfast, where the Irish Presbyterians signed the Solemn League and Covenant, 1644. The church is on the site of a priory, from which the name of the place is derived.
+
+----
+
+Uuid: v34NENOG00TVDFbz

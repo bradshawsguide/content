@@ -1,8 +1,19 @@
-section: 3
+Title: Stanley
+
 ----
-title: Stanley
+
+Section: 3
+
 ----
-info:
-- A telegraph station.
+
+Info: - A telegraph station.
+
 ----
-text: Here a small spinning trade is carried on by the inhabitants. This place is 7¼ miles from Perth.
+
+Text:
+
+Here a small spinning trade is carried on by the inhabitants. This place is 7¼ miles from Perth.
+
+----
+
+Uuid: wqJmHZG38Xa0NZsC

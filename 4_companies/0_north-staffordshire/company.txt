@@ -1,6 +1,13 @@
-section: 3
+Title: North Staffordshire
+
 ----
-title: North Staffordshire
+
+Section: 3
+
 ----
-links:
-- (wikipedia: North_Staffordshire_Railway)
+
+Links: - (wikipedia: North_Staffordshire_Railway)
+
+----
+
+Uuid: Hw7Qs1jLE7L7rtDT

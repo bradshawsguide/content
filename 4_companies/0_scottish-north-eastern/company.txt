@@ -1,6 +1,13 @@
-section: 3
+Title: Scottish North Eastern
+
 ----
-title: Scottish North Eastern
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Scottish_North_Eastern_Railway)
+
+Links: - (wikipedia: Scottish_North_Eastern_Railway)
+
+----
+
+Uuid: Sld713s290a8cCoq

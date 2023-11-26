@@ -1,12 +1,27 @@
-section: 1
+Title: Lancing
+
 ----
-title: Lancing
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: The Farmer's and Sussex Pad.
+
 ----
-notes:
-- Telegraph station at Shoreham, 2 miles.
+
+Notes: Telegraph station at Shoreham, 2 miles.
+
 ----
-text: Is close to the pretty "sea-side" village of that name, known as Lancing-by-Sea, which is in some repute as a quiet, retiring bathing-place, but it is excessively dull and *ennuyant*.
+
+Text:
+
+Is close to the pretty "sea-side" village of that name, known as Lancing-by-Sea, which is in some repute as a quiet, retiring bathing-place, but it is excessively dull and *ennuyant*.
+
+----
+
+Uuid: KeDgSd0QqM1Sjlkw

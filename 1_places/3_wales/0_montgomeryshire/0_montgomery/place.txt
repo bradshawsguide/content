@@ -1,9 +1,23 @@
-section: 2
+Title: Montgomery
+
 ----
-title: Montgomery
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,276.
+
 ----
-text: At this place are the remains of two castles, and an immense camp with four ditches to be seen. The church is cruciform, and contains some interesting monuments.
+
+Text:
+
+At this place are the remains of two castles, and an immense camp with four ditches to be seen. The church is cruciform, and contains some interesting monuments.
+
+----
+
+Uuid: p79O09qruJC8QdOZ

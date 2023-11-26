@@ -1,14 +1,31 @@
-section: 3
+Title: Kirkby
+
 ----
-title: Kirkby
+
+Section: 3
+
 ----
-subtitle: Walton-on-the-Hill
+
+Subtitle: Walton-on-the-Hill
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,598.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This place is situated close' to Kirkby Moss. "Kirkby" signifies Church Town. In the vicinity is *Knowsley Park*, the seat of the Earl of Derby.
+
+Text:
+
+This place is situated close' to Kirkby Moss. "Kirkby" signifies Church Town. In the vicinity is *Knowsley Park*, the seat of the Earl of Derby.
+
+----
+
+Uuid: 3GTTnhog1ypsfa5k

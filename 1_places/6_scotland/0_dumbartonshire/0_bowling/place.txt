@@ -1,14 +1,30 @@
-section: 3
+Title: Bowling
+
 ----
-title: Bowling
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Sutherland Arms.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Dumbarton, 4 miles.
+
 ----
-notes:
-- Telegraph station at Dumbarton, 3¼ miles.
+
+Notes: Telegraph station at Dumbarton, 3¼ miles.
+
 ----
-text: Here is a handsome revolving light.
+
+Text:
+
+Here is a handsome revolving light.
+
+----
+
+Uuid: 3xKq1uhHBxhrSC7P

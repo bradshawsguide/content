@@ -1,21 +1,43 @@
-section: 3
+Title: Oundle
+
 ----
-title: Oundle
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,450.
-- term: Hotel
+-
+  term: Hotel
   desc: Talbot.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: February 24th, Whit Monday. August 21st, and October 11th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¾ mile.
 - A telegraph station.
+
 ----
-desc: The town is prettily situated on the banks of the Nene.
+
+Desc: The town is prettily situated on the banks of the Nene.
+
 ----
-text: The town is prettily situated on the banks of the Nene. *Dean Park*, the seat of the "last of the Cardigans" and several others, are in its immediate vicinity. Within a distance of three mile, is Fothenngay, celebrated in history for its castle founded by Simon de St. Liz, at the Conquest. It was the scene of the nativity of Richard III.: and the trial and execution of the ill-fated Mary, Queen of Scots, in 1580. It was demolished by her son. Its situation is indicated by nothing more than a mound of earth.
+
+Text:
+
+The town is prettily situated on the banks of the Nene. *Dean Park*, the seat of the "last of the Cardigans" and several others, are in its immediate vicinity. Within a distance of three mile, is Fothenngay, celebrated in history for its castle founded by Simon de St. Liz, at the Conquest. It was the scene of the nativity of Richard III.: and the trial and execution of the ill-fated Mary, Queen of Scots, in 1580. It was demolished by her son. Its situation is indicated by nothing more than a mound of earth.
+
+----
+
+Uuid: fL5zrENueKBIyEfw

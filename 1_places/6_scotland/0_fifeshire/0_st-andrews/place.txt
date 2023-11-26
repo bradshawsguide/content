@@ -1,20 +1,35 @@
-section: 3
+Title: St. Andrews
+
 ----
-title: St. Andrews
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Cross Kcvs, Royal, Star.
-- term: Market Day
+-
+  term: Market Day
   desc: Monday.
-- term: Fairs
+-
+  term: Fairs
   desc: Second Monday in April; second Tuesday in August; first Monday after 10th November.
+
 ----
-notes:
+
+Notes:
+
 - Population, 5,176.
 - Telegraph station at Cupar, 12½ miles.
+
 ----
-text: This old city is a parliamentary burgh with one member and university, and picturesquely seated on the cliffs, near the "East Neuk" of Fife. The first view of its ruined towers and spires, the sea, and the cultivated environs, is very pleasing. Formerly it was the seat of an Archbishopric, an honour which it claimed from possessing the bones of St. Andrew, the patron saint of Scotland. According to Fordun, St. Rule or Regulus, who discovered these precious relics in 345, set sail from Patræ or Patras, in Greece, with the intention of carrying them to Constantinople, but, having no chart on board, was wrecked, after a long and painful voyage, in *St. Andrews Bay!* A church was dedicated to this able navigator, and a larger one was built over the prize he brought with him. This was the first foundation of the Cathedral, but the present structure dates only from the 12th century at the farthest. As usual it was a cross, 350 feet long, of which only the south walls and gable ends are "left, the whole having been ruined at the Reformation by the adherents of John Knox, after a powerful sermon from him in 1559. Such had been the bitter persecution they sustained from the Romish party, and their infamous leader, Cardinal Beaton or Bethune, that they might be well pardoned for wishing to destroy every vestige of their power here.
+
+Text:
+
+This old city is a parliamentary burgh with one member and university, and picturesquely seated on the cliffs, near the "East Neuk" of Fife. The first view of its ruined towers and spires, the sea, and the cultivated environs, is very pleasing. Formerly it was the seat of an Archbishopric, an honour which it claimed from possessing the bones of St. Andrew, the patron saint of Scotland. According to Fordun, St. Rule or Regulus, who discovered these precious relics in 345, set sail from Patræ or Patras, in Greece, with the intention of carrying them to Constantinople, but, having no chart on board, was wrecked, after a long and painful voyage, in *St. Andrews Bay!* A church was dedicated to this able navigator, and a larger one was built over the prize he brought with him. This was the first foundation of the Cathedral, but the present structure dates only from the 12th century at the farthest. As usual it was a cross, 350 feet long, of which only the south walls and gable ends are "left, the whole having been ruined at the Reformation by the adherents of John Knox, after a powerful sermon from him in 1559. Such had been the bitter persecution they sustained from the Romish party, and their infamous leader, Cardinal Beaton or Bethune, that they might be well pardoned for wishing to destroy every vestige of their power here.
 
 Near this relic of antiquity is the very ancient tower of *St.Rule's Church*, 180 feet high.
 
@@ -29,3 +44,7 @@ Three colleges compose the *University*, which was founded in 1411, by Bishop Wa
 Close to the old priory of Blackfriars is another valuable institution, the Grammar School, which has been converted into *The Madras College*, at the instance of Dr. Bell, a native, the author of the Bell (or monitor) system of teaching, which prevailed till lately in most of the national schools. He was chaplain to the East India Company, and left £60,000 to his native city for education. Here about 800 children are taught classics, mathematics, &c.
 
 The harbour is rocky, and of little consequence. Formerly it had a good trade. One branch of manufacture still flourishes here, that of making balls for golf--a favourite game, played on the links or flat sands along the sea shore.
+
+----
+
+Uuid: gYTjp2tIqjQS6T8L

@@ -1,18 +1,37 @@
-section: 3
+Title: Cupar
+
 ----
-title: Cupar
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Tontine, Royal.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
-- term: Fairs
+-
+  term: Fairs
   desc: First Tuesday in each month.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
 ----
-text: This place has a population of 5,029, employed in the coarse linen trade, and contains five chapels, town house, assembly rooms, academy erected on the site of the old castle, public library, gasworks, almshouses, tanneries, tile, candle, and rope works, breweries, a collegiate church, rebuilt in 1785, retaining the steeple of the old one, which contains effigies of one of the Knights Templars. In the vicinity are *Wemyss*, seat of Capt. Wemyss, M.P., *Carslogie Castle*, R. Clephane, Esq., *Pittencrieff*, J. Huntley, *The Mount*, the old seat of Sir D. Lindsey, whose satires, &c, were acted at Playfield near the castle, and *Garley Bank*, where Argyle treated with the forces of the Queen Regent in 1559. Some cairns are also to be seen. The Scottish proverb for an obstinate man refers to this place:--"He that will to
+
+Text:
+
+This place has a population of 5,029, employed in the coarse linen trade, and contains five chapels, town house, assembly rooms, academy erected on the site of the old castle, public library, gasworks, almshouses, tanneries, tile, candle, and rope works, breweries, a collegiate church, rebuilt in 1785, retaining the steeple of the old one, which contains effigies of one of the Knights Templars. In the vicinity are *Wemyss*, seat of Capt. Wemyss, M.P., *Carslogie Castle*, R. Clephane, Esq., *Pittencrieff*, J. Huntley, *The Mount*, the old seat of Sir D. Lindsey, whose satires, &c, were acted at Playfield near the castle, and *Garley Bank*, where Argyle treated with the forces of the Queen Regent in 1559. Some cairns are also to be seen. The Scottish proverb for an obstinate man refers to this place:--"He that will to
 Cupar maun to Cupar."
+
+----
+
+Uuid: 37QK22dokmmIkpCK

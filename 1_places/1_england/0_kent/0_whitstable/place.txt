@@ -1,19 +1,31 @@
-section: 1
+Title: Whitstable
+
 ----
-title: Whitstable
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Two Brewers; Bear and Key.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from the station.
-- term: Fair
+-
+  term: Fair
   desc: Thursday before Whit-Sunday.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-distances:
+
+Distances:
+
 - location: 'Balls Street & Bodkin'
   miles: "2"
 - location: Bostall
@@ -50,9 +62,19 @@ distances:
   miles: "2¾"
 - location: Thorndean Wood
   miles: "2¾"
+
 ----
-desc: The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
+
+Desc: The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
+
 ----
-text: Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
+
+Text:
+
+Whitstable is the harbour of Canterbury, and is celebrated for its oyster fishery, the produce of which, under the name of natives, is highly esteemed in the London and other markets. The town, though rather mean in appearance, and irregularly built, has a bustling and thriving appearance, from its fishing and coal trade.
 
 (distances:)
+
+----
+
+Uuid: UIE43HKXKKOBcARV

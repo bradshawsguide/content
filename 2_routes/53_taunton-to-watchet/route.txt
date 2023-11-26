@@ -1,24 +1,42 @@
-section: 2
+Title: Taunton to Watchet
+
 ----
-title: Taunton to Watchet
+
+Section: 2
+
 ----
-subtitle: West Somerset Railway
+
+Subtitle: West Somerset Railway
+
 ----
-company: companies/bristol-and-exeter
+
+Company: companies/bristol-and-exeter
+
 ----
-stops:
+
+Stops:
+
 - taunton
 - bishops-lydeard
 - crowcombe
 - stogumber
 - williton
 - [watchet, washford, roadwater, combe-row]
+
 ----
-links:
-- (wikipedia: West_Somerset_Railway)
+
+Links: - (wikipedia: West_Somerset_Railway)
+
 ----
-text: The West Somerset, a line 14 miles long turns off at Taunton to the right and runs through [Bishops Lydeard](/stations/bishops-lydeard), [Crowcombe](/stations/crowcombe), [Stogumber](/stations/stogumber) and [Williton](/stations/williton), to the market town of
+
+Text:
+
+The West Somerset, a line 14 miles long turns off at Taunton to the right and runs through [Bishops Lydeard](/stations/bishops-lydeard), [Crowcombe](/stations/crowcombe), [Stogumber](/stations/stogumber) and [Williton](/stations/williton), to the market town of
 
 (place: england/somerset/watchet)
 
 The *West Somerset Mineral* continues this route through [Washford](/stations/washford) and [Roadwater](/stations/roadwater) to [Combe Row](/stations/combe-row).
+
+----
+
+Uuid: rQUvelFQH6vZT9cB

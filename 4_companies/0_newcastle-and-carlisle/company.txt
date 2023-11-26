@@ -1,6 +1,13 @@
-section: 3
+Title: Newcastle & Carlisle
+
 ----
-title: Newcastle & Carlisle
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Newcastle_%26_Carlisle_Railway)
+
+Links: - (wikipedia: Newcastle_%26_Carlisle_Railway)
+
+----
+
+Uuid: WwRx0T1IKKpC6vZ1

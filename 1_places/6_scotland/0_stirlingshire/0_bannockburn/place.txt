@@ -1,14 +1,30 @@
-section: 3
+Title: Bannockburn
+
 ----
-title: Bannockburn
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,258.
-- term: Hotel
+-
+  term: Hotel
   desc: Brace's Head.
+
 ----
-notes:
-- Telegraph station at Stirling, 2½ miles.
+
+Notes: Telegraph station at Stirling, 2½ miles.
+
 ----
-text: The rivulet called "Bannockburn" here runs through, a glen, and after a few miles falls into the river Forth. The inhabitants are very industrious, and carry on a considerable trade in carpets, tartan, and woollen cloth in general. It was here that the celebrated battle was fought between Robert Bruce, King of Scotland, and Edward of England, on the 24th of July, 1314. Here James III. was defeated in 1488 by his own subjects. Upon the top of an eminence, called Caldon Hill, and close by the side of the road, is a large earth-fast mountain limestone stone, on which the Scottish King planted his standard at the above battle; and so highly is this stone valued by the Scottish people, that fragments of it are frequently cut off, and set in rings, brooches, &c, and worn as a memorial of one of the proudest days in the annals of Scotland. Randolph's Field, Ingram's Crook, and Gillie's Hill are close at hand.
+
+Text:
+
+The rivulet called "Bannockburn" here runs through, a glen, and after a few miles falls into the river Forth. The inhabitants are very industrious, and carry on a considerable trade in carpets, tartan, and woollen cloth in general. It was here that the celebrated battle was fought between Robert Bruce, King of Scotland, and Edward of England, on the 24th of July, 1314. Here James III. was defeated in 1488 by his own subjects. Upon the top of an eminence, called Caldon Hill, and close by the side of the road, is a large earth-fast mountain limestone stone, on which the Scottish King planted his standard at the above battle; and so highly is this stone valued by the Scottish people, that fragments of it are frequently cut off, and set in rings, brooches, &c, and worn as a memorial of one of the proudest days in the annals of Scotland. Randolph's Field, Ingram's Crook, and Gillie's Hill are close at hand.
+
+----
+
+Uuid: A7MSbUpqcyLyqpBM

@@ -1,28 +1,48 @@
-section: 2
+Title: Bristol
+
 ----
-title: Bristol
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 154,093.
-- term: Hotels
+-
+  term: Hotels
   desc: The Queen's Hotel; Clifton.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from the station.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday, Friday, and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 1st and September 1st
-- term: Bankers
+-
+  term: Bankers
   desc: Branch of the Bank of England; Baillie, Ames, and Co; Miles and Co.; Stuckey's Banking Co.; National Provincial Bank of England; West of England and South Wales District Banking Co.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-desc: Cathedral city, seaport, and parliamentary borough in Gloucestershire 118 miles from London.
+
+Desc: Cathedral city, seaport, and parliamentary borough in Gloucestershire 118 miles from London.
+
 ----
-text: The terminus of the railway is situated on an eminence rising from Temple Meads, where the two lines diverge respectively to London and Plymouth.
+
+Text:
+
+The terminus of the railway is situated on an eminence rising from Temple Meads, where the two lines diverge respectively to London and Plymouth.
 
 Bristol is a cathedral city, seaport, and parliamentary borough in Gloucestershire 118 miles from London, on the Great Western Railway, and the *Via Julia*, or Roman road, made by Julius Agricola, which crossed into Wales at Aust Ferry. The beautiful watering place of *Clifton* is on the west side. *Bedminster*, within the borough bounds, belongs to Somersetshire. Its port is artificially made by excavating floating docks, 3 miles long, out of the old bed of the Avon (for which a new course was made), about 8 miles from King's Road in the Bristol Channel, the tide rising 40 to 50 feet. Since the tolls were reduced in 1848, the registered tonnage has risen to 71,000, and the foreign trade doubled. Much West India and Irish produce finds way into the country through this port, The chief manufactures are engines, glass, hats, pottery, soap, brushes, &c., besides various smaller branches, and a trade in sugar, rum, &c. This place has, from the earliest times, been an important seaport, from whence old navigators used to start. One of the foremost was Sebastian Cabot, a native, who sailed hence in 1497 to discover Labrador. Kidrapping, also, for the American plantations used to be practised here, and it shared with Liverpool in the iniquities of the slave trade. In the present day it is noted for having sent the first steamer across the Atlantic, the Great Western (Capt. Hosken), which sailed on the 2nd May, 1838, and reached New York in 15 days. Two members. Coal and oolite are quarried.
 
@@ -58,3 +78,7 @@ Twelve or more bridges cross the Avon and the line of Docks--the cutting forming
 Within a short distance are *Leigh Court* and its picture gallery, the seat of P. Miles, Esq., *Stapleton* the seat of the Bishop of Gloucester and Bristol near the new diocesan college; Hannah More was born here in 1744, but her chief residence was at Barley Wood, under the Mendip Hill. At *Westbury*, "in some of the finest ground of that truly beautiful part of England," Southey was living about 1796 or 1797, writing *Madoc* and *Thalaba*, and cultivating his acquaintance with Davy, the chemist, "a miraculous young man." This was one of the "happiest portions" of his useful and contented literary life. The rail should be followed to Clevedon and Weston-super-Mare, to enjoy the fine coast scenery of tho Bristol Channe.
 
 (smcp: Clifton), a beautiful suburb of Bristol, from which it is about a mile distant, is chiefly built on the southern acclivity of a steep hill or cliff, which has given rise to its appellation. The highly romantic and picturesque country, in the midst of which it is situated, provides on every side the most varied and extensive prospects. On the opposite shore of the Avon, the richly cultivated lands of Somersetshire present themselves, rising gradually from the verge of the river to the summit of Dundry Hill. In some places the rocks, venerably majestic, rise perpendicularly, or overhanging precipices, craggy and bare, and in others they are crowned with verdure of the most luxuriant description. The walks and rides are varied and interesting, the air is dry and bracing, and the vicinity of two such animated places as Bristol and Bath, give the resident at any time the opportunity of rapidly exchanging his solitude for society. The "Hot Wells," where "pale-eyed suppliants chink, and soon flies pain," are beautifully situated beneath the rocks looking on the river, along the banks of which a fine carriage-road leads from the well round the rocks to Clifton Down, but a readier and more picturesque mode of access is furnished by an easy serpentine path winding up among the cliffs behind the Hot Wells. Pieces of the rock, when broken, have much the appearance of a dark red marble, and when struck by a substance of corresponding hardness, emit a strong sulphurous smell. In the fissures of these rocks are found those fine crystals, usually called Bristol diamonds, which are so hard as to cut glass and sustain the action of fire. The spring has been known for many centuries, but it was not till 1690 that it was enclosed by the corporation of Bristol. There is now a neat pump-room with hot and cold baths. The temperature of the spring, which yields forty gallons a minute, is 76° Fahrenheit. As at Bath and Buxton, the predominating constituents are the salts of lime. When drawn into a glass the water emits a few bubbles of carbonic acid gas, and for various conditions of deranged health it is found to be a potent restorative. The range of buildings called York Crescent, affords an agreeable southern aspect, but the elevated situation leaves the houses much exposed to high winds. The Mall, the Parade, and Cornwallis Crescent furnish excellent accommodation to visitors, and, according to their respective differences of position, yield a sheltered winter or an open airy summer residence. The most prevalent winds are those from the west and south-east. Rain frequently falls, but from the absorbent nature of the soil, the ground quickly dries. The Giant's Cave is contained within the upper beds of the limestone in St. Vincent's Rocks. The cavern opens on the precipitous escarpment of the rock, at the height of about 250 feet above the river, and sixty feet below or to the west of the Observatory. A rude and broken ledge extends from the north-eastern summit of the rock downwards to within twenty feet of the opening, across which space none but an expert cragsman would venture to pass. The environs of Clifton are replete with scenery of the most enchanting description.
+
+----
+
+Uuid: hCUGRFh8BLOtZqUR

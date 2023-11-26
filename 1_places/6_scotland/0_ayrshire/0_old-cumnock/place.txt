@@ -1,19 +1,39 @@
-section: 3
+Title: Old Cumnock
+
 ----
-title: Old Cumnock
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,721.
-- term: Hotel
+-
+  term: Hotel
   desc: Black Bull.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: February, Thursday after Candlemas, *o.s.*; Thursday after 6th March; Wednesday after 7th June; Wednesday after 13th July; Wednesday after 7th October.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station. 2 miles.
 - Telegraph station at Auchinleck, 2 miles.
+
 ----
-text: In the vicinity are *Dumfries House*, *Ochiltree*, *Logan House*, and *Terrenzean Castle*, a fine ruin. At Borland, the pretty scat of the Hamiltons, are the ruins of a chapel. Plane-tree snuff-boxes are made here.
+
+Text:
+
+In the vicinity are *Dumfries House*, *Ochiltree*, *Logan House*, and *Terrenzean Castle*, a fine ruin. At Borland, the pretty scat of the Hamiltons, are the ruins of a chapel. Plane-tree snuff-boxes are made here.
+
+----
+
+Uuid: KiWQBPSGhWlCilnm

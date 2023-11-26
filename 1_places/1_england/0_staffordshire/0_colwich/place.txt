@@ -1,20 +1,40 @@
-section: 3
+Title: Colwich
+
 ----
-title: Colwich
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Railway.
-- term: Fair
+-
+  term: Fair
   desc: Wednesday before Mid-Lent Sunday.
-- term: Mails
+-
+  term: Mails
   desc: One arrival and departure, daily, between London and Colwich.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Stafford.
+
 ----
-notes:
-- Telegraph station at Rugeley, 3 miles.
+
+Notes: Telegraph station at Rugeley, 3 miles.
+
 ----
-desc: Colwich is a pretty village, with a population of about 1,600.
+
+Desc: Colwich is a pretty village, with a population of about 1,600.
+
 ----
-text: (smcp: Colwich) is a pretty village, with a population of about 1,600. The station is situated near the church, and adjoining a beautifully wooded estate belonging to the Earl of Lichfield, at whose seat the celebrated Lord Anson, circumnavigator of the globe, was born. He was also buried here, in close contiguity to the splendid residence of his descendants.
+
+Text:
+
+(smcp: Colwich) is a pretty village, with a population of about 1,600. The station is situated near the church, and adjoining a beautifully wooded estate belonging to the Earl of Lichfield, at whose seat the celebrated Lord Anson, circumnavigator of the globe, was born. He was also buried here, in close contiguity to the splendid residence of his descendants.
+
+----
+
+Uuid: f6uv6bruYt2Ndewy

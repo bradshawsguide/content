@@ -1,7 +1,19 @@
-section: 3
+Title: Burghead
+
 ----
-title: Burghead
+
+Section: 3
+
 ----
-subtitle: (Branch)
+
+Subtitle: (Branch)
+
 ----
-text: A small bathing place, at the entrance to the Moray Firth. Fishing forms a considerable item in its commerce.
+
+Text:
+
+A small bathing place, at the entrance to the Moray Firth. Fishing forms a considerable item in its commerce.
+
+----
+
+Uuid: HJOtgwAvGnTuJzLj

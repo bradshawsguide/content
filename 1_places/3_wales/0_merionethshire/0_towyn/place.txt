@@ -1,7 +1,19 @@
-section: 2
+Title: Towyn
+
 ----
-title: Towyn
+
+Section: 2
+
 ----
-subtitle: Tywyn
+
+Subtitle: Tywyn
+
 ----
-text: A thoroughly Welsh town, and a most rural watering place. St. Cadfau's Church will delight an antiquarian.
+
+Text:
+
+A thoroughly Welsh town, and a most rural watering place. St. Cadfau's Church will delight an antiquarian.
+
+----
+
+Uuid: QlqmAEsNSGHUu9no

@@ -1,3 +1,11 @@
-title: Perthshire
+Title: Perthshire
+
 ----
-text: The highlands occupy about two-thirds of the surface of this county, which returns one member; the lowlands are situated on the eastern and southern extremities, which contain some of the richest tracts in Great Britain; and to the west, where the Grampians first rise, for almost the whole breadth of the country, the high grounds are penetrated by straths and glens of considerable extent, each traversed by its own streams, and diversified by numerous lakes. Several of the mountains in this district are upwards of three thousand feet high, the highest being Ben Lawers, on the west side of Loch Tay, Benmore, on the south-west, and Schehallion, on the north-east. The most considerable lakes are Loch Tay, in the centre of the Highland district, about fifteen miles long and one broad, with a depth varying from fifteen to a hundred fathoms; Loch Ericht on the north-west, extending into Invernessshire, is still longer, but not so broad; Loch Rannoch, south-east of the former, twelve miles long; Loch Earn, south from Loch Tay; and Lochs Vennachar, Achray, and Katrine, on the south-west.
+
+Text:
+
+The highlands occupy about two-thirds of the surface of this county, which returns one member; the lowlands are situated on the eastern and southern extremities, which contain some of the richest tracts in Great Britain; and to the west, where the Grampians first rise, for almost the whole breadth of the country, the high grounds are penetrated by straths and glens of considerable extent, each traversed by its own streams, and diversified by numerous lakes. Several of the mountains in this district are upwards of three thousand feet high, the highest being Ben Lawers, on the west side of Loch Tay, Benmore, on the south-west, and Schehallion, on the north-east. The most considerable lakes are Loch Tay, in the centre of the Highland district, about fifteen miles long and one broad, with a depth varying from fifteen to a hundred fathoms; Loch Ericht on the north-west, extending into Invernessshire, is still longer, but not so broad; Loch Rannoch, south-east of the former, twelve miles long; Loch Earn, south from Loch Tay; and Lochs Vennachar, Achray, and Katrine, on the south-west.
+
+----
+
+Uuid: NqjVdePhohue6lOn

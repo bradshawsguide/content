@@ -1,16 +1,31 @@
-section: 1
+Title: Gray's Thurrocks
+
 ----
-title: Gray's Thurrocks
+
+Section: 1
+
 ----
-subtitle: Grays
+
+Subtitle: Grays
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,209.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fair
+-
+  term: Fair
   desc: May 23rd.
+
 ----
-notes:
-- Telegraph station at Tilbury, 2½ miles.
+
+Notes: Telegraph station at Tilbury, 2½ miles.
+
+----
+
+Uuid: H2fbOGgSnfxRnCK6

@@ -1,8 +1,19 @@
-section: 3
+Title: Scotswood
+
 ----
-title: Scotswood
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Blaydon, 1 mile.
+
+Notes: Telegraph station at Blaydon, 1 mile.
+
 ----
-text: Here are Ramsay’s extensive paper mills, well worth a visit A fine skew bridge crosses the road, and a branch line to Gateshead.
+
+Text:
+
+Here are Ramsay’s extensive paper mills, well worth a visit A fine skew bridge crosses the road, and a branch line to Gateshead.
+
+----
+
+Uuid: uX3JNPE86zauaDsi

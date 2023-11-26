@@ -1,18 +1,37 @@
-section: 1
+Title: Havant
+
 ----
-title: Havant
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Bear.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: June 22nd and October 17th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: In this vicinity is *Belmont Castle*, *Woodlands*, *Stanstead House*, and *Leigh Park*; *Hayling Island* is adjacent likewise, of some importance as a watering place.
+
+Desc: In this vicinity is *Belmont Castle*, *Woodlands*, *Stanstead House*, and *Leigh Park*; *Hayling Island* is adjacent likewise, of some importance as a watering place.
+
 ----
-text: In this vicinity is *Belmont Castle*, *Woodlands*, *Stanstead House*, formerly the seat of the Earl of Halifax, and *Leigh Park*, Sir G, Staunton; *Hayling Island* is adjacent likewise, of some importance as a watering place. The island itself is a flat pasture tract, possessing no peculiar feature or beauty.
+
+Text:
+
+In this vicinity is *Belmont Castle*, *Woodlands*, *Stanstead House*, formerly the seat of the Earl of Halifax, and *Leigh Park*, Sir G, Staunton; *Hayling Island* is adjacent likewise, of some importance as a watering place. The island itself is a flat pasture tract, possessing no peculiar feature or beauty.
+
+----
+
+Uuid: s3ap9n2muuue52U1

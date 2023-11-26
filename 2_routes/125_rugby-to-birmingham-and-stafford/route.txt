@@ -1,10 +1,17 @@
-section: 3
+Title: Rugby to Birmingham and Stafford
+
 ----
-title: Rugby to Birmingham and Stafford
+
+Section: 3
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - rugby
 - brandon
 - coventry
@@ -26,8 +33,12 @@ stops:
 - wednesfield-heath
 - bushbury
 - wolverhampton
+
 ----
-text: Upon leaving the station the line proceeds along an embankment which affords a very pleasing prospect of the valley on the right, in which the Swift and several other small rivers unite their waters to form the Avon. Newbold-upon-Avon appears prettily situated on the opposite side of the valley, and across the fields on the left is *Bilton*, where Addison spent the evening of his life.
+
+Text:
+
+Upon leaving the station the line proceeds along an embankment which affords a very pleasing prospect of the valley on the right, in which the Swift and several other small rivers unite their waters to form the Avon. Newbold-upon-Avon appears prettily situated on the opposite side of the valley, and across the fields on the left is *Bilton*, where Addison spent the evening of his life.
 
 Five miles from Rugby the line reaches the [Brandon](/stations/brandon) embankment which is two miles in length, and affords some beautiful prospects.
 
@@ -90,3 +101,7 @@ On leaving Perry Bar and its handsome church, which is worth a visit, we pass th
 We now pass in quick succession the stations of [Portobello](/stations/portobello) and [Wednesfield Heath](/stations/wednesfield-heath) to [Bushbury](/stations/bushbury), here making a slight detour into the town of
 
 (place: england/staffordshire/wolverhampton)
+
+----
+
+Uuid: JdNrQt5WE0eYqPlr

@@ -1,27 +1,45 @@
-section: 3
+Title: Aylesbury
+
 ----
-title: Aylesbury
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 26,090.
-- term: Hotels
+-
+  term: Hotels
   desc: George, White Hart
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from Prince's Risboro', daily.
-- term: Coaches
+-
+  term: Coaches
   desc: to Thame, daily.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: January 18th, May 8th, June 14th, October 11th, on which occasion the farmers hire all their servants from year to year, September 25th, and Saturday before Palm Sunday.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: The town of Aylesbury is delightfully situated in a fertile vale, which affords pasturage to an extraordinary number of sheep.
+
+Desc: The town of Aylesbury is delightfully situated in a fertile vale, which affords pasturage to an extraordinary number of sheep.
+
 ----
-text: The town of Aylesbury, for the accommodation of which this line was formed, is nine miles west of the main line, delightfully situated in a fertile vale, which affords pasturage to an extraordinary number of sheep. It derives its importance chiefly from its being the mart for the produce of the rich vale in which it is situate.
+
+Text:
+
+The town of Aylesbury, for the accommodation of which this line was formed, is nine miles west of the main line, delightfully situated in a fertile vale, which affords pasturage to an extraordinary number of sheep. It derives its importance chiefly from its being the mart for the produce of the rich vale in which it is situate.
 
 It is an agricultural town and borough (returning two members), in Bucks. It stands on a low hill in the rich vale of Aylesbury, a loose tract of luxuriant grass land, in the centre of the county, worth £25 an acre. Chalk Hills bound it to the north and south. Drayton describes it as "Lusty, firm, and fat."
 
@@ -34,3 +52,7 @@ The church (in a large churchyard) is a decorated English cross, with a low towe
 Lace and straw plait are made here; but another *manufacture* peculiar to the town is ducklings, which are forced for the Christmas market. The ducks are kept from laying till about October or November, when they are fed with abundance of stimulating; food, and hens employed to sit on the eggs. The young brood being hatched are nursed with great care, opposite a fire, and fetch 15s. or 20s. a couple at Christmas. As many as three quarters of a million ducks are sent to London from this part.
 
 Within a few miles are several seats. *Hartwell*, that of Dr. Lee, was, in the late war, the residence of Louis XYIII. and his family. *Wooton*, belonging to the Duke of Buckingham, has been in that family (the Grenville) since the Conquest. Weedon is the Duke of Marlborough's. *Lillies* was the seat of the late Lord Nugent (a Grenville). Further off, on the Banbury Road, is *Wootton Underwood* consecrated to the memory of Cowper, who lived here with his cousin, Lady Hesketh, near the Throckmorton's old seat. The poet's house is standing. It was while living here, at the close of his life, that he. produced his Homer (1791).
+
+----
+
+Uuid: WFTqUfBiB5DxROy6

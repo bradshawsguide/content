@@ -1,10 +1,23 @@
-section: 1
+Title: Charlton
+
 ----
-title: Charlton
+
+Section: 1
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Charlton is a small village, most pleasantly situated, and remarkable for the numerous picturesque villas and residences it contains.
+
+Desc: Charlton is a small village, most pleasantly situated, and remarkable for the numerous picturesque villas and residences it contains.
+
 ----
-text: Charlton is a small village, most pleasantly situated, and remarkable for the numerous picturesque villas and residences it contains. From its being in the vicinity of Woolwich, and its charming neighbourhood, it is much frequented whenever a review or other military spectacle attracts visitors from town.
+
+Text:
+
+Charlton is a small village, most pleasantly situated, and remarkable for the numerous picturesque villas and residences it contains. From its being in the vicinity of Woolwich, and its charming neighbourhood, it is much frequented whenever a review or other military spectacle attracts visitors from town.
+
+----
+
+Uuid: h3r8jnuIC0vzWqs7

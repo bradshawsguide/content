@@ -1,14 +1,29 @@
-section: 3
+Title: Hexham
+
 ----
-title: Hexham
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: White Hart.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a picturesque old place, containing a population of 4,655. employed chiefly hi the leather, shoe, glove, stuff, hat, and woollen manufactories. It was formerly a Bishop's sec. Here are a good grammar school, almshouses, town hall, suspension bridge over the Tyne, by Brown, five chapels, St. Andrew's Church, built on the site of 8t. Wilifrid's, with a tower, 100 feet high. There is a ruined nave, burnt in 1296, by the Scots, with pictures of the founder, St. John of Beverley and Acca, effigies of Umfraville, of Prudhoe, an oratory, three stalls and screen. Part of the gateway, and two cloisters, remain, and a frid-stool, where criminals found sanctuary. King David pillaged the place in 1346. Here Somerset was defeated by Neville; Queen Margaret concealed in a cave by the robber, and in 1761, 48 miners were lulled, and 300 wounded, at a militia drawing, and Roman inscriptions have been discovered. John of Hexham, Bate, Hewson, and Richardson, were natives. In the vicinity are *Hexham Priory*, seat of Mrs. Beaumont. *Beaufront*, TV. Cuthbert, Esq.
+
+Text:
+
+This is a picturesque old place, containing a population of 4,655. employed chiefly hi the leather, shoe, glove, stuff, hat, and woollen manufactories. It was formerly a Bishop's sec. Here are a good grammar school, almshouses, town hall, suspension bridge over the Tyne, by Brown, five chapels, St. Andrew's Church, built on the site of 8t. Wilifrid's, with a tower, 100 feet high. There is a ruined nave, burnt in 1296, by the Scots, with pictures of the founder, St. John of Beverley and Acca, effigies of Umfraville, of Prudhoe, an oratory, three stalls and screen. Part of the gateway, and two cloisters, remain, and a frid-stool, where criminals found sanctuary. King David pillaged the place in 1346. Here Somerset was defeated by Neville; Queen Margaret concealed in a cave by the robber, and in 1761, 48 miners were lulled, and 300 wounded, at a militia drawing, and Roman inscriptions have been discovered. John of Hexham, Bate, Hewson, and Richardson, were natives. In the vicinity are *Hexham Priory*, seat of Mrs. Beaumont. *Beaufront*, TV. Cuthbert, Esq.
 
 At this place the Border Counties Section of the North British Railway turns off to the right. It runs through the Valley of the North Tyne, a district rich in mineral productions, a description of which will be found in Section IV.
+
+----
+
+Uuid: lWHSlRIhWm5Qr10Z

@@ -1,29 +1,48 @@
-section: 3
+Title: Warwick
+
 ----
-title: Warwick
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 10,570.
-- term: Hotels
+-
+  term: Hotels
   desc: Warwick Anns, Mrs. Lake, family hotel and posting house. Woolpack, John Court, family and commercial, very good.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: 3rd Monday in January, 2nd Monday in February, Monday before April 5th, 1st Saturday in Lent, 1st, Monday in June, 2nd Monday in August, Monday before St. Thomas, May 12th, July 5th, September 4th, October 12th, November 8th, and December 21st.
-- term: Mails
+-
+  term: Mails
   desc: Two arrivals and departures, daily, between London and Warwick.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: ""
-- term: Bankers
+-
+  term: Bankers
   desc: Messrs. Greenway and Greaves; Leamington-Priors and Warwickshire Company; Warwick and Leamington Banking Company.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: A dull town, in the county of Warwick.
+
+Desc: A dull town, in the county of Warwick.
+
 ----
-text: (smcp: Warwick) is a dull town, in the county of Warwick.
+
+Text:
+
+(smcp: Warwick) is a dull town, in the county of Warwick.
 
 The Castle is one of the finest specimens in the kingdom of the ancient residences of our feudal ancestors. Its appearance, overhanging the Avon, and surrounded by majestic masses of trees, is extremely picturesque, and the views from its lofty turrets are magnificent.
 
@@ -34,3 +53,7 @@ From Guy's Tower the views are exceedingly fine. On the north side lies the town
 The castellated remains of old England are all of them "beautiful for situation;" but few comprise so many objects of natural and historic interest as Warwick Castle. Standing at the windows of the great hall, the prospect which meets the eye is most delightful.
 
 The spacious and elegant conservatory contains the famous Warwick Vase, which was dug up from the ruins of the Emperor Adrian's Villa at Tivoli. It is considered one of the most entire, and to a certain extent, one of the most beautiful specimens of ancient sculpture which this country possesses. The material of which it is made is white marble. Its form is nearly spherical, with a deep reverted rim. Two interlacing vines, whose stems twine into and constitute the handles, wreath their tendrils with fruit and foliage round the upper part. The centre is composed of antique heads which stand forward-in grand-relief. A panther's skin, with the thyrsus of Bacchus (a favourite antique ornament), and other embellishments complete the composition. The size of this vase is immense, and it is capable of containing a hundred and sixty-three gallons.
+
+----
+
+Uuid: VcW4YpEKLIjopsuq

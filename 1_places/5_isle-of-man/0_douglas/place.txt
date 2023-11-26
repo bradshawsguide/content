@@ -1,17 +1,29 @@
-section: 3
+Title: Douglas
+
 ----
-title: Douglas
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Castle Mona; Fort Anne; Royal; Imperial.
-- term: Steam Packets
+-
+  term: Steam Packets
   desc: to and from Liverpool, Silloth, Whitehaven, and Dublin. See <cite>Bradshaw's Railway Guide</cite>.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A pleasant bathing and fishing port, in front of a fine bay which it has been proposed to convert into a harbour of refuge. The best view is from the Castle Mona Hotel (*Mona* is the Manx name for man), which was the seat of the Duke of Atholl, whose rights over the island (through the Stanleys) were finally purchased by government in 1829 for nearly half a million. Prior to this, its chief prosperity arose out of the smuggling business. There is a landing pier 530 feet long, also 4 churches and 6 chapels in some of which the service is performed in Manx; news rooms, &c. One of the best buildings is the Court House. The Duf-glas or Blackwater runs through the town to the bay from the mountains behind.
+
+Text:
+
+A pleasant bathing and fishing port, in front of a fine bay which it has been proposed to convert into a harbour of refuge. The best view is from the Castle Mona Hotel (*Mona* is the Manx name for man), which was the seat of the Duke of Atholl, whose rights over the island (through the Stanleys) were finally purchased by government in 1829 for nearly half a million. Prior to this, its chief prosperity arose out of the smuggling business. There is a landing pier 530 feet long, also 4 churches and 6 chapels in some of which the service is performed in Manx; news rooms, &c. One of the best buildings is the Court House. The Duf-glas or Blackwater runs through the town to the bay from the mountains behind.
 
 From Douglas the distances are as follows:–
 
@@ -19,8 +31,11 @@ From Douglas the distances are as follows:–
 (distances: distances2 title: Second Route)
 (distances: distances3 title: Third Route)
 (distances: distances4 title: Fourth Route)
+
 ----
-distances:
+
+Distances:
+
 - location: Douglas to Kirk Onchan
   miles: 3
 - location: Douglas to Laxey
@@ -33,8 +48,11 @@ distances:
   miles: 17
 - location: Douglas to Ayre Point
   miles: 27
+
 ----
-distances2:
+
+Distances2:
+
 - location: Ramsey to Sulby
   miles: 4
 - location: Ramsey to Kirk Ballaugh
@@ -53,8 +71,11 @@ distances2:
   miles: 32
 - location: Ramsey to Castletown
   miles: 35
+
 ----
-distances3:
+
+Distances3:
+
 - location: Douglas to Nunnery
   miles: 1
 - location: Douglas to Kirk Marown
@@ -63,8 +84,11 @@ distances3:
   miles: 9
 - location: Douglas to Peel
   miles: 13
+
 ----
-distances4:
+
+Distances4:
+
 - location: Douglas to Kirk Stanton
   miles: 6
 - location: Douglas to Ballasalla
@@ -75,3 +99,7 @@ distances4:
   miles: 16
 - location: Douglas to Calf of Man
   miles: 21
+
+----
+
+Uuid: 8VV1zVzWjDauqkLS

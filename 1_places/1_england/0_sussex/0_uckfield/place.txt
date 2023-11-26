@@ -1,12 +1,27 @@
-section: 1
+Title: Uckfield
+
 ----
-title: Uckfield
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Maidenhead; Bell.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Besides its two chalybeate springs in the neighbourhood it has no particular attractions.
+
+Text:
+
+Besides its two chalybeate springs in the neighbourhood it has no particular attractions.
+
+----
+
+Uuid: BdcoyiWyN0wFGyDH

@@ -1,8 +1,19 @@
-﻿section: 1
+Title: Bishopstoke
+
 ----
-title: Bishopstoke
+
+Section: 1
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: The little village that gives name to the station is most pleasantly situated, but contains no object worthy of remark.
+
+Text:
+
+The little village that gives name to the station is most pleasantly situated, but contains no object worthy of remark.
+
+----
+
+Uuid: xZ76wWSUZ3Ukq8Gm

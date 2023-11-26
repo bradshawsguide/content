@@ -1,12 +1,27 @@
-section: 1
+Title: Angmering
+
 ----
-title: Angmering
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Arundel.
+
 ----
-notes:
-- Telegraph station at Ford, 4 miles.
+
+Notes: Telegraph station at Ford, 4 miles.
+
 ----
-text: A short distance to the north is *Angmering Park* and *Michel Grove*.
+
+Text:
+
+A short distance to the north is *Angmering Park* and *Michel Grove*.
+
+----
+
+Uuid: 1vurrdcQB77GXK68

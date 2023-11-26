@@ -1,3 +1,11 @@
-title: Linlithgowshire
+Title: Linlithgowshire
+
 ----
-text: This county, which returns one member, does not possess that romantic scenery for which the Scottish mountains are so justly celebrated, but in many parts the estates are laid out with plantations formed in the very best taste, and in such a manner as to improve and shelter all the richer portions of the soil, and exhibit in its most beautiful aspects the face of the country. In the neighbourhood of Queensferry, by the sudden approximation of opposite promontories, the Forth is forced into a narrow strait, which on each side suddenly expands into an extensive bay, with richly ornamented banks. In every quarter, along the shores of the county, the Forth assumes a singular variety of aspects; hills, promontories, winding bays, lofty shores, and cultivated fields, bordering a fine sheet of water, a noble river, or a broad sea, according to the points of view in which it is seen.
+
+Text:
+
+This county, which returns one member, does not possess that romantic scenery for which the Scottish mountains are so justly celebrated, but in many parts the estates are laid out with plantations formed in the very best taste, and in such a manner as to improve and shelter all the richer portions of the soil, and exhibit in its most beautiful aspects the face of the country. In the neighbourhood of Queensferry, by the sudden approximation of opposite promontories, the Forth is forced into a narrow strait, which on each side suddenly expands into an extensive bay, with richly ornamented banks. In every quarter, along the shores of the county, the Forth assumes a singular variety of aspects; hills, promontories, winding bays, lofty shores, and cultivated fields, bordering a fine sheet of water, a noble river, or a broad sea, according to the points of view in which it is seen.
+
+----
+
+Uuid: ZeqSCozpelYvwVat

@@ -1,23 +1,47 @@
-section: 2
+Title: Bilston
+
 ----
-title: Bilston
+
+Section: 2
+
 ----
-station: bilston-central
+
+Station: bilston-central
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 24,364.
-- term: Hotel
+-
+  term: Hotel
   desc: King's Arms.
-- term: Market Days
+-
+  term: Market Days
   desc: Monday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Whit Monday, and Monday before Christmas.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-desc: This place forms a great centre of the iron trade, and has become one of growing importance.
+
+Desc: This place forms a great centre of the iron trade, and has become one of growing importance.
+
 ----
-text: This place forms a great centre of the iron trade, and has become one of growing importance. The people are engaged in the manufacture of almost everything useful in iron and steel wares, and the districts around are rich in the products of iron coal, quarry-stone, &c., &c.
+
+Text:
+
+This place forms a great centre of the iron trade, and has become one of growing importance. The people are engaged in the manufacture of almost everything useful in iron and steel wares, and the districts around are rich in the products of iron coal, quarry-stone, &c., &c.
+
+----
+
+Uuid: CbYov7JMkdY9HdxK

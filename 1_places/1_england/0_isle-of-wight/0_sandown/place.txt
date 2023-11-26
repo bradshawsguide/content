@@ -1,19 +1,31 @@
-section: 1
+Title: Sandown
+
 ----
-title: Sandown
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Star and Garter (Hale's).
-- term: Coaches
+-
+  term: Coaches
   desc: to and from Ryde and Newport, daily.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Shanklin.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-distances:
+
+Distances:
+
 - location: Adgeton
   miles: "1"
 - location: Brading
@@ -28,9 +40,19 @@ distances:
   miles: "1"
 - location: Sandown Lake
   miles: "1"
+
 ----
-desc: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
+
+Desc: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
+
 ----
-text: Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
+
+Text:
+
+Sandown, a bathing place, with a fine sweep of sandy beach, and an old fort.
 
 (distances: title: Distances of Places from Sandown)
+
+----
+
+Uuid: yjDjfrUW3gKXhoqv

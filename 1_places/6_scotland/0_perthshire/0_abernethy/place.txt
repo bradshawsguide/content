@@ -1,8 +1,19 @@
-section: 3
+Title: Abernethy
+
 ----
-title: Abernethy
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Perth, 8½ miles.
+
+Notes: Telegraph station at Perth, 8½ miles.
+
 ----
-text: Near Ore, a round tower close to the church, 72 feet high, and 8 in diameter, in a good state of preservation. Pictish remains on Castle Law and Aberinthi, where King Malcolm met the conqueror in 1072.
+
+Text:
+
+Near Ore, a round tower close to the church, 72 feet high, and 8 in diameter, in a good state of preservation. Pictish remains on Castle Law and Aberinthi, where King Malcolm met the conqueror in 1072.
+
+----
+
+Uuid: ZVaBAXI0gyS6DS7B

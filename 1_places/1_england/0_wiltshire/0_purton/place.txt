@@ -1,11 +1,24 @@
-section: 2
+Title: Purton
+
 ----
-title: Purton
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,038.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 2 miles.
 - Telegraph station at Minety, 6 miles.
+
+----
+
+Uuid: wJqlJ5QSaNddWiV0

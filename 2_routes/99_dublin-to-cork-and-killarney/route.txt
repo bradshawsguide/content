@@ -1,12 +1,21 @@
-section: 2
+Title: Dublin to Cork and Killarney
+
 ----
-title: Dublin to Cork and Killarney
+
+Section: 2
+
 ----
-title_short: Dublin to Cork
+
+Title-short: Dublin to Cork
+
 ----
-company: companies/great-southern-and-western
+
+Company: companies/great-southern-and-western
+
 ----
-stops:
+
+Stops:
+
 - dublin
 - newbridge-kildare
 - [kildare-junction, athy, mageney, carlow, milford-carlow, bagnalstown, [gowran, borris, ballywilliam], kilkenny, bennetts-bridge, thomastown, ballyhale, mullinavat, kilmacow, waterford]
@@ -25,12 +34,19 @@ stops:
 - buttevant
 - mallow
 - cork
+
 ----
-links:
+
+Links:
+
 - (wikipedia: Dublin–Cork_railway_line)
 - (wikipedia: Waterford_and_Kilkenny_Railway)
+
 ----
-text: (place: ireland/county-kildare/newbridge)
+
+Text:
+
+(place: ireland/county-kildare/newbridge)
 
 The next station arrived at is Kildare, the junction of the lines to Carlow and Kilkenny.
 
@@ -121,3 +137,7 @@ Returning once more to Charleville, we take the direct southerly direction to
 (place: ireland/county-cork/mallow)
 
 (place: ireland/county-cork/cork)
+
+----
+
+Uuid: owrJ5pPkz57Sbl05

@@ -1,6 +1,13 @@
-section: 3
+Title: Maryport and Carlisle
+
 ----
-title: Maryport and Carlisle
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Maryport_and_Carlisle_Railway)
+
+Links: - (wikipedia: Maryport_and_Carlisle_Railway)
+
+----
+
+Uuid: 31PcJqtE7yyeLyUY

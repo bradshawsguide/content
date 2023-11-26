@@ -1,5 +1,15 @@
-section: 3
+Title: Lockmaben
+
 ----
-title: Lockmaben
+
+Section: 3
+
 ----
-text: A telegraph station, and place at which the tourist, would do well to make, a temporary sojourn. It is poetically called the "Queen of the Lochs," from its situation amid so many sheets of water.
+
+Text:
+
+A telegraph station, and place at which the tourist, would do well to make, a temporary sojourn. It is poetically called the "Queen of the Lochs," from its situation amid so many sheets of water.
+
+----
+
+Uuid: s80OAGGBk6DkHxpF

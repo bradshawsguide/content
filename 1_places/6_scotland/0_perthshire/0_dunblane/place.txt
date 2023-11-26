@@ -1,16 +1,33 @@
-section: 3
+Title: Dunblane
+
 ----
-title: Dunblane
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Burden's.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: 1st Wednesday in March, *o.s.*; Tuesday after May 26th; August 10th, *o.s.*
+
 ----
-notes:
-- Telegraph station at Bridge of Allan, 2 miles.
+
+Notes: Telegraph station at Bridge of Allan, 2 miles.
+
 ----
-text: This city, though it has only a village population is well worth visiting. The Cathedral is much admired, and in good preservation. It has a mineral spring, to which many visitors resort during the summer months. Tannahill's beautiful song of "Jessie, the flower of Dunblane," has given it popularity. The Allan runs through the village. A beautiful foot road by the river side runs between Dunblane and Bridge of Allan.
+
+Text:
+
+This city, though it has only a village population is well worth visiting. The Cathedral is much admired, and in good preservation. It has a mineral spring, to which many visitors resort during the summer months. Tannahill's beautiful song of "Jessie, the flower of Dunblane," has given it popularity. The Allan runs through the village. A beautiful foot road by the river side runs between Dunblane and Bridge of Allan.
+
+----
+
+Uuid: 9vXVTbG9x7Txj3EC

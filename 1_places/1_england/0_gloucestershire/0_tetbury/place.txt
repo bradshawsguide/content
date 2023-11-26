@@ -1,21 +1,43 @@
-section: 2
+Title: Tetbury
+
 ----
-title: Tetbury
+
+Section: 2
+
 ----
-station: tetbury-road
+
+Station: tetbury-road
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Talbot; White Hart.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Ash Wednesday, Wednesday before and after April 5th, July 22nd.
-- term: Bankers
+-
+  term: Bankers
   desc: County of Gloucester Bank.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 7 miles.
 - A telegraph station.
+
 ----
-text: Population of the parish, 3,274; the station itself is near to the little village of Kemble.
+
+Text:
+
+Population of the parish, 3,274; the station itself is near to the little village of Kemble.
+
+----
+
+Uuid: Drkfv6Oe7tviTxeB

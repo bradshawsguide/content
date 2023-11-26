@@ -1,16 +1,33 @@
-section: 2
+Title: St. Clears
+
 ----
-title: St. Clears
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Railway, and Swan.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 4th, June 1st, Oct. 12th.
+
 ----
-notes:
-- Telegraph station at Carmarthen.
+
+Notes: Telegraph station at Carmarthen.
+
 ----
-text: This is a mere nominal borough and market town, with a population of 1,129, engaged in the coasting and provision trade. There are the remains of a Norman castle and priory, given to All Soul's College, Oxford.
+
+Text:
+
+This is a mere nominal borough and market town, with a population of 1,129, engaged in the coasting and provision trade. There are the remains of a Norman castle and priory, given to All Soul's College, Oxford.
+
+----
+
+Uuid: blT38s63vtQL3KCL

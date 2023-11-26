@@ -1,14 +1,30 @@
-section: 3
+Title: Leven
+
 ----
-title: Leven
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Crawford's; Star.
-- term: Fairs
+-
+  term: Fairs
   desc: 2nd Wednesday in April, *o.s.*: 1st Wednesday in July; 3rd Wednesday in October.
+
 ----
-notes:
-- Telegraph station at Thornton, 5¾ miles.
+
+Notes: Telegraph station at Thornton, 5¾ miles.
+
 ----
-text: Here is a suspension bridge, which joins it to *Dubbieside*, a small harbour, library, two chapels, school, and flax factories.
+
+Text:
+
+Here is a suspension bridge, which joins it to *Dubbieside*, a small harbour, library, two chapels, school, and flax factories.
+
+----
+
+Uuid: hOfRzVnZoLFmUwTn

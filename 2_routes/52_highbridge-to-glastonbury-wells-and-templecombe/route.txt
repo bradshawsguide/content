@@ -1,12 +1,21 @@
-section: 2
+Title: Highbridge to Glastonbury, Wells and Templecombe
+
 ----
-title: Highbridge to Glastonbury, Wells and Templecombe
+
+Section: 2
+
 ----
-title_short: Highbridge to Templecombe
+
+Title-short: Highbridge to Templecombe
+
 ----
-company: companies/somerset-and-dorset
+
+Company: companies/somerset-and-dorset
+
 ----
-stops:
+
+Stops:
+
 - highbridge
 - bason-bridge
 - edington
@@ -19,8 +28,12 @@ stops:
 - cole
 - wincanton
 - templecombe
+
 ----
-text: The line proceeds through a country equally characterised by its luxuriant verdure as that about Highbridge, and crossing the river Brue, we pass through a short cutting which shuts out the prospect; but on emerging from this, and entering on an embankment, we again have a panoramic view of Arcadian villages, waving woods, and winding hedge-rows.
+
+Text:
+
+The line proceeds through a country equally characterised by its luxuriant verdure as that about Highbridge, and crossing the river Brue, we pass through a short cutting which shuts out the prospect; but on emerging from this, and entering on an embankment, we again have a panoramic view of Arcadian villages, waving woods, and winding hedge-rows.
 
 The stations on this line are those of [Bason Bridge](/stations/bason-bridge), [Edington](/stations/edington) (a nice trip hence over the Panlet Ridge to Sedgemoor), [Shapwick](/stations/shapwick), [Ashcott](/stations/ashcott), stations of no particular note, and
 
@@ -32,3 +45,7 @@ The stations on this line are those of [Bason Bridge](/stations/bason-bridge), [
 We next, pass the stations of [West Peonaed][/stations/west-pennard], [Pylle](/stations/pylle), [Eyercreech](/stations/evercreech), and [Cole](/stations/cole), and stop at
 
 (place: england/somerset/wincanton)
+
+----
+
+Uuid: JDfnxk77Sz3ypJ2a

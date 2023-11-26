@@ -1,8 +1,19 @@
-section: 2
+Title: Gobowen Junction
+
 ----
-title: Gobowen Junction
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: At this place we cross Watt's Dyke one of the huge ramparts erected or raised by the Mercian Saxons as a defence against the Britons.
+
+Text:
+
+At this place we cross Watt's Dyke one of the huge ramparts erected or raised by the Mercian Saxons as a defence against the Britons.
+
+----
+
+Uuid: pzbn9YX0HylkbW2P

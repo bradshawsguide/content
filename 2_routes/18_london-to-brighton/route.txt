@@ -1,14 +1,25 @@
-section: 1
+Title: London Bridge to Brighton
+
 ----
-title: London Bridge to Brighton
+
+Section: 1
+
 ----
-title_short: London to Brighton
+
+Title-short: London to Brighton
+
 ----
-subtitle: London and Brighton Main Line
+
+Subtitle: London and Brighton Main Line
+
 ----
-company: companies/london-brighton-and-south-coast
+
+Company: companies/london-brighton-and-south-coast
+
 ----
-stops:
+
+Stops:
+
 - london-bridge
 - new-cross
 - forest-hill
@@ -26,13 +37,20 @@ stops:
 - burgess-hill
 - hassocks-gate
 - brighton
+
 ----
-links:
-- (wikipedia: Brighton_main_line)
+
+Links: - (wikipedia: Brighton_main_line)
+
 ----
-desc: This line runs through a succession of the most varied and diversified scenery, fraught with a host of welcome associations, before terminating at a sea-side town, which fashion in pursuit of pleasure has justly selected a marine residence.
+
+Desc: This line runs through a succession of the most varied and diversified scenery, fraught with a host of welcome associations, before terminating at a sea-side town, which fashion in pursuit of pleasure has justly selected a marine residence.
+
 ----
-text: ## London to Croydon
+
+Text:
+
+## London to Croydon
 The London terminus of the Brighton Railway, though approached by the same line as the South Eastern Railway, is a distinct building, occupying a considerable place to the south, at the right hand or furthest corner of the fabric, and embraces in its arrangements every thing calculated to promote the convenience of the passengers, and all that can contribute to their security. This company conveys the traffic of the counties of Surrey and Sussex, and also that with France, *via* Newhaven and Dieppe; also the passengers of the Sydenham Railway to and from the Crystal Palace.
 
 So entangled is the mighty maze of London with its suburbs that on emerging from the station it is some time before we entirely lose sight of its multi-farious characteristics; we seem, Asmodeus-like, to be fleeting over the habitations of a dense and crowded district. The first part of the line to New Cross is carried over arches, and continues so for some time, passing by a viaduct over market gardens, as far as the Greenwich Junction, and then turns oft towards New Cross, where the Company has a large depot for repairing locomotives. Immediately the line emerges from the streets and houses that obstruct the view, and the Crystal Palace at Sydenham, sparkling in the distance, appears in sight.
@@ -125,3 +143,7 @@ From the Hassock's Gate station, a graceful piece of Gothic architecture marks t
 On the left is Ditchling Beacon, 864 feet high, on the South Downs, stretching their giant bulk for miles to the eastward, where about a half a million of prime sheep are fed. The train thence passes Clayton and Patcham tunnels. On the right is Devil's Dyke, noted for its extensive view over the woodland in the Weald. As the train approaches the village of Preston, and the platform of the Brighton terminus, the guards collect the tickets, and the passenger has an opportunity of noting the two branch lines that diverge from Preston, one across the Preston viaduct [to Lewes](/routes/brighton-to-lewes), and the other through a deep cutting [towards Shoreham, Worthing, Chichester, and Portsmouth](/routes/brighton-to-worthing-chichester-and-portsmouth).
 
 (place: england/sussex/brighton)
+
+----
+
+Uuid: YPb2tK3vz4va6GbV

@@ -1,5 +1,15 @@
-section: 3
+Title: Anstruther
+
 ----
-title: Anstruther
+
+Section: 3
+
 ----
-text: A seaport town, in the district of St. Andrews, and from whence there is daily steam communication with Edinburgh.
+
+Text:
+
+A seaport town, in the district of St. Andrews, and from whence there is daily steam communication with Edinburgh.
+
+----
+
+Uuid: QbaA9jdZNsUaWtSr

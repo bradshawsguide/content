@@ -1,5 +1,15 @@
-section: 3
+Title: Blantyre
+
 ----
-title: Blantyre
+
+Section: 3
+
 ----
-text: In his visit, tho stranger must not omit to see *Blantyve Priory*, Bothwell Bridge, where the Covenanters were defeated in 1679, by the Duke of Monmouth, and Chatelerault, a summer chateau of the Duke of Hamilton.
+
+Text:
+
+In his visit, tho stranger must not omit to see *Blantyve Priory*, Bothwell Bridge, where the Covenanters were defeated in 1679, by the Duke of Monmouth, and Chatelerault, a summer chateau of the Duke of Hamilton.
+
+----
+
+Uuid: V8TQQRaVxDZL2Wav

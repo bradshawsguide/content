@@ -1,15 +1,31 @@
-section: 2
+Title: Longhope
+
 ----
-title: Longhope
+
+Section: 2
+
 ----
-subtitle: (late Hopebrook)
+
+Subtitle: (late Hopebrook)
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Railway.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Newent.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - Telegraph station at Gloucester, 11½ miles.
+
+----
+
+Uuid: 79fTT4lEDZEC7RER

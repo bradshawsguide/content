@@ -1,3 +1,11 @@
-title: Ayrshire
+Title: Ayrshire
+
 ----
-text: This county extends along the shores of the Irish Sea for about 80 miles, with an extreme breadth of 30 miles. Its general appearance is much varied—hill and dale clothed with deep verdure and mingled with well cultivated fields, or embrowned with heath. It has abundant mines of coal; also freestone, limestone, iron, lead, and copper; and from the great abundance of sea-weed which is cast ashore, vast quantities of kelp is made. Ayrshire is called the "Land of Burns," who was born near the town of Ayr, and every yard we come to is consecrated to that poet's memory. Innumerable pilgrims from all lands visit these scenes, and the place of the poet's residence, to gaze on what has been charmed and sanctified by his genius, or merely have the satisfaction of standing beneath the roof where Burns first saw the light.
+
+Text:
+
+This county extends along the shores of the Irish Sea for about 80 miles, with an extreme breadth of 30 miles. Its general appearance is much varied—hill and dale clothed with deep verdure and mingled with well cultivated fields, or embrowned with heath. It has abundant mines of coal; also freestone, limestone, iron, lead, and copper; and from the great abundance of sea-weed which is cast ashore, vast quantities of kelp is made. Ayrshire is called the "Land of Burns," who was born near the town of Ayr, and every yard we come to is consecrated to that poet's memory. Innumerable pilgrims from all lands visit these scenes, and the place of the poet's residence, to gaze on what has been charmed and sanctified by his genius, or merely have the satisfaction of standing beneath the roof where Burns first saw the light.
+
+----
+
+Uuid: uYEAq504aWDBRIjd

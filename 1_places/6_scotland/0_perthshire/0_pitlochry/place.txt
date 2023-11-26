@@ -1,5 +1,15 @@
-section: 3
+Title: Pitlochry
+
 ----
-title: Pitlochry
+
+Section: 3
+
 ----
-text: This place is important as affording facilities to the tourist for visiting the beautiful *Pass of Killicrankie*,  the spot where Claverhouse fell in 1869. It is a deep ravine, clothed with the richest verdure, through the centre of which the Garry water flows. It is about four miles north-west of this place, a little above the confluence of the rivers Tummel and Garry.
+
+Text:
+
+This place is important as affording facilities to the tourist for visiting the beautiful *Pass of Killicrankie*,  the spot where Claverhouse fell in 1869. It is a deep ravine, clothed with the richest verdure, through the centre of which the Garry water flows. It is about four miles north-west of this place, a little above the confluence of the rivers Tummel and Garry.
+
+----
+
+Uuid: mTly6pT71YG5kZwl

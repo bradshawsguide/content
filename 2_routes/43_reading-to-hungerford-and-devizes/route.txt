@@ -1,14 +1,25 @@
-section: 2
+Title: Reading to Hungerford and Devizes
+
 ----
-title: Reading to Hungerford and Devizes
+
+Section: 2
+
 ----
-title_short: Reading to Devizes
+
+Title-short: Reading to Devizes
+
 ----
-subtitle: Hungerford Branch
+
+Subtitle: Hungerford Branch
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - reading
 - theale
 - aldermaston
@@ -22,11 +33,16 @@ stops:
 - pewsey
 - woodborough
 - devizes
+
 ----
-links:
-- (wikipedia: Berks_and_Hants_Railway)
+
+Links: - (wikipedia: Berks_and_Hants_Railway)
+
 ----
-text: [Theale](/stations/theale), a telegraph station.
+
+Text:
+
+[Theale](/stations/theale), a telegraph station.
 
 (place: england/berkshire/aldermaston)
 
@@ -55,3 +71,7 @@ The Berks and Hants, a railway 24¼ miles long, begins here and runs through a n
 [Woodborough](/stations/woodborough) station.
 
 (place: england/wiltshire/devizes)
+
+----
+
+Uuid: YGYll3qovurAhEqB

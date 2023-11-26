@@ -1,16 +1,33 @@
-section: 3
+Title: Coupar Angus
+
 ----
-title: Coupar Angus
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Strathrnore Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: 3rd Thursday in March; Tuesday before 26th May; 3rd Wednesday in July Tuesday before 22nd November.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This place has a population of about 2,929 engaged in the bleach-fields, tanneries, distilleries, and linen factories. It contains three chapels, town hall, schools, public library, meal mills, traces of an old abbey, in which was found an almanac with Arabic figures, dated 1482, and a church, close to which some stone coffins have been discovered.
+
+Text:
+
+This place has a population of about 2,929 engaged in the bleach-fields, tanneries, distilleries, and linen factories. It contains three chapels, town hall, schools, public library, meal mills, traces of an old abbey, in which was found an almanac with Arabic figures, dated 1482, and a church, close to which some stone coffins have been discovered.
+
+----
+
+Uuid: 290k4J3Xy7ni5aj6

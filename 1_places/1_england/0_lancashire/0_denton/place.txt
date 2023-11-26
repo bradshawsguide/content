@@ -1,14 +1,30 @@
-section: 3
+Title: Denton
+
 ----
-title: Denton
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,335.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Hyde, 1½ mile.
+
 ----
-notes:
-- Telegraph station at Stockport, 3½ miles.
+
+Notes: Telegraph station at Stockport, 3½ miles.
+
 ----
-text: Here are several hat manufactories. In vicinity is *Denton Hall*, the old seat of the Hollands, and *Hyde Hall*, formerly the seat of the Hydes, now both farmhouses.
+
+Text:
+
+Here are several hat manufactories. In vicinity is *Denton Hall*, the old seat of the Hollands, and *Hyde Hall*, formerly the seat of the Hydes, now both farmhouses.
+
+----
+
+Uuid: oAMRGPsoQ04exB3m

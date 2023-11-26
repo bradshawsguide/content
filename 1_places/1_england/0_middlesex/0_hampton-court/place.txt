@@ -1,19 +1,33 @@
-section: 1
+Title: Hampton Court
+
 ----
-title: Hampton Court
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: King's Arms, first-class, private and commercial gentlemen, family and commercial.
-- term: Races
+-
+  term: Races
   desc: Hampton, on Molesey Hurst, in June.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Hampton Court stands on the north bank of the Thames, about twelve miles from London. Numerous sovereigns have made it their temporary abode; and the last who resided here were George II. and his Queen.
+
+Desc: Hampton Court stands on the north bank of the Thames, about twelve miles from London. Numerous sovereigns have made it their temporary abode; and the last who resided here were George II. and his Queen.
+
 ----
-text: The situation of Hampton Court, which stands on the north bank of the Thames, about twelve miles from London, is so happily described by Pope, that we cannot resist quoting the favourite passage:--
+
+Text:
+
+The situation of Hampton Court, which stands on the north bank of the Thames, about twelve miles from London, is so happily described by Pope, that we cannot resist quoting the favourite passage:--
 
 > Close by those meads for over crowned with flowers,
 > Where Thames with pride surveys his rising towers,
@@ -39,3 +53,7 @@ The State Apartments, Public Gardens, and Picture Galleries are open daily (Frid
 The Chesnut Avenue of Bushey is world-famous. "Look across the road," says a pleasant companion to the spot, "upon those dark masses of a single tree with thousands of spiral flowers, each flower a study, powdering over the rich green, from the lowest branch to the topmost twig. Now you shall have a real reward for your three hours' toil under a lustrous sun. Look up and down this wondrous avenue. It's mile length seems a span; but from one gate to the other there is a double line of unbroken green with flowers rich as the richest of the tropics contending for the mastery of colour. Saw you ever such a gorgeous sight?
 
 Fashionable London even comes to see it; but in Whitsun week, and during the some twenty days of the glories of the chesnut, thousands come here to rejoice in the exceeding beauty of this marvel of nature, which the art of the Dutch gardeners, whom William of Nassau brought to teach us, have left as a proud relic of their taste."
+
+----
+
+Uuid: Du9qzLphqiXqxrnH

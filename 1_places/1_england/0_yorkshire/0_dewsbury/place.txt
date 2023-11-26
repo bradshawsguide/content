@@ -1,18 +1,36 @@
-section: 3
+Title: Dewsbury
+
 ----
-title: Dewsbury
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Royal.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Wednesday before old May Day: Michaelmas day, and October 6th.
-- term: Bankers
+-
+  term: Bankers
   desc: Branch of Huddersfield Banking Co.; Branch of the West Riding Union Banking Co.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This place has a population of 18,148, employed in the blanket, carpet, broad cloth, and cotton trades. Here Paulinus, the first Bishop of York, preached in the seventh century, and converted many. At All Saints' Church, there is a cross to his memory.
+
+Text:
+
+This place has a population of 18,148, employed in the blanket, carpet, broad cloth, and cotton trades. Here Paulinus, the first Bishop of York, preached in the seventh century, and converted many. At All Saints' Church, there is a cross to his memory.
+
+----
+
+Uuid: XkYVnb2ZbssSDu9z

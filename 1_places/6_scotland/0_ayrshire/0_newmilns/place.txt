@@ -1,18 +1,36 @@
-section: 3
+Title: Newmilns
+
 ----
-title: Newmilns
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 4,840.
-- term: Hotel
+-
+  term: Hotel
   desc: Black Bull.
-- term: Fairs
+-
+  term: Fairs
   desc: 1st Thursday in February; 3rd Wednesday in May; 4th Thursday in August; Wednesday after 1st Tuesday in September; 4th Wednesday in October.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Mauchline, 2 miles.
+
 ----
-notes:
-- Telegraph station at Hurlford, 5½ miles.
+
+Notes: Telegraph station at Hurlford, 5½ miles.
+
 ----
-text: In Ramsay's song the scenery near Paties' Mill, on the river, is described.
+
+Text:
+
+In Ramsay's song the scenery near Paties' Mill, on the river, is described.
+
+----
+
+Uuid: Nt6SazaubqFSxScG

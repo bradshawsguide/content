@@ -1,6 +1,13 @@
-section: 1
+Title: Hampstead Junction Railway
+
 ----
-title: Hampstead Junction Railway
+
+Section: 1
+
 ----
-links:
-- (wikipedia: Hampstead_Junction_Railway)
+
+Links: - (wikipedia: Hampstead_Junction_Railway)
+
+----
+
+Uuid: 8ZiNmWOfvdrFbPtg

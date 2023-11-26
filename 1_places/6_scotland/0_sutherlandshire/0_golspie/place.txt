@@ -1,7 +1,17 @@
-section: 3
+Title: Golspie
+
 ----
-title: Golspie
+
+Section: 3
+
 ----
-text: As we proceed towards this village we pass the "Mound," which was erected, at great expense, by the former Duke of Sutherland. Golspie is pleasantly situated, and is in the immediate vicinity of *Dunrobin Castle*, a magnificent pile of buildings, enlarged within the last 20 years, at enormous expense, and possessing one of the finest land and sea views to be found in the kingdom. When the Duke's family pay their annual visit to the Castle, the locality is the scene of great bustle, amid volunteer reviews, balls, competitions, and cattle and industrial shows.
+
+Text:
+
+As we proceed towards this village we pass the "Mound," which was erected, at great expense, by the former Duke of Sutherland. Golspie is pleasantly situated, and is in the immediate vicinity of *Dunrobin Castle*, a magnificent pile of buildings, enlarged within the last 20 years, at enormous expense, and possessing one of the finest land and sea views to be found in the kingdom. When the Duke's family pay their annual visit to the Castle, the locality is the scene of great bustle, amid volunteer reviews, balls, competitions, and cattle and industrial shows.
 
 There is an excellent inn at Golspie; indeed, throughout Sutherland, the accommodation for travellers is excellent, and charges moderate.
+
+----
+
+Uuid: ZE19RpRodzcZXNRn

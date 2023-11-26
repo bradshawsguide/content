@@ -1,6 +1,13 @@
-section: 3
+Title: Inverness and Aberdeen Junction
+
 ----
-title: Inverness and Aberdeen Junction
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Inverness_and_Aberdeen_Junction_Railway)
+
+Links: - (wikipedia: Inverness_and_Aberdeen_Junction_Railway)
+
+----
+
+Uuid: n8ETqGpPvunN46ne

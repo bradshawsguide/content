@@ -1,14 +1,31 @@
-section: 2
+Title: Calne
+
 ----
-title: Calne
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 5,179.
+
 ----
-notes:
-- Telegraph station at Chippenham, 6 miles.
+
+Notes: Telegraph station at Chippenham, 6 miles.
+
 ----
-desc: A parliamentary borough returning one member, has a large old church.
+
+Desc: A parliamentary borough returning one member, has a large old church.
+
 ----
-text: A parliamentary borough returning one member, has a large old church. It was here that St. Danstan, then primate, held a synod in 977, to settle a dispute between the clergy and monks, and contrived by making the floor give way, to bring a pretended judgment on his opponents.
+
+Text:
+
+A parliamentary borough returning one member, has a large old church. It was here that St. Danstan, then primate, held a synod in 977, to settle a dispute between the clergy and monks, and contrived by making the floor give way, to bring a pretended judgment on his opponents.
+
+----
+
+Uuid: GYLV1bKwM3Vskzin

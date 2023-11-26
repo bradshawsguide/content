@@ -1,15 +1,33 @@
-section: 3
+Title: Stonehaven
+
 ----
-title: Stonehaven
+
+Section: 3
+
 ----
-info:
-- term: Market Day
+
+Info:
+
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: Thursday before Candlemas, *o.s.*; day before May 26th; third Tuesday in June, *o.s.*; Thursday before Lammas, o. s.; second Thursday in October, *o.s.*; day before November 22nd; Thursday before Christmas-day.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1½ mile.
 - A telegraph station.
+
 ----
-text: Since the reign of James VI. this place has been the county town of Kincardineshire, and contains a population of 3,009, who are principally engaged in the herring fisheries, distilleries, and breweries. It has a market house, town hall, dispensary, bridge over the Cowie which joins the old and new towns, water and gas works, quay, Donaldson's free school, a pier, with two fixed lights, which can be seen at a distance of 13 miles; a harbour, with 16 feet of water; two good churches, and four chapels.
+
+Text:
+
+Since the reign of James VI. this place has been the county town of Kincardineshire, and contains a population of 3,009, who are principally engaged in the herring fisheries, distilleries, and breweries. It has a market house, town hall, dispensary, bridge over the Cowie which joins the old and new towns, water and gas works, quay, Donaldson's free school, a pier, with two fixed lights, which can be seen at a distance of 13 miles; a harbour, with 16 feet of water; two good churches, and four chapels.
+
+----
+
+Uuid: JeUQmVW52rr7tHCu

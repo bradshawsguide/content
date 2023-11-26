@@ -1,22 +1,37 @@
-section: 2
+Title: Cirencester
+
 ----
-title: Cirencester
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 6,336.
-- term: Hotels
+-
+  term: Hotels
   desc: King's Head; Ram.
-- term: Market Days
+-
+  term: Market Days
   desc: Monday and Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: Easter Tuesday, July 18th; Monday before and after Oct. 11th; Nov. 8th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
 ----
-distances:
+
+Distances:
+
 - location: Barnsley Park
   miles: "5"
 - location: Beggar's Down
@@ -53,11 +68,21 @@ distances:
   miles: "3"
 - location: Stroud
   miles: "2"
+
 ----
-desc: Cirencester is one of the greatest marts in England for wool. The magnificence of the church in this place entitles it to rank amongst the first in the kingdom.
+
+Desc: Cirencester is one of the greatest marts in England for wool. The magnificence of the church in this place entitles it to rank amongst the first in the kingdom.
+
 ----
-text: Cirencester is one of the greatest marts in England for wool. The magnificence of the church in this place entitles it to rank amongst the first in the kingdom. Here throe Roman roads meet, and from the variety of Roman coins, tessellated pavement, and other antiquities found in the neighbourhood, it seems to have covered a much wider area than at present.
+
+Text:
+
+Cirencester is one of the greatest marts in England for wool. The magnificence of the church in this place entitles it to rank amongst the first in the kingdom. Here throe Roman roads meet, and from the variety of Roman coins, tessellated pavement, and other antiquities found in the neighbourhood, it seems to have covered a much wider area than at present.
 
 Cirencester was formerly fortified, and the ruins of the walls and streets may still be seen in the adjacent meadows.
 
 (distances:)
+
+----
+
+Uuid: IN1LZP0ntLScbTt0

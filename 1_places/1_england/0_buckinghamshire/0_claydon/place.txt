@@ -1,11 +1,24 @@
-section: 3
+Title: Claydon
+
 ----
-title: Claydon
+
+Section: 3
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Winslow, 4 miles.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - Telegraph station at Winslow, 4 miles.
+
+----
+
+Uuid: bjItMii4Bt8s1Xjc

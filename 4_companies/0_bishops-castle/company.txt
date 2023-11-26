@@ -1,6 +1,13 @@
-section: 2
+Title: Bishops Castle Railway
+
 ----
-title: Bishops Castle Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Bishops_Castle_Railway)
+
+Links: - (wikipedia: Bishops_Castle_Railway)
+
+----
+
+Uuid: SDK7akgvQLAoDSfP

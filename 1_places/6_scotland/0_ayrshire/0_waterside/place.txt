@@ -1,5 +1,15 @@
-section: 3
+Title: Waterside
+
 ----
-title: Waterside
+
+Section: 3
+
 ----
-text: In a very pretty neighbourhood, watered by the Doon, whose banks are fringed with wood, diversified by the broad face of the Carrick hills, which swell away to the southward.
+
+Text:
+
+In a very pretty neighbourhood, watered by the Doon, whose banks are fringed with wood, diversified by the broad face of the Carrick hills, which swell away to the southward.
+
+----
+
+Uuid: Q1qsrJfEZHVLpaq7

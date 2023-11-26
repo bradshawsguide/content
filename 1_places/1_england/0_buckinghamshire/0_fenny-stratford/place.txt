@@ -1,24 +1,42 @@
-section: 3
+Title: Fenny Stratford
+
 ----
-title: Fenny Stratford
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,199.
-- term: Market Day
+-
+  term: Market Day
   desc: Monday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 19th, July 18th, October 10th, November 28th.
-- term: Mails
+-
+  term: Mails
   desc: Two arrivals and departures, daily between London and Fenny Stratford.
+
 ----
-notes:
+
+Notes:
+
 - Distance from the station, ¼ mile
 - Telegraph station at Bletchley, 1¼ mile.
+
 ----
-desc: Fenny Stratford is in a once fenny part of the Ouzel, on the Watling Street, or Roman way, which crosses the Ouse.
+
+Desc: Fenny Stratford is in a once fenny part of the Ouzel, on the Watling Street, or Roman way, which crosses the Ouse.
+
 ----
-text: Fenny Stratford is in a once fenny part of the Ouzel, on the Watling Street, or Roman way, which crosses the Ouse, further on, at *Stony Stratford*, where Richard III. seized his poor little nephew, Edward V. Lace and plait are made at both places. The Ouse, as it sluggishly winds down to Newport Pagnell.
+
+Text:
+
+Fenny Stratford is in a once fenny part of the Ouzel, on the Watling Street, or Roman way, which crosses the Ouse, further on, at *Stony Stratford*, where Richard III. seized his poor little nephew, Edward V. Lace and plait are made at both places. The Ouse, as it sluggishly winds down to Newport Pagnell.
 
 > Now glitters in the sun, and now retires,
 > A3 bashful yet impatient to be seen.
@@ -32,3 +50,7 @@ Much lace and some paper are made at Newport Pagnell; in the church is an epitap
 > —(smcp: Cowper)'s *Truth*
 
 Scott the commentator, and John Newton were curates of Olney, and the latter, in conjunction with Cowper, here wrote his well known Ohiey hymns.
+
+----
+
+Uuid: v1tElYM13k0tNGxp

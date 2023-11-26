@@ -1,14 +1,30 @@
-section: 2
+Title: Dungannon
+
 ----
-title: Dungannon
+
+Section: 2
+
 ----
-info:
-- term: Market Days
+
+Info:
+
+-
+  term: Market Days
   desc: Monday (grain), Thursday (linen, cattle, provisions).
-- term: Fairs
+-
+  term: Fairs
   desc: 1st Thursday in every month.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: The spirit of improvement manifest here, by its being the place, of residence of the Earl of Lurgan, speaks greatly in his favour.
+
+Text:
+
+The spirit of improvement manifest here, by its being the place, of residence of the Earl of Lurgan, speaks greatly in his favour.
+
+----
+
+Uuid: jOgkhOsyS6vxjnYF

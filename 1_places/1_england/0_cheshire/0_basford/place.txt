@@ -1,12 +1,27 @@
-section: 3
+Title: Basford
+
 ----
-title: Basford
+
+Section: 3
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Crewe, 2¼ miles.
+
 ----
-notes:
-- Telegraph station at Crewe, 2¼ miles.
+
+Notes: Telegraph station at Crewe, 2¼ miles.
+
 ----
-text: From this station the line curves gently, and then proceeds in a straight direction. After passing through a cutting, and thence along an embankment, we perceive Crewe Hall, a very beautiful place, the building being one of those square structures which the nobility and gentry of this country were so partial to in the last century.
+
+Text:
+
+From this station the line curves gently, and then proceeds in a straight direction. After passing through a cutting, and thence along an embankment, we perceive Crewe Hall, a very beautiful place, the building being one of those square structures which the nobility and gentry of this country were so partial to in the last century.
+
+----
+
+Uuid: ZBMpLFSBHldYUuyn

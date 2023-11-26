@@ -1,14 +1,31 @@
-section: 1
+Title: Ford
+
 ----
-title: Ford
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Arundel.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: In the vicinity of *Tortington*, a very pretty English village, with an old Norman church, and the remains of its priory, founded by Lady Hadwisa Corbet in the 13th century.
+
+Desc: In the vicinity of *Tortington*, a very pretty English village, with an old Norman church, and the remains of its priory, founded by Lady Hadwisa Corbet in the 13th century.
+
 ----
-text: In the vicinity of *Tortington*, a very pretty English village, with an old Norman church, and the remains of its priory, founded by Lady Hadwisa Corbet in the 13th century. The neighbourhood is very agreeable, and we conjecture that the old Monks were very delightful situated.
+
+Text:
+
+In the vicinity of *Tortington*, a very pretty English village, with an old Norman church, and the remains of its priory, founded by Lady Hadwisa Corbet in the 13th century. The neighbourhood is very agreeable, and we conjecture that the old Monks were very delightful situated.
+
+----
+
+Uuid: VwfbCUSLcDjiQh2E

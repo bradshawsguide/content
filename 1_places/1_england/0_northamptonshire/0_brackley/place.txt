@@ -1,19 +1,43 @@
-section: 3
+Title: Brackley
+
 ----
-title: Brackley
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Wheat Sheaf.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
-  desc: December 11th, Wednesday after February 25th, October 10th, and 2nd Wednesday in April.
+-
+  term: Fairs
+  desc: >
+    December 11th, Wednesday after February
+    25th, October 10th, and 2nd Wednesday in
+    April.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 5 mile.
 - A telegraph station.
+
 ----
-desc: This place has a population of 2,239: staple manufacture, lace and shoes.
+
+Text:
+
+This place has a population of 2,239: staple manufacture, lace and shoes. It is one of the oldest boroughs in the kingdom, and contains some relics of its former state. Brackley gives the title of viscount to the Earl of Ellesmere.
+
 ----
-text: This place has a population of 2,239: staple manufacture, lace and shoes. It is one of the oldest boroughs in the kingdom, and contains some relics of its former state. Brackley gives the title of viscount to the Earl of Ellesmere.
+
+Desc: This place has a population of 2,239: staple manufacture, lace and shoes.
+
+----
+
+Uuid: q7bLD1LRkmtfOSuV

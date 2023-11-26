@@ -1,9 +1,22 @@
-section: 3
+Title: Hindley
+
 ----
-title: Hindley
+
+Section: 3
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - A telegraph station.
+
 ----
-text: This place has a mining population of 8,477. "Here is, or was, a burning well of cold water, through which rose an inflammable gas, produced by the decomposition of sulphate of iron."—Sharp's <cite>British Gazetteer</cite>. In the vicinity are *Hindley Hall*, Right Hon. Lord Kingsdown; and *Bradshawe Hall*, T. Bradshawe, Esq.
+
+Text:
+
+This place has a mining population of 8,477. "Here is, or was, a burning well of cold water, through which rose an inflammable gas, produced by the decomposition of sulphate of iron."—Sharp's <cite>British Gazetteer</cite>. In the vicinity are *Hindley Hall*, Right Hon. Lord Kingsdown; and *Bradshawe Hall*, T. Bradshawe, Esq.
+
+----
+
+Uuid: jVNHWpLmieaqVBqA

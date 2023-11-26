@@ -1,6 +1,13 @@
-section: 2
+Title: Condover
+
 ----
-title: Condover
+
+Section: 2
+
 ----
-notes:
-- Telegraph station at Shrewsbury, 4½ miles.
+
+Notes: Telegraph station at Shrewsbury, 4½ miles.
+
+----
+
+Uuid: PzRTjls5bWcLj2mD

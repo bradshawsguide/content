@@ -1,20 +1,40 @@
-section: 2
+Title: Dundalk
+
 ----
-title: Dundalk
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Arthur's; Imperial.
-- term: Market Day
+-
+  term: Market Day
   desc: Monday.
-- term: Fairs
+-
+  term: Fairs
   desc: Third Wednesday in every month, except the 17th of May.
-- term: Bankers
+-
+  term: Bankers
   desc: Branch of Bank of Ireland, Branch of National Bank of Ireland.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: A borough and seaport town in the county of Louth, returning one member. It is situated on the banks of a river of the same name, at the mouth of the Irish channel.
+
+Desc: A borough and seaport town in the county of Louth, returning one member. It is situated on the banks of a river of the same name, at the mouth of the Irish channel.
+
 ----
-text: A borough and seaport town in the county of Louth, returning one member. It is situated on the banks of a river of the same name, at the mouth of the Irish channel. It is a place of some traffic, from which considerable quantities of corn are annually exported. The manufacture of cambric, which forms part of the trading pursuit of the inhabitants, was first established here in 1737.
+
+Text:
+
+A borough and seaport town in the county of Louth, returning one member. It is situated on the banks of a river of the same name, at the mouth of the Irish channel. It is a place of some traffic, from which considerable quantities of corn are annually exported. The manufacture of cambric, which forms part of the trading pursuit of the inhabitants, was first established here in 1737.
+
+----
+
+Uuid: WoMtXxkoRqnvwYkz

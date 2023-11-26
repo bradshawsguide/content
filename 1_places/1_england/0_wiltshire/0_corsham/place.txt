@@ -1,19 +1,39 @@
-section: 2
+Title: Corsham
+
 ----
-title: Corsham
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,196.
-- term: Hotel
+-
+  term: Hotel
   desc: Methuen Arms.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¾ mile.
 - Telegraph station at Chippenham, 4¼ miles.
+
 ----
-desc: King Ethclred had a palace here, and it was once the favourite residence of the Earls of Cornwall.
+
+Desc: King Ethclred had a palace here, and it was once the favourite residence of the Earls of Cornwall.
+
 ----
-text: King Ethclred had a palace here, and it was once the favourite residence of the Earls of Cornwall. *Corsham House*, the seat of Lord Methuen, has a very fine collection of paintings.
+
+Text:
+
+King Ethclred had a palace here, and it was once the favourite residence of the Earls of Cornwall. *Corsham House*, the seat of Lord Methuen, has a very fine collection of paintings.
 
 Sir Richard Blackmore, the poet, was a native.
+
+----
+
+Uuid: 4LmvpiW78qRhU4KC

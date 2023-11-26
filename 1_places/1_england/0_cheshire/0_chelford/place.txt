@@ -1,16 +1,33 @@
-section: 3
+Title: Chelford
+
 ----
-title: Chelford
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 253.
-- term: Hotel
+-
+  term: Hotel
   desc: Dixon's Arms.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Knutsford, 4 miles.
+
 ----
-notes:
-- Telegraph station at Alderley, 3 miles.
+
+Notes: Telegraph station at Alderley, 3 miles.
+
 ----
-text: Near Chelford are *Tatton Park*, Lord Egerton; *Tabley Hall*, Lord de Tabley; *Peover Hall*, Sir H. Mainwaring, Bart.
+
+Text:
+
+Near Chelford are *Tatton Park*, Lord Egerton; *Tabley Hall*, Lord de Tabley; *Peover Hall*, Sir H. Mainwaring, Bart.
+
+----
+
+Uuid: Zo2GoPcsE2GNYswk

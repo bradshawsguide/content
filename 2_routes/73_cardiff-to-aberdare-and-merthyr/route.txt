@@ -1,12 +1,17 @@
-section: 2
+Title: Cardiff to Merthyr
+
 ----
-title: Cardiff to Aberdare and Merthyr
+
+Section: 2
+
 ----
-title: Cardiff to Merthyr
+
+Company: companies/taff-vale
+
 ----
-company: companies/taff-vale
-----
-stops:
+
+Stops:
+
 - cardiff
 - llandaff
 - [walnut-tree-junction, llantrissant, ystrad-owen, cowbridge]
@@ -16,11 +21,15 @@ stops:
 - quakers-yard
 - troedyrhiew
 - merthyr
+
 ----
-links:
-- (wikipedia: Taff_Vale_Railway)
+
+Links: - (wikipedia: Taff_Vale_Railway)
+
 ----
-text:
+
+Text:
+
 (place: wales/glamorganshire/llandaff)
 
 (branch: start)
@@ -52,3 +61,7 @@ text:
 (place: wales/glamorganshire/merthyr)
 
 For continuation of this route along the Wye, &c, see [Brecon and Merthyr](/routes/hereford-to-hay-and-brecon).
+
+----
+
+Uuid: UVgTDqh9SybzstWT

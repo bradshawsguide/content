@@ -1,16 +1,33 @@
-section: 3
+Title: Forfar
+
 ----
-title: Forfar
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Commercial; Union.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Last Wednesday in February; second Wednesday in April; first Wednesday in May, *o.s.*; day after Dunn's Muir Junction fair; first Tuesday and Wednesday in July and August; last Wednesday in September; second Wednesday in October; and first Wednesday in November.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: The town of Forfar, with a population of 9,258, engaged in the shoe and weaving trades, is situated in the romantic valley of Strathniore, and is of considerable antiquity. It has lately received many additions to its general appearance. Amongst those edifices which form the most prominent features in the modern improvements are a handsome range of county buildings in Castle Street, an episcopal chapel, excellent subscription room, library, town house, which contains the bridle with which people were harnessed previous to being burnt at "Witches' Howe"; news room, school, academy, and a church lately rebuilt, which has an old bell, the gift of Strange, a native. The Loch should be visited, as it contains the niins of Queen Margaret's Nunnery. In the vicinity are *Restenet Priory*, and *Finhaven Castle*, at which the Earl of Crawford received James II. Don the botanist was born here in 1800.
+
+Text:
+
+The town of Forfar, with a population of 9,258, engaged in the shoe and weaving trades, is situated in the romantic valley of Strathniore, and is of considerable antiquity. It has lately received many additions to its general appearance. Amongst those edifices which form the most prominent features in the modern improvements are a handsome range of county buildings in Castle Street, an episcopal chapel, excellent subscription room, library, town house, which contains the bridle with which people were harnessed previous to being burnt at "Witches' Howe"; news room, school, academy, and a church lately rebuilt, which has an old bell, the gift of Strange, a native. The Loch should be visited, as it contains the niins of Queen Margaret's Nunnery. In the vicinity are *Restenet Priory*, and *Finhaven Castle*, at which the Earl of Crawford received James II. Don the botanist was born here in 1800.
+
+----
+
+Uuid: fWWaHsen29BTFA33

@@ -1,19 +1,37 @@
-section: 2
+Title: Llanelly
+
 ----
-title: Llanelly
+
+Section: 2
+
 ----
-subtitle: Llanelli
+
+Subtitle: Llanelli
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 11,446.
-- term: Hotels
+-
+  term: Hotels
   desc: Falcon; Ship and Castle; and Thomas Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Holy Thursday, July 29th, September 30th, and November 10th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - A telegraph station.
+
+----
+
+Uuid: KG4SikjTdw6tud95

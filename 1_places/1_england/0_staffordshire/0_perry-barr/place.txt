@@ -1,14 +1,31 @@
-section: 3
+Title: Perry Barr
+
 ----
-title: Perry Barr
+
+Section: 3
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Birmingham, 2½ miles.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: At this station we pass under an arch, and the line then makes a considerable curve in an opposite direction to the that hitherto followed, and passes *Perry Hall*.
+
+Desc: At this station we pass under an arch, and the line then makes a considerable curve in an opposite direction to the that hitherto followed, and passes *Perry Hall*.
+
 ----
-text: At this station we pass under an arch, and the line then makes a considerable curve in an opposite direction to the that hitherto followed, and passes *Perry Hall*, seat of Hon. F. Gough, hidden from view by stately trees. Handsworth Church, in the vicinity, contains a monument of the late James Watt, by Chantrey. This much admired work of art consists of a handsome grey marble pedestal, on which, in a sitting posture, is a figure of Watt, represented in the act of drawing, in pure white marble. The figure seems alive, and is one of the most successful efforts of the sculptor. This statue was erected in honour of Watt's memory by subscription; and his son built a small chapel for its reception on the north side of the church, at the right of the altar, to the left of which is the bust of Boulton, the partner of Watt.
+
+Text:
+
+At this station we pass under an arch, and the line then makes a considerable curve in an opposite direction to the that hitherto followed, and passes *Perry Hall*, seat of Hon. F. Gough, hidden from view by stately trees. Handsworth Church, in the vicinity, contains a monument of the late James Watt, by Chantrey. This much admired work of art consists of a handsome grey marble pedestal, on which, in a sitting posture, is a figure of Watt, represented in the act of drawing, in pure white marble. The figure seems alive, and is one of the most successful efforts of the sculptor. This statue was erected in honour of Watt's memory by subscription; and his son built a small chapel for its reception on the north side of the church, at the right of the altar, to the left of which is the bust of Boulton, the partner of Watt.
+
+----
+
+Uuid: fjsG6aBi6EUPDU9D

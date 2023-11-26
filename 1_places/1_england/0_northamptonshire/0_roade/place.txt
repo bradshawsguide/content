@@ -1,15 +1,34 @@
-section: 3
+Title: Roade
+
 ----
-title: Roade
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 664.
+
 ----
-notes:
+
+Notes:
+
 - Telegraph station at Blisworth, 3 miles.
 - Money Order Office at Northampton.
+
 ----
-desc: The village of Roade is situated on the right of the line, but presents no object requiring notice.
+
+Desc: The village of Roade is situated on the right of the line, but presents no object requiring notice.
+
 ----
-text: The village of Roade is situated on the right of the line, but presents no object requiring notice. Shortly after leaving this station we enter an excavation made through the Blisworth ridge, when the open country is again visible. The most interesting scenery lies on the right Hunsbury Hill, Bury Wood, and Harpole Hills, with Wooton, among the hills, and the prominent village of Milton, or Middleton, and its neat church, form a landscape of no ordinary beauty.
+
+Text:
+
+The village of Roade is situated on the right of the line, but presents no object requiring notice. Shortly after leaving this station we enter an excavation made through the Blisworth ridge, when the open country is again visible. The most interesting scenery lies on the right Hunsbury Hill, Bury Wood, and Harpole Hills, with Wooton, among the hills, and the prominent village of Milton, or Middleton, and its neat church, form a landscape of no ordinary beauty.
+
+----
+
+Uuid: u2J88I6C2Xqanp4Y

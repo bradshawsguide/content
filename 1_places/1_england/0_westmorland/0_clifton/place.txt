@@ -1,12 +1,27 @@
-section: 3
+Title: Clifton
+
 ----
-title: Clifton
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 342.
+
 ----
-notes:
-- Telegraph station at Shap, 7½ miles.
+
+Notes: Telegraph station at Shap, 7½ miles.
+
 ----
-text: In this neighbourhood, at Clifton Moor, a skirmish was fought in 1745, between the Pretender and the Duke of Cumberland, which is beautifully described by Sir Walter Scott, in "Waverley." Here is a mineral well, and the old turreted ruin close to the farmhouse was the seat of the Wybergs. In the church there is some good stained glass.
+
+Text:
+
+In this neighbourhood, at Clifton Moor, a skirmish was fought in 1745, between the Pretender and the Duke of Cumberland, which is beautifully described by Sir Walter Scott, in "Waverley." Here is a mineral well, and the old turreted ruin close to the farmhouse was the seat of the Wybergs. In the church there is some good stained glass.
+
+----
+
+Uuid: zoTAsQoSZiN0gcuN

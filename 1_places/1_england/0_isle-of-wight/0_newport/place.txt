@@ -1,26 +1,44 @@
-section: 1
+Title: Newport
+
 ----
-title: Newport
+
+Section: 1
+
 ----
-station: newport-isle-of-wight
+
+Station: newport-isle-of-wight
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Bugle; Star; Green Dragon.
-- term: Coaches
+-
+  term: Coaches
   desc: to and from Cowes&#58; Ryde, Yarmouth, and the places on the Eastern Route of the Island.
-- term: Boat
+-
+  term: Boat
   desc: between Wootton Bridge and Portsmouth, daily.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday (Corn), and every other Saturday (Cattle)
-- term: Fairs
+-
+  term: Fairs
   desc: Whitsuntide and Michaelmas.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station at Portsmouth, 15 miles.
 - A telegraph station.
+
 ----
-distances:
+
+Distances:
+
 - location: Albany Barracks
   miles: "½"
 - location: Alvington
@@ -65,9 +83,19 @@ distances:
   miles: "5"
 - location: Wootton and Bridge
   miles: "3½"
+
 ----
-desc: Newport, the capital of the Island, a clean, well built, country town, in a hollow, on the river Medina which divides the Island nearly in halves.
+
+Desc: Newport, the capital of the Island, a clean, well built, country town, in a hollow, on the river Medina which divides the Island nearly in halves.
+
 ----
-text: Newport, the capital of the Island, a clean, well built, country town, in a hollow, on the river Medina which divides the Island nearly in halves. Cracknell biscuits are manufactured here; but Cowes is the real place where they were first made. Population 8,047. It sends two members to parliament. Town Hall built 1816, by Nash. Old church, in which Charles I.'s daughter Elizabeth is buried. Large House of Industry for the Island, on the Cowes road; not far from the Albany barracks, whither recruits are sent for exercise, and the Parkhurst Reformatory for boys.
+
+Text:
+
+Newport, the capital of the Island, a clean, well built, country town, in a hollow, on the river Medina which divides the Island nearly in halves. Cracknell biscuits are manufactured here; but Cowes is the real place where they were first made. Population 8,047. It sends two members to parliament. Town Hall built 1816, by Nash. Old church, in which Charles I.'s daughter Elizabeth is buried. Large House of Industry for the Island, on the Cowes road; not far from the Albany barracks, whither recruits are sent for exercise, and the Parkhurst Reformatory for boys.
 
 (distances: title: Distances of Places from Newport)
+
+----
+
+Uuid: RQluSsU26ApBmqZR

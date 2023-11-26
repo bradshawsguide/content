@@ -1,9 +1,22 @@
-section: 1
+Title: Chilworth
+
 ----
-title: Chilworth
+
+Section: 1
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - A telegraph station.
+
 ----
-text: On an eminence in the vicinity, and towards the south, is St. Martha's ancient chapel. *Chilworth Manor* is the property of Godwin Austin, Esq.
+
+Text:
+
+On an eminence in the vicinity, and towards the south, is St. Martha's ancient chapel. *Chilworth Manor* is the property of Godwin Austin, Esq.
+
+----
+
+Uuid: fcPyxh3x7k875ibu

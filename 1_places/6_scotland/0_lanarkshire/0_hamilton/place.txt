@@ -1,21 +1,41 @@
-section: 3
+Title: Hamilton
+
 ----
-title: Hamilton
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 10,688.
-- term: Hotels
+-
+  term: Hotels
   desc: Commercial; Brace's Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: Last Tuesday in January, *o.s.*; third Friday in April; Friday after 15th May, *o. s.*; last Thursday in June, *o.s.*; second Thursday in July; third Friday in October; second Thursday in November *o.s.*
+
 ----
-notes:
+
+Notes:
+
 - A telegraph station.
 - Telegraph station at Motherwell, 7¼ miles.
+
 ----
-text: Over the whole neighbourhood of this place lie scattered scenes full of historical and poetical interest; and the traveller making it of his headquarters, might in a short time see a "whole Switzerland of romantic dells and dingles." Many of the places here are classic ground, the interest never flagging, from its being immortalised by the pen of Sir Walter Scott, and other writers of lesser note.
+
+Text:
+
+Over the whole neighbourhood of this place lie scattered scenes full of historical and poetical interest; and the traveller making it of his headquarters, might in a short time see a "whole Switzerland of romantic dells and dingles." Many of the places here are classic ground, the interest never flagging, from its being immortalised by the pen of Sir Walter Scott, and other writers of lesser note.
 
 *Hamilton Palace*, partly as old as 1591, the seat of the Duke of Hamilton, is a noble building. The grounds and picture gallery, in which is Ruben's "Daniel in the Lions' Den," are thrown open to strangers, without any formal application. Cullen was a native of Hamilton. The traveller must of course visit the ruins of *Bothwell Castle*, one of the most picturesque and venerable monuments of the ancient splendour of Scotland. Its stately grandeur excites the admiration of all who have seen it.
+
+----
+
+Uuid: YLNrXjBvtGa8AcKI

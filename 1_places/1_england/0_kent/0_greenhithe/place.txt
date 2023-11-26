@@ -1,15 +1,32 @@
-section: 1
+Title: Greenhithe
+
 ----
-title: Greenhithe
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Gravesend.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-text: Greenhithe Pier, 20 miles from London. *Ingress Abbey*, in the Gothic style, built with the stones of old London Bridge. The chalk-pits behind are pleasing.
+
+Text:
+
+Greenhithe Pier, 20 miles from London. *Ingress Abbey*, in the Gothic style, built with the stones of old London Bridge. The chalk-pits behind are pleasing.
 
 Gray's Pier, where Fidler's Reach and Northfleet Hope unite.
+
+----
+
+Uuid: gdUxkBiEAFsx8CZQ

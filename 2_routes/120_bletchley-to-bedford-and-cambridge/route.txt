@@ -1,10 +1,17 @@
-section: 3
+Title: Bletchley to Bedford and Cambridge
+
 ----
-title: Bletchley to Bedford and Cambridge
+
+Section: 3
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - bletchley
 - fenny-stratford
 - woburn-sands
@@ -18,8 +25,12 @@ stops:
 - old-north-road
 - lords-bridge
 - cambridge
+
 ----
-text: The first station on this Branch being partly in the parish of Bletchley is quickly announed.
+
+Text:
+
+The first station on this Branch being partly in the parish of Bletchley is quickly announed.
 
 (place: england/buckinghamshire/fenny-stratford)
 
@@ -40,3 +51,7 @@ Immediately after leaving this station we take our leave of the county of Bucks,
 Passing the stations of [Gamlingay](/stations/gamlingay), [Old North Road](/stations/old-north-road), and [Lord's Bridge](/stations/lords-bridge), we very soon cross the River Cam, when the arrival of the train is announced at
 
 (place: england/cambridgeshire/cambridge)
+
+----
+
+Uuid: pCs4qAnbb5PEKgzo

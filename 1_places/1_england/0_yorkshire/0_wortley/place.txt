@@ -1,12 +1,27 @@
-section: 3
+Title: Wortley
+
 ----
-title: Wortley
+
+Section: 3
+
 ----
+
 Info:
-- term: Hotels
+
+-
+  term: Hotels
   desc: New, and Gun.
+
 ----
-notes:
-- Telegraph station at Leeds, 1½ mile.
+
+Notes: Telegraph station at Leeds, 1½ mile.
+
 ----
-text: A large proportion of the population of this place, 12,058, are engaged in the woollen trade.
+
+Text:
+
+A large proportion of the population of this place, 12,058, are engaged in the woollen trade.
+
+----
+
+Uuid: 4vAv6M8BMopeggqj

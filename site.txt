@@ -1,19 +1,37 @@
-title: Bradshaw’s Guide
+Title: Bradshaw’s Guide
+
 ----
-title_short: Bradshaw’s
+
+Desc: Bradshaw's Guide for Tourists in Great Britain & Ireland, adapted to the railway system.
+
 ----
-publisher: Paul Robert Lloyd
+
+Keywords: railway, guide
+
 ----
-publisher_url: https://paulrobertlloyd.com/
+
+Publisher: Paul Robert Lloyd
+
 ----
-license: Public domain
+
+Publisher-url: https://paulrobertlloyd.com/
+
 ----
-license_url: https://creativecommons.org/publicdomain/mark/1.0/
+
+License: Public domain
+
 ----
-desc: Bradshaw's Guide for Tourists in Great Britain & Ireland, adapted to the railway system.
+
+License-url: https://creativecommons.org/publicdomain/mark/1.0/
+
 ----
-keywords: railway, guide,
+
+Title-short: Bradshaw’s
+
 ----
-theme_color: #30241d
+
+Theme-color: #30241d
+
 ----
-background_color: #f83
+
+Background-color: #f83

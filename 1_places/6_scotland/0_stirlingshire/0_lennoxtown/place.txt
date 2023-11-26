@@ -1,8 +1,19 @@
-section: 3
+Title: Lennoxtown
+
 ----
-title: Lennoxtown
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Glasgow, 11¾ miles.
+
+Notes: Telegraph station at Glasgow, 11¾ miles.
+
 ----
-text: R. Dalglish, Esq., has his bleach works here. *Lennox Castle*, the seat of J. Lennox, Esq., is in the vicinity; also Campsie Glen.
+
+Text:
+
+R. Dalglish, Esq., has his bleach works here. *Lennox Castle*, the seat of J. Lennox, Esq., is in the vicinity; also Campsie Glen.
+
+----
+
+Uuid: RFdZ4bNKox4N2kP4

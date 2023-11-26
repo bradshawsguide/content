@@ -1,12 +1,27 @@
-section: 1
+Title: Shalford
+
 ----
-title: Shalford
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Guildford.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Half a mile from the station is the village, near which is *Shalford House*, the demesne of Sir Henry Austin. This is the nearest station to Farley Heath, the scene, of the Volunteer Review of Easter Monday, 1864.
+
+Text:
+
+Half a mile from the station is the village, near which is *Shalford House*, the demesne of Sir Henry Austin. This is the nearest station to Farley Heath, the scene, of the Volunteer Review of Easter Monday, 1864.
+
+----
+
+Uuid: aHcmbt3EaH8f9824

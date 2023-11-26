@@ -1,10 +1,23 @@
-section: 2
+Title: Pontypool Road
+
 ----
-title: Pontypool Road
+
+Section: 2
+
 ----
-notes:
+
+Notes:
+
 - Distance from the town of the
 same name, 1½ mile.
 - A telegraph station.
+
 ----
-text: Near is *Pontypool Park*, Hanbury. Leigh, Esq. This forms the junction with the [Taff Vale Extension](/routes/pontypool-road-to-merthyr).
+
+Text:
+
+Near is *Pontypool Park*, Hanbury. Leigh, Esq. This forms the junction with the [Taff Vale Extension](/routes/pontypool-road-to-merthyr).
+
+----
+
+Uuid: ttoUI1WwjTeoQpVw

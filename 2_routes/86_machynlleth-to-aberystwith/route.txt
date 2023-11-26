@@ -1,10 +1,17 @@
-section: 2
+Title: Machynlleth to Aberystwith
+
 ----
-title: Machynlleth to Aberystwith
+
+Section: 2
+
 ----
-company: companies/aberystwith-and-welsh-coast
+
+Company: companies/aberystwith-and-welsh-coast
+
 ----
-stops:
+
+Stops:
+
 - machynlleth
 - glan-dovey
 - [ynys-las, aberdovey, towyn, llwyngwril, [barmouth-ferry, barmouth], penmaen-pool, dolgelley]
@@ -12,11 +19,16 @@ stops:
 - llanfihangel
 - bow-street
 - aberystwith
+
 ----
-links:
-- (wikipedia: Aberystwith_and_Welsh_Coast_Railway)
+
+Links: - (wikipedia: Aberystwith_and_Welsh_Coast_Railway)
+
 ----
-text: Passing onward from [Machynlleth](/stations/machynlleth), we come to a bend of the river Dovey, on which is situated [Glan Dovey](/stations/glan-dovey) station, and a little further along the widening estuary of the Dovey to
+
+Text:
+
+Passing onward from [Machynlleth](/stations/machynlleth), we come to a bend of the river Dovey, on which is situated [Glan Dovey](/stations/glan-dovey) station, and a little further along the widening estuary of the Dovey to
 
 (branch: start)
   [Ynys-Las](/stations/ynys-las), at which place there is a ferry across the mouth of the river to [Aberdovey](/stations/aberdovey), a small but pretty bathing place. This portion of the Welsh Coast line takes a northerly direction to
@@ -43,3 +55,7 @@ On retracing our steps to Ynys-Las we proceed in the direction of Aberystwith to
 [Bow Street](/stations/bow-street) station, and 4¼ miles more to
 
 (place: wales/cardiganshire/aberystwith)
+
+----
+
+Uuid: psvgL9shMQNl3cq2

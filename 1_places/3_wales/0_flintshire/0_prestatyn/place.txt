@@ -1,8 +1,19 @@
-section: 2
+Title: Prestatyn
+
 ----
-title: Prestatyn
+
+Section: 2
+
 ----
-notes:
-- Telegraph station at Rhyl, 3¾ miles.
+
+Notes: Telegraph station at Rhyl, 3¾ miles.
+
 ----
-text: Here the country is fiat, but extremely fertile in corn, especially wheat, and continues so as far as Rhuddlan, and thence along the coast to Abergele.
+
+Text:
+
+Here the country is fiat, but extremely fertile in corn, especially wheat, and continues so as far as Rhuddlan, and thence along the coast to Abergele.
+
+----
+
+Uuid: ttrMMJ5tQiY3Fy8p

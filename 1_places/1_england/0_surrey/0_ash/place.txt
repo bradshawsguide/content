@@ -1,18 +1,31 @@
-section: 1
+Title: Ash
+
 ----
-title: Ash
+
+Section: 1
+
 ----
-info:
-- term: Omnibuses
+
+Info:
+
+-
+  term: Omnibuses
   desc: to and from the station.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Farnham.
+
 ----
-notes:
+
+Notes:
+
 - Distance from the station, 1 mile.
 - A telegraph station.
+
 ----
-distances:
+
+Distances:
+
 - location: Aldershott
   miles: "3"
 - location: Ash Common
@@ -65,7 +78,17 @@ distances:
   miles: "3"
 - location: Winchfield Station
   miles: "9"
+
 ----
-desc: A telegraph station.
+
+Desc: A telegraph station.
+
 ----
-text: (distances:)
+
+Text:
+
+(distances:)
+
+----
+
+Uuid: yKflkN53IVfbBBli

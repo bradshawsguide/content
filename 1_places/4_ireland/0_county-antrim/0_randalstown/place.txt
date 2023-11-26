@@ -1,16 +1,33 @@
-section: 2
+Title: Randalstown
+
 ----
-title: Randalstown
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: O'Neill's Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: July 16th, November 1st.
+
 ----
-notes:
-- Telegraph station at Antrim, 5¼ miles.
+
+Notes: Telegraph station at Antrim, 5¼ miles.
+
 ----
-text: This place, which was burnt by the rebels in 1798, has a population of about 1,300, employed in cotton spinning and weaving; Barracks, Market House, five Chapels, and Dispensary.
+
+Text:
+
+This place, which was burnt by the rebels in 1798, has a population of about 1,300, employed in cotton spinning and weaving; Barracks, Market House, five Chapels, and Dispensary.
+
+----
+
+Uuid: RPCQ8d0EMGHdMBOC

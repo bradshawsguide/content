@@ -1,13 +1,27 @@
-section: 2
+Title: Hanwell
+
 ----
-title: Hanwell
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,687.
-- term: Monday Order Office
+-
+  term: Monday Order Office
   desc: at Southall.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
+----
+
+Uuid: TCAs82XGREHnNdNa

@@ -1,25 +1,42 @@
-section: 2
+Title: Galway
+
 ----
-title: Galway
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Midland Great Western Station, and Clanricarde Arms.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 31st, September 21st, and October 31st.
-- term: Races
+-
+  term: Races
   desc: in August
-- term: Bankers
+-
+  term: Bankers
   desc: National Bank of Ireland; Provincial Bank of Ireland; Bank of Ireland.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: The capital of County Galway, a parliamentary borough, has a population of about 23,195, and is a port in the west of Ireland, at the head of a fine bay.
+
+Desc: The capital of County Galway, a parliamentary borough, has a population of about 23,195, and is a port in the west of Ireland, at the head of a fine bay.
+
 ----
-text: The capital of County Galway, a parliamentary borough, has a population of about 23,195, who return two members, and is a port in the west of Ireland, at the head of a fine bay. A small stream, three or four miles long, serving as the outlet to Lough Corrib, runs through the town into the harbour, which contains a floating dock of five acres, and has good anchorage outside. This is proposed to be the starting point for America, the run to which. would be lessened about 350 miles.
+
+Text:
+
+The capital of County Galway, a parliamentary borough, has a population of about 23,195, who return two members, and is a port in the west of Ireland, at the head of a fine bay. A small stream, three or four miles long, serving as the outlet to Lough Corrib, runs through the town into the harbour, which contains a floating dock of five acres, and has good anchorage outside. This is proposed to be the starting point for America, the run to which. would be lessened about 350 miles.
 
 Galway was founded in the 11th and 12th centuries by the Twelve Tribes, as they were called, consisting of the Burke, Blake, Joyce, D'Arcy, Lynch, Skerrett, and other families, several of whom still flourish--the Blakes for instance, represented by the Marquis of Clanriearde, so named after *Richard de Burgh*, who built the town wall, 1235, of which a gate or two remains. The great statesman and orator was a branch of this family. Beautiful black Connemara marble, one of the chief products, is sawn and polished at Franklin's mills. Fish, provisions, and a little paper also exported. Formerly there was a good trade in wine with Spain, which produced an infusion of foreign blood on this side of Ireland, where the round olive face and Spanish complexion may be frequently noticed. Many houses in Old Town, which belonged to merchants, yet retain, outside, their armorial bearings and moorish carvings, and are built in the Spanish style within. Lynch's house in Lombard Street, or Deadman's Lane, is an example; the crest is a *lynx*. The ancient cross-shaped *church*, with its spire, was built in the 14th century; in former times the living was a wardenship, independent of the bishop, which the tribes elected. On Clare River is the new *Queen's College*, a handsome Elizabethan quadrangle, by Sir J. Deane, opened in 1849; it is 275 feet by 215, and has a tower 110 feet high. The *Claddagh*, is a suburb, where the fishermen and their families live, exclusively, to the number of 5,000 or 6,000; their market being close to an old tower and gate. They are peaceable and clean, but superstitious, never going out to fish, nor allowing others to go out, except on lucky days, and are governed by their own laws and customs, under a "king" or admiral chosen annually.
 
@@ -29,3 +46,7 @@ In the neighbourhood of Galway are, *Menlo Castle*, seat of Sir Y. Blake, Bart.;
 
 ## Connemara and the Killeries
 A trip of 35 or 40 miles; or, 90 miles, if extended through Mayo to Westport; through a grand country of lakes and mountains, with noble coast scenery, washed by the Atlantic. It was called the "kingdom" of Connemara, a word which means, "bays of the great sea," and till lately belonged to one or two proprietors, the first of whom was Colonel Martin of Ballynahinch. "He once boasted to the Prince of Wales, to put him out of conceit with Windsor Park, that the avenue to his hall door was thirty miles long." The fact being that it was the only road in the county, and ended at Ballynahinch.--Hall's Ireland. The women dress in homespun scarlet cloaks, and spin all day long. It is now settled by various new proprietors, and is in course of being reclaimed and cultivated. Here is the chief scene of the evangelical reformation, under the blessing of God in progress, of the devoted Bishop of Tuam and his Irish preaching clergy. From Galway the road goes along Lough Comb to Oughterard, 16 miles, past *Aughaanarc*, an old seat of the Flaherties, and a vast collection of Druid stones spreading two miles; whence, by Maam Turc Inn, through Joyce's country, to Leenane, in the Killeries, is 19 more. The Maam Inn, under a mountain 2,000 feet high, commands a fine view of the lake, with another of the *Flaherties' Castle* in the distance. From Oughterard, by Ballynahinch to Clifden, is 14 miles. *Clifden*, is a beautiful mountain town, on an inlet, founded by the D'Arcys, about 30 years ago, and is the centre of the new reformation. Its late proprietor sold all his estates, and is now one of the most active of the working clergy here. In the neighbourhood are the Twelve Pins, or Peaks, the highest of which is 2,930 feet. Following the coast road to Leenane, 30 miles, you come to Ballynakill Harbour, Kylemore Pass, a grand thing to see; and Salruc Pass, is grand, in the Killeries, which is a narrow, but splendid, sea inlet, between high and picturesque mountains, like a Norwegian fiord (Inglish). Then to *Leenane*, near *Delphi*, the beautiful seat of the Marquis of Sligo. This round may be extended by following the equally bold and wild county of Mayo, to Newport, Westport, and Achill, another Protestant settlement, where some of the *cliffs* are 1,500 to 2,000 feet, sheer down to the sea, or to the mountains round Clew Bay, 2,600 feet high, and more, at Croaghpatrick and Mulrea; and in Tyrawley.
+
+----
+
+Uuid: RItL3NhcZ4RmQL0q

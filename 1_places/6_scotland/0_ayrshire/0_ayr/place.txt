@@ -1,21 +1,35 @@
-section: 3
+Title: Ayr
+
 ----
-title: Ayr
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: King's Arms; The Ayr Arms; Commercial; Queen's.
-- term: Steamers
+-
+  term: Steamers
   desc: to and from Campbelton, calling oft Kildonan and Clauchog Shore, South End of Arran; Girvan, and Stranraer, calling off Girvan and Ballintrae.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday and Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: Thursday and Friday before 2nd Wednesday in January; last Friday in April; Thursday and Friday before 2nd Monday in July; 2nd Thursday and Friday in October.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: (smcp: Ayr), a port, parliamentary burgh (one member), and capital of *Ayrshire*, on the west coast of Scotland, at the mouth of the Ayr water, a picturesque stream, running between steep banks, from about 30 miles in the interior. Salmon and Water o' Ayr whetstones are produced by it. Population, 18,573. About 5,000 tons of shipping are registered at the port, which, has a pier harbour. Shoes, cotton and woollen goods, carpets, and nails, are the chief branches of manufacture.
+
+Text:
+
+(smcp: Ayr), a port, parliamentary burgh (one member), and capital of *Ayrshire*, on the west coast of Scotland, at the mouth of the Ayr water, a picturesque stream, running between steep banks, from about 30 miles in the interior. Salmon and Water o' Ayr whetstones are produced by it. Population, 18,573. About 5,000 tons of shipping are registered at the port, which, has a pier harbour. Shoes, cotton and woollen goods, carpets, and nails, are the chief branches of manufacture.
 
 Its old church of Cromwell's day, is on the site of a friary. About a quarter of a mile from St. John's Church is the Fort. At the latter place Bruce held a parliament to confirm the succession of the crown. Bruce's ancestors were Earls of Carrick. The southern is the most hilly of the three districts into which this county is divided,
 
@@ -153,3 +167,7 @@ Willie, was William Muir, of Tarbolton. "Oh! rough, rude, ready-witted Rankine" 
 > O' my sweet Highland Mary.
 
 His exquisite lines to *Mary in Heaven*, "Thou lingering star, with lessening ray," were written at Mossgiel, on the anniversary of her death; and there can be no question that Mary was in his heart when he wrote *Ae' fond kiss*, which Sir Walter Scott says contains the "essence of a thousand love tales."
+
+----
+
+Uuid: UtsV4DbpdjZqwFEd

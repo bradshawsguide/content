@@ -1,16 +1,33 @@
-section: 3
+Title: Balloch
+
 ----
-title: Balloch
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Close to the railway.
-- term: Steamers
+-
+  term: Steamers
   desc: up and down Loch Lomond daily in summer, calling at Tarbet and Inversnaid, the landing places for Inverary, Loch Katrine, and the Trossachs.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Alexandria, 3 miles.
+
 ----
-notes:
-- Telegraph station at Dumbarton, 4½ miles.
+
+Notes: Telegraph station at Dumbarton, 4½ miles.
+
 ----
-text: Here are several mills, and an old castle of the Lennoxes.
+
+Text:
+
+Here are several mills, and an old castle of the Lennoxes.
+
+----
+
+Uuid: 3K1T28MNkRsMmXSa

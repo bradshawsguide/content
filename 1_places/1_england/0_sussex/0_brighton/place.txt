@@ -1,27 +1,41 @@
-section: 1
+Title: Brighton
+
 ----
-title: Brighton
-----
-info:
-- term: Population
+
+Info:
+
+- 
+  term: Population
   desc: 77,693.
-- term: Hotels
-  desc: The Grand Hotel; The Bedford; Royal York; Bristol; Old Ship; Pier; the Clarence, &c.
-- term: Omnibuses
-  desc: to and from the station and Hove every train.
-- term: Market Days
+- 
+  term: Hotels
+  desc: 'The Grand Hotel; The Bedford; Royal York; Bristol; Old Ship; Pier; the Clarence, &c.'
+- 
+  term: Omnibuses
+  desc: >
+    to and from the station and Hove every
+    train.
+- 
+  term: Market Days
   desc: Tuesday (corn), and Saturday.
-- term: Fairs
+- 
+  term: Fairs
   desc: Holy Thursday, and September 4th.
-- term: Bankers
-  desc: Hall, Lloyd, Bevan, and West; London and County Bank; J. G. Cockburn.
+- 
+  term: Bankers
+  desc: >
+    Hall, Lloyd, Bevan, and West; London and
+    County Bank; J. G. Cockburn.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This once famous resort of royalty and fashion may now, through the levelling of the railroad, be fairly entitled to the appellation of the Marine Metropolis.
-----
-text: The (smcp: Brighton Terminus) is an elegant structure, fitted up in the most convenient manner. There is a portico in the Roman architectural style, which projects on pillars into the street, and is surmounted by an illuminated clock.
+
+Text:
+
+The (smcp: Brighton Terminus) is an elegant structure, fitted up in the most convenient manner. There is a portico in the Roman architectural style, which projects on pillars into the street, and is surmounted by an illuminated clock.
 
 This once famous resort of royalty and fashion may now, through the literal as well as metaphorical levelling of the railroad, be fairly entitled to the appellation of the Marine Metropolis. Merchants who formerly made Dulwich or Dalston the boundaries of their suburban residences, now have got their mansions on the south coast, and still get in less time, by a less expensive conveyance, to their counting-houses in the city. Excursions are now made with greater facility, and possibly more enjoyment, to Brighton, than would have, a few years back, sufficed for the common-place pilgrimage to Hampton Court; and a constant succession of trains, conveying a host of pleasure-seekers and businessmen to and fro, now traverse with marvellous frequency and precision the line that has sprung, by the magical enterprise of man, from tracts of waving corn-fields and boundless breadths of pasture.
 
@@ -50,3 +64,35 @@ With regard to inns, taverns, hotels, lodging and boarding-houses, nowhere are t
 The race-course is about a mile and a half northward of the town, on the summit of one of the loftiest and most commanding downs in the neighbourhood. The races generally take place early in August.
 
 As the Brighton excursionist will go to the Devil's Dyke, as a matter of course, we do not stay to tell him how he shall behold therefrom the Isle of Wight, spread beneath him like a map, or Beechy Head, looming like a snow-peak to the east, and the Downs for away, mingling with the horizon. But be it gently whispered, that on the margin of this demoniacal defile there standeth a small hostel, the glories of whose bread and cheese and ale have been sung by many an aristocratic voice. Everybody that ever was there assures you that for baking and brewing it stands unrivalled, although we shrewdly suspect that the preparatory course of Southdown oxygen hath a wonderful agency in eliciting this appreciation of a fare so humble.
+
+----
+
+Distances: 
+
+----
+
+Title-short: 
+
+----
+
+Subtitle: 
+
+----
+
+Desc: This once famous resort of royalty and fashion may now, through the levelling of the railroad, be fairly entitled to the appellation of the Marine Metropolis.
+
+----
+
+Section: 1
+
+----
+
+Children: 
+
+----
+
+Links: 
+
+----
+
+Uuid: k1MdQR58vTul2rjO

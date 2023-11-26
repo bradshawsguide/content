@@ -1,8 +1,19 @@
-section: 3
+Title: Turriff
+
 ----
-title: Turriff
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Banff, 11¼ miles.
+
+Notes: Telegraph station at Banff, 11¼ miles.
+
 ----
-text: Population. 3,692 chiefly engaged in the manufacture of thread and linen. Situated on the river Deveron, in which are salmon and trout.
+
+Text:
+
+Population. 3,692 chiefly engaged in the manufacture of thread and linen. Situated on the river Deveron, in which are salmon and trout.
+
+----
+
+Uuid: lRAFd74xrj7GofPm

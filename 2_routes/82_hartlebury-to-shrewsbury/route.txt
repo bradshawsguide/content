@@ -1,12 +1,21 @@
-section: 2
+Title: Hartlebury to Shrewsbury
+
 ----
-title: Hartlebury to Shrewsbury
+
+Section: 2
+
 ----
-subtitle: Severn Valley Railway
+
+Subtitle: Severn Valley Railway
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - hartlebury
 - stourport
 - bewdley
@@ -23,11 +32,16 @@ stops:
 - cressage
 - berrington
 - shrewsbury
+
 ----
-links:
-- (wikipedia: Severn_Valley_Railway)
+
+Links: - (wikipedia: Severn_Valley_Railway)
+
 ----
-text: Taking a north-westerly direction, this line runs *via* [Stourport](/stations/stourport), a small town trading in glass, corn, timber, &c, to the town of
+
+Text:
+
+Taking a north-westerly direction, this line runs *via* [Stourport](/stations/stourport), a small town trading in glass, corn, timber, &c, to the town of
 
 (place: england/worcestershire/bewdley)
 
@@ -66,3 +80,7 @@ Returning to Buildwas Junction we pass along a portion of the Wenlock Railway to
 Once more returning to Buildwas Junction, we pass on, *via* the stations of [Cressage](/stations/cressage) and [Berrington](/stations/berrington), to the old parliamentary town of
 
 (place: england/shropshire/shrewsbury)
+
+----
+
+Uuid: 4TBJWPvuhBuPqL7X

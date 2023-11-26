@@ -1,12 +1,24 @@
-section: 2
+Title: Southall
+
 ----
-title: Southall
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Red Lion.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
+----
+
+Uuid: LjOBAuMiXDB8k7nP

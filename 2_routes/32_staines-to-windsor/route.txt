@@ -1,22 +1,40 @@
-section: 1
+Title: Staines to Windsor
+
 ----
-title: Staines to Windsor
+
+Section: 1
+
 ----
-subtitle: Staines to Windsor Line
+
+Subtitle: Staines to Windsor Line
+
 ----
-company: companies/london-and-south-western
+
+Company: companies/london-and-south-western
+
 ----
-stops:
+
+Stops:
+
 - staines
 - wraysbury
 - datchet
 - windsor-lswr
+
 ----
-links:
-- (wikipedia: Staines–Windsor_line)
+
+Links: - (wikipedia: Staines–Windsor_line)
+
 ----
-text: The first Station from the Junction at Staines, is [Wraysbury](/stations/wraysbury), a respectable specimen of a real English village, near the confluence of the Colne with the Thames.
+
+Text:
+
+The first Station from the Junction at Staines, is [Wraysbury](/stations/wraysbury), a respectable specimen of a real English village, near the confluence of the Colne with the Thames.
 
 [Datchet Station](/stations/datchet).
 
 (place: england/berkshire/windsor)
+
+----
+
+Uuid: wlnHGBXjgZKCzQC9

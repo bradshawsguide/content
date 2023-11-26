@@ -1,6 +1,13 @@
-section: 2
+Title: Midland Great Western Railway
+
 ----
-title: Midland Great Western Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Midland_Great_Western_Railway)
+
+Links: - (wikipedia: Midland_Great_Western_Railway)
+
+----
+
+Uuid: f6TrADtGYYTV62CH

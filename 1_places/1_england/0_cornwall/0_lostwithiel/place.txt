@@ -1,10 +1,23 @@
-section: 2
+Title: Lostwithiel
+
 ----
-title: Lostwithiel
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: The only features of attraction here are the parish church and the ruins of a building called the palace.
+
+Desc: The only features of attraction here are the parish church and the ruins of a building called the palace.
+
 ----
-text: The only features of attraction here are the parish church and the ruins of a building called the palace. The former was built in the 14th century, has a fine spire and a curious font. The latter is said to have been the residence of the Dukes of Cornwall
+
+Text:
+
+The only features of attraction here are the parish church and the ruins of a building called the palace. The former was built in the 14th century, has a fine spire and a curious font. The latter is said to have been the residence of the Dukes of Cornwall
+
+----
+
+Uuid: YmYWVI4CwX6TEuUp

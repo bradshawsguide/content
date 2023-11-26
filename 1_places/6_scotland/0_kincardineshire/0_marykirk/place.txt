@@ -1,8 +1,19 @@
-section: 3
+Title: Marykirk
+
 ----
-title: Marykirk
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Laurencekirk, 3¼ miles.
+
+Notes: Telegraph station at Laurencekirk, 3¼ miles.
+
 ----
-text: At the old church here are tombs of the Strachans, Thorntons, Barclays of Balmachewan, stone cross and antique font. In the vicinity are *Balmachewan*, seat, of Col. Fraser; *Inglismaldie*, Earl of Kintore; *Hatton Castle*, General Arbuthnott, MP.; *Kirktonhill*, R. Taylor, Esq.; the Druid's Stones at Hospital, Balanakillie, &c; and Inglisburn at which a battle was fought with the English.
+
+Text:
+
+At the old church here are tombs of the Strachans, Thorntons, Barclays of Balmachewan, stone cross and antique font. In the vicinity are *Balmachewan*, seat, of Col. Fraser; *Inglismaldie*, Earl of Kintore; *Hatton Castle*, General Arbuthnott, MP.; *Kirktonhill*, R. Taylor, Esq.; the Druid's Stones at Hospital, Balanakillie, &c; and Inglisburn at which a battle was fought with the English.
+
+----
+
+Uuid: CNDLnSSRiibFpt9l

@@ -1,14 +1,31 @@
-section: 2
+Title: Pelsall
+
 ----
-title: Pelsall
+
+Section: 2
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Walsall, 3¼ miles.
+
 ----
-notes:
-- Telegraph station at Walsall, 3¼ miles.
+
+Notes: Telegraph station at Walsall, 3¼ miles.
+
 ----
-desc: This is a celebrated mining place, with a population of 1,892.
+
+Desc: This is a celebrated mining place, with a population of 1,892.
+
 ----
-text: This is a celebrated mining place, with a population of 1,892.
+
+Text:
+
+This is a celebrated mining place, with a population of 1,892.
+
+----
+
+Uuid: aRDKkmvQpS4Thpcn

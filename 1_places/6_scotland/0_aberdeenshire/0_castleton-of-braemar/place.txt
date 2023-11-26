@@ -1,12 +1,27 @@
-section: 3
+Title: Castleton of Braemar
+
 ----
-title: Castleton of Braemar
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Invercauld Arms, Fife Arms.
+
 ----
-notes:
-- Telegraph station at Aberdeen, 7¾ miles.
+
+Notes: Telegraph station at Aberdeen, 7¾ miles.
+
 ----
-text: This is only an old Highland village, surrounded by mountains, and situated in the centre of a region of forests; but it is the best place for the tourist to select to start from on a visit to the different excursions and places of interest in the neighbourhood. *Braemar Castle*, and view from Invercauld Bridge; the Falls of the Garrawalt, and Corriemulzie, the Linns of Quirch and Dee, are the nearest excursions. The more distant are Lochnagar and other peaks in Glen Tilt, and beyond Ben Macdhui, in the heart of the magnificent scenery of the Grampians. The latter, to the south of Braemar, is 4,390 feet high, or second only to Ben Nevis, the highest mountain of Great Britain.
+
+Text:
+
+This is only an old Highland village, surrounded by mountains, and situated in the centre of a region of forests; but it is the best place for the tourist to select to start from on a visit to the different excursions and places of interest in the neighbourhood. *Braemar Castle*, and view from Invercauld Bridge; the Falls of the Garrawalt, and Corriemulzie, the Linns of Quirch and Dee, are the nearest excursions. The more distant are Lochnagar and other peaks in Glen Tilt, and beyond Ben Macdhui, in the heart of the magnificent scenery of the Grampians. The latter, to the south of Braemar, is 4,390 feet high, or second only to Ben Nevis, the highest mountain of Great Britain.
+
+----
+
+Uuid: CwNgBIBh3HxEv0TY

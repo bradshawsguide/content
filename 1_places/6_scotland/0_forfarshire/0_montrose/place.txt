@@ -1,22 +1,37 @@
-section: 3
+Title: Montrose
+
 ----
-title: Montrose
+
+Section: 3
+
 ----
-subtitle: (Branch)
+
+Subtitle: (Branch)
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Star; White Horse; Crown.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: Friday after Wlut Sunday, o. s.; and Mar-
   tinmas, *o.s.*
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: (smcp: Montrose), in Forfarshire, was called *Munross* as it stands on a little headland (*ross* in Gaelic[^1], *rhos* in Welsh) between the north sea and its harbour which is a natural lake or basin, a little up the South Esk, inside the town. This basin, though 3 miles in circuit, is very shallow; wet docks have been constructed, and about 15,000 tons of shipping belong to the port. Over a part of the river is one of Sir S Brown's suspension bridges, built in 1829, 432 feet long, and lying on towers 72 feet high.
+
+Text:
+
+(smcp: Montrose), in Forfarshire, was called *Munross* as it stands on a little headland (*ross* in Gaelic[^1], *rhos* in Welsh) between the north sea and its harbour which is a natural lake or basin, a little up the South Esk, inside the town. This basin, though 3 miles in circuit, is very shallow; wet docks have been constructed, and about 15,000 tons of shipping belong to the port. Over a part of the river is one of Sir S Brown's suspension bridges, built in 1829, 432 feet long, and lying on towers 72 feet high.
 
 As a parliamentary burgh, Montrose returns one member, and has a population of about 15,238, many of whom are engaged in the linen manufacture. The late member, the estimable and patriotic Joseph Hume, Esq., was a native of this place, from which he was sent to India, under the patronage of the Panmure family, where he did great service as a Persian scholar. Another native was the late Sir Alexander Burnes, a kinsman of the poet Burns, who was assassinated at Cabool in 1841, on the outbreak of the Affghan war. The great Marquis of Montrose was also born here in 1612, in the house afterwards occupied by the Chevalier on his landing in 1716. Another local event is that related by Froissart of the Douglas, the "good Lord James," who, in 1330, embarked here with the heart of Bruce for the Holy Land. He was killed before he got there, having landed at Seville to fight the Moors; while the casket containing the King's heart was brought home and buried at Melrose.
 
@@ -29,3 +44,7 @@ None of the buildings are of much account. The *Town Hall* and *Linen Rail* are 
 All this part of the line passes through the fertile Vale of Strathmore.
 
 [^1]: Another derivation makes it *Mont Rosarum* or Mount of Roses; and, accordingly, on the town seal is a wreath of roses, with a motto signifying that these sea enriches aud the *Rose* embelishes.
+
+----
+
+Uuid: oziv0eGBDa8fDLkP

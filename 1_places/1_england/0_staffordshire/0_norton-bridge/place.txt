@@ -1,17 +1,37 @@
-section: 3
+Title: Norton Bridge
+
 ----
-title: Norton Bridge
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Railway.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Stone, 3 miles.
+
 ----
-notes:
+
+Notes:
+
 - A telegraph station.
 - Distance from station, ¾ mile.
+
 ----
-desc: In the vicinity is *Eccleshall*, the seat of the Bishops of Lichfield since the 13th century.
+
+Desc: In the vicinity is *Eccleshall*, the seat of the Bishops of Lichfield since the 13th century.
+
 ----
-text: In the vicinity is *Eccleshall*, the seat of the Bishops of Lichfield since the 13th century. In the church, Margaret of Anjou sought refuge after her flight from Blore Heath, in 1459.
+
+Text:
+
+In the vicinity is *Eccleshall*, the seat of the Bishops of Lichfield since the 13th century. In the church, Margaret of Anjou sought refuge after her flight from Blore Heath, in 1459.
+
+----
+
+Uuid: qfNAl72C75s0uv8f

@@ -1,18 +1,37 @@
-﻿section: 1
+Title: Ringwood
+
 ----
-title: Ringwood
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: White Hart.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: July 10th and December 11th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: On the borders of the New Forest.
+
+Desc: On the borders of the New Forest.
+
 ----
-text: The town is situated on the Avon, on the borders of the New Forest, and forms the junction of a short line, about seven miles in length.
+
+Text:
+
+The town is situated on the Avon, on the borders of the New Forest, and forms the junction of a short line, about seven miles in length.
+
+----
+
+Uuid: FTdYCJtm2fjj3dqu

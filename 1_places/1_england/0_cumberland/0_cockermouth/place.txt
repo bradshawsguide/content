@@ -1,16 +1,33 @@
-section: 3
+Title: Cockermouth
+
 ----
-title: Cockermouth
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Globe.
-- term: Market Day
+-
+  term: Market Day
   desc: Monday.
-- term: Fairs
+-
+  term: Fairs
   desc: Every other Wednesday from May to September, October 10th, Whit and Martinmas Mondays.
+
 ----
-notes:
-- Telegraph station a Workington, 8½ miles.
+
+Notes: Telegraph station a Workington, 8½ miles.
+
 ----
-text: A market town, with a population of 7,057, who return two members, situated at the junction of the Cocker and Derwent. It contains manufactories of woollens, ginghams, hats, and stickings, tan-work, collieries, a public walk by the river, market place, three chapels, grammar school (with a good library), hospital, two bridges, St. Mary's Church, rebuilt in 1850, situated on an eminence, with the Wordsworth (a native) memorial window, and ruins of a castle, consisting of walls, west front, drawbridge, tower, &c., which was dismantled in 1648, and help Mary, Queen of Scots as a prisoner in 1568. In the vicinity are the seat of Major Skelton (at which many Roman antiquities have been found), *St. Helens*, Rev. J. Bensom, and *Woodhall*, J. Fisher, Esq.
+
+Text:
+
+A market town, with a population of 7,057, who return two members, situated at the junction of the Cocker and Derwent. It contains manufactories of woollens, ginghams, hats, and stickings, tan-work, collieries, a public walk by the river, market place, three chapels, grammar school (with a good library), hospital, two bridges, St. Mary's Church, rebuilt in 1850, situated on an eminence, with the Wordsworth (a native) memorial window, and ruins of a castle, consisting of walls, west front, drawbridge, tower, &c., which was dismantled in 1648, and help Mary, Queen of Scots as a prisoner in 1568. In the vicinity are the seat of Major Skelton (at which many Roman antiquities have been found), *St. Helens*, Rev. J. Bensom, and *Woodhall*, J. Fisher, Esq.
+
+----
+
+Uuid: 3EMIIH0IehcdVTLz

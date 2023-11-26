@@ -1,16 +1,34 @@
-section: 3
+Title: Egginton
+
 ----
-title: Egginton
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 355.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Derby, 8 miles.
+
 ----
-notes:
-- Telegraph station at Derby, 8 miles.
+
+Notes: Telegraph station at Derby, 8 miles.
+
 ----
-desc: In the vicinity is *Egginton Hall*, seat of Sir H. Every, Bart.
+
+Desc: In the vicinity is *Egginton Hall*, seat of Sir H. Every, Bart.
+
 ----
-text: In the vicinity is *Egginton Hall*, seat of Sir H. Every, Bart.
+
+Text:
+
+In the vicinity is *Egginton Hall*, seat of Sir H. Every, Bart.
+
+----
+
+Uuid: xNqPLFWGHgAbDkCf

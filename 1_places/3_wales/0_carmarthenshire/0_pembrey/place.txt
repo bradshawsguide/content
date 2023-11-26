@@ -1,12 +1,24 @@
-section: 2
+Title: Pemprey
+
 ----
-title: Pemprey
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 4,145.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
+
 ----
-notes:
-- Telegraph station at Llanelly, 4½ miles.
+
+Notes: Telegraph station at Llanelly, 4½ miles.
+
+----
+
+Uuid: Idb9mNENB7lT6D3h

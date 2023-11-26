@@ -1,17 +1,37 @@
-section: 1
+Title: Hackney
+
 ----
-title: Hackney
+
+Section: 1
+
 ----
-info:
-- term: Omnibuses
+
+Info:
+
+-
+  term: Omnibuses
   desc: Every 5 minutes to and from the city and Oxford Street, London.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: Church Street.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - A telegraph station.
+
 ----
-desc: On the right, from the midst of roofs of houses, thickly planted trees in the churchyard and adjacent gardens, rises the picturesque tower of the old church, and the pyramidal tower of the new church.
+
+Desc: On the right, from the midst of roofs of houses, thickly planted trees in the churchyard and adjacent gardens, rises the picturesque tower of the old church, and the pyramidal tower of the new church.
+
 ----
-text: On the right, from the midst of roofs of houses, thickly planted trees in the churchyard and adjacent gardens, rises the picturesque tower of the old church, and the pyramidal tower of the new church. In the old Church General Fairfax was married; De Foe lived here, and Dr. South, the wit, was a native. The square building on the right side is the Hackney Railway station.
+
+Text:
+
+On the right, from the midst of roofs of houses, thickly planted trees in the churchyard and adjacent gardens, rises the picturesque tower of the old church, and the pyramidal tower of the new church. In the old Church General Fairfax was married; De Foe lived here, and Dr. South, the wit, was a native. The square building on the right side is the Hackney Railway station.
+
+----
+
+Uuid: 4nQ2bUgOKbLmTPIw

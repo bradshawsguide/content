@@ -1,14 +1,30 @@
-section: 3
+Title: Whitchurch
+
 ----
-title: Whitchurch
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,704.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
+
 ----
-notes:
-- Telegraph station at Crewe, 13½ miles.
+
+Notes: Telegraph station at Crewe, 13½ miles.
+
 ----
-text: This town is prettily situated on a rising ground, at the top of which stands the church, rebuilt in 1722, on the site of one which had fallen down. Amongst the ancient monuments it contains, is one to the celebrated Earl of Shrewsbury. The principal buildings are, a grammar school, house of industry, alms-houses, &c.
+
+Text:
+
+This town is prettily situated on a rising ground, at the top of which stands the church, rebuilt in 1722, on the site of one which had fallen down. Amongst the ancient monuments it contains, is one to the celebrated Earl of Shrewsbury. The principal buildings are, a grammar school, house of industry, alms-houses, &c.
+
+----
+
+Uuid: C4SoMpxtjUHatTdh

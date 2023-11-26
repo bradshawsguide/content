@@ -1,5 +1,15 @@
-section: 3
+Title: Dalguise
+
 ----
-title: Dalguise
+
+Section: 3
+
 ----
-text: At which station the iourist has a fine treat in reserve by taking a conveyance to *Logierait*, a distance of four miles, where the Tummel, fed by various mountain streams from the Grampians, joins the Tay; from thence, up the Tay (the scenery along the whole route of which is truly beautiful), by *Grandtully*, *Murthly*, and *Aberfeldy*, with *Castle Menzies* a little to the right, to *Taymouth Castle*, the seat of the Marquis of Breadalbane, at the northern extremity of Loch Tay. If desirable, the tour may be extended down the Loch (fifteen miles), and thence through *Glens Dochart* and *Falloch* to the head of Loch Lomond, a distance of 45 miles from Taymouth Castle.
+
+Text:
+
+At which station the iourist has a fine treat in reserve by taking a conveyance to *Logierait*, a distance of four miles, where the Tummel, fed by various mountain streams from the Grampians, joins the Tay; from thence, up the Tay (the scenery along the whole route of which is truly beautiful), by *Grandtully*, *Murthly*, and *Aberfeldy*, with *Castle Menzies* a little to the right, to *Taymouth Castle*, the seat of the Marquis of Breadalbane, at the northern extremity of Loch Tay. If desirable, the tour may be extended down the Loch (fifteen miles), and thence through *Glens Dochart* and *Falloch* to the head of Loch Lomond, a distance of 45 miles from Taymouth Castle.
+
+----
+
+Uuid: c572oUeWXwuFrUYW

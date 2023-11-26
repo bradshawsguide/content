@@ -1,12 +1,27 @@
-section: 3
+Title: Closeburn
+
 ----
-title: Closeburn
+
+Section: 3
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Thornhill, 2¾ miles.
+
 ----
-notes:
-- Telegraph station at Thornhill, 2¾ miles.
+
+Notes: Telegraph station at Thornhill, 2¾ miles.
+
 ----
-text: Here are the ruins of an old castle of the Kilpatricks, *Closeburn Hall*, seat of Sir J. S. Menteith, Bart., and at Crichup Linn, a fall of 90 feet, was Balfour of Burley's Cave, the retreat of the persecuted covenanters. The scenery around is very romantic. *Glencairn* and *Loch Urr*, lie to our left.
+
+Text:
+
+Here are the ruins of an old castle of the Kilpatricks, *Closeburn Hall*, seat of Sir J. S. Menteith, Bart., and at Crichup Linn, a fall of 90 feet, was Balfour of Burley's Cave, the retreat of the persecuted covenanters. The scenery around is very romantic. *Glencairn* and *Loch Urr*, lie to our left.
+
+----
+
+Uuid: DIQ28WVTQDJhDqD4

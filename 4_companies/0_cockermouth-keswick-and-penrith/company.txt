@@ -1,6 +1,13 @@
-section: 3
+Title: Cockermouth, Keswick, and Penrith
+
 ----
-title: Cockermouth, Keswick, and Penrith
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Cockermouth,_Keswick_and_Penrith_Railway)
+
+Links: - (wikipedia: Cockermouth,_Keswick_and_Penrith_Railway)
+
+----
+
+Uuid: eJ5KWdByuqPVcex3

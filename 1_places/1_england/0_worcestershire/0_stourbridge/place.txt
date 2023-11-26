@@ -1,17 +1,36 @@
-section: 2
+Title: Stourbridge
+
 ----
-title: Stourbridge
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Talbot.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 29th and September 2Sth.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-text: A handsome town, noted for its glass manufacture Population 8,166. The surrounding districts abound in iron, coal. &c.
+
+Text:
+
+A handsome town, noted for its glass manufacture Population 8,166. The surrounding districts abound in iron, coal. &c.
+
+----
+
+Uuid: hCLBWExnyVipRsbK

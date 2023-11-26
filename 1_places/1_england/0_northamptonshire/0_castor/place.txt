@@ -1,13 +1,27 @@
-section: 3
+Title: Castor
+
 ----
-title: Castor
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 745.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Peterborough 4½ miles.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¾ mile.
 - Telegraph station at Peterbro', 5½ miles.
+
+----
+
+Uuid: JyXoHU8EJZURQlXB

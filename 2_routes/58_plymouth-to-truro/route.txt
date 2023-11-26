@@ -1,10 +1,17 @@
-section: 2
+Title: Plymouth to Truro
+
 ----
-title: Plymouth to Truro
+
+Section: 2
+
 ----
-company: companies/cornwall
+
+Company: companies/cornwall
+
 ----
-stops:
+
+Stops:
+
 - plymouth
 - devonport
 - saltash
@@ -18,11 +25,16 @@ stops:
 - st-austell
 - grampound-road
 - [truro, perran, penryn, falmouth]
+
 ----
-links:
-- (wikipedia: Cornwall_Railway)
+
+Links: - (wikipedia: Cornwall_Railway)
+
 ----
-text: Almost before we get clear of Plymouth our arrival is announced at
+
+Text:
+
+Almost before we get clear of Plymouth our arrival is announced at
 
 (place: england/devonshire/devonport)
 
@@ -43,3 +55,7 @@ A branch line 11¾ miles long here diverges in a south westerly direction to the
 Retracing our steps to Truro, we now proceed westward by the
 
 (route: truro-to-redruth-and-penzance)
+
+----
+
+Uuid: PhuknzWG1C2NZqlG

@@ -1,12 +1,24 @@
-﻿section: 1
+Title: Winchfield
+
 ----
-title: Winchfield
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Beauclerk Arms.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to Odiham, North Warnborough, Hartley, Hartley Row, Hartford Bridge, Wintney and Phoenix, five times daily, and to Bromhill, Hickfield, Strathfieldsaye, and Wokingham.
+
 ----
-notes:
-- Telegraph station at Farnborough, 6 miles.
+
+Notes: Telegraph station at Farnborough, 6 miles.
+
+----
+
+Uuid: SRPF8SpdrIQPFaj5

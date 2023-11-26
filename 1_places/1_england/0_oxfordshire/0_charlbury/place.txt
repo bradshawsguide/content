@@ -1,13 +1,30 @@
-section: 2
+Title: Charlbury
+
 ----
-title: Charlbury
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,380.
-- term: Hotel
+-
+  term: Hotel
   desc: The Bell.
+
 ----
-desc: *Ditchley* (2 miles), Lord Dillon, was the birthplace of the notorious Lord Rochester. Near it is *Kiddington*, with an old church, of which Wharton was rector.
+
+Desc: *Ditchley* (2 miles), Lord Dillon, was the birthplace of the notorious Lord Rochester. Near it is *Kiddington*, with an old church, of which Wharton was rector.
+
 ----
-text: *Ditchley* (2 miles), Lord Dillon, was the birthplace of the notorious Lord Rochester. Near it is *Kiddington*, with an old church, of which Wharton was rector. 6 miles distant is *Heythorpe*, another seat of the Duke of Beaufort. *Glympton*, on the river Gline, E. Way, Esq. From this station *Wychwood Forest*, (a fine wooded track of much sylvan beauty) soon to be reclaimed, may be visited. Warton the poet has immortalised the scenery about here.
+
+Text:
+
+*Ditchley* (2 miles), Lord Dillon, was the birthplace of the notorious Lord Rochester. Near it is *Kiddington*, with an old church, of which Wharton was rector. 6 miles distant is *Heythorpe*, another seat of the Duke of Beaufort. *Glympton*, on the river Gline, E. Way, Esq. From this station *Wychwood Forest*, (a fine wooded track of much sylvan beauty) soon to be reclaimed, may be visited. Warton the poet has immortalised the scenery about here.
+
+----
+
+Uuid: n9aK97XgLaL1omfz

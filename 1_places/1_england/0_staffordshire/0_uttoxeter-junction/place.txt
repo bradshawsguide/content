@@ -1,19 +1,40 @@
-section: 3
+Title: Uttoxeter Junction
+
 ----
-title: Uttoxeter Junction
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: White Hart; Lion.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Tuesday before Old Candlemas, May 6th, July 31st, September 1st and 19th, November 11th and 27th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1¾ mile.
 - A telegraph station.
+
 ----
-desc: This is a pleasant market town, with a population of 3,645.
+
+Desc: This is a pleasant market town, with a population of 3,645.
+
 ----
-text: This is a pleasant market town, with a population of 3,645. Here is a fine church, lately rebuilt, except the old spire, which is 179 feet high; Free Grammar School, founded by Allen, the mathematician, in 1570, a native, and a curious six-arched stone bridge. Sir S. Degge, the antiquary, and Lord Gardner, the sailor, were natives. In the vicinity is Hollingbury House, the Mynor's old seat.
+
+Text:
+
+This is a pleasant market town, with a population of 3,645. Here is a fine church, lately rebuilt, except the old spire, which is 179 feet high; Free Grammar School, founded by Allen, the mathematician, in 1570, a native, and a curious six-arched stone bridge. Sir S. Degge, the antiquary, and Lord Gardner, the sailor, were natives. In the vicinity is Hollingbury House, the Mynor's old seat.
+
+----
+
+Uuid: lVIg4b2ckmfcKl6T

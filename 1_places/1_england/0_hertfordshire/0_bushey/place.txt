@@ -1,13 +1,27 @@
-section: 3
+Title: Bushey
+
 ----
-title: Bushey
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,159.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Watford.
+
 ----
-notes:
+
+Notes:
+
 - Telegraph station at Watford, 1½ mile.
 - Distance from station, ¾ mile.
+
+----
+
+Uuid: 560DZKb0899Mengp

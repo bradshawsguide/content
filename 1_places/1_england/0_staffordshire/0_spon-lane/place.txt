@@ -1,9 +1,23 @@
-section: 3
+Title: Spon Lane
+
 ----
-title: Spon Lane
+
+Section: 3
+
 ----
-notes:
+
+Notes:
+
 ----
-desc: Here, in 1851, the glass for the Great Exhibition was made at the celebrated factory, which employs 1,200 hands.
+
+Desc: Here, in 1851, the glass for the Great Exhibition was made at the celebrated factory, which employs 1,200 hands.
+
 ----
-text: Here, in 1851, the glass for the Great Exhibition was made at the celebrated factory, which employs 1,200 hands.
+
+Text:
+
+Here, in 1851, the glass for the Great Exhibition was made at the celebrated factory, which employs 1,200 hands.
+
+----
+
+Uuid: 2IKGrAPUzxfPhaI9

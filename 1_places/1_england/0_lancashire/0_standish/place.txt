@@ -1,19 +1,39 @@
-section: 3
+Title: Standish
+
 ----
-title: Standish
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,054.
-- term: Hotel
+-
+  term: Hotel
   desc: Eagle and Child.
-- term: Fairs
+-
+  term: Fairs
   desc: June 29th and November 22nd.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Wigan, 2¼ miles.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - Telegraph station at Wigan, 2¼ miles.
+
 ----
-text: (smcp: Standish) is the seat of the Standishes, a very ancient family. *Haigh Hall*, the seat of the Earl of Crawford and Balcarres, a descendant of the Bradshaighs, who lived here for many centuries. *Ashton Hall*, a fine seat, is in the district of *Mackerfield*.
+
+Text:
+
+(smcp: Standish) is the seat of the Standishes, a very ancient family. *Haigh Hall*, the seat of the Earl of Crawford and Balcarres, a descendant of the Bradshaighs, who lived here for many centuries. *Ashton Hall*, a fine seat, is in the district of *Mackerfield*.
+
+----
+
+Uuid: D5rsoZ0yEUkl2PvG

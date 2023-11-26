@@ -1,14 +1,30 @@
-section: 3
+Title: Markinch
+
 ----
-title: Markinch
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Galloway.
-- term: Fairs
+-
+  term: Fairs
   desc: Second Tuesday in February; last Tuesday in March; second Tuesday in May.
+
 ----
-notes:
-- Telegraph station at Kirkaldy, 7¼ miles.
+
+Notes: Telegraph station at Kirkaldy, 7¼ miles.
+
 ----
-text: The church has a later steeple of 104 feet, stands on Markinch Hill, in which are some artificial terraces and the stob cross of stone 7 feet high. In the vicinity are *Balgonie*, Lord Leven; *Balbirnie*, J. Balfour, Esq.; *Balfour*, A. Bethune, Esq. (both old seats).
+
+Text:
+
+The church has a later steeple of 104 feet, stands on Markinch Hill, in which are some artificial terraces and the stob cross of stone 7 feet high. In the vicinity are *Balgonie*, Lord Leven; *Balbirnie*, J. Balfour, Esq.; *Balfour*, A. Bethune, Esq. (both old seats).
+
+----
+
+Uuid: 2xULmNgBJL6gvgB2

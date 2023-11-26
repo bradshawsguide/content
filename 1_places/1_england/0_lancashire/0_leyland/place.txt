@@ -1,16 +1,33 @@
-section: 3
+Title: Leyland
+
 ----
-title: Leyland
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,755.
-- term: Hotel
+-
+  term: Hotel
   desc: Railway.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Chorley, 4 miles.
+
 ----
-notes:
-- Telegraph station at Euxton, 1½ mile.
+
+Notes: Telegraph station at Euxton, 1½ mile.
+
 ----
-text: Here is an excellent *Free Grammar School*, and old church, with the tombs of the Ffarringtons, of Worden Hall.
+
+Text:
+
+Here is an excellent *Free Grammar School*, and old church, with the tombs of the Ffarringtons, of Worden Hall.
+
+----
+
+Uuid: RrVlq1SwcexXIQcz

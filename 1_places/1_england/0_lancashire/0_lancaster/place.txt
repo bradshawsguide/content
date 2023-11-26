@@ -1,24 +1,39 @@
-section: 3
+Title: Lancaster
+
 ----
-title: Lancaster
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: |
     King's Arms and Royal Hotel; Joesph Sly. See *Household Words*, Nos. 395 and 396, October 1857, where this hotel is noticed in the following terms: "The order was promptly executed (truly, all orders were so, in that excellent hotel)." We can certainly endorse the remark of Mr. Dickens.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 1st to 3rd, July 5th to 7th, August 11th to 13th, and October 10th, three days each, first dat for cattle, second for cheese, and third for toys.
-- term: Races
+-
+  term: Races
   desc: In July.
-- term: Bankers
+-
+  term: Bankers
   desc: Lancaster Banking Co.; Branch of Preston Banking Co.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: (smcp: Lancaster), capital of Lancashire, a parliamentary borough (two members), and port, with a population of 16,005, engaged in the cotton trade, and a small coasting trade, at the mouth of the Lune, near Glasson Dock, From its Saxon name, *Loncastre*, meaning the camp or fortress on the Lune, it is likely there was a Roman station, but this is an unsettled point. Subsequent to the Conquest, it was the head of a crown manor which, in the person of Edward III.'s son, John of Gaunt, "time-honoured Lancaster," as Shakspeare styles him, was created a duchy, with a separate jurisdiction, which exists to this day, the Chancellorship of the Duchy of Lancaster being a ministerial office, while the dukedom is held by the heir apparent, the Prince of Wales. The Lancashire magistrates are nominated by this duchy officer, and not by the Lord Chancellor. The duchy is not confined to this county, but extends elsewhere, even to several parishes near Westbury-on-Severn, in Gloucestershire; Tutbury, &c. in Staffordshire; and the Savoy, in London, where the Dukes had a large palace.
+
+Text:
+
+(smcp: Lancaster), capital of Lancashire, a parliamentary borough (two members), and port, with a population of 16,005, engaged in the cotton trade, and a small coasting trade, at the mouth of the Lune, near Glasson Dock, From its Saxon name, *Loncastre*, meaning the camp or fortress on the Lune, it is likely there was a Roman station, but this is an unsettled point. Subsequent to the Conquest, it was the head of a crown manor which, in the person of Edward III.'s son, John of Gaunt, "time-honoured Lancaster," as Shakspeare styles him, was created a duchy, with a separate jurisdiction, which exists to this day, the Chancellorship of the Duchy of Lancaster being a ministerial office, while the dukedom is held by the heir apparent, the Prince of Wales. The Lancashire magistrates are nominated by this duchy officer, and not by the Lord Chancellor. The duchy is not confined to this county, but extends elsewhere, even to several parishes near Westbury-on-Severn, in Gloucestershire; Tutbury, &c. in Staffordshire; and the Savoy, in London, where the Dukes had a large palace.
 
 The castle is the chief object of attraction. Standing on a hill, west of the town, on the site of one built after the Conquest, by Roger de Poitou, it includes the shire courts, county gaoL and other buildings, all in the castellated style, by Harrison (the architect of Chester Castle), and cost £140,000. Four or five old towers remain (in a restored condition), of which the dungeon (donjon), 90 feet high, is the oldest; and another, called Adrian's, which may have some Roman work in it. John of Gaunt's round tower, over the gate, is of the 14th century, as is also John of Gaunt's chair, another part of the building, from which, on a clear day may be distinctly seen the Isle of Man. Northcote's portrait of George III. is in the Crown Court.
 
@@ -31,3 +46,7 @@ Further up the Lune is an excellent five-arched bridge, which unites the town to
 The exterior of the church, with its lofty steeple, and the towers of the Castle, are noble objects for the stranger's eye as he passes onward by the Lancaster and Carlisle Line to the Lune Viaduct which is in the immediate, vicinity of the Castle Station. It crosses the Lune on three wide-span wood arches, extending to the north with a stone arch, over the Lancaster and Morecambe railway, and to the south with seven lofty stone arches across the road above the new wood landing-wharf; the buttress between each is perforated with two door-way arches. Owing to its great elevation above the river it forms a prominent object from many points of view in the vicinity of the Lancaster Castle Station, which is situated at the northern terminus of the Lancaster and Preston Railway; the station is a very neat building, erected of fine white freestone.
 
 Professor Owen and Professor Whewell both are natives of Lancaster, and received their education at the Grammar School.
+
+----
+
+Uuid: KzQNqbTaTWxKighm

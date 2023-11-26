@@ -1,25 +1,43 @@
-section: 2
+Title: Worcester
+
 ----
-title: Worcester
+
+Section: 2
+
 ----
-station: worcester-shrub-hill
+
+Station: worcester-shrub-hill
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Star and Garter; the Hop Pole; the Bell; the Unicorn; the Crown.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Saturday before Palm Sunday, Saturday before Easter, August 15th, September 19th, and 1st Monday in December.
-- term: Races
+-
+  term: Races
   desc: in July and November.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Worcester, the capital of Worcestershire, in a fine part of the Severn, is a parliamentary borough, and seat of a diocese, with a population of 31,227.
+
+Desc: Worcester, the capital of Worcestershire, in a fine part of the Severn, is a parliamentary borough, and seat of a diocese, with a population of 31,227.
+
 ----
-text: (smcp: Worcester), the capital of Worcestershire, in a fine part of the Severn, is a parliamentary borough (two members), and seat of a diocese, with a population of 31,227.
+
+Text:
+
+(smcp: Worcester), the capital of Worcestershire, in a fine part of the Severn, is a parliamentary borough (two members), and seat of a diocese, with a population of 31,227.
 
 One distinct branch of manufacture is glove making, to the amount of half-a-million pairs of leather and kid gloves annually, employing between one thousand and two thousand persons. Another is boots and shoes; and the third is fine porcelain china, which was established here about a century ago by Dr. Wall (the same who made the Malvern Waters known). Chamberlain and Grainger's are the two oldest.
 
@@ -36,3 +54,7 @@ There are several charitable institutions here, amply endowed, such as *Queen Ho
 In the neighbourhood of Worcester are many interesting spots:--*Bevere* (2 miles), supposed to have been a beaver colony, is a handsome seat on an island in the Severn, from which the Malvern hills are visible. Hither the citizens retreated during the plague of 1637, and it is frequented for bathing. *Perdiswell* is the seat of Sir O. Wakeman, Bart. *Claines* is near the remains of White Ladies' or Whitestone Nunnery, in which are preserved the bed and cup of Queen Elizabeth, who visited it in 1585. (This is distinct from White Ladies above mentioned). *Hartlebury Castle*, near Stourport, the seat of the Bishops of Worcester for many centuries past; but most of it was rebuilt, after the Restoration. *Hanbury Hall*. B. Vernon, Esq., an old seat. *Spetchley Park*, another old seat of the Berkeleys, now of R. Berkeley, Esq., their monuments are in the church. *Madresfield*, Earl Beauchamp's old seat, is full of fine ancient portraits, &c. Their old seat was at *Powick*, called Beauchamp's Court. *Boughton*, on the Teme, (which joins the Severn a little below the city), is the seat of J. W. Isaac, Esq. At *Hatton Park* there is a useful mineral spring, the property of J. Mann, Esq.
 
 At *Upton* (9 miles), the celebrated Dr. Dee, the astrologer, was born. Near Malvern, in the direction of Upton, is a small but exquisitely built and decorated Roman Catholic chapel, and priest's residence.
+
+----
+
+Uuid: EFzgnlh2sxuxKzv9

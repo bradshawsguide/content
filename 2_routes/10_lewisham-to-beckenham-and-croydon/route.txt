@@ -1,24 +1,42 @@
-section: 1
+Title: Lewisham to Beckenham and Croydon
+
 ----
-title: Lewisham to Beckenham and Croydon
+
+Section: 1
+
 ----
-title_short: Lewisham to Croydon
+
+Title-short: Lewisham to Croydon
+
 ----
-company: companies/mid-kent
+
+Company: companies/mid-kent
+
 ----
-stops:
+
+Stops:
+
 - lewisham
 - ladywell
 - lower-sydenham
 - beckenham
 - elmers-end
 - croydon-addiscombe-road
+
 ----
-links:
-- (wikipedia: Mid-Kent_Railway)
+
+Links: - (wikipedia: Mid-Kent_Railway)
+
 ----
-text: On leaving [Lewisham Junction](/stations/lewisham) we cross the Ravensbourne twice, and then come to [Ladywell](/stations/ladywell), to the right of which are the Deptford and Lewisham Cemeteries. We again cross the stream at its junction with the Pool, along the side of which we continue our course to [Lower Sydenham](/stations/lower-sydenham). From thence we pass to
+
+Text:
+
+On leaving [Lewisham Junction](/stations/lewisham) we cross the Ravensbourne twice, and then come to [Ladywell](/stations/ladywell), to the right of which are the Deptford and Lewisham Cemeteries. We again cross the stream at its junction with the Pool, along the side of which we continue our course to [Lower Sydenham](/stations/lower-sydenham). From thence we pass to
 
 (place: england/kent/beckenham)
 
 The next station we come to is [Elmer's End](/stations/elmers-end), and finally to that of [Addiscombe Road](/stations/croydon-addiscombe-road), about one mile to the east of [Croydon](/places/england/surrey/croydon).
+
+----
+
+Uuid: E2mLxqWmau9rUSYe

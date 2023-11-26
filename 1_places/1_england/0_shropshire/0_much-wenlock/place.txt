@@ -1,7 +1,19 @@
-section: 2
+Title: Much Wenlock
+
 ----
-title: Much Wenlock
+
+Section: 2
+
 ----
-desc: A town of some importance, situated near the northern base of the Wenlock Edge, a range of limestone hills extending about 14 miles to the sonth-west.
+
+Desc: A town of some importance, situated near the northern base of the Wenlock Edge, a range of limestone hills extending about 14 miles to the sonth-west.
+
 ----
-text: A town of some importance, situated near the northern base of the Wenlock Edge, a range of limestone hills extending about 14 miles to the sonth-west. Population, 21,590. The splendid remains of a cluniac monastery, consisting of the church and part of the chapter-house, should be seen. Besides the church, with a library in connection therewith, it has its philanthropic institutions, together with the usual characteristics of a well regulated chartered town.
+
+Text:
+
+A town of some importance, situated near the northern base of the Wenlock Edge, a range of limestone hills extending about 14 miles to the sonth-west. Population, 21,590. The splendid remains of a cluniac monastery, consisting of the church and part of the chapter-house, should be seen. Besides the church, with a library in connection therewith, it has its philanthropic institutions, together with the usual characteristics of a well regulated chartered town.
+
+----
+
+Uuid: A6GfnCk4zSD5Hh7w

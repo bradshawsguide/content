@@ -1,7 +1,19 @@
-section: 2
+Title: Donaghadee
+
 ----
-title: Donaghadee
+
+Section: 2
+
 ----
-desc: This place is favoured by nature, though somewhat improved by art, with a good and convenient harbour, from whence a submarine telegraph was laid down in 1853, across to the Scottish coast.
+
+Desc: This place is favoured by nature, though somewhat improved by art, with a good and convenient harbour, from whence a submarine telegraph was laid down in 1853, across to the Scottish coast.
+
 ----
-text: This place is favoured by nature, though somewhat improved by art, with a good and convenient harbour, from whence a submarine telegraph was laid down in 1853, across to the Scottish coast. In front of the harbour are the Copeland Islands, near which, before a lighthouse was built, the Enterprise sunk in 1801; she was loaded with dollars, a part of which was afterwards recovered by Bell in his diving apparatus.
+
+Text:
+
+This place is favoured by nature, though somewhat improved by art, with a good and convenient harbour, from whence a submarine telegraph was laid down in 1853, across to the Scottish coast. In front of the harbour are the Copeland Islands, near which, before a lighthouse was built, the Enterprise sunk in 1801; she was loaded with dollars, a part of which was afterwards recovered by Bell in his diving apparatus.
+
+----
+
+Uuid: 5ZKlqqYPDcyp6LzA

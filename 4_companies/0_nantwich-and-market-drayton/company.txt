@@ -1,6 +1,13 @@
-section: 3
+Title: Nantwich and Market Drayton
+
 ----
-title: Nantwich and Market Drayton
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Nantwich_and_Market_Drayton_Railway)
+
+Links: - (wikipedia: Nantwich_and_Market_Drayton_Railway)
+
+----
+
+Uuid: E7EGW0jZezhJf7kT

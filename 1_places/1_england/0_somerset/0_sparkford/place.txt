@@ -1,8 +1,19 @@
-section: 2
+Title: Sparkford
+
 ----
-title: Sparkford
+
+Section: 2
+
 ----
-notes:
-- Telegraph station at Yeovil, 7 miles.
+
+Notes: Telegraph station at Yeovil, 7 miles.
+
 ----
-text: Near it on the left, is *Cadbury Castle*, one of the most stupendous fortifications in the kingdom, belonging to the days gone by, whose everyday life is but legendary and mythical. A part of the ruins is called King Arthur's palace.
+
+Text:
+
+Near it on the left, is *Cadbury Castle*, one of the most stupendous fortifications in the kingdom, belonging to the days gone by, whose everyday life is but legendary and mythical. A part of the ruins is called King Arthur's palace.
+
+----
+
+Uuid: Azhx7fBSd2c2cy80

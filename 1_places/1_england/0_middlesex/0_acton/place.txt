@@ -1,11 +1,27 @@
-section: 1
+Title: Acton
+
 ----
-title: Acton
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,151.
+
 ----
-desc: Here Sir Mathew Hale, Bishop Lloyd, and Baxter lived. The old Catholic church is worth a visit.
+
+Desc: Here Sir Mathew Hale, Bishop Lloyd, and Baxter lived. The old Catholic church is worth a visit.
+
 ----
-text: Here Sir Mathew Hale, Bishop Lloyd, and Baxter lived. The old Catholic church is worth a visit.
+
+Text:
+
+Here Sir Mathew Hale, Bishop Lloyd, and Baxter lived. The old Catholic church is worth a visit.
+
+----
+
+Uuid: FvktWNYQMAFD2uRE

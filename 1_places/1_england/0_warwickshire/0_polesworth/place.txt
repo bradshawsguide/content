@@ -1,12 +1,24 @@
-section: 3
+Title: Polesworth
+
 ----
-title: Polesworth
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,451.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Tamworth, 3½ miles.
+
 ----
-notes:
-- Telegraph station at Tamworth, 3½ miles.
+
+Notes: Telegraph station at Tamworth, 3½ miles.
+
+----
+
+Uuid: XENVbQUglXoXABKg

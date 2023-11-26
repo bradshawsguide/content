@@ -1,16 +1,27 @@
-section: 2
+Title: Llandovery
+
 ----
-title: Llandovery
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,855.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: January 1st, Wednesday after the 17th; March 19th; Whit-Tuesday; July 13th; October, Wednesday after the 10th; November 26th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-This straggling little town is surrounded by hills, which to the northward begin to assume a very wild and barren aspect. Here are the remains of a castle, destroyed by Cromwell.
+
+Uuid: bdh4NDueViU3TNEy

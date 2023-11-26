@@ -1,19 +1,40 @@
-section: 3
+Title: Longton
+
 ----
-title: Longton
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 16,690.
-- term: Hotel
+-
+  term: Hotel
   desc: Eagle.
-- term: Bankers
+-
+  term: Bankers
   desc: Harvey and Son; draw on Glyn and Co.
+
 ----
-notes:
+
+Notes:
+
 - Distance from the station, 1 mile
 - A telegraph station.
+
 ----
-desc: In the vicinity are *Longton Hall*, seat of H. Wileman, Esq., and Edmsor, where there is a handsome new church.
+
+Desc: In the vicinity are *Longton Hall*, seat of H. Wileman, Esq., and Edmsor, where there is a handsome new church.
+
 ----
-text: In the vicinity are *Longton Hall*, seat of H. Wileman, Esq., and Edmsor, where there is a handsome new church.
+
+Text:
+
+In the vicinity are *Longton Hall*, seat of H. Wileman, Esq., and Edmsor, where there is a handsome new church.
+
+----
+
+Uuid: 6Sx4gkBWJcRjO1rK

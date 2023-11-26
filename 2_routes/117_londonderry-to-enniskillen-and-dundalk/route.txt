@@ -1,14 +1,24 @@
-section: 2
+Title: Londonderry to Enniskillen & Dundalk
+
 ----
-title: Londonderry to Enniskillen & Dundalk
+
+Section: 2
+
 ----
-title_short: Londonderry to Dundalk
+
+Title-short: Londonderry to Dundalk
+
 ----
-company:
+
+Company:
+
 - companies/londonderry-and-enniskillen
 - companies/dundalk-and-enniskillen
+
 ----
-stops:
+
+Stops:
+
 - londonderry-foyle-road
 - carrigans
 - st-johnston
@@ -36,11 +46,16 @@ stops:
 - culloville
 - inniskeen
 - dundalk
+
 ----
-links:
-- (wikipedia: Londonderry_and_Enniskillen_Railway)
+
+Links: - (wikipedia: Londonderry_and_Enniskillen_Railway)
+
 ----
-text: [Carrigans](/stations/carrigans), close to which is *Dunmore*, the seat of R. M. Clintock, Esq.
+
+Text:
+
+[Carrigans](/stations/carrigans), close to which is *Dunmore*, the seat of R. M. Clintock, Esq.
 
 [St. Johnston](/stations/st-johnston), where fairs are held April 7th, October 13th, and November 26th.
 
@@ -91,3 +106,7 @@ The Finn Valley railway also turns off here to the right.
 We now enter the county of Louth, and shortly after the town of
 
 (place: ireland/county-louth/dundalk)
+
+----
+
+Uuid: kxdMZtnzH3vFnsBL

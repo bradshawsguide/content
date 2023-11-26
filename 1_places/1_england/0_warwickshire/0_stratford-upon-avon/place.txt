@@ -1,21 +1,36 @@
-section: 2
+Title: Stratford-upon-Avon
+
 ----
-title: Stratford-upon-Avon
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,672.
-- term: Hotels
+-
+  term: Hotels
   desc: Shakspeare, Ann Hitcham, Family and Commercial--comfortable house; White Lion, John Warden; Red Horse, John Gardner.
-- term: Bankers
+-
+  term: Bankers
   desc: Branch of Warwick and Leamington Banking Co.; Branch of Stourbridge and Kidderminster Banking Co.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This interesting part of Warwickshire is directly accessible by a branch of the Oxford, Worcester, and Wolverhampton line, by which means it is within, about 100 miles journey by rail from London.
+
+Desc: This interesting part of Warwickshire is directly accessible by a branch of the Oxford, Worcester, and Wolverhampton line, by which means it is within, about 100 miles journey by rail from London.
+
 ----
-text: This interesting part, of Warwickshire is directly accessible by a branch of the Oxford, Worcester, and Wolverhampton line, by which means it is within, about 100 miles journey by rail from London. A Roman road, called the Fossway, crossed the river at this point, and hence the name. It is a municipal borough, but derives its chief importance from being the *birthplace of Shakspeare*, who was born here 23rd April (St. George's day), 1564, in an old-fashioned timbered house, opposite the Falcon, in Henley Street, which, after some changes, and the risk even of being transferred as it stood to America, by a. calculating speculator, was at last purchased by the Shakspeare Club, and adopted by Government as a tribute to his memory.
+
+Text:
+
+This interesting part, of Warwickshire is directly accessible by a branch of the Oxford, Worcester, and Wolverhampton line, by which means it is within, about 100 miles journey by rail from London. A Roman road, called the Fossway, crossed the river at this point, and hence the name. It is a municipal borough, but derives its chief importance from being the *birthplace of Shakspeare*, who was born here 23rd April (St. George's day), 1564, in an old-fashioned timbered house, opposite the Falcon, in Henley Street, which, after some changes, and the risk even of being transferred as it stood to America, by a. calculating speculator, was at last purchased by the Shakspeare Club, and adopted by Government as a tribute to his memory.
 
 Stratford-upon-Avon,
 
@@ -68,3 +83,7 @@ But, whatever may have been his motive, we owe to this inscription the preservat
 > The slab where sleeps the Monarch of the Mind.
 
 The country round Stratford is peculiarly English--gardens, orchards, green meadows, a park here and there, and gently swelling hills,--but nothing striking. At *Shottery*, a little on the Alcester road, is the rustic cottage in which Ann Hathaway lived, and which was inhabited by her family down to 1838; it is built in the usual way, of stone and timber, and thatched. One mile north, are *Clapton House* (three centuries old), and *Welcombe*, the seat of C. Warde, Esq., under the hills, from which there are some good prospects of the town and county. *Ingon House*, was Shakspeare's at his death, having been bought by him in 1597, though built originally by the Cloptons, into whose hands it returned, by purchase from the poet's descendants after the Restoration. In 1752 it was sold to Mr. Gathell a Lichfield clergyman, who, on account of a dispute about, the rating, pulled it down. He had already cut down the poet's tree, to save himself the trouble of showing it to visitors. Fortunately, a cutting was planted by Garrick over the grave of Shakspeare's favourite grand-child, Lady Barnard, in Abington churchyard (near Northampton), and another is said to be at East Cliffe (Hastings); while the remains of the desecrated tree were sold in the shape of boxes, cups, &c., by Mr. T. Sharp, of Stratford. Immediately behind was a little farm which belonged to Shakspeare's mother. *Alveston*, T. Townshend, Esq., on the Avon, is near *Charlecote* (or Chalcot as it is called), the seat of G. Lucy, Esq., a truly old English pile, of the Elizabethan age, built of brick in 1558, by Sir Thomas Lucy, the poet's Justice Shallow. The "Three Luces" or pikes swimming among cross cross-lets, are here conspicuous; and they are seen again in the church, winch has been lately rebuilt. *Alscot Park*, on the Stour, belongs to J. West, Esq.; further up the stream is *Eatington*, the old seat of E. Shirley, Esq. To the west are *Piping Pebworth*, and *Dancing Marston*, as they are universally called, in some lines attributed, of course, to Shakspeare.
+
+----
+
+Uuid: OJifdZlSSFY5XYa4

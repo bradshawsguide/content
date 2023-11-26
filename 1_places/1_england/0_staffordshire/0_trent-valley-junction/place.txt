@@ -1,7 +1,19 @@
-section: 2
+Title: Trent Valley Junction
+
 ----
-title: Trent Valley Junction
+
+Section: 2
+
 ----
-desc: At this point an important connection takes place with the main line of the London and North Western, enabling parties to go to almost any part, north or south, of England.
+
+Desc: At this point an important connection takes place with the main line of the London and North Western, enabling parties to go to almost any part, north or south, of England.
+
 ----
-text: At this point an important connection takes place with the main line of the London and North Western, enabling parties to go to almost any part, north or south, of England.
+
+Text:
+
+At this point an important connection takes place with the main line of the London and North Western, enabling parties to go to almost any part, north or south, of England.
+
+----
+
+Uuid: GpBqH9NxU7qW3FyN

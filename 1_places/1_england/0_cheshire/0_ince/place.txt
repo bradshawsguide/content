@@ -1,5 +1,15 @@
-section: 2
+Title: Ince
+
 ----
-title: Ince
+
+Section: 2
+
 ----
-text: With its old church and manor house, the seat of I. Ince, Esq. *Stanlow Point* stretches on to the sands a little to our right, where there was a ferry, and the Abbots of St. Werburgh had a retreat.
+
+Text:
+
+With its old church and manor house, the seat of I. Ince, Esq. *Stanlow Point* stretches on to the sands a little to our right, where there was a ferry, and the Abbots of St. Werburgh had a retreat.
+
+----
+
+Uuid: cpHsrITNw0yrsU9T

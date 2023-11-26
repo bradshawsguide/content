@@ -1,16 +1,32 @@
-section: 3
+Title: Windermere
+
 ----
-title: Windermere
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: The Windermere Hotel.
-- term: Steamers
+-
+  term: Steamers
   desc: on the lake.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: From the Windermere station, the *Lake*, appears in view, with its beautiful islands, and grassy well-wooded fells round its borders. From north to south it is ten miles long, but at the greatest breadth only two, and fed chiefly by two small streams, the Rothay and Brathay at the top, and discharges itself by the Leven into the sea at Morecambe Bay. It preserves nearly the same level in all weathers. The view from the terminus embraces the village of Bowness, with its white houses, close at hand; the rocky mountains of Rydal, Borrowdale, Langdale, Eskdale, Coniston, and Troutbeck, round its head; while at the bottom, you see Belle Isle and surrounding Islands, the Ferry House, on the opposite side), the beautiful seat of *Storr's Hall*, near Rawlinson's Nab (on this side), and the Cartmel and Furness fells. In the immediate neighbourhood of the terminus are *Elleray*, the seat of the late Professor Wilson, the Editor -- "Christopher North" -- of *Blackwood's Magazine*, ("Old Ebony);" *Rayrigg* is a charming seat; and *Calgarth*, which in the last century was the constant residence of the late Dr. Watson, Bishop of Llandaff, author of "*Apology for Religion*," and other excellent, works.
+
+Text:
+
+From the Windermere station, the *Lake*, appears in view, with its beautiful islands, and grassy well-wooded fells round its borders. From north to south it is ten miles long, but at the greatest breadth only two, and fed chiefly by two small streams, the Rothay and Brathay at the top, and discharges itself by the Leven into the sea at Morecambe Bay. It preserves nearly the same level in all weathers. The view from the terminus embraces the village of Bowness, with its white houses, close at hand; the rocky mountains of Rydal, Borrowdale, Langdale, Eskdale, Coniston, and Troutbeck, round its head; while at the bottom, you see Belle Isle and surrounding Islands, the Ferry House, on the opposite side), the beautiful seat of *Storr's Hall*, near Rawlinson's Nab (on this side), and the Cartmel and Furness fells. In the immediate neighbourhood of the terminus are *Elleray*, the seat of the late Professor Wilson, the Editor -- "Christopher North" -- of *Blackwood's Magazine*, ("Old Ebony);" *Rayrigg* is a charming seat; and *Calgarth*, which in the last century was the constant residence of the late Dr. Watson, Bishop of Llandaff, author of "*Apology for Religion*," and other excellent, works.
 
 Windermere is too large to be explored all at once Bowness and Ferry Inn at the middle, Low Wood near the top, Newby Bridge at the bottom, and Belle Isle, the largest of its thirteen islands, present the most attractive prospects. By the road it is almost 26 miles round, but the views are more varied and magnificent from the higher grounds above it. The lake itself should be seen from the water as well as the shores, to take in all its beauties. Boats may be had at Bowness, Waterhead, and Low Wood Inn; and more than this, steamers now run its whole length, to the delight and convenience of residents and visitors. *Low Wood Inn*, on the north-east side, is on a beautiful bay; Brathay Park, Langdale Pikes, Fairfield, and other fells are visible, and the lake down to Belle Isle, There is a fine walk up the lane to Troutbeck, in which the views are constantly changing. From *High Wray* (opposite) a fine view of the Rydal and Ambleside mountains.
+
+----
+
+Uuid: Ses9Z0904be3Do6b

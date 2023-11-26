@@ -1,20 +1,38 @@
-section: 3
+Title: Fleetwood
+
 ----
-title: Fleetwood
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,834.
-- term: Hotels
+-
+  term: Hotels
   desc: Crown; Fleetwood Arms.
-- term: Steamers
+-
+  term: Steamers
   desc: to Belfast, daily (Sundays excepted) at or after 7½ p.m. Fares, 12s. 6d. and 4s.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: (smcp: Fleetwood), at the mouth of the Wyre, built on what was formerly a rabbit warren, is a modern town and port, which had no existence before 1836, but now contains a market, custom house, gas works, quay, 600 ft., a church, four chapels, &c., with a commodious harbour, from which steamers go to Belfast and the Lakes. The Light House is of iron screwed into the rock below the sand. In the vicinity is *Rossall*, a collegiate school for the sons of clergy-men and others, with 250 pupils, and a full staff of masters.
+
+Text:
+
+(smcp: Fleetwood), at the mouth of the Wyre, built on what was formerly a rabbit warren, is a modern town and port, which had no existence before 1836, but now contains a market, custom house, gas works, quay, 600 ft., a church, four chapels, &c., with a commodious harbour, from which steamers go to Belfast and the Lakes. The Light House is of iron screwed into the rock below the sand. In the vicinity is *Rossall*, a collegiate school for the sons of clergy-men and others, with 250 pupils, and a full staff of masters.
 
 A steamer crosses Morecambe Bay, on week days in summer, from Fleetwood to the Lakes district at 10¼ a.m., of which the nearest point is Piel.
+
+----
+
+Uuid: mWGRCPjxRUXEskSw

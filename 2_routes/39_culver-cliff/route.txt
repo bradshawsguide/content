@@ -1,12 +1,21 @@
-section: 1
+Title: Third Route: Culver Cliff, through the centre of the the Island
+
 ----
-title: Third Route: Culver Cliff, through the centre of the the Island
+
+Section: 1
+
 ----
-title_short: Culver Cliff
+
+Title-short: Culver Cliff
+
 ----
-company: companies/isle-of-wight
+
+Company: companies/isle-of-wight
+
 ----
-distances:
+
+Distances:
+
 - location: Afton Down
   miles: "19"
 - location: Ashey Mark
@@ -33,8 +42,12 @@ distances:
   miles: "18"
 - location: Yarborough Pillar
   miles: "1"
+
 ----
-text: This route, seldom taken by visitors, but a most attractive one for walkers, is towards Head-on-Hill (where fine white sand is dug for the glassmakers), and along the Downs, through the middle of Wight.
+
+Text:
+
+This route, seldom taken by visitors, but a most attractive one for walkers, is towards Head-on-Hill (where fine white sand is dug for the glassmakers), and along the Downs, through the middle of Wight.
 
 (distances: title: Distances from Culver Cliff)
 
@@ -51,3 +64,7 @@ text: This route, seldom taken by visitors, but a most attractive one for walker
 **Afton Down,** 500 feet high. Tumuli on the top.
 
 **Needles Down,** 500 feet. A road up to the light, with Alum Bay on one side, and Scratchell's Bay on the other. The Hampshire and Dorsetshire coast to the right, and Portland Bill (perhaps), may be seen in the distant horizon.
+
+----
+
+Uuid: l4t9myGOIxyi4ua5

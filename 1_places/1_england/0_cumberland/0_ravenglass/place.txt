@@ -1,19 +1,38 @@
-section: 3
+Title: Ravenglass
+
 ----
-title: Ravenglass
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: King's Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday
-- term: Fairs
+-
+  term: Fairs
   desc: May 6th, June 8th, and August 5th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - Telegraph station at St. Bees.
+
 ----
-text: This market-town and port lies on the Irish Sea, at the junction of the Irt, Nile, and Esk rivers. It contains a population of about 400, engaged in the coasting trade and oyster fishery, for which it is celebrated. In the vicinity are Birkly Fell, at which are remains of the "city of Barnscar," with its walls, buildings, roads, &c., near which Roman antiquities have been found. Twelve miles distant is Wast Water, and the Fells, the principle of which, *Scafell*, is 3,160 feet high.—Sharp's <cite>British Gazetteer</cite>.
+
+Text:
+
+This market-town and port lies on the Irish Sea, at the junction of the Irt, Nile, and Esk rivers. It contains a population of about 400, engaged in the coasting trade and oyster fishery, for which it is celebrated. In the vicinity are Birkly Fell, at which are remains of the "city of Barnscar," with its walls, buildings, roads, &c., near which Roman antiquities have been found. Twelve miles distant is Wast Water, and the Fells, the principle of which, *Scafell*, is 3,160 feet high.—Sharp's <cite>British Gazetteer</cite>.
 
 From Ravenglass, up the Esk, over Hard Knot to Ambleside, is about 20 miles.
+
+----
+
+Uuid: XyUChqHZU751OwWV

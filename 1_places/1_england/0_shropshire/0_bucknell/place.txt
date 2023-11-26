@@ -1,9 +1,23 @@
-section: 2
+Title: Bucknell
+
 ----
-title: Bucknell
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 622.
+
 ----
-text: Church is a mixture of the Norman and Early English.
+
+Text:
+
+Church is a mixture of the Norman and Early English.
+
+----
+
+Uuid: dzFB47ZDwACCVy2F

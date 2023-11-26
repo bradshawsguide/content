@@ -1,14 +1,25 @@
-section: 2
+Title: London to Reading, Bath and Bristol
+
 ----
-title: London to Reading, Bath and Bristol
+
+Section: 2
+
 ----
-title_short: London to Bristol
+
+Title-short: London to Bristol
+
 ----
-subtitle: Great Western Main Line
+
+Subtitle: Great Western Main Line
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - paddington
 - ealing
 - hanwell
@@ -38,15 +49,24 @@ stops:
 - saltford
 - keynsham
 - bristol
+
 ----
-links:
+
+Links:
+
 - (wikipedia: Great_Western_main_line)
 - (wikipedia: Slough–Windsor_&_Eton_line)
 - (wikipedia: Henley_branch_line)
+
 ----
-desc: This route at first lies through the Thames Valley, then, after passing the elevated plains to the north of Marborough Downs, gradually descends down into the fertile and picturesque valley of the Avon.
+
+Desc: This route at first lies through the Thames Valley, then, after passing the elevated plains to the north of Marborough Downs, gradually descends down into the fertile and picturesque valley of the Avon.
+
 ----
-text: ## London to Slough
+
+Text:
+
+## London to Slough
 
 The *Metropolitan Terminus* of the Great Western Railway is situated on the western side of the Paddington Canal, in a line with Praed-street, Paddington, at the north-west extremity of London, and at a short distance from the northern avenues to Hyde Park, thus affording an easy access to and from all parts of town. Omnibuses leave the City one hour before the departure of each train, and call at all the booking-offices on their way, winch, in addition to the cabs, leave the passenger at no loss for a prompt conveyance to this Terminus--one of the largest and most commodious stations in London. Its external appearance is not very remarkable,--but the booking-offices are convenient, the waiting rooms comfortable, the platforms, for the arrival and departure trains, spacious enough to accommodate the largest number of excursionists ever accumulated,--and the vast area embraced by the immense roofs by which the station is covered, impart to the mind of the traveller the impression that he is about to start by the railway of a first-rate company.
 
@@ -221,3 +241,7 @@ An embankment succeeds across the valley of the Avon, and passing over a viaduct
 The train then passes through several tunnels, and flitting over a three-arched bridge that spans the Avon, we again reach an embankment, during our passage over which our speed is gradually slackened, and we pass beneath that splendid archway, the entrance to
 
 (place: england/gloucestershire/bristol)
+
+----
+
+Uuid: NG2BVxpWtegWGydf

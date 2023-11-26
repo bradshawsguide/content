@@ -1,14 +1,30 @@
-section: 3
+Title: Kinross
+
 ----
-title: Kinross
+
+Section: 3
+
 ----
-info:
-- term: Market Day
+
+Info:
+
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Fourth Monday in March, July, and October.
+
 ----
-notes:
-- Telegraph station at Thornton, 2¾ miles.
+
+Notes: Telegraph station at Thornton, 2¾ miles.
+
 ----
-text: Situated on the west side of Loch Leven. It has a population of 2,803, engaged in the weaving of linen and cotton. Loch Leven is about 3½ by 2½ miles and 11 in circumference. It is studded with islands, on one of which -- nearest to Kinross -- stands the celebrated castle in which was imprisoned the ill-fated Queen Mary in 1567. It was here, too, she was compelled by Lord Lindsay to abdicate her claim to the Scottish crown; soon after which, by the aid of George Douglas, she escaped from the castle. The loch affords tine sport to the angler.
+
+Text:
+
+Situated on the west side of Loch Leven. It has a population of 2,803, engaged in the weaving of linen and cotton. Loch Leven is about 3½ by 2½ miles and 11 in circumference. It is studded with islands, on one of which -- nearest to Kinross -- stands the celebrated castle in which was imprisoned the ill-fated Queen Mary in 1567. It was here, too, she was compelled by Lord Lindsay to abdicate her claim to the Scottish crown; soon after which, by the aid of George Douglas, she escaped from the castle. The loch affords tine sport to the angler.
+
+----
+
+Uuid: UXzslmhl3Gm2Noi3

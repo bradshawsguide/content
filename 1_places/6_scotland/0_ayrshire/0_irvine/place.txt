@@ -1,18 +1,36 @@
-section: 3
+Title: Irvine
+
 ----
-title: Irvine
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 8,526.
-- term: Inns
+-
+  term: Inns
   desc: King's Arms; Wheat Sheaf.
-- term: Market Day
+-
+  term: Market Day
   desc: Monday.
-- term: Fairs
+-
+  term: Fairs
   desc: 1st Tuesday in May and 3rd Monday in August.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A considerable coal and shipping trade is here carried on, and is a place of growing importance. Here is an old tower belonging to the Eglintons. Gait, and James Montgomery, the poet, were natives. Jack (who was called Mrs. Buchan, who considered herself the woman of the 12th chapter of Revelations), held the living. Burns had a flax shop in Glasgow-Vennel Street, which has been burnt down.
+
+Text:
+
+A considerable coal and shipping trade is here carried on, and is a place of growing importance. Here is an old tower belonging to the Eglintons. Gait, and James Montgomery, the poet, were natives. Jack (who was called Mrs. Buchan, who considered herself the woman of the 12th chapter of Revelations), held the living. Burns had a flax shop in Glasgow-Vennel Street, which has been burnt down.
+
+----
+
+Uuid: 9trxJbeDhhyUntZh

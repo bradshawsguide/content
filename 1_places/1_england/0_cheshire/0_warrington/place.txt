@@ -1,21 +1,35 @@
-section: 3
+Title: Warrington
+
 ----
-title: Warrington
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Lion, Nag's Head.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Every other Wednesday, July 18th and November 30th; on alternate Wednesdays for cattle.
-- term: Bankers
+-
+  term: Bankers
   desc: Parr, Lyon and Co.; Branch of Manchester and Liverpool District Banking Company.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-Text: (smcp: Warrington) is an interesting old town on the river Mersey, in Lancashire, 181 miles from Londort and about 21 miles from Manchester and Liverpool The river is free from the sea to this point, above which it belongs to the Mersey and Irwell Navigation Company, represented by the late Earl of Ellesmere. Vessels of 150 tons can get up to Bank Quay in the spring tides.
+
+Text:
+
+(smcp: Warrington) is an interesting old town on the river Mersey, in Lancashire, 181 miles from Londort and about 21 miles from Manchester and Liverpool The river is free from the sea to this point, above which it belongs to the Mersey and Irwell Navigation Company, represented by the late Earl of Ellesmere. Vessels of 150 tons can get up to Bank Quay in the spring tides.
 
 This town in the oldest documents (*temp*. Henry III.) is called Werinton. It is on the line of the great Roman road from south to north, and considerable remains of this early period have been found at Wilderspool and Stockton Heath, on the
 left bank of the Mersey, which is supposed to have, been the *Condate* of the Itineraries. Here the Royalist army, under General Bailey, after having been defeated at Preston, by Cromwell, in 1648, surrendered prisoners of war. In 1745, the central arches of the bridge (built by the Earl of Derby in the reign of Henry VII.) were broken down, to impede the march of Prince Charles and the Scotch army.
@@ -29,3 +43,7 @@ There was an academy founded here in the last century, described by Mrs. Barbaul
 In the neighbourhood are—*Winwick Hall*, the seat of Rev. F. Hopwood, and a church, in which arc effigies, &c., of the Leghs of Lyme, whose ancestor is said to have won his lands in the battle of Agincourt. Sankey gives name to the *Sankey Canal,* which, beginning at St. Helens, bends round to Warrington, and comes out opposite Runcorn, a circuit of 15½ miles, 12 of which were cut between 1755 and 1758, when no other canal existed in England, so that this deserves notice as being the *oldest* of the kind. A direct railway now runs from St. Helens to its outlet. *Bold Hall* is the seat of Sir H. Bold Hoghton, who represents the old family of Bold, its former residents for many generations. They give name to Bold street, in Liverpool.
 
 On the Cheshire side of the Mersey a low range of hills of new red sandstone extends from Runcorn to Dunham, affording many rich and beautiful prospects. *Halton Castle* is a picturesque ruin on one of the higher portions of this range. The famous *Bridgewater Canal* passes this way (near some later cuttings for improving the Mersey navigation). It was cut on a level by Brindley for the Duke of Bridgewater, being 38 miles long from Manchester, through Worsley and Altrincham, and crosses the Bollin by an aqueduct half-a-mile long. The Duke expended all his capital in the construction, but lived to realize a vast fortune by his perseverance. His first efforts were to reduce the carriage of goods and price of coals 50 per cent. It is said that when the Manchester and Liverpool Railway was projected the Bridgewater agent was asked to take shares in the concern; but he had, it seems, such confidence in the superiority of the old canal over the new plan of communication, that he would consent only to take "all or none."
+
+----
+
+Uuid: ujOGY2boIJtAlerp

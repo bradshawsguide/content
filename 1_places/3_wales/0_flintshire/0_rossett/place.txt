@@ -1,8 +1,19 @@
-section: 2
+Title: Rossett
+
 ----
-title: Rossett
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: The beautiful ravine, *Nant-y-fridd*, and the ruins of *Caergwrh Castle*, originally a British post, which defended the neighbourhood, may be visited from this.
+
+Text:
+
+The beautiful ravine, *Nant-y-fridd*, and the ruins of *Caergwrh Castle*, originally a British post, which defended the neighbourhood, may be visited from this.
+
+----
+
+Uuid: YumQ33IwECZMQEht

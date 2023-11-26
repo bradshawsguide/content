@@ -1,12 +1,27 @@
-section: 3
+Title: Eccles
+
 ----
-title: Eccles
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Bull's Head.
+
 ----
-Notes:
-- Telegraph station at Manchester, 4 miles.
+
+Notes: Telegraph station at Manchester, 4 miles.
+
 ----
-text: This little village is prettily situated on the northern banks of the Irwell, and environed by some of the most picturesque rambles; one of which, along the side of the river, about two miles up the stream, leads to a ferry by which the tourist may get ready access to Trafford Park, described Section II.
+
+Text:
+
+This little village is prettily situated on the northern banks of the Irwell, and environed by some of the most picturesque rambles; one of which, along the side of the river, about two miles up the stream, leads to a ferry by which the tourist may get ready access to Trafford Park, described Section II.
+
+----
+
+Uuid: CeSfBIG0NVtauOh9

@@ -1,17 +1,36 @@
-section: 3
+Title: Bletchley
+
 ----
-title: Bletchley
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 426.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
 ----
-desc: From the peculiar position of this station it affords a most extensive prospect of the line of railway, and of the surrounding country.
+
+Desc: From the peculiar position of this station it affords a most extensive prospect of the line of railway, and of the surrounding country.
+
 ----
-text: From the peculiar position of this station it affords a most extensive prospect of the line of railway, and of the surrounding country, embracing the town of Bletchley, Drayton Parslon on the left, and in the distance may be seen Whaddon Chace and Hall in which Queen Elizabeth was entertained by Arthur Lord Grey.
+
+Text:
+
+From the peculiar position of this station it affords a most extensive prospect of the line of railway, and of the surrounding country, embracing the town of Bletchley, Drayton Parslon on the left, and in the distance may be seen Whaddon Chace and Hall in which Queen Elizabeth was entertained by Arthur Lord Grey.
 
 To the right of the station, and standing on a hill, is the small town of Fenny Stratford. The village of Water Eaton is seen in the foreground in the same direction, and on the wooded hills which rise beyond, the three Brickhills are still discernible.
+
+----
+
+Uuid: SF41El7CQZJgMrIs

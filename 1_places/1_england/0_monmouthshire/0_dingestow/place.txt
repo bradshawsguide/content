@@ -1,7 +1,19 @@
-section: 2
+Title: Dingestow
+
 ----
-title: Dingestow
+
+Section: 2
+
 ----
-subtitle: or Dynystow
+
+Subtitle: or Dynystow
+
 ----
-text: In a barn, among beautiful orchards, may be seen the remains of Grace Dieu Abbey.
+
+Text:
+
+In a barn, among beautiful orchards, may be seen the remains of Grace Dieu Abbey.
+
+----
+
+Uuid: rmgMUC9cj768NjPV

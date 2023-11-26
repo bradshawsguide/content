@@ -1,3 +1,11 @@
-title: Forfarshire or Angus
+Title: Forfarshire or Angus
+
 ----
-text: This county, which returns one member, includes the districts of Glenisla, Glenesk, and Glenprassin. Its scenery is extremely beautiful, and presents a variety of picturesque views, not excelled by any other Scottish county. The great level valley of Strathmore runs through the centre of Forfarshire, from east to west; and the lines of hills which border this extensive tract of country, with the Grampians on the north, and some minor ranges on the south, may be said to form the county into a series of continuous ridges, generally pursuing a direction from east to west. The portion of the Grampians in this county contains many fine valleys.
+
+Text:
+
+This county, which returns one member, includes the districts of Glenisla, Glenesk, and Glenprassin. Its scenery is extremely beautiful, and presents a variety of picturesque views, not excelled by any other Scottish county. The great level valley of Strathmore runs through the centre of Forfarshire, from east to west; and the lines of hills which border this extensive tract of country, with the Grampians on the north, and some minor ranges on the south, may be said to form the county into a series of continuous ridges, generally pursuing a direction from east to west. The portion of the Grampians in this county contains many fine valleys.
+
+----
+
+Uuid: kY3EB2TILPgNeVAr

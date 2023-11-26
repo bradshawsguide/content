@@ -1,14 +1,25 @@
-section: 2
+Title: Swindon to Cirencester, Stroud, Gloucester, and Cheltenham
+
 ----
-title: Swindon to Cirencester, Stroud, Gloucester, and Cheltenham
+
+Section: 2
+
 ----
-title_short: Swindon to Cheltenham
+
+Title-short: Swindon to Cheltenham
+
 ----
-subtitle: Cheltenham Branch
+
+Subtitle: Cheltenham Branch
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - swindon-junction
 - purton
 - minety
@@ -18,11 +29,16 @@ stops:
 - stonehouse
 - gloucester
 - cheltenham
+
 ----
-links:
-- (wikipedia: Golden_Valley_line)
+
+Links: - (wikipedia: Golden_Valley_line)
+
 ----
-text: (place: england/wiltshire/purton)
+
+Text:
+
+(place: england/wiltshire/purton)
 
 The next station is [Minety](/stations/minety), soon after leaving which, we enter [Gloucestershire](/places/england/gloucestershire).
 
@@ -43,3 +59,7 @@ At a distance of 6¼ miles beyond Minety, the train stops at
 (place: england/gloucestershire/gloucester)
 
 (place: england/gloucestershire/cheltenham)
+
+----
+
+Uuid: ofuxeZ4jyX1x90lr

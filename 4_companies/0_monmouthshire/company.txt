@@ -1,6 +1,13 @@
-section: 2
+Title: Monmouthshire Railway and Canal Company
+
 ----
-title: Monmouthshire Railway and Canal Company
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Monmouthshire_Railway_and_Canal_Company)
+
+Links: - (wikipedia: Monmouthshire_Railway_and_Canal_Company)
+
+----
+
+Uuid: UOXO2wZfzSLzeQUP

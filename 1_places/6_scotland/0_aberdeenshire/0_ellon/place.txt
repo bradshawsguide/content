@@ -1,5 +1,15 @@
-section: 3
+Title: Ellon
+
 ----
-title: Ellon
+
+Section: 3
+
 ----
-text: A pleasant little village, 19¾ miles from Aberdeen, situated on the north bank of the Ythan. It may be said to be the Central Capital of the district of Buchan; and in the days of the "Comyns," and for centuries after, the retainers of the feudal Thanes, did "suit and service" twice a year at the Moot or Earl's Hill of Ellon. Overlooking the village is Ellon Castle, a modern building, the seat of Alexander Gordon, Esq.
+
+Text:
+
+A pleasant little village, 19¾ miles from Aberdeen, situated on the north bank of the Ythan. It may be said to be the Central Capital of the district of Buchan; and in the days of the "Comyns," and for centuries after, the retainers of the feudal Thanes, did "suit and service" twice a year at the Moot or Earl's Hill of Ellon. Overlooking the village is Ellon Castle, a modern building, the seat of Alexander Gordon, Esq.
+
+----
+
+Uuid: HFZgmnrLHCkAsycb

@@ -1,19 +1,34 @@
-section: 2
+Title: Charleville to Limerick
+
 ----
-title: Charleville to Limerick
+
+Section: 2
+
 ----
-company: companies/cork-and-limerick-direct
+
+Company: companies/cork-and-limerick-direct
+
 ----
-stops:
+
+Stops:
+
 - charleville
 - bruree
 - rosstemple
 - croom
 - patricks-well
 - limerick
+
 ----
-text: Leaving the station of Charleville, we re-enter the county of Limerick, and pass on to the station of [Bruree](/stations/bruree), from thence to [Rosstemple](/stations/rosstemple), [Croom](/stations/croom), and [Patrick's Well](/stations/patricks-well), at which point the line unites with the Limerick and Foynes railway. A distance of 7¼ miles further conducts the traveller to
+
+Text:
+
+Leaving the station of Charleville, we re-enter the county of Limerick, and pass on to the station of [Bruree](/stations/bruree), from thence to [Rosstemple](/stations/rosstemple), [Croom](/stations/croom), and [Patrick's Well](/stations/patricks-well), at which point the line unites with the Limerick and Foynes railway. A distance of 7¼ miles further conducts the traveller to
 
 (place: ireland/county-limerick/limerick)
 
 (route: limerick-to-foynes)
+
+----
+
+Uuid: jlMLHi5geqWMNy4O

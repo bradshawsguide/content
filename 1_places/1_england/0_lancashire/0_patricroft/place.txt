@@ -1,8 +1,19 @@
-section: 3
+Title: Patricroft
+
 ----
-title: Patricroft
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Manchester, 5 miles.
+
+Notes: Telegraph station at Manchester, 5 miles.
+
 ----
-text: Here is Nasmyth's celebrated foundry, the largest in England.
+
+Text:
+
+Here is Nasmyth's celebrated foundry, the largest in England.
+
+----
+
+Uuid: vtklbq8ABIoZSb0t

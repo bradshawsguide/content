@@ -1,12 +1,21 @@
-section: 2
+Title: Llanelly to Llandilo and Llandovery
+
 ----
-title: Llanelly to Llandilo and Llandovery
+
+Section: 2
+
 ----
-title_short: Llanelly to Llandovery
+
+Title-short: Llanelly to Llandovery
+
 ----
-company: companies/llanelly-railway-and-docks
+
+Company: companies/llanelly-railway-and-docks
+
 ----
-stops:
+
+Stops:
+
 - llanelly
 - dock
 - bynea
@@ -23,11 +32,16 @@ stops:
 - llangadock
 - lampeter-road
 - llandovery
+
 ----
-links:
-- (wikipedia: Llanelly_Railway)
+
+Links: - (wikipedia: Llanelly_Railway)
+
 ----
-text: Again, turning to the right from Llanelly, we pass through [Dock](/stations/dock), [Bynea](/stations/bynea), [Llangennech](/stations/llangennech), [Pontardulais](/stations/pontardulais), and [Pantyffynnon](/stations/pantyffynnon).
+
+Text:
+
+Again, turning to the right from Llanelly, we pass through [Dock](/stations/dock), [Bynea](/stations/bynea), [Llangennech](/stations/llangennech), [Pontardulais](/stations/pontardulais), and [Pantyffynnon](/stations/pantyffynnon).
 
 (branch: start)
   [Cross Inn](/stations/cross-inn), [Garnant](/stations/garnant). and [Brynamman](/stations/brynamman) stations, on a short branch to the right.
@@ -48,3 +62,7 @@ text: Again, turning to the right from Llanelly, we pass through [Dock](/station
 [Lampeter Road](/stations/lampeter-road) station.
 
 (place: wales/carmarthenshire/llandovery)
+
+----
+
+Uuid: 3pLd4syWyEVrMqrZ

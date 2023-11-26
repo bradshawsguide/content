@@ -1,12 +1,27 @@
-section: 3
+Title: Banchory Ternan
+
 ----
-title: Banchory Ternan
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Douglas' Arms.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Banchory, 3¾ miles, is one of the most delightfully situated villages in Scotland, in the midst of scenery agreeably diversified by wood, water, and mountain. *Banchory Lodge*, Col. Ramsey, on the right, and *Blackhall House*, with its handsome gateway. A roman arch and avenue of upwards of a mile in length leading to the mansion. The view at the *Bridge of Feugh* is picturesque in the extreme. A handsome monument 16 feet high, to the memory of Francis Adams, Esq., M.D., L.L.D., placed in the most conspicuous part of the village was inaugurated on the 30th April, 1864. Dr. Adams was one of the most accomplished Greek ssoholar Scotland ever produced, and his fame was European.
+
+Text:
+
+Banchory, 3¾ miles, is one of the most delightfully situated villages in Scotland, in the midst of scenery agreeably diversified by wood, water, and mountain. *Banchory Lodge*, Col. Ramsey, on the right, and *Blackhall House*, with its handsome gateway. A roman arch and avenue of upwards of a mile in length leading to the mansion. The view at the *Bridge of Feugh* is picturesque in the extreme. A handsome monument 16 feet high, to the memory of Francis Adams, Esq., M.D., L.L.D., placed in the most conspicuous part of the village was inaugurated on the 30th April, 1864. Dr. Adams was one of the most accomplished Greek ssoholar Scotland ever produced, and his fame was European.
+
+----
+
+Uuid: stIV9yGM6Bg7xrlS

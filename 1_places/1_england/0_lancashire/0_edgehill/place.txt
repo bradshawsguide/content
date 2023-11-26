@@ -1,5 +1,15 @@
-section: 3
+Title: Edgehill
+
 ----
-title: Edgehill
+
+Section: 3
+
 ----
-text: Here the traveller sees before him a dark, yawning aperture, which, for the few minutes he is delayed, may excite a temporary imagining as to his probable destination. When informed, however, that this tunnel literally pierces into the very heart of Liverpool, burrowing beneath streets thickly tenanted by the suburban population, and constantly conducting trains freighted with hundreds of travellers like himself, under the surface of a region animated by a mighty multitude, intent upon the pursuits of every-day life, he may feel inclined to pay a just tribute to the engineering skill of those who were enabled to propose and complete a work of such kind in the early days of railway history. This tunnel is one mile and a quarter in length; but the one which conveys the merchandise to Wapping, near the King's Dock, is still longer; and a third tunnel, for the conveyance of goods to the North Docks, has also been constructed.
+
+Text:
+
+Here the traveller sees before him a dark, yawning aperture, which, for the few minutes he is delayed, may excite a temporary imagining as to his probable destination. When informed, however, that this tunnel literally pierces into the very heart of Liverpool, burrowing beneath streets thickly tenanted by the suburban population, and constantly conducting trains freighted with hundreds of travellers like himself, under the surface of a region animated by a mighty multitude, intent upon the pursuits of every-day life, he may feel inclined to pay a just tribute to the engineering skill of those who were enabled to propose and complete a work of such kind in the early days of railway history. This tunnel is one mile and a quarter in length; but the one which conveys the merchandise to Wapping, near the King's Dock, is still longer; and a third tunnel, for the conveyance of goods to the North Docks, has also been constructed.
+
+----
+
+Uuid: h0W7dsykgtpGupAs

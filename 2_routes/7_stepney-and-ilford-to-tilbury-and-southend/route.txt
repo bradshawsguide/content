@@ -1,12 +1,21 @@
-section: 1
+Title: Stepney and Ilford to Tilbury and Southend
+
 ----
-title: Stepney and Ilford to Tilbury and Southend
+
+Section: 1
+
 ----
-title_short: Stepney to Southend
+
+Title-short: Stepney to Southend
+
 ----
-company: companies/london-tilbury-and-southend
+
+Company: companies/london-tilbury-and-southend
+
 ----
-stops:
+
+Stops:
+
 - stepney
 - bromley-by-bow
 - plaistow
@@ -21,11 +30,16 @@ stops:
 - benfleet
 - leigh
 - southend
+
 ----
-links:
-- (wikipedia: London,_Tilbury_and_Southend_Railway)
+
+Links: - (wikipedia: London,_Tilbury_and_Southend_Railway)
+
 ----
-text: This line commences by a junction with the [Blackwall](/companies/london-and-blackwall) at Stepney, and also with the [Eastern Counties](#) at Ilford. Passengers may book at either Bishopsgate or Fenchurch Street; but the latter affords greater facilities as to the number of departures. A few minutes only are occupied in passing the stations of [Bromley](/stations/bromley-by-bow), [Plaistow](/stations/plaistow), and [East Ham](/stations/east-ham), before arriving at the town of
+
+Text:
+
+This line commences by a junction with the [Blackwall](/companies/london-and-blackwall) at Stepney, and also with the [Eastern Counties](#) at Ilford. Passengers may book at either Bishopsgate or Fenchurch Street; but the latter affords greater facilities as to the number of departures. A few minutes only are occupied in passing the stations of [Bromley](/stations/bromley-by-bow), [Plaistow](/stations/plaistow), and [East Ham](/stations/east-ham), before arriving at the town of
 
 (place: england/essex/barking)
 
@@ -44,3 +58,7 @@ The route from Bishopsgate, *via* [Ilford](#), unites here, when the trains proc
 (place: england/essex/leigh)
 
 (place: england/essex/southend)
+
+----
+
+Uuid: 28GXbmwdT4ukRXY7

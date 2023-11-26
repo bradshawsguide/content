@@ -1,18 +1,37 @@
-﻿section: 1
+Title: Christchurch
+
 ----
-title: Christchurch
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: King's Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Monday.
-- term: Fairs
+-
+  term: Fairs
   desc: Trinity Thursday, and October 17th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Christchurch is a town containing some beautiful relics of the past in the ruins of its ancient collegiate church and priory, which are well worthy of notice.
+
+Desc: Christchurch is a town containing some beautiful relics of the past in the ruins of its ancient collegiate church and priory, which are well worthy of notice.
+
 ----
-text: Christchurch (at the confluence of the Avon and Stour) is a town containing some beautiful relics of the past in the ruins of its ancient collegiate church and priory, which are well worthy of notice. The church, which has been restored, is 310 feet long. It has a trade in knit and silk stockings, &c.
+
+Text:
+
+Christchurch (at the confluence of the Avon and Stour) is a town containing some beautiful relics of the past in the ruins of its ancient collegiate church and priory, which are well worthy of notice. The church, which has been restored, is 310 feet long. It has a trade in knit and silk stockings, &c.
+
+----
+
+Uuid: adqfZCekKJXSzH8o

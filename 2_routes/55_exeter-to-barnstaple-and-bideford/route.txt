@@ -1,12 +1,21 @@
-section: 2
+Title: Exeter to Crediton, Barnstaple & Bideford
+
 ----
-title: Exeter to Crediton, Barnstaple & Bideford
+
+Section: 2
+
 ----
-title_short: Exeter to Bideford
+
+Title-short: Exeter to Bideford
+
 ----
-company: companies/north-devon
+
+Company: companies/north-devon
+
 ----
-stops:
+
+Stops:
+
 - exeter-st-davids
 - st-cyres
 - crediton
@@ -22,11 +31,16 @@ stops:
 - fremington
 - instow
 - bideford
+
 ----
-links:
-- (wikipedia: North_Devon_Railway)
+
+Links: - (wikipedia: North_Devon_Railway)
+
 ----
-text: (place: england/devonshire/st-cyres)
+
+Text:
+
+(place: england/devonshire/st-cyres)
 
 (place: england/devonshire/crediton)
 
@@ -41,3 +55,7 @@ We next pass through the stations of [Copplestone](/stations/copplestone), [Morc
 [Fremington](/stations/fremington) and [Instow](/stations/instow) stations.
 
 (place: england/devonshire/bideford)
+
+----
+
+Uuid: ZeEnRSrIkHevE7f0

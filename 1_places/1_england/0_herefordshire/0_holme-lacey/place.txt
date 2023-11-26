@@ -1,16 +1,35 @@
-section: 2
+Title: Holme Lacey
+
 ----
-title: Holme Lacey
+
+Section: 2
+
 ----
-subtitle: Holme Lacy
+
+Subtitle: Holme Lacy
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Hereford.
+
 ----
-notes:
-- Telegraph station at Hereford, 4¼ miles.
+
+Notes: Telegraph station at Hereford, 4¼ miles.
+
 ----
-desc: The mansion and grounds excite much interest, having a good picture gallery, and a giant pear tree, covering a quarter of an acre.
+
+Desc: The mansion and grounds excite much interest, having a good picture gallery, and a giant pear tree, covering a quarter of an acre.
+
 ----
-text: This is the ancient seat of the Scudamore family, now in the possession of Sir E. F. Scudamore Stanhope, Bart, The mansion and grounds excite much interest, having a good picture gallery, and a giant pear tree, covering a quarter of an acre. Here Pope wrote the "Man of Ross."
+
+Text:
+
+This is the ancient seat of the Scudamore family, now in the possession of Sir E. F. Scudamore Stanhope, Bart, The mansion and grounds excite much interest, having a good picture gallery, and a giant pear tree, covering a quarter of an acre. Here Pope wrote the "Man of Ross."
+
+----
+
+Uuid: XbbExIyibkIsg2BM

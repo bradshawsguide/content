@@ -1,21 +1,43 @@
-section: 1
+Title: Hounslow
+
 ----
-title: Hounslow
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 5,760.
-- term: Hotel
+-
+  term: Hotel
   desc: George.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from Harlington and London, daily.
-- term: Fairs
+-
+  term: Fairs
   desc: Trinity Monday and Monday after Michaelmas Day.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-desc: The Powder Mills and the Cavalry Barracks are about a mile distant.
+
+Desc: The Powder Mills and the Cavalry Barracks are about a mile distant.
+
 ----
-text: The Powder Mills and the Cavalry Barracks are about a mile distant.
+
+Text:
+
+The Powder Mills and the Cavalry Barracks are about a mile distant.
+
+----
+
+Uuid: 5gG22mIAf53lanfV

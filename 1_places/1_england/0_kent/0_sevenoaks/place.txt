@@ -1,8 +1,19 @@
-section: 1
+Title: Sevenoaks
+
 ----
-title: Sevenoaks
+
+Section: 1
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A town of some importance, deriving its name from that of its found, Sir W. Sevenocke.
+
+Text:
+
+A town of some importance, deriving its name from that of its found, Sir W. Sevenocke.
+
+----
+
+Uuid: 1tt0CNsSrQGOXiKz

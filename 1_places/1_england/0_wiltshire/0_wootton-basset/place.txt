@@ -1,21 +1,41 @@
-section: 2
+Title: Wootton Basset
+
 ----
-title: Wootton Basset
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,191.
-- term: Hotel
+-
+  term: Hotel
   desc: Old Royal Oak.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 4th, Nov. 13th, and Dec 19th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
 ----
-desc: We now proceed on an embankment, having a rapid descent in our favour of about fifty feet in a mile.
+
+Desc: We now proceed on an embankment, having a rapid descent in our favour of about fifty feet in a mile.
+
 ----
-text:
+
+Text:
+
+----
+
+Uuid: 4odwdmQvhF05DgMI

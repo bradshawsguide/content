@@ -1,26 +1,50 @@
-section: 3
+Title: Boxmoor
+
 ----
-title: Boxmoor
+
+Section: 3
+
 ----
-subtitle: Hemel Hempstead
+
+Subtitle: Hemel Hempstead
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: King's Arms.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from Hemel Hempstead.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday, at Hemel Hempstead.
-- term: Fairs
+-
+  term: Fairs
   desc: Holy Thursday, Thursday after Trinity Sunday, and 3rd Monday in September.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Hemel Hempstead.
-- term: Bankers
+-
+  term: Bankers
   desc: Bucks and Oxon Union, and London and County.
+
 ----
-notes:
-- Telegraph station at Watford, 7 miles.
+
+Notes: Telegraph station at Watford, 7 miles.
+
 ----
-desc: Travellers would infer that this station derives its name from a moor in the vicinity; but the moor is at some distance, and the scenery in the neighbourhood of the station is exceedingly pretty and fertile.
+
+Desc: Travellers would infer that this station derives its name from a moor in the vicinity; but the moor is at some distance, and the scenery in the neighbourhood of the station is exceedingly pretty and fertile.
+
 ----
-text: Travellers would infer that this station derives its name from a moor in the vicinity; but the moor is at some distance, and the scenery in the neighbourhood of the station is exceedingly pretty and fertile. On leaving the station the line passes over an embankment, and the country becomes very interesting. To the left is Rowdown Common, with the richly wooded hills behind it, and on the right the village of Two Waters. The country is also interspersed with pretty cottages, with the church of Hemel Hempstead among the distant hills. *Westbrook Park*, the Hon. Dudley Ryder's seat, is in the vicinity.
+
+Text:
+
+Travellers would infer that this station derives its name from a moor in the vicinity; but the moor is at some distance, and the scenery in the neighbourhood of the station is exceedingly pretty and fertile. On leaving the station the line passes over an embankment, and the country becomes very interesting. To the left is Rowdown Common, with the richly wooded hills behind it, and on the right the village of Two Waters. The country is also interspersed with pretty cottages, with the church of Hemel Hempstead among the distant hills. *Westbrook Park*, the Hon. Dudley Ryder's seat, is in the vicinity.
+
+----
+
+Uuid: DBukLA3X9PMHu1Ma

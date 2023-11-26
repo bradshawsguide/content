@@ -1,18 +1,35 @@
-section: 3
+Title: Beeston
+
 ----
-title: Beeston
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 355.
-- term: Hotels
+-
+  term: Hotels
   desc: Tollemache Arms.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Tarporley, 1¾ mile.
+
 ----
-notes:
-- Telegraph station at Crewe, 10¾ miles.
+
+Notes: Telegraph station at Crewe, 10¾ miles.
+
 ----
-text: Here are the ruins of an old castle, built by R Blundell, Earl of Chester, in 1220. It stands on the ridge of a precipitous rock of sandstone, and covers a space of about five acres. The deep ditch surrounding the keep, cut out of the solid rock, together with the extraordinary thickness of the walls which remain, bear testimony to the once-remarkable strength of the fortress. It is worth a visit.
+
+Text:
+
+Here are the ruins of an old castle, built by R Blundell, Earl of Chester, in 1220. It stands on the ridge of a precipitous rock of sandstone, and covers a space of about five acres. The deep ditch surrounding the keep, cut out of the solid rock, together with the extraordinary thickness of the walls which remain, bear testimony to the once-remarkable strength of the fortress. It is worth a visit.
 
 In the vicinity are Tarporley Hall, Lord Alvanley and Tilstone Lodge, T. Tollemache, Esq.
+
+----
+
+Uuid: OP67xNA9F1WIvtQv

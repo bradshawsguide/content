@@ -1,18 +1,30 @@
-section: 1
+Title: Willesden Junction to Kew
+
 ----
-title: Willesden Junction to Kew
+
+Section: 1
+
 ----
-company: companies/north-and-south-western-junction
+
+Company: companies/north-and-south-western-junction
+
 ----
-stops:
+
+Stops:
+
 - willesden-junction
 - [acton, hammersmith]
 - kew
+
 ----
-links:
-- (wikipedia: North_and_South_Western_Junction_Railway)
+
+Links: - (wikipedia: North_and_South_Western_Junction_Railway)
+
 ----
-text: About one mile beyond [Willesden Junction](/stations/willesden-junction) we cross the Great Western, and another mile brings us to the town of
+
+Text:
+
+About one mile beyond [Willesden Junction](/stations/willesden-junction) we cross the Great Western, and another mile brings us to the town of
 
 (place: england/middlesex/acton)
 
@@ -25,3 +37,7 @@ text: About one mile beyond [Willesden Junction](/stations/willesden-junction) w
 Retracing our route to Acton, and pursuing our course onward a mile and a half, we are brought to our destination at
 
 (place: england/surrey/kew)
+
+----
+
+Uuid: 25fMClGGJBENJAx0

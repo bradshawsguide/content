@@ -1,6 +1,13 @@
-section: 2
+Title: Dundalk, Enniskillen, and Londonderry Railway
+
 ----
-title: Dundalk, Enniskillen, and Londonderry Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Londonderry_and_Enniskillen_Railway)
+
+Links: - (wikipedia: Londonderry_and_Enniskillen_Railway)
+
+----
+
+Uuid: 02kiu7UVg764l4bT

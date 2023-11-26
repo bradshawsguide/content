@@ -1,6 +1,13 @@
-section: 2
+Title: Londonderry and Coleraine Railway
+
 ----
-title: Londonderry and Coleraine Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Northern_Counties_Committee)
+
+Links: - (wikipedia: Northern_Counties_Committee)
+
+----
+
+Uuid: bRs0LndjRzRGnm23

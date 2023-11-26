@@ -1,12 +1,21 @@
-section: 2
+Title: Altrincham to Northwich
+
 ----
-title: Altrincham to Northwich
+
+Section: 2
+
 ----
-subtitle: Cheshire Midland Railway
+
+Subtitle: Cheshire Midland Railway
+
 ----
-company: companies/cheshire-lines-committee
+
+Company: companies/cheshire-lines-committee
+
 ----
-stops:
+
+Stops:
+
 - altrincham-and-bowdon
 - peel-causeway
 - ashley
@@ -15,11 +24,16 @@ stops:
 - plumley
 - lostock
 - northwich
+
 ----
-links:
-- (wikipedia: Cheshire_Midland_Railway)
+
+Links: - (wikipedia: Cheshire_Midland_Railway)
+
 ----
-text: This line, which was commenced in December, 1860, runs through a very flat country, through one of the richest parts of Cheshire, and forms a valuable acquisition to the salt district, through which it passes. The branch from the [South Junction line](/routes/bowdon-to-manchester) takes place at a distance of fifteen chains from the [Altrincham](/stations/altrincham-and-bowdon) station; and, sweeping the base of the Bowdon hill in a graceful curve, the first station is reached, at a distance of three- quarters of a mile,
+
+Text:
+
+This line, which was commenced in December, 1860, runs through a very flat country, through one of the richest parts of Cheshire, and forms a valuable acquisition to the salt district, through which it passes. The branch from the [South Junction line](/routes/bowdon-to-manchester) takes place at a distance of fifteen chains from the [Altrincham](/stations/altrincham-and-bowdon) station; and, sweeping the base of the Bowdon hill in a graceful curve, the first station is reached, at a distance of three- quarters of a mile,
 
 [Peel Causeway](/stations/peel-causeway), intended for the accommodation of the inhabitants of Bowdon. This station is close to the road called Peel Causeway, and is within an easy distance of Bowdon Old Church, now restored. The line then passes on through happy meadows and over the Bollin river, to
 
@@ -36,3 +50,7 @@ From Mobberley to [Knutsford](/stations/knutsford), a distance of 2¾ miles, and
 The train then proceeds *via* [Plumbley](/stations/plumley) and [Lostock](/stations/lostock), the stations at which are neat and substantial, and in about five minutes arriving at
 
 (place: england/cheshire/northwich)
+
+----
+
+Uuid: 1XaRHAofYjQkXVUL

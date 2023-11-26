@@ -1,10 +1,21 @@
-section: 3
+Title: Bull Gill
+
 ----
-title: Bull Gill
+
+Section: 3
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Maryport.
+
 ----
-notes:
-- Telegraph station at Aspatria, 3½ miles.
+
+Notes: Telegraph station at Aspatria, 3½ miles.
+
+----
+
+Uuid: aW7ikQkiDVzoDVo0

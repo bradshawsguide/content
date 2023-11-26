@@ -1,23 +1,46 @@
-section: 1
+Title: Brentford
+
 ----
-title: Brentford
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 9,521.
-- term: Hotels
+-
+  term: Hotels
   desc: Red Lion; George IV.
-- term: Omnibuses
+-
+  term: Omnibuses
   desc: to and from London, Inglefield Green, Egham, and Isleworth.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 17th, 18th, and 19th; September 12th, 13th, and 14th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station ½ mile.
 - A telegraph station.
+
 ----
-desc: It is the county town, where members of Parliament are elected.
+
+Desc: It is the county town, where members of Parliament are elected.
+
 ----
-text: Brentford has a weekly market and two annual fairs. It is the county town, where members of Parliament are elected. Here, the Brent falls into the Thames. The town is a long straggling street.
+
+Text:
+
+Brentford has a weekly market and two annual fairs. It is the county town, where members of Parliament are elected. Here, the Brent falls into the Thames. The town is a long straggling street.
+
+----
+
+Uuid: CZV8BidCLOgcLuQL

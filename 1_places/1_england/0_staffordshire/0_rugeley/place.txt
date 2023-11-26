@@ -1,27 +1,51 @@
-section: 3
+Title: Rugeley
+
 ----
-title: Rugeley
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 4,362.
-- term: Hotel
+-
+  term: Hotel
   desc: Talbot.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 15th, June 1st and 6th, October 21st, and 2nd Tuesday in December.
-- term: Races
+-
+  term: Races
   desc: in October.
-- term: Bankers
+-
+  term: Bankers
   desc: National Provincial Bank of England.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-desc: Rugeley will ever be memorable on account of its having been the residence of the sporting doctor, Palmer, who was accused of poisoning his wife, brother, and friend, John Parsons Cook.
+
+Desc: Rugeley will ever be memorable on account of its having been the residence of the sporting doctor, Palmer, who was accused of poisoning his wife, brother, and friend, John Parsons Cook.
+
 ----
-text: This station stands in an open place, and faces the town of Rugeley, which will ever be memorable on account of its having been the residence of the sporting doctor, Palmer, who was accused of poisoning his wife, brother, and friend, John Parsons Cook, by strychnine, but at the *post mortem* examinations of the bodies not a particle of that vegetable poison was discovered. An Act of Parliament was passed to enable his trial to take place in London, in lieu of at Stafford, owing to the strong feeling that existed against him in that county. He was tried at the Old Bailey, in May, 1856, and after the proceedings had lasted ten days, was found guilty of poisoning his friend and confederate on the turf, and was executed on the 14th June, at Stafford, protesting against the justice of his sentence.
+
+Text:
+
+This station stands in an open place, and faces the town of Rugeley, which will ever be memorable on account of its having been the residence of the sporting doctor, Palmer, who was accused of poisoning his wife, brother, and friend, John Parsons Cook, by strychnine, but at the *post mortem* examinations of the bodies not a particle of that vegetable poison was discovered. An Act of Parliament was passed to enable his trial to take place in London, in lieu of at Stafford, owing to the strong feeling that existed against him in that county. He was tried at the Old Bailey, in May, 1856, and after the proceedings had lasted ten days, was found guilty of poisoning his friend and confederate on the turf, and was executed on the 14th June, at Stafford, protesting against the justice of his sentence.
 
 The old roadway passes under the line, which is on a lofty embankment. The station is of pleasing design, stone fronted, and has all the variety of outline so essential to the true spirit of the Tudor style of architecture. *Hagley Hall*, seat of Lady de la Zouche.
+
+----
+
+Uuid: 978isTGHOW2o9WWt

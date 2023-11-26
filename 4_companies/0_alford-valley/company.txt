@@ -1,6 +1,13 @@
-section: 3
+Title: Alford Valley
+
 ----
-title: Alford Valley
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Alford_Valley_Railway_%28GNoSR%29)
+
+Links: - (wikipedia: Alford_Valley_Railway_%28GNoSR%29)
+
+----
+
+Uuid: BAHEn14NkxamB9ZB

@@ -1,14 +1,25 @@
-section: 1
+Title: Woking to Godalming and Portsmouth
+
 ----
-title: Woking to Godalming and Portsmouth
+
+Section: 1
+
 ----
-title_short: Woking to Portsmouth
+
+Title-short: Woking to Portsmouth
+
 ----
-subtitle: London and Portsmouth Direct Line
+
+Subtitle: London and Portsmouth Direct Line
+
 ----
-company: companies/london-and-south-western
+
+Company: companies/london-and-south-western
+
 ----
-stops:
+
+Stops:
+
 - woking
 - [guildford, ash, tongham, farnham, bentley, alton, ropley, alresford, itchen-abbas, winchester]
 - godalming
@@ -21,12 +32,19 @@ stops:
 - rowlands-castle
 - havant
 - portsmouth
+
 ----
-links:
+
+Links:
+
 - (wikipedia: Portsmouth_Direct_line)
 - (wikipedia: Alton_line)
+
 ----
-text: (place: england/surrey/woking)
+
+Text:
+
+(place: england/surrey/woking)
 
 Three-quarters of a mile beyond Woking a line branches off to the left to Guildford and Godalming, direct to Portsmouth, from which another branch diverges at Guildford and extends to Ash, Farnham, and Alton.
 
@@ -69,3 +87,7 @@ This route is a continuation of the line *via* Guildford and Godalming to Portsm
 [Rowland's Castle](/stations/rowlands-castle) and [Havant](/stations/havant).
 
 (place: england/hampshire/portsmouth)
+
+----
+
+Uuid: 6qopFDIkN0WmdF3K

@@ -1,17 +1,34 @@
-section: 1
+Title: Islington
+
 ----
-title: Islington
+
+Section: 1
+
 ----
-station: islington-and-highbury
+
+Station: islington-and-highbury
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Angel.
-- term: Omnibusses
+-
+  term: Omnibusses
   desc: to and from London (both city and west end), every 5 minutes.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: No. 86, Upper Street.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - A telegraph station.
+
+----
+
+Uuid: ingLzfid8TDWLTFi

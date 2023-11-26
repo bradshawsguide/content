@@ -1,10 +1,23 @@
-section: 1
+Title: Cuxton, or Cuckstone
+
 ----
-title: Cuxton, or Cuckstone
+
+Section: 1
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This place contains a population of 441, who are engaged in the hop trade, beautiful crops of which are yearly obtained from this neighbourhood.
+
+Desc: This place contains a population of 441, who are engaged in the hop trade, beautiful crops of which are yearly obtained from this neighbourhood.
+
 ----
-text: This place contains a population of 441, who are engaged in the hop trade, beautiful crops of which are yearly obtained from this neighbourhood. The old church is an antique edifice, and contains some pews as old as the time of the Reformation. In the vicinity are the villages of Luddesdown, the church of which contains a tomb to the old lords of the manor, the Montacutes; Meopham, with its ancient church, rebuilt in 1333 by Archbishop Meopham, a native ; and *Meopham Bank*, the pretty seat of W. N. Smith, Esq., and *Wouldham*.
+
+Text:
+
+This place contains a population of 441, who are engaged in the hop trade, beautiful crops of which are yearly obtained from this neighbourhood. The old church is an antique edifice, and contains some pews as old as the time of the Reformation. In the vicinity are the villages of Luddesdown, the church of which contains a tomb to the old lords of the manor, the Montacutes; Meopham, with its ancient church, rebuilt in 1333 by Archbishop Meopham, a native ; and *Meopham Bank*, the pretty seat of W. N. Smith, Esq., and *Wouldham*.
+
+----
+
+Uuid: vXPCE0sqgIzmd5JC

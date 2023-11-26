@@ -1,23 +1,39 @@
-section: 3
+Title: Tamworth
+
 ----
-title: Tamworth
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: King's Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 4th, July 26th, and October 24th.
-- term: Bankers
+-
+  term: Bankers
   desc: National Provincial Bank of England.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This station is a very handsome and picturesque building.
+
+Desc: This station is a very handsome and picturesque building.
+
 ----
-text: This station is a very handsome and picturesque building. Its gables, bay windows, clustered chimnies, and roofs enriched with tiles of quaint form, are all in excellent taste. The frontage of the building towards the rail extends to one hundred and thirty feet, and the platform to three hundred feet.
+
+Text:
+
+This station is a very handsome and picturesque building. Its gables, bay windows, clustered chimnies, and roofs enriched with tiles of quaint form, are all in excellent taste. The frontage of the building towards the rail extends to one hundred and thirty feet, and the platform to three hundred feet.
 
 (smcp: Tamworth), a market town, population 10,192, who return two members, has an old castle of the Marmions—
 
@@ -25,3 +41,7 @@ text: This station is a very handsome and picturesque building. Its gables, bay 
 > Of Tamworth towei and town.
 
 The church is large and ancient, and contains the monument of Peel, whose statue, by Noble, is in the Market-place, with his face turned to Bury (his birth-place). He founded a school here; another was built by Queen Elizabeth, and almshouses by Guy, who founded Guy's Hospital. *Drayton Manor*, Sir R. Peel, Bart. At *Abbots Bromley* lived Mrs. Cooper, who saw her descendants to the sixth generation.
+
+----
+
+Uuid: 8gSBt5zkzSJLCGQD

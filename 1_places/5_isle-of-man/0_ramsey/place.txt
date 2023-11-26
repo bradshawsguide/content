@@ -1,14 +1,25 @@
-section: 3
+Title: Ramsey
+
 ----
-title: Ramsey
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,891.
-- term: Hotels
+-
+  term: Hotels
   desc: Mitre; Albert.
+
 ----
-text: A pleasant little port at the mouth of the Sulby, on a wide bay, across which stretches the Bahama sand. One of its churches is in ruins. The Deemster of the north division of the island has a court here. Hence to the Point of Ayre, and round to Kirk Bride and Kirk Andreas is a wide flat.
+
+Text:
+
+A pleasant little port at the mouth of the Sulby, on a wide bay, across which stretches the Bahama sand. One of its churches is in ruins. The Deemster of the north division of the island has a court here. Hence to the Point of Ayre, and round to Kirk Bride and Kirk Andreas is a wide flat.
 
 *Ramsey to Peel and Castletown*, past *Kirk Clorist Lezayre* (under the north Barrule), and the seat of Deemster Christian, a descendant of the traitor of that name, at *Milntown*; to *Sulby* on that stream which comes down from *Snafell* It has good trout fishing, and a waterfall, in a pretty glen near the village. At *Kirk Andreas*, to the north, are barrows (burial places of some chief), and a runic cross.
 
@@ -17,3 +28,7 @@ text: A pleasant little port at the mouth of the Sulby, on a wide bay, across wh
 In *Kirk Michael*, which is the bishop's church, is a monument to the excellent Bishop Wilson, with the words, "Let this island speak the rest." He held the diocese 56 years, and among other benefits he procured an act of settlement abolishing vassalage, and established parish schools and libraries. Mark Hyldersley succeeded Bishop Wilson in 1755, and under his auspices the Manx version of the Bible, began by Bishop Wilson, was completed. He was a Manxman as also was the good Bishop Wilson. Two very old runic pillars with unintelligible characters are to be seen. Passing the old chapel of Kiels, near *Kirk German*, you reach
 
 *Tynwald Hill*, where the roads cross. It is an artificial hillock, a few feet high, ascended by steps, whence the laws passed by the estates are made public every 5th July. The estates of the island consist of an upper House of 10, including the governor, bishop, deemsters, &c., and a Lower House or House of Keys composed of 24 freeholders elected for life. They meet at Castletown.
+
+----
+
+Uuid: QawVYKSDuC9T7rxm

@@ -1,13 +1,27 @@
-section: 3
+Title: Swanbourne
+
 ----
-title: Swanbourne
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 603.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Winslow.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - Telegraph station at Winslow, 2 miles.
+
+----
+
+Uuid: 31AFHintNnLK6qE5

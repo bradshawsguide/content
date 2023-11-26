@@ -1,10 +1,21 @@
-section: 1
+Title: Burgess Hill
+
 ----
-title: Burgess Hill
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: Hurst.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
+----
+
+Uuid: 7ruC05cJmRcpN9ru

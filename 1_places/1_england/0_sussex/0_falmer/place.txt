@@ -1,14 +1,27 @@
-section: 1
+Title: Falmer
+
 ----
-title: Falmer
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 77,693.
-- term: Hotel
+-
+  term: Hotel
   desc: Swan.
-- term: Money Order Offices
+-
+  term: Money Order Offices
   desc: at Lewes and Brighton.
+
 ----
-notes:
-- Telegraph station at Lewes, 4 miles.
+
+Notes: Telegraph station at Lewes, 4 miles.
+
+----
+
+Uuid: ZTs2ssqOAVGxat4o

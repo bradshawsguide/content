@@ -1,12 +1,22 @@
-section: 1
+Title: London Bridge to Herne Bay
+
 ----
-title: London Bridge to Herne Bay
+
+Section: 1
+
 ----
-title_short: London to Herne Bay
+
+Title-short: London to Herne Bay
+
 ----
-company: companies/thames-steamers
+
+Company: companies/thames-steamers
+
 ----
-text: For the sake of variety, we shall proceed to describe the journey by water, which, on a fine day, is not only the most agreeable, but, as furnishing air excellent opportunity of seeing the scenery of the Thames, is perhaps most desirable to strangers.
+
+Text:
+
+For the sake of variety, we shall proceed to describe the journey by water, which, on a fine day, is not only the most agreeable, but, as furnishing air excellent opportunity of seeing the scenery of the Thames, is perhaps most desirable to strangers.
 
 <span id="london-bridge">**London Bridge.**</span>--The present bridge was erected from the designs of Rennie, nearly on the site of the old bridge demolished in 1825, and opened by William IV. on the 1st of August, 1831. The length is 950 ft. and the width between the parapets 84 ft., there are five arches, the centre of which has a span of 150 ft., rising 23 ft. above high water.
 
@@ -51,3 +61,7 @@ Leaving London Bridge, a perfect forest of masts, belonging to ships of all size
 It was planned and fortified by Charles II. to guard the Thames and Medway, but was reduced by the Dutch Admiral De Ruyter within twelve months after. The dockyard is on a very extensive scale, covering about 60 acres, and has cost, since 1815, three millions in improvements. In consequence of the nature of the ground, nearly 100,000 piles had to be driven before a sufficiently stable foundation could be obtained The dockyard contains residences for the commander-in-chief, the lieutenant-governor, and the usual staff of super-intendents, masters, master shipwrights, &c. The ordnance department has also an office here, and the batteries mount 100 guns. The vessels of the royal navy are here laid up in ordinary, and there arc sometimes as many as seventy of those "floating castles" moored at Blackstakes, a little above Sheerness. In 1793, the fleet stationed at the Nore mutinied, a circumstance happily unprecedented in the annals of our gallant navy.
 
 <span id="herne-bay">**Herne Bay.**</span>--(15 miles from Margate, four from Reculvers and Whitstable, and nine from Canterbury) is much frequented as a bathing place in the season, and accessible by steamers, daily, in the season, and by railway via Faversham and Whitstable, The pier, opened in 1833, is 3,640 feet long. Libraries, Hotels, an Assembly Room, and other adjuncts to the town have been erected on a large scale.
+
+----
+
+Uuid: ceJsoVW9YP0aaIMc

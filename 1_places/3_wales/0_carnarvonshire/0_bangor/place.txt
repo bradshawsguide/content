@@ -1,21 +1,34 @@
-section: 2
+Title: Bangor
+
 ----
-title: Bangor
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: The George, Bangor Ferry, Miss Roberts is a first-class house, delightfully situated between Bangor and Menai Bridge and is deservedly celebrated for its excellent arrangements.
 - desc: The British, Miss Thompson, a favourite establishment, highly spoken of for its arrangements and general management.
 - desc: The Penrhyn Anns.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 5th, June 25th, September 16th, and October 28th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A cathedral town and bathing place in Carnarvonshire, North Wales, near Snowdon, and only 2¼ miles from the Britannia Bridge. You enter it by a tunnel 3,000 feet long. It is an excellent resting place, not only for the fine mountain scenery of this quarter, but for the *Britannia* and *Menai Bridges*, the *Penrhyn Slate Quarries*, *Beaumaris Castle*, and other exclusions, by road, railway, and boat. More than 50,000 persons come here in the season, so that lodgings at such times are high and difficult to be had. About 40 years ago there were only 90 houses, now there arc 1,331, to a population of 6,738.
+
+Text:
+
+A cathedral town and bathing place in Carnarvonshire, North Wales, near Snowdon, and only 2¼ miles from the Britannia Bridge. You enter it by a tunnel 3,000 feet long. It is an excellent resting place, not only for the fine mountain scenery of this quarter, but for the *Britannia* and *Menai Bridges*, the *Penrhyn Slate Quarries*, *Beaumaris Castle*, and other exclusions, by road, railway, and boat. More than 50,000 persons come here in the season, so that lodgings at such times are high and difficult to be had. About 40 years ago there were only 90 houses, now there arc 1,331, to a population of 6,738.
 
 The "city" is chiefly a long street, winding about under the rocks towards *Garth Point*, where there is the public promenade, besides a ferry over the Lavan Sands to Beaumaris, on the Anglesea side. The peaks round Snowdon, and the rocky headlands of Penmaen Mawr and Orme's Head are in view.
 
@@ -38,3 +51,7 @@ From the Slate Works to the tops of *Uarnedd Dafydd* and *Carnedd Llewelyn* is a
 The carriage road winds round the east base of Snowdon, passing *Trifaen* (so-called from the three stones 15 feet high on the top) and the *Glyder Bach* or Littlw  Glyder, 3,000 feet high, and joined to *Glyder Fawr*, or Great Glyder, by the *Waenoer*, a desolate plain half a mile wide, covered with weather beaten stones. *Moel Siabod*, or Shabod is on the south east side. At *Nant-y-Gwryd Inn*, a road branches off to *Beddgelert*, 12 miles from Capel Carig, passing *Llyn Gwynant*, &c. Following the main road through Snowdon you come to the famous *Llanberis Pass*, a narrow and rugged defile, about three miles long, between the perpendicular cliffs of Glyder Fawr on the north and Snowdon on the south. It is united by the Seiont, which runs down to Carnarvon, and resembles the wild pass of Glencoe in Argyleshire, or the Gap of Dunloe near Killarney. Blocks of rock lie about on all sides. One immense heap called the *Cromlech* was turned into a sort of house by a herdwoman. It is near the Gorphwysfa or resting place at the top of the ascent from Capel Curig.
 
 Two miles further, in a quiet glen, is **[Llanberis](/places/wales/carnarvonshire/llanberis)**.
+
+----
+
+Uuid: s5bOl4r2TIBTDLlj

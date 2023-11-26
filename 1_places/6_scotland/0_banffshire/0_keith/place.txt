@@ -1,8 +1,19 @@
-section: 3
+Title: Keith
+
 ----
-title: Keith
+
+Section: 3
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A small town of 2,648 inhabitants, consisting only of one long street. The church stands on the site of a very old one, and was rebuilt, in a pointed style, in 1819. The tower is 104 feet high. Ferguson, the astronomer, was born here.
+
+Text:
+
+A small town of 2,648 inhabitants, consisting only of one long street. The church stands on the site of a very old one, and was rebuilt, in a pointed style, in 1819. The tower is 104 feet high. Ferguson, the astronomer, was born here.
+
+----
+
+Uuid: VRieD2VxQhBtnIuu

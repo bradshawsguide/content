@@ -1,5 +1,15 @@
-section: 3
+Title: Girvan
+
 ----
-title: Girvan
+
+Section: 3
+
 ----
-text: A telegraph station and corporate town, at the mouth of the Girvan, in the vicinity of which are the remains of some camps. One mile to* the west, at the entrance, to the Clyde is the basaltic rock of *Ailsa Craig*, rising perpendicularly from the water to the height of 1,097 feet. It is only accessible, with some difficulty, on the west side, and literally covered with sea fowl, &c.
+
+Text:
+
+A telegraph station and corporate town, at the mouth of the Girvan, in the vicinity of which are the remains of some camps. One mile to* the west, at the entrance, to the Clyde is the basaltic rock of *Ailsa Craig*, rising perpendicularly from the water to the height of 1,097 feet. It is only accessible, with some difficulty, on the west side, and literally covered with sea fowl, &c.
+
+----
+
+Uuid: N7xoXMI6zV5rrWA2

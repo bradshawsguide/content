@@ -1,17 +1,37 @@
-section: 3
+Title: Crick
+
 ----
-title: Crick
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 999.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Weedon, 5½ miles.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 3 miles.
 - Telegraph station at Rugby, 6½ miles.
+
 ----
-desc: The village of Crick lies to the north of the station, and is a place of no importance.
+
+Desc: The village of Crick lies to the north of the station, and is a place of no importance.
+
 ----
-text: The village of Crick lies to the north of the station, and is a place of no importance.
+
+Text:
+
+The village of Crick lies to the north of the station, and is a place of no importance.
+
+----
+
+Uuid: SSYFNckbG3kQ4DHs

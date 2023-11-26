@@ -1,12 +1,24 @@
-section: 2
+Title: Brimscomb
+
 ----
-title: Brimscomb
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Railway.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Stroud.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
+----
+
+Uuid: g2QWR4roPezIsPBa

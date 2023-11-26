@@ -1,23 +1,47 @@
-section: 2
+Title: Newry
+
 ----
-title: Newry
+
+Section: 2
+
 ----
-station: bessbrook
+
+Station: bessbrook
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Dransfield's.
-- term: Steamers
+-
+  term: Steamers
   desc: to and from Liverpool twice a week. Fares 10s. and 3s. Return Tickets, available for 14 days, 15s.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday, Thursday, and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 3rd and October 29th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 3 miles.
 - A telegraph station.
+
 ----
-desc: This town has a population of about 26,000, who return one member, and are employed in the iron and brass foundries, tanneries, linen, and glass manufactures.
+
+Desc: This town has a population of about 26,000, who return one member, and are employed in the iron and brass foundries, tanneries, linen, and glass manufactures.
+
 ----
-text: This town has a population of about 26,000, who return one member, and are employed in the iron and brass foundries, tanneries, linen, and glass manufactures. It is situated close to the Newry mountains, which rise 1,385 feet, and contains the ruins of a monastery, with a yew tree planted by St. Patrick, founded in 1237, by Maurice M'Loughlin: a castle built by Sir J. De Courcey, and destroyed by Bruce in 1318. It has a considerable coasting trade, but only small vessels can approach the Quay, all large vessels being obliged to discharge their cargoes at Warrenpoint, six miles below it.
+
+Text:
+
+This town has a population of about 26,000, who return one member, and are employed in the iron and brass foundries, tanneries, linen, and glass manufactures. It is situated close to the Newry mountains, which rise 1,385 feet, and contains the ruins of a monastery, with a yew tree planted by St. Patrick, founded in 1237, by Maurice M'Loughlin: a castle built by Sir J. De Courcey, and destroyed by Bruce in 1318. It has a considerable coasting trade, but only small vessels can approach the Quay, all large vessels being obliged to discharge their cargoes at Warrenpoint, six miles below it.
+
+----
+
+Uuid: Q1cthryjOx7wAXXP

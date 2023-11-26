@@ -1,14 +1,30 @@
-section: 2
+Title: Lymm
+
 ----
-title: Lymm
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,769.
-- term: Hotel
+-
+  term: Hotel
   desc: Plough.
+
 ----
-notes:
-- Telegraph station at Warrington, 4½ miles.
+
+Notes: Telegraph station at Warrington, 4½ miles.
+
 ----
-text: Both the church, with a pointed cross, and hall, with old bay windows, the residence of James Barratt, Esq., are very ancient.
+
+Text:
+
+Both the church, with a pointed cross, and hall, with old bay windows, the residence of James Barratt, Esq., are very ancient.
+
+----
+
+Uuid: WDeYMkDS4VY4Ld1o

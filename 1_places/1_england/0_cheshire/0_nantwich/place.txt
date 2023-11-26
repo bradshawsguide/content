@@ -1,14 +1,30 @@
-section: 3
+Title: Nantwich
+
 ----
-title: Nantwich
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 6,225.
-- term: Hotel
+-
+  term: Hotel
   desc: Lamb.
+
 ----
-notes:
-- Telegraph station at Crewe, 4¼ miles.
+
+Notes: Telegraph station at Crewe, 4¼ miles.
+
 ----
-text: Here is a cruciform church, with pinnacled tower. Lord Byron, who occupied *Dorford Hall*, 1643, was defeated by Fairfax. This place was formerly celebrated for its salt mines, but is now famous for its cheese.
+
+Text:
+
+Here is a cruciform church, with pinnacled tower. Lord Byron, who occupied *Dorford Hall*, 1643, was defeated by Fairfax. This place was formerly celebrated for its salt mines, but is now famous for its cheese.
+
+----
+
+Uuid: Z4VdjxiCSzM8T3z8

@@ -1,10 +1,17 @@
-section: 3
+Title: Coventry to Nuneaton
+
 ----
-title: Coventry to Nuneaton
+
+Section: 3
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - coventry
 - counden-road
 - foleshill
@@ -13,8 +20,12 @@ stops:
 - bedworth
 - chilvers-coton
 - nuneaton
+
 ----
-text: (place: england/warwickshire/coventry)
+
+Text:
+
+(place: england/warwickshire/coventry)
 
 After leaving Coventry, on this branch the unimportant stations of [Counden Road](/stations/counden-road),  [Foleshill](/stations/foleshill), [Longford](/stations/longford), and [Hawkesbury Lane](/stations/hawkesbury-lane), are quickly passed, and we arrive at
 
@@ -25,3 +36,7 @@ After leaving Coventry, on this branch the unimportant stations of [Counden Road
 (place: england/warwickshire/nuneaton)
 
 The South Leicestershire line begins here, and is a single line of rails, 15 miles long from Nuneaton to its junction with the Midland at Wigston Magna, about 2 miles south of Leicester.
+
+----
+
+Uuid: k78iJaWRxJMAMOl6

@@ -1,18 +1,37 @@
-section: 3
+Title: Brechin
+
 ----
-title: Brechin
+
+Section: 3
+
 ----
-subtitle: (Branch)
+
+Subtitle: (Branch)
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Commercial; Swan.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Third Tuesday in January; third Wednesday in April; second Wednesday in June, and two following days; Friday after Aiky July fair; second Thursday in August; Tuesday before last Wednesday in September; Tuesday after 21st November.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This town has a population of 7,179 employed in the making of osnaburghs, sail-cloth, and brown linen; and contains five chapels, town house, academy (the master is also preceptor of Maison Dieu, founded by Wm. de Brechin, in 1205), mechanics' institute, hospital, dispensary, brewery, distilleries, spinning mills, and a Collegiate Church, built in 1808. Near the spire of *St. Ninian's Cathedral*, at which there is a leaning round tower, 108 feet high, and at Abernethy is a similar one. In 1572 the battle of Brechin was fought, between James II. and the Crawfords, when the Marquis of Huntly defeated the latter. The Danes burnt the town in 1012, and Montrose destroyed it in 1645. It is the bishop's seat, and near at hand is *Panmure Castle*, the seat of the Earl of Dalhousie, which is built on the site of the old one taken by Edward I. in 1303.
+
+Text:
+
+This town has a population of 7,179 employed in the making of osnaburghs, sail-cloth, and brown linen; and contains five chapels, town house, academy (the master is also preceptor of Maison Dieu, founded by Wm. de Brechin, in 1205), mechanics' institute, hospital, dispensary, brewery, distilleries, spinning mills, and a Collegiate Church, built in 1808. Near the spire of *St. Ninian's Cathedral*, at which there is a leaning round tower, 108 feet high, and at Abernethy is a similar one. In 1572 the battle of Brechin was fought, between James II. and the Crawfords, when the Marquis of Huntly defeated the latter. The Danes burnt the town in 1012, and Montrose destroyed it in 1645. It is the bishop's seat, and near at hand is *Panmure Castle*, the seat of the Earl of Dalhousie, which is built on the site of the old one taken by Edward I. in 1303.
+
+----
+
+Uuid: iDaiLs5KlLuwtsG4

@@ -1,17 +1,36 @@
-section: 3
+Title: Garstang
+
 ----
-title: Garstang
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Royal Oak.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: Holy Thursday, July 10th, and December 22nd.
+
 ----
-notes:
+
+Notes:
+
 - Telegraph station at Preston, 9¼ miles.
 - Distance from station, 2 miles.
+
 ----
-text: A market, town situated on the Wyre, with a population of 714, employed in the cotton and print trade. It contains town hall, free school, print and cotton factories, four chapels, and a church, rebuilt in 1746. In, the river is good trout and chub fishing; close by are the remains of *Greenhalgh Castle*, which was garrisoned by the Earl of Derby for Charles I. in 1643. The Pretender occupied this place in 1715. In the vicinity are *Kirkland Hall* seat of T. Cole, Esq.; *Bleasdale Tower*, seat of W. J. Garnett, Esq., and *Bleasdale Fell*, 1,709 feet high.
+
+Text:
+
+A market, town situated on the Wyre, with a population of 714, employed in the cotton and print trade. It contains town hall, free school, print and cotton factories, four chapels, and a church, rebuilt in 1746. In, the river is good trout and chub fishing; close by are the remains of *Greenhalgh Castle*, which was garrisoned by the Earl of Derby for Charles I. in 1643. The Pretender occupied this place in 1715. In the vicinity are *Kirkland Hall* seat of T. Cole, Esq.; *Bleasdale Tower*, seat of W. J. Garnett, Esq., and *Bleasdale Fell*, 1,709 feet high.
+
+----
+
+Uuid: 8rVlKezgsMtcFKpO

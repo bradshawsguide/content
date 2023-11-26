@@ -1,12 +1,21 @@
-section: 2
+Title: Mallow to Killarney and Tralee
+
 ----
-title: Mallow to Killarney and Tralee
+
+Section: 2
+
 ----
-title_short: Mallow to Tralee
+
+Title-short: Mallow to Tralee
+
 ----
-company: companies/cork-bandon-and-south-coast
+
+Company: companies/cork-bandon-and-south-coast
+
 ----
-stops:
+
+Stops:
+
 - mallow
 - lombardstown
 - kanturk
@@ -16,11 +25,16 @@ stops:
 - killarney
 - farranfore
 - tralee
+
 ----
-links:
-- (wikipedia: Mallow–Tralee_line)
+
+Links: - (wikipedia: Mallow–Tralee_line)
+
 ----
-text: ## Excursion to the Lakes of Killarney
+
+Text:
+
+## Excursion to the Lakes of Killarney
 
 Scotland, Wales, and the most beautiful districts of England, whatever may be their attractions, do not offer much novelty to the majority of men who, in the excursion period of the year, rush from smoky London and the cares of business to feast their eyes upon the beauty, and allow their lungs to inhale the fresh air, of the fields, lakes, and mountains. To such persons we recommend a trip to Ireland, and the lovely Lakes of Killarney. The journey has been rendered comparatively moderate in cost, and convenient as regards time, by the arrangements of the London and North Western Railway Company. The directors issue excursion tickets for the entire journey there and back, giving the tourist fourteen days for the trip, and make all necessary arrangements with the Irish South Western Railway Company for passing him on to his destination.
 
@@ -37,3 +51,7 @@ From [Mallow Junction](/stations/mallow) the line proceeds to [Lombardstown](/st
 (place: ireland/county-kerry/killarney)
 
 Having now explored the beauties of Killarney, the tourist may continue his railway course northward, via [Farranfore](/stations/farranfore), to the town of [Tralee](/stations/tralee). This forms part of a favourite route from Dublin to Killarney, *viá* Limerick, Foynes, the Shannon, Tarbert and Tralee, for the accomplishment of which great facilities by way of return tickets are offered in the summer months.
+
+----
+
+Uuid: rOsw9ciw86uQAO5G

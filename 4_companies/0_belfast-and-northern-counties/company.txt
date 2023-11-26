@@ -1,6 +1,13 @@
-section: 2
+Title: Belfast and Northern Counties Railway
+
 ----
-title: Belfast and Northern Counties Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Northern_Counties_Committee)
+
+Links: - (wikipedia: Northern_Counties_Committee)
+
+----
+
+Uuid: p7GV5IgQ2FC6Kqlv

@@ -1,6 +1,13 @@
-section: 2
+Title: Aberystwith and Welsh Coast Railway
+
 ----
-title: Aberystwith and Welsh Coast Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Aberystwith_and_Welsh_Coast_Railway)
+
+Links: - (wikipedia: Aberystwith_and_Welsh_Coast_Railway)
+
+----
+
+Uuid: hokrqIZaKpb35NJK

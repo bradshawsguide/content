@@ -1,16 +1,35 @@
-section: 2
+Title: Johnston
+
 ----
-title: Johnston
+
+Section: 2
+
 ----
-station: johnston-pembs
+
+Station: johnston-pembs
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Haverfordwest, 4¾ miles.
+
 ----
-notes:
-- Telegraph station at Haverfordwest, 4¾ miles.
+
+Notes: Telegraph station at Haverfordwest, 4¾ miles.
+
 ----
-desc: *Johnston Hall*, in the vicinity, is the seat of Lord Kensington. Anthracite, or smokeless coal, abounds in this district.
+
+Desc: *Johnston Hall*, in the vicinity, is the seat of Lord Kensington. Anthracite, or smokeless coal, abounds in this district.
+
 ----
-text: *Johnston Hall*, in the vicinity, is the seat of Lord Kensington. Anthracite, or smokeless coal, abounds in this district, and it is only wanting to be better known, in order to be generally used in the steamers belonging to the naval and merchant services. It was used by Her Majesty's steam fleet at the review on the 23rd of April, 1856.
+
+Text:
+
+*Johnston Hall*, in the vicinity, is the seat of Lord Kensington. Anthracite, or smokeless coal, abounds in this district, and it is only wanting to be better known, in order to be generally used in the steamers belonging to the naval and merchant services. It was used by Her Majesty's steam fleet at the review on the 23rd of April, 1856.
+
+----
+
+Uuid: 2JUp81Zui9Ylk8O7

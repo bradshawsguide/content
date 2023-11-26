@@ -1,15 +1,33 @@
-section: 2
+Title: Durston Junction
+
 ----
-title: Durston Junction
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 223
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Taunton
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-text: Has a priory and preceptory at Buckland Sororum.
+
+Text:
+
+Has a priory and preceptory at Buckland Sororum.
+
+----
+
+Uuid: 6qc37ir8NIAtQk9L

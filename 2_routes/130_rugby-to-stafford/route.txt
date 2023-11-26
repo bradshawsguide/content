@@ -1,12 +1,21 @@
-section: 3
+Title: Rugby to Stafford
+
 ----
-title: Rugby to Stafford
+
+Section: 3
+
 ----
-subtitle: via Trent Valley
+
+Subtitle: via Trent Valley
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - rugby
 - stretton
 - shilton
@@ -20,8 +29,12 @@ stops:
 - rugeley
 - colwich
 - stafford
+
 ----
-text: (place: england/warwickshire/rugby)
+
+Text:
+
+(place: england/warwickshire/rugby)
 
 From Rugby the line runs on an embankment, and crosses the river Avon on a viaduct, the arches of which are thirty feet span; it then passes over the Oxford canal, and through a very pretty country, crossing the north east section of the county of Warwick.
 
@@ -58,3 +71,7 @@ The old roadway passes under the line, which is on a lofty embankment. The stati
 (place: england/staffordshire/colwich)
 
 (place: england/staffordshire/stafford)
+
+----
+
+Uuid: mXbObqJa6IAVHZOK

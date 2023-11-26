@@ -1,9 +1,23 @@
-section: 2
+Title: Padeswood
+
 ----
-title: Padeswood
+
+Section: 2
+
 ----
-info:
-- term: Fairs
+
+Info:
+
+-
+  term: Fairs
   desc: are held here on Shrove Tuesday, May 10th, August 12th, and October 27th.
+
 ----
-text: Near which is *Leeswood*, seat of J. W. Egton, Esq., and *Plas Newydd*, the Marquis of Anglesea's; thence we soon reach Llong, near which is a tower, the old three-storied and machicolated seat of the Wynnes, where the Mayor of Chester was murdered by the Welsh Prince Reinallt in 1475.
+
+Text:
+
+Near which is *Leeswood*, seat of J. W. Egton, Esq., and *Plas Newydd*, the Marquis of Anglesea's; thence we soon reach Llong, near which is a tower, the old three-storied and machicolated seat of the Wynnes, where the Mayor of Chester was murdered by the Welsh Prince Reinallt in 1475.
+
+----
+
+Uuid: D7hxX0sCmAdrDZC4

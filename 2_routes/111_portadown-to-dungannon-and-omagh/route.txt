@@ -1,12 +1,21 @@
-section: 2
+Title: Portadown to Dungannon and Omagh
+
 ----
-title: Portadown to Dungannon and Omagh
+
+Section: 2
+
 ----
-title_short: Portadown to Omagh
+
+Title-short: Portadown to Omagh
+
 ----
-company: companies/portadown-dungannon-and-omagh-junction
+
+Company: companies/portadown-dungannon-and-omagh-junction
+
 ----
-stops:
+
+Stops:
+
 - portadown
 - annaghmore
 - vernersbridge
@@ -18,14 +27,23 @@ stops:
 - sixmilecross
 - beragh
 - omagh
+
 ----
-links:
-- (wikipedia: Portadown,_Dungannon_and_Omagh_Junction_Railway)
+
+Links: - (wikipedia: Portadown,_Dungannon_and_Omagh_Junction_Railway)
+
 ----
-text: [Annaghmore](/stations/annaghmore), [Vernersbridge](/stations/vernersbridge), [Trew and Moy](/stations/trew-and-moy).
+
+Text:
+
+[Annaghmore](/stations/annaghmore), [Vernersbridge](/stations/vernersbridge), [Trew and Moy](/stations/trew-and-moy).
 
 (place: ireland/county-tyrone/dungannon)
 
 We now pass the stations of [Donaghmore](/stations/donaghmore), [Pomeroy](/stations/pomeroy), [Carrickmore](/stations/carrickmore), [Sixmilecross](/stations/sixmilecross), with its ruins of *Glenawley Castle*, and [Beragh](/stations/beragh), arriving at
 
 **[Omagh](/stations/omagh)**, the junction with the [Londonderry and Enniskillen Railway](/companies/londonderry-and-enniskillen).
+
+----
+
+Uuid: rWBRu81K3CxWi0j5

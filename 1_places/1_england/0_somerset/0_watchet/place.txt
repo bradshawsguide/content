@@ -1,10 +1,23 @@
-section: 2
+Title: Watchet
+
 ----
-title: Watchet
+
+Section: 2
+
 ----
-notes:
-- Telegraph station at Taunton.
+
+Notes: Telegraph station at Taunton.
+
 ----
-desc: A coast guard station, prettily seated in a secluded creek on the Bristol Channel.
+
+Desc: A coast guard station, prettily seated in a secluded creek on the Bristol Channel.
+
 ----
-text: A coast guard station, prettily seated in a secluded creek on the Bristol Channel. *Dunster Castle* and the beautiful watering place of Minehead, standing on the cliffs to the south, are within a very short distance. A few miles further on the same coast, but somewhat more inland, brings the tourist to the sources of the Exe, in Exmore Forest, a wild but interesting tract, where the red deer is sometimes seen.
+
+Text:
+
+A coast guard station, prettily seated in a secluded creek on the Bristol Channel. *Dunster Castle* and the beautiful watering place of Minehead, standing on the cliffs to the south, are within a very short distance. A few miles further on the same coast, but somewhat more inland, brings the tourist to the sources of the Exe, in Exmore Forest, a wild but interesting tract, where the red deer is sometimes seen.
+
+----
+
+Uuid: vW5Jw6VhgSafHnF7

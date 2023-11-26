@@ -1,21 +1,43 @@
-section: 3
+Title: Wellingborough
+
 ----
-title: Wellingborough
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 6,067.
-- term: Hotel
+-
+  term: Hotel
   desc: Hind.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Easter and Whit-Wednesday, and October 29th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-desc: In the neighbourhood of this place are a number of medicinal springs, from which, probably, the name of the town has been given.
+
+Desc: In the neighbourhood of this place are a number of medicinal springs, from which, probably, the name of the town has been given.
+
 ----
-text: In the neighbourhood of this place are a number of medicinal springs, from which, probably, the name of the town has been given. Charles I. and Henrietta, his queen, encamped here a whole season, for the purpose of drinking its waters. It has a very pretty church. Boots, shoes, and lace form its staple trade.
+
+Text:
+
+In the neighbourhood of this place are a number of medicinal springs, from which, probably, the name of the town has been given. Charles I. and Henrietta, his queen, encamped here a whole season, for the purpose of drinking its waters. It has a very pretty church. Boots, shoes, and lace form its staple trade.
+
+----
+
+Uuid: J9UJfvCkrItd5BLT

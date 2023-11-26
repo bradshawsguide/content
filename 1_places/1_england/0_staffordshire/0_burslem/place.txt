@@ -1,21 +1,43 @@
-section: 3
+Title: Burslem
+
 ----
-title: Burslem
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 17,821.
-- term: Hotel
+-
+  term: Hotel
   desc: Leopard.
-- term: Market Days
+-
+  term: Market Days
   desc: Monday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Saturday before Shrove Sunday, Easter Day, Whit Sunday (the only place in England where a fair is held on a Sunday), Midsummer Day, day after Christmas.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - A telegraph station.
+
 ----
-desc: In old times, Burslem was noted for its common yellow ware, so much so that "Butter Pot" was its ordinary name, even on the county map.
+
+Desc: In old times, Burslem was noted for its common yellow ware, so much so that "Butter Pot" was its ordinary name, even on the county map.
+
 ----
-text: In old times, Burslem was noted for its common yellow ware, so much so that "Butter Pot" was its ordinary name, even on the county map. Near here Josiah Wedgwood was born in 1730, and brought his improved wares and porcelain to perfection; but the china clay, felspar or soapstone, and flint, necessary for the finer sorts, are imported from the south, especially Devonshire and Cornwall.
+
+Text:
+
+In old times, Burslem was noted for its common yellow ware, so much so that "Butter Pot" was its ordinary name, even on the county map. Near here Josiah Wedgwood was born in 1730, and brought his improved wares and porcelain to perfection; but the china clay, felspar or soapstone, and flint, necessary for the finer sorts, are imported from the south, especially Devonshire and Cornwall.
+
+----
+
+Uuid: 1z6FgC3jcX4XNMjK

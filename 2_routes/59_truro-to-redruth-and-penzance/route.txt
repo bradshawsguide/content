@@ -1,14 +1,25 @@
-section: 2
+Title: Truro to Hayle, Penzance, &c.
+
 ----
-title: Truro to Hayle, Penzance, &c.
+
+Section: 2
+
 ----
-title_short: Truro to Penzance
+
+Title-short: Truro to Penzance
+
 ----
-subtitle: West Cornwall Railway
+
+Subtitle: West Cornwall Railway
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - truro
 - chacewater
 - scorrier-gate
@@ -20,11 +31,16 @@ stops:
 - [st-ives-road, st-ives]
 - marazion-road
 - penzance
+
 ----
-links:
-- (wikipedia: West_Cornwall_Railway)
+
+Links: - (wikipedia: West_Cornwall_Railway)
+
 ----
-text: The first station we pass is [Chacewater](/stations/chacewater), where we cross the valley by means of a lofty wooden viaduct, [Scorrier Gate](/stations/scorrier-gate) station next succeeds, and with all the mixed desolate and wild appearances, always allied to mining districts, such as heaps of debris of abandoned mines, the remains of engine houses, and chimney shafts tottering to their fall, we arrive at
+
+Text:
+
+The first station we pass is [Chacewater](/stations/chacewater), where we cross the valley by means of a lofty wooden viaduct, [Scorrier Gate](/stations/scorrier-gate) station next succeeds, and with all the mixed desolate and wild appearances, always allied to mining districts, such as heaps of debris of abandoned mines, the remains of engine houses, and chimney shafts tottering to their fall, we arrive at
 
 (place: england/cornwall/redruth)
 
@@ -54,3 +70,7 @@ We may now proceed to *Camelford*, a very ancient town, near which are the celeb
 At *Stratton*, two miles further, a severe battle was fought between the Earl of Stamford and the parliamentarians, and the royalists, under Sir Ralph Hopton. The remains of the ancient castle of Bimomy and *Kilhampton* Norman church are at hand.
 
 Instead of proceeding to Bude as above, the traveller may, if he choose, when at Wadebridge, continue his course through Bodmin to Launceston, but the route has not much interest until the high tors, *Rough Tor* and *Brown Willy*, rise above the desolate and lonely moors around. From the village of *Temple* a stout walker may visit many interesting localities and romantic scenes, the huge peaks here rising to 1,000 and 1,300 feet high; or he may turn to the right and see *Dozmeri Pool*, the *Cheesewring*, and the *Hurlers*, regaining the road by the Fowey river. Which way, however, he may take, he will find new beauties and new scenes to interest and astonish him, but which the space at our disposal will not allow us to enter upon.
+
+----
+
+Uuid: B7qL8zPlskpVPKWv

@@ -1,6 +1,13 @@
-section: 2
+Title: Dublin, Wicklow and Wexford Railway
+
 ----
-title: Dublin, Wicklow and Wexford Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Dublin_and_South_Eastern_Railway)
+
+Links: - (wikipedia: Dublin_and_South_Eastern_Railway)
+
+----
+
+Uuid: 7eab46ysPwtiEjzO

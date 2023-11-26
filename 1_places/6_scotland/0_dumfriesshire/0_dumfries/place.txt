@@ -1,19 +1,32 @@
-section: 3
+Title: Dumfries
+
 ----
-title: Dumfries
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: King's Arms; Commercial.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Feb. 2nd, *o.s.*, if on a Wednesday, not, on the Wednesday after; Wednesday before the 26th. May; Wednesday after June 17th, *o.s.*; September 25th, if on a Wednesday, if not, on the Wednesday after; Wednesday before November 22nd.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: At the Commercial Inn, Charles Stuart took up his head quarters, in 1745. A Scottish royal and parliamentary burgh (one member), and the capital of Dumfriesshire, on the river Nith, near the Solway Frith. Population 14,023. It has a little shipping trade; shoes and cotton goods are the principal manufactures. The site is flat and mossy, but the soil fertile, with the Nithsdale Hills in the distance. The streets are clean and well built Pleasant walks line the river's bank. Three slender spires are the first to strike the stranger's eye; one belongs to *St. Michael's*, an old church of the 13th century, containing, it is calculated, in and about it, above 1,800 monuments of all kinds. In the comer of the churchyard is the handsome mausoleum to Burns, set up by subscription, in 1815. A beaten path made by thousands of visitors strikes across the other graves. Within the church is an emblematic piece of marble, by Turnerelli, to the memory of the poet, who lived here as an exciseman from 1791 to his death in 1796. His widow survived him till 1834, living at a small house in Bums-street,
+
+Text:
+
+At the Commercial Inn, Charles Stuart took up his head quarters, in 1745. A Scottish royal and parliamentary burgh (one member), and the capital of Dumfriesshire, on the river Nith, near the Solway Frith. Population 14,023. It has a little shipping trade; shoes and cotton goods are the principal manufactures. The site is flat and mossy, but the soil fertile, with the Nithsdale Hills in the distance. The streets are clean and well built Pleasant walks line the river's bank. Three slender spires are the first to strike the stranger's eye; one belongs to *St. Michael's*, an old church of the 13th century, containing, it is calculated, in and about it, above 1,800 monuments of all kinds. In the comer of the churchyard is the handsome mausoleum to Burns, set up by subscription, in 1815. A beaten path made by thousands of visitors strikes across the other graves. Within the church is an emblematic piece of marble, by Turnerelli, to the memory of the poet, who lived here as an exciseman from 1791 to his death in 1796. His widow survived him till 1834, living at a small house in Bums-street,
 
 Here are a Court House, Academy, a Pillar to the excellent Duke of Queensberry, Dr. Crichton's Lunatic Asylum; and an old bridge, built by Baliol's mother, Devergilla, who also founded the Greyfriars, in which Bruce killed the Red Comyn, in 1305. Kean made his first appearance in the Dumfries Theatre. Excellent, bacon and hams are cured here and vast numbers of small cattle pass this way to be fattened for market in Norfolk and Essex. Bruce was Lord of Annandale, a district in this neighbourhood, where many events of his early fife took place. In the vicinity is the *Maiden Bower Craig* a curiously hollowed rock.
 
@@ -22,3 +35,7 @@ On the Nith is *Lincluden Castle*. Further south you come to *Caerlaverock Castl
 On the west shore of the Nith are the ruins of *New Abbey*, founded in the 12th century, over it hangs Criffell, 1,831 feet high, with its cloud-capped summit. The sea coast, from this to the mouth of the Urr, is remarkably bold and rocky.
 
 At *Tinwald*, on the hills, four miles to the north, near the old Watling-street, Patterson, the founder of the Bank of England, was born; bordering on winch is *Locker Moss*, 12 miles long, once a vast forest. *Torthorwald*, close by, has the ruins of a castle and two camps.
+
+----
+
+Uuid: i5pU4Rcyw36ZFE8K

@@ -1,12 +1,27 @@
-section: 2
+Title: Hele
+
 ----
-title: Hele
+
+Section: 2
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Collumpton.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Again borne onwards by our never-tiring iron steed, at a speed outstripping the breeze of summer, we become conscious of a moving panorama, which has regained most of the alluring features that we have been recently regretting.
+
+Text:
+
+Again borne onwards by our never-tiring iron steed, at a speed outstripping the breeze of summer, we become conscious of a moving panorama, which has regained most of the alluring features that we have been recently regretting.
+
+----
+
+Uuid: mNBNpBiYfuQwPyRu

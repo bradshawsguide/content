@@ -1,16 +1,24 @@
-section: 2
+Title: Chester to Birkenhead
+
 ----
-title: Chester to Birkenhead and Liverpool
+
+Section: 2
+
 ----
-title: Chester to Birkenhead
+
+Subtitle: Birkenhead Railway
+
 ----
-subtitle: Birkenhead Railway
-----
-company:
+
+Company:
+
 - companies/great-western
 - companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - chester
 - mollington
 - ledsham
@@ -21,11 +29,16 @@ stops:
 - rock-ferry
 - birkenhead
 - liverpool-pier-head
+
 ----
-links:
-- (wikipedia: Birkenhead_Railway)
+
+Links: - (wikipedia: Birkenhead_Railway)
+
 ----
-text: Leaving Chester, the first stations we pass are [Mollington](/stations/mollington), [Ledsham](/stations/ledsham), and [Hooton](/stations/hooton), from the latter of which *Parkgate* is accessible by omnibus; the next place arrived at is
+
+Text:
+
+Leaving Chester, the first stations we pass are [Mollington](/stations/mollington), [Ledsham](/stations/ledsham), and [Hooton](/stations/hooton), from the latter of which *Parkgate* is accessible by omnibus; the next place arrived at is
 
 [Bromborough](/stations/bromborough).--Near to which is Eastham Ferry, the landing place for the Mersey steamers. It is a charming spot, and a place of great resort in the summer by pic-nic parties from Liverpool. Bromborough Mill, situated in a delightful dell.
 
@@ -38,3 +51,7 @@ text: Leaving Chester, the first stations we pass are [Mollington](/stations/mol
 (place: england/cheshire/birkenhead)
 
 [Liverpool Pier Head](/stations/liverpool-pier-head)
+
+----
+
+Uuid: 159xvRklCEHeUMpa

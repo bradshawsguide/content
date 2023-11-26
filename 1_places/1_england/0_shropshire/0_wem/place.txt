@@ -1,12 +1,27 @@
-section: 3
+Title: Wem
+
 ----
-title: Wem
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,802.
+
 ----
-notes:
-- Telegraph station at Shrewsbury, 10½ miles.
+
+Notes: Telegraph station at Shrewsbury, 10½ miles.
+
 ----
-text: This was the birth-place of Jeffries, the infamous chancellor, who was educated at Shrewsbury school. Wem was taken by Sir W. Brereton, and given to Jeffries by James II., who created him Baron Wem.
+
+Text:
+
+This was the birth-place of Jeffries, the infamous chancellor, who was educated at Shrewsbury school. Wem was taken by Sir W. Brereton, and given to Jeffries by James II., who created him Baron Wem.
+
+----
+
+Uuid: Li8hqgeG3RE2xpjo

@@ -1,3 +1,11 @@
-title: Staffordshire
+Title: Staffordshire
+
 ----
-text: This county is generally of a hilly character. The highest portions are in the north, consisting principally of elevated moorland, some of which rise to the height of 1,100 feet, the valleys being watered by small streams flowing into the Trent. The western districts are traversed by the hills forming a part of the backbone of England, the streams from the west slope of which run into the Severn, which finally loses itself in the British Channel; those on the east of this ridge fall into the Trent and this again into the Humber, discharging its waters into the German Ocean. About one-fifth of the county is occupied by roads, wastes, and woods; three fifths are arable land, and one-fifth pasturage. The soil generally requires careful drainage; and although the fertilising influences arising from the frequency of the floods in the low parts of the county are very great, yet they are not seldom unattended with disastrous consequences to the farmer. The county is rich in minerals, especially coal; the Dudley coal-field occupying the southern portion of the comity, while That of the potteries occupies that of the north, ironstone is also abundant, and there are several load and copper mines in the limestone districts of the eastern moorlands. The valley of the Trent is studded by many fine parks and noble mansions.
+
+Text:
+
+This county is generally of a hilly character. The highest portions are in the north, consisting principally of elevated moorland, some of which rise to the height of 1,100 feet, the valleys being watered by small streams flowing into the Trent. The western districts are traversed by the hills forming a part of the backbone of England, the streams from the west slope of which run into the Severn, which finally loses itself in the British Channel; those on the east of this ridge fall into the Trent and this again into the Humber, discharging its waters into the German Ocean. About one-fifth of the county is occupied by roads, wastes, and woods; three fifths are arable land, and one-fifth pasturage. The soil generally requires careful drainage; and although the fertilising influences arising from the frequency of the floods in the low parts of the county are very great, yet they are not seldom unattended with disastrous consequences to the farmer. The county is rich in minerals, especially coal; the Dudley coal-field occupying the southern portion of the comity, while That of the potteries occupies that of the north, ironstone is also abundant, and there are several load and copper mines in the limestone districts of the eastern moorlands. The valley of the Trent is studded by many fine parks and noble mansions.
+
+----
+
+Uuid: QNuO5roqqwYsM8ij

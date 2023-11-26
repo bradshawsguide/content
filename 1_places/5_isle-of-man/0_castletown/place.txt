@@ -1,11 +1,26 @@
-section: 3
+Title: Castletown
+
 ----
-title: Castletown
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,373.
-- term: Hotel
+-
+  term: Hotel
   desc: The George.
+
 ----
-text: This is the little capital of the island, situated on a bay which is divided from Derby Haven by Longness peninsula. Castle Rushen from which it takes its name, was built as far back as 945 by Guttred the Dane, son of Orry, King of Norway, who took possession of Man, about the time when the Danes founded so many other settlements along the coasts of England and Ireland. It is said to resemble Elsinore Castle (the scene of Hamlet); one tower is 80 feet high. In this castle the "Kings of Man" kept their little court, among whom was the Earl of Derby, who was taken (1651) and beheaded at Bolton, by the parliament party, while his high-minded wife Charlotte de Tremouaille, defended the castle, against the forces sent by Fairfax, till she was betrayed by the Lieutenant Governor, Christian; for which he was summarily shot after the restoration (1663). The plot of "Peveril of the Peak" turns upon this catastrophe. In her room in the castle, which is shown to visitors, there is a curious wooden clock in good repair. It is now used, as a prison for debtors and convicts the arrangements of which demand the attention of the Manx legislature. If the various cases of imprisonment of debtors and lunatics who have been confined in this place were publicly known, most curious, romantic, and heart-rending scenes would be brought to light, which would at once render the assimilation of the Manx laws with those of the United Kingdom imperatively necessary. Here are the barracks, deemster's court, prison, &c.; on the parade is a memorial to Governor Smelt, who was the means of founding *King William's College*, in 1830. It was opened in 1833, on the foundation of Bishop Barrow, uncle of the great Isaac Barrow, and so ably presided over from 1838 to 1841, by Principal Dr. Phillips,. son of the late celebrated bookseller, Sir Richard Phillips; and since, for some years past, by the Rev. Robert Dixon, D.D., of Catharine's Hall, Cambridge, who, as Vice-Principal and Principal has been at the college from its foundation. In consequence of the increasing number of boys, considerable additions have been made to the building. Many of the scholars educated here have greatly distinguished themselves. The Rev. James Skinner, who afterwards became the Puseyite curate of St. Barnabas., Pimlico, was the third master from 1839 to 1841; and Delamotte Professor of Drawing. The College, a handsome Gothic pile, 210 feet long, is close to the sea, and remarkable for its healthiness. The Rev. J. G. Gumming, M. A., F.G.S., was, for some years, Vice-Principal Mr. Cumraing has published an interesting and handsome book on the Runic Monuments found in the island.
+
+Text:
+
+This is the little capital of the island, situated on a bay which is divided from Derby Haven by Longness peninsula. Castle Rushen from which it takes its name, was built as far back as 945 by Guttred the Dane, son of Orry, King of Norway, who took possession of Man, about the time when the Danes founded so many other settlements along the coasts of England and Ireland. It is said to resemble Elsinore Castle (the scene of Hamlet); one tower is 80 feet high. In this castle the "Kings of Man" kept their little court, among whom was the Earl of Derby, who was taken (1651) and beheaded at Bolton, by the parliament party, while his high-minded wife Charlotte de Tremouaille, defended the castle, against the forces sent by Fairfax, till she was betrayed by the Lieutenant Governor, Christian; for which he was summarily shot after the restoration (1663). The plot of "Peveril of the Peak" turns upon this catastrophe. In her room in the castle, which is shown to visitors, there is a curious wooden clock in good repair. It is now used, as a prison for debtors and convicts the arrangements of which demand the attention of the Manx legislature. If the various cases of imprisonment of debtors and lunatics who have been confined in this place were publicly known, most curious, romantic, and heart-rending scenes would be brought to light, which would at once render the assimilation of the Manx laws with those of the United Kingdom imperatively necessary. Here are the barracks, deemster's court, prison, &c.; on the parade is a memorial to Governor Smelt, who was the means of founding *King William's College*, in 1830. It was opened in 1833, on the foundation of Bishop Barrow, uncle of the great Isaac Barrow, and so ably presided over from 1838 to 1841, by Principal Dr. Phillips,. son of the late celebrated bookseller, Sir Richard Phillips; and since, for some years past, by the Rev. Robert Dixon, D.D., of Catharine's Hall, Cambridge, who, as Vice-Principal and Principal has been at the college from its foundation. In consequence of the increasing number of boys, considerable additions have been made to the building. Many of the scholars educated here have greatly distinguished themselves. The Rev. James Skinner, who afterwards became the Puseyite curate of St. Barnabas., Pimlico, was the third master from 1839 to 1841; and Delamotte Professor of Drawing. The College, a handsome Gothic pile, 210 feet long, is close to the sea, and remarkable for its healthiness. The Rev. J. G. Gumming, M. A., F.G.S., was, for some years, Vice-Principal Mr. Cumraing has published an interesting and handsome book on the Runic Monuments found in the island.
+
+----
+
+Uuid: k5NAwIlrqaUCR0jm

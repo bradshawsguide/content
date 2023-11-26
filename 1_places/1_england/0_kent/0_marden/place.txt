@@ -1,15 +1,33 @@
-section: 1
+Title: Marden
+
 ----
-title: Marden
+
+Section: 1
+
 ----
-info:
-- term: Fair
+
+Info:
+
+-
+  term: Fair
   desc: October 11.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Staplehurst.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
 ----
-text: The only object worthy of notice is Marden church. *Boughton Place* in the neighbourhood is a very fine estate, from some points of which may be obtained several extensive views over the Weald of Kent.
+
+Text:
+
+The only object worthy of notice is Marden church. *Boughton Place* in the neighbourhood is a very fine estate, from some points of which may be obtained several extensive views over the Weald of Kent.
+
+----
+
+Uuid: s3cSd2i0sJeJJ4mm

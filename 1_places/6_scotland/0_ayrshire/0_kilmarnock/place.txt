@@ -1,19 +1,39 @@
-section: 3
+Title: Kilmarnock
+
 ----
-title: Kilmarnock
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: about 23,556.
-- term: Hotels
+-
+  term: Hotels
   desc: George, Black Bull.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday and Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: February 2nd; 2nd Tuesday in May; last Thursdays in July and October.
+
 ----
-notes:
+
+Notes:
+
 - A telegraph station.
 - Telegraph station at Hurlford, 5½ miles.
+
 ----
-text: In the vicinity are the Castle, and Baturre's Castle (in ruins), Catter Hill, at which a court is held, and black mail was levied here in 1744, St. Mamoch, and *Ardoch*, the seat of W. Bontine, Esq.
+
+Text:
+
+In the vicinity are the Castle, and Baturre's Castle (in ruins), Catter Hill, at which a court is held, and black mail was levied here in 1744, St. Mamoch, and *Ardoch*, the seat of W. Bontine, Esq.
+
+----
+
+Uuid: 0Kfe9DmoAOL5dl4R

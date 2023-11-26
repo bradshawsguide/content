@@ -1,16 +1,33 @@
-section: 3
+Title: Shap Wells
+
 ----
-title: Shap Wells
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 991.
-- term: Market Day
+-
+  term: Market Day
   desc: Monday.
-- term: Fair
+-
+  term: Fair
   desc: May 4th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Which has a saline spring, a Victoria pillar, close to the inn, an electric telegraph station, and contains remains of an abbey founded in 1119, by Thomas Gospatrick, who belonged to the Hogarth family, and tombs of the Viponts, Cliffords, &c., who were buried here.
+
+Text:
+
+Which has a saline spring, a Victoria pillar, close to the inn, an electric telegraph station, and contains remains of an abbey founded in 1119, by Thomas Gospatrick, who belonged to the Hogarth family, and tombs of the Viponts, Cliffords, &c., who were buried here.
+
+----
+
+Uuid: 4pmPpSmKKCASlnaj

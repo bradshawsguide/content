@@ -1,16 +1,30 @@
-section: 1
+Title: Alton
+
 ----
-title: Alton
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,286.
-- term: Hotel
+-
+  term: Hotel
   desc: Swan.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Last Saturday In April, July 5th, and September 29th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
+----
+
+Uuid: EPUYjqMRz5nldixo

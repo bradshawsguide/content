@@ -1,16 +1,33 @@
-section: 3
+Title: Banff
+
 ----
-title: Banff
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Fife Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: January 7th; 1st Tuesday, *o.s.*; Friday before 26th May, or 26th if on Friday; 1st Friday in August *o.s.*; Friday before 22nd November.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A parliamentary borough and Coast Guard station, at the mouth of the river Deveron. It has apopulation of 6,781, engaged in the fisheries, and to a limited extent in the manufacture of leather, linen, &c. The extensive park and mansion of the Earl of Fife is in the vicinity. Its situation commands a series of beautiful views, and it possesses a good gallery of pictures.
+
+Text:
+
+A parliamentary borough and Coast Guard station, at the mouth of the river Deveron. It has apopulation of 6,781, engaged in the fisheries, and to a limited extent in the manufacture of leather, linen, &c. The extensive park and mansion of the Earl of Fife is in the vicinity. Its situation commands a series of beautiful views, and it possesses a good gallery of pictures.
+
+----
+
+Uuid: tG9xtg8NykYWE7jl

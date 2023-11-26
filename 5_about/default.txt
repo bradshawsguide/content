@@ -1,8 +1,14 @@
-title: About Bradshaw's Guide
+Title: About Bradshaw's Guide
+
 ----
-desc: This site is inspired by the work of Victorian cartographer, printer and publisher George Bradshaw.
+
+Desc: This site is inspired by the work of Victorian cartographer, printer and publisher George Bradshaw.
+
 ----
-text: Like the popular BBC television series <cite>[Great British Railway Journeys](http://www.bbc.co.uk/programmes/b00xgqxy)</cite>, this site is inspired by the work of Victorian cartographer, printer and publisher [George Bradshaw](http://en.wikipedia.org/wiki/George_Bradshaw).
+
+Text:
+
+Like the popular BBC television series <cite>[Great British Railway Journeys](http://www.bbc.co.uk/programmes/b00xgqxy)</cite>, this site is inspired by the work of Victorian cartographer, printer and publisher [George Bradshaw](http://en.wikipedia.org/wiki/George_Bradshaw).
 
 ## George Bradshaw
 
@@ -46,3 +52,7 @@ Published using [Kirby](https://getkirby.com/) and with these supporting plugins
   * [Markdown Field](https://getkirby.com/plugins/fabianmichael/markdown-field) by [Fabian Michael](https://getkirby.com/plugins/fabianmichael)
 
 *[BBC]: British Broadcasting Corporation
+
+----
+
+Uuid: aWV5JLAT0R3JrBiq

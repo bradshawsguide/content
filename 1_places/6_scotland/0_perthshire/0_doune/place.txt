@@ -1,8 +1,19 @@
-section: 3
+Title: Doune
+
 ----
-title: Doune
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Bridge of Allan.
+
+Notes: Telegraph station at Bridge of Allan.
+
 ----
-text: This place is remarkable for its Castle, now in ruins, cresting the top of a lofty eminence, overlooking the Teith. Its noble founder is supposed to be Murdoch, Duke of Albany. It affords a fine opportunity for the rambler.
+
+Text:
+
+This place is remarkable for its Castle, now in ruins, cresting the top of a lofty eminence, overlooking the Teith. Its noble founder is supposed to be Murdoch, Duke of Albany. It affords a fine opportunity for the rambler.
+
+----
+
+Uuid: FbrpUyH0JJDicOJN

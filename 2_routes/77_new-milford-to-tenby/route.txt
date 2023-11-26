@@ -1,10 +1,17 @@
-section: 2
+Title: New Milford to Tenby
+
 ----
-title: New Milford to Tenby
+
+Section: 2
+
 ----
-company: companies/pembroke-and-tenby
+
+Company: companies/pembroke-and-tenby
+
 ----
-stops:
+
+Stops:
+
 - new-milford
 - hobbs-point
 - pembroke
@@ -12,11 +19,16 @@ stops:
 - manorbeer
 - penally
 - tenby
+
 ----
-links:
-- (wikipedia: Pembroke_and_Tenby_Railway)
+
+Links: - (wikipedia: Pembroke_and_Tenby_Railway)
+
 ----
-text: This line is in connection with the South Wales Railway at [New Milford](/stations/new-milford), from whence passengers are conveyed across the ferry to [Hobb's Point](/stations/hobbs-point), a place strongly defended by a number of forts. A distance of one mile, by coach, brings us to
+
+Text:
+
+This line is in connection with the South Wales Railway at [New Milford](/stations/new-milford), from whence passengers are conveyed across the ferry to [Hobb's Point](/stations/hobbs-point), a place strongly defended by a number of forts. A distance of one mile, by coach, brings us to
 
 (place: wales/pembrokeshire/pembroke-dock)
 
@@ -31,3 +43,7 @@ Proceeding in an easterly direction the next place we come to is the station of
 [Manorbeer](/stations/manorbeer) with its Castle and [Penally](/stations/penally) stations; see Coast route.
 
 (place: wales/pembrokeshire/tenby)
+
+----
+
+Uuid: Iknuf6eqYUyM8uqi

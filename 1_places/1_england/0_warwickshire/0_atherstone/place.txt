@@ -1,22 +1,42 @@
-section: 3
+Title: Atherstone
+
 ----
-title: Atherstone
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,857.
-- term: Hotel
+-
+  term: Hotel
   desc: Red Lion.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 7th, July 18th, September 19th, and December 4th.
+
 ----
-Notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Here is a fine cruciform church, Market House, on pillars, *Devereux's Grammar School*, and the *Three Tuns Inn*, where Richmond remained the night previous to the Battle of Bosworth Field, 1485.
+
+Desc: Here is a fine cruciform church, Market House, on pillars, *Devereux's Grammar School*, and the *Three Tuns Inn*, where Richmond remained the night previous to the Battle of Bosworth Field, 1485.
+
 ----
-text: Here is a fine cruciform church, Market House, on pillars, *Devereux's Grammar School*, and the *Three Tuns Inn*, where Richmond remained the night previous to the Battle of Bosworth Field, 1485.
+
+Text:
+
+Here is a fine cruciform church, Market House, on pillars, *Devereux's Grammar School*, and the *Three Tuns Inn*, where Richmond remained the night previous to the Battle of Bosworth Field, 1485.
 
 At Atherstone the line crosses the old coach road *Atherstone Hall* is the seat of C. A. Bracebridge, Esq. The park contains some of the finest old oaks in England. *Merevale*, the line seat of W. Dugdale, Esq., descendant of the antiquary.
+
+----
+
+Uuid: ZfJa3SGCt86d1Sd1

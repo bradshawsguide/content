@@ -1,10 +1,23 @@
-section: 2
+Title: Bradford
+
 ----
-title: Bradford
+
+Section: 2
+
 ----
-subtitle: Bradford-on-Avon
+
+Subtitle: Bradford-on-Avon
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A town that "stondeth by clooth making," said Leland, three centuries ago, and the same may be said of it now. The Avon is crossed by two bridges, one a very ancient one, with a chapel over one of the piers.
+
+Text:
+
+A town that "stondeth by clooth making," said Leland, three centuries ago, and the same may be said of it now. The Avon is crossed by two bridges, one a very ancient one, with a chapel over one of the piers.
+
+----
+
+Uuid: N1ntvnojjQh10Rko

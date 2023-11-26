@@ -1,12 +1,27 @@
-section: 3
+Title: Castle Douglas
+
 ----
-title: Castle Douglas
+
+Section: 3
+
 ----
-info:
-- term: Market Day
+
+Info:
+
+-
+  term: Market Day
   desc: Monday.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a town of growing importance with a population of 2,259, and situated about a mile and a half to the south of Carlingwark Loch, a large sheet of water, abounding with perch, &c. It has also several small well-wooded islands. *Thrieve Castle*, formerly belonging to the Douglasses, is situate a Utile to the west of the town, on a little island in the Dee. Its remains date from the fourteenth century.
+
+Text:
+
+This is a town of growing importance with a population of 2,259, and situated about a mile and a half to the south of Carlingwark Loch, a large sheet of water, abounding with perch, &c. It has also several small well-wooded islands. *Thrieve Castle*, formerly belonging to the Douglasses, is situate a Utile to the west of the town, on a little island in the Dee. Its remains date from the fourteenth century.
+
+----
+
+Uuid: sjyv2DMYQe2TaFcL

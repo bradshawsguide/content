@@ -1,12 +1,27 @@
-section: 1
+Title: East Farleigh
+
 ----
-title: East Farleigh
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Maidstone.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Is close to the bridge over the Medway.
+
+Text:
+
+Is close to the bridge over the Medway.
+
+----
+
+Uuid: kWxPSeQAG764fUak

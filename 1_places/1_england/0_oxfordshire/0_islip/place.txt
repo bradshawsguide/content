@@ -1,12 +1,24 @@
-section: 3
+Title: Islip
+
 ----
-title: Islip
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 688.
-- term: Money Order Offices
+-
+  term: Money Order Offices
   desc: at Oxford and Bicester, 6 miles.
+
 ----
-notes:
-- Telegraph station at Oxford, 6 miles.
+
+Notes: Telegraph station at Oxford, 6 miles.
+
+----
+
+Uuid: q0JqpSzJVgG38TTa

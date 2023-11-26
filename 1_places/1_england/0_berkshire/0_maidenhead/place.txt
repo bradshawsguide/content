@@ -1,17 +1,33 @@
-section: 2
+Title: Maidenhead
+
 ----
-title: Maidenhead
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,895.
-- term: Hotels
+-
+  term: Hotels
   desc: White Heart; Bear.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Whit Wednesday, September 29th, and November 30th.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1½ mile.
 - A telegraph station.
+
+----
+
+Uuid: s3XRm5qeohuHzmA6

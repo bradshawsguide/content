@@ -1,8 +1,19 @@
-section: 2
+Title: Wishford
+
 ----
-title: Wishford
+
+Section: 2
+
 ----
-notes:
-- Telegraph station at Wilton, 2½ miles.
+
+Notes: Telegraph station at Wilton, 2½ miles.
+
 ----
-text: Here is an excellent Free Grammar School, and a handsome church. In the vicinity are South Newton and Wilton Woodford, at which the ancient Bishops of Sarum had a palace.
+
+Text:
+
+Here is an excellent Free Grammar School, and a handsome church. In the vicinity are South Newton and Wilton Woodford, at which the ancient Bishops of Sarum had a palace.
+
+----
+
+Uuid: btAWkFdwsvex3I0L

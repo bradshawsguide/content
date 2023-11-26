@@ -1,12 +1,21 @@
-section: 2
+Title: Pontypool Road to Monmouth
+
 ----
-title: Pontypool Road to Monmouth
+
+Section: 2
+
 ----
-subtitle: Coleford, Monmouth, Usk and Pontypool Railway
+
+Subtitle: Coleford, Monmouth, Usk and Pontypool Railway
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - pontypool-road
 - usk
 - llandenny
@@ -15,11 +24,16 @@ stops:
 - raglan
 - dingestow
 - monmouth
+
 ----
-links:
-- (wikipedia: Coleford,_Monmouth,_Usk_and_Pontypool_Railway)
+
+Links: - (wikipedia: Coleford,_Monmouth,_Usk_and_Pontypool_Railway)
+
 ----
-text: About a mile and a half beyond Pontypool Road, at a place called Little Mill, this line turns off; and at the distance of about 3½ miles further, we cross the river Usk, and stop at the station of that name.
+
+Text:
+
+About a mile and a half beyond Pontypool Road, at a place called Little Mill, this line turns off; and at the distance of about 3½ miles further, we cross the river Usk, and stop at the station of that name.
 
 (place: england/monmouthshire/usk)
 
@@ -30,3 +44,7 @@ Passing [Llandenny](/stations/llandenny) Station, we arrive at [Raglan Road](/st
 (place: england/monmouthshire/dingestow)
 
 (place: england/monmouthshire/monmouth)
+
+----
+
+Uuid: bq3zAMjTCz6Hayca

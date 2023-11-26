@@ -1,7 +1,17 @@
-section: 2
+Title: Didcot
+
 ----
-title: Didcot
+
+Section: 2
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Wallingford.
+
+----
+
+Uuid: tns23TBOXfKjaHaK

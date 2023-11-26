@@ -1,28 +1,48 @@
-section: 3
+Title: Northampton
+
 ----
-title: Northampton
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Angel, George, Peacock.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: The 2nd Tuesday in January, February 20th, the 3rd Monday in March, April 5th, May 4th, June 19th, August 5th, August 26th, September 19th, the first Thursday in November, November 28th, and the Friday before Smithfield Great Market.
-- term: Bankers
+-
+  term: Bankers
   desc: Northampton Union; Northamptonshire Banking Company.
-- term: Races
+-
+  term: Races
   desc: Pytchley Hunt, in March.
-- term: Cricket Club
+-
+  term: Cricket Club
   desc: in June.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 5 mile.
 - A telegraph station.
+
 ----
-desc: The capital of Northamptonshire, one of the chief towns in the Midland counties, with an industrious population of 32,813, some thousands of whom are engaged in the boot and shoe manufacture.
+
+Desc: The capital of Northamptonshire, one of the chief towns in the Midland counties, with an industrious population of 32,813, some thousands of whom are engaged in the boot and shoe manufacture.
+
 ----
-text: (smcp: Northampton) is a borough town, standing on the banks of the river Nene, on the left of the line. It is memorable in the annals of political and local history, for the number of synods and councils held within its walls, its formidable castle and provincial earls, its numerous monastic foundations, military events, and last, not least, for the many important improvements which it has undergone within the last half century.
+
+Text:
+
+(smcp: Northampton) is a borough town, standing on the banks of the river Nene, on the left of the line. It is memorable in the annals of political and local history, for the number of synods and councils held within its walls, its formidable castle and provincial earls, its numerous monastic foundations, military events, and last, not least, for the many important improvements which it has undergone within the last half century.
 
 The capital of Northamptonshire, one of the chief towns in the Midland counties, and a parliamentary borough, returning two members, with an industrious population of 32,813, some thousands of whom are engaged in the boot and shoe manufacture, which has been noted here for centuries. The trade indeed is so flourishing, that there is a saying, "You may know when you are within a mile of Northampton by the sound of the cobler's lapstone." Formerly it was celebrated for its leather bottles, so that St. Crispin has always been its patron saint. The George Inn was given by the Drydeus towards the support of their blue-coat school. It was one of two important *hamptons* in Saxon times, which since the Doomsday survey, have been called Northampton and Southampton, and are still prosperous and increasing towns. It is on the river Nene, and the Northampton and Peterborough Railway, 67 miles from London, *via* Blisworth, on the North Western. From 1138, in Henry I.'s reign, to 1380, as many as 20 parliaments were held here, showing its preeminence at that period. One of the most important as regards our constitutional progress, was that called by Henry II., in 1179, when the towns were ordered to send burgesses for the first time. One held five years before, confirmed the Constitution of Clarendon, which subjected clergy to the common laws, and led to à Becket's rebellion. On another occasion, when disputes occurred at Oxford, the University was moved hither, but only for a time. A great fire in 1675 destroyed 500 houses. It is a clean, neatly built town, on a gentle slope, with houses of reddish stone. The most bustling quarters are the *Drapery*, and the large open *Market Place* near it, round which All Saints Church, the Corn Exchange, Town Hall, Bank, George and Peacock Hotels, &c., are grouped.
 
@@ -43,3 +63,7 @@ Passing up Marefair, is the *Grammar School* (in Free School Lane), founded in 1
 The *Infirmary* is near the Asylum; a substantial building, founded in 1747. Hereabouts is the new walk, or Victoria Promenade, as it is called, since the Queen passed through in 1844, when a Dispensary was also founded to commemorate that event. The Gothic vault over Becket's well was rebuilt in 1843.
 
 In the neighbourhood are various objects of notice. A series of Saxon and Danish camps on the hills around, as Hunsbury Hill, about 1½ mile from Northampton, in the parish of Hardingstone: in this parish is also *Delapre Abbey*, the seat of E. Bouverie, Esq., where was an old cluniac house. Rothersthorpe, Castledykcs, Clifford Hill, and (further off) Borough Hill, Guilsborough. Close to Delapre Abbey is a Gothic relic, in the shape of *Queen Eleanor's Cross*, one of the many built by Edward I. to the affectionate memory of his excellent wife, at every spot where her body rested on its way to Westminster; it is octangular, in three stories, but was repaired for the worse about a century ago. Here poor Hemy VI. was defeated and made prisoner by Warwick, 1460, and "ten thousand tall Englishmen" killed. In *Horton Church* (near the seat of Sir R. Gunning, Bart.), is an effigy of Queen Catherine Parr's uncle. *Courteen Hall*, Sir C. Wake, Bart. At *Hartwell* is a new church. All about Salcey to Pottersbury, Stoney Stratford, Whittlebury, &c., is *Crown Forest*, which supplied timber for the navy in the war. but is now to be disafforested, on account of its expense. *Easton Neston*, the Earl of Pomfret's seat, was begun by Wren, and is close to *Towcester* (eight miles), a small town of shoe and lace makers, which was betrayed to Empson, the avaricious tool of Henry VII. The Talbot Inn is ancient. The Roman Watling Street runs through the town and the hills beyond, which are also traversed by two great modern works—the Grand Junction Canal and the North Western Railway—by means of tunnels at BLisworth and Crick. *Fawsley* is the fine Tudor seat of Sir C. Knightley, Bart., a tory and protectionist of the good old school. *Althorp Park* (five miles), the seat of Earl Spencer, contains a gallery of pictures, and a library of rare and valuable books, gathered together by the present peer's father, a member of the Roxburghe Club; the family tombs are at Brington. *Guilsborough*, the seat of W. Ward, Esq., is near a camp on the hills, on the further slope of which, the Avon (Shakspeare's Avon) rises. *Overstone* (4 miles), belongs to Lord Overstone (formerly S.J. Loyd), the banker, is partly Elizabethan, and partly in the renaissance style, by Inigo Jones. *Cottesbrooke*, Sir J. Langham Bart. At *Barton Seagrave* (seat of Mrs Tibbetts), Sanfoin was first grown by the father of Bridges, the county historian.
+
+----
+
+Uuid: EiHza1k2r93xjnit

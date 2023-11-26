@@ -1,16 +1,33 @@
-section: 1
+Title: Chilham
+
 ----
-title: Chilham
+
+Section: 1
+
 ----
-info:
-- term: Omnibuses
+
+Info:
+
+-
+  term: Omnibuses
   desc: to and from the station.
-- term: Fair
+-
+  term: Fair
   desc: November 8th.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Canterbury.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: *Chilham Home or Manor* is a noble building, situated in beautiful grounds, which command extensive views over the entire Vale of Ashford and the Stour.
+
+Text:
+
+*Chilham Home or Manor* is a noble building, situated in beautiful grounds, which command extensive views over the entire Vale of Ashford and the Stour.
+
+----
+
+Uuid: 3ZVtmeQysGf6hYP9

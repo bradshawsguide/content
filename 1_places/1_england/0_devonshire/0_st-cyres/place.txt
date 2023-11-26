@@ -1,15 +1,33 @@
-section: 2
+Title: St. Cyres
+
 ----
-title: St. Cyres
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Railway.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Crediton.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - Telegraph station at Crediton, 2½ miles.
+
 ----
-text: Four miles from St. Cyres is *Dunscomb*, the seat of Sir T. Bodley, the founder of the Bodleian Library, Oxford.
+
+Text:
+
+Four miles from St. Cyres is *Dunscomb*, the seat of Sir T. Bodley, the founder of the Bodleian Library, Oxford.
+
+----
+
+Uuid: IMbGPL3csKtOyNWi

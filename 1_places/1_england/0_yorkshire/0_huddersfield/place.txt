@@ -1,20 +1,38 @@
-section: 3
+Title: Huddersfield
+
 ----
-title: Huddersfield
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: George, Imperial, Rose and Crown, Railway Refreshment Room.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 31st, May 14th, and October 1st.
-- term: Bankers
+-
+  term: Bankers
   desc: Branch of Yorkshire Banking Co.; Halifax and Huddersfield Union Bank; Huddersfield Banking Co.; West Riding Union.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A parliamentary borough, and seat of the woollen trade, among hills, on a hill over the Colne, in the West Riding of Yorkshire, population 34,877; who return one member. Woollens, fancy valentias, shawls, &c., are the staple articles of manufacture, besides corduroys, and cotton, though but little of the last. One short canal, called "The Ramsden," after the name of the lords of the manor who cut it, runs to the river Calder; and another strikes through the moors towards Staleybridge, passing a tunnel 3½ miles long, and being 656 feet above the sea in the highest part. The railway, which follows the same direction, has an equal rise and fall, with a tunnel quite as long. Among the edifices, which are of stone, are *St. Peter's Church*, rebuilt in 1836 ; *Trinity Church*, *St. John's Church*, built by Sir John Ramsden, at the cost of £12,000, and *St. Paul's Church*, the Arcade and the Railway Station, also a *College*, or proprietary school, chiefly attended by dissenters; large *Wesleyan Chapel*; the Philosophical Hall; a large handsome *Infirmary*, built in 1830, for £10,000; and *Water Works*, supplied from Longwood, 3 miles distant. There are but a dozen bakers here, the custom being for the inhabitants to bake their own bread.
+
+Text:
+
+A parliamentary borough, and seat of the woollen trade, among hills, on a hill over the Colne, in the West Riding of Yorkshire, population 34,877; who return one member. Woollens, fancy valentias, shawls, &c., are the staple articles of manufacture, besides corduroys, and cotton, though but little of the last. One short canal, called "The Ramsden," after the name of the lords of the manor who cut it, runs to the river Calder; and another strikes through the moors towards Staleybridge, passing a tunnel 3½ miles long, and being 656 feet above the sea in the highest part. The railway, which follows the same direction, has an equal rise and fall, with a tunnel quite as long. Among the edifices, which are of stone, are *St. Peter's Church*, rebuilt in 1836 ; *Trinity Church*, *St. John's Church*, built by Sir John Ramsden, at the cost of £12,000, and *St. Paul's Church*, the Arcade and the Railway Station, also a *College*, or proprietary school, chiefly attended by dissenters; large *Wesleyan Chapel*; the Philosophical Hall; a large handsome *Infirmary*, built in 1830, for £10,000; and *Water Works*, supplied from Longwood, 3 miles distant. There are but a dozen bakers here, the custom being for the inhabitants to bake their own bread.
 
 Within a few miles are *Almondbury Castle*, on the site of the ancient *Campodunum*; *Woodsome Lees*, seat of the Earl of Dartmouth, near Farnley-Tyas, which belongs to the family; *Fixby Hall*, the residence of Captain Edwards; *Kirklees Hall*, Sir G. Armitage, Bart, on the site of the nunnery where that mythical hero Robin Hood was bled to death by the nun, according to the current story. Here may still be seen the grave, with the inscription of his death and burial.
+
+----
+
+Uuid: r4hAM5WbUfYNAxSq

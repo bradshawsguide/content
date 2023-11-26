@@ -1,18 +1,29 @@
-section: 3
+Title: Wolverhampton to Stafford
+
 ----
-title: Wolverhampton to Stafford
+
+Section: 3
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - wolverhampton
 - bushbury
 - four-ashes
 - spread-eagle
 - penkridge
 - stafford
+
 ----
-text: (place: england/staffordshire/wolverhampton)
+
+Text:
+
+(place: england/staffordshire/wolverhampton)
 
 [Bushbury](/stations/bushbury) station.
 
@@ -23,3 +34,7 @@ text: (place: england/staffordshire/wolverhampton)
 (place: england/staffordshire/penkridge)
 
 (place: england/staffordshire/stafford)
+
+----
+
+Uuid: KRn5b5zqO5yPuc0H

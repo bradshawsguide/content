@@ -1,14 +1,30 @@
-section: 3
+Title: Birstal
+
 ----
-title: Birstal
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 43,505.
-- term: Hotel
+-
+  term: Hotel
   desc: Coach and Horses.
+
 ----
-notes:
-- Telegraph station at Dewsbury, 3 miles.
+
+Notes: Telegraph station at Dewsbury, 3 miles.
+
 ----
-text: The people here are principally employed in the woollen and mining trades. Close at hand is *Old Howley Hall*, in ruins.
+
+Text:
+
+The people here are principally employed in the woollen and mining trades. Close at hand is *Old Howley Hall*, in ruins.
+
+----
+
+Uuid: 5nd4VxO2rpPkosCR

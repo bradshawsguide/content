@@ -1,21 +1,36 @@
-section: 2
+Title: Waterford
+
 ----
-title: Waterford
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Commin's, commercial and family, on the Quay; Dolbyn's, Commercial Buildings.
-- term: Market Days
+-
+  term: Market Days
   desc: Monday, Wednesday, Thursday, and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 4, June 24, October 4.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: The capital of Waterford county, and a parliamentary borough, port, &c., in the south of Ireland.
+
+Desc: The capital of Waterford county, and a parliamentary borough, port, &c., in the south of Ireland.
+
 ----
-text: The capital of Waterford county, and a parliamentary borough, port, &c., in the south of Ireland. The river Suir, upon which it stands, divides the county from Tipperary, and joins the Barrow a few miles below, making the distance to the open sea about 14 miles. Population, about 29,300, who return two members, and are engaged chiefly in the provision trade. About 200 vessels, mostly of small tonnage, belong to the port; it has a thriving provision trade with Bristol, Liverpool, &c., and is provided with excellent quay-room, and water deep enough for ships of 1,000 tons.
+
+Text:
+
+The capital of Waterford county, and a parliamentary borough, port, &c., in the south of Ireland. The river Suir, upon which it stands, divides the county from Tipperary, and joins the Barrow a few miles below, making the distance to the open sea about 14 miles. Population, about 29,300, who return two members, and are engaged chiefly in the provision trade. About 200 vessels, mostly of small tonnage, belong to the port; it has a thriving provision trade with Bristol, Liverpool, &c., and is provided with excellent quay-room, and water deep enough for ships of 1,000 tons.
 
 The ancient Irish called it by several figurative names; but when the Danes settled here, in the 9th century, they styled it *Vater-fiord*, the "Father harbour," on account of its superiority. Here they built a round tower, called the *Ring*, or *Reginald's Tower*, which, as it still exists, must be one of the oldest in Ireland, after the Round Towers. Another event was the marriage of Richard de Clare, or Strongbow, to the King of Leinster's daughter, Eva, which has been painted by Maclise. Here, too, Henry II. landed, as "Lord of Ireland," in 1172. Thenceforth it was steadfastly loyal to the English crown, as in Perkin Warbeck's attempt to take it, and during the civil war, when Cromwell was repulsed. Among the latest events was the embarkation of James II. after the battle of the Boyne. It has returned two members to parliament almost ever since 1374.
 
@@ -28,3 +43,7 @@ A large *House of Correction*, in Gaol Street, near Bally Bricken Green, where t
 Among the natives of Waterford were *Wadding*, the founder of the Irish Franciscan College at Rome, Archbishop Lumbard, and Hartrey the historian. The Earl of Shrewsbury takes the title of Earl of Waterford from this town, which was granted to his ancestor in 1447 ; and it gives that of Marquis to the Beresford family.
 
 Proceeding down the Suir, you come to Cheek Point, opposite *Dimbody Abbey* and the junction with the Barrow, and formerly a packet station for Bristol, &c. Passage is a part of Waterford borough, though 6 miles distant. There is a ferry to Dungannon on the Wexford side of the river, from which James II. took his farewell of Ireland. *Dunmore*, at the mouth, is a bathing place, with a deserted pier harbour, which originally cost £100,000, and was made for the Milford Mail Packets. Some Druid stones are near. All the coast from this point, westward, past Tramore, is exposed and dangerous; but at Dungarvan which returns one member, and has two good hotels (Eagle, Mary Power, and Devonshire Arms, Mrs. Magrath), there is a tolerable haven, with a ruined abbey, castle, &c. Opposite Dunmore is the *Hook Point* and *Light*, with an ancient, tower, commanding a splendid view. It is a joke of the philologists, that when the conqueror of Ireland landed he said, <q>he would take it by *Hook* or by *Crook*, and that the brave inhabitants of Fethard *fought hard*;</q> hence, say they, these names are derived. Fethard is near *Loftus*, the Marquis of Ely's seat (where they show Strongbow's sword), *Tintern Abbey* (a ruin), and *Bannow Bay*, which, like all the Wexford shore, is choked with sand hills. There are an immense number of old forts built by the Norman invaders along this part of Ireland. Up the Suir, from Waterford, are, *Kilmeaden Castle*, which belongs to Lord Doneraile. Portlaw has a large cotton factory, established by the Maleomsons in 1818. *Curraghmore*, close to it, is the princely seat of the Marquis of Waterford; a large park and fine prospects. *Carrick-on-Suir*, a prosperous town, with a trade in corn, butter, &c., the land being rich and fertile. There is a Castle of the Butlers. Above this is *Clonmel*, where Sterne was born in 1713; and where the O'Brien *pronunciamento* was knocked on the head in 1848, the leader of which has returned to his native land, "a wiser and better man," having been pardoned by Her Majesty Queen Victoria. "To the south are the fine rugged mountains of the Cummeragh, a name synonymous with the Cumraeg, or Cimbri, by whose descendants they are still peopled. *Manorbullach*, the highest point, is 2,598 feet above the sea. Fine black and red trout are seen in the lakes. The Knockmealdown and Galtee mountains, some of which are 1,200 to 1,600 feet high, further west, are continuations of this range. Up the Barrow. This fine stream takes name from burragh, a bar boundary, as it was long the boundary of the English dominion, or "Pale," in Ireland. *New Ross* was founded by Strongbow's daughter, Rose Macruine. It has a good trade in salmon and provisions. A wooden drawbridge crosses the river, which admits vessels of even 800 tons burden. Up the quay. It was the scene of much fighting in the rebellion of 179S, when Harvey and his followers were defeated by General Johnson. Here the first Temperance Society was established, in 1824. On the Wexford road is the Barn of *Scullabogue*, where 140 loyalists were burnt and shot by the rebels in 1798, under Father Murphy. Their General, Harvey, left on account of this massacre, but was captured in his hiding-place, on the Galtee Islands, and executed at Wexford, by sentence of court-martial.
+
+----
+
+Uuid: YuqVed3jR8QVViGB

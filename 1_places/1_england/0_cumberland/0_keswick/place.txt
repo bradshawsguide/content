@@ -1,14 +1,25 @@
-section: 3
+Title: Keswick
+
 ----
-title: Keswick
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,610.
-- term: Hotels
+-
+  term: Hotels
   desc: Royal Oak; Queen's Head; King's Arms; Bell's.
+
 ----
-text: Good cheap lodgings are abundant at this place which is the capital of the *Cumberland Lakes* in the beautiful vale of the Greta, at the bottom of Derwentwater, under Skiddaw.
+
+Text:
+
+Good cheap lodgings are abundant at this place which is the capital of the *Cumberland Lakes* in the beautiful vale of the Greta, at the bottom of Derwentwater, under Skiddaw.
 
 Keswick is a neat town of one long street, with a *Town Hall*, the bell of which was brought from the Radcliffe's old seat in the lake, bearing apparently the date of 1001. The Radcliffes; were Earls of Derwentwater, but their vast property here was forfeited by their rebellion in 1716, and given to Greenwich Hospital, from which it is leased by the Marshalls. There is a modern Gothic church for the district; and the old parish church of Crosthwaite, in the middle of the valley (near the *Grammar School*), commands an extensive prospect. Specimens of the minerals peculiar to the mountains may be seen at the museum in the town; and at Flintoff's is an excellent coloured model of the whole district, nearly 13 feet long. Guides, boats, ponies, &c., may be hired at the inn at reasonable rates.
 
@@ -21,3 +32,7 @@ Near the bridge on the Greta, is *Greta Hall*, where *Southey* lived, at first w
 The principal attractions to be seen from Keswick are the *Derwentwater Lake*, fed by the river Derwent, which conies from Bow Fell, through Borrowdale, and is, perhaps, the most beautiful in the lake country, from the abundance of foliage on the shores and islands, of which there are four. Friar's Crag and Ashness are good points of view.
 
 Others (near Keswick) are Castle Hill, Crow Park, and Cockshot. *Lodore Fell* (best seen, like all falls, in wet weather), is at the upper end; and which Southey has described in some amusing gingle. It flows from a defile in Watendlath. *Skiddaw* and *Saddleback*, five miles distant, may be reached on foot or pony-back. *Barrowdale*, a deep narrow pass through which the Derwent flows, lies six miles from Keswick; here are the great Bowder Rock, 62 feet long, weighing nearly 1,800 tons, and the famous *Black Lead Mines* at Giller Coom, belonging to Mr. Bankes, of Dorsetshire. Further up the dale are Scathwaite, Stye Head, Wast Water, and Scafell Pikes, 3,090 feet high, a road turns round to Buttermere and Crummock Waters. *Helvellyn*, eight miles distant, and 3,060 feet high, a noble granite peak, between Thirle Mere and Ulleswater. The road to Grasmere and Ambleside passes over the shoulder of it at Dunmail Raise gap. The green value of *Newlands* lies six miles south-west, under Causey and Grisdale Pikes. *Ulleswater*, eight miles distant, and not far from the railway, is nine miles long, and surrounded by magnificent mountains. From Watermillock and Gowbarrow Park, you obtain the finest views of it. The latter is the property of H. Howard, Esq., and has a fall in it Airey Force.
+
+----
+
+Uuid: fJClahc1XMQKky4s

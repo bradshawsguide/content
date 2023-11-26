@@ -1,8 +1,19 @@
-section: 3
+Title: Symington
+
 ----
-title: Symington
+
+Section: 3
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A short time previous to reaching the station, we have the famous hill of Tinto appearing in view; towering high above the other giants of nature which surround it. Visitors ascend to the top of Tinto or the "Hill of Fire," in order to enjoy the fine view from its summit. In the vicinity are *Fatlips Castle*, in ruins, and *Castle Hill*, which is planted all over.
+
+Text:
+
+A short time previous to reaching the station, we have the famous hill of Tinto appearing in view; towering high above the other giants of nature which surround it. Visitors ascend to the top of Tinto or the "Hill of Fire," in order to enjoy the fine view from its summit. In the vicinity are *Fatlips Castle*, in ruins, and *Castle Hill*, which is planted all over.
+
+----
+
+Uuid: chDfcZbLZiFkh4Vl

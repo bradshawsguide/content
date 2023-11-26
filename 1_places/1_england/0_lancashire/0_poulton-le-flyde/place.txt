@@ -1,16 +1,33 @@
-section: 3
+Title: Poulton-le-Flyde
+
 ----
-title: Poulton-le-Flyde
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,141.
-- term: Market Day
+-
+  term: Market Day
   desc: Monday
-- term: Fairs
+-
+  term: Fairs
   desc: February 6th, April 13th, and November 3rd.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This town is situated near the Wyre. It contains a fine church, with an old tower, rebuilt in 1751, and a good Grammar School.
+
+Text:
+
+This town is situated near the Wyre. It contains a fine church, with an old tower, rebuilt in 1751, and a good Grammar School.
+
+----
+
+Uuid: QvEfgvaXDOPARCB0

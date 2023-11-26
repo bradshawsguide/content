@@ -1,21 +1,36 @@
-section: 2
+Title: Limerick
+
 ----
-title: Limerick
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Moore's, J. W. Moore, Clare, Catherine O'Brien; Cruise's Royal, Edward Cruise.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday and Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Easter Tuesday, July 4, August 4, and December 4.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This old seat of the O'Briens, now the capital of Limerick county, a parliamentary borough and a thriving port, has a population of about 67,000, lies in a flat part of Munster 50 miles from the mouth of the Shannon.
+
+Desc: This old seat of the O'Briens, now the capital of Limerick county, a parliamentary borough and a thriving port, has a population of about 67,000, lies in a flat part of Munster 50 miles from the mouth of the Shannon.
+
 ----
-text: This old seat of the O'Briens, now the capital of Limerick county, a parliamentary borough and a thriving port, has a population of about 67,000, who return two members, lies in a flat part of Munster 50 miles from the mouth of the Shannon. Limerick is divided into Old Town and New Town. The latter, founded not more than 80 years ago, lies to the east, has some good streets and squares about Richmond Place and other quarters; while the Old (or Irish) Town, on King's Island to the north, is one mass of dilapidation and filth; the old crumbling houses being used by the poor wherever they can find something like a roof to cover them. King's Island, which lies between the Shannon and a loop of it called Salmon Weir River, is joined to the opposite shore by Thomond Bridge, rebuilt in 1839, and to the New Town by New and Ball's (or Baal's) Bridges. The Wellesley Bridge, opposite New Town, is a handsome level stone way, on 5 arches, with a swing in the middle for shipping to pass into the floating docks. By a weir below this bridge, and new embankments, sufficient water is obtained to bring vessels of 600 tons alongside the quay. The Irish Western Yacht Club make Limerick their head quarters. About 15,000 tons of shipping belong to the port; the customs are nearly a quarter of a million. Vast quantities of beef, pork, bacon, butter for winch it is particularly celebrated, and other "Irish provisions," are exported. The provision stores of Messrs. Russell should be visited; they cover 3 acres, and here 50,000 pigs and 2,000 head of cattle are salted annually. One feature of it is a "rat barrack" (or hole) where the rats are fed and periodically destroyed, and thus prevented from going to the stores.--*Hall's Ireland*, Excellent lace is made here by two or three firms; it is also noted for its fish-hooks, "every hook worth a salmon," made by O'Shaughnessey; and delicate: gloves, sold at Bourke's, but the best "Limerick gloves" are now made at Cork.
+
+Text:
+
+This old seat of the O'Briens, now the capital of Limerick county, a parliamentary borough and a thriving port, has a population of about 67,000, who return two members, lies in a flat part of Munster 50 miles from the mouth of the Shannon. Limerick is divided into Old Town and New Town. The latter, founded not more than 80 years ago, lies to the east, has some good streets and squares about Richmond Place and other quarters; while the Old (or Irish) Town, on King's Island to the north, is one mass of dilapidation and filth; the old crumbling houses being used by the poor wherever they can find something like a roof to cover them. King's Island, which lies between the Shannon and a loop of it called Salmon Weir River, is joined to the opposite shore by Thomond Bridge, rebuilt in 1839, and to the New Town by New and Ball's (or Baal's) Bridges. The Wellesley Bridge, opposite New Town, is a handsome level stone way, on 5 arches, with a swing in the middle for shipping to pass into the floating docks. By a weir below this bridge, and new embankments, sufficient water is obtained to bring vessels of 600 tons alongside the quay. The Irish Western Yacht Club make Limerick their head quarters. About 15,000 tons of shipping belong to the port; the customs are nearly a quarter of a million. Vast quantities of beef, pork, bacon, butter for winch it is particularly celebrated, and other "Irish provisions," are exported. The provision stores of Messrs. Russell should be visited; they cover 3 acres, and here 50,000 pigs and 2,000 head of cattle are salted annually. One feature of it is a "rat barrack" (or hole) where the rats are fed and periodically destroyed, and thus prevented from going to the stores.--*Hall's Ireland*, Excellent lace is made here by two or three firms; it is also noted for its fish-hooks, "every hook worth a salmon," made by O'Shaughnessey; and delicate: gloves, sold at Bourke's, but the best "Limerick gloves" are now made at Cork.
 
 The Cathedral of St, Mary is an ill-shaped common looking Gothic building, begun by the O'Briens of Thomond on the site of then- palace, having a square tower of 120 feet high, which affords a beautiful view. Thomond means North Minister, of which the O'Briens were kings. The unfortunate, misguided, but highly respected Mr. O'Brien whose attempted insurrection in 1848 ended so lamentably for himself, is their descendant. An older building is King John's Castle, at one end of Thomond Bridge, of which two heavy round stones and a gate are left. It was taken by Ireton (but through treachery) after a siege of six months, in 1641; and here he died of the plague the same year. At the other end of the Thomond Bridge (on the Clare side) is the famous Treaty Stone, shaped something like an arm-chair, upon which, it is stated, the treaty was signed on the 3rd of October, 1691, when James II.'s garrison of Irish and French surrendered to De Ginkell. One article stipulated that Roman Catholics should take the oath of allegiance, and should be preserved from any disturbance on account of their religion. This provision was adhered to by William III., but broken by Queen Anne: and hence the city of Limerick is called the "City of the Violated Treaty." Thus terminated the War of the Revolution in Ireland.
 
@@ -26,3 +41,7 @@ Lord Chancellor Clare (Fitzgibbon) Speaker Pery, of the Irish Parliament, whose 
 The scenery down the Shannon is not very tempting, but the rich correasses yield heavy crops of wheat and potatoes. At its mouth, on the south side, below Tarbert, is Ballybunian, a pretty watering-place, noted for its caves. Kilrush, on the opposite shore, is a place which suffered dreadfully in the late famine, in common with all this quarter of Ireland; in which whole villages were depopulated. From its mouth to its source under Quilca Mountain in Cavan, Shannon is 250 to 260 miles long; a steamer runs up as far as Athlone. Some of the best parts are--the Falls, near Castle Connell: O'Brien's Bridge; the hills about Lough Derg, which has a round tower on Holy Island; Clonmacnois, above Shannon Bridge; and the mountain scenery of Lough Allen. Clonmacnoise, or Seven Churches, in particular, deserves notice as one of the seats of letters and religion in ancient Irish times (*i.e.*, before the Romish supremacy was known); there are rums of a cathedral, two round towers, a palace, &c, and many graves.
 
 In the middle of County Clare is Mount Callan, a fine peak 1,280 feet high, having a "cromlech" (or sun altar), and an "ogham stone" near the top. The cliffs on the coast to the west are wonderfully bold; those about Malbay and Moher drop sheer down to the sea for 600 to 1,000 feet. Here one of the Spanish Armada came ashore--at Spanish Point.
+
+----
+
+Uuid: sD091O7uGu8hqldw

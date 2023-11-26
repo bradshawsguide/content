@@ -1,14 +1,30 @@
-section: 1
+Title: Mortlake
+
 ----
-title: Mortlake
+
+Section: 1
+
 ----
-info:
-- term: Inn
+
+Info:
+
+-
+  term: Inn
   desc: Kings Arms.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Richmond.
+
 ----
-notes:
-- Telegraph station at Richmond, 1½ mile.
+
+Notes: Telegraph station at Richmond, 1½ mile.
+
 ----
-text: Dr. Lee, the astrologer, and by some called the Magician of Queen Elizabeth's time, is buried here.
+
+Text:
+
+Dr. Lee, the astrologer, and by some called the Magician of Queen Elizabeth's time, is buried here.
+
+----
+
+Uuid: 7tcDUmHxIQUMGjj8

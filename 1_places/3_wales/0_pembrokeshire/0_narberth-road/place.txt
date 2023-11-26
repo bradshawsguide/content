@@ -1,21 +1,44 @@
-section: 2
+Title: Narberth Road
+
 ----
-title: Narberth Road
+
+Section: 2
+
 ----
-subtitle: (For Tenby)
+
+Subtitle: (For Tenby)
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: De Rutzen Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 21st, May l3th, June 2nd and 29th, August 10th, September 22nd, October 27th, and December 11th.
+
 ----
-notes:
+
+Notes:
+
 - Distance of town from station, 3¾ miles.
 - Telegraph station at Haverfordwest, 11¾ miles.
+
 ----
-desc: Narberth is a small neat own in the county of Carmarthen, with a population of 2,546.
+
+Desc: Narberth is a small neat own in the county of Carmarthen, with a population of 2,546.
+
 ----
-text: Narberth is a small neat own in the county of Carmarthen, with a population of 2,546. It has the privilege of being represented in parliament in connection with the borough of Haverfordwest, Fishguard, and St. Davids.
+
+Text:
+
+Narberth is a small neat own in the county of Carmarthen, with a population of 2,546. It has the privilege of being represented in parliament in connection with the borough of Haverfordwest, Fishguard, and St. Davids.
+
+----
+
+Uuid: CETH3sXCwODlZjlg

@@ -1,10 +1,17 @@
-section: 3
+Title: Stoke to Macclesfield
+
 ----
-title: Stoke to Macclesfield
+
+Section: 3
+
 ----
-company: companies/north-staffordshire
+
+Company: companies/north-staffordshire
+
 ----
-stops:
+
+Stops:
+
 - stoke
 - [etruria, hanley]
 - burslem
@@ -14,8 +21,12 @@ stops:
 - congleton
 - north-rode
 - macclesfield
+
 ----
-text: (place: england/staffordshire/stoke)
+
+Text:
+
+(place: england/staffordshire/stoke)
 
 The northern portion of the county of Stafford, through which this line passes, is distinguished from its being the centre, of that celebrated district which produces the Staffordshire Pottery, comprised in a large area of about thirty thousand acres, lying a little to the eastward of Newcastle-under-Lyme.
 
@@ -62,3 +73,7 @@ Cloud-End and Mow Cop are noble features in the landscape to the right, between 
 [North Rode](/stations/north-rode), the junction of the Churnet Valley railway.
 
 (place: england/cheshire/macclesfield)
+
+----
+
+Uuid: tbUmmNAJxxwBvMbK

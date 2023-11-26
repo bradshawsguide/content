@@ -1,13 +1,30 @@
-section: 3
+Title: Troon
+
 ----
-title: Troon
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Portland, Commercial.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-text: Here is a pier 800 feet long, with revolving and fixed lights on it. Plenty of salmon and rabbits are in the vicinity.
+
+Text:
+
+Here is a pier 800 feet long, with revolving and fixed lights on it. Plenty of salmon and rabbits are in the vicinity.
+
+----
+
+Uuid: V9swqpI5XO8HEC3g

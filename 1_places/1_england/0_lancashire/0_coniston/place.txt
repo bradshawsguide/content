@@ -1,14 +1,30 @@
-section: 3
+Title: Coniston
+
 ----
-title: Coniston
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,324.
-- term: Hotel
+-
+  term: Hotel
   desc: Atkinson's.
+
 ----
-notes:
-- Telegraph station at Broughton.
+
+Notes: Telegraph station at Broughton.
+
 ----
-text: This little village lies about half a mile from the western margin of the lake, and immediately at the foot of the Man Mountain. The lake is six mile long, and about three-quarters of a mile broad: it, depth supposed to be about 162 feet. It is fed by streams from Tilberthwaite and Yewdale, as well as those flowing from the tarns on the Man Mountain. Its fish are trout and char, and consequently attractive to the angler. The head of the lake possesses scenery of the most magnificent character, a contrast of which, with that of the lower part of the lake, has a tendency to detract largely from the pretensions of those of the latter. Lady le Fleming, of Rydal Hall, is the proprietress of the largest portion of the lake, as also of some valuable copper mines on the Old Man.
+
+Text:
+
+This little village lies about half a mile from the western margin of the lake, and immediately at the foot of the Man Mountain. The lake is six mile long, and about three-quarters of a mile broad: it, depth supposed to be about 162 feet. It is fed by streams from Tilberthwaite and Yewdale, as well as those flowing from the tarns on the Man Mountain. Its fish are trout and char, and consequently attractive to the angler. The head of the lake possesses scenery of the most magnificent character, a contrast of which, with that of the lower part of the lake, has a tendency to detract largely from the pretensions of those of the latter. Lady le Fleming, of Rydal Hall, is the proprietress of the largest portion of the lake, as also of some valuable copper mines on the Old Man.
+
+----
+
+Uuid: g9PU3epGaKRmFZpR

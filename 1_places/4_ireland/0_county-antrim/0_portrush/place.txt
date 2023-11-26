@@ -1,16 +1,34 @@
-section: 2
+Title: Portrush
+
 ----
-title: Portrush
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Coleman's.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Coleraine, 6 miles.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This small, yet pretty bathing place, which has Dr. Adam Clarke's School and monument, and where the mirage is often seen, is beautifully situated on a basalt peninsula.
+
+Desc: This small, yet pretty bathing place, which has Dr. Adam Clarke's School and monument, and where the mirage is often seen, is beautifully situated on a basalt peninsula.
+
 ----
-text: This small, yet pretty bathing place, which has Dr. Adam Clarke's School and monument, and where the mirage is often seen, is beautifully situated on a basalt peninsula, opposite the Skerries Rocks, and has an excellent view of the *Giant's Causeway*, to which this is the nearest railway station.
+
+Text:
+
+This small, yet pretty bathing place, which has Dr. Adam Clarke's School and monument, and where the mirage is often seen, is beautifully situated on a basalt peninsula, opposite the Skerries Rocks, and has an excellent view of the *Giant's Causeway*, to which this is the nearest railway station.
+
+----
+
+Uuid: 5ZW2WPGalBDiipVR

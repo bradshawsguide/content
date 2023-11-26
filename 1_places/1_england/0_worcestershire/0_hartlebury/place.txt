@@ -1,15 +1,34 @@
-section: 2
+Title: Hartlebury
+
 ----
-title: Hartlebury
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,852.
+
 ----
-notes:
+
+Notes:
+
 - Telegraph station at Kidderminster, 3¾ miles.
 - Distance from station, 1 mile.
+
 ----
-desc: Here is situated Hartlebury Castle, for many centuries the residence of the Bishops of Worcester, which was reduced in the time of the Commonwealth, and rebuilt by Bishop Hough.
+
+Desc: Here is situated Hartlebury Castle, for many centuries the residence of the Bishops of Worcester, which was reduced in the time of the Commonwealth, and rebuilt by Bishop Hough.
+
 ----
-text: Here is situated Hartlebury Castle, for many centuries the residence of the Bishops of Worcester, which was reduced in the time of the Commonwealth, and rebuilt by Bishop Hough. The library of Bishop Hurd, together with some of Pope and Warburton's books, are at the castle.
+
+Text:
+
+Here is situated Hartlebury Castle, for many centuries the residence of the Bishops of Worcester, which was reduced in the time of the Commonwealth, and rebuilt by Bishop Hough. The library of Bishop Hurd, together with some of Pope and Warburton's books, are at the castle.
+
+----
+
+Uuid: jhCJCTheC1tADD5u

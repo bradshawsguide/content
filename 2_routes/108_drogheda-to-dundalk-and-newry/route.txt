@@ -1,12 +1,21 @@
-section: 2
+Title: Drogheda to Dundalk and Newry
+
 ----
-title: Drogheda to Dundalk and Newry
+
+Section: 2
+
 ----
-title_short: Drogheda to Newry
+
+Title-short: Drogheda to Newry
+
 ----
-company: companies/dublin-and-belfast-junction
+
+Company: companies/dublin-and-belfast-junction
+
 ----
-stops:
+
+Stops:
+
 - drogheda
 - dunleer
 - castlebellingham
@@ -17,8 +26,12 @@ stops:
 - [scarva, lawrencetown, banbridge, mullaternaghan, dromore, hillsborough, lisburn]
 - tandragee
 - portadown
+
 ----
-text: [Dunleer](/stations/dunleer): here fairs are held monthly.
+
+Text:
+
+[Dunleer](/stations/dunleer): here fairs are held monthly.
 
 [Castlebellingham](/stations/castlebellingham) has ruins of the old castle of the Bellinghams, destroyed at the battle of the Boyne, and *Castlebellingham* House, Sir A. E. Bellingham, Bart. Fairs, Easter Tuesday, and October 10th.
 
@@ -52,3 +65,7 @@ text: [Dunleer](/stations/dunleer): here fairs are held monthly.
 [Tanderagee](/stations/tandragee), which has *Tonderagee Castle*, built on the site of *O'Hanteris Castle*, the Duke of Manchester. Markets on Wednesday, and Fairs 1st Wednesday in every month, July 5th, and November 5th.
 
 (place: ireland/county-armagh/portadown)
+
+----
+
+Uuid: ZulRP1QzeyJKLbWy

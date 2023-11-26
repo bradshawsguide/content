@@ -1,10 +1,17 @@
-section: 3
+Title: London to Rugby
+
 ----
-title: London to Rugby
+
+Section: 3
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - euston-square
 - camden-town
 - kilburn
@@ -28,8 +35,12 @@ stops:
 - weedon
 - crick
 - rugby
+
 ----
-text: ## London to Cheddington
+
+Text:
+
+## London to Cheddington
 
 (place: england/middlesex/euston-square)
 
@@ -199,3 +210,7 @@ The canal passes through a tunnel here 1,524 yards in length, under the hills wh
 Several villages are spread over the hills on the right, among which is Brownsover, the birth place of Lawrence Sheriff, founder of Rugby School, and shortly after we arrive at
 
 (place: england/warwickshire/rugby)
+
+----
+
+Uuid: DwZZzWFh1T4OMMXR

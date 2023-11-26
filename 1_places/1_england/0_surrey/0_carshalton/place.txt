@@ -1,14 +1,30 @@
-section: 1
+Title: Carshalton
+
 ----
-title: Carshalton
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Greyhound, King's Arms.
-- term: Fairs
+-
+  term: Fairs
   desc: July 1st and 2nd.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Carshalton Church is a venerable structure, of the early English style. Close by is *Carshalton Park*.
+
+Text:
+
+Carshalton Church is a venerable structure, of the early English style. Close by is *Carshalton Park*.
+
+----
+
+Uuid: It4rGVnSODCVWu0g

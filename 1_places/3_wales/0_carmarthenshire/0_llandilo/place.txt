@@ -1,18 +1,34 @@
-section: 2
+Title: Llandilo
+
 ----
-title: Llandilo
+
+Section: 2
+
 ----
-subtitle: Llandeilo
+
+Subtitle: Llandeilo
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 5,440.
-- term: Hotel
+-
+  term: Hotel
   desc: Cawdor Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Feb 20th, May 6th, every Tuesday, from May 14th to June 21st, Monday before Easter, August 23rd, Sept. 28th, Nov. 12th and 22nd, and Monday before Dec. 25th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
+----
+
+Uuid: mMnpjtAKuXJ2lsij

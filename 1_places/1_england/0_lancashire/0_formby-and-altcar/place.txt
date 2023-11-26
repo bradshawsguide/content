@@ -1,8 +1,19 @@
-section: 3
+Title: Formby and Altcar
+
 ----
-title: Formby and Altcar
+
+Section: 3
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This bathing-place was once a market-town. It is situated near Formby Point, in the Irish Sea, and outside the bans there is a floating light. It is much frequented by the Lancastrians. Population, 1,780.
+
+Text:
+
+This bathing-place was once a market-town. It is situated near Formby Point, in the Irish Sea, and outside the bans there is a floating light. It is much frequented by the Lancastrians. Population, 1,780.
+
+----
+
+Uuid: INu0ror6uEekGxRk

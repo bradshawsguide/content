@@ -1,14 +1,31 @@
-section: 3
+Title: Castle Ashby
+
 ----
-title: Castle Ashby
+
+Section: 3
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Wellingbro', 4 miles.
+
 ----
-notes:
-- Telegraph station at Wellingbro', 4 miles.
+
+Notes: Telegraph station at Wellingbro', 4 miles.
+
 ----
-desc: Here is the seat of the Marquis of Northampton, a large quadrangular structure, containing some very rich specimens of oil painting.
+
+Desc: Here is the seat of the Marquis of Northampton, a large quadrangular structure, containing some very rich specimens of oil painting.
+
 ----
-text: Here is the seat of the Marquis of Northampton, a large quadrangular structure, containing some very rich specimens of oil painting. The dates 1625 and 1635 are seen in the balustrades of the turrets. The castle replaces an old one, having been rebuilt in 1607. *Yardley Chase*, belonging to it, is 27 miles round. Take notice of the stone parapet in the court, which is cut so as to make the words, "*Nisi Dominus ædificaverit domum, in vanum laboraverunt qui ædificant eun.*" (Except the Lord build the house, they labour in vain that build it). Many portraits here. In the park is the church, an elegant building, rendered peculiar from its porch and altar tomb. At *Whislon*, a good church. At *Olney* is Cowper's house.
+
+Text:
+
+Here is the seat of the Marquis of Northampton, a large quadrangular structure, containing some very rich specimens of oil painting. The dates 1625 and 1635 are seen in the balustrades of the turrets. The castle replaces an old one, having been rebuilt in 1607. *Yardley Chase*, belonging to it, is 27 miles round. Take notice of the stone parapet in the court, which is cut so as to make the words, "*Nisi Dominus ædificaverit domum, in vanum laboraverunt qui ædificant eun.*" (Except the Lord build the house, they labour in vain that build it). Many portraits here. In the park is the church, an elegant building, rendered peculiar from its porch and altar tomb. At *Whislon*, a good church. At *Olney* is Cowper's house.
+
+----
+
+Uuid: 3ARUdU6UyXxi1D4F

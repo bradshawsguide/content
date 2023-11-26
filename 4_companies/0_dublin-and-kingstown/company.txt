@@ -1,6 +1,13 @@
-section: 2
+Title: Dublin and Kingstown Railway
+
 ----
-title: Dublin and Kingstown Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Dublin_and_Kingstown_Railway)
+
+Links: - (wikipedia: Dublin_and_Kingstown_Railway)
+
+----
+
+Uuid: eHKiS2Os4TtOqWol

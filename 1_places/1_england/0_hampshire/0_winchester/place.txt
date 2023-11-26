@@ -1,25 +1,42 @@
-﻿section: 1
+Title: Winchester
+
 ----
-title: Winchester
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 14,776.
-- term: Hotels
+-
+  term: Hotels
   desc: The. George; Black Swan.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesdays and Saturdays.
-- term: Fairs
+-
+  term: Fairs
   desc: First Monday in Lent, and October 24th.
-- term: Races
+-
+  term: Races
   desc: in June
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Old capital of the British *Belgoe*, county town of *Hampshire*, a bishop's see, and parliamentary borough; stands among round chalk hills, sloping down to the Itchen.
+
+Desc: Old capital of the British *Belgoe*, county town of *Hampshire*, a bishop's see, and parliamentary borough; stands among round chalk hills, sloping down to the Itchen.
+
 ----
-text: This old capital of the British *Belgoe*, county town of *Hampshire*, a bishop's see, and parliamentary borough (two members); stands among round chalk hills, sloping down to the Itchen, on the South Western Railway, 63½ miles from London, and 12¼ from Southampton. The ancient Britons styled it *Gwent*, a white; which the Romans, who made it one of their head quarters, altered to *Venta Belgarium*, and the West Saxons, after them, to *Wintancestre*. Many of the later Saxon kings and their successors down to Henry VIII, occasionally made Winchester a place of residence. The *Winchester* bushel, the standard of dry-measure, and Henry I.'s standard yard, are to be seen at the Town Hall in High-street, a modern building.
+
+Text:
+
+This old capital of the British *Belgoe*, county town of *Hampshire*, a bishop's see, and parliamentary borough (two members); stands among round chalk hills, sloping down to the Itchen, on the South Western Railway, 63½ miles from London, and 12¼ from Southampton. The ancient Britons styled it *Gwent*, a white; which the Romans, who made it one of their head quarters, altered to *Venta Belgarium*, and the West Saxons, after them, to *Wintancestre*. Many of the later Saxon kings and their successors down to Henry VIII, occasionally made Winchester a place of residence. The *Winchester* bushel, the standard of dry-measure, and Henry I.'s standard yard, are to be seen at the Town Hall in High-street, a modern building.
 
 The *County Hall* is close to the gate of a *castle* built by William the Conqueror, and was itself once the castle chapel. The hall is 110 feet long, and contains a curious relic, called Arthur's Round Table, 13 feet in diameter, on which are portraits of this king of romance and his peerless knights. King Arthur, if he ever existed, was a British, and not Saxon sovereign. At *Caer Gwent*, now Caerlea, in Monmouthshire, there is an amphitheatre called after him; but from the likeness of names, his memory has taken root here; so much so that Henry VII.'s eldest son received his name, Arthur, from Winchester being the place of his birth, 1486. The table just mentioned, though restored, is as ancient as the time of King Stephen. Egbert of Wessex was here crowned by the Wittenagemote, Bretwalda, or King of all Angle-land, or England, as it was thenceforth called. Canute made Winchester the capital of England. The body of Rufus was brought hither by a charcoal-burner, after his death from Tyrrel's arrow in the New Forest. Richard I. was crowned here on his return from Austria, Even as late as the 17th century it was a favourite resort of Charles II., who began a palace of red brick, now used as a barracks, on the Castle Hill, near the County Hall.
 
@@ -34,3 +51,7 @@ There is a model prison near the Cemetery. St. John the Baptist's Hospital is a 
 On the road to this town, about three quarters of a mile from Winchester, is the ancient church of *St. Cross* begun by Bishop Blois in the Norman style, and finished by Wykeham and Cardinal Beaufort, the latter especially, who rebuilt most part of the hospital which is attached. The mastership held by Lord North has gradually dropped into a lucrative sinecure, to the injury of the foundation, but this abuse is now under inquiry. A piece of dry bread and a (dirty) cup of (thin) beer are still given to any wayfarer who asks for refreshments in terms of the founder's desire. It is a striking instance of the tenacity with which the form of old customs is kept up in England, though the spirit of simple hospitality which the founder inculcated has entirely disappeared.
 
 On St. Catherine's Hill are traces of a camp; most of the highways from the city are in the direction of the old Roman roads. Among the seats around are the following:-- *Twyford*, down the Itchen, belongs to J. Dampier, Esq. Here was a Roman Catholic School, in which Pope was educated. At *Compton* is an old church. *Hursley*, the seat of Sir W. Heathcote, Bart., belonged to Richard Cromwell, who succeeded his father as Protector. When the old house was pulled down in 1746, the great seal of the Commonwealth was found. *Worthy Park*, up the Itchen, the seat of Mr. Turner, near Headbourne Worthy. The learned Bingham was rector here. *Avington* was a seat of the Duke of Buckingham. *Old Alresford Home*, Lord Rodney. The late primate Howley was born at Alresford. *Swarraton Grange*, Lord Ashburton. *Tichboume*, Sir E. Doughty, Bart, descended from the Titchbournes who were seated here from the time of Henry II.
+
+----
+
+Uuid: hBqGpAwb6Rs4E4EJ

@@ -1,6 +1,13 @@
-section: 2
+Title: South Devon Railway Company
+
 ----
-title: South Devon Railway Company
+
+Section: 2
+
 ----
-links:
-- (wikipedia: South_Devon_Railway_Company)
+
+Links: - (wikipedia: South_Devon_Railway_Company)
+
+----
+
+Uuid: BP6rHz20aP41eQmA

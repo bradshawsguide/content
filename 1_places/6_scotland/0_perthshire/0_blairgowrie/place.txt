@@ -1,18 +1,36 @@
-section: 3
+Title: Blairgowrie
+
 ----
-title: Blairgowrie
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,344.
-- term: Hotel
+-
+  term: Hotel
   desc: Robertson's
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: 3rd Wednesday in March; July 23rd.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This place is situated on the river Ericht, which abounds with fish. It is celebrated for its pure white marble, highly esteemed by sculptors and architects. In the vicinity are Graighall Ratray, from which some fine views may be obtained, *Loch of Clunie*, with its ancient Castle, *Ardblair*, and *Newton House*, the seat of the M'Phersons.
+
+Text:
+
+This place is situated on the river Ericht, which abounds with fish. It is celebrated for its pure white marble, highly esteemed by sculptors and architects. In the vicinity are Graighall Ratray, from which some fine views may be obtained, *Loch of Clunie*, with its ancient Castle, *Ardblair*, and *Newton House*, the seat of the M'Phersons.
+
+----
+
+Uuid: sLApfqsQ2gIHKNDr

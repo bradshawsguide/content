@@ -1,6 +1,13 @@
-section: 1
+Title: London, Chatham and Dover Railway
+
 ----
-title: London, Chatham and Dover Railway
+
+Section: 1
+
 ----
-links:
-- (wikipedia: London,_Chatham_and_Dover_Railway)
+
+Links: - (wikipedia: London,_Chatham_and_Dover_Railway)
+
+----
+
+Uuid: srrH4OUC4PWuWc9o

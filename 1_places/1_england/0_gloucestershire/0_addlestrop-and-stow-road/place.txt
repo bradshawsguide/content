@@ -1,11 +1,27 @@
-section: 2
+Title: Addlestrop and Stow Road
+
 ----
-title: Addlestrop and Stow Road
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Unicorn.
+
 ----
-desc: *Daylesford House*, the seat of the celebrated Warren Hastings, and *Addlestrop House*, of the Leigh family, are close by.
+
+Desc: *Daylesford House*, the seat of the celebrated Warren Hastings, and *Addlestrop House*, of the Leigh family, are close by.
+
 ----
-text: *Daylesford House*, the seat of the celebrated Warren Hastings, and *Addlestrop House*, of the Leigh family, are close by. Stow-on-the-Wold, is a small market town on the summit of a hill, 883 feet high. The church, with its embattled tower 81 feet high, is consequently a prominent object through a circumference of many miles. It has many points and some curious monuments deserving attention.
+
+Text:
+
+*Daylesford House*, the seat of the celebrated Warren Hastings, and *Addlestrop House*, of the Leigh family, are close by. Stow-on-the-Wold, is a small market town on the summit of a hill, 883 feet high. The church, with its embattled tower 81 feet high, is consequently a prominent object through a circumference of many miles. It has many points and some curious monuments deserving attention.
+
+----
+
+Uuid: UsCyANNZuMj0PpwJ

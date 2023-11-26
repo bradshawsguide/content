@@ -1,16 +1,30 @@
-section: 3
+Title: Kirriemuir
+
 ----
-title: Kirriemuir
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,275.
-- term: Hotel
+-
+  term: Hotel
   desc: Commercial; Airlie Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: Friday after May 26th; 1st Wednesday in June; July 24th, or first Wednesday after; and Wednesday after October 18th; Wednesday after Glammis November fair.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
+----
+
+Uuid: DUBJq4PzttywR9xg

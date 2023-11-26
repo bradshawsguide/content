@@ -1,14 +1,25 @@
-section: 2
+Title: Newport to Abergavenny and Hereford
+
 ----
-title: Newport to Abergavenny and Hereford
+
+Section: 2
+
 ----
-title_short: Newport to Hereford
+
+Title-short: Newport to Hereford
+
 ----
-subtitle: Newport, Abergavenny and Hereford Railway
+
+Subtitle: Newport, Abergavenny and Hereford Railway
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - newport-mill-street
 - upper-pontnewydd
 - pontypool-road
@@ -21,11 +32,16 @@ stops:
 - st-devereux
 - tram-inn
 - hereford
+
 ----
-links:
-- (wikipedia: Newport,_Abergavenny_and_Hereford_Railway)
+
+Links: - (wikipedia: Newport,_Abergavenny_and_Hereford_Railway)
+
 ----
-text: In ten minutes after leaving Newport we reach [Pontnewydd](/stations/upper-pontnewydd), and in ten minutes more, the station of
+
+Text:
+
+In ten minutes after leaving Newport we reach [Pontnewydd](/stations/upper-pontnewydd), and in ten minutes more, the station of
 
 (place: england/monmouthshire/pontypool-road)
 
@@ -49,3 +65,7 @@ Passing the station of [Nantyderry](/stations/nantyderry), or Goitre, we arrive 
 [St. Devereux](/stations/st-devereux) and [Tram Inn](/stations/tram-inn) stations being passed, we shortly arrive at
 
 (place: england/herefordshire/hereford)
+
+----
+
+Uuid: AljkoF5mw6LfeNiV

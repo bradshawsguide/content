@@ -1,8 +1,19 @@
-section: 3
+Title: Peterhead
+
 ----
-title: Peterhead
+
+Section: 3
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A town of some importance, with a population of 7,541, and situated on a rich and fertile plain, 44½ miles from Aberdeen. It is a burg or barony, and the maritime capital of Buchan. Here are whale, seal, and herring fisheries on an extensive scale; ship building and rope making; two reform monuments, one built by the whigs, and the other by the tones. The Whig Monument stands on the Meet Hill, about a mile to the south of the town, and is a square tower. The Tory Pillar is of polished granite, and surmounted with the armorial bearings of the Marischal family, and is a very neat and tasteful affair. It stands in the centre ot Broad Street, and is used as the Market Cross. There are fine banking offices, good shops, &c. The Arbuthob Museum is well worth a visit: it contains the principal of the Druidical and Roman antiquities found in the Buchan district.
+
+Text:
+
+A town of some importance, with a population of 7,541, and situated on a rich and fertile plain, 44½ miles from Aberdeen. It is a burg or barony, and the maritime capital of Buchan. Here are whale, seal, and herring fisheries on an extensive scale; ship building and rope making; two reform monuments, one built by the whigs, and the other by the tones. The Whig Monument stands on the Meet Hill, about a mile to the south of the town, and is a square tower. The Tory Pillar is of polished granite, and surmounted with the armorial bearings of the Marischal family, and is a very neat and tasteful affair. It stands in the centre ot Broad Street, and is used as the Market Cross. There are fine banking offices, good shops, &c. The Arbuthob Museum is well worth a visit: it contains the principal of the Druidical and Roman antiquities found in the Buchan district.
+
+----
+
+Uuid: 1CdnYimiAU6vevXo

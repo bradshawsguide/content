@@ -1,10 +1,23 @@
-section: 1
+Title: Chiswick
+
 ----
-title: Chiswick
+
+Section: 1
+
 ----
-notes:
-- Telegraph station at Kew, 1 mile.
+
+Notes: Telegraph station at Kew, 1 mile.
+
 ----
-desc: Close by are the Horticultural Society's Gardens, a very favourite resort of England's aristocracy on its fete days.
+
+Desc: Close by are the Horticultural Society's Gardens, a very favourite resort of England's aristocracy on its fete days.
+
 ----
-text: The church should be visited, for here lies, surmounted by a handsome tomb, "Hogarth's honoured dust," and close by are the Horticultural Society's Gardens, a very favourite resort of England's aristocracy on its fete days.
+
+Text:
+
+The church should be visited, for here lies, surmounted by a handsome tomb, "Hogarth's honoured dust," and close by are the Horticultural Society's Gardens, a very favourite resort of England's aristocracy on its fete days.
+
+----
+
+Uuid: Jl2ZmODJCUxq5eyO

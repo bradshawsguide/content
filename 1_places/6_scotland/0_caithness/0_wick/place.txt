@@ -1,8 +1,14 @@
-section: 3
+Title: Wick
+
 ----
-title: Wick
+
+Section: 3
+
 ----
-text: The returning burgh of the northern six, is a stirring town, with a splendid new harbour in course of erection, at a cost of £120,000. Besides the daily coaches to and from the south, there are several local conveyances, and posting is extensive. Steamers to Kirkwall and Lerwick sail every Saturday, and return on Tuesday.
+
+Text:
+
+The returning burgh of the northern six, is a stirring town, with a splendid new harbour in course of erection, at a cost of £120,000. Besides the daily coaches to and from the south, there are several local conveyances, and posting is extensive. Steamers to Kirkwall and Lerwick sail every Saturday, and return on Tuesday.
 
 The herring fishing is the staple trade, and gives employment to many thousands. Here multitude from distant parts resort during the fishing season when the town presents, especially on the days of success, a most wonderful scene of bustle and excitement. Numerous tourists visit thelocality.
 
@@ -12,3 +18,7 @@ Wick is about 8,000; the number of electors 330, and the population of the paris
 The exports of the district are chiefly herrings (which are caught to the value of £200,000), cod, salmon, cattle, sheep, pork, eggs (of which about 8,000,000 are yearly exported), paving stones (the finest in the kingdom), lobsters, &c. Were the line of railway extended to Wick, it could supply the fish markets of the kingdom with an immense quantity of the finest fish in season within 24 hours after being caught. The population of the county has doubled within the last 40 years, and the rental has risen from £35,000 to £120,000.
 
 The rental of Wick alone is little short of £40,000, and the population of the county is about 42,000. The county abounds in magnificent roads, and fine sea and land scenery.
+
+----
+
+Uuid: vtHPyxOUPVz6hxKR

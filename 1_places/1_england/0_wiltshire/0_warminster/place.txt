@@ -1,16 +1,34 @@
-section: 2
+Title: Warminster
+
 ----
-title: Warminster
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 3,675.
-- term: Hotels
+-
+  term: Hotels
   desc: Bath Arms; Lamb.
+
 ----
-notes:
-- Telegraph station at Westbury, 4½ miles.
+
+Notes: Telegraph station at Westbury, 4½ miles.
+
 ----
-desc: This is a neat and respectable town, close to the western border of Salisbury Plain, on which, in the neighbourhood, are many remains of the old Britons.
+
+Desc: This is a neat and respectable town, close to the western border of Salisbury Plain, on which, in the neighbourhood, are many remains of the old Britons.
+
 ----
-text: This is a neat and respectable town, close to the western border of Salisbury Plain, on which, in the neighbourhood, are many remains of the old Britons. There is likewise a huge rampart and ditch called "Old Ditch" which may be attributed to the Saxons. The church is spacious and handsome. The tower is of the reign of Edward III.
+
+Text:
+
+This is a neat and respectable town, close to the western border of Salisbury Plain, on which, in the neighbourhood, are many remains of the old Britons. There is likewise a huge rampart and ditch called "Old Ditch" which may be attributed to the Saxons. The church is spacious and handsome. The tower is of the reign of Edward III.
+
+----
+
+Uuid: hm2HozovcIWnH6S4

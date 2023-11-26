@@ -1,14 +1,25 @@
-section: 2
+Title: Gloucester to Newport, Swansea, Carmarthen, and Milford Haven
+
 ----
-title: Gloucester to Newport, Swansea, Carmarthen, and Milford Haven
+
+Section: 2
+
 ----
-title_short: Gloucester to Milford Haven
+
+Title-short: Gloucester to Milford Haven
+
 ----
-subtitle: South Wales Railway
+
+Subtitle: South Wales Railway
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - gloucester
 - oakle-street
 - grange-court-junction
@@ -50,11 +61,16 @@ stops:
 - haverfordwest
 - [johnston-pembs, milford]
 - new-milford
+
 ----
-links:
-- (wikipedia: South_Wales_Railway)
+
+Links: - (wikipedia: South_Wales_Railway)
+
 ----
-text: ## Gloucester to Newport
+
+Text:
+
+## Gloucester to Newport
 
 This line of railway affords great facilities to tourists and lovers of the picturesque for visiting the beautiful scenery of Wales.
 
@@ -176,3 +192,7 @@ Those who wish to shorten their journey to Tenby may do so by taking a coach at 
 (place: wales/pembrokeshire/new-milford)
 
 (route: new-milford-to-tenby)
+
+----
+
+Uuid: 62t421aMFWVmSnPy

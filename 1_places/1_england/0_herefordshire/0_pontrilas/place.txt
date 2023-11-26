@@ -1,7 +1,16 @@
-section: 2
+Title: Pontrilas
+
 ----
-title: Pontrilas
+
+Section: 2
+
 ----
-notes:
+
+Notes:
+
 - Telegraph station at Hereford, 1O¾ miles.
 - Money Order Office at Hereford.
+
+----
+
+Uuid: e0kPEjLizHlPRdvq

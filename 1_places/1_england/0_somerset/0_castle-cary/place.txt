@@ -1,12 +1,27 @@
-section: 2
+Title: Castle Cary
+
 ----
-title: Castle Cary
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,060.
+
 ----
-notes:
-- Telegraph station at Westbury, 9 miles.
+
+Notes: Telegraph station at Westbury, 9 miles.
+
 ----
-text: It has the remains of a castle founded by William de Percheval, in the reign of Stephen.
+
+Text:
+
+It has the remains of a castle founded by William de Percheval, in the reign of Stephen.
+
+----
+
+Uuid: PK98IDL8P8BtWa40

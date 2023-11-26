@@ -1,6 +1,13 @@
-section: 3
+Title: North British
+
 ----
-title: North British
+
+Section: 3
+
 ----
-links:
-- (wikipedia: North_British_Railway)
+
+Links: - (wikipedia: North_British_Railway)
+
+----
+
+Uuid: z9yZXwNoATxFSms4

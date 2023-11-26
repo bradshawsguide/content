@@ -1,16 +1,34 @@
-section: 2
+Title: Warrenpoint
+
 ----
-title: Warrenpoint
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: "Royal: new, clean, and comfortable; conducted on English principles."
-- term: Fairs
+-
+  term: Fairs
   desc: Last Friday in every month.
+
 ----
-notes:
-- Telegraph station at Newry, 6 miles.
+
+Notes: Telegraph station at Newry, 6 miles.
+
 ----
-desc: This is one of the most picturesque and romantically situated watering places in Ireland, and consequently much frequented.
+
+Desc: This is one of the most picturesque and romantically situated watering places in Ireland, and consequently much frequented.
+
 ----
-text: This is one of the most picturesque and romantically situated watering places in Ireland, and consequently much frequented. It occupies a very pretty site on Narrow Water, at the head of Carlingford Bay, and on the line of the Newry Navigation. It contains a church, built by R. Hall, Esq., of Narrow Water Castle, in 1825; a Roman Catholic Chapel, Presbyterian and Wesleyan Chapels, &c. &c.
+
+Text:
+
+This is one of the most picturesque and romantically situated watering places in Ireland, and consequently much frequented. It occupies a very pretty site on Narrow Water, at the head of Carlingford Bay, and on the line of the Newry Navigation. It contains a church, built by R. Hall, Esq., of Narrow Water Castle, in 1825; a Roman Catholic Chapel, Presbyterian and Wesleyan Chapels, &c. &c.
+
+----
+
+Uuid: H1EP7W8K2DmXBs4z

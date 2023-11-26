@@ -1,14 +1,25 @@
-section: 1
+Title: Charing Cross and London Bridge to Woolwich, Gravesend, Strood and Rochester
+
 ----
-title: Charing Cross and London Bridge to Woolwich, Gravesend, Strood and Rochester
+
+Section: 1
+
 ----
-title_short: London to Rochester
+
+Title-short: London to Rochester
+
 ----
-subtitle: North Kent Line
+
+Subtitle: North Kent Line
+
 ----
-company: companies/south-eastern
+
+Company: companies/south-eastern
+
 ----
-stops:
+
+Stops:
+
 - [new-cross, chislehurst]
 - lewisham
 - blackheath
@@ -27,12 +38,19 @@ stops:
 - [strood, cuxton, snodland, aylesford, maidstone]
 - rochester
 - chatham
+
 ----
-links:
+
+Links:
+
 - (wikipedia: North_Kent_Line)
 - (wikipedia: Medway_Valley_line)
+
 ----
-text: The North Kent line commences at [New Cross](/stations/new-cross), from which also a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).
+
+Text:
+
+The North Kent line commences at [New Cross](/stations/new-cross), from which also a short line of about six miles runs down by *Birkley Park* to [Chislehurst](/stations/chislehurst).
 
 (place: england/kent/lewisham suffix: Junction)
 
@@ -101,3 +119,7 @@ A bridge over the Medway, replacing the old bridge built in the reign of Rufus, 
 (place: england/kent/rochester)
 
 (place: england/kent/chatham)
+
+----
+
+Uuid: l7FB0stpZXIRiFj6

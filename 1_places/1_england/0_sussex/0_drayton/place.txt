@@ -1,11 +1,24 @@
-section: 1
+Title: Drayton
+
 ----
-title: Drayton
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Chichester.
+
 ----
-notes:
+
+Notes:
+
 - Telegraph station at Chichester, 2 miles.
 - Distance from station, ½ mile.
+
+----
+
+Uuid: FH72eyJJJyEZNS9S

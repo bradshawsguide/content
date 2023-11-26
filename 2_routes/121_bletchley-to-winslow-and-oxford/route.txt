@@ -1,10 +1,17 @@
-section: 3
+Title: Bletchley to Wislow and Oxford
+
 ----
-title: Bletchley to Wislow and Oxford
+
+Section: 3
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - bletchley
 - swanbourne
 - [winslow, buckingham, brackley, farthinghoe, banbury]
@@ -12,8 +19,12 @@ stops:
 - bicester
 - islip
 - oxford-road-halt
+
 ----
-text: (place: england/buckinghamshire/swanbourne)
+
+Text:
+
+(place: england/buckinghamshire/swanbourne)
 
 (place: england/buckinghamshire/winslow)
 
@@ -44,3 +55,7 @@ text: (place: england/buckinghamshire/swanbourne)
 (place: england/oxfordshire/islip)
 
 (place: england/oxfordshire/oxford)
+
+----
+
+Uuid: wCnMB7NIBh5rpg7n

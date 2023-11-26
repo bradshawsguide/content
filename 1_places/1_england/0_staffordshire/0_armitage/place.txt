@@ -1,17 +1,37 @@
-section: 3
+Title: Armitage
+
 ----
-title: Armitage
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 937.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Rugeley, 3 miles.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - Telegraph station at Rugeley, 3 miles.
+
 ----
-desc: Two miles distant is the Marquis of Anglesea's seat, *Beaudesert Park*, an old house, in Cannock Chase, the best view of which is from the camp on Castle Hill, where the early kings had a hunting seat.
+
+Desc: Two miles distant is the Marquis of Anglesea's seat, *Beaudesert Park*, an old house, in Cannock Chase, the best view of which is from the camp on Castle Hill, where the early kings had a hunting seat.
+
 ----
-text: Two miles distant is the Marquis of Anglesea's seat, *Beaudesert Park*, an old house, in Cannock Chase, the best view of which is from the camp on Castle Hill, where the early kings had a hunting seat. At present it is a tract of bare hills, more valuable for the coal andiron below its surface than for what is above. There are several works about *Rugeley* which belong to the Pagets (the Anglesea family).
+
+Text:
+
+Two miles distant is the Marquis of Anglesea's seat, *Beaudesert Park*, an old house, in Cannock Chase, the best view of which is from the camp on Castle Hill, where the early kings had a hunting seat. At present it is a tract of bare hills, more valuable for the coal andiron below its surface than for what is above. There are several works about *Rugeley* which belong to the Pagets (the Anglesea family).
+
+----
+
+Uuid: r9m8QY1VeStsi06P

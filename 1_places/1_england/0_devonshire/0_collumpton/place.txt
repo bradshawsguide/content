@@ -1,21 +1,43 @@
-section: 2
+Title: Collumpton
+
 ----
-title: Collumpton
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: White Hart.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 12th and October 28th.
-- term: Bankers
+-
+  term: Bankers
   desc: Branch of Devon Banking Co.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
 ----
-desc: This little town, though containing a population of only 2,205, is one of great antiquity, having been in the possession of Alfred the Great, and afterwards belonging to Buckland Abbey.
+
+Desc: This little town, though containing a population of only 2,205, is one of great antiquity, having been in the possession of Alfred the Great, and afterwards belonging to Buckland Abbey.
+
 ----
-text: This little town, though containing a population of only 2,205, is one of great antiquity, having been in the possession of Alfred the Great, and afterwards belonging to Buckland Abbey. It has some manufactories for woollen and paper.
+
+Text:
+
+This little town, though containing a population of only 2,205, is one of great antiquity, having been in the possession of Alfred the Great, and afterwards belonging to Buckland Abbey. It has some manufactories for woollen and paper.
+
+----
+
+Uuid: JoSogwi4yw2CTmbb

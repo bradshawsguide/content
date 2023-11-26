@@ -1,19 +1,41 @@
-section: 3
+Title: Hampton
+
 ----
-title: Hampton
+
+Section: 3
+
 ----
-title-short: (Junction)
+
+Title-short: (Junction)
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 690.
-- term: Hotel
+-
+  term: Hotel
   desc: Railway.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¾ mile.
 - Telegraph station at Whitacre, 7¼ miles.
+
 ----
-desc: The village of Hampton lies on the left of the line, and consists of little to interest the traveller. Two miles beyond is *Elmdon Hall*.
+
+Desc: The village of Hampton lies on the left of the line, and consists of little to interest the traveller. Two miles beyond is *Elmdon Hall*.
+
 ----
-text: The village of Hampton lies on the left of the line, and consists of little to interest the traveller. Two miles beyond is *Elmdon Hall*.
+
+Text:
+
+The village of Hampton lies on the left of the line, and consists of little to interest the traveller. Two miles beyond is *Elmdon Hall*.
+
+----
+
+Uuid: Pvi8MvWNzjOrJr2i

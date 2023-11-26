@@ -1,12 +1,21 @@
-section: 2
+Title: Hereford to Hay and Brecon
+
 ----
-title: Hereford to Hay and Brecon
+
+Section: 2
+
 ----
-title_short: Hereford to Brecon
+
+Title-short: Hereford to Brecon
+
 ----
-company: companies/hereford-hay-and-brecon
+
+Company: companies/hereford-hay-and-brecon
+
 ----
-stops:
+
+Stops:
+
 - hereford
 - credenhill
 - moorhampton
@@ -21,11 +30,16 @@ stops:
 - talybont
 - dolygaer
 - dowlais
+
 ----
-links:
-- (wikipedia: Hereford,_Hay_and_Brecon_Railway)
+
+Links: - (wikipedia: Hereford,_Hay_and_Brecon_Railway)
+
 ----
-text: From Hereford we pass the stations of [Credenhill](/stations/credenhill), [Moorhampton](/stations/moorhampton), and [Kinnersley](/stations/kinnersley), to [Eardisley](/stations/eardisley), a place situated on the tramway from Brecon to Kington, and at which arc remains of a very old castle. The line now begins to take a south-westerly direction to the station at [Whitney](/stations/whitney), then crosses the tortuous and beautiful Wye, and, sweeping along the base of a ridge of hills to the left, enters the town of
+
+Text:
+
+From Hereford we pass the stations of [Credenhill](/stations/credenhill), [Moorhampton](/stations/moorhampton), and [Kinnersley](/stations/kinnersley), to [Eardisley](/stations/eardisley), a place situated on the tramway from Brecon to Kington, and at which arc remains of a very old castle. The line now begins to take a south-westerly direction to the station at [Whitney](/stations/whitney), then crosses the tortuous and beautiful Wye, and, sweeping along the base of a ridge of hills to the left, enters the town of
 
 (place: wales/brecknockshire/hay)
 
@@ -46,3 +60,7 @@ From Brecon we again return to the junction, at Tallyllyn, 4¼ miles; we then pa
 (place: wales/glamorganshire/merthyr)
 
 in about ¾ of an hour.
+
+----
+
+Uuid: TU5rLokY3vHWwwpa

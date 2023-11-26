@@ -1,8 +1,19 @@
-section: 2
+Title: Codford
+
 ----
-title: Codford
+
+Section: 2
+
 ----
-notes:
-- Telegraph station at Westbury, 11 miles.
+
+Notes: Telegraph station at Westbury, 11 miles.
+
 ----
-text: In the vicinity are a Druidical circle on Codford Hill, *Bayton Hall*, A B. Lambert, Esq.; *Bayton Church*, built in 1301, with an ancient font, and *Stockton House*. *Codford St. Mary's* Norman church is deserving a visit.
+
+Text:
+
+In the vicinity are a Druidical circle on Codford Hill, *Bayton Hall*, A B. Lambert, Esq.; *Bayton Church*, built in 1301, with an ancient font, and *Stockton House*. *Codford St. Mary's* Norman church is deserving a visit.
+
+----
+
+Uuid: mkVDOAHUZa0H1Nn8

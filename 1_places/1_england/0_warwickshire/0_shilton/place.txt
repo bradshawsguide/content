@@ -1,14 +1,31 @@
-section: 3
+Title: Shilton
+
 ----
-title: Shilton
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 487.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Close at hand is *Anstey Hall*, H. Adams, Esq.
+
+Desc: Close at hand is *Anstey Hall*, H. Adams, Esq.
+
 ----
-text: Close at hand is *Anstey Hall*, H. Adams, Esq.
+
+Text:
+
+Close at hand is *Anstey Hall*, H. Adams, Esq.
+
+----
+
+Uuid: OYFXdSkHFmiALOBR

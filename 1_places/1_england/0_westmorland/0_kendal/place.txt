@@ -1,16 +1,33 @@
-section: 3
+Title: Kendal
+
 ----
-title: Kendal
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: King's Arms, Commercial.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: March 22nd, April 29th, Whit Saturday, November 8th and 9th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a market town, on the bank of the river Kent, with a population of 12,029, who return one member, and are principally engaged in the carpet, woollen, linsey, worsted, clog, comfy bobbin, fishhook, leather, rope, woollen cord, fruit trades, and marble works. The houses are of stone. It contains House of Correction, Gaol; the Town Hall, built in 1825,' by Webster, a noble edifice, 148 feet by 37, which includes Assembly, Lecture, News, and Library Rooms; Mechanics' Institute, Museum, Paper Mills, Market, and Pennington's Grammar School. Shaw, the traveller, was a native, and Dr. Fothergill, and Bishop Law were scholars. A Saxon earthwork obelisk, in commemoration of the Revolution, erected on Castlehowhill; twelve chapels and three churches. That of Holy Trinity had four chantries, and contains tombs and brasses of Bishop Dawson, the Parrs, Stricklands, and Bellinghams. Here are the ruins of three towers of the old castle in which Queen Catherine Parr, who survived Henry VIII., was born, also of old chapels, on Chapel Hill and Stranmongate, at which place there, is an old house with the motto. "Pâx hac domo" inscribed on it. The Dockwras; family formerly occupied Dockwray Hall, and Judge Chanibré died at Abbot Hall. In 1598.the plague carried, off 3,000 of the inhabitants. James I. visited, here; in 1617, and the rebels halted at this place in 1715 and 1745. Richard of Kendal,. Bishop Potter, Dean Potter, Sir G. Wharton, W. Walker, Hudson and Wilson, the botanists (the latter of whom was a stockinger), were natives. The painter Romney died here.
+
+Text:
+
+This is a market town, on the bank of the river Kent, with a population of 12,029, who return one member, and are principally engaged in the carpet, woollen, linsey, worsted, clog, comfy bobbin, fishhook, leather, rope, woollen cord, fruit trades, and marble works. The houses are of stone. It contains House of Correction, Gaol; the Town Hall, built in 1825,' by Webster, a noble edifice, 148 feet by 37, which includes Assembly, Lecture, News, and Library Rooms; Mechanics' Institute, Museum, Paper Mills, Market, and Pennington's Grammar School. Shaw, the traveller, was a native, and Dr. Fothergill, and Bishop Law were scholars. A Saxon earthwork obelisk, in commemoration of the Revolution, erected on Castlehowhill; twelve chapels and three churches. That of Holy Trinity had four chantries, and contains tombs and brasses of Bishop Dawson, the Parrs, Stricklands, and Bellinghams. Here are the ruins of three towers of the old castle in which Queen Catherine Parr, who survived Henry VIII., was born, also of old chapels, on Chapel Hill and Stranmongate, at which place there, is an old house with the motto. "Pâx hac domo" inscribed on it. The Dockwras; family formerly occupied Dockwray Hall, and Judge Chanibré died at Abbot Hall. In 1598.the plague carried, off 3,000 of the inhabitants. James I. visited, here; in 1617, and the rebels halted at this place in 1715 and 1745. Richard of Kendal,. Bishop Potter, Dean Potter, Sir G. Wharton, W. Walker, Hudson and Wilson, the botanists (the latter of whom was a stockinger), were natives. The painter Romney died here.
+
+----
+
+Uuid: fv1RAqWbVeCNYYNT

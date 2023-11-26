@@ -1,15 +1,31 @@
-section: 3
+Title: Cheddington
+
 ----
-title: Cheddington
+
+Section: 3
+
 ----
-subtitle: Junction
+
+Subtitle: Junction
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 628.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Tring, 4¼ miles.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - Telegraph station at Tring, 4¼ miles.
+
+----
+
+Uuid: u4BzAFLmstldpzCE

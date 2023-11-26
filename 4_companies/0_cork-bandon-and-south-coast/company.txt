@@ -1,6 +1,13 @@
-section: 2
+Title: Cork, Bandon and South Coast Railway
+
 ----
-title: Cork, Bandon and South Coast Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Cork,_Bandon_and_South_Coast_Railway)
+
+Links: - (wikipedia: Cork,_Bandon_and_South_Coast_Railway)
+
+----
+
+Uuid: LruIoleGxTEpHvzo

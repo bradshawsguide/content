@@ -1,10 +1,18 @@
-title: Places of Amusement
+Title: Places of Amusement
+
 ----
-station: charing-cross
+
+Station: charing-cross
+
 ----
-desc: Terms and times of admission to buildings, institutions, &c., in London and its suburbs.
+
+Desc: Terms and times of admission to buildings, institutions, &c., in London and its suburbs.
+
 ----
-text: (navigation: siblings)
+
+Text:
+
+(navigation: siblings)
 
 ## Terms and Times of Admission to the following Buildings, Institutions, &c., in London and its suburbs
 
@@ -78,3 +86,7 @@ text: (navigation: siblings)
 * (smcp: Woolwich Arsenal,) 9 to 11, and 1¼ to 3, free; and from 9 to 11 and 1½ to 5 in summer. All foreigners must apply through then ambassador to the Ordnance Office for an order.
 * (smcp: Windsor Castle,) by command of Her Majesty the Queen, the State Apartments at Windsor Castle, will in future be open for inspection of visitors without any fee. Tickets of admission to be obtained gratis from the Lord Chamberlain's office at the Castle, after 1 p.m. The days of admission are Mondays, Tuesdays, Thursdays, and Fridays, April to October, 1 to 3; November to March, 12 to 2.
 * (smcp: Zoological Gardens,) Regent's Park, 1s.; Mondays 6d, 10 to dusk.
+
+----
+
+Uuid: 1lKFeXUaAMbBZ82l

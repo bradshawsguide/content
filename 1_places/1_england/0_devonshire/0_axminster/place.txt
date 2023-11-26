@@ -1,12 +1,27 @@
-﻿section: 1
+Title: Axminster
+
 ----
-title: Axminster
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,896.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Situated on the river Axe. Some of the best and finest description of carpets are made here.
+
+Text:
+
+Situated on the river Axe. Some of the best and finest description of carpets are made here.
+
+----
+
+Uuid: VoqMpYbshkHjk2dW

@@ -1,10 +1,21 @@
-section: 2
+Title: Moreton-on-Lugg
+
 ----
-title: Moreton-on-Lugg
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: White Hart; Railway.
+
 ----
-notes:
-- Telegraph station at Hereford, 3½ miles.
+
+Notes: Telegraph station at Hereford, 3½ miles.
+
+----
+
+Uuid: VcSDiJGENoBPt0PR

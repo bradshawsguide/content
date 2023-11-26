@@ -1,14 +1,31 @@
-section: 2
+Title: Malahide
+
 ----
-title: Malahide
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Royal, Railway.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This place is celebrated for its oyster fisheries, and has an old church, with ancient tombs of the Talbots, and in the churchyard some beautiful old chesnut trees.
+
+Desc: This place is celebrated for its oyster fisheries, and has an old church, with ancient tombs of the Talbots, and in the churchyard some beautiful old chesnut trees.
+
 ----
-text: This place is celebrated for its oyster fisheries, and has an old church, with ancient tombs of the Talbots, and in the churchyard some beautiful old chesnut trees. Close at hand is *Malahide Castle*, the seat of Lord Talbot de Malahide, which is well worth a visit. The oak room and the paintings by Sir Peter Lely, Vandyke, and other artists will repay the visitor. In the grounds is an old chapel, in ruins, with an ancient tomb of the Talbot family. Orders for admission to the castle may be obtained by any respectable person from the agent at Malahide, or from the secretary of the railway at Dublin.
+
+Text:
+
+This place is celebrated for its oyster fisheries, and has an old church, with ancient tombs of the Talbots, and in the churchyard some beautiful old chesnut trees. Close at hand is *Malahide Castle*, the seat of Lord Talbot de Malahide, which is well worth a visit. The oak room and the paintings by Sir Peter Lely, Vandyke, and other artists will repay the visitor. In the grounds is an old chapel, in ruins, with an ancient tomb of the Talbot family. Orders for admission to the castle may be obtained by any respectable person from the agent at Malahide, or from the secretary of the railway at Dublin.
+
+----
+
+Uuid: x2cNVVKYdaProYgS

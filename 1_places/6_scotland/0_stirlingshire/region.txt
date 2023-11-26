@@ -1,5 +1,13 @@
-title: Stirlingshire
+Title: Stirlingshire
+
 ----
-text: Which returns one member, and occupies the centre of the country between the Firths of Forth and Clyde, and, therefore, descends towards each of these streams, being highest in proportion to its distance from each. The principal mountain in this county is Benlomond, the view from which is grand and interesting beyond conception, and must be seen to be appreciated. At the bottom is seen the beautiful Loch Lomond, stretched out like a mirror; its islands having lost their ragged forms, and appearing as level surfaces, amid the bright expanse. The banks of the lake are seen ornamented with villas and cultivated grounds. Towards the east, the rich plains of Lothian and Stirlingshire are distinctly spread out to the sight.
+
+Text:
+
+Which returns one member, and occupies the centre of the country between the Firths of Forth and Clyde, and, therefore, descends towards each of these streams, being highest in proportion to its distance from each. The principal mountain in this county is Benlomond, the view from which is grand and interesting beyond conception, and must be seen to be appreciated. At the bottom is seen the beautiful Loch Lomond, stretched out like a mirror; its islands having lost their ragged forms, and appearing as level surfaces, amid the bright expanse. The banks of the lake are seen ornamented with villas and cultivated grounds. Towards the east, the rich plains of Lothian and Stirlingshire are distinctly spread out to the sight.
 
 From thence to the south, and pursuing the view towards the west, the high grounds of Lanarkshire, the vales of Renfrewshire, with the Firth of Clyde, with its islands, and the wide Atlantic, are clearly discerned; while the Isle of Man, and the coast of Ireland, blended as it were with the sky, are scarcely discernible. But to one unaccustomed to Highland scenery, the most striking view is undoubtedly on the north side, which may in truth be termed fearfully sublime. The eye, from where it first discovers the Ochil hills, near the east, ranging along the north till it comes near the western ocean, beholds nothing but mountains, elevating their summits in almost every variety and form, and which are covered with snow for a considerable portion of the year.
+
+----
+
+Uuid: Kzw4EgXv3OYsDgAk

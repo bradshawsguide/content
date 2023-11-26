@@ -1,18 +1,37 @@
-section: 3
+Title: Sudbury
+
 ----
-title: Sudbury
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 587.
-- term: Hotel
+-
+  term: Hotel
   desc: Vernon Anns.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Uttoxeter, 4½ miles.
+
 ----
-notes:
-- Telegraph station at Uttoxeter, 4½ miles.
+
+Notes: Telegraph station at Uttoxeter, 4½ miles.
+
 ----
-desc: Here is an old ivy-covered church, containing tombs of the Venions of Sudbury Hall, whose motto is "Yeimon semper viret."
+
+Desc: Here is an old ivy-covered church, containing tombs of the Venions of Sudbury Hall, whose motto is "Yeimon semper viret."
+
 ----
-text: Here is an old ivy-covered church, containing tombs of the Venions of Sudbury Hall, whose motto is "Yeimon semper viret."
+
+Text:
+
+Here is an old ivy-covered church, containing tombs of the Venions of Sudbury Hall, whose motto is "Yeimon semper viret."
+
+----
+
+Uuid: mwlqrL9B84xrhxoW

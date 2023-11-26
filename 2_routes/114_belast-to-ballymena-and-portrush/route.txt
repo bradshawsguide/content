@@ -1,12 +1,21 @@
-section: 2
+Title: Belfast to Ballymena and Portrush
+
 ----
-title: Belfast to Ballymena and Portrush
+
+Section: 2
+
 ----
-title_short: Belfast to Portrush
+
+Title-short: Belfast to Portrush
+
 ----
-company: companies/belfast-and-northern-counties
+
+Company: companies/belfast-and-northern-counties
+
 ----
-stops:
+
+Stops:
+
 - york-road
 - greencastle
 - whitehouse
@@ -23,8 +32,12 @@ stops:
 - coleraine
 - portstewart
 - portrush
+
 ----
-text: From Belfast we pass the stations of [Greencastle](/stations/greencastle), [Whitehouse](/stations/whitehouse), [Whiteabbey](/stations/whiteabbey), and [Jordanstown](/stations/jordanstown), and arrive at the Junction of the
+
+Text:
+
+From Belfast we pass the stations of [Greencastle](/stations/greencastle), [Whitehouse](/stations/whitehouse), [Whiteabbey](/stations/whiteabbey), and [Jordanstown](/stations/jordanstown), and arrive at the Junction of the
 
 (branch: start title: Carrickfergus Branch)
   In the course, of five or six minutes after passing the station at [Trooper's Lane](/stations/troopers-lane), the arrival of the train is announced at
@@ -65,3 +78,7 @@ Returning to [Carrickfergus Junction](/stations/carrickfergus-junction) we pass 
 Passing: [Portstewart](/stations/portstewart) (a small bathing place, of which Dr. Adam Clarke, the commentator, was a native) and to whom a monument has just been erected, (1859), we arrive at
 
 (place: ireland/county-antrim/portrush)
+
+----
+
+Uuid: tD6bX5aZCCEGdLSt

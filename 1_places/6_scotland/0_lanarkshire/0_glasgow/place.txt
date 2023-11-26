@@ -1,29 +1,47 @@
-section: 3
+Title: Glasgow
+
 ----
-title: Glasgow
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Mc Gregor's Queen Hotel; Carrick's Royal; Dron's George; Josez's North British.
-- term: Restaurateurs
+-
+  term: Restaurateurs
   desc: Ferguson and Forrester, 33, Buchanan Street; Lang's, 73, Queen Street.
-- term: News Rooms
+-
+  term: News Rooms
   desc: Royal Exchange, Queen Street; Tontine, Trongate; and the Athenæum, Ingram Street.
-- term: Coach Offices
+-
+  term: Coach Offices
   desc: A. Menzies, 124, Argyle Street; Wylie and Lochhead, 5S, Union Street; J. Walker, 29, Cambridge Street.
-- term: Steamers
+-
+  term: Steamers
   desc: to and from Ardrishaig, 5½ hours; Helensburgh, in 2½ horns; Roseneath, 2½ hours; Gareloch Head, 4 hours; Gourock, 2 hours; Innerkip, 2¾ horns; Wemyss Bay, 3 hours; Largs, 3½ hours; Millport, 4 hours; Kilmun, 3 hours; Dunoon, 2¾ hours; Inellan, 3 horns; Rothesay, 3¾ hours; Strone, 2¾ hours; Crinan, 7½ hours; Oban, 9¾ hours; Inverary, 7½ hours; Arroquhar, 4¼ hours; Lochgoilhead, 4 hours, &c.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fairs
+-
+  term: Fairs
   desc: Second Wednesday in January; Thursday before Easter, March; May 26th, or Monday after; second Monday in July.
-- term: Bankers
+-
+  term: Bankers
   desc: Bank of Scotland; British Linen Co.; Commercial; National; Royal; City of Glasgow; Clydesdale Banking Co.; Union.
+
 ----
-notes:
-- Telegraph stations at 76, St. Vincent Street, the Exchange Buildings, and 8, Royal Exchange Square.
+
+Notes: Telegraph stations at 76, St. Vincent Street, the Exchange Buildings, and 8, Royal Exchange Square.
+
 ----
-text: (smcp: Glasgow).--The first port and seat of manufacture in Scotland and a parliamentary burgh, two members, in the lower ward or division of Lanarkshire (which county also returns one member), on the Clyde, 50 miles from the open sea. That which was the ruin of many small places in this part of Great Britain, namely the Union, 1707, was the grand cause of the prosperity of Glasgow, which from its admirable position on a fine navigable river in the heart of a coal-field, and from the spirit of the inhabitants, has risen to be reckoned as the fourth port of the United Kingdom, and a rival to Manchester. When Bailie Nicol Jarvie and his worthy father, the deacon, "praise to his memory," lived in the Saltmarket, before the American revolution, it was a great place for the tobacco trade, but since 1792 cotton has been the staple business.
+
+Text:
+
+(smcp: Glasgow).--The first port and seat of manufacture in Scotland and a parliamentary burgh, two members, in the lower ward or division of Lanarkshire (which county also returns one member), on the Clyde, 50 miles from the open sea. That which was the ruin of many small places in this part of Great Britain, namely the Union, 1707, was the grand cause of the prosperity of Glasgow, which from its admirable position on a fine navigable river in the heart of a coal-field, and from the spirit of the inhabitants, has risen to be reckoned as the fourth port of the United Kingdom, and a rival to Manchester. When Bailie Nicol Jarvie and his worthy father, the deacon, "praise to his memory," lived in the Saltmarket, before the American revolution, it was a great place for the tobacco trade, but since 1792 cotton has been the staple business.
 
 Population 394,864, of which, perhaps, 50,000 are employed in the spinning, weaving, bleaching, and dyeing of cotton goods, worsted, muslin, silks, &c., while a large number are engaged in the manufacture or iron, brass, steam engines, glass, nails, pottery, umbrellas, hats, chemicals, and other branches of trade, and in wooden and iron ship building, besides numbers engaged in maritime and commercial transactions. These are the distinguishing characteristics of modern Glasgow, and the commercial activity and restlessness of its inhabitants have caused the immense impulse its trade has received within the last fifty years. The site is a level, four or live miles square, chiefly on the north side of the river. On the south side are the suburbs of Tradeston, Laurieston, and Hutchesonton. Its port is the open river, fronting the Broomielaw, lined by noble quays about two miles long, and so much deepened that first-class ships, which used to stop at Port Glasgow, 18 miles lower down, can now come up to the city. Formerly people could cross without wet feet, where now there is 20 feet of water.
 
@@ -40,3 +58,7 @@ In George's-square are--Sir Walter Scott's monument, Chantrey's statue of Watt, 
 *Andersonian University*, in the old Grammar School, George Street, is a place for gratuitous lectures, by the professors attached to it, among whom such names have appeared as Birkbeck, Ure, and Combe. It has a museum of models. The *High School* behind it was rebuilt in 1821. The *Normal School*, a handsome Tudor building:, is near Garnet Hill, which commands a fine prospect. The *Mechanics' Institution* is in Hanover Street, near the Andersonian University. The *Royal Infirmary*, the Blind, and the Deaf and Dumb Asylums, are near the Cathedral, and the *Town's Hospital* and *Magdalen Asylum* are not far from these; the former, shaped like a St George's cross, with a dome in the centre. *Hutcheson's Hospital* with a spire, is in Ingram Street, near the Post Office; the Lunatic Asylum, at the west end of the town, is in the Norman style.
 
 The most bustling parts are in Buchanan Street, Argyle Street, the Broomielaw, &c; and in the oldest quarters are Trongate, High Street, Stoekwell Street, &c, round the cross; in Bridgegate stands the steeple of the old Merchant's Half; Woodside and Elmbank are two of the finest crescents, not far from the Kelvin. The West End Park is said to be one of the finest in Britain. At Port Dundas, the Forth and Clyde canal terminates; and at Bowling, some miles down the Clyde, near Dumbarton, is a Pillar to the memory of Henry Bell, who ran the first steamer on the Clyde, the "Comet," in the year 1812. Though the first cotton factory was Monteith's, in 1795, yet calicoes were woven here in 1742, and the check union kerchiefs of linen as early as 1700, at Flakefield.
+
+----
+
+Uuid: K5tu1K14LecmajTG

@@ -1,20 +1,40 @@
-section: 3
+Title: Penkridge
+
 ----
-title: Penkridge
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,510.
-- term: Hotel
+-
+  term: Hotel
   desc: Littleton Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 30th, 1st Monday in September and October 10th.
+
 ----
-notes:
-- Telegraph station at Stafford, 5¼ miles.
+
+Notes: Telegraph station at Stafford, 5¼ miles.
+
 ----
-desc: Here is a large church, and two miles north-east, *Teddesley Park*, seat of Lord Hatherton.
+
+Desc: Here is a large church, and two miles north-east, *Teddesley Park*, seat of Lord Hatherton.
+
 ----
-text: Here is a large church, and two miles north-east, *Teddesley Park*, seat of Lord Hatherton.
+
+Text:
+
+Here is a large church, and two miles north-east, *Teddesley Park*, seat of Lord Hatherton.
+
+----
+
+Uuid: 1Y7pRkRfGtDxwNUD

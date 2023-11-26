@@ -1,6 +1,13 @@
-section: 3
+Title: Portpatrick
+
 ----
-title: Portpatrick
+
+Section: 3
+
 ----
-links:
-- (wikipedia: Portpatrick_and_Wigtownshire_Joint_Railway)
+
+Links: - (wikipedia: Portpatrick_and_Wigtownshire_Joint_Railway)
+
+----
+
+Uuid: Bh4ZkcwsTs14kV0T

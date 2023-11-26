@@ -1,14 +1,31 @@
-section: 3
+Title: Newton Road
+
 ----
-title: Newton Road
+
+Section: 3
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at West Bromwich, 2 miles.
+
 ----
-notes:
-- Telegraph station at Bescot.
+
+Notes: Telegraph station at Bescot.
+
 ----
-desc: This station is in the parish of West Bromwich, formerly a small village, but which has risen to considerable importance from the rich iron and coal veins which abound in the vicinity.
+
+Desc: This station is in the parish of West Bromwich, formerly a small village, but which has risen to considerable importance from the rich iron and coal veins which abound in the vicinity.
+
 ----
-text: This station is in the parish of West Bromwich, formerly a small village, but which has risen to considerable importance from the rich iron and coal veins which abound in the vicinity. There are furnaces for smelting the ores in all directions. The gas works here are said to be the largest in the world, and the glass works of Messrs. Chance &c. Co. are upon a most extensive scale. To the right are *Fairy Hall* and *Red House*.
+
+Text:
+
+This station is in the parish of West Bromwich, formerly a small village, but which has risen to considerable importance from the rich iron and coal veins which abound in the vicinity. There are furnaces for smelting the ores in all directions. The gas works here are said to be the largest in the world, and the glass works of Messrs. Chance &c. Co. are upon a most extensive scale. To the right are *Fairy Hall* and *Red House*.
+
+----
+
+Uuid: dm295F6jGxM2B5bg

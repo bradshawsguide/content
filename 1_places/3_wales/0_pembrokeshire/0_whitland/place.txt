@@ -1,10 +1,21 @@
-section: 2
+Title: Whitland
+
 ----
-title: Whitland
+
+Section: 2
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at St. Clears.
+
 ----
-notes:
-- Telegraph station at Carmarthen.
+
+Notes: Telegraph station at Carmarthen.
+
+----
+
+Uuid: X1lHJssA2biARhro

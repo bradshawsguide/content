@@ -1,14 +1,25 @@
-section: 1
+Title: Charing Cross and London Bridge to Folkestone and Dover
+
 ----
-title: Charing Cross and London Bridge to Folkestone and Dover
+
+Section: 1
+
 ----
-title_short: London to Folkestone and Dover
+
+Title-short: London to Folkestone and Dover
+
 ----
-subtitle: South Eastern Main Line
+
+Subtitle: South Eastern Main Line
+
 ----
-company: companies/south-eastern
+
+Company: companies/south-eastern
+
 ----
-stops:
+
+Stops:
+
 - charing-cross
 - london-bridge
 - new-cross
@@ -34,13 +45,20 @@ stops:
 - shorncliffe-camp
 - folkestone-junction
 - dover-town
+
 ----
-links:
+
+Links:
+
 - (wikipedia: South_Eastern_main_line)
 - (wikipedia: Medway_Valley_line)
 - (wikipedia: Marshlink_line)
+
 ----
-text: This has been called the "Pleasure Line;" and certainly the beauty and extent, of the country traversed by its trains justly entitle it to that distinguishing appellation. It is not only one of the chief mediums of daily communication between England and the Continent, but its iron roads and branches intersect the beautiful county of Kent in all directions, affording the inhabitants of the great metropolis faculties of visiting the numerous watering places on its coast, and enabling them to become acquainted with its picturesque scenery, cities, and baronial halls, and he astonishing fertility of its soil.
+
+Text:
+
+This has been called the "Pleasure Line;" and certainly the beauty and extent, of the country traversed by its trains justly entitle it to that distinguishing appellation. It is not only one of the chief mediums of daily communication between England and the Continent, but its iron roads and branches intersect the beautiful county of Kent in all directions, affording the inhabitants of the great metropolis faculties of visiting the numerous watering places on its coast, and enabling them to become acquainted with its picturesque scenery, cities, and baronial halls, and he astonishing fertility of its soil.
 
 ## London to Red Hill
 No sooner is the train in motion than we escape from the confinement of the station and emerge into purer air--although the first mile we pass over no less than a dozen streets, thronged with a restless, busy population, who inhabit the dense neighbourhood of Horsleydown and Bermondsey.
@@ -161,3 +179,7 @@ After leaving Folkestone, the traveller will encounter the most wonderful portio
 The viaduct on the Dover side is also considered a fine work; it is about half a mile long, and formed of heavy beams of timber securely framed and bolted together, but left open so as to offer less resistance to the waves in bad weather.
 
 (place: england/kent/dover)
+
+----
+
+Uuid: y2NUdGDsZgDVg5yl

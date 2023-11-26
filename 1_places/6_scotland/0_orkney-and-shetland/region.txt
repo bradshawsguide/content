@@ -1,3 +1,11 @@
-title: Orkney and Shetland
+Title: Orkney and Shetland
+
 ----
-text: A mail steamer runs daily to Stromness from Scrabster, near Thurso. The route by sea occupies about four hours, and has gorgeous scenery. Stromness has a fine natural harbour. From Stromness to Kirkwall there is a good road, and a daily mail car, and the route has highly interesting views, by land and water. On the road the traveller passes the famous "standing stones of Stennis," and the ruin of "Maeshowe," which has of late years raised such a commotion among antiquarians. Stromness harbour is a very fine natural shelter; indeed, Orkney abounds with splendid sheets of water, affording refuge to vessels in distress.
+
+Text:
+
+A mail steamer runs daily to Stromness from Scrabster, near Thurso. The route by sea occupies about four hours, and has gorgeous scenery. Stromness has a fine natural harbour. From Stromness to Kirkwall there is a good road, and a daily mail car, and the route has highly interesting views, by land and water. On the road the traveller passes the famous "standing stones of Stennis," and the ruin of "Maeshowe," which has of late years raised such a commotion among antiquarians. Stromness harbour is a very fine natural shelter; indeed, Orkney abounds with splendid sheets of water, affording refuge to vessels in distress.
+
+----
+
+Uuid: ou3p99zxmjaRiGSQ

@@ -1,12 +1,21 @@
-section: 2
+Title: Westbury to Salisbury
+
 ----
-title: Westbury to Salisbury
+
+Section: 2
+
 ----
-subtitle: Salisbury Branch
+
+Subtitle: Salisbury Branch
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - westbury
 - warminster
 - heytesbury
@@ -16,11 +25,16 @@ stops:
 - wishford
 - wilton-north
 - salisbury
+
 ----
-links:
-- (wikipedia: Salisbury_branch_line_%28Great_Western_Railway%29)
+
+Links: - (wikipedia: Salisbury_branch_line_%28Great_Western_Railway%29)
+
 ----
-text: Our first station on this section of the Wilts, Somerset, and Weymouth line, is that at
+
+Text:
+
+Our first station on this section of the Wilts, Somerset, and Weymouth line, is that at
 
 (place: england/wiltshire/warminster)
 
@@ -43,3 +57,7 @@ Soon after we arrive at
 (place: england/wiltshire/wilton)
 
 (place: england/wiltshire/salisbury)
+
+----
+
+Uuid: 2zm8jTAR9fbAZDJr

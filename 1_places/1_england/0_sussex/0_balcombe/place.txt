@@ -1,17 +1,31 @@
-section: 1
+Title: Balcombe
+
 ----
-title: Balcombe
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Cuckfield.
+
 ----
-notes:
-- Distance from station, 1 mile.
+
+Notes: A telegraph station.
+
 ----
-notes:
-- A telegraph station.
+
+Desc: To the left, on the hills, is Wakehurst Place, the estate of Sir A. Cockburn, St. Leonard's Forest on the right.
+
 ----
-desc: To the left, on the hills, is Wakehurst Place, the estate of Sir A. Cockburn, St. Leonard's Forest on the right.
+
+Text:
+
+To the left, on the hills, is Wakehurst Place, the estate of Sir A. Cockburn, St. Leonard's Forest on the right. The rivers Adur, Arun, and Ouse have their source in this forest, within a circle of three or four miles in diameter.
+
 ----
-text: To the left, on the hills, is Wakehurst Place, the estate of Sir A. Cockburn, St. Leonard's Forest on the right. The rivers Adur, Arun, and Ouse have their source in this forest, within a circle of three or four miles in diameter.
+
+Uuid: HRtkx97re9owzlBS

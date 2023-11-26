@@ -1,10 +1,21 @@
-﻿section: 1
+Title: Dunbridge
+
 ----
-title: Dunbridge
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Romsey.
+
 ----
-notes:
-- Telegraph station at Romsey, 4½ miles.
+
+Notes: Telegraph station at Romsey, 4½ miles.
+
+----
+
+Uuid: soakkL0xvyLFOeQW

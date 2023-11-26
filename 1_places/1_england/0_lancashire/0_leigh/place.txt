@@ -1,16 +1,33 @@
-section: 3
+Title: Leigh
+
 ----
-title: Leigh
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: White Horse.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 5th and 24th; December 7th and 8th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A market town, with a population of 10,621, who are employed in the cambric, muslin, and fustian trades. The pasture land is good, mid coal and limestone abound in the neighbourhood. Cheese is made here. Highs, the *original* inventor of the spinning jenny and water frame, winch Arkwright only improved, was a native.
+
+Text:
+
+A market town, with a population of 10,621, who are employed in the cambric, muslin, and fustian trades. The pasture land is good, mid coal and limestone abound in the neighbourhood. Cheese is made here. Highs, the *original* inventor of the spinning jenny and water frame, winch Arkwright only improved, was a native.
+
+----
+
+Uuid: 4HwylE8tq2x5uRqj

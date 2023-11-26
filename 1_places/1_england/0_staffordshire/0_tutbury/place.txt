@@ -1,19 +1,40 @@
-section: 3
+Title: Tutbury
+
 ----
-title: Tutbury
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,982.
-- term: Hotel
+-
+  term: Hotel
   desc: Dog and Partridge.
-- term: Fairs
+-
+  term: Fairs
   desc: February 14th, August 15th, and December 1st.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¾ mile.
 - Telegraph station at Burton, 5¾ miles.
+
 ----
-desc: Here are ruins of the King of Mercia's Castle, rebuilt by John of Gaunt, in which Mary Queen of Scots was twice confined.
+
+Desc: Here are ruins of the King of Mercia's Castle, rebuilt by John of Gaunt, in which Mary Queen of Scots was twice confined.
+
 ----
-text: Here are ruins of the King of Mercia's Castle, rebuilt by John of Gaunt, in which Mary Queen of Scots was twice confined. A Norman church, with tower, and beautiful door, founded in 1080. In 1831, a great many coins, dated 1321, were found in the river Dove.
+
+Text:
+
+Here are ruins of the King of Mercia's Castle, rebuilt by John of Gaunt, in which Mary Queen of Scots was twice confined. A Norman church, with tower, and beautiful door, founded in 1080. In 1831, a great many coins, dated 1321, were found in the river Dove.
+
+----
+
+Uuid: EjTHO9qbF5E4vWfq

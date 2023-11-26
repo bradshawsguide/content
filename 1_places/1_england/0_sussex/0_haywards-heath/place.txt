@@ -1,12 +1,25 @@
-section: 1
+Title: Hayward's Heath
+
 ----
-title: Hayward's Heath
+
+Section: 1
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: *Cuckfield*, 1½ mile to the right, a pleasantly situated market town, with a handsome church, in the English decorated style.
+
+Desc: *Cuckfield*, 1½ mile to the right, a pleasantly situated market town, with a handsome church, in the English decorated style.
+
 ----
-text: *Cuckfield*, 1½ mile to the right, a pleasantly situated market town, with a handsome church, in the English decorated style. Market day, Friday. Fairs, September 16, and Thursday in Whit-week.
+
+Text:
+
+*Cuckfield*, 1½ mile to the right, a pleasantly situated market town, with a handsome church, in the English decorated style. Market day, Friday. Fairs, September 16, and Thursday in Whit-week.
 
 *Lindfield*, 2 miles, a pretty little village.
+
+----
+
+Uuid: PU7YJ1lX3K6dcM8a

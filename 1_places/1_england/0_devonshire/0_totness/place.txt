@@ -1,20 +1,40 @@
-section: 2
+Title: Totness
+
 ----
-title: Totness
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 4,001.
-- term: Hotel
+-
+  term: Hotel
   desc: The Seymour; The Seven Stars.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: First Tuesday in every month, Easter Tuesday, May 12th, July 25th, and October 1st.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: Totness is situated on the river Dart. The ancient Roman fosseway forms a prominent feature in this town.
+
+Desc: Totness is situated on the river Dart. The ancient Roman fosseway forms a prominent feature in this town.
+
 ----
-text: Totness is situated on the river Dart. The ancient Roman fosseway forms a prominent feature in this town. There is a good deal of woollen cloth manufactured here, but the chief employment of the inhabitants is in the fishery. Its principal attractions are a Guildhall, assembly room, and theatre, banks, Libraries &c.
+
+Text:
+
+Totness is situated on the river Dart. The ancient Roman fosseway forms a prominent feature in this town. There is a good deal of woollen cloth manufactured here, but the chief employment of the inhabitants is in the fishery. Its principal attractions are a Guildhall, assembly room, and theatre, banks, Libraries &c.
+
+----
+
+Uuid: KmCYYat6KL5O7nU3

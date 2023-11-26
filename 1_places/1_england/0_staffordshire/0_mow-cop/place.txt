@@ -1,17 +1,36 @@
-section: 3
+Title: Mow Cop
+
 ----
-title: Mow Cop
+
+Section: 3
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Congleton.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1½ mile.
 - Telegraph station at Kidsgrove, 2½ miles.
+
 ----
-desc:  Mow Cop is a mountain in miniature, precipitous on three sides, bleak, bare, and craggy, except in one part, where there is a fine hanging wood.
+
+Desc: Mow Cop is a mountain in miniature, precipitous on three sides, bleak, bare, and craggy, except in one part, where there is a fine hanging wood.
+
 ----
-Text: (smcp: Mow Cop) is a mountain in miniature, precipitous on three sides, bleak, bare, and craggy, except in one part, where there is a fine hanging wood. From the summit of this hill, 1,091 feet high, the finest views imaginable are obtainable in every direction. In certain states of the atmosphere, it is said, that the shipping beyond the port of Liverpool are distinguishable. The Welsh mountains, the Wrekin in Shropshire, Beeston Castle, the Peak of Derbyshire, and the lofty range of hills which form the Staffordshire moorlands, are prominent objects. Nearer, on the south, almost the whole of the Pottery district is seen. Congleton lies nearer still to the north. The whole country northward is studded over with towns and villages, of which a sort of bird's-eye glance is presented. But nothing can be more glorious than the view from it of almost the entire county of Chester. The hill stands on the boundary line between the counties of Stafford and Chester. On the summit there is an artificial ruin, which has a good appearance in every point of view.
+
+Text:
+
+(smcp: Mow Cop) is a mountain in miniature, precipitous on three sides, bleak, bare, and craggy, except in one part, where there is a fine hanging wood. From the summit of this hill, 1,091 feet high, the finest views imaginable are obtainable in every direction. In certain states of the atmosphere, it is said, that the shipping beyond the port of Liverpool are distinguishable. The Welsh mountains, the Wrekin in Shropshire, Beeston Castle, the Peak of Derbyshire, and the lofty range of hills which form the Staffordshire moorlands, are prominent objects. Nearer, on the south, almost the whole of the Pottery district is seen. Congleton lies nearer still to the north. The whole country northward is studded over with towns and villages, of which a sort of bird's-eye glance is presented. But nothing can be more glorious than the view from it of almost the entire county of Chester. The hill stands on the boundary line between the counties of Stafford and Chester. On the summit there is an artificial ruin, which has a good appearance in every point of view.
 
 In the vicinity are *Lawton Hall*, C Lawton, Esq.; *Rode Hall*, R. Wilbraham, Esq.; *Moreton Hall*, G. Ackers, Esq. (a fine Elizabethan seat).
+
+----
+
+Uuid: Yac4g3wcp66fvyUk

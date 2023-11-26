@@ -1,12 +1,27 @@
-section: 2
+Title: Pembridge
+
 ----
-title: Pembridge
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,500.
+
 ----
-notes:
-- Telegraph station at Leominster, 8 miles.
+
+Notes: Telegraph station at Leominster, 8 miles.
+
 ----
-text: 1½ mile to the right, *Shobdon Court*, the seat of the Hanbury family.
+
+Text:
+
+1½ mile to the right, *Shobdon Court*, the seat of the Hanbury family.
+
+----
+
+Uuid: OCcuVimNq2gDNFUr

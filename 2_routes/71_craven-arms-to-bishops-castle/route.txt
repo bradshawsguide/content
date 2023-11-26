@@ -1,20 +1,36 @@
-section: 2
+Title: Leominster to Kington
+
 ----
-title: Leominster to Kington
+
+Section: 2
+
 ----
-company: companies/bishops-castle
+
+Company: companies/bishops-castle
+
 ----
-stops:
+
+Stops:
+
 - craven-arms
 - horderley
 - plowden
 - eaton
 - lydham-heath
 - bishops-castle
+
 ----
-links:
-- (wikipedia: Bishops_Castle_Railway)
+
+Links: - (wikipedia: Bishops_Castle_Railway)
+
 ----
-text: [Craven Arms](/stations/craven-arms) forms the junction of the **Bishops Castle**, a small portion only of this line is completed. It runs by [Horderley](/stations/horderley), [Plowden](/stations/plowden), [Eaton](/stations/eaton), and [Lydham Heath](/stations/lydham-heath), to
+
+Text:
+
+[Craven Arms](/stations/craven-arms) forms the junction of the **Bishops Castle**, a small portion only of this line is completed. It runs by [Horderley](/stations/horderley), [Plowden](/stations/plowden), [Eaton](/stations/eaton), and [Lydham Heath](/stations/lydham-heath), to
 
 [Bishops Castle](/stations/bishops-castle), situate on a rising eminence, the church of which occupies the site of one destroyed at the time of the civil wars. The Bishops of Hereford at one time resided here.
+
+----
+
+Uuid: 6yKP5W9JIGjOHnKS

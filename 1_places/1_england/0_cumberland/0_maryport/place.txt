@@ -1,16 +1,33 @@
-section: 3
+Title: Maryport
+
 ----
-title: Maryport
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Golden Lion.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday and Friday.
-- term: Bankers
+-
+  term: Bankers
   desc: Cumberland Banking Co.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a market, seaport, and coal town, in the county of Cumberland. Like most of the towns on the west coast of this county, it derives its origin and importance from that trade. Eighty years ago the beach was occupied only by one house, called Valencia, and about half a score miserable huts that served to shelter a few fishermen; now its population is 6,037. The situation of the town is extremely pleasant, its streets are wide, and the houses near built. It stands on the borders of the river Ellen, which divides it into two parts. Strong piers, with quays and lighthouses, have been erected on each side of the river, for the convenience of shipping which rapidly increases. It contains five chapels, shipyards and grammar schools. In the vicinity are *Nether Hall*, J. Senhouse, Esq., who owns the town, *Ellenborough*, a Roman station, and *Ewanrigg Hall*.
+
+Text:
+
+This is a market, seaport, and coal town, in the county of Cumberland. Like most of the towns on the west coast of this county, it derives its origin and importance from that trade. Eighty years ago the beach was occupied only by one house, called Valencia, and about half a score miserable huts that served to shelter a few fishermen; now its population is 6,037. The situation of the town is extremely pleasant, its streets are wide, and the houses near built. It stands on the borders of the river Ellen, which divides it into two parts. Strong piers, with quays and lighthouses, have been erected on each side of the river, for the convenience of shipping which rapidly increases. It contains five chapels, shipyards and grammar schools. In the vicinity are *Nether Hall*, J. Senhouse, Esq., who owns the town, *Ellenborough*, a Roman station, and *Ewanrigg Hall*.
+
+----
+
+Uuid: 3yTL2yz3jLxaX1iC

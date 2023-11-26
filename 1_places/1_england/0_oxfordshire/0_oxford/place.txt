@@ -1,22 +1,39 @@
-section: 2
+Title: Oxford
+
 ----
-title: Oxford
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 27,560.
-- term: Hotels
+-
+  term: Hotels
   desc: Clarendon; Mitre; Roebuck.
-- term: Fairs
+-
+  term: Fairs
   desc: May 2nd, Monday after St. Giles, Sept 1st, and Thursday before New Michaelmas.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-desc: Oxford is the capital of the rich midland county of the same name, and one of the most ancient cities of England.
+
+Desc: Oxford is the capital of the rich midland county of the same name, and one of the most ancient cities of England.
+
 ----
-text: Oxford is the capital of the rich midland county of the same name, and one of the most ancient cities of England. It has for ages been celebrated for its university, which, in extent, number of its colleges, wealth of endowments, and architectural beauty, stands unrivalled by any similar institution in Europe; in fact, the period of its existence as a seminary for learning is supposed to date anterior to the time of Alfred. It is situated on a gentle eminence in a rich valley between the rivers Cherwell and Isis, and is surrounded by highly cultivated scenery--the prospect being bounded by an amphitheatre of lulls. From the neighbouring heights the city presents a very imposing appearance, from the number and variety of its spires, domes, and public edifices; while these structures, from their magnitude and splendid architecture, give it on a near approach an air of great magnificence. The rivers are crossed by bridges. This city was distinguished by its attachment to the unfortunate Charles I., who here held his court during the whole civil war.
+
+Text:
+
+Oxford is the capital of the rich midland county of the same name, and one of the most ancient cities of England. It has for ages been celebrated for its university, which, in extent, number of its colleges, wealth of endowments, and architectural beauty, stands unrivalled by any similar institution in Europe; in fact, the period of its existence as a seminary for learning is supposed to date anterior to the time of Alfred. It is situated on a gentle eminence in a rich valley between the rivers Cherwell and Isis, and is surrounded by highly cultivated scenery--the prospect being bounded by an amphitheatre of lulls. From the neighbouring heights the city presents a very imposing appearance, from the number and variety of its spires, domes, and public edifices; while these structures, from their magnitude and splendid architecture, give it on a near approach an air of great magnificence. The rivers are crossed by bridges. This city was distinguished by its attachment to the unfortunate Charles I., who here held his court during the whole civil war.
 
 The High street extends east and west, under different names, the whole length of the city. From Carfax Church it is crossed, at right angles, by St Giles the other principal street; and from these two branch of nearly every other street in the city. The High street of Oxford is justly considered the finest in England, from its length and breadth, the number and elegance of its public buildings, and its remarkable curvature, which, from continually presenting new combinations of magnificent objects to the eye, produces an uncommonly striking effect. There are also several other handsome streets of recent creation. Oxford has long been famous for good sausages and brawn. The "Crown" is a small inn, entered from the Corn Market by a gateway. This inn was kept by the mother of Davenant, and was the resort of Shakspeare in his journies from London to Stratford-on-Avon.
 
@@ -116,3 +133,7 @@ Warton's inscription on a spring here is pretty--
 *Ensham*, the seat of Lord Parke, and *Cornbury* that of Lord F. Churchill, are both near *Wychwood* Forest, a well wooded tract of oak, beech, and other timber, which is to be reclaimed and cultivated. Warton (who is poet of Oxford and the localities around) wrote some of his best lines, "The Hamlet," here. Some rare fossils are found in the rock below, which is a soft shelly oolite. Stonesfield in particular, on the old Roman way or Wheman Street, has furnished valuable specimens, and a Roman pavement was discovered there in the last century. *Witney* (10 miles) is still a flourishing seat of the blanket manufacture. *Cumnor Place* (in Berkshire), which belonged to the abbots of Abingdon, was the scene, according to Scott's Kenilworth, of poor Amy Robsart's murder, by Verney, at the command of her husband, the Earl of Leicester. In the church, a marble effigy of Anthony Foster, who was implicated in the tragedy; but lie is there described as a gentleman and scholar. The " Black Bear" still figures at the village inn. *Nuneham Courtney*, on the Thames, is the seat of the Harcourts, at which are to be seen curious county maps, worked in tapestry, and a picture gallery. *Parson's Pleasure* (or *Loggerhead*), is a famous bathing-place on the Cherswell.
 
 **Ditchley**, Lord Dillon's seat, was the birthplace of the celebrated Lord Rochester, as notorious for his profligacy as for his sincere repentance. Near this is *Kiddington* (4 miles), with an old church, of which Warton was rector; it is described in his Ode on the First of April. *Renshaw* is the old seat of the Dormers. *Heythrop*, belongs to the Earl of Shrewsbury. *Glympton*, i.e., the Glyme town, from the river which runs through it, is the seat of E. Way, Esq. At *Aynho*, the Cartwright's seat, near Deddington, in Northamptonshire, is a picture gallery. From *Shotover Hill* (4 miles), 600 feet high, there is a good prospect of Oxford and its spires. *Middleton Park*, the seat of Earl Jersey, is near an old church. *Kirtlinglon*, Sir G. Dashwood, Bart., was an old Saxon village, called *Kyntingtun*. *Bletchington*, A. Annesley, Esq. *Ambrosden*, the seat of Sir G. Turner, Bart., was formerly the vicarage of Bishop Kennet, who published an account of the village in his "Parochial Antiquities."
+
+----
+
+Uuid: iVgrkj7tsNSeQrIz

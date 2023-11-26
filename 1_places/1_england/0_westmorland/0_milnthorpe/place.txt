@@ -1,16 +1,33 @@
-section: 3
+Title: Milnthorpe
+
 ----
-title: Milnthorpe
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Cross Keys.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 12th and October 17th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This place is a market town, with a population of 1,433, who are employed in the coasting trade, flax, flour, and paper mills. It contains a fine Gothic church, school, and chapel. In the; vicinity are *Dallam Tower*, seat of George E. Wilson, Esq. *Levens Hall*, Hon. Mrs. Howard:. *Sizergh Castle*, the ancient seat of the Stricklands.
+
+Text:
+
+This place is a market town, with a population of 1,433, who are employed in the coasting trade, flax, flour, and paper mills. It contains a fine Gothic church, school, and chapel. In the; vicinity are *Dallam Tower*, seat of George E. Wilson, Esq. *Levens Hall*, Hon. Mrs. Howard:. *Sizergh Castle*, the ancient seat of the Stricklands.
+
+----
+
+Uuid: dSzVo8KM5762cGFt

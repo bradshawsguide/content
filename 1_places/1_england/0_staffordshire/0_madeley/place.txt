@@ -1,20 +1,39 @@
-section: 3
+Title: Madeley
+
 ----
-title: Madeley
+
+Section: 3
+
 ----
+
 Info:
-- term: Population
+
+-
+  term: Population
   desc: 725.
-- term: Hotel
+-
+  term: Hotel
   desc: Crewe Arms.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Newcastle-under-Lyne.
+
 ----
-notes:
-- Telegraph station at Crewe, 8 miles.
+
+Notes: Telegraph station at Crewe, 8 miles.
+
 ----
-desc: This is a pretty village to the right of the line, consisting of cottages and houses built of stone in the Elizabethan style.
+
+Desc: This is a pretty village to the right of the line, consisting of cottages and houses built of stone in the Elizabethan style.
+
 ----
-text: This is a pretty village to the right of the line, consisting of cottages and houses built of stone in the Elizabethan style. The church is a fine old Gothic structure in the form of a cross.
+
+Text:
+
+This is a pretty village to the right of the line, consisting of cottages and houses built of stone in the Elizabethan style. The church is a fine old Gothic structure in the form of a cross.
 
 The line proceeds from this station past a deep cutting through undulating hills, between which we obtain beautiful vistas of the country, and thence reach an embankment, whence we have a view of a most romantic dell, bounded by hills, abrupt precipices, and banks of heather. As far as we can see to the right the vale stretches out in variegated beauty. Passing onward the train proceeds along an embankment, beneath which passes the Wrine, which flows through the valley. A lofty embankment and two viaducts carrying the line through the valley of the Wrinehill, the village of that name appearing on the right, and *Wrine Hall* and *Hill*, forming pleasing objects in the prospect on the left.
+
+----
+
+Uuid: VvQo01JG6IZ2HaDn

@@ -1,21 +1,35 @@
-section: 3
+Title: Stirling
+
 ----
-title: Stirling
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Golden Lion (late Gibbs); Royal.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: First Friday in February, March, and April; last Friday in May; first Wednesday after 11th June; first Friday in August; third Friday in September; first Friday in November; second Friday in December.
-- term: Bankers
+-
+  term: Bankers
   desc: Bank of Scotland, Clydesdale; Royal; Commercial; Union; National; City of Glasgow.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: (smcp: Stirling), a county and garrison town, is built on an eminence in the centre of a fertile plain, which is watered by the river Forth, and above the town rises the Castle of Stirling, so celebrated in Scottish history. The stream which flows by the town is here of considerable depth, and vessels are able to unload their goods on the excellent quay by which it is bordered.
+
+Text:
+
+(smcp: Stirling), a county and garrison town, is built on an eminence in the centre of a fertile plain, which is watered by the river Forth, and above the town rises the Castle of Stirling, so celebrated in Scottish history. The stream which flows by the town is here of considerable depth, and vessels are able to unload their goods on the excellent quay by which it is bordered.
 
 This ancient seat of the Scottish kings, and capital of Stirlingshire, is situated on a beautiful part of the Forth, about half way between Edinburgh and Perth. One member is returned for Stirling and its sister burghs. Population 13,707. As a key to the Highlands it is an important position, having been frequently contested, and at length became the favourite seat of all the James's, from James I. to James VI. (or first of Great Britain). The best part of the Palace, or *Castle*, was begun by James V., the Knight of Snowdon, a hero of the "Lady of the Lake," known also as the "Gudeman of Ballangeich," an *alias* conferred on him from his taste for disguises and intriguing adventures. The "Gaberlunzie man," and "We'll gae nae mair a roving," are founded on these. Ballangeich is the pass leading to the rock (350 feet high) on which the castle is perched, originally called Snowdon, and overlooking the town -- one of the most splendid prospects in Scotland, especially of the Forth and Teith, and the distant Highlands. The oldest portion of the castle is the closet in which James II. stabbed William Earl Douglas. The Parliament Room (120 feet long), with an oak root, was built by James III, but is now a barrack, as also is the presence chamber in James V.'s palace -- this fortress being one of the four which the Articles of Union, in 1762, provides shall he maintained. James VI. added a chapel, which is now the armoury. He was educated here, under the care of the learned Buchanan. The ancient walls, drawbridge, &c, remain. In the park behind is a ring for tournaments. To the north-east of the Castle is the Moat Hill, commonly named Hurley-Hacket; on it executions generally took place. The old portion of the Castle was destroyed by fire 1855. The building has been re-erected, strictly in keeping with its former quaint style. The pulpit of the great reformer, Knox, is shewn in the armoury, along with many other relics of the olden time. Argyll's Lodgings, in Castle Wynd, is now the military infirmary. Here the Duke of York and his daughter (afterwards Queen Anne) lodged in 1681.
 
@@ -24,3 +38,7 @@ The Grey Friars' Church was erected in 1494 by James IV. It is a handsome Gothic
 Here are various literary and benevolent institutes. The *Athenceum* and *Library*, in King Street, with a clock spire. *Cowan's Hospital*, near the church, founded in 1633, possesses an income of more than £3,000; and the founder's statue. Another hospital exists for the relief of the burgesses. *Drummond's Museum* of agricultural implements, &c., should be visited; it is 160 feet long.
 
 (smcp: Excursions) from Stirling to *Loch Katrine*, &c. The best companion for this trip is the "Lady of the Lake." The distances are -- to Doune, 9 miles; Callander, 8 miles; Coilantogle Ford, 3 miles; Bridge of Turk, 5 miles; Trossachs, 3 miles; Loch Katrine and Inversnaid, on Loch Lomond, 12 miles; about 40 miles altogether, or 80 round to Glasgow -- but this portion includes steam and railway. At Doune, on the Teith, is an old castle of the Stuarts Callander, where the pass of Leny turns up Strathire and Loch Lubnaig. Ben Ledi in view, 3,000 feet high. From Ben Ledi was seen the cross of tire. Lord John Russell spent the summer of 1853 here, when he was made a freeman of Stirling, and addressed the burgesses on the Duke of Wellington's death. At Coilantogle Ford, on the Teith, Fitz-James defeated Rhoderic Dim, and began his celebrated ride to Stirling. Loch Yennaehar, three miles long, audits banks well wooded. Bridge of Turk, at the bottom of Loch Achray, and the mouth of Glenfinglas. Aberfoyle, on the Forth, is four or five miles to the south (see "Rob Roy"). The naked top of Ben Awe to the right, *Trossacs*, a wild rugged pass of a mile, between Loch Achray and Loch Katrine (i.e., Cateran, a thief), the lake of Scott's poem. "High on the south" is "huge Benvenue," 2,800 feet high, in the district of Menteith. Lochs Ard and Awe are in this direction, but the regular road is on the north side of the lake, to the ferry, the top of which is seven miles. Ponies may be had hence to Loch Lomond, which is descended by steamer. To *Airthrie Wells* and *Bridge of Allan*, a beautiful place of resort on the Allan, *Dunblane*, on the Perth road, was once the bishopric of the excellent Archbishop Leighton; the Cathedral Church is of the 12th century. *Sheriff's Muir*, where the Duke of Argyll and Marr fought a drawn battle in 1715, is near. It is said that the Duke was a better Christian than a soldier on this occasion, as he would not let his right hand know what his left hand had done. The river Devon rises here; Allan may be followed to its crook or bend, and the three falls at Caldron Lynn. Ben Cleuch or Ben Buck, in the Ochils, is 2,420 ft, high. Demyatt, near Logie, is 1,345 feet high; a famous view. Up the Forth (10 miles), the seat of Buchanan of old, King of Kippen, *Port of Monteith*, and *Aberfoyle* (20 miles from Stirling). To the south of Stirling the rail traverses a wide plain, on which several battles have been fought, viz.: *Bannockburn* (1314), near St. Ninian s, a great place for nailers, &c; *Sauchieburn* (1488, James III. killed); *Falkirk* (1298, Wallace defeated). The last is famous for its cattle fair, and is near the Carron Iron Works. *Kilsyth*, where Baillie was beaten by Montrose (1645). This is near Castlecary, and other remnants of the *Antonine Wall*, locally called Graham's Dyke.
+
+----
+
+Uuid: 4lykvT1zDKhcLM73

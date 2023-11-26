@@ -1,6 +1,16 @@
-section: 3
+Title: Dyce
+
 ----
-title: Dyce
+
+Section: 3
+
 ----
-text: Important, as being the point of junction with the Buchan Railway. Near at hand are a Druid circle of 10 stones, on Tirebeggar Hill;
+
+Text:
+
+Important, as being the point of junction with the Buchan Railway. Near at hand are a Druid circle of 10 stones, on Tirebeggar Hill;
 *Dyce House*, seat of Gordon Skene, Esq.; and a fine church with an old font.
+
+----
+
+Uuid: 6MjjqbobU8k5ckvO

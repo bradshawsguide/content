@@ -1,16 +1,33 @@
-section: 2
+Title: Shiffnal
+
 ----
-title: Shiffnal
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,046.
-- term: Hotel
+-
+  term: Hotel
   desc: Jerningham Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: In the church at this place is a monument erected to the memory of W. Wakeley, who lived to the advanced age of 124.
+
+Text:
+
+In the church at this place is a monument erected to the memory of W. Wakeley, who lived to the advanced age of 124.
+
+----
+
+Uuid: 2agGpDlTOEqURMNL

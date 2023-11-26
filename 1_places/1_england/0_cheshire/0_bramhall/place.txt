@@ -1,13 +1,30 @@
-section: 3
+Title: Bramhall
+
 ----
-title: Bramhall
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,615.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ½ mile.
 - Telegraph station at Stockport, 4 miles.
+
 ----
-text: Close at hand is *Bramhall House*, a fine timber residence of the 16th century, partly modernised. It contains portraits of Sir A. Legh, of Adlington who was at one time said to be Percy's hero, " Will you hear a Spanish lady," in his *Reliques*, but which applied to Sir J. Bolle, of Thorpe, who was present at the siege of Cadiz.
+
+Text:
+
+Close at hand is *Bramhall House*, a fine timber residence of the 16th century, partly modernised. It contains portraits of Sir A. Legh, of Adlington who was at one time said to be Percy's hero, " Will you hear a Spanish lady," in his *Reliques*, but which applied to Sir J. Bolle, of Thorpe, who was present at the siege of Cadiz.
+
+----
+
+Uuid: vqRhiWV7evNHUDdt

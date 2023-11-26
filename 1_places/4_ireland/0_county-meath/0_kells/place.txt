@@ -1,14 +1,30 @@
-section: 2
+Title: Kells
+
 ----
-title: Kells
+
+Section: 2
+
 ----
-info:
-- term: Market Day
+
+Info:
+
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: February 27, May 27, July 16, September 9, October 16, November 17.
+
 ----
-notes:
-- Telegraph station at Navan, 9¾ miles.
+
+Notes: Telegraph station at Navan, 9¾ miles.
+
 ----
-text: The church contains tombs of the Marquis of Ileadfort's family, whose castle, with an old cross and round tower 99 feet high, are close at hand.
+
+Text:
+
+The church contains tombs of the Marquis of Ileadfort's family, whose castle, with an old cross and round tower 99 feet high, are close at hand.
+
+----
+
+Uuid: ilL9lijuE9sj4eZM

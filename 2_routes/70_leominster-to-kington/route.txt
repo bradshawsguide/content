@@ -1,25 +1,43 @@
-section: 2
+Title: Leominster to Kington
+
 ----
-title: Leominster to Kington
+
+Section: 2
+
 ----
-subtitle: Kington and Leominster Branch
+
+Subtitle: Kington and Leominster Branch
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - leominster
 - kingsland
 - pembridge
 - titley
 - kington
+
 ----
-links:
-- (wikipedia: Leominster_and_Kington_Railway)
+
+Links: - (wikipedia: Leominster_and_Kington_Railway)
+
 ----
-text: The first station is [Kingsland](/stations/kingsland), 2 miles from which is Mortimer's Cross, the scene of the last severe conflict, which settled Edward IV. on the throne of England. *Yatton Court* near.
+
+Text:
+
+The first station is [Kingsland](/stations/kingsland), 2 miles from which is Mortimer's Cross, the scene of the last severe conflict, which settled Edward IV. on the throne of England. *Yatton Court* near.
 
 (place: england/herefordshire/pembridge)
 
 Proceeding by the river Arrow, we pass [Titley](/stations/titley) Station (near which is *Eywood Park*, and a fine entrenchment, of an oval form, at *Wapley*), and arrive at
 
 (place: england/herefordshire/kington)
+
+----
+
+Uuid: 5QbOpKy4vgJsT7rZ

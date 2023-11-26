@@ -1,15 +1,33 @@
-section: 3
+Title: Ribchester
+
 ----
-title: Ribchester
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,357.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Blackburn, 5 miles.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 2 miles.
 - A telegraph station.
+
 ----
-text: "This is the Roman *Colcium*, where the 20th legion were stationed, and a bronze helmet, mask, pateræ, inscriptions, coins, anchors, and a vessel's hull, were found in 1796, so that the sea must have come up to this place in ancient times. Near the camp is *St. Wilfred's* Church, which had formerly two chantreys."—Sharp's <cite>British Gazetteer</cite>.
+
+Text:
+
+"This is the Roman *Colcium*, where the 20th legion were stationed, and a bronze helmet, mask, pateræ, inscriptions, coins, anchors, and a vessel's hull, were found in 1796, so that the sea must have come up to this place in ancient times. Near the camp is *St. Wilfred's* Church, which had formerly two chantreys."—Sharp's <cite>British Gazetteer</cite>.
+
+----
+
+Uuid: djhLjxu1GMG6cx38

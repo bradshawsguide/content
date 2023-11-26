@@ -1,18 +1,37 @@
-section: 2
+Title: Bandon
+
 ----
-title: Bandon
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: French's.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: May 6th and 25th, Holy Thursday, October 29th, November 8th, first Wednesday in every month, except May and November.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This place has a population of about 9,303, employed in the camlet stuff, linens, leather, flour, beer, and whisky trades.
+
+Desc: This place has a population of about 9,303, employed in the camlet stuff, linens, leather, flour, beer, and whisky trades.
+
 ----
-text: This place has a population of about 9,303, employed in the camlet stuff, linens, leather, flour, beer, and whisky trades, who return one member, and contains a grammar school, founded by the great Earl of Cork. It is celebrated for its salmon fisheries. Sir R. Cox and Dr. Brady, the psalmist, were natives.
+
+Text:
+
+This place has a population of about 9,303, employed in the camlet stuff, linens, leather, flour, beer, and whisky trades, who return one member, and contains a grammar school, founded by the great Earl of Cork. It is celebrated for its salmon fisheries. Sir R. Cox and Dr. Brady, the psalmist, were natives.
+
+----
+
+Uuid: MYfXNhMgv0t3k1sQ

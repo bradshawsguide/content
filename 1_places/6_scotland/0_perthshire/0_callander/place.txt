@@ -1,12 +1,27 @@
-section: 3
+Title: Callander
+
 ----
-title: Callander
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: The Dreadnought.
+
 ----
-notes:
-- Telegraph station at Bridge of Allan.
+
+Notes: Telegraph station at Bridge of Allan.
+
 ----
-text: This place is perhaps mostly noted as being the centre of a most beautiful and highly picturesque district. It is the station for the Trossachs and Loch Katrine, and of course vid Inverstiaid to Loch Lomond and the western Highlands. There are several communications daily during the season by Coach, between this, the Trossachs, and Loch Katrine.
+
+Text:
+
+This place is perhaps mostly noted as being the centre of a most beautiful and highly picturesque district. It is the station for the Trossachs and Loch Katrine, and of course vid Inverstiaid to Loch Lomond and the western Highlands. There are several communications daily during the season by Coach, between this, the Trossachs, and Loch Katrine.
+
+----
+
+Uuid: UYkTs0IVJmEPZ80u

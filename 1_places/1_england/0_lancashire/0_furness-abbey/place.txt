@@ -1,12 +1,27 @@
-section: 3
+Title: Furness Abbey
+
 ----
-title: Furness Abbey
+
+Section: 3
+
 ----
-info:
-- term: Monet Order Office
+
+Info:
+
+-
+  term: Monet Order Office
   desc: at Dalton, 2 miles.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This abbey, beautifully placed in the wooded glen of Beckunsgill, or Nightshade Vale, was founded by Stephen, 1127. The remains are part of a Norman church, chapter-house, hall, cloisters, school-gate lodge, mills, granaries, watch-tower, with a most extensive and superb view of the adjacent country. Iron is now forged in this vicinity, where the stag, wolf, and wild boar were formerly hunted. In the neighbourhood is *Gleaston Castle*.
+
+Text:
+
+This abbey, beautifully placed in the wooded glen of Beckunsgill, or Nightshade Vale, was founded by Stephen, 1127. The remains are part of a Norman church, chapter-house, hall, cloisters, school-gate lodge, mills, granaries, watch-tower, with a most extensive and superb view of the adjacent country. Iron is now forged in this vicinity, where the stag, wolf, and wild boar were formerly hunted. In the neighbourhood is *Gleaston Castle*.
+
+----
+
+Uuid: opkNcqIKg9LDujAQ

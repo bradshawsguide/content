@@ -1,12 +1,17 @@
-section: 2
+Title: Dublin to Galway
+
 ----
-title: Dublin to Mullingar, Athlone, and Galway
+
+Section: 2
+
 ----
-title: Dublin to Galway
+
+Company: companies/midland-great-western
+
 ----
-company: companies/midland-great-western
-----
-stops:
+
+Stops:
+
 - dublin
 - blanchardstown
 - clonsilla
@@ -26,11 +31,16 @@ stops:
 - athenry
 - oranmore
 - galway
+
 ----
-links:
-- (wikipedia: Dublin–Westport/Galway_railway_line)
+
+Links: - (wikipedia: Dublin–Westport/Galway_railway_line)
+
 ----
-text: Leaving Dublin, we pass [Blanchardstown](/stations/blanchardstown), and [Clonsilla](/stations/clonsilla), close to the latter ot which are *Clonsilla House*, the seat of R. French, Esq., and *Woodlands* (Col. T. White)
+
+Text:
+
+Leaving Dublin, we pass [Blanchardstown](/stations/blanchardstown), and [Clonsilla](/stations/clonsilla), close to the latter ot which are *Clonsilla House*, the seat of R. French, Esq., and *Woodlands* (Col. T. White)
 
 The Dublin and Meath railway runs out at this station, and unites itself with the Kells section of the Dublin and Drogheda line at Navan.
 
@@ -76,3 +86,7 @@ We then reach [Ballinasloe](/stations/ballinasloe), which is on the borders of t
 [Oranmore](/stations/oranmore).--Here are the ruins of *Oranmore Castle*, built by the Earls of Clanricarde, on the site of which is Gran Castle, the seat of W. Blake, Esq., near the shallow and rocky bay of Oramnore. *Wallscourt*, Lord Wallscourt, and the round tower of *Murrough*, about 40 feet high, are close at hand.
 
 (place: ireland/county-galway/galway)
+
+----
+
+Uuid: TEri3rUaVqulN8Jq

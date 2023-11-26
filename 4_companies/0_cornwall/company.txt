@@ -1,6 +1,13 @@
-section: 2
+Title: Cornwall Railway
+
 ----
-title: Cornwall Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Cornwall_Railway)
+
+Links: - (wikipedia: Cornwall_Railway)
+
+----
+
+Uuid: sHgBF1oHeKJ4vrq2

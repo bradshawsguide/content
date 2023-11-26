@@ -1,13 +1,30 @@
-section: 1
+Title: Etchingham
+
 ----
-title: Etchingham
+
+Section: 1
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Wadhurst.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1 mile.
 - A telegraph station.
+
 ----
-text: The church at Etchingham is a fine old edifice, reputed to be one of the best specimens of Norman architecture in the country.
+
+Text:
+
+The church at Etchingham is a fine old edifice, reputed to be one of the best specimens of Norman architecture in the country.
+
+----
+
+Uuid: W1xVXI4CtGqM12Zb

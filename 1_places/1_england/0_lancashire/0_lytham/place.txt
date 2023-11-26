@@ -1,16 +1,31 @@
-section: 3
+Title: Lytham
+
 ----
-title: Lytham
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Clifton Arms.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a small port and watering-place, situated at the mouth of the Ribble. It has a population of 2,556 engaged in the fisheries. There is a good *Grammar School*.
+
+Text:
+
+This is a small port and watering-place, situated at the mouth of the Ribble. It has a population of 2,556 engaged in the fisheries. There is a good *Grammar School*.
 
 The attractions of Lytham have, of late, been very much increased by the erection of a Pier 900 feet long, by about 20 feet broad. It is supported by cylindrical iron pillars, arranged in clusters, about 50 feet apart, the roadway of wood asphalted. It has two waiting rooms, one at the pierhead, and the other at the entrance which is protected by two octagonal gateways, an inclosed area of about 150 feet in the front of which, forms an elegant asphalted approach. Was opened to the public, April 17th, 1865.
 
 In the vicinity is *Lytham Hall*, the seat of T. Clifton, Esq., near to which are the ruins of a Benedictine Priory founded by Roger Filz Roger, in Richard I.s time.
+
+----
+
+Uuid: mIiGNDAOYDM7uAk5

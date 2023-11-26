@@ -1,14 +1,24 @@
-section: 2
+Title: Hereford to Shrewsbury
+
 ----
-title: Hereford to Shrewsbury
+
+Section: 2
+
 ----
-subtitle: Shrewsbury and Hereford Railway
+
+Subtitle: Shrewsbury and Hereford Railway
+
 ----
-company:
+
+Company:
+
 - companies/great-western
 - companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - hereford
 - moreton-on-lugg
 - dinmore
@@ -26,11 +36,16 @@ stops:
 - dorrington
 - condover
 - shrewsbury
+
 ----
-links:
-- (wikipedia: Shrewsbury_and_Hereford_Railway)
+
+Links: - (wikipedia: Shrewsbury_and_Hereford_Railway)
+
 ----
-text: (place: england/herefordshire/hereford)
+
+Text:
+
+(place: england/herefordshire/hereford)
 
 (place: england/herefordshire/moreton-on-lugg)
 
@@ -75,3 +90,7 @@ Leaving Wooferton, and passing along, with the river Teme on our right, we arriv
 (place: england/shropshire/condover)
 
 (place: england/shropshire/shrewsbury)
+
+----
+
+Uuid: BXwGjindvWau23rK

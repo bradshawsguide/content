@@ -1,10 +1,23 @@
-﻿section: 1
+Title: Lymington
+
 ----
-title: Lymington
+
+Section: 1
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: A town prettily situated on the right bank of the river Lymington. Its maritime operations are chiefly confined to the Isle of Wight, with which it has frequent communication.
+
+Desc: A town prettily situated on the right bank of the river Lymington. Its maritime operations are chiefly confined to the Isle of Wight, with which it has frequent communication.
+
 ----
-text: A town prettily situated on the right bank of the river Lymington. Its maritime operations are chiefly confined to the Isle of Wight, with which it has frequent communication. Salt is extensively manufactured in the neighbourhood. The parish church, dedicated to Thomas a Becket, has many striking monuments.
+
+Text:
+
+A town prettily situated on the right bank of the river Lymington. Its maritime operations are chiefly confined to the Isle of Wight, with which it has frequent communication. Salt is extensively manufactured in the neighbourhood. The parish church, dedicated to Thomas a Becket, has many striking monuments.
+
+----
+
+Uuid: SeeKYiV1HTiHhqax

@@ -1,24 +1,42 @@
-section: 3
+Title: Wigan
+
 ----
-title: Wigan
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Clarence; Victoria; Royal.
-- term: Market Days
+-
+  term: Market Days
   desc: Mondays and Fridays.
-- term: Fairs
+-
+  term: Fairs
   desc: Holy Thursday, June 27th, October 28th.
-- term: Bankers
+-
+  term: Bankers
   desc: Manchester and Liverpool District Banking Co.; Woodcock and Sons.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: A great cotton town in Lancashire, and parliamentary borough (two members), near tin head of the river Douglas. Population, 37,658. Contains stone and coal in great abundance. The town is well built on the whole, but straggling. Some parts are ancient; the newest houses are on the east side. The large church of All Saints, with its tower, is older than Edward Ill's time. The greater portion of it was rebuilt about 1853. It contains monuments of the Bradshaighs and other lords of the manor. It is a rectory, the value of which exceeds £4,000 a-year, the rector being lord of the manor. The *Town Hall*, near it, was rebuilt in 1720. There are about twenty large factories, employing about 10,000 hands. Bishop Woolton and Dr Leyland were natives.
+
+Text:
+
+A great cotton town in Lancashire, and parliamentary borough (two members), near tin head of the river Douglas. Population, 37,658. Contains stone and coal in great abundance. The town is well built on the whole, but straggling. Some parts are ancient; the newest houses are on the east side. The large church of All Saints, with its tower, is older than Edward Ill's time. The greater portion of it was rebuilt about 1853. It contains monuments of the Bradshaighs and other lords of the manor. It is a rectory, the value of which exceeds £4,000 a-year, the rector being lord of the manor. The *Town Hall*, near it, was rebuilt in 1720. There are about twenty large factories, employing about 10,000 hands. Bishop Woolton and Dr Leyland were natives.
 
 Much cannel coal is found near Wigan. It is a beautiful jetty black which takes a polish, and is capable of being worked into blocks for building, as well as for ornaments. In digging for coal, some years back, a sulphur spring was discovered near Scholes Bridge, over which a pump-room, &c., were built, and the place styled New Harrogate, but it is now disused.
 
 Wigan, a little while ago, could boast of having the tallest chimney in England. It was exactly 400 ft. high, and took four years to build, being designed for the chemical works; but it fell down. Another, only 3 ft. lower, built for Muspratt's works at Newton, was blown down with gunpowder in 1853. There is a *Grammar School* in Millgate. In Wigan Lane, the northern outlet of the town, there stands a pillar to the memory of Sir T. Tyldesley, who fell in the battle of 25th August, 1651, when the Earl of Derby with 600 horse was defeated by Col. Lilburne. The Earl was beheaded at Bolton six weeks afterwards. He had sustained two defeats in this town in 1643, so that Wigan was unfortunate. Cronwell's Ditch, a cut of the Douglas, on the township border, commemorates a visit paid by him when in pursuit of the Duke of Hamilton in 1648.
 
 Part of a Roman road may be traced towards Standish; it is straight as an arrow for 1½ mile.
+
+----
+
+Uuid: 0QHW13hKSMCjF7Ny

@@ -1,5 +1,15 @@
-section: 3
+Title: Grantown
+
 ----
-title: Grantown
+
+Section: 3
+
 ----
-text: A place of some importance, on the Spey, which  derives its name from the family of the Grants,  who established some of its principal institutions in  the middle of the last century.
+
+Text:
+
+A place of some importance, on the Spey, which  derives its name from the family of the Grants,  who established some of its principal institutions in  the middle of the last century.
+
+----
+
+Uuid: 8UlukNDB5tEkeaLD

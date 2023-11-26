@@ -1,21 +1,37 @@
-section: 2
+Title: Frome to Wells
+
 ----
-title: Frome to Wells
+
+Section: 2
+
 ----
-company: companies/east-somerset
+
+Company: companies/east-somerset
+
 ----
-stops:
+
+Stops:
+
 - frome
 - wanstrow
 - cranmore
 - shepton-mallet
 - wells-east-somerset
+
 ----
-links:
-- (wikipedia: East_Somerset_Railway)
+
+Links: - (wikipedia: East_Somerset_Railway)
+
 ----
-text: This line runs, *via* the stations of [Wanstrow](/stations/wanstrow) and [Cranmore](/stations/cranmore), to
+
+Text:
+
+This line runs, *via* the stations of [Wanstrow](/stations/wanstrow) and [Cranmore](/stations/cranmore), to
 
 (place: england/somerset/shepton-mallet)
 
 (place: england/somerset/wells)
+
+----
+
+Uuid: 8Ixm8080EqddQidm

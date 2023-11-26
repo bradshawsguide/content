@@ -1,15 +1,33 @@
-section: 3
+Title: Galston
+
 ----
-title: Galston
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 5,254.
-- term: Hotel
+-
+  term: Hotel
   desc: Loudon Arms.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 2½ miles.
 - Telegraph station at Hurlford 3¾ miles.
+
 ----
-text: Here Bruce defeated the Earl of Pembroke. Close at hand is *Loudon Castle*, seat of the Marquis of Hastings, *Burr Castle*, at which are many cairns, and an elm 24 feet in girth, and *Wallace Hill*, the retreat of that gallant hero, and where he defeated Fenwick.
+
+Text:
+
+Here Bruce defeated the Earl of Pembroke. Close at hand is *Loudon Castle*, seat of the Marquis of Hastings, *Burr Castle*, at which are many cairns, and an elm 24 feet in girth, and *Wallace Hill*, the retreat of that gallant hero, and where he defeated Fenwick.
+
+----
+
+Uuid: wTm09i3iZM2da6DK

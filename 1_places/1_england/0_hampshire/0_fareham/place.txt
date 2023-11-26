@@ -1,18 +1,36 @@
-﻿section: 1
+Title: Fareham
+
 ----
-title: Fareham
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 4,O11.
-- term: Hotel
+-
+  term: Hotel
   desc: Red Lion.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
-- term: Fare
+-
+  term: Fare
   desc: June 29th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: The trade of this place consists of coal, corn, canvas, and ropes. Much resorted to in the sea-bathing season.
+
+Text:
+
+The trade of this place consists of coal, corn, canvas, and ropes. Much resorted to in the sea-bathing season.
+
+----
+
+Uuid: JXfjidh8Tf8zWVNc

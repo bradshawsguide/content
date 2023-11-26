@@ -1,14 +1,27 @@
-section: 3
+Title: Pinner
+
 ----
-title: Pinner
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 1,849.
-- term: Distance from station
+-
+  term: Distance from station
   desc: 1 mile.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Harrow.
+
 ----
-notes:
-- Telegraph station at Harrow, 2 miles.
+
+Notes: Telegraph station at Harrow, 2 miles.
+
+----
+
+Uuid: iPIwdt4Il7fAAIyX

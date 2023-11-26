@@ -1,16 +1,34 @@
-section: 3
+Title: Oldbury
+
 ----
-title: Oldbury
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 15,615
-- term: Hotel
+-
+  term: Hotel
   desc: Ship.
+
 ----
-notes:
-- Telegraph station at Spon Lane, ½ mile.
+
+Notes: Telegraph station at Spon Lane, ½ mile.
+
 ----
-desc: In the vicinity is an old camp.
+
+Desc: In the vicinity is an old camp.
+
 ----
-text: In the vicinity is an old camp.
+
+Text:
+
+In the vicinity is an old camp.
+
+----
+
+Uuid: 6rTkc8hakTXNR2KZ

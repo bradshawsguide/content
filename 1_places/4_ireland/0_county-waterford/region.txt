@@ -1,3 +1,11 @@
-title: County Waterford
+Title: County Waterford
+
 ----
-text: This county is in the province of Munster, and returns two members. It is bounded on the north by the river Suir, on the west by the county of Cork, on the east by the harbour of Waterford, and on the south by the Atlantic Ocean. The eastern portion of the county is low and fertile.
+
+Text:
+
+This county is in the province of Munster, and returns two members. It is bounded on the north by the river Suir, on the west by the county of Cork, on the east by the harbour of Waterford, and on the south by the Atlantic Ocean. The eastern portion of the county is low and fertile.
+
+----
+
+Uuid: K33oNW3uRVnFT0fM

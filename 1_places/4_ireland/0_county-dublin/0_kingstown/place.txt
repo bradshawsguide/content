@@ -1,18 +1,34 @@
-section: 2
+Title: Kingstown
+
 ----
-title: Kingstown
+
+Section: 2
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Rathbone's.
-- term: Rates of Porterage
+-
+  term: Rates of Porterage
   desc: 1s. to 1s. 6d. for a quantity of luggage; 6d. for a portmanteau and hat-case.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Regatta
+-
+  term: Regatta
   desc: In August.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: A telegraph station.
+
+Desc: A telegraph station.
+
+----
+
+Uuid: baRCGw99ePaFvpDi

@@ -1,16 +1,33 @@
-section: 1
+Title: Hailsham
+
 ----
-title: Hailsham
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Turmunus, George, and Crown.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday (cattle).
-- term: Fairs
+-
+  term: Fairs
   desc: April 6th and June 3rd.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Hailsham, three miles from the junction, is a quiet little market town, situated on a gentle declivity. It has the remains of a priory, and the pinnacled church of Edward III's time is rather handsome.
+
+Text:
+
+Hailsham, three miles from the junction, is a quiet little market town, situated on a gentle declivity. It has the remains of a priory, and the pinnacled church of Edward III's time is rather handsome.
+
+----
+
+Uuid: Th3rx50Ot28VVqf9

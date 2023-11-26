@@ -1,8 +1,19 @@
-section: 2
+Title: Larne
+
 ----
-title: Larne
+
+Section: 2
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Larne has a Castle; Edward Bruce landed here in 1315. Much lime is sent from thence to Scotland. Agnew Mountain, 1,560 feet high, lies to the left.
+
+Text:
+
+Larne has a Castle; Edward Bruce landed here in 1315. Much lime is sent from thence to Scotland. Agnew Mountain, 1,560 feet high, lies to the left.
+
+----
+
+Uuid: ktCv5H7DBQJo2n2o

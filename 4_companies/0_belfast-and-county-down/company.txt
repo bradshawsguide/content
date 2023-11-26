@@ -1,6 +1,13 @@
-section: 2
+Title: Belfast and County Down Railway
+
 ----
-title: Belfast and County Down Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: Belfast_and_County_Down_Railway)
+
+Links: - (wikipedia: Belfast_and_County_Down_Railway)
+
+----
+
+Uuid: NmriNi6BuL3eM0vg

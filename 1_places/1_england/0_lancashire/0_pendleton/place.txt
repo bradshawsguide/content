@@ -1,8 +1,19 @@
-section: 3
+Title: Pendleton
+
 ----
-title: Pendleton
+
+Section: 3
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This is a populous place, and contains 20,900 inhabitants, employed in the cotton trade.
+
+Text:
+
+This is a populous place, and contains 20,900 inhabitants, employed in the cotton trade.
+
+----
+
+Uuid: 7WBm9ZwiW7DD3D1Y

@@ -1,9 +1,22 @@
-section: 3
+Title: Kirkby
+
 ----
-title: Kirkby
+
+Section: 3
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 1¼ mile.
 - Telegraph station at Broughton.
+
 ----
-text: This place has a population of 1,666, employed in the slate quarries. The church contains some handsome, monuments, and stained glass widows. In the vicinity is Kirkby Hall.
+
+Text:
+
+This place has a population of 1,666, employed in the slate quarries. The church contains some handsome, monuments, and stained glass widows. In the vicinity is Kirkby Hall.
+
+----
+
+Uuid: 5wTNZMXJPRV1wIO0

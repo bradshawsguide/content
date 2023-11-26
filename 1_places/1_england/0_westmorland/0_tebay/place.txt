@@ -1,12 +1,27 @@
-section: 3
+Title: Tebay
+
 ----
-title: Tebay
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: The Salutation; Commercial; White Lion.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Three miles to the north of Tebay station, close  to Tebay Fell, lies the market town of *Orton*, under Orton Scar, the neighbourhood of which is rich  in mineral treasures. The vicarage of All Saints was held by Burn of Orton Hall, author of the "<cite>Justice of Peace</cite>." Remains of Castle Folds and  other camps, tumuli, &c, are to be seen. Here is a market on Friday, and Fairs, May 3rd, Friday before Whit-Sunday, 2nd Friday after Michaelmas (for cattle). Close at hand is *Langdale*, of which place Bishop Barlow was a native. At *Black Dub*, on the Lyvennet, is an obelisk, in memory of Charles II. having reviewed his troops on that spot on their return from Scotland in 1651.
+
+Text:
+
+Three miles to the north of Tebay station, close  to Tebay Fell, lies the market town of *Orton*, under Orton Scar, the neighbourhood of which is rich  in mineral treasures. The vicarage of All Saints was held by Burn of Orton Hall, author of the "<cite>Justice of Peace</cite>." Remains of Castle Folds and  other camps, tumuli, &c, are to be seen. Here is a market on Friday, and Fairs, May 3rd, Friday before Whit-Sunday, 2nd Friday after Michaelmas (for cattle). Close at hand is *Langdale*, of which place Bishop Barlow was a native. At *Black Dub*, on the Lyvennet, is an obelisk, in memory of Charles II. having reviewed his troops on that spot on their return from Scotland in 1651.
+
+----
+
+Uuid: lbZx3ETJtR0tcWWK

@@ -1,12 +1,21 @@
-section: 2
+Title: Shrewsbury to Welshpool
+
 ----
-title: Shrewsbury to Welshpool
+
+Section: 2
+
 ----
-subtitle: Shrewsbury and Welshpool Railway
+
+Subtitle: Shrewsbury and Welshpool Railway
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - shrewsbury
 - [hanwood, plealey-road, pontesbury, minsterley]
 - yockleton
@@ -14,10 +23,19 @@ stops:
 - middletown
 - buttington
 - welshpool
+
 ----
-links:
-- (wikipedia: Shrewsbury_and_Welshpool_Railway)
+
+Links: - (wikipedia: Shrewsbury_and_Welshpool_Railway)
+
 ----
-text: This line forms a direct continuation of the railway from Birmingham to Shrewsbury. On arriving at [Hanwood](/stations/hanwood), a distance of five miles, a short branch turns off, running *via* [Plealey Road](/stations/plealey-road) and [Pontesbury](/stations/pontesbury) to the small chapelry of [Minsterley](/stations/minsterley), with its 890 inhabitants. It then continues its course through the stations of [Yockleton](/stations/yockleton), [Westbury](/stations/westbury), [Middletown](/stations/middletown), and [Buttington](/stations/buttington) to
+
+Text:
+
+This line forms a direct continuation of the railway from Birmingham to Shrewsbury. On arriving at [Hanwood](/stations/hanwood), a distance of five miles, a short branch turns off, running *via* [Plealey Road](/stations/plealey-road) and [Pontesbury](/stations/pontesbury) to the small chapelry of [Minsterley](/stations/minsterley), with its 890 inhabitants. It then continues its course through the stations of [Yockleton](/stations/yockleton), [Westbury](/stations/westbury), [Middletown](/stations/middletown), and [Buttington](/stations/buttington) to
 
 (place: wales/montgomeryshire/welshpool)
+
+----
+
+Uuid: OKngT85VpHJU0yF9

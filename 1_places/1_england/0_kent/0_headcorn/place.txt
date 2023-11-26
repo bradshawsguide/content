@@ -1,19 +1,39 @@
-section: 1
+Title: Headcorn
+
 ----
-title: Headcorn
+
+Section: 1
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: The George, King's Anns.
-- term: Market Day
+-
+  term: Market Day
   desc: Wednesday.
-- term: Fair
+-
+  term: Fair
   desc: June 12th.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Staplehurst.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
 ----
-text: This village possesses no feature of particular or general interest, beyond the splendid old oak tree in the churchyard. The churches of Chart Sutton, Sutton Valence, and Sutton Castle, are worth visiting.
+
+Text:
+
+This village possesses no feature of particular or general interest, beyond the splendid old oak tree in the churchyard. The churches of Chart Sutton, Sutton Valence, and Sutton Castle, are worth visiting.
+
+----
+
+Uuid: NCCZlCoKHmOnuZAE

@@ -1,17 +1,29 @@
-section: 1
+Title: Paddock Wood Junction
+
 ----
-title: Paddock Wood Junction
+
+Section: 1
+
 ----
-title_short: Paddock Wood Jct.
+
+Title-short: Paddock Wood Jct.
+
 ----
-info:
-- term: Money Order Office
+
+Info:
+
+-
+  term: Money Order Office
   desc: at Tunbridge
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-distances:
+
+Distances:
+
 - location: Bowling Green
   miles: "1¾"
 - location: Brenchley
@@ -38,7 +50,17 @@ distances:
   miles: "1¾"
 - location: Yaldiug
   miles: "3½"
+
 ----
-desc: A telegraph station.
+
+Desc: A telegraph station.
+
 ----
-text: (distances:)
+
+Text:
+
+(distances:)
+
+----
+
+Uuid: 0CitI6FdQqHNN3At

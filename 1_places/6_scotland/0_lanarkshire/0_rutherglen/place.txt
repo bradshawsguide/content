@@ -1,10 +1,21 @@
-section: 3
+Title: Rutherglen
+
 ----
-title: Rutherglen
+
+Section: 3
+
 ----
-notes:
-- Telegraph station at Glasgow, 2½ miles.
+
+Notes: Telegraph station at Glasgow, 2½ miles.
+
 ----
-text: Here fairs are held on the first Friday after March 11th; first Friday after 4th May; first Tuesday after. June 4th; first Friday after 25th July and August; Wednesday before first Friday in November; and Friday after 25th December.
+
+Text:
+
+Here fairs are held on the first Friday after March 11th; first Friday after 4th May; first Tuesday after. June 4th; first Friday after 25th July and August; Wednesday before first Friday in November; and Friday after 25th December.
 
 *Rutherglen Church* is famous on account of two great national transactions; it was here that Edward I. signed the treaty in 1297, and Monteith covenanted to betray Wallace.
+
+----
+
+Uuid: XZ1mK7MLhcsiMT6n

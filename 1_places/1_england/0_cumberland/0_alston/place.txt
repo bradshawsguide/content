@@ -1,16 +1,33 @@
-section: 3
+Title: Alston
+
 ----
-title: Alston
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Lowbyer, Golden Lion.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: Last Tuesday in May, Friday before last day in September, and first Thursday in November.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: (smcp: Alston) or Aldstone. -- This market-town, in Cumberland, with a population of 2,918, engaged in the large lead mines, which also produce silver and copper, is situated on a well-wooded hill in a region of moorland or "hazel grip," as it is called, upon which vast numbers of sheep are pastured. Beneath are the rich lead mines, worked by means of a subterranean canal, which runs through the limestone to the principal shaft at Penthead. They are leased from Greenwich Hospital, to which institution this valuable property was granted by the Crown, upon its forfeiture by the Earl of Derwentwater, who rose for the Pretender, in 1715. The town stands on the south Tyne, under Middle Fell, its appearance being much heightened by the plantations on the hills around. Valuable crystals, spars, and mineral specimens may be procured in the caves. It also contains shot, thread, and woollen manufactories.
+
+Text:
+
+(smcp: Alston) or Aldstone. -- This market-town, in Cumberland, with a population of 2,918, engaged in the large lead mines, which also produce silver and copper, is situated on a well-wooded hill in a region of moorland or "hazel grip," as it is called, upon which vast numbers of sheep are pastured. Beneath are the rich lead mines, worked by means of a subterranean canal, which runs through the limestone to the principal shaft at Penthead. They are leased from Greenwich Hospital, to which institution this valuable property was granted by the Crown, upon its forfeiture by the Earl of Derwentwater, who rose for the Pretender, in 1715. The town stands on the south Tyne, under Middle Fell, its appearance being much heightened by the plantations on the hills around. Valuable crystals, spars, and mineral specimens may be procured in the caves. It also contains shot, thread, and woollen manufactories.
+
+----
+
+Uuid: U60NlAyrNQqCho5Q

@@ -1,14 +1,25 @@
-section: 2
+Title: Oxford to Worcester and Wolverhampton
+
 ----
-title: Oxford to Worcester and Wolverhampton
+
+Section: 2
+
 ----
-title_short: Oxford to Wolverhampton
+
+Title-short: Oxford to Wolverhampton
+
 ----
-subtitle: West Midland Section
+
+Subtitle: West Midland Section
+
 ----
-company: companies/great-western
+
+Company: companies/great-western
+
 ----
-stops:
+
+Stops:
+
 - oxford
 - handborough
 - charlbury
@@ -42,11 +53,16 @@ stops:
 - bilston-west
 - priestfield
 - wolverhampton-low-level
+
 ----
-links:
-- (wikipedia: Oxford,_Worcester_and_Wolverhampton_Railway)
+
+Links: - (wikipedia: Oxford,_Worcester_and_Wolverhampton_Railway)
+
 ----
-text: ## Oxford to Chipping Norton Junction
+
+Text:
+
+## Oxford to Chipping Norton Junction
 
 (place: england/oxfordshire/handborough)
 
@@ -134,3 +150,7 @@ Another branch, belonging to the Midland Company, here interrupts our course.
 We again retrace our route to Dudley, and in resuming our journey north-west, pass the stations of [Tipton](/stations/tipton), [Prince's End](/stations/princes-end), [Daisy Bank](/stations/daisy-bank), [Bilston](/stations/bilston-west), and [Priestfeild](/stations/priestfield) (in a distance of five miles only), arriving at
 
 (place: england/staffordshire/wolverhampton)
+
+----
+
+Uuid: RIV9YtN4woTmLTlM

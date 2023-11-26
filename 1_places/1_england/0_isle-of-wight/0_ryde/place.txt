@@ -1,32 +1,53 @@
-section: 1
+Title: Ryde
+
 ----
-title: Ryde
+
+Section: 1
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 9,269.
-- term: Hotels
+-
+  term: Hotels
   desc: Barnes' Royal Pier; Sivier's Hotel.
-- term: Coaches
+-
+  term: Coaches
   desc: to the Eastern Route, daily.
-- term: Steamers
+-
+  term: Steamers
   desc: to and from Cowes, Portsmouth, and Southampton several times daily, from 7 a.m. to 6 p.m.
-- term: Excursion Steamers
+-
+  term: Excursion Steamers
   desc: round the Island in the summer, on Mondays and Thursdays, at 12 noon, fare, 3s.
-- term: Market Days
+-
+  term: Market Days
   desc: Tuesday and Friday.
-- term: Fair
+-
+  term: Fair
   desc: July 5th.
-- term: Regatta
+-
+  term: Regatta
   desc: in August.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station at Stokes Bay, 3 miles.
 - A telegraph station.
+
 ----
-desc: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) from Portsmouth, across Spithead.
+
+Desc: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) from Portsmouth, across Spithead.
+
 ----
-distances:
+
+Distances:
+
 - location: Apley
   miles: "¾"
 - location: Bamsley
@@ -77,9 +98,17 @@ distances:
   miles: "3½"
 - location: White Mark
   miles: "2½"
+
 ----
-text: Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) from Portsmouth, across Spithead. Long timber pier of 2,000 ft. (or two-fifths of a mile), commanding a fine prospect and a healthy blow; for which the charge is 2d. per head, and 1d. per package! New Victoria Yacht Club House, built 1847. Chantrey's bust of Mr. Sanderson, in the Market Place. Holy Trinity Church, modern Gothic, with a spire 146ft high, Baths, hotels, lodgings (with gardens), are numerous, as are the walks and points of view around.
+
+Text:
+
+Ryde is a beautiful bathing place, sloping to the sea, 25 minutes (by steam) from Portsmouth, across Spithead. Long timber pier of 2,000 ft. (or two-fifths of a mile), commanding a fine prospect and a healthy blow; for which the charge is 2d. per head, and 1d. per package! New Victoria Yacht Club House, built 1847. Chantrey's bust of Mr. Sanderson, in the Market Place. Holy Trinity Church, modern Gothic, with a spire 146ft high, Baths, hotels, lodgings (with gardens), are numerous, as are the walks and points of view around.
 
 (distances: title: Distances of Places from Ryde)
 
 **St. John's,** the seat of Sir R. Simeon, Bart.
+
+----
+
+Uuid: BF91I394IDkth2Np

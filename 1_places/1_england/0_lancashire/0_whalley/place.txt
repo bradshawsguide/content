@@ -1,12 +1,27 @@
-section: 3
+Title: Whalley
+
 ----
-title: Whalley
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Swan.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This town (the parish of which is one of the largest in the kingdom, and contains 108,000 acres), has a population of 806, engaged in the cotton trade. It contains *All Saints Church*, which the Earl of Derby occupied in 1643. It was built in 1200, and has old carved pews, stalls, and in the churchyard are three pillar crosses. "Here are remains of a Cistercian Abbey, consisting of the moated site, two gables, part of the choir, cloisters, chapter house, dormitory, kitchen (with two great fireplaces), oratory and abbot's house, which the Asshetons made their seat." Sharp's <cite>British Gazetteer</cite>. The last Abbot, Paslew, was hung in 1039, on a charge of rebellion.
+
+Text:
+
+This town (the parish of which is one of the largest in the kingdom, and contains 108,000 acres), has a population of 806, engaged in the cotton trade. It contains *All Saints Church*, which the Earl of Derby occupied in 1643. It was built in 1200, and has old carved pews, stalls, and in the churchyard are three pillar crosses. "Here are remains of a Cistercian Abbey, consisting of the moated site, two gables, part of the choir, cloisters, chapter house, dormitory, kitchen (with two great fireplaces), oratory and abbot's house, which the Asshetons made their seat." Sharp's <cite>British Gazetteer</cite>. The last Abbot, Paslew, was hung in 1039, on a charge of rebellion.
+
+----
+
+Uuid: 8iMFwuAs4Lgtm50c

@@ -1,18 +1,36 @@
-section: 3
+Title: Inverury
+
 ----
-title: Inverury
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,520.
-- term: Hotel
+-
+  term: Hotel
   desc: Kintore Arms.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: 2nd Tuesday in March, *o.s.*; 2nd Tuesday and Wednesday in April; 2nd Wednesday, *n.s.*, and Tuesday before last Wednesday, *o.s.*; day alter Aikey July fair; 1st Tuesday in September, *o.s.*
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Here Bruce defeated the Comyn. In the vicinity are *Keith Hall*, Earl of Ivintore.
+
+Text:
+
+Here Bruce defeated the Comyn. In the vicinity are *Keith Hall*, Earl of Ivintore.
+
+----
+
+Uuid: t4LB72AZclDlcrFx

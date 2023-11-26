@@ -1,8 +1,19 @@
-section: 2
+Title: Rednal
+
 ----
-title: Rednal
+
+Section: 2
+
 ----
-notes:
-- Telegraph station at Gobowen, 4¾ mile.
+
+Notes: Telegraph station at Gobowen, 4¾ mile.
+
 ----
-text: This station is situated in the parish of West Felton, the church of which is a fine old edifice. *Pradoe* (1 mile), Hon. T. Kenyon.
+
+Text:
+
+This station is situated in the parish of West Felton, the church of which is a fine old edifice. *Pradoe* (1 mile), Hon. T. Kenyon.
+
+----
+
+Uuid: dJRLkl8Ap4b5pcn7

@@ -1,14 +1,29 @@
-section: 3
+Title: Beattock (Moffat)
+
 ----
-title: Beattock (Moffat)
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Beattock.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: About two miles from Beattock, surrounded on every side but one by lofty hills, lies the fashionable village of
+
+Text:
+
+About two miles from Beattock, surrounded on every side but one by lofty hills, lies the fashionable village of
 
 (smcp: Moffat), celebrated for its mineral waters. The environs are remarkably beautiful, and the different villas exceedingly pretty. Moffat has long been famed for its mineral waters (the sulphur Spa discovered in 1633, and the iron springs at Hartfell, in 1730), and visitors will find every accommodation, including *Assembly Rooms, Baths, &c*. Among the fine scenery scattered round Moffat, are *Bell Craig*, and the *Grey Mare's Tail* waterfall, the latter being one of the grandest sights it is possible to conceive. The water is precipitated over a rock three hundred feet high. In the vicinity are *Raehills*, Earl Hopetoun; *Drumcrieff*, formerly Dr. Currie's seat. The *Mole Bill*, with its camps, and *Bell Craig*, which commands an extensive view, and where delicious whey milk can be procured.
+
+----
+
+Uuid: CGa40qVVA3KoiVUa

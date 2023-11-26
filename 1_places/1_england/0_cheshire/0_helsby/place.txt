@@ -1,5 +1,15 @@
-section: 2
+Title: Helsby
+
 ----
-title: Helsby
+
+Section: 2
+
 ----
-text: *Helsby Hill Camp* to our right.
+
+Text:
+
+*Helsby Hill Camp* to our right.
+
+----
+
+Uuid: wAkGgKRPB4V8xkXE

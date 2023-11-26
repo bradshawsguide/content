@@ -1,6 +1,13 @@
-section: 2
+Title: London and North Western Railway
+
 ----
-title: London and North Western Railway
+
+Section: 2
+
 ----
-links:
-- (wikipedia: London_and_North_Western_Railway)
+
+Links: - (wikipedia: London_and_North_Western_Railway)
+
+----
+
+Uuid: QMXP7lCmFZK3y7FM

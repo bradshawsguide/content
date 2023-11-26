@@ -1,19 +1,40 @@
-section: 2
+Title: Pershore
+
 ----
-title: Pershore
+
+Section: 2
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 2,905.
-- term: Hotel
+-
+  term: Hotel
   desc: Angel.
-- term: Market Day
+-
+  term: Market Day
   desc: Tuesday.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, 2 miles.
 - Telegraph station at Evesham, 5½ miles.
+
 ----
-desc: The staple manufacture here is stockings. At this place the nuns of the Abbey House, the only relics of a large monastic establishment, may be seen.
+
+Desc: The staple manufacture here is stockings. At this place the nuns of the Abbey House, the only relics of a large monastic establishment, may be seen.
+
 ----
-text: The staple manufacture here is stockings. At this place the nuns of the Abbey House, the only relics of a large monastic establishment, may be seen. The situation of the town is very beautiful and the surrounding scenery is picturesque, particularly Aylesborough, about a mile from the town.
+
+Text:
+
+The staple manufacture here is stockings. At this place the nuns of the Abbey House, the only relics of a large monastic establishment, may be seen. The situation of the town is very beautiful and the surrounding scenery is picturesque, particularly Aylesborough, about a mile from the town.
+
+----
+
+Uuid: 27CA5JkOSaJs58Et

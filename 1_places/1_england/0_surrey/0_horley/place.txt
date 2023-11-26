@@ -1,13 +1,30 @@
-section: 1
+Title: Horley
+
 ----
-title: Horley
+
+Section: 1
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: King's Head.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¾ mile.
 - A telegraph station.
+
 ----
-text: Horley was once famous for its iron works. It has traces of an old castle. The church is a fine edifice, and contains some handsome monuments.
+
+Text:
+
+Horley was once famous for its iron works. It has traces of an old castle. The church is a fine edifice, and contains some handsome monuments.
+
+----
+
+Uuid: a908CdNzlFVwCMQN

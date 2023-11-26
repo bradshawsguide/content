@@ -1,17 +1,35 @@
-section: 3
+Title: Falkirk
+
 ----
-title: Falkirk
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Red Lion; Royal; Crown.
-- term: Market Day
+-
+  term: Market Day
   desc: Thursday.
-- term: Fairs
+-
+  term: Fairs
   desc: Last Thursday in January; first Thursday in March, April, and November; third Thursday in May; second Thursday in June and July; second Tuesday and third Thursday in August; second Monday in September and October (the largest in the country).
-- term: Money Order Office
+-
+  term: Money Order Office
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This town has a population of 9,830, who return one member, and the county another one, and are employed in the iron, coal, leather and inland trade. It was occupied by the Pretender in 1745, who defeated General Hawley here, and the house at which he took up his quarters is still shown. The church, rebuilt in 1810 (in lieu of the old cruciform edifice built in 1105), contains tombs of Sir John the Gramme, Stewart, who was killed in 1298, and the Monroes who fell in 1745. In the vicinity are *Callander*, seat of W. Forbes, Esq., *Carron Hall*, Col. Dundas. Bannockburn is near at hand. The proverb that applies to this place is, "Ye're like the bairns of Falkirk, ye'll end ere ye mend." In the vicinity of Almond, inscriptions and urns have been found.
+
+Text:
+
+This town has a population of 9,830, who return one member, and the county another one, and are employed in the iron, coal, leather and inland trade. It was occupied by the Pretender in 1745, who defeated General Hawley here, and the house at which he took up his quarters is still shown. The church, rebuilt in 1810 (in lieu of the old cruciform edifice built in 1105), contains tombs of Sir John the Gramme, Stewart, who was killed in 1298, and the Monroes who fell in 1745. In the vicinity are *Callander*, seat of W. Forbes, Esq., *Carron Hall*, Col. Dundas. Bannockburn is near at hand. The proverb that applies to this place is, "Ye're like the bairns of Falkirk, ye'll end ere ye mend." In the vicinity of Almond, inscriptions and urns have been found.
+
+----
+
+Uuid: OyCyQsuwqvCKRMGK

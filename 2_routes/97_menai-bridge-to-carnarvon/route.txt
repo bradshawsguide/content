@@ -1,23 +1,43 @@
-section: 2
+Title: Bangor to Carnarvon and Nantlle
+
 ----
-title: Bangor to Carnarvon and Nantlle
+
+Section: 2
+
 ----
-title_short: Bangor to Carnarvon
+
+Title-short: Bangor to Carnarvon
+
 ----
-subtitle: Bangor and Carnarvon Railway
+
+Subtitle: Bangor and Carnarvon Railway
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - menai-bridge
 - treborth
 - port-dinorwic
 - griffiths-crossing
 - carnarvon
+
 ----
-links:
-- (wikipedia: Bangor_and_Carnarvon_Railway)
+
+Links: - (wikipedia: Bangor_and_Carnarvon_Railway)
+
 ----
-text: The stations on this branch are [Treborth](/stations/treborth), [Port Dinorwic](/stations/port-dinorwic) (here are the slate quarries belonging to T. A. Smith, Esq., where 1,000 men are constantly employed), and [Griffith's Crossing](/stations/griffiths-crossing).
+
+Text:
+
+The stations on this branch are [Treborth](/stations/treborth), [Port Dinorwic](/stations/port-dinorwic) (here are the slate quarries belonging to T. A. Smith, Esq., where 1,000 men are constantly employed), and [Griffith's Crossing](/stations/griffiths-crossing).
 
 (place: wales/carnarvonshire/carnarvon)
+
+----
+
+Uuid: 2vSbedvBWmaJwVnS

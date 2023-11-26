@@ -1,14 +1,31 @@
-section: 2
+Title: Twyford
+
 ----
-title: Twyford
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Station Hotel; King's Arms.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: In the neighbourhood are *Stanlake*. *Shottesbrooke Church*, a beautiful miniature cross, with a tall tower and spire, formerly attached to an ancient college here.
+
+Desc: In the neighbourhood are *Stanlake*. *Shottesbrooke Church*, a beautiful miniature cross, with a tall tower and spire, formerly attached to an ancient college here.
+
 ----
-text: In the neighbourhood are *Stanlake* (1 mile). *Shottesbrooke Church* (2½ miles), a beautiful miniature cross, with a tall tower and spire, formerly attached to an ancient college here.
+
+Text:
+
+In the neighbourhood are *Stanlake* (1 mile). *Shottesbrooke Church* (2½ miles), a beautiful miniature cross, with a tall tower and spire, formerly attached to an ancient college here.
+
+----
+
+Uuid: ioquJeAqZAQIhEVM

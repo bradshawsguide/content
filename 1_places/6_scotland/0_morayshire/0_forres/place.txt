@@ -1,5 +1,15 @@
-section: 3
+Title: Forres
+
 ----
-title: Forres
+
+Section: 3
+
 ----
-text: Here is *Forres Castle*, on the heath where Macbeth met the Weird Sisters, and murdered Banquo; there is also Sweno's Pillar, an ancient carved stone, 20 feet high, commemorating a treaty with the Danes.
+
+Text:
+
+Here is *Forres Castle*, on the heath where Macbeth met the Weird Sisters, and murdered Banquo; there is also Sweno's Pillar, an ancient carved stone, 20 feet high, commemorating a treaty with the Danes.
+
+----
+
+Uuid: HgyNZAfNneouMWo6

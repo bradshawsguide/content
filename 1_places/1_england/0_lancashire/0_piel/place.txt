@@ -1,11 +1,26 @@
-section: 3
+Title: Piel
+
 ----
-title: Piel
+
+Section: 3
+
 ----
-info:
-- term: Steamers
+
+Info:
+
+-
+  term: Steamers
   desc: To Fleetwood, the *Helvellyn* every afternoon (Sundays excepted) during the season on arrival of train from Coniston, Ulverston, Furness Abbey, &c.; to Morecambe, occasionally, during the season.
-- term: Money Order Office
+-
+  term: Money Order Office
   desc: at Dalton, 6 miles
+
 ----
-text: It was here that Simnel and his party landed in 1487, to assert his claim against Henry VII. It contains an old castle, which formerly belonged to the abbots of Furness.
+
+Text:
+
+It was here that Simnel and his party landed in 1487, to assert his claim against Henry VII. It contains an old castle, which formerly belonged to the abbots of Furness.
+
+----
+
+Uuid: N9GdBzliFysV1pjR

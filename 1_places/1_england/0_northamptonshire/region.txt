@@ -1,3 +1,11 @@
-title: Northamptonshire
+Title: Northamptonshire
+
 ----
-text: Has for centuries been proverbial for its beauty, and the number of its resident gentry. It is distinguished from the neighbouring counties by the extensive forests and private woodlands that are scattered over the face of the county, and add so much to the beauty and picturesque effect of its scenery. The ground on the whole rises towards the north and north west, and presents a sort of inclined plane towards the south eastern extremity of the county, where the river Nene traverses nearly through its whole length, which, generally speaking, rises in the high grounds, and descends in a variety of streams, diffusing their beneficial influence with singular effect over the whole county. Northamptonshire may justly boast, and we believe exclusively, that in the important article of water it is completely independent; for of the six rivers which flow through or intersect it, every one originates within its boundaries, and not a single brook, however insignificant, runs into it from any other district. The climate of Northamptonshire is mild, and the air exceedingly pure, healthy, and favourable to vegetation. The soil is various, but on the whole fertile and productive. The county is also intersected by several of the most important canals in the kingdom.
+
+Text:
+
+Has for centuries been proverbial for its beauty, and the number of its resident gentry. It is distinguished from the neighbouring counties by the extensive forests and private woodlands that are scattered over the face of the county, and add so much to the beauty and picturesque effect of its scenery. The ground on the whole rises towards the north and north west, and presents a sort of inclined plane towards the south eastern extremity of the county, where the river Nene traverses nearly through its whole length, which, generally speaking, rises in the high grounds, and descends in a variety of streams, diffusing their beneficial influence with singular effect over the whole county. Northamptonshire may justly boast, and we believe exclusively, that in the important article of water it is completely independent; for of the six rivers which flow through or intersect it, every one originates within its boundaries, and not a single brook, however insignificant, runs into it from any other district. The climate of Northamptonshire is mild, and the air exceedingly pure, healthy, and favourable to vegetation. The soil is various, but on the whole fertile and productive. The county is also intersected by several of the most important canals in the kingdom.
+
+----
+
+Uuid: Jn9lMTzrGhZV0g4C

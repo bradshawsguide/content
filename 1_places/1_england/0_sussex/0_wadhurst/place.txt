@@ -1,13 +1,27 @@
-section: 1
+Title: Wadhurst
+
 ----
-title: Wadhurst
+
+Section: 1
+
 ----
-info:
-- term: Market Day
+
+Info:
+
+-
+  term: Market Day
   desc: Saturday.
-- term: Fairs
+-
+  term: Fairs
   desc: April 29th and November 1st.
+
 ----
-notes:
+
+Notes:
+
 - Distance from station, ¼ mile.
 - A telegraph station.
+
+----
+
+Uuid: GABjjnzsNDhPvLg0

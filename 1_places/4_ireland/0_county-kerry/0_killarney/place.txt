@@ -1,28 +1,46 @@
-section: 2
+Title: Killarney
+
 ----
-title: Killarney
+
+Section: 2
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: The Lake, Coffee's; Royal Victoria, O'Leary's--both on the margin of the Lake; The Railway, by the station; Kenmare Arms; Royal Hibernian.
-- term: Tariff of Cars
+-
+  term: Tariff of Cars
   desc: Viz., one horse car, for two persons, 10d. per mile; for three or four, 1s. per mile. Carriage and pair horses, 1s. 6d. per mile. Ponies, 5s per day.
-- term: Two-Oared Boat
+-
+  term: Two-Oared Boat
   desc: 7b. 6d. per day; four-oared, 15s.; and 6 oared, 21s. per day.
   desc: Car Drivers and Boatmen's hire *included in the above charges*. Guides are 3s. 6d. per day each, and Buglers, 5s.
-- term: Boats
+-
+  term: Boats
   desc: on the lakes, 1s. 6d per hour.
-- term: Market Day
+-
+  term: Market Day
   desc: Saturday.
-- term: Fates
+-
+  term: Fates
   desc: July 6th, August 10th, October 7th and 11th, November 28th, and December 28th.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: The *Lakes of Killarney* are three in number--the Upper, the Tore (or Middle), and the Lower; these, with their islands and other attractive objects, we shall briefly describe.
+
+Desc: The *Lakes of Killarney* are three in number--the Upper, the Tore (or Middle), and the Lower; these, with their islands and other attractive objects, we shall briefly describe.
+
 ----
-text: The traveller who wishes to see the lakes, and be as near to them as possible, should not stay at the village, but take up his residence at one of the hotels near the Lake, not for the sake of avoiding the town but for the convenience of being near the lakes, and within full view of the magnificent mountain scenery. The two Hotels peculiarly adapted for this purpose are The Lake, situated on the south-eastern, and The Royal Victoria, on the northern margin of the Lowrer Lake, and within about ten minutes' drive from the station. The grounds in connection with these hotels are very tastefully laid out, and command views of lake and mountain scenery of the most enchanting character. They extend down to the water's edge, thereby affording every facility to the visitor for early morning bathing purposes. Three and four-oared boats can also be hired at these hotels, fully equipped for any part of the lower and upper Lakes. In tact both the internal and external arrangements of these hotels correspond with the requirements of first-class establishments, to which crowds of tourists from all parts of the world resort during the season. On looking from the windows of these hotels, the stranger will see at a glance that the beauties of the Killarney Lakes have not been exaggerated.
+
+Text:
+
+The traveller who wishes to see the lakes, and be as near to them as possible, should not stay at the village, but take up his residence at one of the hotels near the Lake, not for the sake of avoiding the town but for the convenience of being near the lakes, and within full view of the magnificent mountain scenery. The two Hotels peculiarly adapted for this purpose are The Lake, situated on the south-eastern, and The Royal Victoria, on the northern margin of the Lowrer Lake, and within about ten minutes' drive from the station. The grounds in connection with these hotels are very tastefully laid out, and command views of lake and mountain scenery of the most enchanting character. They extend down to the water's edge, thereby affording every facility to the visitor for early morning bathing purposes. Three and four-oared boats can also be hired at these hotels, fully equipped for any part of the lower and upper Lakes. In tact both the internal and external arrangements of these hotels correspond with the requirements of first-class establishments, to which crowds of tourists from all parts of the world resort during the season. On looking from the windows of these hotels, the stranger will see at a glance that the beauties of the Killarney Lakes have not been exaggerated.
 
 The lake, the surface of which is studded with numerous green and romantic islands, shines like molten gold in the light of a morning sun, hemmed in by the lofty mountains, which rear their majestic crests across the limpid waters. Amongst the most conspicuous of these is the round-topped Mangerton, 2,754 feet high, celebrated for a lake about half way to its summit, called the Devil's Punch Bowl, the ascent to which is strongly recommended to all travellers. The Turk or Tore Mountain, the Purple Mountain, with its separate hills of Tomies and Glena; and the jagged, highly picturesque, and splendid range known as Mac Gillycuddy's Reeks, bound the view, and impress the visitor with a deep sense of their grandeur and beauty. We do not assert that the lake scenery of England and Scotland is inferior to Killarney; but we affirm that Lochs Lomond, Katrine, and Windermere--beautiful as they are--do not possess the various attractions of these comparatively small but most lovely lakes. There is but *one lake* that we have visited which seems to us to be more beautiful in some features, and more sublime in others, than the Lakes of Killarney, and that is Loch Awe, at the foot of the mighty Ben Cruachan--the queen of all lakes for beauty--the monarch of all mountains for sublimity. The Lakes of Killarney are considerably smaller than Loch Awe; and even Mac Gillicuddy's Reeks, in all their vastness, are pigmies to Ben Cruachan; but though on a smaller scale, both lakes and mountains are only second to those wonders of Argyleshire, in the effect they produce upon the mind of the cultivated enthusiastic lover of nature. One great source of the beauty of the Lakes of Killarney is the number of islands upon them. From- the windows of the inn can be seen at one view the promontory or Island of Ross, and the ruins of *Ross Castle*, the seat of the renowned O'Donoghue--the "myth" of these parts--with whose name and fame almost, every inch of ground is connected in some way or other, by history, tradition, legend, or song. In addition to this, covered with magnificent foliage, are Lamb, Heron, Cherry, Rabbit, Innisfallen Islands, O'Donoghue's Prison, and a score of others that become visible one after the other in rowing through the three lakes.
 
@@ -82,3 +100,7 @@ From Kenmare to Glengariff is a distance of seventeen miles. Were it thrice seve
 All that the tongue or pen can do, is to affirm that it is "magnificently beautiful". No words can describe the beauty of some scenes. We can feel but we cannot exactly explain our sensations. We can say no more of Glengariff than that it is both sublime and beautiful and that it seems to us far better worth the time and cost of a pilgrimage than hundreds of other scenes of greater celebrity. The valley is three miles long, a quarter broad, and is shut out from the busy world by stupendous precipices. Through its entire centre flows in summer a peaceful stream which in winter takes to itself the voice of many waters, and rushes a foaming torrent into the sea. The vegetation upon its banks is profuse and lovely but it requires a residence of some days at Glengariff to become thoroughly acquainted with the beauties of this little river, and all the loveliness and grandeur that surround it. From the inn at Glengariff--which, stands upon the shore of the Bay of Bantry--a different, but equally magnificent, prospect is obtained. The Bay stretches its broad, deep waters studded with islands, towards the Atlantic Ocean! He who would see its beauties of island and of mountain in then full extent, should take a boat, on a fine summer evening, and be rowed across to Bantry
 
 The distance is but nine miles, and the scenery is most superb. The picturesque island of Garnish crowned with a fort and martello tower, erected shortly after the French made their appearance in the bay sixty years ago, is at first the most conspicuous object after leaving the inn; but as the boat proceeds on its course, the island and the fort dwindle into insignificance against the dark background of the lofty Gleagariff mountains. As these seem to recede, the low island of Whiddy appears in front, with its solitary ruin of the ancient castle of the O'Sullivans; and the eye may range across the noble bay quite spell-bound with the beauty of the scene from the towering summit of Dade, or "Hungry Hill," 2,100 feet high, to the thickly-wooded cove that leads to, and conceals, the town of Bantry.
+
+----
+
+Uuid: kuR99KPadHjACCL9

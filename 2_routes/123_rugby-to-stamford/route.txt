@@ -1,10 +1,17 @@
-section: 3
+Title: Rugby to Stamford
+
 ----
-title: Rugby to Stamford
+
+Section: 3
+
 ----
-company: companies/london-and-north-western
+
+Company: companies/london-and-north-western
+
 ----
-stops:
+
+Stops:
+
 - rugby
 - lilbourne
 - stanford-hall
@@ -17,8 +24,12 @@ stops:
 - south-luffenham
 - stamford
 - peterborough
+
 ----
-text: (place: england/warwickshire/rugby)
+
+Text:
+
+(place: england/warwickshire/rugby)
 
 With one or two slight exceptions, this railway traverses very nearly the line of boundary dividing the counties of Leicester and Rutland from that of Northampton, taking in the whole breadth of the two former from south-west to north-east. The first station on the line is
 
@@ -41,3 +52,7 @@ With one or two slight exceptions, this railway traverses very nearly the line o
 (place: england/lincolnshire/stamford)
 
 (place: england/northamptonshire/peterborough)
+
+----
+
+Uuid: HBhYfGEfJ4As5zlj

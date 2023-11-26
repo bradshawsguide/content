@@ -1,12 +1,24 @@
-section: 3
+Title: Darlaston
+
 ----
-title: Darlaston
+
+Section: 3
+
 ----
-info:
-- term: Population
+
+Info:
+
+-
+  term: Population
   desc: 12,884.
-- term: Hotel
+-
+  term: Hotel
   desc: White Lion.
+
 ----
-Notes:
-- Telegraph station at Wednesbury.
+
+Notes: Telegraph station at Wednesbury.
+
+----
+
+Uuid: 0t2AksF78EWeR8ZE

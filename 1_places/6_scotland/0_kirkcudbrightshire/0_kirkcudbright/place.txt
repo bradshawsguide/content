@@ -1,8 +1,19 @@
-section: 3
+Title: Kirkcudbright
+
 ----
-title: Kirkcudbright
+
+Section: 3
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: Situated on the eastern side of the estuary of the Dee, about five miles from the sea. Salmon and trout may be caught in the river. In the neighbourhood they profess to show, at *Rueberry*, Dirk Hatteraick's Cave, and the Ganger's Loup, where poor Frank Kennedy was thrown over by the smugglers.
+
+Text:
+
+Situated on the eastern side of the estuary of the Dee, about five miles from the sea. Salmon and trout may be caught in the river. In the neighbourhood they profess to show, at *Rueberry*, Dirk Hatteraick's Cave, and the Ganger's Loup, where poor Frank Kennedy was thrown over by the smugglers.
+
+----
+
+Uuid: RHOWuxKuEtsKDqd6

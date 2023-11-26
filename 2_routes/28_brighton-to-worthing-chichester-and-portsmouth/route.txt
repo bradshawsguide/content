@@ -1,14 +1,25 @@
-section: 1
+Title: Brighton to Worthing, Chichester and Portsmouth
+
 ----
-title: Brighton to Worthing, Chichester and Portsmouth
+
+Section: 1
+
 ----
-title_short: Brighton to Portsmouth
+
+Title-short: Brighton to Portsmouth
+
 ----
-subtitle: Portsmouth Branch
+
+Subtitle: Portsmouth Branch
+
 ----
-company: companies/london-brighton-and-south-coast
+
+Company: companies/london-brighton-and-south-coast
+
 ----
-stops:
+
+Stops:
+
 - brighton
 - hove
 - cliftonville
@@ -29,11 +40,16 @@ stops:
 - emsworth
 - havant
 - portsmouth
+
 ----
-links:
-- (wikipedia: West_Coastway_line)
+
+Links: - (wikipedia: West_Coastway_line)
+
 ----
-text: On leaving the terminus the line turns off abruptly towards the east, and passing through the New England tunnel, cut in the chalk cliff beneath Henfield Road, reaches the station at
+
+Text:
+
+On leaving the terminus the line turns off abruptly towards the east, and passing through the New England tunnel, cut in the chalk cliff beneath Henfield Road, reaches the station at
 
 (place: england/sussex/hove)
 
@@ -89,3 +105,7 @@ This station forms the junction of a short line to
 The junction of the South Coast and South Western Lines is at Portcreek, between Havent and Cosham, but it is necessary to go to Portsmouth to pass from one line to the other.
 
 (place: england/hampshire/portsmouth)
+
+----
+
+Uuid: U8JZVKox5udF3OEa

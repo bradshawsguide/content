@@ -1,18 +1,36 @@
-section: 3
+Title: Greenock
+
 ----
-title: Greenock
+
+Section: 3
+
 ----
-info:
-- term: Hotel
+
+Info:
+
+-
+  term: Hotel
   desc: Tontine, George, White Hart.
-- term: Steamers
+-
+  term: Steamers
   desc: to and from Glasgow, and all places on the Clyde, to Helensburgh, Roseneath, Garelochhead, Largs, Millport, Arran, Innerkip, Wemyss Bay, Strone, Kilmun, Kirn, Dunoon, Inellan, Rothesay, Ardrishaig, Crinan, Oban, Inverness, Fort William, Loch Fine, Arrochar, Lochgoilhead, Staffa, Iona, Ballachulish, Glencoe, Skye, Broadford daily dining the season.
-- term: Market Day
+-
+  term: Market Day
   desc: Friday.
-- term: Fairs
+-
+  term: Fairs
   desc: 1st Thursday in July; 3rd Tuesday in November.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: (smcp: Greenock), is a large seaport town on the southern bank of the Firth of Clyde (population, 42,09S, who return one member), and the scenery in its vicinity is remarkable for its picturesque beauty. Greenock has a good trade in boat building, but is indebted for its present commercial importance to the trade which was opened by the inhabitants of the West of Scotland with the American colonies after the Union. The *Custom House*, erected on a tongue of land which projects into the harbour, is one of the handsomest buildings in that part of Scotland. The principal street is nearly a mile in length, and there are others which run in a parallel direction along the quays, and are crossed by others at right angles; many modern improvements have recently taken place, which have greatly embellished the term; it has also a theatre. The harbour has been enlarged from time to time, and is now capable of admitting vessels of great burden. The manner in which this town is supplied with water, the aqueduct through which it is conveyed six or seven miles from the neighbouring hills to a reservoir over the town, are worthy of general admiration. Watt, the architect, was a native.
+
+Text:
+
+(smcp: Greenock), is a large seaport town on the southern bank of the Firth of Clyde (population, 42,09S, who return one member), and the scenery in its vicinity is remarkable for its picturesque beauty. Greenock has a good trade in boat building, but is indebted for its present commercial importance to the trade which was opened by the inhabitants of the West of Scotland with the American colonies after the Union. The *Custom House*, erected on a tongue of land which projects into the harbour, is one of the handsomest buildings in that part of Scotland. The principal street is nearly a mile in length, and there are others which run in a parallel direction along the quays, and are crossed by others at right angles; many modern improvements have recently taken place, which have greatly embellished the term; it has also a theatre. The harbour has been enlarged from time to time, and is now capable of admitting vessels of great burden. The manner in which this town is supplied with water, the aqueduct through which it is conveyed six or seven miles from the neighbouring hills to a reservoir over the town, are worthy of general admiration. Watt, the architect, was a native.
+
+----
+
+Uuid: ptZszmQTy3rOQvlE

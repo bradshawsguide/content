@@ -1,21 +1,35 @@
-section: 1
+Title: Hayward's Heath to Lewes and Newhaven
+
 ----
-title: Hayward's Heath to Lewes and Newhaven
+
+Section: 1
+
 ----
-subtitle: Newhaven Branch
+
+Subtitle: Newhaven Branch
+
 ----
-company: companies/london-brighton-and-south-coast
+
+Company: companies/london-brighton-and-south-coast
+
 ----
-stops:
+
+Stops:
+
 - haywards-heath
 - cooks-bridge
 - [lewes, barcombe, isfield, uckfield]
 - newhaven
+
 ----
-links:
-- (wikipedia: Wealden_Line)
+
+Links: - (wikipedia: Wealden_Line)
+
 ----
-text: The line passes through an undulating, and in some places a hilly, country to
+
+Text:
+
+The line passes through an undulating, and in some places a hilly, country to
 
 [Cook's Bridge](/stations/cooks-bridge), in the vicinity of which is *Coneyburrow Park*. We have here a full view of the lofty range of the south downs, the highest point of which, *Ditching Beacon*, a little to the right, is 858 feet above the sea.
 
@@ -31,3 +45,7 @@ text: The line passes through an undulating, and in some places a hilly, country
 (branch: end)
 
 (place: england/sussex/newhaven)
+
+----
+
+Uuid: J1Ddc3jsFi7mvqpO

@@ -1,12 +1,21 @@
-section: 2
+Title: Exeter to Torquay and Plymouth
+
 ----
-title: Exeter to Torquay and Plymouth
+
+Section: 2
+
 ----
-title_short: Exeter to Plymouth
+
+Title-short: Exeter to Plymouth
+
 ----
-company: companies/south-devon
+
+Company: companies/south-devon
+
 ----
-stops:
+
+Stops:
+
 - exeter-st-davids
 - exeter-st-thomas
 - exminster
@@ -21,12 +30,19 @@ stops:
 - cornwood
 - plympton
 - plymouth
+
 ----
-links:
+
+Links:
+
 - (wikipedia: South_Devon_Railway_Company)
 - (wikipedia: Dartmouth_and_Torbay_Railway)
+
 ----
-text: This part of the line is invested with additional interest, from the magnificent scenery which opens on each side as we proceed. There is scarcely a mile traversed which does not unfold some peculiar picturesque charm or new feature of its own to make the eye "dazzled and drunk with beauty."
+
+Text:
+
+This part of the line is invested with additional interest, from the magnificent scenery which opens on each side as we proceed. There is scarcely a mile traversed which does not unfold some peculiar picturesque charm or new feature of its own to make the eye "dazzled and drunk with beauty."
 
 Once at Exeter, we have all the romantic allurements of the watering places of the west within our reach, where the possessor of robust health may find a fund of illimitable enjoyment in the rich bouquet, that nature has spread before him on the freshening shores of Devon, and the invalid, those desired qualifications most conducive to a speedy and permanent convalescence.
 
@@ -65,3 +81,7 @@ After a very brief stoppage at [Brent](/stations/brent) and [Kingsbridge Road](/
 [Cornwood](/stations/cornwood) and [Plympton](/stations/plympton) stations.
 
 (place: england/devonshire/plymouth)
+
+----
+
+Uuid: 2Y7PKdulR84weIL6

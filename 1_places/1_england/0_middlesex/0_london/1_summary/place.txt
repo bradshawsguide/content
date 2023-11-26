@@ -1,12 +1,22 @@
-title: London Summary
+Title: London Summary
+
 ----
-title_short: Summary
+
+Title-short: Summary
+
 ----
-station: charing-cross
+
+Station: charing-cross
+
 ----
-desc: Which we intend shall include, irrespective of position, whatever characteristics give London its individuality.
+
+Desc: Which we intend shall include, irrespective of position, whatever characteristics give London its individuality.
+
 ----
-text: (navigation: siblings)
+
+Text:
+
+(navigation: siblings)
 
 Which we intend shall include, irrespective of position, whatever characteristics give London its individuality.
 
@@ -94,3 +104,7 @@ It is London, as Rome is Rome, and must be judged by itself. Here again a likene
   > London, I love thee; for thy many men;
   Thou art the greatest thing on the Earth's face
   That man hath made.
+
+----
+
+Uuid: mk6bcBJySrnlPMlG

@@ -1,8 +1,19 @@
-section: 2
+Title: Knighton
+
 ----
-title: Knighton
+
+Section: 2
+
 ----
-notes:
-- Telegraph station at Craven Arms, 12½ miles.
+
+Notes: Telegraph station at Craven Arms, 12½ miles.
+
 ----
-text: Population, 1,655, partially engaged in the manufacture of woollens. Situated on the River Teme. There are races held here annually, in June; the course is a little more than a mile round.
+
+Text:
+
+Population, 1,655, partially engaged in the manufacture of woollens. Situated on the River Teme. There are races held here annually, in June; the course is a little more than a mile round.
+
+----
+
+Uuid: 9pvbx5ZnmLCkIdja

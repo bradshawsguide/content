@@ -1,14 +1,25 @@
-section: 1
+Title: Charing Cross and London Bridge to Greenwich
+
 ----
-title: Charing Cross and London Bridge to Greenwich
+
+Section: 1
+
 ----
-title_short: London to Greenwich
+
+Title-short: London to Greenwich
+
 ----
-subtitle: London and Greenwich Railway
+
+Subtitle: London and Greenwich Railway
+
 ----
-company: companies/south-eastern
+
+Company: companies/south-eastern
+
 ----
-stops:
+
+Stops:
+
 - charing-cross
 - waterloo-junction
 - blackfriars-road
@@ -17,11 +28,16 @@ stops:
 - commercial-dock
 - deptford
 - greenwich
+
 ----
-links:
-- (wikipedia: London_and_Greenwich_Railway)
+
+Links: - (wikipedia: London_and_Greenwich_Railway)
+
 ----
-text: To commence our description of the Kent railways we shall take the shortest and most northern.
+
+Text:
+
+To commence our description of the Kent railways we shall take the shortest and most northern.
 
 (place: england/middlesex/charing-cross)
 
@@ -48,3 +64,7 @@ A telegraph station; and the latter with that of [Commercial Dock](/stations/com
 On quitting Deptford the train crosses the river Ravensbourne, and in a few moments reaches
 
 (place: england/kent/greenwich)
+
+----
+
+Uuid: mG3mpxVQJaCXGooX

@@ -1,12 +1,27 @@
-section: 3
+Title: Blackpool
+
 ----
-title: Blackpool
+
+Section: 3
+
 ----
-info:
-- term: Hotels
+
+Info:
+
+-
+  term: Hotels
   desc: Rossall's; Clifton Arms; Albion; Lane End; Beach; Royal; Victoria; Brewer's.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-text: This pretty bathing-place is situated on a range of cliffs fronting the Irish Sea. It takes its name from a pool near *Vauxhall* the old seat of Tildesleys, and contains a population of 3,506. This place is much frequented by visitors, and possesses an excellent Library, and sea bathing at all times of tide. The sea gains so much here that, on the Penny Stone, 3¼ miles northward, and about a quarter of a mile from the shore, there formerly stood a small inn. Fine views of the Cumberland and Welsh hills, and the Isle of Man, can be obtained from several spots about here. In 1863 a new pier was opened, which forms a most pleasant promenade. During the season great facilities are offered for excursions to Furness Abbey, Ulverston, Coniston Lake, &c. &c. In the vicinity is *Rake's Hall*, the seat of the D. Horby, Esq.
+
+Text:
+
+This pretty bathing-place is situated on a range of cliffs fronting the Irish Sea. It takes its name from a pool near *Vauxhall* the old seat of Tildesleys, and contains a population of 3,506. This place is much frequented by visitors, and possesses an excellent Library, and sea bathing at all times of tide. The sea gains so much here that, on the Penny Stone, 3¼ miles northward, and about a quarter of a mile from the shore, there formerly stood a small inn. Fine views of the Cumberland and Welsh hills, and the Isle of Man, can be obtained from several spots about here. In 1863 a new pier was opened, which forms a most pleasant promenade. During the season great facilities are offered for excursions to Furness Abbey, Ulverston, Coniston Lake, &c. &c. In the vicinity is *Rake's Hall*, the seat of the D. Horby, Esq.
+
+----
+
+Uuid: 2QFLhI9ypiekeddQ

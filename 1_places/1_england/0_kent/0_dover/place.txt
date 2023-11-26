@@ -1,30 +1,50 @@
-section: 1
+Title: Dover
+
 ----
-title: Dover
+
+Section: 1
+
 ----
-- term: Population
+
+Term:
+
+Population
   desc: 25,323.
-- term: Hotels
+-
+  term: Hotels
   desc: The Ship; The Lord Warden; The Gun.
-- term: Post Horses, Flys, &c.
+-
+  term: Post Horses, Flys, &c.
   desc: at the hotels.
-- term: Porterage
+-
+  term: Porterage
   desc: of luggage to packets and station, 1s. to 1s. 6d. each person.
-- term: Coach
+-
+  term: Coach
   desc: to Warmer and Deal, four times daily.
-- term: Steamers
+-
+  term: Steamers
   desc: to Calais, twice daily, and Ostend, daily, except on Sundays.
-- term: Market Days
+-
+  term: Market Days
   desc: Wednesday and Saturday
-- term: Fairs
+-
+  term: Fairs
   desc: November 23rd, lasting over three market days, and Charlton Fair in July.
+
 ----
-notes:
-- A telegraph station.
+
+Notes: A telegraph station.
+
 ----
-desc: This much frequented point of continental embarkation has of late years occupied a prominent position among the watering-places of our island.
+
+Desc: This much frequented point of continental embarkation has of late years occupied a prominent position among the watering-places of our island.
+
 ----
-text: This much frequented point of continental embarkation has of late years occupied a prominent position among the watering-places of our island. The line of continuous terraces of noble-looking mansions spreading along the margin of its coast, the pureness of its atmosphere, the bold and rocky headlands that distinguish its marine scenery, all contribute to it an important position among the recently created destinations of our sea-loving' citizens. The associations, too, that cling to the white cliffs of Albion--not, as of yore, frowning defiance to our Gallic neighbours, but with a better spirit illuminating their weather-beaten features with sunny smiles of welcome--all tend to draw every year crowds of fleeting visitors to a spot so renowned in song and story. It has been well said that scarcely any great man, from King Arthur to Prince Albert, has failed, at some period or other, to visit Dover, and all history confirms the assertion.
+
+Text:
+
+This much frequented point of continental embarkation has of late years occupied a prominent position among the watering-places of our island. The line of continuous terraces of noble-looking mansions spreading along the margin of its coast, the pureness of its atmosphere, the bold and rocky headlands that distinguish its marine scenery, all contribute to it an important position among the recently created destinations of our sea-loving' citizens. The associations, too, that cling to the white cliffs of Albion--not, as of yore, frowning defiance to our Gallic neighbours, but with a better spirit illuminating their weather-beaten features with sunny smiles of welcome--all tend to draw every year crowds of fleeting visitors to a spot so renowned in song and story. It has been well said that scarcely any great man, from King Arthur to Prince Albert, has failed, at some period or other, to visit Dover, and all history confirms the assertion.
 
 Divided from the French coast by a passage of only twenty miles across the British Channel, Dover 13 advantageously situated on the margin of a picturesque bay, sheltered by the promontory of the South Foreland, and screened by its lofty cliffs from the piercing northerly winds.
 
@@ -58,3 +78,7 @@ The Custom House is a spacious building conveniently contiguous to the quay. The
 Hotels and taverns, varying in price and accommodation, are unusually numerous; and even cheap coffee-houses, conducted on what is somewhat indefinitely styled "the London system," are now to be met with.
 
 The tourist, would do well to visit the pretty little villages of *Charlton*, *Buckland*, and *River*, near to which are the remains of *St. Radigund's Abbey*, built in the 12th century. The ivy-mantled ruins occupying a considerable extent of ground, show that it was a place of some importance: part of the walls are curiously chequered with flints and stones. About three miles from this, to the right, through the pretty village of Lydden, is *Waldershare Park*, the noble seat of the Earl of Guildford. Returning by Waldershare Wood, is *West Langdon*, having some remains of an abbey founded by Sir William de Auberyille. A short walk from thence Is *Ringwold* and its church, with some fine old brasses, and the remains of an ancient camp. Proceeding in the direction of Dover, the old church of St. Margaret should be visited, being perhaps one of the finest specimens of Norman architecture in the county *West Cliffe* is then approached, which is worth a visit, not only for its curious ancient church, which was exchanged by Edward I.'s Queen, Eleanor, for the port of Sandwich, but for the variety of prospects to be had there over land and over sea.
+
+----
+
+Uuid: N0YDEiWqYLa4uF1n

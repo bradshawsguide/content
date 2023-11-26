@@ -1,12 +1,21 @@
-section: 1
+Title: Fenchurch Street and Bow to Camden and Chalk Farm
+
 ----
-title: Fenchurch Street and Bow to Camden and Chalk Farm
+
+Section: 1
+
 ----
-title_short: Fenchurch Street to Chalk Farm
+
+Title-short: Fenchurch Street to Chalk Farm
+
 ----
-company: companies/north-london
+
+Company: companies/north-london
+
 ----
-stops:
+
+Stops:
+
 - fenchurch-street
 - stepney
 - bow
@@ -17,11 +26,16 @@ stops:
 - islington-and-highbury
 - camden-road
 - chalk-farm
+
 ----
-links:
-- (wikipedia: North_London_Railway)
+
+Links: - (wikipedia: North_London_Railway)
+
 ----
-text: The prodigious extent of buildings in the immediate vicinity of London has rendered a corresponding; increase of the means of conveyance from one district to another indispensable. A few years since, Chelsea, Brompton, Kensington, and Bayswater, forming the beautiful western suburbs of the metropolis, were comparatively unknown to most of the inhabitants of Eastern London. Many of the parishioners of Shadwell, Limehouse, and Poplar might have heard of the Regent's Park and Primrose Hill, but had never visited either, for want of some direct communication brought as it were, to their very doors. Such a facility was provided for them by the opening, in 1851, of the Camden Town, or North London Railway, which traverses the eastern and northern suburbs of the metropolis, and enables the Londoner to make the journey from Fenchurch Street, City, to Primrose Hill and the Regent's Park (the latter attractive at all seasons, on account of its "Zoological Gardens"), at a very trifling expenditure of time and money.
+
+Text:
+
+The prodigious extent of buildings in the immediate vicinity of London has rendered a corresponding; increase of the means of conveyance from one district to another indispensable. A few years since, Chelsea, Brompton, Kensington, and Bayswater, forming the beautiful western suburbs of the metropolis, were comparatively unknown to most of the inhabitants of Eastern London. Many of the parishioners of Shadwell, Limehouse, and Poplar might have heard of the Regent's Park and Primrose Hill, but had never visited either, for want of some direct communication brought as it were, to their very doors. Such a facility was provided for them by the opening, in 1851, of the Camden Town, or North London Railway, which traverses the eastern and northern suburbs of the metropolis, and enables the Londoner to make the journey from Fenchurch Street, City, to Primrose Hill and the Regent's Park (the latter attractive at all seasons, on account of its "Zoological Gardens"), at a very trifling expenditure of time and money.
 
 (place: england/middlesex/bow)
 
@@ -44,3 +58,7 @@ We next pass over the [Great Northern Railway](/routes/#), which presents one of
 (route: camden-road-to-willesden-junction)
 
 Two minutes more brings us to the terminus of the [North London Railway](/companies/north-london), at [Chalk Farm](/stations/chalk-farm), but a transfer of passengers from this line to the Hampstead Junction must be made at the preceding station, Camden Road.
+
+----
+
+Uuid: oWljn2K9Qx3Eqgnl

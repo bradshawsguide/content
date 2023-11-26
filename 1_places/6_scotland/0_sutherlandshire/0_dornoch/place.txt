@@ -1,5 +1,15 @@
-section: 3
+Title: Dornoch
+
 ----
-title: Dornoch
+
+Section: 3
+
 ----
-text: Now a reduced burgh, but still enjoying municipail rights, and exercising municipal functions. The district is here very rich in agricultural products, and some of the finest farms in Scotland lie between Dornoch and the north-eastern boundary of the county.
+
+Text:
+
+Now a reduced burgh, but still enjoying municipail rights, and exercising municipal functions. The district is here very rich in agricultural products, and some of the finest farms in Scotland lie between Dornoch and the north-eastern boundary of the county.
+
+----
+
+Uuid: w3cWDWxz0f1j4DoA

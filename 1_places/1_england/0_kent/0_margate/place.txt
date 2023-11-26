@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: margate-west
+Station: stations/margate-west
 
 ----
 

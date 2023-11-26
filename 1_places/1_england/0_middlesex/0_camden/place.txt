@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: camden-town
+Station: stations/camden-town
 
 ----
 

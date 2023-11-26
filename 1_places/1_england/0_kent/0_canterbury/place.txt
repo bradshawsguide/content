@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: canterbury-east
+Station: stations/canterbury-east
 
 ----
 

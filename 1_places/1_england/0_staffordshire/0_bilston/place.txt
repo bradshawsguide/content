@@ -6,7 +6,7 @@ Section: 2
 
 ----
 
-Station: bilston-central
+Station: stations/bilston-central
 
 ----
 

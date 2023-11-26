@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: windsor-gwr
+Station: stations/windsor-gwr
 
 ----
 

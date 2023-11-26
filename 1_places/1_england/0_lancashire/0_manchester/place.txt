@@ -6,7 +6,7 @@ Section: 3
 
 ----
 
-Station: manchester-oxford-road
+Station: stations/manchester-oxford-road
 
 ----
 

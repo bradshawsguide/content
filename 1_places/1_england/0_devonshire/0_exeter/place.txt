@@ -6,7 +6,7 @@ Section: 2
 
 ----
 
-Station: exeter-st-davids
+Station: stations/exeter-st-davids
 
 ----
 

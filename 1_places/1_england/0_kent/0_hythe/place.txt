@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: folkestone-junction
+Station: stations/folkestone-junction
 
 ----
 

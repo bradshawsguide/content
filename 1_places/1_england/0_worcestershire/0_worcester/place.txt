@@ -6,7 +6,7 @@ Section: 2
 
 ----
 
-Station: worcester-shrub-hill
+Station: stations/worcester-shrub-hill
 
 ----
 

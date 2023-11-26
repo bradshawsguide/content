@@ -6,7 +6,7 @@ Section: 2
 
 ----
 
-Station: tetbury-road
+Station: stations/tetbury-road
 
 ----
 

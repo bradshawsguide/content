@@ -2,7 +2,7 @@ Title: Places of Amusement
 
 ----
 
-Station: charing-cross
+Station: stations/charing-cross
 
 ----
 

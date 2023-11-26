@@ -6,7 +6,7 @@ Section: 2
 
 ----
 
-Station: johnston-pembs
+Station: stations/johnston-pembs
 
 ----
 

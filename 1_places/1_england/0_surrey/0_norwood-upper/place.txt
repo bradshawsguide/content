@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: norwood-junction
+Station: stations/norwood-junction
 
 ----
 

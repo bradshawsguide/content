@@ -6,7 +6,7 @@ Title-short: Visitors' Guide
 
 ----
 
-Station: charing-cross
+Station: stations/charing-cross
 
 ----
 

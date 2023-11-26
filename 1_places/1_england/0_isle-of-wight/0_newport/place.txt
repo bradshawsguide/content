@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: newport-isle-of-wight
+Station: stations/newport-isle-of-wight
 
 ----
 

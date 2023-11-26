@@ -6,7 +6,7 @@ Section: 2
 
 ----
 
-Station: newton-junction
+Station: stations/newton-junction
 
 ----
 

@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: east-croydon
+Station: stations/east-croydon
 
 ----
 

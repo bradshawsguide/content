@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: ramsgate-town
+Station: stations/ramsgate-town
 
 ----
 

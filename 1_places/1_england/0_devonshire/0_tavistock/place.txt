@@ -6,7 +6,7 @@ Section: 2
 
 ----
 
-Station: tavistock-south
+Station: stations/tavistock-south
 
 ----
 

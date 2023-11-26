@@ -6,7 +6,7 @@ Section: 2
 
 ----
 
-Station: newport-high-street
+Station: stations/newport-high-street
 
 ----
 

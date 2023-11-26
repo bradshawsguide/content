@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: woolwich-dock
+Station: stations/woolwich-dock
 
 ----
 

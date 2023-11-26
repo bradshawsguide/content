@@ -6,7 +6,7 @@ Title-short: Summary
 
 ----
 
-Station: charing-cross
+Station: stations/charing-cross
 
 ----
 

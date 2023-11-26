@@ -6,7 +6,7 @@ Section: 2
 
 ----
 
-Station: yeovil-pen-mill
+Station: stations/yeovil-pen-mill
 
 ----
 

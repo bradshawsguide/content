@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: charing-cross
+Station: stations/charing-cross
 
 ----
 

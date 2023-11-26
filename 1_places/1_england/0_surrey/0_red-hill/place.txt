@@ -6,7 +6,7 @@ Section: 1
 
 ----
 
-Station: red-hill-junction
+Station: stations/red-hill-junction
 
 ----
 

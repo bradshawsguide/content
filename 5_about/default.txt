@@ -16,7 +16,7 @@ Like the popular BBC television series <cite>[Great British Railway Journeys](ht
 
 Born at Windsor Bridge, Pendleton, Lancashire, on the 29th of July 1801, upon leaving school he became apprenticed to an engraver named Beale in Manchester. In 1820 he set up his own engraving business in Belfast, returning to Manchester in 1822 to set up in that city as an engraver and printer--principally of maps.
 
-His name was already known as the publisher of <cite>Bradshaw's Maps of Inland Navigation</cite>, when in 1839, soon after the introduction of the railways, he published, at sixpence, <cite>Bradshaw's Railway Time Tables</cite>, the title being changed in 1840 to <cite>Bradshaw's Railway Companion</cite>, and the price raised to one shilling. A new volume was issued at occasional intervals, a supplementary monthly timesheet serving to keep the book up to date.
+His name was already known as the publisher of <cite>Bradshaw's Maps of Inland Navigation</cite>, when in 1839, soon after the introduction of the railways, he published, at sixpence, <cite>Bradshaw's Railway Time Tables</cite>, the title being changed in 1840 to <cite>Bradshaw's Railway Companion</cite>, and the price raised to one shilling. A new volume was issued at occasional intervals, a supplementary monthly time sheet serving to keep the book up to date.
 
 In December 1841, acting on a suggestion made by his London agent, Mr. W. J. Adams, Bradshaw reduced the price of his timetables to the original sixpence, and began to issue them monthly under the title <cite>Bradshaw's Monthly Railway Guide</cite>. In June 1847 was issued the first number of <cite>Bradshaw's Continental Railway Guide</cite>, giving the timetables of the Continental railways just as Bradshaw's Monthly Railway Guide gave the time-tables of the railways of the United Kingdom.
 
@@ -46,10 +46,11 @@ Home page features <cite>Rain, Steam and Speed – The Great Western Railway</ci
 
 Body text set in [Scotch Text](https://www.myfonts.com/fonts/positype/scotch/) by [Neil Summerour](https://www.positype.com). Condensed headings set in [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic) from [The League of Moveable Type](https://www.theleagueofmoveabletype.com/). Display and emboldened text set in [Trocchi](https://github.com/vernnobile/TrocchiFont) by Vernon Adams.
 
-Hosted by [WebFaction](https://www.webfaction.com/?aid=42929).
+Hosted by [Mythic Beasts](https://www.mythic-beasts.com).
 
-Published using [Kirby](https://getkirby.com/) and with these supporting plugins:
+Published using [Kirby](https://getkirby.com/) and these supporting plugins:
   * [Geo](https://getkirby.com/plugins/getkirby/geo)
+  * [Kirby Vite](https://getkirby.com/plugins/arnoson/kirby-vite) by [Arno Schlipf](https://getkirby.com/plugins/arnoson)
   * [Locator](https://getkirby.com/plugins/sylvainjule/locator) by [Sylvain Julé](https://getkirby.com/plugins/sylvainjule)
   * [Markdown Field](https://getkirby.com/plugins/fabianmichael/markdown-field) by [Fabian Michael](https://getkirby.com/plugins/fabianmichael)
 

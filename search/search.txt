@@ -6,4 +6,12 @@ Title-short: Search
 
 ----
 
+Text:
+
+## No matches found
+
+Make sure that all words are spelled correctly, or try using different keywords.
+
+----
+
 Uuid: PYXrznPtxaziONeL

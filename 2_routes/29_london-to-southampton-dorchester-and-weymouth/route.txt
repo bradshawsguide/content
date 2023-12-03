@@ -119,7 +119,7 @@ The adjacent country now begins to assume a very pleasant and diversified appear
 (smcp: Merton).--Distance from the Wimbledon station, ¾ mile. Telegraph station at Wimbledon, ¾ mile. Hotel--White Hart. The pretty village of Merton, where Lord Nelson lived, is a favourite resort of excursionists.
 
 (branch: start title: Croydon and Wimbledon Branch)
-  [Described here](/routes/london-to-brighton#croydon-and-wimbledon-branch)
+  [Described here](/routes/london-to-brighton#croydon-to-wimbledon)
 (branch: end)
 
 (branch: start title: Leatherhead Branch)

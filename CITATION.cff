@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Bradshaw’s Guide
+abstract: Let this digital revival of a Victorian favourite be your guide to Britain and Ireland’s burgeoning railway network, as it existed in 1866.
+authors:
+  - given-names: Paul Robert
+    family-names: Lloyd
+    city: Brighton
+    country: GB
+preferred-citation:
+  title: Bradshaw’s Handbook for Tourists in Great Britain & Ireland
+  abstract: (In four sections), adapted to the Railway System, each Section forming a Complete and Distinct handbook with maps, plans of towns, & pictorial illustrations.
+  type: historical-work
+  year-original: 1866
+  authors:
+    - given-names: George
+      family-names: Bradshaw
+      city: Manchester
+      country: GB
+type: dataset
+keywords:
+  - railways
+  - travel
+url: https://bradshaws.guide
+repository: https://github.com/bradshawsguide/content
+license: CC-PDDC

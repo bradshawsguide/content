@@ -75,6 +75,8 @@ Cloud-End and Mow Cop are noble features in the landscape to the right, between 
 
 (place: england/cheshire/macclesfield)
 
+(route: north-rode-to-uttoxeter-and-ashbourne)
+
 ----
 
 Uuid: tbUmmNAJxxwBvMbK

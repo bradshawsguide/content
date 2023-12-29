@@ -70,6 +70,8 @@ The old roadway passes under the line, which is on a lofty embankment. The stati
 
 (place: england/staffordshire/colwich)
 
+On nearing Stafford, the railway passes through a tunnel in *Shugborough Park*, seven hundred and seventy-nine yards in length. The north face of the tunnel is a very striking architectural composition. The lofty trees, clothed with the richest foliage, rising from the elevated ground through which the tunnel is pierced, give a depth of tone and artistic effect to the whole scene, a once peculiarly imposing and beautiful, and form a remarkably fine feature in the scenery of the railway. Emerging from the tunnel the town of Stafford is soon reached. *Wolsley Park* and *Bishton*, Miss Sparrows, are close at hand.
+
 (place: england/staffordshire/stafford)
 
 ----

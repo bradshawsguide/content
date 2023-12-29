@@ -1,0 +1,70 @@
+Title: Stafford to Shrewsbury
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Shropshire Union
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/stafford
+- stations/haughton
+- stations/gnosall
+- stations/newport-shropshire
+- stations/donnington
+- stations/trench-crossing
+- stations/hadley
+- - stations/oakengates
+  - stations/malins-lee
+  - stations/stirchley
+  - stations/madeley-market
+  - stations/coalport
+- stations/wellington
+- stations/shrewsbury
+
+----
+
+Text:
+
+(place: england/staffordshire/stafford)
+
+[Haughton](/stations/haughton).
+
+(place: england/staffordshire/gnosall)
+
+A distance of four miles further brings the traveller to the verge of the county of Stafford, and the entrance to that of Salop, and another mile to the town of
+
+(place: england/shropshire/newport)
+
+[Donnington](/stations/donnington). In the vicinity are *Lilleshall Abbey* and *House*, Duck of Sutherland’s, and *Woodcote Hall*, J. Cotes, Esq.
+
+[Trench Crossing](/stations/trench-crossing) station.
+
+(place: england/shropshire/hadley)
+
+(branch: start title: Coalport Branch)
+  Here the line turns off to the left, passing the stations of [Oakengates](/stations/oakengates), [Malins Lee](/stations/malins-lee), [Stirchley](/stations/stirchley), and [Madeley Market](/stations/madley-market), to
+
+  [Coalport](/stations/coalport), a small place on the Severn, having a few china manufactories.
+(branch: end)
+
+[Wellington](/stations/wellington) and
+
+(place: england/shropshire/shrewsbury)
+
+----
+
+Links: - (wikipedia: Stafford–Shrewsbury_line)
+
+----
+
+Uuid: NlhgxIqrxANrNBtu

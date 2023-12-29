@@ -24,7 +24,7 @@ Notes: A telegraph station.
 
 ----
 
-Desc: This fine old capital of Shropshire, and parliamentary town, is 42 miles beyond Birmingham, 161¾ miles from London by the North Western (or 171 *via* Birmingham), and 171 by the Great Western.
+Desc: This fine old capital of Shropshire, and parliamentary town, is 42 miles beyond Birmingham.
 
 ----
 

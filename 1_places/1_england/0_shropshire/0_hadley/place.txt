@@ -18,6 +18,10 @@ Notes: Telegraph station at Wellington, 1¼ mile.
 
 ----
 
+Desc: To the left is *Apley Castle*.
+
+----
+
 Text:
 
 To the left is *Apley Castle*.

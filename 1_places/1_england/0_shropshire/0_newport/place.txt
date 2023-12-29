@@ -30,6 +30,12 @@ Notes: A telegraph station.
 
 ----
 
+Desc:
+
+Here is a fine church of the 15th century, and in the vicinity are *Chetwynd Park* and *Aqualate Hall* and *Mere*, a fine sheet of water covering nearly 200 acres.
+
+----
+
 Text:
 
 Here is a fine church of the 15th century, and in the vicinity are *Chetwynd Park* and *Aqualate Hall* and *Mere*, a fine sheet of water covering nearly 200 acres.

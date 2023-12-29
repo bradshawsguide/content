@@ -1,0 +1,40 @@
+Title: Macclesfield to Cheadle Junction
+
+----
+
+Section: 3
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/macclesfield
+- stations/prestbury
+- stations/adlington
+- stations/poynton
+- stations/bramhall
+- stations/cheadle-junction
+
+----
+
+Text:
+
+(place: england/cheshire/macclesfield)
+
+(place: england/cheshire/prestbury)
+
+Passing [Adlington](/stations/adlington) station, we arrive at
+
+(place: england/cheshire/poynton)
+
+(place: england/cheshire/bramhall)
+
+[Cheadle Junction](/stations/cheadle-junction), point of the union with the mainline from [Crewe to Manchester](/routes/crewe-to-manchester).
+
+----
+
+Uuid: pojEcK5rsQWyhUHX

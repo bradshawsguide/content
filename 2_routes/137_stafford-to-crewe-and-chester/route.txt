@@ -19,6 +19,12 @@ Stops:
 - stations/madeley-staffordshire
 - stations/basford
 - stations/crewe
+- stations/worlaston
+- stations/calveley
+- stations/beeston
+- stations/tattenhall
+- stations/waverton
+- stations/chester
 
 ----
 
@@ -53,6 +59,20 @@ From this station the line curves gently, and then proceeds in a straight direct
 We again proceed over a somewhat high embankment, and obtain several fine views of the country between the line of road and Nantwich, over which are scattered hamlets and farm houses, intermingled with rich and luxuriant scenery, until we reach
 
 (place: england/cheshire/crewe)
+
+(route: crewe-to-shrewsbury)
+
+## Crewe to Chester
+
+[Worlaston](/stations/worlaston) and [Calveley](/stations/calveley) stations (Cheshire).
+
+(place: england/cheshire/beeston)
+
+(place: england/cheshire/tattenhall)
+
+[Waverton](/stations/waverton) station.
+
+(place: england/cheshire/chester)
 
 ----
 

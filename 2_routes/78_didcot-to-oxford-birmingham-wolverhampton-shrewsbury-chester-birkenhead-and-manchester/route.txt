@@ -75,7 +75,7 @@ Stops:
 - stations/leaton
 - stations/baschurch
 - stations/rednal
-- stations/whittington
+- stations/whittington-low-level
 - - stations/gobowen-junction
   - stations/oswestry-gwr
 - stations/chirk

@@ -20,6 +20,17 @@ Stops:
 - stations/preston-brook
 - stations/moore
 - stations/warrington
+- stations/warrington-junction
+- stations/newton-bridge
+- stations/preston-junction
+- - stations/golborne
+  - stations/wigan
+  - stations/standish
+  - stations/coppull
+  - stations/euxton
+  - stations/leyland
+  - stations/farington
+  - stations/preston
 
 ----
 
@@ -62,3 +73,31 @@ A short, distance beyond this the river winds towards the town of Warrington, wi
 Continuing along the embankment the train soon arrives at
 
 (place: england/lancashire/warrington)
+
+[Warrington Junction](/stations/warrington-junction), [Newton Bridge](/stations/newton-bridge), and [Preston Junction](/stations/preston-junction) stations.
+
+(branch: start title: Preston and Parkside)
+  **Preston Junction to Preston**
+
+  [Golborne](/stations/golborne)–*Golborne Park*, seat of J. Catterall, Esq.
+
+  (place: england/lancashire/wigan)
+
+  Part of a Roman road may be traced towards Standish; it is straight as an arrow for 1½ mile.
+
+  (place: england/lancashire/standish)
+
+  (place: england/lancashire/coppull)
+
+  [Euxton](/stations/euxton)–A telegraph station. *Euxton Hall*, the seat of W.M. J. Anderton, Esq.
+
+  (place: england/lancashire/leyland)
+
+  (place: england/lancashire/farington)
+
+  (place: england/lancashire/preston)
+(branch: end)
+
+----
+
+Uuid: lQKwR5Znif8arl0f

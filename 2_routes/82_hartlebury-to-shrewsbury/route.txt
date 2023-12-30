@@ -30,7 +30,7 @@ Stops:
 - - stations/buildwas
   - stations/much-wenlock
 - - stations/coalbrookdale
-  - stations/madeley
+  - stations/madeley-shropshire
   - stations/shiffnal
 - - stations/coalbrookdale
   - stations/horsehay

@@ -6,13 +6,21 @@ Section: 3
 
 ----
 
+Info:
+
+-
+  term: Population
+  desc: 10,434.
+
+----
+
 Notes: A telegraph station.
 
 ----
 
 Text:
 
-Noted as one of the inland ports of the kingdom, and much resorted to for bathing in the summer season. Population, 10,434.
+Noted as one of the inland ports of the kingdom, and much resorted to for bathing in the summer season.
 
 ----
 

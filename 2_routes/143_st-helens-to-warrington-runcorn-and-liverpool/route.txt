@@ -1,0 +1,65 @@
+Title: St. Helens to Warrington, Runcorn, and Liverpool
+
+----
+
+Section: 3
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/st-helens
+- stations/peasley-cross
+- stations/sutton-oak
+- stations/clock-face
+- stations/farnworth
+- stations/appleton
+- stations/widness
+- - stations/fidlers-ferry
+  - stations/sankey-bridges
+  - stations/warrington
+- stations/widness
+- stations/ditton
+- stations/halewood
+- - stations/speke
+  - stations/garston
+  - stations/mersey-road
+  - stations/otters-pool
+  - stations/st-michaels
+- - stations/allerton
+  - stations/mossley-hill
+  - stations/edgehill
+
+----
+
+Text:
+
+From St. Helens Junction the line diverges to the left, passing the stations of [Peasley Cross](/stations/peasley-cross), [Sutton](/stations/sutton-oak), [Clock Face](/stations/clock-face), [Farnworth](/stations/farnworth), and [Appleton](/stations/appleton), *en route* to [Widness](/stations/widness). By means of a ferry across the river we reach
+
+(place: england/cheshire/runcorn)
+
+From [Widness](/stations/widness) the railway again diverges to the right, and after passing the stations of [Fidler’s Ferry](/stations/fidlers-ferry) and [Sankey Bridges](/stations/sankey-bridges), we arrive at
+
+(place: england/lancashire/warrington)
+
+We again return to Widness, and in pursuing our journey towards Liverpool, pass the stations of [Ditton](/stations/ditton) and [Halewood](/stations/halewood), to [Speke](/stations/speke), the point of deviation of the Edge Hill portion of the London and North Western line.
+
+(branch: start)
+  Keeping to the water’s edge, however, we next come to [Garston](/stations/garston) (telegraph station), a considerable town on the Mersey, having a population of 4,720. Continuing along the riverside we pass the station at [Mersey Road](/stations/mersey-road), through *Aigburth* to [Otter’s Pool](/stations/otters-pool), and through *Toxteth Park* to the station of [St. Michael's](/stations/st-michaels), and thence to the southern suburbs of Liverpool at the **Brunswick Docks**, from whence passengers are taken into the town to James Street, by omnibuses.
+(branch: end)
+
+Continuing our journey on the Edge Hill line from Speke, we soon arrive at
+
+(place: england/lancashire/allerton)
+
+[Mossley Hill](/stations/mossley-hill) station.
+
+(place: england/lancashire/edgehill)
+
+----
+
+Uuid: Gn2QB3I2W1qJgDyV

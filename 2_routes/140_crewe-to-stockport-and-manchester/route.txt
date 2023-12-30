@@ -1,0 +1,47 @@
+Title: Crewe to Stockport and Manchester
+
+----
+
+Section: 3
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/crewe
+- stations/sandbach
+- stations/holmes-chapel
+- stations/chelford
+- stations/alderley
+- stations/wilmslow
+- stations/handforth
+- stations/cheadle-junction
+- stations/stockport
+
+----
+
+Text:
+
+(place: england/cheshire/crewe)
+
+(place: england/cheshire/sandbach)
+
+(place: england/cheshire/holmes-chapel)
+
+(place: england/cheshire/chelford)
+
+(place: england/cheshire/alderley)
+
+(place: england/cheshire/wilmslow)
+
+(place: england/cheshire/cheadle-hulme)
+
+(place: england/cheshire/stockport)
+
+----
+
+Uuid: LQbDJf7Qem4m1Kx2

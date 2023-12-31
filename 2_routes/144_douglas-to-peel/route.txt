@@ -1,0 +1,25 @@
+Title: Douglas to Peel
+
+----
+
+Section: 3
+
+----
+
+Company: companies/isle-of-man
+
+----
+
+Text:
+
+(place: isle-of-man/douglas)
+
+By this road, you pass the *Nunnery*, the seat of General Goldie, so called from a ruined priory, founded by St. Bridget in the sixth century, to which Ethelbert's daughter Matilda retired. The grounds are charmingly laid out.
+
+Our road ascending Douglas, past *Kirk Bruddan* (one of the prettiest churches in the island) and its runic pillar; and some paper mills. *Kirk Marrown* is under Greeba mountain, 1,480 feet high, on the sides of which are various small "kiels" or chapels, especially the remains of St. Trinian's, which Manx tradition asserts was destroyed by the buggane (or bogey!) In *Glendarragh*, there is a druid circle, about 40 feet diameter. Tynwald Hill and Peel are beyond.
+
+(place: isle-of-man/peel)
+
+----
+
+Uuid: fY3rTcnVx1h9ey7L

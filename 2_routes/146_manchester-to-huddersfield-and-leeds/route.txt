@@ -1,0 +1,98 @@
+Title: Manchester to Huddersfield and Leeds
+
+----
+
+Section: 3
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/manchester-victoria
+- stations/miles-platting
+- stations/park
+- stations/clayton-bridge
+- stations/droylsden
+- stations/ashton-under-lyne
+- - stations/guide-bridge
+  - stations/denton
+  - stations/reddish
+  - stations/heaton-norris
+  - stations/stockport
+- stations/ashton-under-lyne
+- stations/stalybridge
+- stations/mossley
+- stations/greenfield
+- - stations/grotton
+  - stations/lees
+  - stations/oldham-glodwick-road
+- stations/greenfield
+- - stations/delph
+- stations/greenfield
+- stations/saddleworth
+- stations/diggle
+- stations/marsden
+- stations/slaithwaite
+- stations/golcar
+- stations/longwood
+- stations/huddersfield
+
+----
+
+Text:
+
+(place: england/lancashire/manchester)
+
+The intermediate stations are [Miles Platting](/stations/miles-platting), [Park](/stations/park) (the station for Philip's Park), [Clayton Bridge](/stations/clayton-bridge), and [Droylsden](/stations/droylsden).
+
+(place: england/lancashire/ashton-under-lyne)
+
+(branch: start title: Stockport Branch)
+  ## Ashton to Stockport
+
+  [Guide Bridge](/stations/guide-bridge) station.
+
+  (place: england/lancashire/denton)
+
+  Padding [Reddish](/stations/reddish) and [Heaton Norris](/stations/heaton-norris) stations, we arrive at
+
+  (place: england/lancashire/stockport)
+(branch: end)
+
+(place: england/cheshire/stalybridge)
+
+[Mossley](/stations/mossley) (Lancashire), a telegraph station. Close at hand are the Pillar on Hartshead Pike, from which a beautiful view of the country may be obtained; and Bucton Castle, an old British camp.
+
+[Greenfield](/stations/greenfield) (Yorkshire).—Near at hand is Fam Hole, a Druidical remain.
+
+(branch: start)
+  There is a short branch hence to Oldham, passing through the unimportant stations of [Grotton](/stations/grotton) and [Lees](/stations/lees), but forming a valuable connection between the London and North Western and the Lancashire and Yorkshire sections. After a run of about fifteen minutes our arrival is announced at
+
+  (place: england/yorkshire/oldham)
+(branch: end)
+
+(branch: start)
+  [Delph](/stations/delph) station.
+(branch: end)
+
+(place: england/yorkshire/saddleworth)
+
+Passing [Diggle](/stations/diggle) station (where the Marsden tunnel, 3½ miles long, is entered), we then proceed to
+
+(place: england/yorkshire/marsden)
+
+(place: england/yorkshire/slaithwaite)
+
+[Golcar](/stations/golcar).—A town with a population of 5,110, employed in the cloth trade.
+
+[Longwood](/stations/longwood), trade, woollen manufacture. Population, 3,402. Large reservoirs.
+
+(place: england/yorkshire/huddersfield)
+
+----
+
+Uuid: G0b0V6hBu76iFLpy

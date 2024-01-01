@@ -88,7 +88,7 @@ Stops:
 - stations/chester
 - stations/dunham-hill
 - - stations/helsby
-  - stations/ince
+  - stations/ince-cheshire
   - stations/whitby-locks
   - stations/little-sutton
   - stations/hooton

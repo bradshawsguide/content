@@ -36,6 +36,20 @@ Stops:
   - stations/whalley
   - stations/clitheroe
   - stations/chatburn
+- stations/bolton-trinity-street
+- - stations/daubhill
+  - stations/chequerbent
+  - stations/atherton
+  - stations/westleigh
+  - stations/bradshaw-leach
+  - stations/kenyon-junction
+- stations/bolton-trinity-street
+  - stations/lostock-junction
+  - stations/westhoughton
+  - stations/hindley
+  - stations/ince-lancashire
+  - stations/wigan
+
 
 ----
 
@@ -72,6 +86,25 @@ Passing [Clifton](/stations/clifton-junction) (the Junction for the Line to Bury
 
   [Chatburn](/stations/chatburn) a small village on the river Ribble.
 (branch: end)
+
+(branch: start title: Bolton and Kenyon)
+  Passing [Daubhill](/stations/daubhill), [Chequerbent](/stations/chequerbent) (near to which is *Hulton Park*, the seat of W. F. Hulton, Esq.), and [Atherton](/stations/atherton), we arrive at
+
+  (place: england/lancashire/leigh)
+
+  We then pass [Bradshaw Leach](/stations/bradshaw-leach), and arrive at [Kenyon](/stations/kenyon-junction), the junction of the lines to Liverpool and Manchester.
+(branch: end)
+
+[Lostock Junction](/stations/lostock-junction)
+
+(place: england/lancashire/westhoughton)
+
+(place: england/lancashire/hindley)
+
+(place: england/lancashire/wigan)
+
+[Ince](/stations/ince-lancashire).—In the vicinity is *Ince Hall*, the seat of
+C. Blundell, Esq. (which contains the *Pantheon*, built after that at Rome, in which are 500 pieces of sculpture, a Minerva, Diana, Theseus, Canova's Psyche, &c. In the fine collection of paintings may be seen Raphael's Fall of Man, Teniers' Alchymist, and some beautiful landscapes by Wilson).
 
 ----
 

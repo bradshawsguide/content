@@ -1,0 +1,32 @@
+Title: Manchester to Bolton, Wigan and Liverpool
+
+----
+
+Section: 3
+
+----
+
+Company: companies/lancashire-and-yorkshire
+
+----
+
+Stops:
+
+- stations/manchester-victoria
+- stations/salford
+- stations/oldfield-road
+- stations/pendleton
+- stations/clifton-junction
+- stations/dixon-fold
+- stations/stoneclough
+- stations/halshaw-moor
+- stations/moses-gate
+- stations/bolton-trinity-street
+
+----
+
+Text: (place: england/lancashire/salford)
+
+----
+
+Uuid: hramDVWSjx2QJ2MT

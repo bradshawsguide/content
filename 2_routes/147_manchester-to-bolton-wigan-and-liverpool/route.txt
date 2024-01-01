@@ -22,10 +22,56 @@ Stops:
 - stations/halshaw-moor
 - stations/moses-gate
 - stations/bolton-trinity-street
+- - stations/the-oaks
+  - stations/bromley-cross
+  - stations/chapel-town
+  - stations/entwistle
+  - stations/sough
+  - stations/over-darwen
+  - stations/lower-darwen
+  - stations/blackburn
+  - stations/daisy-field
+  - stations/wilpshire
+  - stations/langho
+  - stations/whalley
+  - stations/clitheroe
+  - stations/chatburn
 
 ----
 
-Text: (place: england/lancashire/salford)
+Text:
+
+(place: england/lancashire/manchester)
+
+(place: england/lancashire/salford)
+
+(place: england/lancashire/pendleton)
+
+Passing [Clifton](/stations/clifton-junction) (the Junction for the Line to Bury, &c.), [Dixon Fold](/stations/dixon-fold), [Stoneclough](/stations/stoneclough), [Halsaw Moor](/stations/halshaw-moor), and [Moses Gate](/stations/moses-gate), we arrive at
+
+(place: england/lancashire/bolton-le-moors)
+
+(branch: start title: Clitheroe Branch)
+  Passing [The Oaks](/stations/the-oaks) Station (near to which is Bradshaw), [Bromley Cross](/stations/bromley-cross), [Chapel Town](/stations/chapel-town), [Entwisle](/stations/entwisle), [Sough](/stations/sough) stations we reach
+
+  (place: england/lancashire/over-darwen)
+
+  [Lower Darwen](/stations/lower-darwen).—This place has a population of 3,301, engaged in the paper factories.
+
+  (place: england/lancashire/blackburn)
+
+  [Daisy Field](/stations/daisy-field) station.
+
+  (place: england/lancashire/ribchester)
+
+  Passing [Langho](/stations/langho) station, on the left of which, about 2 miles distant, is the curious old timbered mansion of Henry II’s time, *Salesbury Hall*, we reach
+
+  (place: england/lancashire/whalley)
+
+  (place: england/lancashire/clitheroe)
+
+  [Chatburn](/stations/chatburn) a small village on the river Ribble.
+(branch: end)
 
 ----
 

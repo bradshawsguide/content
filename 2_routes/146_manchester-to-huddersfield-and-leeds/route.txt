@@ -40,6 +40,16 @@ Stops:
 - stations/golcar
 - stations/longwood
 - stations/huddersfield
+- stations/bradley
+- stations/mirfield
+- stations/dewsbury
+- stations/batley
+- - stations/birstal
+- stations/batley
+- stations/morley
+- stations/churwell
+- stations/wortley
+- stations/leeds-central
 
 ----
 
@@ -52,8 +62,6 @@ The intermediate stations are [Miles Platting](/stations/miles-platting), [Park]
 (place: england/lancashire/ashton-under-lyne)
 
 (branch: start title: Stockport Branch)
-  ## Ashton to Stockport
-
   [Guide Bridge](/stations/guide-bridge) station.
 
   (place: england/lancashire/denton)
@@ -92,6 +100,24 @@ Passing [Diggle](/stations/diggle) station (where the Marsden tunnel, 3½ miles 
 [Longwood](/stations/longwood), trade, woollen manufacture. Population, 3,402. Large reservoirs.
 
 (place: england/yorkshire/huddersfield)
+
+Passing [Bradley](/stations/bradley) (close to which is *Bradley Park*), and [Mirfield](/stations/mirfield) stations, we arrive at
+
+(place: england/yorkshire/dewsbury)
+
+The next station, [Batley](/stations/batley) (which has extensive woolen and carpet manufactures, and a later English church, with some fine monuments), forms the junction of the branch to
+
+(branch: start)
+  (place: england/yorkshire/birstal)
+(branch: end)
+
+(place: england/yorkshire/morley)
+
+[Churwell](/stations/churwell).—In the vicinity are *Middleton Lodge*, and *Beeston*, with its old Church and the coal mines, which have been used since the time of Charles II.
+
+(place: england/yorkshire/wortley)
+
+(place: england/yorkshire/leeds)
 
 ----
 

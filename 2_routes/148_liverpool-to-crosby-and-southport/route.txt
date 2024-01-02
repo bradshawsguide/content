@@ -1,0 +1,56 @@
+Title: Liverpool to Crosby and Southport
+
+----
+
+Section: 3
+
+----
+
+Company: companies/lancashire-and-yorkshire
+
+----
+
+Stops:
+
+- stations/liverpool-exchange
+- stations/sandhills
+- stations/millers-bridge
+- stations/bootle-village
+- stations/marsh-lane
+- stations/seaforth
+- stations/waterloo
+- stations/crosby
+- stations/hightown
+- stations/formby-and-altcar
+- stations/freshfield
+- stations/ainsdale
+- stations/birkdale-park
+- stations/southport
+
+----
+
+Text:
+
+(place: england/lancashire/liverpool)
+
+Passing [Sandhills](/stations/sandhills) and [Miller's Bridge](/stations/millers-bridge) stations,
+
+(place: england/lancashire/bootle-village)
+
+[Marsh Lane](/stations/marsh-lane) and [Seaforth](/stations/seaforth), with its pretty church, and Litherland close by.
+
+(place: england/lancashire/waterloo)
+
+(place: england/lancashire/crosby)
+
+(place: england/lancashire/hightown)
+
+(place: england/lancashire/formby-and-altcar)
+
+Passing [Freshfield](/stations/freshfield), [Ainsdale](/stations/ainsdale), and [Birkdale Park](/stations/birkdale-park), we arrive at
+
+(place: england/lancashire/southport)
+
+----
+
+Uuid: zaJiwJX5EkD139NL

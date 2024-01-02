@@ -65,6 +65,7 @@ Stops:
     - stations/fazakerley
     - stations/preston-road
     - stations/bootle-lane
+    - stations/sandhills
     - stations/liverpool-exchange
 
 ----
@@ -157,7 +158,6 @@ Amongst the places so circumstanced were Wigan, Bolton, and Bury; to connect whi
 For description of the town, see
 
 (place: england/lancashire/liverpool)
-
 
 ----
 

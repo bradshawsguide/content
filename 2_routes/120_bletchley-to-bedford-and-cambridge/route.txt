@@ -16,7 +16,7 @@ Stops:
 - stations/fenny-stratford
 - stations/woburn-sands
 - stations/ridgemont
-- stations/lidington
+- stations/lidlington
 - stations/ampthill
 - stations/bedford
 - stations/blunham

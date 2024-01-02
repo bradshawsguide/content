@@ -33,7 +33,7 @@ Passing [Adlington](/stations/adlington) station, we arrive at
 
 (place: england/cheshire/bramhall)
 
-[Cheadle Junction](/stations/cheadle-junction), point of the union with the mainline from [Crewe to Manchester](/routes/crewe-to-manchester).
+[Cheadle Junction](/stations/cheadle-junction), point of the union with the mainline from [Crewe to Manchester](/routes/crewe-to-stockport-and-manchester).
 
 ----
 

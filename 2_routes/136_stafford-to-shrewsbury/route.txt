@@ -52,7 +52,7 @@ A distance of four miles further brings the traveller to the verge of the county
 (place: england/shropshire/hadley)
 
 (branch: start title: Coalport Branch)
-  Here the line turns off to the left, passing the stations of [Oakengates](/stations/oakengates), [Malins Lee](/stations/malins-lee), [Stirchley](/stations/stirchley), and [Madeley Market](/stations/madley-market), to
+  Here the line turns off to the left, passing the stations of [Oakengates](/stations/oakengates), [Malins Lee](/stations/malins-lee), [Stirchley](/stations/stirchley), and [Madeley Market](/stations/madeley-market), to
 
   [Coalport](/stations/coalport), a small place on the Severn, having a few china manufactories.
 (branch: end)

@@ -78,7 +78,7 @@ Returning to Buildwas Junction we pass along a portion of the Wenlock Railway to
 (place: england/shropshire/coalbrookdale)
 
 (branch: start)
-  A short line extends from this place through [Madeley](/stations/madeley) to [Shiffnal](/stations/shiffnal), a place on the Great Western line from Wolverhampton to Shrewsbury.
+  A short line extends from this place through [Madeley](/stations/madeley-shropshire) to [Shiffnal](/stations/shiffnal), a place on the Great Western line from Wolverhampton to Shrewsbury.
 
   (place: england/shropshire/horsehay)
 

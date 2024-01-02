@@ -25,7 +25,7 @@ Stops:
 - stations/dudley-port-high-level
 - stations/tipton
 - stations/deepfields
-- stations/ettingshall
+- stations/ettingshall-road
 - stations/monmore-green
 - stations/wolverhampton
 

@@ -56,7 +56,7 @@ Text:
 (place: england/cheshire/stockport)
 
 (branch: start title: Stockport, Disley, and Whaley Bridge)
-  This line branches off about a mile to the south of the Stockport station, passes the stations of [Davenport](/stations/davenport) and [Hazel Grove](/stations/hazel-grove), runs through Norbury Coal Field, leaving Poyton Hall a little to the right, under the Macclesfield Canal, skirts the eminence of Lyme Park and the pond at Disley, crossed under the turnpike road by a short turn, and then runs for the greater part of its course between the canal and the road leaving [New Mills](/stations/new-mills) a little to the left, and *via* the station of [Furness Vale](/stations/furnace-vale) to
+  This line branches off about a mile to the south of the Stockport station, passes the stations of [Davenport](/stations/davenport) and [Hazel Grove](/stations/hazel-grove), runs through Norbury Coal Field, leaving Poyton Hall a little to the right, under the Macclesfield Canal, skirts the eminence of Lyme Park and the pond at Disley, crossed under the turnpike road by a short turn, and then runs for the greater part of its course between the canal and the road leaving [New Mills](/stations/new-mills) a little to the left, and *via* the station of [Furness Vale](/stations/furness-vale) to
 
   (place: england/derbyshire/whaley-bridge)
 

@@ -73,7 +73,7 @@ Quitting the Canterbury station, the line proceeds through a similar fertile tra
 
 (place: england/kent/grove-ferry)
 
-From Sturry the main line proceeds in an east-north-east direction, through a highly cultivated country, and enters the Isle of Thanet, near Grove Ferry, where the railway crosses the Wausum, and, proceeding five miles further, reaches the Minster Junction Station, whence [a branch line](/routes/minster-junction-to-deal) diverges to the ancient towns of Sandwich, and Deal, and the other, the main line, proceeds to Ramsgate and Margate.
+From Sturry the main line proceeds in an east-north-east direction, through a highly cultivated country, and enters the Isle of Thanet, near Grove Ferry, where the railway crosses the Wausum, and, proceeding five miles further, reaches the Minster Junction Station, whence a branch line diverges to the ancient towns of Sandwich, and Deal, and the other, the main line, proceeds to Ramsgate and Margate.
 
 (place: england/kent/minster-junction)
 

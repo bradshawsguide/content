@@ -72,7 +72,7 @@ After leaving Basingstoke the line proceeds through a chalky range, from which v
 (place: england/hampshire/andover)
 
 (branch: start)
-  A deviation of the [Andover and Redbridge](/routes/andover-to-redbridge), a line 22½ miles long, takes place here. It passes the stations of [Clatford](/stations/clatford), [Fullerton Bridge](/stations/fullerton-bridge), [Stockbridge](/stations/stockbridge), [Horsebridge](/stations/horsebridge), [Mottisfont](/stations/mottisfont), and [Romsey](/stations/romsey) to [Redbridge](/stations/redbridge), a station between Southampton and Dorchester.
+  A deviation of the Andover and Redbridge, a line 22½ miles long, takes place here. It passes the stations of [Clatford](/stations/clatford), [Fullerton Bridge](/stations/fullerton-bridge), [Stockbridge](/stations/stockbridge), [Horsebridge](/stations/horsebridge), [Mottisfont](/stations/mottisfont), and [Romsey](/stations/romsey) to [Redbridge](/stations/redbridge), a station between Southampton and Dorchester.
 (branch: end)
 
 [Grateley](/stations/grateley) and [Porton](/stations/porton) stations are next passed, and in a few minutes the train arrives at

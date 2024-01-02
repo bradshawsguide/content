@@ -82,7 +82,7 @@ Passing [Clifton](/stations/clifton-junction) (the Junction for the Line to Bury
 (place: england/lancashire/bolton-le-moors)
 
 (branch: start title: Clitheroe Branch)
-  Passing [The Oaks](/stations/the-oaks) Station (near to which is Bradshaw), [Bromley Cross](/stations/bromley-cross), [Chapel Town](/stations/chapel-town), [Entwisle](/stations/entwisle), [Sough](/stations/sough) stations we reach
+  Passing [The Oaks](/stations/the-oaks) Station (near to which is Bradshaw), [Bromley Cross](/stations/bromley-cross), [Chapel Town](/stations/chapel-town), [Entwistle](/stations/entwistle), [Sough](/stations/sough) stations we reach
 
   (place: england/lancashire/over-darwen)
 

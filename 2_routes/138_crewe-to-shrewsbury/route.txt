@@ -53,7 +53,7 @@ This line runs in a south-westerly direction from Crewe. The stations on the lin
 (place: england/shropshire/whitchurch)
 
 (branch: start title: Cambrian)
-  This line runs out from Whitchurch to the right. About 1¾ mile brings us into the county of Flint, the southern section of which we cross, passing the stations of [Ferns Bank](/stations/ferns-bank), 3 miles, [Bettysfield](/stations/bettysfield), 3½ miles. Again enter the county of Salop, and passing the station of [Welshampton](/station/welshampton). 1½ mile, and a further distance 2¾ mile, arrive at
+  This line runs out from Whitchurch to the right. About 1¾ mile brings us into the county of Flint, the southern section of which we cross, passing the stations of [Ferns Bank](/stations/ferns-bank), 3 miles, [Bettysfield](/stations/bettysfield), 3½ miles. Again enter the county of Salop, and passing the station of [Welshampton](/stations/welshampton). 1½ mile, and a further distance 2¾ mile, arrive at
 
   (place: england/cheshire/ellesmere)
 
@@ -61,14 +61,14 @@ This line runs in a south-westerly direction from Crewe. The stations on the lin
 
   (place: england/shropshire/oswestry)
 
-  from whench also a continuation of [the Cambrian line to Newton](routes/ostwestry-to-newtown-and-llanidloes) may be found.
+  from whench also a continuation of [the Cambrian line to Newton](/routes/ostwestry-to-newtown-and-llanidloes) may be found.
 (branch: end)
 
-[Press](/station/prees) Station.
+[Press](/stations/prees) Station.
 
 (place: england/shropshire/wem)
 
-[Yorton](/station/yorton) and [Hadnall](station/hadnall) stations.
+[Yorton](/stations/yorton) and [Hadnall](/stations/hadnall) stations.
 
 (place: england/shropshire/shrewsbury)
 

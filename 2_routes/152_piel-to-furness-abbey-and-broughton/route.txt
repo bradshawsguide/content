@@ -1,0 +1,46 @@
+Title: Piel to Furness Abbey and Broughton
+
+----
+
+Section: 3
+
+----
+
+Company: companies/furness-coniston-and-ulverston-and-lancaster
+
+----
+
+Stops:
+
+- stations/piel
+- stations/barrow
+- stations/furness-abbey
+- stations/kirkby-in-furness
+- stations/foxfield
+- - stations/broughton-in-furness
+
+----
+
+Text:
+
+(place: england/lancashire/piel)
+
+(place: england/lancashire/barrow)
+
+(place: england/lancashire/furness-abbey)
+
+(route: furness-to-ulverston-and-carnforth)
+
+(place: england/lancashire/kirkby-ireleth)
+
+[Foxfield](/stations/foxfield) Junction.
+
+(branch: start)
+  (place: england/lancashire/broughton-in-furness)
+
+  (route: broughton-to-coniston)
+(branch: end)
+
+----
+
+Uuid: fYj8NNK3OaYJwIFP

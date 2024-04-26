@@ -1,0 +1,72 @@
+Title: Preston to Carlisle
+
+----
+
+Section: 3
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/preston
+- stations/broughton
+- stations/brock
+- stations/garstang
+- stations/scorton
+- stations/bay-horse
+- stations/galgate
+- stations/lancaster
+- stations/hest-bank
+- - stations/bare-lane
+  - stations/morecambe
+- stations/bolton-le-sands
+- stations/carnforth
+- stations/burton-and-holme
+- stations/milnthorpe
+- stations/oxenholme
+
+----
+
+Text:
+
+(place: england/lancashire/preston)
+
+Passing [Broughton](/stations/broughton) and [Brock](/stations/brock) stations, at the latter of which is *Claughton Hall*, built in Charles I.'s time, but now a farm, and stone quarries in the  neighbourhood, we reach
+
+(place: england/lancashire/garstang)
+
+Passing [Scorton](/stations/scorton) station, we arrive at [Bay Horse](/stations/bay-horse). In the vicinity are Ellel Grange, seat of W. Preston Esq .; *Thurnham Hall*, the Daltons' seat, and *Ashton Hall*, on the Lune, the finely wooded park and princely seat of Le Gendre N. Starkie, Esq. (formerly of the Duke of Hamilton), which commands an extensive view of the Irish Sea.
+
+Passing [Galgate](/stations/galgate), we reach
+
+(place: england/lancashire/lancashire)
+
+From the Lune Viaduct the line proceeds towards the shores of Morecambe Bay to
+
+(place: england/lancashire/hest-bank)
+
+(branch: start)
+  A railway about 3 miles long, runs hence along the edge of the Lancaster Sands, *viâ* [Bare Lane](/stations/bare-lane), to the town of [Morecambe](/stations/morecambe).
+(branch: end)
+
+The lover of scenery will be delighted with the magnificent and bold scenery which presents itself, as the train passes onwards along the shore of Morecambe to the [Bolton-le-Sands](/stations/bolton-le-sands) station, and thence to
+
+(place: england/lancashire/carnforth)
+
+The line then proceeds along an embankment of great length, and reaches the Burton and Holme station. The former, Burton-in-Kendal, is a market town, with a population of 751. It contains an ancient church with side chapels, with monument of Cockin. Six miles beyond is Kirkby Lonsdale a market town, with a fine old Norman church, which I commands a beautiful view of the Valley Lune and Ingleborough; antique old market cross, grammar school, old stone bridge across the river, and an old inn mentioned by "Drunken Barnaby," and the latter is noted for its flax mills under Holme Fell and Tarleton Knot . When opposite Burton we pass from the county of Lancaster into [Westmorland](/places/england/westmorland).
+
+Fourteen miles from Lancaster the line crosses the river Bela, and thence passes on the east side of Milnthorpe, by Rowell, Lower Woodhouse, Greenhead, and east of Hincester.
+
+[Burton](/stations/burton) station.
+
+(place: england/westmorland/milnthorpe)
+
+The line thence crosses the canal at the tunnel, and pursues its course through a fine and well-wooded country, to the pleasant village of Sedgwick. At this point the magnitude of the Sedgwick embankment is seen to advantage. The course of the line is now by Natland to Oxenholme, previous to which it crosses the Burton turnpike road, about two miles south of Kendal. After passing an embankment, and through some heavy rock cutting, the train reaches
+
+[Oxenholme](/stations/oxenholme), a telegraph station. At this point the line is joined by the Kendal and Windermere railway, which affords an easy and delightful means of access to the lake district from the north and south east.
+
+A fine view of the town of Kendal is enjoyed at this station, the church spires, and blue roofs of the white houses which lie in the vale beneath; whilst far beyond rise the mountains of the west, the giants of the lake district.

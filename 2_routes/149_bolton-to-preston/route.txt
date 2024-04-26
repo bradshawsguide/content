@@ -1,0 +1,44 @@
+Title: Bolton to Preston
+
+----
+
+Section: 3
+
+----
+
+Company: companies/lancashire-and-yorkshire
+
+----
+
+Stops:
+
+- stations/bolton-trinity-street
+- stations/lostock-junction
+- stations/lostock-lane
+- - stations/horwich
+- stations/lostock-lane
+- stations/blackrod
+- stations/adlington-lancashire
+- stations/chorley
+- stations/euxton
+- stations/leyland
+- stations/farington
+- stations/preston
+
+----
+
+Text:
+
+(place: england/lancashire/bolton-le-moors)
+
+Passing [Lostock Junction](/stations/lostock-junction), [Lostock Lane](/stations/lostock-lane), [Horwich](/stations/horwich), [Blackrod](/stations/blackrod), with its sulphur spring, and [Adlington](/stations/adlington) stations, we arrive at
+
+(place: england/lancashire/chorley)
+
+Passing close to *Euxton Hall*, the seat of W. Anderton, Esq., *Shaw Hall*, and *Cuerden Park*, we reach [Euxton](/stations/euxton), [Leyland](/stations/leyland), and [Farington](/stations/farington) stations.
+
+(place: england/lancashire/preston)
+
+----
+
+Uuid: SoyrPmY8cZziJdax

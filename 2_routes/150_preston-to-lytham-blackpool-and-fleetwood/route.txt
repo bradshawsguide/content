@@ -1,0 +1,60 @@
+Title: Preston to Lytham, Blackpool & Fleetwood
+
+----
+
+Section: 3
+
+----
+
+Company: companies/lancashire-and-yorkshire
+
+----
+
+Stops:
+
+- stations/preston
+- stations/lea-road
+- stations/salwick
+- stations/kirkham
+- - stations/wrea-green
+  - stations/moss-side
+  - stations/warton-junction
+  - stations/lytham-station-road
+- stations/kirkham
+- stations/poulton-le-fylde
+- - stations/blackpool-north
+- stations/poulton-le-fylde
+- - stations/cleveleys
+  - stations/fleetwood
+
+----
+
+Text:
+
+(place: england/lancashire/preston)
+
+[Lea Road](/stations/lea-road) and [Salwick](/stations/salwick) stations.
+
+(place: england/lancashire/kirkham)
+
+(branch: start)
+  Passing [Wray Green](/stations/wrea-green), [Moss Side](/stations/moss-side), and [Warton](/stations/warton-junction) stations, we arrive at
+
+  (place: england/lancashire/lytham)
+(branch: end)
+
+(place: england/lancashire/poulton-le-fylde)
+
+(branch: start)
+  (place: england/lancashire/blackpool)
+(branch: end)
+
+(route: blackpool-to-lytham)
+
+[Cleveleys](/stations/cleveleys) station.
+
+(place: england/lancashire/fleetwood)
+
+----
+
+Uuid: 2w9xd48OGLnvQ0LQ

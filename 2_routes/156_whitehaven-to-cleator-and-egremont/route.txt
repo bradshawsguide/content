@@ -1,0 +1,53 @@
+Title: Whitehaven to Cleator and Egremont
+
+----
+
+Section: 3
+
+----
+
+Company: companies/whitehaven-cleator-and-egremont
+
+----
+
+Stops:
+
+- stations/whitehaven
+- stations/moor-row
+- - stations/woodend
+  - stations/egremont
+- stations/moor-row
+- stations/cleator-moor
+- stations/frizington
+- stations/eskett
+- stations/winder
+- stations/rowrah
+- stations/wright-green
+- stations/ullock
+- stations/branthwaite
+- stations/bridgefoot
+- stations/marron-junction
+
+----
+
+Text:
+
+(place: england/cumberland/whitehaven)
+
+(branch: start)
+  The first station on this line is [Moor Row](/stations/moor-row), the junction of a short branch, *via* [Woodend](/stations/woodend) to
+
+  (place: england/cumberland/egremont)
+(branch: end)
+
+Returning to the junction at Moor Row, a few minutes bring us to the station at
+
+(place: england/cumberland/cleator-moor)
+
+(place: england/cumberland/frizington)
+
+This line continues its track through the stations [Eskett](/stations/eskett), [Winder](/stations/winder), [Rowrah](/stations/rowrah), [Wright Green](/stations/wright-green), [Ullock](/stations/ullock), [Branthwaite](/stations/branthwaite), and [Bridgefoot](/stations/bridgefoot), to [Marron](/stations/marron), where it unites with the Cockermouth ad Workington railway.
+
+----
+
+Uuid: Tm6K9ZbZiydhCMri

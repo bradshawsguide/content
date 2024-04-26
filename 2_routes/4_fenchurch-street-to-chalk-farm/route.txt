@@ -21,7 +21,7 @@ Stops:
 - stations/bow
 - stations/victoria-park
 - stations/hackney
-- - stations/dalston
+- - stations/dalston-junction
   - stations/shoreditch
   - stations/broad-street
 - stations/newington-road

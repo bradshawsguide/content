@@ -1,0 +1,32 @@
+Title: Blackpool to Lytham
+
+----
+
+Section: 3
+
+----
+
+Company: companies/blackpool-and-lytham
+
+----
+
+Stops:
+
+- stations/hounds-hill
+- stations/south-shore
+- stations/stony-hill
+- stations/lytham
+
+----
+
+Text:
+
+(place: england/lancashire/blackpool)
+
+A railway seven and a half miles long now connects this place with Lytham. It runs along the [South Shore](/stations/south-shore), viâ [Stony Hill](/stations/stony-hill) to [Lytham](/stations/lytham), and affords great facilities to the public daily.
+
+(place: england/lancashire/lytham)
+
+----
+
+Uuid: JRhQuPKS0A7iz2o9

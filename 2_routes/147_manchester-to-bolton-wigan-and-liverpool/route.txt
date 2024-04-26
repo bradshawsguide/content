@@ -44,7 +44,7 @@ Stops:
   - stations/bradshaw-leach
   - stations/kenyon-junction
 - stations/bolton-trinity-street
-  - stations/lostock-junction
+- - stations/lostock-junction
   - stations/westhoughton
   - stations/hindley
   - stations/ince-lancashire

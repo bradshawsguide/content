@@ -1,0 +1,32 @@
+Title: Broughton to Coniston
+
+----
+
+Section: 3
+
+----
+
+Company: companies/furness-coniston-and-ulverston-and-lancaster
+
+----
+
+Stops:
+
+- stations/broughton-in-furness
+- stations/woodland
+- stations/torver
+- stations/coniston
+
+----
+
+Text:
+
+(place: england/lancashire/broughton-in-furness)
+
+By means of this short line, the Lake District is rendered easy of access to the tourist on the coast of Cumberland. The line commences by a junction with the Furness at Broughton, running a distance of 8 miles, *viâ* the stations of [Woodland](/stations/woodland) and [Torver](/stations/torver) to
+
+(place: england/lancashire/coniston)
+
+----
+
+Uuid: be0CZWmPXQvnY5G7

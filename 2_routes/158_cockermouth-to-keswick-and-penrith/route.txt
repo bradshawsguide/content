@@ -1,0 +1,58 @@
+Title: Cockermouth, Keswick & Penrith
+
+----
+
+Section: 3
+
+----
+
+Company: companies/cockermouth-keswick-and-penrith
+
+----
+
+Stops:
+
+- stations/cockermouth
+- stations/embelton
+- stations/bassenthwaite-lake
+- stations/braithwaite
+- stations/keswick
+- stations/threlkeld
+- stations/troutbeck
+- stations/penruddock
+- stations/blencow
+- stations/penrith
+
+----
+
+Text:
+
+(place: england/cumberland/cockermouth)
+
+This line is 31 miles long, and the country which it passes remarkable for the grandeur of its sublimity. From Cockermouth we pass on to the little village of
+
+[Embelton](/stations/embelton), 2½ miles, embosomed in the midst of a highly cultivated vale; thence, 2½ miles further, to
+
+[Bassenthwaite Water](/stations/bassenthwaite-lake), a lake four miles long, and about one mile broad. A tour around the lake, from the undulated margin of which a great variety of beautiful lake scenery may be obtained, is strongly urged. The road crosses Ouse Bridge and skirts the base of *Skiddaw*, 2,780 feet high, and *Saddleback*, 2,290 feet high. The top of Skiddaw presents some of the most extensive and splendid views, taking in the mountains (Derwentwater excepted), the sea coast, Isle of Man, etc., etc. The *Caldbeck Fells* lie a little to the north of Skiddaw.
+
+[braithwaite](/stations/braithwaite) station. Passing along a beautiful valley we next come to
+
+(place: england/cumberland/keswick)
+
+Skirting the base of the Skiddaw and Saddleback ranges, along the side of the Greta, a distance of three miles, we come to the village of
+
+[Threlkeld](/stations/threlkeld), at the foot *Blencathra*. A good view of the narrow valley of *St. John* to the right is here obtained. *Scales Tarn*, an accumulation of water in the deep recesses of the mountain side, lies about 1½ mile to the left.
+
+[Troutbeck](/stations/troutbeck) station.
+
+[Penruddock](/stations/penruddock).--*Greystock Castle* and *Park*, about two miles to the left.  The castle is a neat structure, and has a good collection of pictures. About 3½ miles further brings us to the stations of
+
+[Blencow](/stations/blencow), and about three miles more to the town of
+
+(place: england/cumberland/penrith)
+
+on the Lancaster and Carlisle railway.
+
+----
+
+Uuid: m516tiKtRiJYSFNZ

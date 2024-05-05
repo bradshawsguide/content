@@ -1,0 +1,46 @@
+Title: Carlisle to Port Carlisle and Silloth
+
+----
+
+Section: 3
+
+----
+
+Company: companies/north-british
+
+----
+
+Stops:
+
+- stations/carlisle
+- stations/kirk-andrews
+- stations/burgh
+- stations/drumburgh
+- - stations/glasson
+  - stations/port-carlisle
+- stations/drumburgh
+- stations/kirkbridge
+- stations/abbey
+- stations/silloth
+
+----
+
+Text:
+
+(place: england/cumberland/carlisle)
+
+We pass [Kirk Andrews](/stations/kirk-andrews) and [Burgh](/stations/burgh) stations, at the last of which, the Roman *Akelodunum*, there is an obelisk on the marsh, in memory of Edward I., who died here in 1307. At the old castle (which belonged to De Morville, one of a'Beckett's assassins), there is a Norman door and fortified tower; inscriptions, altars, &c., have been found here.
+
+(branch: start)
+  The next station is [Drumburgh](/stations/drumburgh), from which the line takes a curve to the right for 24 miles, via [Glasson](/stations/glasson), to
+
+  (place: england/cumberland/port-carlisle)
+(branch: end)
+
+From Drumburgh the line continues through [Kirkbridge](/stations/kirkbridge) and [Abbey](/stations/abbey) to [Silloth](/stations/silloth).
+
+(place: england/cumberland/allonby)
+
+----
+
+Uuid: 2qsrPga979zecgwZ

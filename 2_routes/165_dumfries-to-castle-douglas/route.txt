@@ -1,0 +1,55 @@
+Title: Dumfries to Castle Douglas
+
+----
+
+Section: 3
+
+----
+
+Company: companies/castle-douglas-and-dumfries
+
+----
+
+Stops:
+
+- stations/dumfries
+- stations/maxwelltown
+- stations/lochanhead
+- stations/killywhan
+- stations/kirkgunzeon
+- stations/southwick-kirkcudbrightshire
+- stations/dalbeattie
+- stations/castle-douglas
+- - stations/bridge-of-dee
+  - stations/tarff
+  - stations/kirkcudbright
+
+----
+
+Text:
+
+(place: scotland/dumfriesshire/dumfries)
+
+Leaving Dumfries we immediately cross the river Nith, famous for its trout and salmon, pass the stations of [Maxwelltown](/stations/maxwelltown), [Lochanhead](/stations/lochanhead), and [Killywhan](/stations/killywhan), and arrive at
+
+[Kirkgunzeon](/stations/kirkgunzeon), a little village in the centre of a hilly grazing district. In the vicinity are the remains of three Roman Camps.
+
+[Southwick](/stations/southwick-kirkcudbrightshire) station.
+
+[Dalbeattie](/stations/dalbeattie), a small stone-built town with a population of 1,861, engaged in shipping.
+
+(place: scotland/kirkcudbrightshire/castle-douglas)
+
+(branch: start)
+  A short line here turns off to our left. It crosses the river Dee at the [Bridge of Dee](/stations/bridge-of-dee), passing on to
+
+  [Tarff](/stations/tarff) whence there is communication to the village of *Gatehouse of Fleet*, prettily situated at the head of Fleet Bay. Passing on through *Tongueland*, near to which is *Knockmuir Hill*, from the top of which there is a most extensive prospect; we very soon arrive at
+
+  (place: scotland/kirkcudbrightshire/kirkcudbright)
+(branch: end)
+
+(route: castle-douglas-to-portpatrick)
+
+----
+
+Uuid: cqaBRELTNjGNNMgz

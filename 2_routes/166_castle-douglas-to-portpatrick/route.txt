@@ -1,0 +1,51 @@
+Title: Castle Douglas to Portpatrick
+
+----
+
+Section: 3
+
+----
+
+Company: companies/portpatrick
+
+----
+
+Stops:
+
+- stations/castle-douglas
+- stations/crossmichael
+- stations/parton-kirkcudbrightshire
+- stations/new-galloway
+- stations/creetown
+- stations/newton-stewart
+- stations/kirkcowan
+- stations/glenluce
+- stations/stranraer
+- stations/colfin
+- stations/portpatrick
+
+----
+
+Text:
+
+(place: scotland/kirkcudbrightshire/castle-douglas)
+
+[Crossmichael](/stations/crossmichael) and [Parton](/stations/parton-kirkcudbrightshire) stations.
+
+(place: scotland/kirkcudbrightshire/new-galloway)
+
+[Creetown](/stations/creetown), a telegraph station.
+
+(place: scotland/wigtownshire/newton-stewart)
+
+[Kirkcowan](/stations/kirkcowan) and [Glenluce](/stations/glenluce), the latter a telegraph station.
+
+(place: scotland/wigtownshire/stranraer)
+
+[Colfin](/stations/colfin) station.
+
+(place: scotland/wigtownshire/portpatrick)
+
+----
+
+Uuid: dzOK3NsCP0hECApZ

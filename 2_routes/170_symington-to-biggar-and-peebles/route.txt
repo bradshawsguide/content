@@ -1,0 +1,41 @@
+Title: Symington to Biggar and Peebles
+
+----
+
+Section: 3
+
+----
+
+Company: companies/caledonian
+
+----
+
+Stops:
+
+- stations/symington
+- stations/coulter
+- stations/biggar
+- stations/broughton-peeblesshire
+- stations/stobo
+- stations/lyne
+- stations/peebles
+
+----
+
+Text:
+
+(place: scotland/lanarkshire/symington)
+
+This is a line 19 miles long, running out of the Caledonian, at Symington, to Peebles, *via* the station of [Coulter](/stations/coulter), to
+
+(place: scotland/lanarkshire/biggar)
+
+[Broughton](/stations/broughton), in the vicinity of which are some border castle ruins.
+
+[Stobo](/stations/stobo) and [Lyne](/stations/lyne)
+
+(place: scotland/peeblesshire/peebles)
+
+----
+
+Uuid: sfsxT1kkuCg5Zn4Q

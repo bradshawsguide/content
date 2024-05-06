@@ -1,0 +1,205 @@
+Title: Carlisle to Edinburgh and Glasgow
+
+----
+
+Section: 3
+
+----
+
+Company: companies/caledonian
+
+----
+
+Stops:
+
+- stations/carlisle
+- stations/rockcliffe
+- stations/floriston
+- stations/gretna
+- stations/kirkpatrick
+- stations/kirtlebridge
+- stations/ecclefechan
+- stations/lockerbie
+- - stations/lochmaben
+  - stations/shieldhill
+  - stations/amisfield
+  - stations/locharbriggs
+  - stations/dumfries
+- stations/lockerbie
+- stations/nethercleugh
+- stations/dinwoodie
+- stations/wamphray
+- stations/beattock
+- stations/elvanfoot
+- stations/abington
+- stations/lamington
+- stations/symington
+- stations/thankerton
+- stations/carstairs-junction
+- - stations/carnwath
+  - stations/auchengray
+  - stations/harburn
+  - stations/midcalder
+  - stations/currie
+  - stations/kingsknowe
+  - stations/slateford
+  - stations/haymarket
+- stations/carstairs-junction
+- stations/cleghorn
+- - stations/lanark
+  - stations/sandilands
+  - stations/ponfeigh
+  - stations/douglas
+- stations/cleghorn
+- stations/braidwood
+- stations/carluke
+- stations/overtown
+- stations/wishaw
+- stations/motherwell
+- - stations/holytown
+  - stations/whifflet
+  - stations/coatbridge
+  - stations/gartsherrie-junction
+- stations/motherwell
+- stations/uddingston
+- stations/newton
+- stations/cambuslang
+- stations/rutherglen
+- stations/glasgow-central
+
+----
+
+Text:
+
+(place: england/cumberland/carlisle)
+
+The railway station in Court Square was built from a design by Mr. Tite, the architect of the London Royal Exchange; he also designed all the station houses on this line.
+
+Upon starting from the station, the traveller will observe on his right hand the outer wall of the *Castle*, above that the front of the *Deanery*, and further over, the ancient towers of the *Cathedral*. On the left the canal to the Solway, and Dixon's factory. Proceeding onwards, we cross the Calder over a viaduct, and thence over the river Eden by another viaduct, after which the line proceeds through King Moor, and arrives at the [Rockcliffe](/stations/rockcliffe), station. Leaving Rockcliffe, in a few minutes we arrive at the river Esk, which gives its name to Eskdale, one of the most beautiful places in Scotland. On the banks of the river, not visible, however, from the railway, is situated the late Sir James Graham's elegant mansion of *Netherby*.
+
+Crossing the river on a seven arched viaduct, we have a fine view to to the north-west; thence passing over the Glasgow road, we can perceive the Solway on the right, and Langholm Hills, with Sir John Malcolm's monument on the left. We now proceed along the Guard's embankment, formed through a deep moss, which absorbed thousands of tons of earth before the foundation was sufficiently solid to bear a train. Shortly after this we reach the [Floriston](/stations/floriston) station. We then cross the Sark, and leaving the county of Cumberland, enter Dumfriesshire, one most important of the southern counties of Scotland.
+
+The next station is now in view, and soon recognised as the celebrated
+
+(place: scotland/dumfriesshire/gretna-green)
+
+Proceeding onward, the line passes the junction of the Dumfries line and Gretna Hall, through Graham's Hill cutting, and opens into a fine view, which about this point presents a most picturesque, varied, and highly romantic appearance.
+
+Upon leaving [Kirkpatrick](/stations/kirkpatrick) station the line soon crosses the "gently winding Kirtle," on a viaduct of nine arches, and then passes the tower of Robert Gill, a noted freebooter, who, with many other reckless "chields" of former times, made this district the scene of their border raids.
+
+Shortly after leaving [Kirtle Bridge](/stations/kirtlebridge) station we pass through an extensive cutting, and thence over an embankment. We then cross the Mein Water and West Gill Burn, and soon arrive at
+
+(place: scotland/dumfriesshire/ecclefechan)
+
+Leaving Ecclefechan, we obtain a grand and extensive view of the surrounding scenery, perhaps the most gorgeous on the whole line. The Solway at the base of its gigantic sentinel; and beyond, the lofty Skiddaw, with its top melting away in the clouds. And before us is Borren's Hill, which from its curious shape is conspicuous long before we come near it. Skirting Brakenhill, we next arrive at the Milk Water, another of the poetical streams of bonnie Scotland, crossed by a viaduct, which commands a prospect of surpassing beauty.
+
+(place: scotland/dumfriesshire/lockerbie)
+
+(branch: start)
+  A branch of the Caledonian railway, 14 miles long, turns off at this station. We here intersect the valley of the Annan, and after a run of four miles cross the river, and immediately stop at the town of
+
+  (place: scotland/dumfriesshire/lochmaben)
+
+  From hence the line continues its course through [Shieldhill](/stations/shieldhill), [Amisfield](/stations/amisfield), and [Locharbriggs](/stations/locharbriggs) to [Dumfries](/stations/dumfries), where it becomes connected with the [Castle Douglas line](/routes/dumfries-to-castle-douglas).
+
+  (place: scotland/dumfriesshire/dumfries)
+(branch: end)
+
+From [Nethercleugh](/stations/nethercleugh) station to the next there is scarcely an object of interest worth noticing. pass Dinwoodie, Greens, and Mains, and then arrive at [Wamphray](/stations/wamphray). Behind *Raehill*, a fine mansion situated on the banks of the Kinnel, towers the hill of Queensberry, one of the highest mountains in the south of Scotland. Shortly after leaving the Wamphray station, we cross the Annan, on a structure 350 feet in length. Farther on, a long embankment, succeeded by the Logrie cutting. Advancing, we cross once more the Glasgow road, and in a few minutes reach the place where all the visitors to Moffat will alight, at [Beattock](/stations/beattock).
+
+(place: scotland/dumfriesshire/moffat)
+
+Resuming our progress from the Beattock station, we proceed onwards through the lovely vale of Annandale, and then passing a deep cutting, we skirt the Greskin Hills, close to which are the sources of three of Scotland's finest rivers; the Tweed, the Clyde, and the Annan having their rise in the same clump of hills, and each falling into a different sea, in a different part of the kingdom.
+
+The great viaduct over the Elvan is well worth attention . Passing
+
+[Elvanfoot](/stations/elvanfoot) station, where the Clyde and Elvan Water join, we reach
+
+(place: scotland/lanarkshire/abington)
+
+Previous to arriving at the next station, we pass, on the right hand, *Lamington Old Tower*, one of the seats of the family, one of whose daughters, it is said, was married to the great Hero of Scotland, Sir William Wallace.
+
+Passing [Lamington](/stations/lamington) station, close to which are hilly sheep walks, porphyry, and good trout fishing, Lamington House, Wandell Bower, Windgate House, Arbory Hill (600 feet high), Whitehill (70 yards), Hartside, Woodend, and Braehead, with their Roman and Saxon camps, Druid arches, and Cauldchapel with its moat of 20 yards, we arrive at
+
+(place: scotland/lanarkshire/symington)
+
+(route: symington-to-biggar-and-peebles)
+
+## Carstairs to Edinburgh
+
+[Thankerton](/stations/thankerton) and the neighbouring village of Corington Mill are celebrated as having been a favourite haunt of the persecuted Covenanters, and there are many spots pointed out among the surrounding hills as their places of worship. The Clyde, in the vicinity, is remarkable for its many windings.
+
+Leaving Thankerton, and once more crossing the river, we shortly reach the Carstairs Junction, from which point the line forks; the right branch turning off to Edinburgh and the left to Glasgow.
+
+(place: scotland/lanarkshire/carstairs-junction)
+
+[Carnwath](/stations/carnwath).--Here are remains of Couthalley Castle, *Carnwath House*, the beautiful seat of the Somervilles, and the church, which contains their effigies and tombs. Here is also the kennel of the Linlithgow hounds.
+
+[Auchengray](/stations/auchengray) and [Harburn](/stations/harburn) stations, close to which is *Harburn House*, the seat of J. Young, Esq.
+
+(place: scotland/midlothian/midcalder)
+
+[Curries](/stations/currie).--The scene of Ramsay's *Gentle Shepherd*, and near which is *Currie Hill*, the seat of the Skenes, and close by the ruins of Lennox Tower, the residence of Queen Mary and Darnley; *Buberton*, the hunting seat of James VI., and for some time the abode of Charles X of France, after the events or 1830.
+
+[Kingsknowe](/stations/kingsknowe) and [Slateford](/stations/slateford) stations, at the latter of which fairs are held on March 21st, and Wednesday after the 26th August.
+
+(place: scotland/midlothian/edinburgh)
+
+## Carstairs to Glasgow
+
+Proceeding on to Glasgow the line passes *Carstairs House*, the seat of R. Monteith , Esq.
+
+From Carstairs station we cross the river Mouse, which runs through some wild and romantic scenery, arriving at
+
+[Cleghorn](/stations/cleghorn), the junction of the branch to Lanark. Hear are the ruins of an old chapel and a Roman camp.
+
+(branch: start title: Lanark Branch)
+  Proceeding onwards, a distance of 2¾ miles, the whole of the neighbouring grounds to Lanark are remarkable as having been the hiding place of Sir William Wallace.
+
+  <blockquote>
+  Each rugged rock proclaims great Wallace' fame,<br>
+  Each cavern wild is honour'd with his name,<br>
+  Here in repose was stretched his mighty forn,<br>
+  And there he sheltered from the night and storm.
+  </blockquote>
+
+  (place: scotland/lanarkshire/lanark)
+
+  Proceeding onward, we pass the stations of [Sandilands](/stations/sandilands) and [Ponfeigh](/stations/ponfeigh) to the town of
+
+  **Douglas**, the terminus of the branch, in the midst of a valuable coal-field. *Douglas Castle*, the seat of Lord Douglas, is in the vicinity.
+(branch: end)
+
+Leaving [Cleghorn](/stations/cleghorn) and [Braidwood](/stations/braidwood) stations (near the latter of which are extensive colleries and lime works), we arrive at
+
+(place: scotland/lanarkshire/carluke)
+
+The next station is
+
+(place: scotland/lanarkshire/overtown)
+
+Passing [Wishaw](/stations/wishaw) station, near which is *Wishaw Castle*, the seat of J. Hamilton, Esq., we reach
+
+(place: scotland/lanarkshire/motherwell)
+
+From this junction we pass the stations of [Holytown](/stations/holytown) and [Whifflet](/stations/whifflet) to
+
+[Coatbridge](/stations/coatbridge).--At this place the Dundyvan Iron Works are well worth visiting.
+
+[Gartsherrie Junction](/stations/gartsherrie-junction).--Proceeding a few miles beyond this station, we enter [Stirlingshire](/places/scotland/stirlingshire).
+
+Pursuing our course from the Motherwell station, we pass several places of note. The beautiful village of [Uddingston]() is situated on an elevated spot, commanding an extensive and highly diversified prospect. The Clyde--the city of Glasgow, the Queen of the West--the numerous seats scattered around, the distant hills of Stirling, Dumbarton, and Argyleshires, lie extended before the eye, forming a panorama of great beauty. Then [Newton] station, and crossing the Clyde, we pass near
+
+[Cambuslang].--Loudon the naturalist was a native, and in the vicinity are Kirkburn, with the remains of a chapel and hospital; *Westburne*, T. Hamilton. Esq., and here "Cambuslang Wark" took place in 1742, at which Whitfield was an eye witness. This stations forms the junction of the Strathaven branch.
+
+(route: cambuslang-to-strathaven)
+
+We have scarcely got clear of the junction at Cambuslang than the arrival of the train is announced at the ancient royal burgh of
+
+(place: scotland/lanarkshire/rutherglen)
+
+(place: scotland/lanarkshire/glasgow)
+
+----
+
+Uuid: tgPiIu5TWy0k9tPl

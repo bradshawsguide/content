@@ -1,0 +1,41 @@
+Title: Glasgow to Crofthead
+
+----
+
+Section: 3
+
+----
+
+Company: companies/caledonian
+
+----
+
+Stops:
+
+- stations/pollockshaws
+- - stations/giffnock
+  - stations/clarkston
+  - stations/busby
+- stations/pollockshaws
+- stations/kinnishead
+- stations/nitshill
+- stations/barrhead
+- stations/crofthead
+
+----
+
+Text:
+
+This is a line 8¾ miles long, passing through
+
+[Pollockshaws](/stations/pollockshaws), near to which is the seat of Sir J. Marwell, rebuilt in 1753, where may be seen some old state papers, and amongst them "a Solemn League," *Upper Pollock*, the residence of Sir R. C. Pollock, Bart. A short line runs from this station, by [Giffnock](/stations/giffnock) and [Charleston](/stations/clarkston), to [Busby](/stations/busby).
+
+The route from Pollockshaws continues through
+
+[Kinnishead](/stations/kinnishead) and [Nitshill](/stations/nitshill), to
+
+[Barrhead](/stations/barrhead) and [Crofthead](/stations/crofthead), occupied principally by cotton spinners.
+
+----
+
+Uuid: 72X7NiAfQh6RS9mr

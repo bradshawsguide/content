@@ -1,0 +1,35 @@
+Title: Glasgow to Airdrie
+
+----
+
+Section: 3
+
+----
+
+Company: companies/glasgow-and-airdrie
+
+----
+
+Stops:
+
+- stations/glasgow-buchanan-street
+- stations/stepps-road
+- stations/garnkirk
+- stations/gartcosh
+- stations/gartsherrie
+
+----
+
+Text:
+
+From Glasgow, me pass the stations of [Step's Road](/stations/stepps-road), and [Garnkirk](/stations/garnkirk), near which is the fine seat of J. Dunlop, Esq.
+
+[Gartcosh](/stations/gartcosh) station.
+
+[Gartsherrie](/stations/gartsherrie) has very extensive coal and iron works.
+
+(place: scotland/lanarkshire/airdrie)
+
+----
+
+Uuid: JLwd9qLq28sz2tIu

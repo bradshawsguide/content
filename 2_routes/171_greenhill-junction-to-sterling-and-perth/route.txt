@@ -17,7 +17,7 @@ Stops:
 - - stations/airth
   - stations/south-alloa
 - stations/larbert
-- - stations/falkirk
+- - stations/grahamston-falkirk
   - stations/grangemouth
 - stations/larbert
 - stations/bannockburn
@@ -35,7 +35,7 @@ To facilitate the traffic to and from Edinburgh and the north, a short branch li
 
 Another branch taking a north-easterly direction runs via [Airth](/stations/airth) to [South Alloa](/stations/south-alloa).
 
-At [Falkirk](/stations/falkirk), a telegraph station, midway between Larbert and Polmont, a line turns off to the left for [Grangemouth](/stations/grangemouth), a bonding town of importance for shipping, on the Firth of Forth, and telegraph station.
+At [Falkirk](/stations/grahamston-falkirk), a telegraph station, midway between Larbert and Polmont, a line turns off to the left for [Grangemouth](/stations/grangemouth), a bonding town of importance for shipping, on the Firth of Forth, and telegraph station.
 
 (place: scotland/stirlingshire/bannockburn)
 

@@ -1,0 +1,56 @@
+Title: Glasgow to Dumbarton, Helensburgh, and Loch Lomond
+
+----
+
+Section: 3
+
+----
+
+Company: companies/dumbartonshire
+
+----
+
+Stops:
+
+- stations/maryhill
+- - stations/bearsden
+  - stations/milngavie
+- stations/dalmuir
+- stations/kilpatrick
+- stations/bowling
+- stations/dumbarton
+- - stations/dalreoch
+  - stations/renton
+  - stations/alexandria
+  - stations/balloch
+- stations/cardross
+- stations/helensburgh
+- stations/garelochead
+
+----
+
+Text:
+
+Leaving Glasgow we reach the station of [Maryhill](/stations/maryhill), the junction of a line through [Bearsden](/stations/bearsden) to the cotton bleaching village of [Milngavie](/stations/milngavie). Soon after leaving Maryhill we enter [Dumbartonshire](/places/scotland/dumbartonshire).
+
+[Dalmuir](/stations/dalmuir), and [Kilpatrick](/stations/kilpatrick) stations.
+
+(place: scotland/dumbartonshire/bowling)
+
+(place: scotland/dumbartonshire/dumbarton)
+
+[Cardross](/stations/cardross) station.
+
+(place: scotland/dumbartonshire/helensburgh)
+
+(place: scotland/dumbartonshire/garelochead)
+
+From Garelochead we retrace our journey to Dumbarton. We then pass the stations of [Dalreoch](/stations/dalreoch), [Renton](/stations/renton) and [Alexandria](/stations/alexandria), and arrive at
+
+(place: scotland/dumbartonshire/balloch)
+
+(place: scotland/dumbartonshire/loch-lomond)
+
+----
+
+Uuid: kn7ux5ndnWnLnN85

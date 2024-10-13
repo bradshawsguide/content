@@ -1,0 +1,46 @@
+Title: Greenhill Junction to Stirling and Perth
+
+----
+
+Section: 3
+
+----
+
+Company: companies/caledonian
+
+----
+
+Stops:
+
+- stations/greenhill-junction
+- stations/larbert
+- - stations/airth
+  - stations/south-alloa
+- stations/larbert
+- - stations/falkirk
+  - stations/grangemouth
+- stations/larbert
+- stations/bannockburn
+- stations/stirling
+
+----
+
+Text:
+
+[Greenhill Junction](/stations/greenhill-junction).--Trains from Glasgow and the south unite here with this line, beyond which circumstance the station possesses no extraordinary attraction.
+
+(place: scotland/stirlingshire/larbert)
+
+To facilitate the traffic to and from Edinburgh and the north, a short branch line turns off here, running into the Edinburgh and Glasgow railway at Polmont.
+
+Another branch taking a north-easterly direction runs via [Airth](/stations/airth) to [South Alloa](/stations/south-alloa).
+
+At [Falkirk](/stations/falkirk), a telegraph station, midway between Larbert and Polmont, a line turns off to the left for [Grangemouth](/stations/grangemouth), a bonding town of importance for shipping, on the Firth of Forth, and telegraph station.
+
+(place: scotland/stirlingshire/bannockburn)
+
+(place: scotland/stirlingshire/stirling)
+
+----
+
+Uuid: 4ao0UeoreJFBOAyp

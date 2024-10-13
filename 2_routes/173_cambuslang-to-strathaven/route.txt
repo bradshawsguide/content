@@ -1,0 +1,40 @@
+Title: Cambuslang to Strathaven
+
+----
+
+Section: 3
+
+----
+
+Company: companies/caledonian
+
+----
+
+Stops:
+
+- stations/cambuslang
+- - stations/blantyre
+  - stations/hamilton
+- stations/high-blantyre
+- stations/meikle-earnock
+- stations/quarter-road
+- stations/glassford
+- stations/strathaven
+
+----
+
+Text:
+
+The only intermediate station between Cambuslang and Hamilton is four miles from the junction, which requires a very short space of time to accomplish.
+
+(place: scotland/lanarkshire/blantyre)
+
+(place: scotland/lanarkshire/hamilton)
+
+From hence the railway passes the stations of [High Blantyre](/stations/high-blantyre), [Meikle Earnock](/stations/meikle-earnock), [Quarter Road](/stations/quarter-road), and [Glassford](/stations/glassford), to
+
+(place: scotland/lanarkshire/strathaven)
+
+----
+
+Uuid: 9kI5D9ZMfx4WtABV

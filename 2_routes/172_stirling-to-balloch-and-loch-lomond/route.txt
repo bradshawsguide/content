@@ -1,0 +1,33 @@
+Title: Stirling to Balloch and Loch Lomond
+
+----
+
+Section: 3
+
+----
+
+Company: companies/forth-and-clyde-junction
+
+----
+
+Stops:
+
+- stations/stirling
+- stations/gaggunnock
+- stations/kippen
+- stations/port-of-monteith
+- stations/bucklyvie
+- stations/balfron
+- stations/gartness
+- stations/drymen
+- stations/kilmaronock
+- stations/jamestown
+- stations/balloch
+
+----
+
+Text: This is a short line of thirty miles, connecting the eastern counties with the West Highlands of Scotland. It commences at Stirling, and passes in its route the stations of [Gaggunnock](/stations/gaggunnock), [Kippen](/stations/kippen), [Port of Monteith](/stations/port-of-monteith), [Bucklyvie](/stations/bucklyvie), [Balfron](/stations/balfron), [Gartness](/stations/gartness), [Drymen](/stations/drymen), [Kilmaronock](/stations/kilmaronock), and [Jamestown](/stations/jamestown), connecting itself with the Dumbartonshire Railway at [Balloch](/stations/balloch).
+
+----
+
+Uuid: nY00EXSrbJmPCFoF

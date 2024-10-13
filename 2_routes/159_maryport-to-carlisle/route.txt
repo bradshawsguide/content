@@ -46,3 +46,7 @@ Passing [Dearham](/stations/dearham) station (at which place there is a Saxon fo
 [Dalston](/stations/dalston).--*Rose Castle*, seat of the Bishops of Carlisle, is in the vicinity. Two miles beyond is *Dalston Hall*, formerly the seat of the Dalston family. It is now a farm, and near the church stands a stone cross and some Druidical and Roman remains. In a retired yet beautiful spot, seven miles beyond, under High Pike, 2,011 feet high, is the market town of Hesket Newmarket, which contains a Quaker's chapel, the old hall, and, in the vicinity, molybenda and cooper are found.
 
 (place: england/cumberland/carlisle)
+
+----
+
+Uuid: 4qhxuDbYL6gCJgzU

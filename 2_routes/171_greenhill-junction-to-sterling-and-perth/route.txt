@@ -22,6 +22,17 @@ Stops:
 - stations/larbert
 - stations/bannockburn
 - stations/stirling
+- stations/bridge-of-allan
+- stations/dunblane
+- stations/kinbuck
+- stations/greenloaning
+- stations/blackford
+- stations/crieff-junction
+- stations/auchterarder
+- stations/dunning
+- stations/forteviot
+- stations/forgandenny
+- stations/perth
 
 ----
 
@@ -40,6 +51,32 @@ At [Falkirk](/stations/grahamston-falkirk), a telegraph station, midway between 
 (place: scotland/stirlingshire/bannockburn)
 
 (place: scotland/stirlingshire/stirling)
+
+## Stirling to Crieff Junction
+
+(place: scotland/stirlingshire/bridge-of-allan)
+
+(place: scotland/perthshire/dunblane)
+
+(route: dunblane-to-doune-and-callander)
+
+[Kinbuck](/stations/kinbuck)
+
+(place: scotland/perthshire/greenloaning)
+
+[Blackford](/stations/blackford) and [Crieff Junction](/stations/crieff-junction) stations.
+
+(route: crieff-junction-to-crieff)
+
+(place: scotland/perthshire/crieff)
+
+## Crieff Junction to Perth
+
+(place: scotland/perthshire/auchterarder)
+
+[Dunning](/stations/dunning), [Forteviot](/stations/forteviot), and [Forgandenny](/stations/forgandenny) stations.
+
+(place: scotland/perthshire/perth)
 
 ----
 

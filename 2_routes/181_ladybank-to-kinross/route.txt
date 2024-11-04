@@ -1,0 +1,43 @@
+Title: Ladybank to Kinross
+
+----
+
+Section: 3
+
+----
+
+Company: companies/fife-and-kinross
+
+----
+
+Stops:
+
+- stations/ladybank
+- stations/auchtermuchty
+- stations/strathmiglo
+- stations/gateside
+- stations/mawcarse
+- stations/milnathort
+- stations/hopefield
+- - stations/cleish-road
+  - stations/crook-of-devon
+  - stations/rumbling-bridge
+- stations/hopefield
+- stations/kinross
+
+----
+
+Text:
+
+This line branches off from Ladybank Junction, and communicates with the stations of [Auchtermuchty](/stations/auchtermuchty), [Strathmiglo](/stations/strathmiglo), [Gateside](/stations/gateside), [Mawcarse](/stations/mawcarse),
+[Milnathort](/stations/milnathort), [Hopefield](/stations/hopefield), and finally with that of
+
+(place: scotland/kinross-shire/kinross)
+
+(branch: start)
+  The Devon Valley line commences at Hopefield and runs *via* [Cleish Road](/stations/cleish-road) and [Crook of Devon](/stations/crook-of-devon) to the present terminus at [Rumbling Bridge](/stations/rumbling-bridge), foot of the Ochils, on the River Devon. There are waterfalls in the neighbourhood. The line will be continued to Tillicoultry.
+(branch: end)
+
+----
+
+Uuid: ZbXYyGagC2dIE9jw

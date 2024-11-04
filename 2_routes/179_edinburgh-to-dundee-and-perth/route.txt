@@ -1,0 +1,159 @@
+Title: Edinburgh to Dundee and Perth
+
+----
+
+Section: 3
+
+----
+
+Company: companies/north-british
+
+----
+
+Stops:
+
+- stations/princes-street
+- stations/trinity
+- stations/granton
+- stations/burntisland
+- stations/kinghorn
+- stations/kirkcaldy
+- stations/sinclairtown
+- stations/dysart
+- stations/thornton
+- - stations/cameron-bridge
+  - stations/leven
+  - stations/lundin-links
+  - stations/largo
+  - stations/kilconquhar
+  - stations/elie
+  - stations/st-monans
+  - stations/pittenweem
+  - stations/anstruther
+- stations/thornton
+- - stations/cardenden
+  - stations/lochgelly
+  - stations/cowdenbeath
+  - stations/crossgates
+  - stations/halbeath
+  - stations/dunfermline
+- stations/thornton
+- stations/markinch
+- - stations/leslie
+- stations/markinch
+- stations/falkland-road
+- stations/kingskettle
+- stations/ladybank
+- - stations/springfield
+  - stations/cupar
+  - stations/dairsie
+  - stations/leuchars
+  - - stations/guard-bridge
+    - stations/st-andrews
+  - stations/leuchars
+  - stations/tay-port
+  - stations/broughty-ferry
+  - stations/dundee
+- stations/ladybank
+- stations/collessie
+- stations/newburgh
+- stations/abernethy
+- stations/bridge-of-earn
+- stations/perth
+
+----
+
+Text:
+
+Leaving [Princes Street](/stations/princes-street). the railway runs on to Scotland Street, after which it divides into two branches, the one to the right running to the Docks at Leith; the other, via [Trinity](/stations/trinity) station, to
+
+(place: scotland/midlothian/granton)
+
+(place: scotland/fifeshire/burntisland)
+
+Leaving [Kinghorn](/stations/kinghorn) we shortly arrive at
+
+(place: scotland/fifeshire/kirkcaldy)
+
+Passing [Sinclairtown](/stations/sinclairtown), the next station we come to is
+
+(place: scotland/fifeshire/dysart)
+
+[Thornton](/stations/thornton) station, junction of the
+
+(branch: start title: Leven Branch)
+  Passing [Cameron Bridge](/stations/cameron-bridge) station, we arrive at
+
+  (place: scotland/fifeshire/leven)
+
+  From here the line continues along the coast of Largo Bay, through [Lundin Links](/stations/lundin-links) and [Largo](/stations/largo), to the Station for Kilconquhar, which lies about 1½ mile to the left.
+
+  [Kilconquhar](/stations/kilconquhar) is a small village situated in the midst of a hilly but fertile district, abounding in coal, limestone, &c. A little further to our left is the village of
+
+  [Elie](/stations/elie), a bathing place of some note, on the Forth, with a good harbour and considerable coasting trade.
+
+  Proceeding coastwise, we pass the stations of [St. Monan's](/stations/st-monans) and [Pittenweem](/stations/pittenweem), and arrive at
+
+  (place: scotland/fifeshire/anstruther)
+(branch: end)
+
+(branch: start title: Dunfermline Branch)
+  ## Thornton to Dunfermline
+
+  Passing the intermediate stations of [Cardenden](/stations/cardenden) and [Lochgelly](/stations/lochgelly) we come to [Cowdenbeath](/stations/cowdenbeath), the point of connection with the [Kinross-shire Railway](/routes/cowdenbeath-to-kinross).
+
+  [Crossgates](/stations/crossgates) and [Halbeath](/stations/halbeath) stations, at the latter of which there is good coal.
+
+  (place: scotland/fifeshire/dunfermline)
+(branch: end)
+
+(place: scotland/fifeshire/markinch)
+
+(branch: start)
+  A short branch, 4¼ miles, turns off here to the left to [Leslie](/stations/leslie), a village prettily situated on the river Leven, and noted for the stone coffins, &c., which have been discovered.
+(branch: end)
+
+Passing [Falkland Road](/stations/falkland-road), near to which is the town of *Falkland*, which contains a palace rebuilt by James V., Iho died here, on the site of Macduff's Castle, where the Duke of Albany starved his nephew Robert of Rothsay to death (see *"Fair Maid of Perth"*), it has a gate with a double tower, a large carved hall, and was occupied by CHarles II., and Rob Roy in 1715. The forest in which James IV. hunted no longer exits. There are camps at Dunshelt and Maiden Castle Hill.
+
+We reach [Kingskettle](/stations/kingskettle), and then proceed on to [Ladybank](/stations/ladybank), the junction of the [Fife and Kinross](/routes/ladybank-to-kinross).
+
+## Ladybank to Leuchars
+
+Passing [Springfield](/stations/springfield) station, near which are Todd's large print works, we arrive at
+
+(place: scotland/fifeshire/cupar)
+
+Passing [Dairsie](/stations/dairsie) we arrive at
+
+[Leuchars](/stations/leuchars), near which are *Leuchars House*, seat of J. Lindsay, Esq., with ruins of an old castle, *Pitlethie*, the ancient hunting seat of James VI., *Ardet*, *Pitcullo*, and *Drone*, all fine noble seats. Leuchars is the junction of the
+
+(branch: start title: St. Andrews Branch)
+  [Guard Bridge](/stations/guard-bridge) station.
+
+  (place: scotland/fifeshire/st-andrews)
+(branch: end)
+
+## Leuchars to Dundee
+
+Passing [Tay Port](/stations/tay-port)
+
+(place: scotland/forfarshire/broughty-ferry)
+
+(place: scotland/forfarshire/dundee)
+
+## Ladybank to Perth
+
+From [Ladybank](/stations/ladybank) Junction we proceed to [Collessie](/stations/collessie) station. In the vicinity near a mound are *Maiden Castle*, another camp, and *Newtown*, seat of C. Wallace, Esq.
+
+(place: scotland/fifeshire/newburgh)
+
+(place: scotland/perthshire/abernethy)
+
+[Bridge of Earn](/stations/bridge-of-earn).--This is a pretty watering place
+near Pitcaithley Spa, on the Earn river.
+
+(place: scotland/perthshire/perth)
+
+----
+
+Uuid: 2oZ2luoyEbTpni8r

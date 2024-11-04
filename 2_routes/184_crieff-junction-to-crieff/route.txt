@@ -1,0 +1,31 @@
+Title: Crieff Junction to Crieff
+
+----
+
+Section: 3
+
+----
+
+Company: companies/caledonian
+
+----
+
+Stops:
+
+- stations/crieff-junction
+- stations/tullibardine
+- stations/muthill
+- stations/highlandman
+- stations/crieff
+
+----
+
+Text:
+
+[Tullibardine](/stations/tullibardine), [Muthill](/stations/muthill) and [Highlandman](/stations/highlandman) stations.
+
+(place: scotland/perthshire/crieff)
+
+----
+
+Uuid: 61FFRWsWZzV5djTK

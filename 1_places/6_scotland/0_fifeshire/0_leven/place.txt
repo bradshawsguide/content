@@ -13,7 +13,7 @@ Info:
   desc: Crawford's; Star.
 -
   term: Fairs
-  desc: 2nd Wednesday in April, *o.s.*: 1st Wednesday in July; 3rd Wednesday in October.
+  desc: "2nd Wednesday in April, *o.s.*: 1st Wednesday in July; 3rd Wednesday in October."
 
 ----
 

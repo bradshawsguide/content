@@ -1,0 +1,32 @@
+Title: Cowdenbeath to Kinross
+
+----
+
+Section: 3
+
+----
+
+Company: companies/kinross-shire
+
+----
+
+Stops:
+
+- stations/cowdenbeath
+- stations/kelty
+- stations/blairadam
+- stations/kinross
+
+----
+
+Text:
+
+This short line of 7 miles re-opens a most interesting part of the country, closed, to a certain extent, for a length of time to the general traveller by the development of the railway system around having diverted the traffic from the great north road, which traversed this district.
+
+From Cowdenbeath we pass *en route* the stations of [Kelty](/stations/kelty) and [Blairadam](/stations/blairadam), arriving at the country town of
+
+(place: scotland/kinross-shire/kinross)
+
+----
+
+Uuid: 4pw3vrL0kI5gm6Qz

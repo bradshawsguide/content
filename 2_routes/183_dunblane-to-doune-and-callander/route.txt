@@ -1,0 +1,33 @@
+Title: Dunblane to Doune and Callander
+
+----
+
+Section: 3
+
+----
+
+Company: companies/dunblane-doune-and-callander
+
+----
+
+Stops:
+
+- stations/dunblane
+- stations/doune
+- stations/callander
+
+----
+
+Text:
+
+(place: scotland/perthshire/dunblane)
+
+This line opens out a district full of interest to the tourist, and one which few will overlook who have an opportunity to visit these parts. From Dunblane the line takes a westerly direction, calling at the village of
+
+(place: scotland/perthshire/doune)
+
+(place: scotland/perthshire/callander)
+
+----
+
+Uuid: lciV1yt8OPxHd4aO

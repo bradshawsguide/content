@@ -1,0 +1,53 @@
+Title: Stirling to Dunfermline
+
+----
+
+Section: 3
+
+----
+
+Company: companies/north-british
+
+----
+
+Stops:
+
+- stations/stirling
+- stations/causewayhead
+- stations/cambus
+- - stations/menstrie
+  - stations/alva
+- stations/cambus
+- stations/alloa
+- - stations/tillicoultry
+- stations/alloa
+- stations/clackmannan
+- stations/kincardine
+- stations/bogside
+- stations/eastgrange
+- stations/oakley-fife
+- stations/dunfermline
+
+----
+
+Text:
+
+Passing the station of [Causewayhead](/stations/causewayhead), we next come to that of [Cambus](/stations/cambus), which signifies the crooked turn of a river. A short railway turns off here, passing through [Menstrie](/stations/menstrie), to the town of [Alva](/stations/alva), in a hilly district, at the foot of *Bencleugh*, the highest point of the Ochils.
+
+(place: scotland/clackmannanshire/alloa)
+
+A branch, 3¾ miles long, here diverges to the left for the accommodation of the town of [Tillicoultry](/stations/tillicoultry).
+
+(place: scotland/clackmannanshire/clackmannan)
+
+(place: scotland/kincardineshire/kincardine)
+
+Passing the stations of [Bogside](/stations/bogside) and [Eastgrange](/stations/eastgrange) we soon reach Culross, at which there are remains of an abbey, founded in 1217, on the site of St. Serfs Hermitage, by Malcolm of Fife, and since converted into a church, in which are effigies of the Bruces of Kinross. Close by are the ruins of an old church and St. Mungo's chapel. Dunnemarle, with the ruins of the old castle where Lady Macduff and her sons were murdered by Macbeth; *Gibscroft Camps* where Banquo in the 11th century fought the Danes. *Culross Abbey*, seat of that brave old admiral the Earl of Dundonald, who first made coal tar here; it tas built by Sir W. Bruce, and has since been rebuilt--and the salt pans and coal pits which went under the sea, and were visited by James VI., but which are not now worked. Its name signifies "back peninsula." We then proceed to *Torryburn*, which contains a church in which Captain Hill is buried, whose epitaph begins "At anchor now, in death's dark road." Here at Tollzies are some Druid stones, and a companion of Lord Anson's built a house here called Tinian, after the Island at which the Centurion refitted in 1714.
+
+Soon after passing the [Oakley](/stations/oakley-fife) station we reach
+
+(place: scotland/fifeshire/dunfermline)
+
+----
+
+Uuid: azRrPKYWUYB7Ah9t

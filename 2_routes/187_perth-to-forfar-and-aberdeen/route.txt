@@ -1,0 +1,153 @@
+Title: Perth to Forfar and Aberdeen
+
+----
+
+Section: 3
+
+----
+
+Company: companies/scottish-north-eastern
+
+----
+
+Stops:
+
+- stations/perth
+- stations/luncarty
+- stations/stanley
+- stations/ballathie
+- stations/gargill
+- stations/woodside
+- stations/coupar-angus
+- - stations/rosemount
+  - stations/blairgowrie
+- stations/coupar-angus
+- stations/ardler
+- stations/meigle-junction
+- - stations/fullarton
+  - stations/jordanstone
+  - stations/alyth
+- stations/meigle-junction
+- stations/eassie
+- stations/glamis
+- stations/kirriemuir-junction
+- - stations/kirriemuir
+- stations/kirriemuir-junction
+- stations/forfar
+- stations/clocksbriggs
+- stations/auldbar-road
+- stations/guthrie
+- stations/farnell-road
+- stations/bridge-of-dun
+- - stations/brechin
+- stations/bridge-of-dun
+- stations/dubton-junction
+- - stations/montrose
+  - stations/broomfield-road
+  - stations/st-cyrus
+  - stations/lauriston
+  - stations/johnshaven
+  - stations/gourdon
+  - stations/bervie
+- stations/dubton-junction
+- stations/craigo
+- stations/marykirk
+- stations/laurencekirk
+- stations/fordoun
+- stations/drumlithie
+- stations/stonehaven
+- stations/muchalls
+- stations/newton-hill
+- stations/portlethen
+- stations/cove
+- stations/aberdeen-guild-street
+
+----
+
+Text:
+
+Immediately after leaving the Station at Perth we skirt the margin of the beautiful Tay, on the walk is through an iron gateway at the side of the opposite side of which may be seen the elegant mansion of the Earl of Mansfield, situated on an extensive and luxuriant plain, bounded on the west by the river, and on the east by the Siddall Hills, stretching far away into the county of Forfar. At a distance of 4¼ miles we arrive next at the Station of
+
+(place: scotland/perthshire/luncarty)
+
+(place: scotland/perthshire/stanley)
+
+(route: stanley-to-forres)
+
+## Stanley to Cupar
+
+Passing [Ballathie](/stations/ballathie) We reach [Cargill](/stations/cargill) station, near which is *Shortwood Shaw*, Wallace's hiding place. Close by are ruins of a cell, Druidical circles, tumuli, Castlehill Roman camp and road, *Stobhall*, an old seat of the Drummond's, where Annabella, wife of Robert III., and ancestress of the Stuarts, was born. Pearl mussels have been found here.
+
+[Woodside](/stations/woodside) station.
+
+(place: scotland/perthshire/coupar-angus)
+
+(branch: start title: Blairgowrie Branch)
+  [Rosemount](/stations/rosemount)
+
+  (place: scotland/perthshire/blairgowrie)
+(branch: end)
+
+[Ardler](/stations/ardler) station.
+
+(place: scotland/perthshire/meigle)
+
+(route: meigle-junction-to-newtyle-and-dundee)
+
+Junction with Newtyle and Dundee; it is also the point of deviation of a short line, via [Fullarton](/stations/fullarton) and [Jordanstone](/stations/jordanstone), to [Alyth](/stations/alyth).
+
+## Meigle to Kirriemuir Junction
+
+Passing [Eassie](/stations/eassie), close to which are *Dunkenny*, the seat of J. L'Amy, Esq., and *Nevay*, the Right Hon. Stewart Mackenzie, we proceed to
+
+[Glammiss](/stations/glamis), where there is a fair held in June, and near which is the Castle in which Malcolm Il. was murdered in 1033. It was given to J. Lyon by his father-in-law, Robert Il., in 1372, and contains some of the old turrets, walls 15 feet thick, suits of armour, 150 portraits, and some antique sun dials, &c.; close to the Manse is a pillar to King Malcolm, also one at Cossans, and an old fort at Dunoon, all worth a visit. Soon afterwards we reach [Kirriemuir Junction](/stations/kirriemuir-junction), and very soon after, the town of
+
+(branch: start title: Kirriemuir Branch)
+  (place: scotland/forfarshire/kirriemuir)
+(branch: end)
+
+(place: scotland/forfarshire/forfar)
+
+Passing [Clocksbriggs](/stations/clocksbriggs) we soon teach [Auldbar Road](/stations/auldbar-road) station, close to which is the fine seat of P. Chalmers, Esg.
+
+(place: scotland/forfarshire/guthrie)
+
+Passing [Farnell Road](/stations/farnell-road), close to which are the ruins of *Airley Castle*, and *Kinnaird*, the seat of the Carnegies (in the vicinity fine trout aud salmon may be caught), we proceed to the
+
+[Bridge of Dun](/stations/bridge-of-dun) (which signifies fort), near which is the fine seat of the Marchioness of Ailsa, *Dun House*, and the salmon fisheries.
+
+(branch: start title: Brechin Branch)
+  (place: scotland/forfarshire/brechin)
+(branch: end)
+
+(place: scotland/forfarshire/dubton-junction)
+
+(branch: start title: Montrose Branch)
+  (place: scotland/forfarshire/montrose)
+
+  All this part of the line passes through the fertile Vale of Strathmore.
+
+  The Montrose and Bervie Railway, 12 miles long, runs hence along the coast, passing the stations of [Broomfield Road](/stations/broomfield-road), [St. Cyrus](/stations/st-cyrus), [Lauriston](/stations/lauriston), [Johnshaven](/stations/johnshaven), and [Gourdon](/stations/gourdon), to [Bervie](/stations/bervie), all mostly occupied by fishermen and linen weavers.
+(branch: end)
+
+## Dubton to Aberdeen
+
+[Craigo](/stations/craigo) station, near which is *Craigo House*, the seat of T. Carnegie, Esq.
+
+(place: scotland/kincardineshire/marykirk)
+
+(place: scotland/kincardineshire/laurencekirk)
+
+(place: scotland/kincardineshire/fordoun)
+
+We then proceed to [Drumlithie](/stations/drumlithie) station, after which we arrive at
+
+(place: scotland/kincardineshire/stonehaven)
+
+Passing [Muchalls](/stations/muchalls), [Newton Hill](/stations/newton-hill), [Portlethen](/stations/portlethen), and [Cove](/stations/cove) stations, we enter [Aberdeenshire](/places/scotland/aberdeenshire).
+
+(place: scotland/aberdeenshire/aberdeen)
+
+----
+
+Uuid: cC5EoF8DV8ntLHXL

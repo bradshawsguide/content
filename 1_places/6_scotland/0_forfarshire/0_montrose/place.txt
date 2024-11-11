@@ -6,10 +6,6 @@ Section: 3
 
 ----
 
-Subtitle: (Branch)
-
-----
-
 Info:
 
 -
@@ -39,11 +35,9 @@ The site of the town is flat, but there are some moderate hills (Three Horns, &c
 
 The basin above alluded to is nearly dry at low water, but is so completely filled up by every tide as to wash the garden walls on the west side of the town and to afford sufficient depth of water in the channel for allowing small vessels to be navigated three miles above the harbour. At high water, the appearance of Montrose, when first discovered from the public road on the south, is peculiarly striking, and seldom fails to arrest the eye of the stranger. The basin opening towards the left, in all the beauty of a circular lake; the fertile and finely cultivated fields rising gently from its banks; the numerous surrounding country seats which burst at once upon the view; the town, harbour, and bay stretching further on the right; and the lofty summit of the Grampians, nearly in the centre of the landscape, closing the view towards the north-west, altogether present to the eye of the traveller one of the most magnificent and diversified amphitheatres to be found in the United Kingdom. The South Esk is crossed by a very magnificent suspension bridge, which stretches across the river in a noble span, the distance between the points of suspension being 432 feet. The town consists cliiefiy of one spacious main street, from which numerous lanes run off on each side, as from the High-street of Edinburgh.
 
-None of the buildings are of much account. The *Town Hall* and *Linen Rail* are in High Street The Academy may be known by its dome, and the Parisn Church by the spire: the Public Library is of old date. The favourite game of golf, is played on the sandy links along the shore; and here (where the races are held) the Queen's Scottish Body Guard of Archers met in 1850 to compete for prizes. Fish, viz., salmon, lobsters, cod, «fcc, are abundant, the cod being caught at Montrose Pits, in the North Sea--a singular hollow, which is 30 fathom deeper than the tract around.
+None of the buildings are of much account. The *Town Hall* and *Linen Rail* are in High Street The Academy may be known by its dome, and the Parisn Church by the spire: the Public Library is of old date. The favourite game of golf, is played on the sandy links along the shore; and here (where the races are held) the Queen's Scottish Body Guard of Archers met in 1850 to compete for prizes. Fish, viz., salmon, lobsters, cod, &c., are abundant, the cod being caught at Montrose Pits, in the North Sea--a singular hollow, which is 30 fathom deeper than the tract around.
 
-All this part of the line passes through the fertile Vale of Strathmore.
-
-[^1]: Another derivation makes it *Mont Rosarum* or Mount of Roses; and, accordingly, on the town seal is a wreath of roses, with a motto signifying that these sea enriches aud the *Rose* embelishes.
+[^1]: Another derivation makes it *Mont Rosarum* or Mount of Roses; and, accordingly, on the town seal is a wreath of roses, with a motto signifying that these sea enriches and the *Rose* embellishes.
 
 ----
 

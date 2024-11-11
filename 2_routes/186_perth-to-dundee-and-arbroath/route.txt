@@ -1,0 +1,46 @@
+Title: Perth to Dundee and Arbroath
+
+----
+
+Section: 3
+
+----
+
+Company: companies/scottish-north-eastern
+
+----
+
+Stops:
+
+- stations/perth
+- stations/kinfauns
+- stations/glencarse
+- stations/errol
+- stations/inchture
+- stations/longforgan
+- stations/invergowrie
+- stations/dundee-east
+- stations/broughty-ferry
+- stations/monifieth
+- stations/barry
+- stations/carnoustie
+- stations/east-haven
+- stations/arbroath
+
+----
+
+Text:
+
+Passing [Kinfauns](/stations/kinfauns) (near which is *Kinfauns Castle*), and [Glencarse](/stations/glencarse) (close to which is the seat of C. Hunter, Esq.), we reach [Errol](/stations/errol), [Inchture](/stations/inchture), and [Longforgan](/stations/longforgan) stations. At the latter is a church, rebuilt in the pointed style in 1795, and near which in 1790, 300 coins of Edward I.'s reign were found. In the vicinity are *Drummie*, Lord Kinnaird, and *Myterefield*, T. White, Esq.
+
+Passing [Invergowrie](/stations/invergowrie) station, we arrive at
+
+(place: scotland/forfarshire/dundee)
+
+Passing [Broughty Ferry](/stations/broughty-ferry) and [Monifieth](/stations/monifieth) (which has an old castle, and in the vicinity *The Grange*, an old seat. and *Fintry*), [Barry](/stations/barry) (near which is an oval camp 168 yards round, where it is reported that King Arthur's wife Vanora was confined by the Picts). [Carnoustie](/stations/carnoustie), and [East Haven](/stations/east-haven) stations, we arrive at
+
+(place: scotland/forfarshire/arbroath)
+
+----
+
+Uuid: V82B8GWuFAXPPNlH

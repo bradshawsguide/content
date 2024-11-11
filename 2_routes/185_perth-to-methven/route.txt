@@ -1,0 +1,29 @@
+Title: Perth to Almond Valley and Methven
+
+----
+
+Section: 3
+
+----
+
+Company: companies/perth-almond-valley-and-methven
+
+----
+
+Stops:
+
+- stations/perth
+- stations/almond-bank
+- stations/methven
+
+----
+
+Text:
+
+This is a line about six miles long, passing through [Almond Bank](/stations/almond-bank), to
+
+(place: scotland/perthshire/methven)
+
+----
+
+Uuid: kUOZZMhYSTExFSaM

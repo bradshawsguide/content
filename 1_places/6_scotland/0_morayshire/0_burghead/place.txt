@@ -6,10 +6,6 @@ Section: 3
 
 ----
 
-Subtitle: (Branch)
-
-----
-
 Text:
 
 A small bathing place, at the entrance to the Moray Firth. Fishing forms a considerable item in its commerce.

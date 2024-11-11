@@ -6,10 +6,6 @@ Section: 3
 
 ----
 
-Subtitle: (Branch)
-
-----
-
 Info:
 
 -

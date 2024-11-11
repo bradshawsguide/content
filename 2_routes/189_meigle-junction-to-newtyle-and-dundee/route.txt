@@ -1,0 +1,40 @@
+Title: Meigle Junction to Newtyle and Dundee
+
+----
+
+Section: 3
+
+----
+
+Company: companies/scottish-north-eastern
+
+----
+
+Stops:
+
+- stations/meigle-junction
+- stations/newtyle
+- stations/hatton-forfarshire
+- stations/auchterhouse
+- stations/dronley
+- stations/baldragon
+- stations/baldovan
+- stations/lochee
+- stations/camperdown
+- stations/liff
+- stations/invergowrie
+- stations/dundee
+
+----
+
+Text:
+
+(place: scotland/forfarshire/newtyle)
+
+Passing [Hatton](/stations/hatton), we soon reach [Auchterhouse](/stations/auchterhouse), the castle near which is the seat of Lady H. Wedderburn, and then proceed to [Dronly](/stations/dronley), thence to [Baldragon](/stations/baldragon), and after passing the stations of [Baldovan](/stations/baldovan) (near which is the handsome seat of Sir J. Ogilvie, Bart.), [lochee](/stations/lochee), [camperdown](/stations/camperdown), and [Life](/stations/liff), arrive at
+
+(place: scotland/forfarshire/dundee)
+
+----
+
+Uuid: JvNdByBoPOuBRjcr

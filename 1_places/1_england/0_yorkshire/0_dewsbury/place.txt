@@ -16,7 +16,7 @@ Info:
   desc: Wednesday.
 -
   term: Fairs
-  desc: Wednesday before old May Day: Michaelmas day, and October 6th.
+  desc: Wednesday before old May Day; Michaelmas day, and October 6th.
 -
   term: Bankers
   desc: Branch of Huddersfield Banking Co.; Branch of the West Riding Union Banking Co.

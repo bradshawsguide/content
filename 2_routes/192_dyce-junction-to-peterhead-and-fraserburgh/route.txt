@@ -1,0 +1,90 @@
+Title: Dyce Junction to Peterhead and Fraserburgh
+
+----
+
+Section: 3
+
+----
+
+Company: companies/great-north-of-scotland
+
+----
+
+Stops:
+
+- stations/dyce
+- stations/parkhill
+- stations/newmachar
+- stations/udny
+- stations/logierieve
+- stations/esslemont
+- stations/ellon
+- stations/arnage
+- stations/auchnagatt
+- stations/maud-junction
+- - stations/old-deer
+  - stations/longside
+  - stations/new-seat
+  - stations/inverugie
+  - stations/peterhead
+- stations/maud-junction
+- stations/brucklay
+- stations/strichen
+- stations/mormond
+- stations/lonmay
+- stations/rathen
+- stations/fraserburgh
+
+----
+
+Text:
+
+This line turns off to the right, passing the station of [Parkhill](/stations/parkhill), 7¾ miles to
+
+[Newmachar](/stations/newmachar), 11¾ miles, where a full view of *Benachie*, the Donside country and the Deeside mountains is obtained.
+
+[Udny](/stations/udny), 11¾ miles, the station for Newburgh, at the mouth of the Ythan.
+
+[Logierieve](/stations/logierieve), 16½, and [Esslemont](/stations/esslemont), 18 miles.
+
+(place: scotland/aberdeenshire/ellon)
+
+[Arnage](/stations/arnage), 23¼ miles; Manse and Kirk of Savoch of Deer, and house of Arnage, John Leith Ross, Esq.
+
+[Auchnagatt](/stations/auchnagatt), 27¼ miles.
+
+[Maud Junction](/stations/maud-junction), where the line to Peterhead branches off.
+
+(branch: start)
+
+(place: scotland/aberdeenshire/old-deer)
+
+The line here takes a sudden curve to the east to the station of.
+
+(place: scotland/aberdeenshire/longside)
+
+[New Seat](/stations/new-seat) station.
+
+(place: scotland/aberdeenshire/inverugie)
+
+(place: scotland/aberdeenshire/peterhead)
+
+(branch: end)
+
+Proceeding from the Junction at Maud, the Fraserburgh Extension passes through a district possessing little of the picturesque or even historical. The parishes successively traversed are those of New Deer, Strichen, Lonmay, Rathen, and Fraserburgh; the landed properties those of Pitfawr, Brucklay, Strichen, Park, Knowsie, Cortes, Craigellic, Cairness, Cairbulg, and Philorth, on which latter estate Fraserburgh stands.
+
+[Brucklay](/stations/brucklay), l½ mile. To the westward a partial view is obtained of *Brucklay Castle*, overlooking the extensive wooded policies.
+
+(place: scotland/aberdeenshire/strichen)
+
+[Mormond](/stations/mormond), 2½ miles.
+
+(place: scotland/aberdeenshire/lonmay)
+
+[Rathen](/stations/rathen), 2½ miles, in the vicinity of which are the remains of *Cairnbuly* and *Inverallochy Castles* on the coast. A distance of 2¾ miles farther brings us to
+
+(place: scotland/aberdeenshire/fraserburgh)
+
+----
+
+Uuid: GiuBKwzOF8jURkFV

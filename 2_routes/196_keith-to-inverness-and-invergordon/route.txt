@@ -1,0 +1,131 @@
+Title: Keith to Inverness and Invergordon
+
+----
+
+Section: 3
+
+----
+
+Company: companies/inverness-and-aberdeen-junction
+
+----
+
+Stops:
+
+- stations/keith
+- stations/mulben
+- stations/orton
+- - stations/rothes
+  - stations/craigellachie
+  - stations/strathspey-junction
+  - - stations/dufftown
+  - stations/strathspey-junction
+  - stations/aberlour
+  - stations/carron
+  - stations/blacksboat
+  - stations/ballindalloch
+  - stations/advie
+  - stations/dalvie
+  - stations/cromdale
+  - stations/grantown-on-spey-east
+  - stations/nethy-bridge
+- stations/orton
+- stations/fochabers
+- stations/lhanbryde
+- stations/elgin
+- - stations/lossiemouth
+- stations/elgin
+- stations/alves
+- - stations/burghead
+- stations/alves
+- stations/kinloss
+- - stations/findhorn
+- stations/kinloss
+- stations/forres
+- stations/brodie
+- stations/nairn
+- stations/fort-george
+- stations/dalcross
+- stations/culloden
+- stations/inverness
+- stations/muir-of-ord
+- stations/conon
+- stations/dingwall
+- stations/foulis
+- stations/novar
+- stations/alness
+- stations/invergordon
+- stations/delny
+- stations/kildary
+- stations/nigg
+- stations/fearn
+- stations/meikle-ferry
+- stations/bonar-bridge
+
+----
+
+Text:
+
+By means of this line there is now an unbroken connection between Aberdeen and Bonar Bridge. Continuing our journey from Keith, we pass the station of [Mulben](/stations/mulben), and arrive at [Orton](/stations/orton).
+
+The Morayshire Railway here diverges to the left. It takes a direction parallel with the river, and through the valley of the Spey. It passes the stations of [Rothes](/stations/rothes), [Craigellachie](/stations/craigellachie), and [Sstrathspey](/stations/strathspey-junction), which gives name to a Highland dance, and the junction of a short branch to [Dufftown](/stations/dufftown), [Aberlour](/stations/aberlour), [Carron](/stations/carron), [Blacksboat](/stations/blacksboat), [Ballindalloch](/stations/ballindalloch), [Advie](/stations/advie), [Dalvie](/stations/dalvie), [Cromdale](/stations/cromdale), and [Grantown](/stations/grantown-on-spey-east), to [Abernethy](/stations/abernethy).
+
+Leaving Orton, onward, we pass [Fochabers](/stations/fochabers) and [Lhanbryde](/stations/lhanbryde), and arrive at
+
+(place: scotland/morayshire/elgin)
+
+(branch: start title: Lossiemouth Branch)
+
+From Elgin a short branch of six miles turns off to the right to
+
+(place: scotland/morayshire/lossiemouth)
+
+(branch: end)
+
+Retracing our steps to Elgin, and again proceeding onward, we come to the station of [Alves](/stations/alves), the junction of a short line to
+
+(branch: start title: Burghead Branch)
+
+(place: scotland/morayshire/burghead)
+
+(branch: end)
+
+[Kinloss](/stations/kinloss) (the junction of a line, three miles long, to the town of [Findhorn](/stations/findhorn)).
+
+(place: scotland/morayshire/forres)
+
+[Brodie](/stations/brodie) station.
+
+(place: scotland/nairnshire/nairn)
+
+Seven and a half miles from Nairn is *Kilravock* (pronounced Kilrauch) *Castle*, the property of Colonel Rose, and *Contray*, H. Davidson.
+
+(place: scotland/nairnshire/cawdor)
+
+(place: scotland/inverness-shire/fort-george)
+
+Further on we reach [Dalcross](/stations/dalcross), the castle at which has an old tower of the Clan Chattan, and just beyond is
+
+(place: scotland/inverness-shire/culloden)
+
+(place: scotland/inverness-shire/inverness)
+
+[Muir of Ord](/stations/muir-of-ord) and [Conon](/stations/conon) Stations.
+
+(place: scotland/ross-shire/dingwall)
+
+[Fowlis](/stations/foulis), [Novar](/stations/novar), and [Alness](/stations/alness) stations.
+
+(place: scotland/ross-shire/invergordon)
+
+[Delnby](/stations/delny), [Parkhill](/stations/kildary), [Nigg](/stations/nigg), and [Fearn](/stations/fearn) Stations.
+
+(place: scotland/ross-shire/tain)
+
+[Meikle Ferry](/stations/meikle-ferry) Station.
+
+(place: scotland/sutherlandshire/bonar-bridge)
+
+----
+
+Uuid: cYCcebbpvYzKloA6

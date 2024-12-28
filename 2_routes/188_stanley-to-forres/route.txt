@@ -30,7 +30,7 @@ Stops:
 - stations/aviemore
 - stations/boat-of-garten
 - stations/broomhill
-- stations/grantown
+- stations/grantown-on-spey-west
 - stations/dunphail
 - stations/rafford
 - stations/forres

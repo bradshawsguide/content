@@ -6,14 +6,17 @@ Section: 3
 
 ----
 
+Desc: 2½ miles.
+
+----
+
 Notes: A telegraph station.
 
 ----
 
 Text:
 
-About half a mile westward is the hamlet
-of Cortes, with its post office and merchant shops; also in the vicinity *Momnond House*, the residence of Miss Strachan, delightfully situated; *Cairness House*, the elegant seat of J. W. Gordon, Esq., partially seen. It was built in 1793, at a cost of about £25,000, by the grandfather of the present proprietor (1865), from a design by Playfair.
+About half a mile westward is the hamlet of Cortes, with its post office and merchant shops; also in the vicinity *Momnond House*, the residence of Miss Strachan, delightfully situated; *Cairness House*, the elegant seat of J. W. Gordon, Esq., partially seen. It was built in 1793, at a cost of about £25,000, by the grandfather of the present proprietor (1865), from a design by Playfair.
 
 ----
 

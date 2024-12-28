@@ -1,0 +1,71 @@
+Title: Aberdeen to Banchory and Abryne
+
+----
+
+Section: 3
+
+----
+
+Company: companies/deeside
+
+----
+
+Stops:
+
+- stations/aberdeen-guild-street
+- stations/ruthrieston
+- stations/cults
+- stations/murtle
+- stations/milltimber
+- stations/culter
+- stations/drum
+- stations/park-aberdeenshire
+- stations/crathes
+- stations/banchory-ternan
+- stations/glassel
+- stations/torphins
+- stations/lumphanan
+- stations/aboyne
+- stations/ballater
+
+----
+
+Text:
+
+Leaving [Guild](/stations/aberdeen-guild-street) station at Aberdeen, we proceed to [Ruthrieston](/stations/ruthrieston), thence to
+
+[Colts](/stations/colts), four miles from Aberdeen, and passing the neat suspension bridge of Banchory Devenick, we have across the river to our left, St. Mary's Roman
+
+Catholic College it Blairs, devised by the late John Menzies, Bsq., of Pitfodels (the last of an ancient race), for the education of young men designed for the priesthood.
+
+[Mortle](/stations/mortle), If mile. To our left is *Kingcausie*, John Irvine Boswell, Esq. The Grampian range now begins to assume a lofty appearance: and Lochnagar, Clochnabane, and Morven may be seen towering like giants in the distance.
+
+[Milltimber](/stations/milltimber) station, 1 mile.
+
+(place: scotland/aberdeenshire/culter)
+
+[Drum](/stations/drum), 2¼ miles. To our left, on the north bank of the river is Park House, the seat of A. J. Kinloch, Esq, with its fine gardens.
+
+[Park](/stations/park) station, 1 mile.
+
+[Crathes](/stations/crathes), 2¼ miles. In the vicinity, a little to our right, Crathes Castle (an old Flemish house), the seat of Sir R. Burnett, Bart, is passed, very soon after which we arrive at
+
+(place: scotland/aberdeenshire/banchory-ternan)
+
+[Glassel](/stations/glassel) aud [Torphins](/stations/torphins) stations.
+
+[Lumphanan](/stations/lumphanan).--To the right of this, a short walk will take the tourist to the grave (a heap of 120 feet high), of the great usurper, Macbeth, who was slain there in the year 1056.
+
+(place: scotland/aberdeenshire/aboyne)
+
+(place: scotland/aberdeenshire/ballater)
+
+## Ballater to Balmoral and Braemar
+
+Following the course of the Dee, the coach proceeds along the south bank (past *Abergeldie Castle*), formerly the seat of M. F. Gordon, Esq., which has an old tower among the birches, and belonged to H. P. H. the late Duchess of Kent. About four miles beyond is *Balmoral Castle*, the summer residence of Her Majesty, situated in a picturesque vale or dell, surrounded by beautiful mountain scenery. Close by is *Birkhill*, which belonged to the late Prince Consort. There are also in the vicinity *Invercauld*, J. Farquharson, Esq., Malcolm Canmore's hunting seat, *Moraltrie*, *Marr Lodge*, Earl of File, and the salmon fisheries.
+
+(place: scotland/aberdeenshire/castleton-of-braemar)
+
+----
+
+Uuid: 4vou46L0xLJ1obaM

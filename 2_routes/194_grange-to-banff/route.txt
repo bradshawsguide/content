@@ -1,0 +1,34 @@
+Title: Grange to Banff
+
+----
+
+Section: 3
+
+----
+
+Company: companies/banff-portsoy-and-strathisla
+
+----
+
+Stops:
+
+- stations/grange-aberdeenshire
+- stations/knock-aberdeenshire
+- stations/cornhill
+- stations/tillynaught
+- - stations/portsoy
+- stations/tillynaught
+- stations/ladys-bridge
+- stations/banff-harbour
+
+----
+
+Text:
+
+This is a line 164 miles long, passing through [Knock](/stations/knock-aberdeenshire) and [Cornhill](/stations/cornhill) to [Tillynaught](/stations/tillynaught), where the line turns to the left, a distance of 2¾ miles, to the harbour at [Portsoy](/stations/portsoy), a seaport of growing importance. The continuation of the line from Tillynaught is *via* [Lady’s Bridge](/stations/ladys-bridge) to the harbour at [Banff](/stations/banff-harbour).
+
+(place: scotland/banffshire/banff)
+
+----
+
+Uuid: BAIfmiTTIZiRvhWR

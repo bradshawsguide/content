@@ -1,0 +1,34 @@
+Title: Keith to Dufftown
+
+----
+
+Section: 3
+
+----
+
+Company: companies/great-north-of-scotland
+
+----
+
+Stops:
+
+- stations/keith
+- stations/earlsmill
+- stations/auchindachy
+- stations/drummuir
+- stations/dufftown
+- stations/strathspey-junction
+
+----
+
+Text:
+
+This is a line of about nine miles, and passes through [Earlsmill](/stations/earlsmill), [Auchindachy](/stations/auchindachy), and [Drummuir](/stations/drummuir), to the little village of
+
+[Dufftown](/stations/dufftown), situated on the river Spey, at the foot of a range of hills, the principal and centre of which is Beurinnes, which rises to the height of about 2,700 feet. A little further south lies *Glenlivet*, the scene of Argyll's defeat, when he fought against the Catholic leaders.
+
+A short line to the right unites this place with [the Morayshire railway at Strathspey](/routes/keith-to-inverness-and-invergordon).
+
+----
+
+Uuid: rC2gPrBABiVxzPVh

@@ -1,0 +1,41 @@
+Title: Inveramsay to Turriff and Banff
+
+----
+
+Section: 3
+
+----
+
+Company: companies/great-north-of-scotland
+
+----
+
+Stops:
+
+- stations/inveramsay
+- stations/wartle
+- stations/rothie
+- stations/fyvie
+- stations/auchterless
+- stations/turriff
+- stations/plaidy
+- stations/king-edward
+- stations/banff-bridge
+
+----
+
+Text:
+
+[Wartle](/stations/wartle), [Rothie](/stations/rothie), and [Fyvie](/stations/fyvie) stations.
+
+[Auchterless](/stations/auchterless), on the river Ythan, in which pearls have been known to be found, and in which there are salmon fisheries.
+
+(place: scotland/aberdeenshire/turriff)
+
+[Plaidy](/stations/plaidy) and [King Edward](/stations/king-edward) stations.
+
+(place: scotland/banffshire/banff)
+
+----
+
+Uuid: rTYWAvotNTaZTaO7

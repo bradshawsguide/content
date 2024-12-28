@@ -24,7 +24,7 @@ Text:
 
 (place: england/westmorland/kendal)
 
-Passing [Burnside](stations/burneside) and [Staveley](/stations/staveley) stations, beyond which is Orrest Head, from which the most extended and magnificent view of the lake is obtained, we reach
+Passing [Burnside](/stations/burneside) and [Staveley](/stations/staveley) stations, beyond which is Orrest Head, from which the most extended and magnificent view of the lake is obtained, we reach
 
 (place: england/westmorland/windermere)
 

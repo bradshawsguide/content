@@ -50,7 +50,7 @@ Stops:
 
 Text:
 
-On leaving Glasgow we are immediately plunged a long tunnel, on emerging from which we soon reach [Bishop Briggs](/stations/bishop-bridge), and at a distance of 31 miles further, we arrive at [Campsie Junction](/stations/campsie-junction), where the line branches off to Lennoxtown.
+On leaving Glasgow we are immediately plunged a long tunnel, on emerging from which we soon reach [Bishop Briggs](/stations/bishop-briggs), and at a distance of 31 miles further, we arrive at [Campsie Junction](/stations/campsie-junction), where the line branches off to Lennoxtown.
 
 (branch: start title: Campsie Branch)
   Passing [Kirkintilloch](/stations/kirkintilloch) and [Milltown](/stations/milton) stations we arrive at
@@ -75,7 +75,7 @@ Passing [Polmont](/stations/polmont), the point of junction with the Scottish Ce
 (branch: end)
 
 (branch: start)
-  To the right of Manuel the Slamannan section branches out, taking in its course the stations of [Causewayend](/stations/causewayend), [Bowhouse](/stations/bowhouse), aud [Blackston](/stations/blackston), from whence a short branch, running along the side of the Avon Water, by [Westfield](/stations/westfield), conducts to [Bathgate](/stations/bathgate-lower). From Blackston we proceed by [Avonbridge](/stations/avonbridge), [Slamannan](/stations/slamannan), [Whiterigg](/stations/whiterigg), [Rawyards](/stations/rawyards), and [Commonhead](/stations/commonhead), to [Airdrie](/stations/airdrie), at which point the line unites with that of the Monkland.
+  To the right of Manuel the Slamannan section branches out, taking in its course the stations of [Causewayend](/stations/causewayend), [Bowhouse](/stations/bowhouse), aud [Blackston](/stations/blackston), from whence a short branch, running along the side of the Avon Water, by [Westfield](/stations/westfield), conducts to [Bathgate](/stations/bathgate-lower). From Blackston we proceed by [Avonbridge](/stations/avonbridge), [Slamannan](/stations/slamannan), [Whiterigg](/stations/whiterigg), [Rawyards](/stations/rawyards), and [Commonhead](/stations/commonhead), to [Airdrie](/stations/airdrie-hallcraig-street), at which point the line unites with that of the Monkland.
 (branch: end)
 
 On leaving Manuel we almost immediately enter the county of [Linlithgow](/places/scotland/linlithgowshire).

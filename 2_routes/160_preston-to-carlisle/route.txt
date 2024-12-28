@@ -133,7 +133,7 @@ Proceeding on from the frontier, the line immediately enters a large cutting-- a
 
 (place: england/cumberland/penrith)
 
-From Penrith the country is flat and uninteresting. The line enters the valley of the Petteril, through which it pursues almost a direct course to Carlisle, past the following stations, viz.:--[Plumpton](/stations/plumpton), [Calthwaite](/stations/calthwaite), [Southwaite](/stations/southwaite), and [Wreay](/stations/wreay). In the vicinity are *Hutton Hall*, Sir R. Vane, Bart.; *Barrock Fell*, *Newbiggin Hall*; and *Petterill Bank*, J. Fawcett, Esq.
+From Penrith the country is flat and uninteresting. The line enters the valley of the Petteril, through which it pursues almost a direct course to Carlisle, past the following stations, viz.:--[Plumpton](/stations/plumpton-cumberland), [Calthwaite](/stations/calthwaite), [Southwaite](/stations/southwaite), and [Wreay](/stations/wreay). In the vicinity are *Hutton Hall*, Sir R. Vane, Bart.; *Barrock Fell*, *Newbiggin Hall*; and *Petterill Bank*, J. Fawcett, Esq.
 
 (place: england/cumberland/carlisle)
 

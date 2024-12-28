@@ -46,7 +46,7 @@ Returning to the junction at Moor Row, a few minutes bring us to the station at
 
 (place: england/cumberland/frizington)
 
-This line continues its track through the stations [Eskett](/stations/eskett), [Winder](/stations/winder), [Rowrah](/stations/rowrah), [Wright Green](/stations/wright-green), [Ullock](/stations/ullock), [Branthwaite](/stations/branthwaite), and [Bridgefoot](/stations/bridgefoot), to [Marron](/stations/marron), where it unites with the Cockermouth ad Workington railway.
+This line continues its track through the stations [Eskett](/stations/eskett), [Winder](/stations/winder), [Rowrah](/stations/rowrah), [Wright Green](/stations/wright-green), [Ullock](/stations/ullock), [Branthwaite](/stations/branthwaite), and [Bridgefoot](/stations/bridgefoot), to [Marron](/stations/marron-junction), where it unites with the Cockermouth ad Workington railway.
 
 ----
 

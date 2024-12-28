@@ -43,7 +43,7 @@ From Ayr these two lines are united for a distance of about three miles--the one
   (place: scotland/ayrshire/girvan)
 (branch: end)
 
-Returning to Ayr, we take the line to the left, via [Holybush](/stations/holybush) and [Patna](/stations/patna), to
+Returning to Ayr, we take the line to the left, via [Holybush](/stations/hollybush) and [Patna](/stations/patna), to
 
 (place: scotland/ayrshire/waterside)
 

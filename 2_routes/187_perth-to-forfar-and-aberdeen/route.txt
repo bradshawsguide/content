@@ -16,7 +16,7 @@ Stops:
 - stations/luncarty
 - stations/stanley
 - stations/ballathie
-- stations/gargill
+- stations/cargill
 - stations/woodside
 - stations/coupar-angus
 - - stations/rosemount

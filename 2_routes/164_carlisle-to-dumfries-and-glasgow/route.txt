@@ -78,13 +78,13 @@ Next follows the station of [Cummertrees](/stations/cummertrees), which takes it
 
 (route: dumfries-to-castle-douglas)
 
-Resuming our seat at Dumfries, we continue our route by the river Nith and Nithsdale. The river Cairu shortly unites its stream with the Nith, and pass the station of [Holywood](/stations/holywood) to
+Resuming our seat at Dumfries, we continue our route by the river Nith and Nithsdale. The river Cairu shortly unites its stream with the Nith, and pass the station of [Holywood](/stations/holywood-dumfriesshire) to
 
 [Auldgirth](/stations/auldgirth), close to which is Dalswinton, the ancient seat of the Comynes; not far off is the old tower of *Amisfield*, the residence of the Charteris family.
 
 (place: scotland/dumfriesshire/closeburn)
 
-[Thornhill](/stations/thornhill).--Near this are the remains of *Morton Castle*, a Roman camp, called *Tiber Castle*, the old ruin of *Eccles*, *Drumlanrig Castle*, the Duke of Buccleugh, and a high perpendicular rock, called *Glenquhargan Craig*.
+[Thornhill](/stations/thornhill-dumfriesshire).--Near this are the remains of *Morton Castle*, a Roman camp, called *Tiber Castle*, the old ruin of *Eccles*, *Drumlanrig Castle*, the Duke of Buccleugh, and a high perpendicular rock, called *Glenquhargan Craig*.
 
 [Carron Bridge](/stations/carron-bridge) station.
 
@@ -140,7 +140,7 @@ Resuming our seat at Dumfries, we continue our route by the river Nith and Niths
 
 At [Beith](/stations/beith) is a Market on Friday, and Fairs 1st Fridays in January and February, *o.s.*, and August 30th.
 
-[Lockwinnock](/stations/Lockwinnock) and [Milliken Park](/stations/milliken-park), telegraph stations.
+[Lockwinnock](/stations/lochwinnoch) and [Milliken Park](/stations/milliken-park), telegraph stations.
 
 (place: scotland/renfrewshire/johnstone)
 

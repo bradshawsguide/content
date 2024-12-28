@@ -17,7 +17,7 @@ Stops:
 - stations/lindal
 - - stations/ulverston
   - stations/cark-and-cartmel
-  - stations/kents-back
+  - stations/kents-bank
   - stations/grange
   - stations/arnside
   - stations/silverdale

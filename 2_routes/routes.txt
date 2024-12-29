@@ -2,6 +2,10 @@ Title: Routes & Tours
 
 ----
 
+Title-short: Routes
+
+----
+
 Uuid: u6dL7nGwDboBQuMd
 
 ----

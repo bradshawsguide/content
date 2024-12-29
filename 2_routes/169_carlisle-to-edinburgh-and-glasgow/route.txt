@@ -188,9 +188,9 @@ From this junction we pass the stations of [Holytown](/stations/holytown) and [W
 
 [Gartsherrie Junction](/stations/gartsherrie-junction).--Proceeding a few miles beyond this station, we enter [Stirlingshire](/places/scotland/stirlingshire).
 
-Pursuing our course from the Motherwell station, we pass several places of note. The beautiful village of [Uddingston]() is situated on an elevated spot, commanding an extensive and highly diversified prospect. The Clyde--the city of Glasgow, the Queen of the West--the numerous seats scattered around, the distant hills of Stirling, Dumbarton, and Argyleshires, lie extended before the eye, forming a panorama of great beauty. Then [Newton] station, and crossing the Clyde, we pass near
+Pursuing our course from the Motherwell station, we pass several places of note. The beautiful village of [Uddingston](/stations/uddingston) is situated on an elevated spot, commanding an extensive and highly diversified prospect. The Clyde--the city of Glasgow, the Queen of the West--the numerous seats scattered around, the distant hills of Stirling, Dumbarton, and Argyleshires, lie extended before the eye, forming a panorama of great beauty. Then [Newton](/stations/newton) station, and crossing the Clyde, we pass near
 
-[Cambuslang].--Loudon the naturalist was a native, and in the vicinity are Kirkburn, with the remains of a chapel and hospital; *Westburne*, T. Hamilton. Esq., and here "Cambuslang Wark" took place in 1742, at which Whitfield was an eye witness. This stations forms the junction of the Strathaven branch.
+[Cambuslang](/stations/cambuslang).--Loudon the naturalist was a native, and in the vicinity are Kirkburn, with the remains of a chapel and hospital; *Westburne*, T. Hamilton. Esq., and here "Cambuslang Wark" took place in 1742, at which Whitfield was an eye witness. This stations forms the junction of the Strathaven branch.
 
 (route: cambuslang-to-strathaven)
 

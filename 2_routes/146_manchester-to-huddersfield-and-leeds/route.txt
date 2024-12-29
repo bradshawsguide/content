@@ -75,7 +75,7 @@ The intermediate stations are [Miles Platting](/stations/miles-platting), [Park]
 
 [Mossley](/stations/mossley) (Lancashire), a telegraph station. Close at hand are the Pillar on Hartshead Pike, from which a beautiful view of the country may be obtained; and Bucton Castle, an old British camp.
 
-[Greenfield](/stations/greenfield) (Yorkshire).—Near at hand is Fam Hole, a Druidical remain.
+[Greenfield](/stations/greenfield) (Yorkshire).--Near at hand is Fam Hole, a Druidical remain.
 
 (branch: start)
   There is a short branch hence to Oldham, passing through the unimportant stations of [Grotton](/stations/grotton) and [Lees](/stations/lees), but forming a valuable connection between the London and North Western and the Lancashire and Yorkshire sections. After a run of about fifteen minutes our arrival is announced at
@@ -95,7 +95,7 @@ Passing [Diggle](/stations/diggle) station (where the Marsden tunnel, 3½ miles 
 
 (place: england/yorkshire/slaithwaite)
 
-[Golcar](/stations/golcar).—A town with a population of 5,110, employed in the cloth trade.
+[Golcar](/stations/golcar).--A town with a population of 5,110, employed in the cloth trade.
 
 [Longwood](/stations/longwood), trade, woollen manufacture. Population, 3,402. Large reservoirs.
 
@@ -113,7 +113,7 @@ The next station, [Batley](/stations/batley) (which has extensive woolen and car
 
 (place: england/yorkshire/morley)
 
-[Churwell](/stations/churwell).—In the vicinity are *Middleton Lodge*, and *Beeston*, with its old Church and the coal mines, which have been used since the time of Charles II.
+[Churwell](/stations/churwell).--In the vicinity are *Middleton Lodge*, and *Beeston*, with its old Church and the coal mines, which have been used since the time of Charles II.
 
 (place: england/yorkshire/wortley)
 

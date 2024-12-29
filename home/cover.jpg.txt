@@ -1,3 +1,3 @@
 template: image
 ----
-caption: <cite>Rain, Steam and Speed – The Great Western Railway</cite> (J. M. W. Turner, 1844). Original: [The National Gallery, London](https://artuk.org/discover/artworks/rain-steam-and-speed-the-great-western-railway-115073)
+caption: <cite>Rain, Steam and Speed -- The Great Western Railway</cite> (J. M. W. Turner, 1844). Original: [The National Gallery, London](https://artuk.org/discover/artworks/rain-steam-and-speed-the-great-western-railway-115073)

@@ -26,7 +26,7 @@ Bradshaw was a well-known member of the Society of Friends, and gave considerabl
 
 ## About this site
 
-Following the popularity of Michael Portillo's television series, the 1863 edition of <cite>Bradshaw’s Descriptive Railway Hand-Book of Great Britain & Ireland</cite> was republished, and copies of this and other publications by Bradshaw are now available from [Old House Books](http://bloomsbury.com/uk/bradshaws-handbook-9781908402028/).
+Following the popularity of Michael Portillo's television series, the 1863 edition of <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Ireland</cite> was republished, and copies of this and other publications by Bradshaw are now available from [Old House Books](http://bloomsbury.com/uk/bradshaws-handbook-9781908402028/).
 
 Still, as a tome of considerable size, Bradshaw's insights into the places we pass everyday remain difficult to access when exploring Britain's railways, or enduring the daily commute. The aim of this site is to make Bradshaw's work readily accessible, available to read anytime and on any device.
 
@@ -42,7 +42,7 @@ Based on <cite>Bradshaw's Descriptive Railway Hand-Book of Great Britain & Irela
 
 Photochrom images taken from the [Photochrom Print Collection](https://www.loc.gov/collections/photochrom-prints/about-this-collection), digitised by the [Library of Congress](https://www.loc.gov/) (Prints and Photographs Division).
 
-Home page features <cite>Rain, Steam and Speed – The Great Western Railway</cite> (J. M. W. Turner, 1844). Original: [The National Gallery, London](https://artuk.org/discover/artworks/rain-steam-and-speed-the-great-western-railway-115073)
+Home page features <cite>Rain, Steam and Speed -- The Great Western Railway</cite> (J. M. W. Turner, 1844). Original: [The National Gallery, London](https://artuk.org/discover/artworks/rain-steam-and-speed-the-great-western-railway-115073)
 
 Body text set in [Scotch Text](https://www.myfonts.com/fonts/positype/scotch/) by [Neil Summerour](https://www.positype.com). Condensed headings set in [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic) from [The League of Moveable Type](https://www.theleagueofmoveabletype.com/). Display and emboldened text set in [Trocchi](https://github.com/vernnobile/TrocchiFont) by Vernon Adams.
 

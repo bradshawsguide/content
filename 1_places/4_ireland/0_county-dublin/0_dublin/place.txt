@@ -14,7 +14,7 @@ Info:
 -
   term: Commercial Buildings
   desc: 11, College. Green, Henry Baker; Commercial,23, Suffolk Street, B. Saunders; Wynn's, 35 and 36 Abbey Street, Mrs. Pascoe; Commercial Hotels.
-  desc: Shelborne, Stephen's Green, Martin Burke; Gresham, 21 and 22, Upper Sackville. Street, John Radley; Imperial, 21 and 22, Lower Sackville Street, James O'Toole (manager); Prince of Wales, 34, Lower Sackville Street—; Macken's, 12, Dawson Street, John Ennis; Hibernian, 4S, Dawson Street, George Nesbitt; Anderson's, 32 and 33, College Green, Spadaccini; Jury's, 7 and S, College Green, William Jury; Family and Commercial Hotels.
+  desc: Shelborne, Stephen's Green, Martin Burke; Gresham, 21 and 22, Upper Sackville. Street, John Radley; Imperial, 21 and 22, Lower Sackville Street, James O'Toole (manager); Prince of Wales, 34, Lower Sackville Street--; Macken's, 12, Dawson Street, John Ennis; Hibernian, 4S, Dawson Street, George Nesbitt; Anderson's, 32 and 33, College Green, Spadaccini; Jury's, 7 and S, College Green, William Jury; Family and Commercial Hotels.
 -
   term: Railway Stations
   desc: Galway, or Great Western, near the Queen's Inns and Broadstone Harbour; Drogheda and Belfast, near the Custom House and the Galway line; Great Southern and Western, or Cork line, King's Bridge, a fine granite front; Kingstown, in Westland Row; Wicklow, in Harcourt Road. The Irish gauge is 5¼ feet.

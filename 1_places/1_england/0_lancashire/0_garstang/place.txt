@@ -10,7 +10,7 @@ Info:
 
 -
   term: Hotel
-  desc: King’s Arms.
+  desc: King's Arms.
 -
   term: Market Days
   desc: Thursday and Friday.

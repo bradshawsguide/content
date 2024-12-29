@@ -87,7 +87,7 @@ Passing [Clifton](/stations/clifton-junction) (the Junction for the Line to Bury
 
   (place: england/lancashire/over-darwen)
 
-  [Lower Darwen](/stations/lower-darwen).—This place has a population of 3,301, engaged in the paper factories.
+  [Lower Darwen](/stations/lower-darwen).--This place has a population of 3,301, engaged in the paper factories.
 
   (place: england/lancashire/blackburn)
 
@@ -95,7 +95,7 @@ Passing [Clifton](/stations/clifton-junction) (the Junction for the Line to Bury
 
   (place: england/lancashire/ribchester)
 
-  Passing [Langho](/stations/langho) station, on the left of which, about 2 miles distant, is the curious old timbered mansion of Henry II’s time, *Salesbury Hall*, we reach
+  Passing [Langho](/stations/langho) station, on the left of which, about 2 miles distant, is the curious old timbered mansion of Henry II's time, *Salesbury Hall*, we reach
 
   (place: england/lancashire/whalley)
 
@@ -118,7 +118,7 @@ Passing [Clifton](/stations/clifton-junction) (the Junction for the Line to Bury
 
 (place: england/lancashire/hindley)
 
-[Ince](/stations/ince-lancashire).—In the vicinity is *Ince Hall*, the seat of C. Blundell, Esq. (which contains the *Pantheon*, built after that at Rome, in which are 500 pieces of sculpture, a Minerva, Diana, Theseus, Canova's Psyche, &c. In the fine collection of paintings may be seen Raphael's Fall of Man, Teniers' Alchymist, and some beautiful landscapes by Wilson).
+[Ince](/stations/ince-lancashire).--In the vicinity is *Ince Hall*, the seat of C. Blundell, Esq. (which contains the *Pantheon*, built after that at Rome, in which are 500 pieces of sculpture, a Minerva, Diana, Theseus, Canova's Psyche, &c. In the fine collection of paintings may be seen Raphael's Fall of Man, Teniers' Alchymist, and some beautiful landscapes by Wilson).
 
 (place: england/lancashire/wigan)
 
@@ -128,9 +128,9 @@ Passing [Clifton](/stations/clifton-junction) (the Junction for the Line to Bury
   (place: england/lancashire/southport)
 (branch: end)
 
-[Pemberton](/stations/pemberton).—*Winstanley Hall*, M. Bankes, Esq.
+[Pemberton](/stations/pemberton).--*Winstanley Hall*, M. Bankes, Esq.
 
-[Orrel](/stations/orrel).—In the vicinity are *Orrel Lodge*, seat of J. Horrocks, Esq.; *Upholland*, where are the remains of a priory, of which the church was a part.
+[Orrel](/stations/orrel).--In the vicinity are *Orrel Lodge*, seat of J. Horrocks, Esq.; *Upholland*, where are the remains of a priory, of which the church was a part.
 
 Passing [Pimbo Lane](/stations/pimbo-lane) station, close to which is a tunnel 1,020 yards long, and on the right, Billinge Hill, 633 feet high, with a beacon at top from which views may be obtained of Yorkshire and Cheshire, and Bispham Hill, we reach
 

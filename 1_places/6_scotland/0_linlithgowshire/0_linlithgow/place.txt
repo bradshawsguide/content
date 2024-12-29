@@ -13,7 +13,7 @@ Info:
   desc: Star and Garter.
 -
   term: Market Day
-  desc: —Friday.
+  desc: --Friday.
 -
   term: Fairs
   desc: First Friday after second Tuesday in January; last Friday in February; third Friday in April; second Friday in June; first Tuesday August; first Friday in November.

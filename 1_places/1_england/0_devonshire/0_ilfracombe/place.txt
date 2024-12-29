@@ -37,13 +37,13 @@ Desc: Ilfracombe is a considerable sea port town, and now a fashionable watering
 
 Text:
 
-Ilfracombe is a considerable sea port town, and now a fashionable watering place, on the north coast of Devon, near the mouth of the Bristol Channel. The harbour is considered the safest and most convenient along the whole coast. It is formed like a natural basin, and is almost surrounded by craggy heights that are overspread with foliage. The town is built partly at the bottom of a steep declivity, and partly up the side of it. New buildings and streets have been built, to afford accommodation to visitors. The terraces and public rooms, forming the centre of Coronation Terrace, have been constructed—the hot and cold baths at Crewkhorne have been formed, and a number of new houses erected on the eastern side, commanding an extensive prospect over the town and Bristol Channel to the Welsh coast.
+Ilfracombe is a considerable sea port town, and now a fashionable watering place, on the north coast of Devon, near the mouth of the Bristol Channel. The harbour is considered the safest and most convenient along the whole coast. It is formed like a natural basin, and is almost surrounded by craggy heights that are overspread with foliage. The town is built partly at the bottom of a steep declivity, and partly up the side of it. New buildings and streets have been built, to afford accommodation to visitors. The terraces and public rooms, forming the centre of Coronation Terrace, have been constructed--the hot and cold baths at Crewkhorne have been formed, and a number of new houses erected on the eastern side, commanding an extensive prospect over the town and Bristol Channel to the Welsh coast.
 
 (smcp: Baths).--The direct way to Crewkhorne is by North-field to the baths, and through the tunnel.
 
 (smcp: Walks and Rides).--The walks in this neighbourhood are very beautiful, and afford delightful excursions and views.
 
-**Lynton** and **Lynmouth**.--The scenery in the neighbourhood of these two places is "wild and beautiful--magnificent and lovely" to use the words of a handbook of Devon—the writer of which observes that it is quite beyond his powers to attempt a description of the scenery abounding in this fascinating neighbourhood. The accommodations for visitors are pretty nearly equal in each.
+**Lynton** and **Lynmouth**.--The scenery in the neighbourhood of these two places is "wild and beautiful--magnificent and lovely" to use the words of a handbook of Devon--the writer of which observes that it is quite beyond his powers to attempt a description of the scenery abounding in this fascinating neighbourhood. The accommodations for visitors are pretty nearly equal in each.
 
 (smcp: Lynton Hotels).--The Valley of the Rocks Hotel; the Castlo Hotel; and Crown Inn.
 

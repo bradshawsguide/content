@@ -1,4 +1,4 @@
-Title: Bradshaw’s Guide
+Title: Bradshaw's Guide
 
 ----
 
@@ -26,7 +26,7 @@ License-url: https://creativecommons.org/publicdomain/mark/1.0/
 
 ----
 
-Title-short: Bradshaw’s
+Title-short: Bradshaw's
 
 ----
 

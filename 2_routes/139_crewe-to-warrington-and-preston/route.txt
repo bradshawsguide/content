@@ -79,7 +79,7 @@ Continuing along the embankment the train soon arrives at
 (branch: start title: Preston and Parkside)
   **Preston Junction to Preston**
 
-  [Golborne](/stations/golborne)–*Golborne Park*, seat of J. Catterall, Esq.
+  [Golborne](/stations/golborne)--*Golborne Park*, seat of J. Catterall, Esq.
 
   (place: england/lancashire/wigan)
 
@@ -89,7 +89,7 @@ Continuing along the embankment the train soon arrives at
 
   (place: england/lancashire/coppull)
 
-  [Euxton](/stations/euxton)–A telegraph station. *Euxton Hall*, the seat of W.M. J. Anderton, Esq.
+  [Euxton](/stations/euxton).--A telegraph station. *Euxton Hall*, the seat of W.M. J. Anderton, Esq.
 
   (place: england/lancashire/leyland)
 

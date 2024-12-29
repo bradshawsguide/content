@@ -2,4 +2,19 @@ Title: Scotland
 
 ----
 
+Text:
+
+----
+
+Feature:
+
+- places/scotland/lanarkshire/glasgow
+- places/scotland/inverness-shire/inverness
+- places/scotland/stirlingshire/stirling
+- places/scotland/aberdeenshire/aberdeen
+- places/scotland/renfrewshire/paisley
+- places/scotland/ayrshire/ayr
+
+----
+
 Uuid: UYRzwQ0mIckeLj8Z

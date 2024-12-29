@@ -2,4 +2,22 @@ Title: Lancashire
 
 ----
 
+Text:
+
+A maritime county, situated on the northwestern coast of England. This county includes part of the great coal fields of the north of England, and this circumstance, combined with its natural advantages for trade and manufactures, has gradually raised it to the rank of the greatest manufacturing county in the kingdom, containing Manchester, the centre of the cotton manufacture, and Liverpool, the great emporium of commerce for that side of our island.
+
+The soil and surface of the county are various; and its features in some parts, particularly towards the north, and all along its eastern border, are strongly marked. Here the hills are in general bold and lofty, and the valleys narrow and picturesque.
+
+On the sea-coast, and nearly the whole of the southern side of the county, following the course of the river Mersey, the land is low and flat. Moorlands are much more extensive than might have been expected in so populous a district, and where land is consequently very valuable.
+
+The manufactures of Lancashire are the most extensive in the kingdom, chiefly those of cotton, in all its branches; also of silk, woollen, linen, hats, stockings, pins, needles, nails, match tools and movements (nearly the whole of which that are used in the United Kingdom being made in this county), tobacco, snuff, glass, earthenware, porcelain, paper, &c.
+
+The cotton trade, of which Lancashire engrosses by far the greatest share, has risen to an extent, and with a rapidity beyond example. Manchester is the principal seat of this vast manufacture, From thence it spreads on all sides, to the south and east into Cheshire and Yorkshire, over the greater part of Lancashire, extending from Furness to Derby on the one land, and from Liverpool to Halifax on the other. The raw material being principally collected in Liverpool, it is thence distributed to all parts of the surrounding districts, where thousands are employed in preparing it, from that depôt to be sent to all parts of the world.
+
+Around Manchester, various of the principal towns and villages form subordinate stations of this extensive traffic, each being the centre of its own little sphere. Of these secondary towns, the principal are Bolton, Blackburn, Wigan, and Preston, on the west and north; Stockport on the south, and Ashton on the east. A variety of other employments, as those of bleachers, dyers, printers, tool-makers, engine and machine makers, &c., entirely depend for their existence on this manufacture.
+
+The commerce of Lancashire consists principally in the exchange of its manufactured goods; Liverpool engrosses nearly the whole of the export trade, and has risen accordingly, within less than two centuries, from a small village to its present importance.
+
+----
+
 Uuid: luk86e4wv80iVSbE

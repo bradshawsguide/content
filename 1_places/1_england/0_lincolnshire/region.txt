@@ -2,4 +2,16 @@ Title: Lincolnshire
 
 ----
 
+Text:
+
+Lincolnshire lies between the estuaries of the Humber and Wash; and next to Yorkshire, is the largest county in the kingdom. The ecclesiastical architecture of Lincolnshire has long been justly celebrated for its magnificence, and the numerous churches in the county are objects of continued admiration.
+
+It is not unworthy of remark that the most splendid edifices which adorn this district, were erected chiefly in its lowest and mots fenny situations, and we are at a loss to assign a reason why our ancestors should have preferred such a tract of country to the higher districts.
+
+Though the beauties of nature are scattered with a very sparing hand over Lincolnshire, the fruitfulness and richness of its soil make ample recompense for this deficiency. It has no manufactures of any consequence. Its trade consists almost entirely in the exchange of its produce for manufactured grocery, and other consumable commodities.
+
+There are several great fairs held in the county: that of Horncastle is especially celebrated for the number and quality of its horses.
+
+----
+
 Uuid: w1AHwAyRAp5WnrA1

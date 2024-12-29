@@ -2,4 +2,10 @@ Title: Northumberland
 
 ----
 
+Text:
+
+This large county in the north of England was originally a distinct kingdom. It returns four members, and is bounded on the north and west by the river Tweed, which divides it from Scotland, the Cheviot Hills, and part of Cumberland. The face of it, especially towards the west, is roughened with huge mountains, the most remarkable of which are the Cheviot Hills and the high ridge called Ridesdale; but the lands are level towards the sea-side and the borders of Durham. It is particularly distinguished for agriculture, which has reached a very high degree of perfection.
+
+----
+
 Uuid: g171NdeR4ZbtoDxo

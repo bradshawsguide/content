@@ -1,0 +1,19 @@
+Title: Roxburghshire
+
+----
+
+Subtitle: or Teviotdale
+
+----
+
+Text:
+
+The western portion of this county is very mountainous, and in the greatest part of its length its southern boundary is also mountainous, adjoining the great ridge called the Cheviot Hills, which, in the upper or western part of Roxburghshire, stretch northward into Scotland.
+
+Its external appearance is, upon the whole, extremely beautiful, containing a succession of hills and dales, through which a great number of small rivers take their course along deep and winding vallies.
+
+The county is divided into four districts, and returns one member. The most westerly and mountainous part of it is called Hawick; the second or middle district, which is farther down the county towards the east, Jedburgh; the third and lowest district, occupying the eastern part of the county on both sides of the Tweed, Kelso; the fourth and last, Melrose, and is formed of that portion of the county which is situated to the northward of the rest.
+
+----
+
+Uuid: DyF0CJqq1CmV5Z3w

@@ -1,0 +1,17 @@
+Title: Peeblesshire
+
+----
+
+Subtitle: Or Tweeddale
+
+----
+
+Text:
+
+When this county, which returns one member, is viewed from a distance, it appears to be continued chain of hills, but on internal investigation, there are found along the sides of its rivers, many rich and fertile vallies of arable land. The county on the whole, however, is extremely mountainous, particularly along the southern side of the river Tweed. There is perhaps no river in Scotland on the banks of which there have been erected so many places for private defence against the hostile depredations of the borderers.
+
+Amid the many handsome country seats which now adorn its banks there are still to be seen the ruins of castles and towers, which exhibit the predatory spirit that prevailed formerly; yet, so great is the change, that there is probably no county in Scotland in which a more zealous and active spirit of agricultural improvement now prevails than in Peebles.
+
+----
+
+Uuid: J7kQRuAgEXKCBMTc

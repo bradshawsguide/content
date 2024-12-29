@@ -2,4 +2,16 @@ Title: Yorkshire
 
 ----
 
+Text:
+
+Which is a most important county, both as respects its topographical position and commercial advantages, returns six members. It extends 130 miles in length from east to west, and is 90 miles in breadth from north to south; being not less than 460 miles in circumference. It is divided into three ridings, called the north, east, and west.
+
+The East forms the least of the three grand divisions of the county. Many parts of the wolds or hills in it afford magnificent prospects. From their northern edge the Vale of Derwent is seen extended like a map below, and beyond it the black moors towards Whitby rise in sublime grandeur. The western hills command an extensive view of the Vale of York, reaching far beyond that city into the West Riding. But the southern edge of the wolds is the most distinguished for the beauty and diversity of its prospects. The eastern portion of this elevated district skirting the Humber commands a most magnificent view of that vast estuary, extending to the south east till it is lost in the horizon. It presents to the eye an interesting spectacle of numerous vessels floating to and from the port of Hull; while that opulent and commercial town, in its low situation, close to the banks, and surrounded by the masts of the shipping in the docks, seems to rise, like Venice, from amidst the sea; the whole composing a scene which, for beauty and grandeur, can scarcely be exceeded. The district of the North is bounded on the north by the river Tees, which separates it from the county of Durham. The length of this riding from east to west is 83 miles, and its breadth from north to south 38 miles. The climate is exceedingly various. In the Vale of York the air is mild and temperate, except on the moors, where the influence of the winds from those mountainous regions is sometimes severely felt.
+
+The West Riding is about 95 miles in its greatest length from east to west, and 48 miles in breadth from north to south. Amidst the hilly and mountainous tracts of this riding are many romantic vallies, presenting the most beautiful scenery. The most extensive of these are Netherdale, or Niddersdale, watered by the Nid; Wharfdale, by the Aire, which in many places affords views the most delightful that can be imagined. The important rank which the manufactures of this county have long maintained in the estimation of the world, their manifest utility in furnishing employment and support for a great part of our population, and in supplying the comforts and conveniences of life, has often been the subject of just and well-merited commendation. The amount of patient thought, of repeated experiment, and happy exertion of genius, by which our various manufactures have been created and carried to their present excellence, is scarcely to be imagined. The establishment of manufactures in the West Riding has been the principal cause of its present wealth.
+
+The county is admirably adapted for carrying ou manufactures. The raw materials are abundant on every hand; and coals plentiful and cheap. The staple commodities of the county are wool and cotton; the former is particularly deserving of notice, from the extent of the manufactures connected with it.
+
+----
+
 Uuid: Z5JCPShwCtKOC9IZ

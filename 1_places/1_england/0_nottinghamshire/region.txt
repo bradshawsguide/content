@@ -1,0 +1,11 @@
+Title: Nottinghamshire
+
+----
+
+Text:
+
+Which, from its inland situation, and lying between the mountainous district of Derbyshire on the one hand, and the level districts of Lincolnshire on the other, may be said to be one of the most healthy, fertile, and agreeable in the kingdom. Except the level tract through which the Trent flows, the surface of the county may be considered lofty, though none of the little hills rise to any considerable degree of elevation. The climate is mild, salubrious, and remarkable for its dryness, a circumstance which has been thought to bring it nearly on a par with the most southerly districts with regard to seed time and harvest.
+
+----
+
+Uuid: iGfPBJE2fJ7hmrGt

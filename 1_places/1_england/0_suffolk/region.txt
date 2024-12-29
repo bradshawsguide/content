@@ -1,0 +1,11 @@
+Title: Suffolk
+
+----
+
+Text:
+
+This county is level, compared with many of the other English ones. The highest land is in the west, where the great chalk ridge of this part of the kingdom extends from Haverhill by Bury, to Thetford in Norfolk. The climate is considered the driest in the kingdom. Suffolk is one of the best cultivated districts in England; besides its arable lands, it contains heaths, which are employed as extensive sheepwalks. Indeed, it may be called almost exclusively a farming county, agriculture being conducted on the most improved principles.
+
+----
+
+Uuid: z1TAiDgpuF9N4rI2

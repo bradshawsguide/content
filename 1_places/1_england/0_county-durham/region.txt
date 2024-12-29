@@ -2,4 +2,12 @@ Title: County Durham
 
 ----
 
+Text:
+
+This county, which returns four members, is bounded on the north by Northumberland, the east by the German ocean, the south by Yorkshire, from which it is divided by the river Tees, and on the west by the counties of Cumberland and Westmoreland. A very large portion of it is bleak and barren, having not less than 141,000 square acres of heath land. Its general aspect is hilly and mountainous. The eastern and central parts of Durham include some beautiful and fertile valleys, and are pleasantly varied with hill and dale, alternately appropriated to the growth of corn and pasture.
+
+The western part, where the blue or mountain limestone prevails, is rich in lead ore and iron-stone, which are extensively worked. The east and north-east parts of the county are celebrated for their extensive coal mines. The seams (or strata) extend horizontally for many miles, and are from 10 to 260 fathoms beneath the surface; each stratum is from 3 to 8 feet thick.
+
+----
+
 Uuid: 8BIA6JdUHewr2w9H

@@ -1,0 +1,3 @@
+template: image
+----
+caption: Ullswater, Eamont Bridge, near Penrith, Lake District, England. Taken between ca. 1890 and ca. 1900. Original: [Library of Congress](https://www.loc.gov/item/2002696885/)

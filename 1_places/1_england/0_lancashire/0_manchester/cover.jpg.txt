@@ -1,0 +1,3 @@
+template: image
+----
+caption: <cite>St. Ann's Square, Manchester</cite>, John Atkinson Grimshaw, 1836-1893.

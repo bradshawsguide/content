@@ -17,6 +17,10 @@ Info:
 
 ----
 
+Desc: Good cheap lodgings are abundant at this place which is the capital of the Cumberland Lakes in the beautiful vale of the Greta, at the bottom of Derwentwater, under Skiddaw.
+
+----
+
 Text:
 
 Good cheap lodgings are abundant at this place which is the capital of the *Cumberland Lakes* in the beautiful vale of the Greta, at the bottom of Derwentwater, under Skiddaw.

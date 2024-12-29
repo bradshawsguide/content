@@ -30,6 +30,10 @@ Notes: Telegraph station at the railway station.
 
 ----
 
+Desc: Aberdeen is considered the third city of importance in Scotland. It lies on the north bank of the river Dee and about a mile and a half from the mouth of the Don.
+
+----
+
 Text:
 
 (smcp: Aberdeen (Old)) is a place of great antiquity. It lies about a mile to the north of the new town, near the mouth of the river Don, over which there is a line single-arched Gothic bridge, which rests on a rock on each side, and is universally admired. This town consists chiefly of one long street.

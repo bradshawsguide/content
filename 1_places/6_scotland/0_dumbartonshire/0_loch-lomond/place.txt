@@ -14,6 +14,10 @@ Info:
 
 ----
 
+Desc: Loch Lomond is a large lake lying between Dumbarton and Stirlingshires, and may be said to belong to both, as the boundary line which separates the two counties passes through it.
+
+----
+
 Text:
 
 (smcp: Loch Lomond) is a large lake lying between Dumbarton and Stirlingshires, and may be said to belong to both, as the boundary line which separates the two counties passes through it. Loch Lomond is justly considered one of the finest lakes in Scotland, and we cannot better describe it than in the words of Dr. Maculloch:—

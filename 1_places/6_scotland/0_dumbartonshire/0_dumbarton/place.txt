@@ -24,6 +24,9 @@ Notes: A telegraph station
 
 ----
 
+Desc: Dumbarton is built in a level tract of country, near the confluence of the river Leven with the Clyde.
+----
+
 Text:
 
 (smcp: Dumbarton), is built in a level tract of country, near the confluence of the river Leven with the Clyde. It consists principally of one crescent-formed street, with several smaller ones diverging from it. It has also the advantage of possessing a spacious and convenient harbour. It contains 8,253 inhabitants, who return one member. Once famed for the manufacture of glass, now for iron ship building.

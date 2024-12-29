@@ -30,6 +30,10 @@ Notes:
 
 ----
 
+Desc: In the vicinity are Dumfries House, Ochiltree, Logan House, and Terrenzean Castle, a fine ruin.
+
+----
+
 Text:
 
 In the vicinity are *Dumfries House*, *Ochiltree*, *Logan House*, and *Terrenzean Castle*, a fine ruin. At Borland, the pretty scat of the Hamiltons, are the ruins of a chapel. Plane-tree snuff-boxes are made here.

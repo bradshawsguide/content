@@ -24,6 +24,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: A Scottish royal and parliamentary burgh, and the capital of Dumfriesshire, on the river Nith, near the Solway Frith.
+
+----
+
 Text:
 
 At the Commercial Inn, Charles Stuart took up his head quarters, in 1745. A Scottish royal and parliamentary burgh (one member), and the capital of Dumfriesshire, on the river Nith, near the Solway Frith. Population 14,023. It has a little shipping trade; shoes and cotton goods are the principal manufactures. The site is flat and mossy, but the soil fertile, with the Nithsdale Hills in the distance. The streets are clean and well built Pleasant walks line the river's bank. Three slender spires are the first to strike the stranger's eye; one belongs to *St. Michael's*, an old church of the 13th century, containing, it is calculated, in and about it, above 1,800 monuments of all kinds. In the comer of the churchyard is the handsome mausoleum to Burns, set up by subscription, in 1815. A beaten path made by thousands of visitors strikes across the other graves. Within the church is an emblematic piece of marble, by Turnerelli, to the memory of the poet, who lived here as an exciseman from 1791 to his death in 1796. His widow survived him till 1834, living at a small house in Bums-street,

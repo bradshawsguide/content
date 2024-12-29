@@ -27,6 +27,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Ayr, a port, parliamentary burgh, and capital of Ayrshire, on the west coast of Scotland, at the mouth of the Ayr water, a picturesque stream, running between steep banks.
+
+----
+
 Text:
 
 (smcp: Ayr), a port, parliamentary burgh (one member), and capital of *Ayrshire*, on the west coast of Scotland, at the mouth of the Ayr water, a picturesque stream, running between steep banks, from about 30 miles in the interior. Salmon and Water o' Ayr whetstones are produced by it. Population, 18,573. About 5,000 tons of shipping are registered at the port, which, has a pier harbour. Shoes, cotton and woollen goods, carpets, and nails, are the chief branches of manufacture.

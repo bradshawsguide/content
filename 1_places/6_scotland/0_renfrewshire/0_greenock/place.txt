@@ -27,6 +27,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Greenock, is a large seaport town on the southern bank of the Firth of Clyde and the scenery in its vicinity is remarkable for its picturesque beauty.
+
+----
+
 Text:
 
 (smcp: Greenock), is a large seaport town on the southern bank of the Firth of Clyde (population, 42,09S, who return one member), and the scenery in its vicinity is remarkable for its picturesque beauty. Greenock has a good trade in boat building, but is indebted for its present commercial importance to the trade which was opened by the inhabitants of the West of Scotland with the American colonies after the Union. The *Custom House*, erected on a tongue of land which projects into the harbour, is one of the handsomest buildings in that part of Scotland. The principal street is nearly a mile in length, and there are others which run in a parallel direction along the quays, and are crossed by others at right angles; many modern improvements have recently taken place, which have greatly embellished the term; it has also a theatre. The harbour has been enlarged from time to time, and is now capable of admitting vessels of great burden. The manner in which this town is supplied with water, the aqueduct through which it is conveyed six or seven miles from the neighbouring hills to a reservoir over the town, are worthy of general admiration. Watt, the architect, was a native.

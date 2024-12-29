@@ -24,9 +24,13 @@ Notes: A telegraph station.
 
 ----
 
+Desc: A parliamentary borough and Coast Guard station, at the mouth of the river Deveron.
+
+----
+
 Text:
 
-A parliamentary borough and Coast Guard station, at the mouth of the river Deveron. It has apopulation of 6,781, engaged in the fisheries, and to a limited extent in the manufacture of leather, linen, &c. The extensive park and mansion of the Earl of Fife is in the vicinity. Its situation commands a series of beautiful views, and it possesses a good gallery of pictures.
+A parliamentary borough and Coast Guard station, at the mouth of the river Deveron. It has a population of 6,781, engaged in the fisheries, and to a limited extent in the manufacture of leather, linen, &c. The extensive park and mansion of the Earl of Fife is in the vicinity. Its situation commands a series of beautiful views, and it possesses a good gallery of pictures.
 
 ----
 

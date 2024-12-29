@@ -27,6 +27,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Paisley is a thriving seat of the cotton trade, with a population of 47,406, and contains remains of a Norman priory, large *Town Hall*, &c.
+
+----
+
 Text:
 
 (smcp: Paisley) is a thriving seat of the cotton trade, with a population of 47,406, who return one member, and contains remains of a Norman priory, founded in 1164, by the ancestor of the Stuart line (who emigrated from Shropshire), large *Town Hall*, &c. On the castle site quarries of coal, stone, iron, &c., an alum work at Hurlet, and various old seats, as *Stanley Castle*, with its pillar cross, *Carndonald*, *Cochrane*, and *Elderslie*, which was Wallace's birthplace. The basalt rocks at the braes of Gleniffer are 760 feet high. Professor Wilson, the "Christopher North" of Blackwood's Magazine, and Tannahill the poet, were natives.

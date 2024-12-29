@@ -18,6 +18,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: This is a town of growing importance with a population of 2,259, and situated about a mile and a half to the south of Carlingwark Loch, a large sheet of water, abounding with perch, &c.
+
+----
+
 Text:
 
 This is a town of growing importance with a population of 2,259, and situated about a mile and a half to the south of Carlingwark Loch, a large sheet of water, abounding with perch, &c. It has also several small well-wooded islands. *Threave Castle*, formerly belonging to the Douglasses, is situate a Utile to the west of the town, on a little island in the Dee. Its remains date from the fourteenth century.

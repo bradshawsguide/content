@@ -21,6 +21,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Is a seaport town at the top of Loch Ryan, accessible to steamers of heavy tonnage; they only sail, however, about once a week to Glasgow and Belfast.
+
+----
+
 Text:
 
 Is a seaport town at the top of Loch Ryan, accessible to steamers of heavy tonnage; they only sail, however, about once a week to Glasgow and Belfast. The town itself has no particular attraction, but the country around is very interesting.

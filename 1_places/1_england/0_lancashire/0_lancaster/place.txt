@@ -31,6 +31,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Lancaster, capital of Lancashire, a parliamentary borough (two members), and port, with a population of 16,005, engaged in the cotton trade, and a small coasting trade, at the mouth of the Lune.
+
+----
+
 Text:
 
 (smcp: Lancaster), capital of Lancashire, a parliamentary borough (two members), and port, with a population of 16,005, engaged in the cotton trade, and a small coasting trade, at the mouth of the Lune, near Glasson Dock, From its Saxon name, *Loncastre*, meaning the camp or fortress on the Lune, it is likely there was a Roman station, but this is an unsettled point. Subsequent to the Conquest, it was the head of a crown manor which, in the person of Edward III.'s son, John of Gaunt, "time-honoured Lancaster," as Shakspeare styles him, was created a duchy, with a separate jurisdiction, which exists to this day, the Chancellorship of the Duchy of Lancaster being a ministerial office, while the dukedom is held by the heir apparent, the Prince of Wales. The Lancashire magistrates are nominated by this duchy officer, and not by the Lord Chancellor. The duchy is not confined to this county, but extends elsewhere, even to several parishes near Westbury-on-Severn, in Gloucestershire; Tutbury, &c. in Staffordshire; and the Savoy, in London, where the Dukes had a large palace.

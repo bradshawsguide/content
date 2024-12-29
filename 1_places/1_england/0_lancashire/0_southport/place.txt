@@ -24,6 +24,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Southport, some time ago, from its situation and the salubrity of its atmosphere, christened the Montpellier of England, is now a favourite and fashionable watering-place, with accommodation capable of entertaining many thousands of visitors.
+
+----
+
 Text:
 
 (smcp: Southport), some time ago, from its situation and the salubrity of its atmosphere, christened the Montpellier of England, is now a favourite and fashionable watering-place, with accommodation capable of entertaining many thousands of visitors. It is situate on the north-west coast of Lancashire. Its buildings are architecturally elegant, and the broad and beautiful streets (particularly Lord Street, which is more than a mile long) have made it universally admixed. It has numerous public buildings, including an elegant Town Hall, extensive and commodious Pier, the Victoria Baths, and Strangers' Charity. In the last named institution last year many of our poor fellow-creatures had their sufferings alleviated or removed. Sandhills, resembling small tumuli, surround the town, but these are rapidly disappearing in the direction of Churchtown, by the cutting of new streets, and the erection of a very superior class of property. The environs, are replete with localities for pleasant excursions. A broad expanse of shore affords ample space for equestrian and pedestrian exercise, whilst the bathing is safe and convenient.

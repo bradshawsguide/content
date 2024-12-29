@@ -14,6 +14,10 @@ Info:
 
 ----
 
+Desc: This romantic little town of Westmorland is in the Vale of Brathay, among the mountains at the head of Windermere, from which it is about a mile distant; and is an excellent centre for excursions, short and long, in the Lake District.
+
+----
+
 Text:
 
 This romantic little town of Westmorland is in the Vale of Brathay, among the mountains at the head of Windermere, from which it is about a mile distant; and is an excellent centre for excursions, short and long, in the Lake District.

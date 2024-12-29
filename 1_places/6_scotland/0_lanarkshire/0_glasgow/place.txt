@@ -39,6 +39,10 @@ Notes: Telegraph stations at 76, St. Vincent Street, the Exchange Buildings, and
 
 ----
 
+Desc: That which was the ruin of many small places in this part of Great Britain, namely the Union, 1707, was the grand cause of the prosperity of Glasgow, and from the spirit of the inhabitants, has risen to be reckoned as the fourth port of the United Kingdom.
+
+----
+
 Text:
 
 (smcp: Glasgow).--The first port and seat of manufacture in Scotland and a parliamentary burgh, two members, in the lower ward or division of Lanarkshire (which county also returns one member), on the Clyde, 50 miles from the open sea. That which was the ruin of many small places in this part of Great Britain, namely the Union, 1707, was the grand cause of the prosperity of Glasgow, which from its admirable position on a fine navigable river in the heart of a coal-field, and from the spirit of the inhabitants, has risen to be reckoned as the fourth port of the United Kingdom, and a rival to Manchester. When Bailie Nicol Jarvie and his worthy father, the deacon, "praise to his memory," lived in the Saltmarket, before the American revolution, it was a great place for the tobacco trade, but since 1792 cotton has been the staple business.

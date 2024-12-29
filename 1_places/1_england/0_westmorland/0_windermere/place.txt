@@ -21,6 +21,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: From the Windermere station, the *Lake*, appears in view, with its beautiful islands, and grassy well-wooded fells round its borders.
+
+----
+
 Text:
 
 From the Windermere station, the *Lake*, appears in view, with its beautiful islands, and grassy well-wooded fells round its borders. From north to south it is ten miles long, but at the greatest breadth only two, and fed chiefly by two small streams, the Rothay and Brathay at the top, and discharges itself by the Leven into the sea at Morecambe Bay. It preserves nearly the same level in all weathers. The view from the terminus embraces the village of Bowness, with its white houses, close at hand; the rocky mountains of Rydal, Borrowdale, Langdale, Eskdale, Coniston, and Troutbeck, round its head; while at the bottom, you see Belle Isle and surrounding Islands, the Ferry House, on the opposite side), the beautiful seat of *Storr's Hall*, near Rawlinson's Nab (on this side), and the Cartmel and Furness fells. In the immediate neighbourhood of the terminus are *Elleray*, the seat of the late Professor Wilson, the Editor -- "Christopher North" -- of *Blackwood's Magazine*, ("Old Ebony);" *Rayrigg* is a charming seat; and *Calgarth*, which in the last century was the constant residence of the late Dr. Watson, Bishop of Llandaff, author of "*Apology for Religion*," and other excellent, works.

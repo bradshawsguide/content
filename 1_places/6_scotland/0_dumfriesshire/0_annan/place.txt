@@ -24,6 +24,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: A royal and parliamentary burgh, with a population engaged in the coasting and shipbuilding trades, salmon fisheries, and gingham factories.
+
+----
+
 Text:
 
 This is a royal and parliamentary burgh, with a population of 3,473, who return one member, jointly with Dumfries, and are engaged in the coasting and shipbuilding trades, salmon fisheries, and gingham factories; contains three chapels, town house, market place, cotton mill, rope houses, three schools, and two churches, the oldest of which has a fine spire. It is situated on the Annan, which forms an excellent harbour at its influx into the Solway Frith. The Bruces here built a stately castle, the ruins of which still remain. Dr. Blacklock, the blind poet, and the late Edward Irving, were natives.

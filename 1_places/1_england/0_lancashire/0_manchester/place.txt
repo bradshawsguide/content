@@ -14,7 +14,7 @@ Info:
 
 -
   term: Telegraph stations
-  desc: The Electric and International, York Street; Ducie Buildings, Exchange; 1, Mosley Street; Chapel Street, Salford; and at the Railway Stations. The Magnetic and British and Submarine, 11, Ducie Street, Exchange; 19, Bond Street; Queens Hote1, Portland Street; 36, Thomas Street, Shodehill; Wholesale Fish Market, Great Ducie Street; Corn Exchange, Hanging Ditch (Thursdays); Lancashire and Yorkshire Rail way Stations, Victoria, New Bailey Street, and Oldfield Road; Stock Exchange. The United Kingdom, Bank Street, opposite the Exchange; 1a, Cooper Street; Bonelli's, St. Ann's Square.
+  desc: The Electric and International, York Street; Ducie Buildings, Exchange; 1, Mosley Street; Chapel Street, Salford; and at the Railway Stations. The Magnetic and British and Submarine, 11, Ducie Street, Exchange; 19, Bond Street; Queens Hotel, Portland Street; 36, Thomas Street, Shodehill; Wholesale Fish Market, Great Ducie Street; Corn Exchange, Hanging Ditch (Thursdays); Lancashire and Yorkshire Rail way Stations, Victoria, New Bailey Street, and Oldfield Road; Stock Exchange. The United Kingdom, Bank Street, opposite the Exchange; 1a, Cooper Street; Bonelli's, St. Ann's Square.
 -
   term: Hotels
   desc: Queen's, Thomas Johnson, first class, for families and gentlemen, recommended. Albion, Palatine, and Clarence.
@@ -37,6 +37,10 @@ Info:
 ----
 
 Notes:
+
+----
+
+Desc: Manchester, the metropolis of the cotton manufacture, a cathedral city, and parliamentary borough, in the south-east comer of Lancashire, on the Irwell, 188¼ miles from London, and 31½ from Liverpool.
 
 ----
 

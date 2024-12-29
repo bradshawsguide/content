@@ -18,6 +18,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Bridge of Allan is denominated the Queen of Scottish watering places, and is a place of great resort in summer. It is also much frequented in winter by invalids, on account of the salubrity of its climate.
+
+----
+
 Text:
 
 (smcp: Bridge of Allan) is denominated the Queen of Scottish watering places, and is a place of great resort in summer. It is also much frequented in winter by invalids, on account of the salubrity of its climate. There are several places of worship, and good medical advice. The river Allan runs through the village, in which tolerable trout fishing may be had. The river Teith, a much larger stream, is within an hour's walk. Loch Ard, and other lochs, famous for trout fishing, are easy of access. There are mineral springs close to the village, pronounced by high authority to possess strong purgative qualities. *Eippenross*, the seat of J. Stirling, Esq., famous for its large plane tree, 42 feet in circumference, and 470 years old, is near at hand.

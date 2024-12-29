@@ -27,6 +27,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Stirling, a county and garrison town, is built on an eminence in the centre of a fertile plain, which is watered by the river Forth, and above the town rises the Castle of Stirling, so celebrated in Scottish history.
+
+----
+
 Text:
 
 (smcp: Stirling), a county and garrison town, is built on an eminence in the centre of a fertile plain, which is watered by the river Forth, and above the town rises the Castle of Stirling, so celebrated in Scottish history. The stream which flows by the town is here of considerable depth, and vessels are able to unload their goods on the excellent quay by which it is bordered.

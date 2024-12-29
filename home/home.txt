@@ -6,9 +6,9 @@ Feature:
 
 - places/england/sussex/brighton
 - places/england/surrey/crystal-palace
+- places/scotland/lanarkshire/glasgow
 - places/england/gloucestershire/bristol
 - places/wales/carnarvonshire/menai-bridge
-- places/wales/carnarvonshire/conway
 - places/ireland/county-kerry/killarney
 
 ----

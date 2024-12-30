@@ -69,6 +69,10 @@ Stops:
 
 ----
 
+Desc: The route from Carlisle to Edinburgh and Glasgow offers scenic views of Cumberland and Dumfriesshire, passing by historic landmarks and picturesque landscapes.
+
+----
+
 Text:
 
 (place: england/cumberland/carlisle)

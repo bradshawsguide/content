@@ -26,6 +26,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: A cathedral town and bathing place, near Snowdon. It is an excellent resting place, not only for the fine mountain scenery of this quarter, but for the *Britannia* and *Menai Bridges*, the *Penrhyn Slate Quarries*, *Beaumaris Castle*, and other exclusions, by road, railway, and boat.
+
+----
+
 Text:
 
 A cathedral town and bathing place in Carnarvonshire, North Wales, near Snowdon, and only 2¼ miles from the Britannia Bridge. You enter it by a tunnel 3,000 feet long. It is an excellent resting place, not only for the fine mountain scenery of this quarter, but for the *Britannia* and *Menai Bridges*, the *Penrhyn Slate Quarries*, *Beaumaris Castle*, and other exclusions, by road, railway, and boat. More than 50,000 persons come here in the season, so that lodgings at such times are high and difficult to be had. About 40 years ago there were only 90 houses, now there arc 1,331, to a population of 6,738.

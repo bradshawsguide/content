@@ -2,6 +2,10 @@ Title: Isle of Wight
 
 ----
 
+Desc: This beautiful island is divided into two parts by the river Medina, or Cowes, which rises in the south, and enters the sea at the town of Cowes, opposite the mouth of Southampton Bay.
+
+----
+
 Text:
 
 (figure:)

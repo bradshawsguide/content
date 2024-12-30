@@ -51,6 +51,10 @@ Stops:
 
 ----
 
+Desc: Although not strictly speaking the first railway in England, the Liverpool and Manchester line was really the first on which was attempted the practical application of locomotive power for the transit of goods and passengers.
+
+----
+
 Text:
 
 (place: england/lancashire/manchester)

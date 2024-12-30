@@ -75,6 +75,10 @@ Links:
 
 ----
 
+Desc: The Great Southern and Western Railway runs from Dublin to Cork and Killarney, passing through various counties and towns.
+
+----
+
 Text:
 
 (place: ireland/county-kildare/newbridge)

@@ -45,6 +45,10 @@ Stops:
 
 ----
 
+Desc: The line to Rugby offers a scenic view of Middlesex and Hertfordshire, passing through various towns and villages.
+
+----
+
 Text:
 
 ## London to Cheddington

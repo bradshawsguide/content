@@ -75,6 +75,10 @@ Links:
 
 ----
 
+Desc: This company has now two termini in London; both conveniently situated to accommodate pleasure and business traffic.
+
+----
+
 Text:
 
 This company has now two termini in London; both conveniently situated to accommodate pleasure and business traffic. The West End terminus is a portion of the extensive Victoria station, Pimlico, whilst the City station is at Farringdon Street, where it unites with the Metropolitan or under-ground railway to King's Cross and Paddington. This section of the line, under the name of [the Metropolitan Extension](/routes/farringdon-street-to-herne-hill), joins with that of the Western at Herne Hill, and has become very much crowded with local traffic.

@@ -35,7 +35,7 @@ At [Parton](/stations/parton), the first station on this line, is a harbor for s
 
 (place: england/cumberland/workington)
 
-(branch: start title: Cockermouth Brand)
+(branch: start title: Cockermouth Branch)
   Passing [Workington Bridge](/stations/workington-bridge), [Camerton](/stations/camerton), and [Broughton Cross](/stations/broughton-cross), and [Brigham](/stations/brigham) stations, we arrive at
 
   (place: england/cumberland/cockermouth)

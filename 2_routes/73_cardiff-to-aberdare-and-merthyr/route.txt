@@ -59,7 +59,7 @@ Text:
 
 [Aberdare](/stations/aberdare-junction) junction.
 
-(branch: start title: Aberdare branch)
+(branch: start title: Aberdare Branch)
   [Mountain Ash](/stations/mountain-ash) and [Treaman](/stations/treaman) stations.
 
   (place: wales/glamorganshire/aberdare)

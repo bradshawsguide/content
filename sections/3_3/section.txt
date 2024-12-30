@@ -16,4 +16,15 @@ Tours through the counties of Hertford, Buckingham, Northampton, Warwick, Staffo
 
 ----
 
+Feature:
+
+- routes/london-to-rugby
+- routes/manchester-to-liverpool
+- routes/carlisle-to-edinburgh-and-glasgow
+- places/england/lancashire/manchester
+- places/scotland/lanarkshire/glasgow
+- places/scotland/ayrshire/ayr
+
+----
+
 Uuid: yNQvbtwA86WiktEM

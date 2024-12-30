@@ -16,4 +16,15 @@ Tours through the counties of Kent, Sussex, Hants, Dorset, Devon, the Channel Is
 
 ----
 
+Feature:
+
+- routes/london-to-chatham-and-dover
+- routes/london-to-brighton
+- routes/london-to-southampton-dorchester-and-weymouth
+- places/england/middlesex/london/visitors-guide
+- places/england/surrey/crystal-palace
+- places/england/isle-of-wight
+
+----
+
 Uuid: HJtRwpoNgxu08jVG

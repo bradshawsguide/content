@@ -16,4 +16,15 @@ Tours through the counties of Berks, Buckingham, Wilts, Dorset, Cornwall, Somers
 
 ----
 
+Feature:
+
+- routes/london-to-reading-bath-and-bristol
+- routes/didcot-to-oxford-birmingham-wolverhampton-shrewsbury-chester-birkenhead-and-manchester
+- routes/dublin-to-cork-and-killarney
+- places/england/oxfordshire/oxford
+- places/wales/carnarvonshire/bangor
+- places/ireland/county-kerry/killarney
+
+----
+
 Uuid: TLAQFsHTUtfocQfG

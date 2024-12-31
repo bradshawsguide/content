@@ -1,0 +1,38 @@
+Title: Kintore to Alford
+
+----
+
+Section: 3
+
+----
+
+Company: companies/alford-valley
+
+----
+
+Stops:
+
+- stations/kintore
+- stations/kemnay
+- stations/monymusk
+- stations/tillyfourie
+- stations/whitehouse-aberdeenshire
+- stations/alford
+
+----
+
+Text:
+
+(place: scotland/aberdeenshire/kintore)
+
+This line of railway turns off to the left, and runs a distance of 16 miles. Immediately after crossing the Kumb Hills, we come to the station of
+
+(place: scotland/aberdeenshire/kenmay)
+
+[Tillyfourie](/stations/tillyfourie), 3¼, and [Whitehouse](/stations/whitehouse-aberdeenshire), 2¼ miles.
+
+(place: scotland/aberdeenshire/alford)
+
+----
+
+Uuid: 5pYf1IznBs8F00NW

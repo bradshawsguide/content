@@ -1,0 +1,71 @@
+Title: Rugby to Birmingham and Stafford
+
+----
+
+Section: 3
+
+----
+
+Subtitle: London and North Western Main Line
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/rugby
+- stations/brandon
+- stations/coventry
+- stations/tile-hill
+- stations/berkswell
+- stations/hampton-junction
+- stations/marston-green
+- stations/stechford
+- stations/birmingham-new-street
+
+----
+
+Text:
+
+(place: england/warwickshire/rugby)
+
+Upon leaving the station the line proceeds along an embankment which affords a very pleasing prospect of the valley on the right, in which the Swift and several other small rivers unite their waters to form the Avon. Newbold-upon-Avon appears prettily situated on the opposite side of the valley, and across the fields on the left is *Bilton*, where Addison spent the evening of his life.
+
+Five miles from Rugby the line reaches the [Brandon](/stations/brandon) embankment which is two miles in length, and affords some beautiful prospects.
+
+It then crosses the Avon by a noble viaduct, and for a time the river gives a highly picturesque character to the scenery on the left.
+
+After passing through a cutting we enter a wide extent of open country, and catch the first glimpse of the magnificent Coventry spires. From the embankment along which we proceed we can also see on the right, Stoke, Ernsford, Grange, Bromley, and the woods surrounding Coombc Abbey. The line crosses the Sowe by a beautiful viaduct of seven arches, and soon after the spires of Coventry rise distinctly above the intervening woods. We pass Whitley Abbey, which stands conspicuously on the left, cross a seven-arched viaduct over the Sherbourne Valley, enter a deep cutting, and shortly after we reach the station at
+
+(place: england/warwickshire/coventry)
+
+(route: coventry-to-nuneaton)
+
+(route: coventry-to-leamington)
+
+## Coventry to Birmingham
+
+On leaving Coventry the line passes through several cuttings, in the openings of which a fine view may be obtained of the city, with its lofty spires, rising majestically from the dense mass of houses. The line continues through several cuttings, which exclude nearly all view of the country.
+
+[Tile Hill](/stations/tile-hill) station.
+
+(place: england/warwickshire/berkswell)
+
+(place: england/warwickshire/hampton-junction)
+
+(place: england/warwickshire/marston-green)
+
+(place: england/warwickshire/stechford)
+
+(place: england/warwickshire/birmingham)
+
+(route: birmingham-to-wolverhampton-via-bescot)
+
+(route: birmingham-to-wolverhampton-via-stour-valley-and-stafford)
+
+----
+
+Uuid: JdNrQt5WE0eYqPlr

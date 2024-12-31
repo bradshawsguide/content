@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: London and North Western Main Line
+
+----
+
 Company: companies/london-and-north-western
 
 ----
@@ -20,21 +24,13 @@ Stops:
 - stations/harrow
 - stations/pinner
 - stations/bushey
-- - stations/watford
-  - stations/rickmansworth
-- - stations/watford
-  - stations/bricket-wood
-  - stations/park-street
-  - stations/st-albans
+- stations/watford
 - stations/kings-langley
 - stations/boxmoor
 - stations/berkhamsted
 - stations/tring
-- - stations/cheddington
-  - stations/marston-gate
-  - stations/aylesbury
-- - stations/leighton-junction
-  - stations/dunstable
+- stations/cheddington
+- stations/leighton-junction
 - stations/bletchley
 - stations/wolverton
 - stations/roade
@@ -110,13 +106,7 @@ Just beyond Bushey, a handsome viaduct conducts us over the river Colne, and sho
   [Rickmansworth](/stations/rickmansworth), situated in the South Western extremity of the County of Herts, on the Grand Junction Canal. A good deal of straw-plait is manufactured here.
 (branch: end)
 
-(branch: start)
-  ## Watford to St. Albans
-
-  A run of seven miles from Watford, passing [Bricket Wood](/stations/bricket-wood), and leaving the little village of [Park Street](/stations/park-street) a little to the right, brings us to the town of
-
-  (place: england/hertfordshire/st-albans)
-(branch: end)
+(route: watford-to-st-albans)
 
 Upon leaving the station at Watford, the train passes beneath a bridge, and a short distance beyond we enter the Watford Tunnel, and, on emerging therefrom, we continue for some time through an excavation, and, on the prospect opening on the left, we see the village of Langley Bury, a short distance from which is *Grove Park*, the seat of the Earl of Clarendon; and beautifully situated on the distant rising ground is the ancient village of King's Langley, so much frequented by King John. The Grand Junction Canal here runs close to the line, on the south of the embankment, and while the traveller looks with a smile of compassion upon the rival route.
 
@@ -148,11 +138,7 @@ Upon issuing from this cutting a great extent ot country becomes visible on both
 
 (place: england/buckinghamshire/cheddington)
 
-(branch: start title: Aylesbury branch)
-  [Marston Gate](/stations/marston-gate) station.
-
-  (place: england/buckinghamshire/aylesbury)
-(branch: end)
+(route: cheddington-to-aylesbury)
 
 ## Cheddington to Leighton Junction
 
@@ -160,13 +146,7 @@ The line crosses Aylesbury Vale by an embankment, which is 25 feet in height, an
 
 (place: england/bedfordshire/leighton-junction)
 
-(branch: start title: Dunstable Branch)
-  ## Leighton to Dunstable
-
-  A branch rail, six miles long, turns off on the right from Leighton Buzzard to Dunstable, in Bedfordshire.
-
-  (place: england/bedfordshire/dunstable)
-(branch: end)
+(route: leighton-to-dunstable)
 
 ## Leighton to Bletchley Junction
 

@@ -1,0 +1,35 @@
+Title: Auchinleck to Muirkirk
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Muirkirk Branch
+
+----
+
+Company: companies/glasgow-and-south-western
+
+----
+
+Stops:
+
+- stations/auchinleck
+- stations/lugar
+- stations/muirkirk
+
+----
+
+Text:
+
+(place: scotland/ayrshire/auchinleck)
+
+[Lugar](/stations/lugar) station
+
+(place: scotland/ayrshire/muirkirk)
+
+----
+
+Uuid: DlVyNQ8UQQUNMbqa

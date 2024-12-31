@@ -1,0 +1,28 @@
+Title: Leighton to Dunstable
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Dunstable Branch
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/leighton-junction
+- stations/dunstable
+
+----
+
+A-branch-rail-six-miles-long-turns-off-on-the-right-from-leighton-buzzard-to-dunstable-in-bedfordshire-place: england/bedfordshire/dunstable)
+
+----
+
+Uuid: zyUYUeLdIkxkog2h

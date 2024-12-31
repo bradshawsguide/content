@@ -1,0 +1,32 @@
+Title: Nantwich to Market Drayton
+
+----
+
+Section: 3
+
+----
+
+Company: companies/nantwich-and-market-drayton
+
+----
+
+Stops:
+
+- stations/nantwich
+- stations/audlem
+- stations/adderley
+- stations/market-drayton
+
+----
+
+Text:
+
+(place: england/cheshire/nantwich)
+
+The *Nantwich and Market Drayton* line runs out here, passing through the stations of [Audlem](/stations/audlem) and [Adderley](/stations/adderley) to
+
+[Markey Drayton](/stations/market-drayton), the trade of which does not appear to be in a very flourishing condition, but which, no doubt, will receive an impetus after the completion of the railway through to Wellington, which is rapidly progressing.
+
+----
+
+Uuid: qJhYjILJdeguHase

@@ -1,0 +1,41 @@
+Title: Glasgow to Greenock
+
+----
+
+Section: 3
+
+----
+
+Company: companies/glasgow-paisley-and-greenock
+
+----
+
+Stops:
+
+- stations/glasgow-bridge-street
+- stations/paisley-gilmour-street
+- stations/houston
+- stations/bishopton
+- stations/lang-bank
+- stations/port-glasgow
+- stations/greenock
+
+----
+
+Text:
+
+(place: scotland/lanarkshire/glasgow)
+
+[Houston](/stations/houston).--In the church here are effigies of the Houston family: the ruins of the castle were used to build the village in 1780, in which is a pillar cross, 11 feet high. Close at hand are cairns, British kistvaens, and urns. A fair is held here on the second Tuesday in May.
+
+[Bishopton](/stations/bishopton).--The railway here runs through two tunnels of whinstone.
+
+[Lang Bank](/stations/lang-bank) station.
+
+(route: port-glasgow-to-wemyss-bay)
+
+(place: scotland/renfrewshire/greenock)
+
+----
+
+Uuid: vK1UhZtn1AyqLXKd

@@ -1,0 +1,38 @@
+Title: Workington to Cockermouth
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Cockermouth Branch
+
+----
+
+Company: companies/whitehaven-junction
+
+----
+
+Stops:
+
+- stations/workington
+- stations/workington-bridge
+- stations/camerton
+- stations/broughton-cross
+- stations/brigham
+- stations/cockermouth
+
+----
+
+Text:
+
+(place: england/cumberland/workington)
+
+Passing [Workington Bridge](/stations/workington-bridge), [Camerton](/stations/camerton), and [Broughton Cross](/stations/broughton-cross), and [Brigham](/stations/brigham) stations, we arrive at
+
+(place: england/cumberland/cockermouth)
+
+----
+
+Uuid: 3Wtub0hNZ7f4XSVQ

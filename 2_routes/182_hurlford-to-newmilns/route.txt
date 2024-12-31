@@ -1,0 +1,35 @@
+Title: Hurlford to Newmilns
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Newmilns Branch
+
+----
+
+Company: companies/glasgow-and-south-western
+
+----
+
+Stops:
+
+- stations/hurlford
+- stations/galston
+- stations/newmilns
+
+----
+
+Text:
+
+[Hurlford](/stations/hurlford), a telegraph station.
+
+(place: scotland/ayrshire/galston)
+
+(place: scotland/ayrshire/newmilns)
+
+----
+
+Uuid: I3n3gC8P69l9fxaQ

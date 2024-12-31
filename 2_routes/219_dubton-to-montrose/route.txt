@@ -1,0 +1,34 @@
+Title: Dubton to Montrose
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Montrose Branch
+
+----
+
+Company: companies/scottish-north-eastern
+
+----
+
+Stops:
+
+- stations/dubton-junction
+- stations/montrose
+
+----
+
+Text:
+
+(place: scotland/forfarshire/dubton-junction)
+
+(place: scotland/forfarshire/montrose)
+
+(route: montrose-to-bervie)
+
+----
+
+Uuid: 95W19eHu0kZ8mJId

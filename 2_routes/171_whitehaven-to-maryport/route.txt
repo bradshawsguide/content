@@ -1,0 +1,40 @@
+Title: Whitehaven to Maryport
+
+----
+
+Section: 3
+
+----
+
+Company: companies/whitehaven-junction
+
+----
+
+Stops:
+
+- stations/whitehaven
+- stations/parton
+- stations/harrington
+- stations/workington
+- stations/flimby
+- stations/maryport
+
+----
+
+Text:
+
+(place: england/cumberland/whitehaven)
+
+At [Parton](/stations/parton), the first station on this line, is a harbor for small vessels. In the vicinity is *Meresby Hall*, the seat of Miss Tate, built by Inigo Jones. Passing [Harrington](/stations/harrington) station, with its harbour and boathouse at Bella Port, we arrive at
+
+(place: england/cumberland/workington)
+
+(route: workington-to-cockermouth)
+
+Passing [Flimby](/stations/flimby) station, a small bathing place, we arrive at
+
+(place: england/cumberland/maryport)
+
+----
+
+Uuid: TS3QTlIhJ59rosfo

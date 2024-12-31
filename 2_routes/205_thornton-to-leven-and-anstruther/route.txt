@@ -1,0 +1,52 @@
+Title: Thornton to Leven and Anstruther
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Leven Branch
+
+----
+
+Company: companies/north-british
+
+----
+
+Stops:
+
+- stations/thornton
+- stations/cameron-bridge
+- stations/leven
+- stations/lundin-links
+- stations/largo
+- stations/kilconquhar
+- stations/elie
+- stations/st-monans
+- stations/pittenweem
+- stations/anstruther
+
+----
+
+Text:
+
+[Thornton](/stations/thornton) station, junction of the Leven Branch.
+
+Passing [Cameron Bridge](/stations/cameron-bridge) station, we arrive at
+
+(place: scotland/fifeshire/leven)
+
+From here the line continues along the coast of Largo Bay, through [Lundin Links](/stations/lundin-links) and [Largo](/stations/largo), to the Station for Kilconquhar, which lies about 1½ mile to the left.
+
+[Kilconquhar](/stations/kilconquhar) is a small village situated in the midst of a hilly but fertile district, abounding in coal, limestone, &c. A little further to our left is the village of
+
+[Elie](/stations/elie), a bathing place of some note, on the Forth, with a good harbour and considerable coasting trade.
+
+Proceeding coastwise, we pass the stations of [St. Monan's](/stations/st-monans) and [Pittenweem](/stations/pittenweem), and arrive at
+
+(place: scotland/fifeshire/anstruther)
+
+----
+
+Uuid: iAkprFURYI1BM3Cn

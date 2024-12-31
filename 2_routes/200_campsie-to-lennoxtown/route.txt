@@ -1,0 +1,34 @@
+Title: Campsie to Lennoxtown
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Campsie Branch
+
+----
+
+Company: companies/north-british
+
+----
+
+Stops:
+
+- stations/campsie-junction
+- stations/kirkintilloch
+- stations/milton
+- stations/lennoxtown
+
+----
+
+Text:
+
+Passing [Kirkintilloch](/stations/kirkintilloch) and [Milltown](/stations/milton) stations we arrive at
+
+(place: scotland/stirlingshire/lennoxtown)
+
+----
+
+Uuid: 7WqIfAPQodWFN6bI

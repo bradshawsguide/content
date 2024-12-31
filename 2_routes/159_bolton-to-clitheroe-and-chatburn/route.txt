@@ -1,0 +1,63 @@
+Title: Bolton to Clitheroe and Chatburn
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Clitheroe Branch
+
+----
+
+Company: companies/lancashire-and-yorkshire
+
+----
+
+Stops:
+
+- stations/bolton-trinity-street
+- - stations/the-oaks
+  - stations/bromley-cross
+  - stations/chapel-town
+  - stations/entwistle
+  - stations/sough
+  - stations/over-darwen
+  - stations/lower-darwen
+  - stations/blackburn
+  - stations/daisy-field
+  - stations/wilpshire
+  - stations/langho
+  - stations/whalley
+  - stations/clitheroe
+  - stations/chatburn
+
+----
+
+Text:
+
+(place: england/lancashire/bolton-le-moors)
+
+Passing [The Oaks](/stations/the-oaks) Station (near to which is Bradshaw), [Bromley Cross](/stations/bromley-cross), [Chapel Town](/stations/chapel-town), [Entwistle](/stations/entwistle), [Sough](/stations/sough) stations we reach
+
+(place: england/lancashire/over-darwen)
+
+[Lower Darwen](/stations/lower-darwen).--This place has a population of 3,301, engaged in the paper factories.
+
+(place: england/lancashire/blackburn)
+
+[Daisy Field](/stations/daisy-field) station.
+
+(place: england/lancashire/ribchester)
+
+Passing [Langho](/stations/langho) station, on the left of which, about 2 miles distant, is the curious old timbered mansion of Henry II's time, *Salesbury Hall*, we reach
+
+(place: england/lancashire/whalley)
+
+(place: england/lancashire/clitheroe)
+
+[Chatburn](/stations/chatburn) a small village on the river Ribble.
+
+----
+
+Uuid: 6fPn45R6kQMQ4vX0

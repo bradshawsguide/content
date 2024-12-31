@@ -1,0 +1,49 @@
+Title: Bletchley to Winslow and Oxford
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Bletchley and Oxford Branch
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/bletchley
+- stations/swanbourne
+- stations/winslow
+- stations/claydon
+- stations/bicester
+- stations/islip
+- stations/oxford-road-halt
+
+----
+
+Text:
+
+(place: england/buckinghamshire/swanbourne)
+
+(place: england/buckinghamshire/winslow)
+
+(route: winslow-to-buckingham-and-banbury)
+
+## Winslow to Oxford
+
+(place: england/buckinghamshire/claydon)
+
+(place: england/oxfordshire/bicester)
+
+(place: england/oxfordshire/islip)
+
+(place: england/oxfordshire/oxford)
+
+----
+
+Uuid: wCnMB7NIBh5rpg7n

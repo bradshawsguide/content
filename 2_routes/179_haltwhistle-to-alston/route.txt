@@ -1,0 +1,39 @@
+Title: Haltwhistle to Alston
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Alston Branch
+
+----
+
+Company: companies/newcastle-and-carlisle
+
+----
+
+Stops:
+
+- stations/haltwhistle
+- stations/featherstone
+- stations/lambley
+- stations/slaggyford
+- stations/alston
+
+----
+
+Text:
+
+(place: england/northumberland/haltwhistle)
+
+Passing [Featherstone](/stations/featherstone) station, situated on the South Tyne, near which is *Featherstonehaugh Castle*, the seat of the baronets of that name, long before the Conquest, the last of whom died at Up Park, Sussex, we reach *Shaft Hill* and
+
+[Lambley](/stations/lambley), near the church, at which is *Castle Hill Camp*, with its large ash, having ten immense branches. *Nunwick*, the seat of R. L. Allgood, Esq., and large coal and lead mines; and then passing [Slaggyford](/stations/slaggyford), a small place, situated on the Tyne, we arrive at
+
+(place: england/cumberland/alston)
+
+----
+
+Uuid: uY1tGiEAnPMz4XDG

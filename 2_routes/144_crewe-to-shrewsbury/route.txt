@@ -1,0 +1,57 @@
+Title: Crewe to Shrewsbury
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Crewe to Shrewsbury Line
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/crewe
+- stations/willaston
+- stations/nantwich
+- stations/wrenbury
+- stations/prees
+- stations/wem
+- stations/yorton
+- stations/hadnall
+- stations/shrewsbury
+
+----
+
+Text:
+
+(place: england/cheshire/crewe)
+
+This line runs in a south-westerly direction from Crewe. The stations on the line are [Willaston](/stations/willaston).
+
+(place: england/cheshire/nantwich)
+
+(route: nantwich-to-market-drayton)
+
+[Wrenbury](/stations/wrenbury) Station.
+
+(place: england/shropshire/whitchurch)
+
+(route: whitchurch-to-oswestry)
+
+[Press](/stations/prees) Station.
+
+(place: england/shropshire/wem)
+
+[Yorton](/stations/yorton) and [Hadnall](/stations/hadnall) stations.
+
+(place: england/shropshire/shrewsbury)
+
+----
+
+Uuid: HIAdMggprut6sTbN

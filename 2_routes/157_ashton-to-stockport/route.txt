@@ -1,0 +1,42 @@
+Title: Ashton to Stockport
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Stockport Branch
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/ashton-under-lyne
+- stations/guide-bridge
+- stations/denton
+- stations/reddish
+- stations/heaton-norris
+- stations/stockport
+
+----
+
+Text:
+
+(place: england/lancashire/ashton-under-lyne)
+
+[Guide Bridge](/stations/guide-bridge) station.
+
+(place: england/lancashire/denton)
+
+Passing [Reddish](/stations/reddish) and [Heaton Norris](/stations/heaton-norris) stations, we arrive at
+
+(place: england/lancashire/stockport)
+
+----
+
+Uuid: r16UldyQDUXydci4

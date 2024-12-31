@@ -1,0 +1,34 @@
+Title: Watford to St. Albans
+
+----
+
+Section: 3
+
+----
+
+Subtitle: St. Albans Branch
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/watford
+- stations/bricket-wood
+- stations/park-street
+- stations/st-albans
+
+----
+
+Text:
+
+A run of seven miles from Watford, passing [Bricket Wood](/stations/bricket-wood), and leaving the little village of [Park Street](/stations/park-street) a little to the right, brings us to the town of
+
+(place: england/hertfordshire/st-albans)
+
+----
+
+Uuid: g8D9lICZdDVYYRH7

@@ -1,0 +1,43 @@
+Title: Whitchurch to Oswestry
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Oswestry, Ellesmere and Whitchurch Railway
+
+----
+
+Company: companies/cambrian
+
+----
+
+Stops:
+
+- stations/whitchurch-shropshire
+- stations/ferns-bank
+- stations/bettysfield
+- stations/welshampton
+- stations/ellesmere
+- stations/whittington-high-level
+- stations/oswestry
+
+----
+
+Text:
+
+This line runs out from Whitchurch to the right. About 1¾ mile brings us into the county of Flint, the southern section of which we cross, passing the stations of [Ferns Bank](/stations/ferns-bank), 3 miles, [Bettysfield](/stations/bettysfield), 3½ miles. Again enter the county of Salop, and passing the station of [Welshampton](/stations/welshampton). 1½ mile, and a further distance 2¾ mile, arrive at
+
+(place: england/cheshire/ellesmere)
+
+[Whittington](/stations/). The line at this point crosses that from Shrewsbury to Chester, and at the distance of 1¾ mile brings us to
+
+(place: england/shropshire/oswestry)
+
+from whench also a continuation of [the Cambrian line to Newton](/routes/ostwestry-to-newtown-and-llanidloes) may be found.
+
+----
+
+Uuid: I0lWQW0PZB4JqBlz

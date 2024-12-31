@@ -1,0 +1,33 @@
+Title: Montrose to Bervie
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Montrose and Bervie Railway
+
+----
+
+Company: companies/scottish-north-eastern
+
+----
+
+Stops:
+
+- stations/montrose
+- stations/broomfield-road
+- stations/st-cyrus
+- stations/lauriston
+- stations/johnshaven
+- stations/gourdon
+- stations/bervie
+
+----
+
+Text: The Montrose and Bervie Railway, 12 miles long, runs hence along the coast, passing the stations of [Broomfield Road](/stations/broomfield-road), [St. Cyrus](/stations/st-cyrus), [Lauriston](/stations/lauriston), [Johnshaven](/stations/johnshaven), and [Gourdon](/stations/gourdon), to [Bervie](/stations/bervie), all mostly occupied by fishermen and linen weavers.
+
+----
+
+Uuid: YvCg8jbiwupFLmEW

@@ -1,0 +1,47 @@
+Title: Winslow to Buckingham and Banbury
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Banbury Branch
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/winslow
+- stations/buckingham
+- stations/brackley
+- stations/farthinghoe
+- stations/banbury
+
+----
+
+Text:
+
+(place: england/buckinghamshire/winslow)
+
+A distance of seven miles beyond the junction at Winslow brings us to the town of
+
+(place: england/buckinghamshire/buckingham)
+
+We now pass through a fiat country for about seven miles, watered by the river Ouse, over which the rails frequently cross. We then enter the county of Northampton, upon which the arrival of the train is announced at
+
+(place: england/buckinghamshire/brackley)
+
+We are now traversing the south western section of the fox-hunting county of Northampton, and, at the distance of 4f miles, arrive at the station of
+
+[Farthinghoe](/stations/farthinghoe), in the vicinity of which the river Ouse takes its rise. Four miles further brings us to
+
+(place: england/oxfordshire/banbury)
+
+----
+
+Uuid: 6Bk8jEs2ednORAZi

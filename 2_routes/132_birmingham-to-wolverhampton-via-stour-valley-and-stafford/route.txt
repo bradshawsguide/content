@@ -1,0 +1,73 @@
+Title: Birmingham to Wolverhampton (*viá* Stour Valley) and Stafford
+
+----
+
+Section: 3
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/birmingham-new-street
+- stations/soho
+- stations/smethwick
+- stations/spon-lane
+- stations/oldbury
+- stations/albion
+- stations/dudley-port-high-level
+- stations/tipton
+- stations/deepfields
+- stations/ettingshall-road
+- stations/monmore-green
+- stations/wolverhampton
+- stations/bushbury
+- stations/four-ashes
+- stations/spread-eagle
+- stations/penkridge
+- stations/stafford
+
+----
+
+Text:
+
+(place: england/warwickshire/edgbaston)
+
+[Soho](/stations/soho).
+
+(place: england/staffordshire/smethwick)
+
+(place: england/staffordshire/spon-lane)
+
+The next station on our route is that of
+
+(place: england/staffordshire/oldbury)
+
+We are then whirled on past the station of [Albion](/stations/albion) to
+
+(place: england/staffordshire/dudley-port)
+
+(place: england/staffordshire/tipton)
+
+[Deepfields](/stations/deepfields), [Ettingshall Road](/stations/ettingshall-road), and [Monmore Green](/stations/monmore-green) are next in succession. They have no particular interest. Leaving these, we soon arrive at
+
+(place: england/staffordshire/wolverhampton)
+
+## Wolverhampton to Stafford
+
+[Bushbury](/stations/bushbury) station.
+
+(place: england/staffordshire/four-ashes)
+
+[Spread Eagle](/stations/spread-eagle). Two miles distant is *Stretton Hall*, and 4 miles to the west is *Weston Park*, the seat of the Earl of Bradford. This station is on the Old Watling Street, which crosses the line at right angles.
+
+(place: england/staffordshire/penkridge)
+
+(place: england/staffordshire/stafford)
+
+----
+
+Uuid: FobBa8ZKHLDyVbBq

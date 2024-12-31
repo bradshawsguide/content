@@ -1,0 +1,38 @@
+Title: Lockerbie to Dumfries
+
+----
+
+Section: 3
+
+----
+
+Company: companies/caledonian
+
+----
+
+Stops:
+
+- stations/lockerbie
+- stations/lochmaben
+- stations/shieldhill
+- stations/amisfield
+- stations/locharbriggs
+- stations/dumfries
+
+----
+
+Text:
+
+(place: scotland/dumfriesshire/lockerbie)
+
+A branch of the Caledonian railway, 14 miles long, turns off at this station. We here intersect the valley of the Annan, and after a run of four miles cross the river, and immediately stop at the town of
+
+(place: scotland/dumfriesshire/lochmaben)
+
+From hence the line continues its course through [Shieldhill](/stations/shieldhill), [Amisfield](/stations/amisfield), and [Locharbriggs](/stations/locharbriggs) to [Dumfries](/stations/dumfries), where it becomes connected with the [Castle Douglas line](/routes/dumfries-to-castle-douglas).
+
+(place: scotland/dumfriesshire/dumfries)
+
+----
+
+Uuid: 7K4mMbxKrkROwCZ7

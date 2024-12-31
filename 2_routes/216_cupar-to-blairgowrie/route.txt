@@ -1,0 +1,35 @@
+Title: Coupar to Blairgowrie
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Blairgowrie Branch
+
+----
+
+Company: companies/scottish-north-eastern
+
+----
+
+Stops:
+
+- stations/coupar-angus
+- stations/rosemount
+- stations/blairgowrie
+
+----
+
+Text:
+
+(place: scotland/perthshire/coupar-angus)
+
+[Rosemount](/stations/rosemount)
+
+(place: scotland/perthshire/blairgowrie)
+
+----
+
+Uuid: eennwPpWcadbEA61

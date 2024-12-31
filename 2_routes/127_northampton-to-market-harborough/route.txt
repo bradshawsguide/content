@@ -1,0 +1,46 @@
+Title: Northampton to Market Harborough
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Northampton to Market Harborough Line
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/northampton
+- stations/brampton
+- stations/spratton
+- stations/brixworth
+- stations/lamport
+- stations/kelmarsh
+- stations/clipston
+- stations/market-harborough
+
+----
+
+Text:
+
+A line to Market Harborough here turns off, 18 miles in length The first station arrived at is [Brampton](/stations/brampton), then [Spratton](/stations/spratton), and
+
+[Brixworth](/stations/brixworth), with its good Norman church. The kennels in connection with the celebrated Pytchley Hunt, formerly kept at Pytchley Hall, near Kettering, have been removed here.
+
+[Lamport](/stations/lamport) the seat of Sir C. Isham, Bart.
+
+[Kelmarsh](/stations/kelmarsh) and [Clipston](/stations/clipston) stations.
+
+At the distance of 3 miles further, we arrive at the small town of
+
+(place: england/leicestershire/market-harborough)
+
+----
+
+Uuid: 5QpOf11xSBZaXeQF

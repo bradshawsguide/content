@@ -1,0 +1,92 @@
+Title: Carlisle to Newcastle
+
+----
+
+Section: 3
+
+----
+
+Company: companies/newcastle-and-carlisle
+
+----
+
+Stops:
+
+- stations/carlisle
+- stations/scotby
+- stations/wetheral
+- stations/how-mill
+- stations/milton-for-brampton
+- stations/low-row
+- stations/rose-hill
+- stations/greenhead
+- stations/haltwhistle
+- stations/bardon-mill
+- stations/haydon-bridge
+- stations/fourstones
+- stations/hexham
+- stations/corbridge
+- stations/riding-mill
+- stations/stocksfield
+- stations/prudhoe
+- stations/wylam
+- stations/ryton
+- stations/blaydon
+- stations/scotswood
+- stations/newcastle-upon-tyne-central
+
+----
+
+Text:
+
+(place: england/cumberland/carlisle)
+
+From Carlisle, we pass [Scotby](/stations/scotby), to the north of which is *Aglionby* (*by* signifies house, in the Cumberland dialect), the old seat of the ancestors of Walter d'Aquilon; then
+
+(place: england/cumberland/wetheral)
+
+[How Mill](/stations/how-mill) station, close to which is *Hayton Church*, and in the distance may be seen the white turrets of *Edmond Castle*, the seat of T. H. Graham, Esq., and *Castle Carrock* church, near which are two forts.
+
+We next pass the ravine of the *Gelt*, over a skew bridge, on three arches, a little higher than which are the *Written Rocks*, on which inscriptions were cut by the Romans of Agricola's legion . Near Low Gelt Bridge is the *Cupon Oak*, where the judges were met by the sheriffs, and conducted by them, in former times, to Carlisle.
+
+(place: england/cumberland/milton)
+
+Passing [Low Row](/stations/low-row) and [Rose Hill](/stations/rose-hill) stations, situated 446 feet above the Tyne, close to the Irthing, the *Roman Wall* is seen, which continues along the road. Near at hand is *Gilsland Spa*,--a good sulphur spring, which issues from a cliff in the glen at the back of Shaw's excellent hotel. Just above, there is a good waterfall at *Wardrew Farm*. At Bewcastle, are ruins of a *Border Fortress*, a *Runic Stone Pillar*, and *Triermain Castle*, so justly celebrated in Sir Walter Scott's "Bridal of Triermain." Then reaching
+
+[Greenhead](/stations/greenhead), situated in one of the wildest parts of Northumberland, we obtain a sight of *Thirlwall* and *Blenkinsop Castles*, which guarded the rocky pass in the times of the Moss Troopers, and pass through a short tunnel to
+
+(place: england/northumberland/haltwhistle)
+
+(route: haltwhistle-to-alston)
+
+Passing [Bardon Mill](/stations/bardon-mill), on the Tyne, near which is *Ridley Hall*, at the mouth of Allendale, formerly the seat of the Martyr's family, we arrive at
+
+(place: england/northumberland/haydon-bridge)
+
+Passing [Fourstones](/stations/fourstones) station, near to which are *Chesters*, the seat of N. Clayton, Esq., which is a well preserved station, in the *Roman Wall*, the history of which has been written by the Rev. J. Bruce, of Newcastle. Simonburn, a large parish belonging to Greenwich Hospital, the revenues of which are appropriated to naval chaplains, and formerly the property of the Radcliffes, who forfeited it in the rebellion, and *Chipchase Castle*, we arrive at
+
+(place: england/northumberland/hexham)
+
+At this place the Border Counties Section of the North British Railway turns off to the right. It runs through the Valley of the North Tyne, a district rich in mineral productions, a description of which will be found in Section IV.
+
+Proceeding through Farnley tunnel, we arrive at
+
+(place: england/northumberland/corbridge)
+
+Passing [Riding Mill](/stations/riding-mill) station, near to which is *Styford Park*, we reach
+
+[Stocksfield](/stations/stocksfield) and [Prudhoe](/stations/prudhoe) stations, in the vicinity of which stands the *keep* of the Bracy's old castle, built by William d'Umfraville, at the Conquest.
+
+(place: england/northumberland/wylam)
+
+Passing [Ryton](/stations/ryton) station, near to which is *Ryton Hall*, seat of J. Lamb, Esq., we arrive at
+
+(place: england/county-durham/blaydon)
+
+(place: england/northumberland/scotswood)
+
+(place: england/northumberland/newcastle-upon-tyne-central)
+
+----
+
+Uuid: 8my7W969GW2ZQRv4

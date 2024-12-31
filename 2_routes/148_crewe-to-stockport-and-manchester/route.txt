@@ -1,0 +1,62 @@
+Title: Crewe to Stockport and Manchester
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Crewe to Manchester Line
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/crewe
+- stations/sandbach
+- stations/holmes-chapel
+- stations/chelford
+- stations/alderley
+- stations/wilmslow
+- stations/handforth
+- stations/cheadle-junction
+- stations/stockport
+- stations/heaton-norris
+- stations/heaton-chapel
+- stations/levenshulme
+- stations/longsight
+- stations/manchester-london-road
+
+----
+
+Text:
+
+(place: england/cheshire/crewe)
+
+(place: england/cheshire/sandbach)
+
+(place: england/cheshire/holmes-chapel)
+
+(place: england/cheshire/chelford)
+
+(place: england/cheshire/alderley)
+
+(place: england/cheshire/wilmslow)
+
+(place: england/cheshire/cheadle-hulme)
+
+(place: england/cheshire/stockport)
+
+(route: stockport-to-disley-and-whaley-bridge)
+
+[Heaton Norris](/stations/heaton-norris), [Heaton Chapel](/stations/heaton-chapel), [Levenshulme](/stations/levenshulme), and [Longsight](/stations/longsight) stations.
+
+(place: england/lancashire/manchester)
+
+----
+
+Uuid: LQbDJf7Qem4m1Kx2

@@ -1,0 +1,35 @@
+Title: Cheddington to Aylesbury
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Aylesbury Branch
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/cheddington
+- stations/marston-gate
+- stations/aylesbury
+
+----
+
+Text:
+
+(place: england/buckinghamshire/cheddington)
+
+[Marston Gate](/stations/marston-gate) station.
+
+(place: england/buckinghamshire/aylesbury)
+
+----
+
+Uuid: ht2uwRESBoRCoosn

@@ -1,0 +1,62 @@
+Title: Eccles to Tyldesley and Wigan
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Eccles, Tyldesley, and Wigan Railway
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/eccles
+- stations/monton-green
+- stations/worsley
+- stations/ellenbrook
+- stations/tyldesley
+- - stations/bedford-leigh
+  - stations/bradshaw-leach
+  - stations/kenyon-junction
+- stations/tyldesley
+- stations/chowbent
+- stations/hindley-green
+- stations/platt-bridge
+- stations/springs
+- stations/wigan
+
+----
+
+Text:
+
+(place: england/lancashire/eccles)
+
+This line of railway, 13 miles in length, traverses a flat but richly-productive country, as well as an extensive and valuable coal district. Leaving Eccles, the line turns off at [Monton Green](/stations/monton-green) Junction, and almost immediately crosses the Bridgewater Canal, with its tardy horse-boats, at once vividly suggestive of the vast contrast between the past and present mode of locomotion; the iron-horse seeming to snort defiantly at its sluggish competitor below. The distant spire, rising gracefully upward amidst the surrounding greenery that environs the church, remind us of our approach to
+
+(place: england/lancashire/worsley)
+
+The nest station is [Ellenbrook](/stations/ellenbrook). We then cross *Worsley Common*, passing *Peel Hall*, a timber and plaster building, charmingly situated to our right, the residence of H. Blair, Esq. It was built in 1630, and has a great number of old rooms and portraits. Good views of Leigh and the Cheshire hills may be got from the park.
+
+[Tyldesley](/stations/tyldesley)--The view from this station is magnificent--a long expanse of open country stretching as far as the eye can reach.
+
+(branch: start)
+  A short branch turns off to the left, passing through a fine productive country to [Bedford](/stations/bedford-leigh), situated one mile to the east of Leigh, but which may be almost considered as a part of it, and noted for its manufactories of silk, cotton, and machinery. The branch then proceeds to the junction with the Bolton and Kenyon line at [Bradshaw Leach](/stations/bradshaw-leach), and thence to [Kenyon](/stations/kenyon-junction), from whence trains may be taken to either Liverpool or Manchester.
+(branch: end)
+
+Returning to Tylesley, we pass onward to
+
+[Chowbent](/stations/chowbent), a place famed for its dialectic peculiarities. On leaving this place we cross the Bolton and Kenyon line, with which it is connected by a Short branch, opening up communication with Bolton, and then pass on to
+
+[Hindley Green](/stations/hindley-green), situated in the very heart of the coal district. The next station te come to is [Platt Bridge](/stations/platt-bridge), soon after leaving which we arrive at [Springs](/stations/springs), the junction with the North Union Line, and immediately after at
+
+(place: england/lancashire/wigan)
+
+----
+
+Uuid: zZBHxBKEE49oOGJI

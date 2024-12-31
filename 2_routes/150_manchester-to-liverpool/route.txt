@@ -1,0 +1,94 @@
+Title: Manchester to Liverpool
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Liverpool and Manchester Line
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/manchester-victoria
+- stations/ordsal-lane
+- stations/weaste
+- stations/eccles
+- stations/patricroft
+- stations/barton-moss
+- stations/astley
+- stations/bury-lane
+- stations/kenyon-junction
+- stations/parkside
+- stations/newton-bridge
+- stations/warrington-junction
+- stations/collins-green
+- stations/st-helens-junction
+- stations/lea-green
+- stations/rainhill
+- stations/huyton-quarry
+- stations/huyton
+- stations/roby
+- stations/broad-green
+- stations/edgehill
+- stations/liverpool-lime-street
+
+----
+
+Desc: Although not strictly speaking the first railway in England, the Liverpool and Manchester line was really the first on which was attempted the practical application of locomotive power for the transit of goods and passengers.
+
+----
+
+Text:
+
+(place: england/lancashire/manchester)
+
+[Victoria](/stations/manchester-victoria) station.
+
+Although not strictly speaking the first railway in England, the Liverpool and Manchester line was really the first on which was attempted the practical application of locomotive power for the transit of goods and passengers, and it is, therefore, pre-eminently entitled to rank as the pioneer of those stupendous undertakings which have not only given a new stimulus to the mechanical and architectural genius of the age, but have enabled this country to take the lead of all others in these respects, not less than in manufactures.
+
+Important as were the direct objects proposed by the original projectors of this line, of bringing the vast district of our manufacturing industry within an hour's distance of the port where its staple material, and the supplies of food were landed, and whence its fabrics were exported to the ends of the earth, the result is, after all, the lowest in the scale.
+
+England has since developed her resources to an extent which, at the time of its trial, would have appeared incredible, and in the space of comparatively a few years, the whole island has been intersected by this new class of roads, as much superior to the old highways, as were those of the Roman conquerors to th tangled forest paths of our Celtic ancestors.
+
+The first and greatest work on this portion was the immense bog of Chat Moss, which comprised an area of twelve square miles, varying in depth from ten to thirty-five feet, consisting of sixty million tons of vegetable matter, of so soft and spongy a texture that cattle could not walk over it. Those who are now whirled over this once trackless waste, the numerous viaducts and embankments, and along the immense excavations of the remainder of the line, can with difficulty appreciate the amount of skill, perseverance, and labour expended in works that are now concealed from general observation.
+
+Other lines, too, have been formed under immense difficulties, which have been surmounted by the inventive genius and indomitable energies of our engineers; but it must ever be remembered, that in the accomplishment of this line, every portion of the work was an experiment, and that the engineers and proprietors, virtually, and at their own cost, supplied example, but with an invaluable amount of information and experience acquired in the construction, progress, and management of this - the acknowledged model of every succeeding railway.
+
+[Ordsal Lane](/stations/ordsal-lane) and [Weaste](/stations/weaste) stations.
+
+(place: england/lancashire/eccles)
+
+(route: eccles-to-tyldesley-and-wigan)
+
+(place: england/lancashire/patricroft)
+
+From Patricroft, a run of about 10 minutes brings us past [Barton Moss](/stations/barton-moss) and [Astley](/stations/astley).
+
+[Bury Lane](/stations/bury-lane), the commencement of Chat Moss, and [Kenyon](/stations/kenyon-junction), the junction of the line to Bolton, are soon left behind, and we reach
+
+[Parkside](/stations/parkside), a place memorable by the death of W. Huskisson, Esq., the celebrated statesman, on the opening of the line, September 15th, 1050. A tablet is placed here in commemoration of the event.
+
+(place: england/lancashire/newton)
+
+[Warrington Junction](/stations/warrington-junction), [Collins Green](/stations/collins-green), and [St. Helens Junction](/stations/st-helens-junction).
+
+(route: st-helens-junction-to-st-helens)
+
+From [St. Helens Junction](/stations/st-helens-junction) the line passes the stations of [Lea Green](/stations/lea-green), [Rainhill](/stations/rainhill), [Huyton Quarry](/stations/huyton-quarry), [Huyton](/stations/huyton), [Roby](/stations/roby), and [Broad Green](/stations/broad-green), when soon after, the train stops at
+
+(place: england/lancashire/edgehill)
+
+Arrived at the station at [Lime-street](/stations/liverpool-lime-street), the passenger will find it worth his while to bestow a glance at its architecture, its peculiar adaptation to all the requirements of an extensive railway system being best exhibited by the superior accommodation enjoyed by the public, and the regularity with which all the official duties are performed. The building is in the Italian style, presenting a columnar and pilastered front, with four arches for the admission of vehicles, &c.
+
+(place: england/lancashire/liverpool)
+
+----
+
+Uuid: ilP37Jl9uLUGJCHY

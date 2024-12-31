@@ -1,0 +1,50 @@
+Title: Kilwinning Junction to Ardrossan, Troon and Air
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Ardrossan, Troon, and Ayr Branches
+
+----
+
+Company: companies/glasgow-and-south-western
+
+----
+
+Stops:
+
+- stations/kilwinning-junction
+- - stations/stevenston
+  - stations/saltcoats
+  - stations/ardrossan
+- stations/kilwinning-junction
+- - stations/irvine
+  - stations/troon
+  - stations/monkton
+  - stations/prestwick
+  - stations/ayr
+
+----
+
+Text:
+
+(place: scotland/ayrshire/kilwinning-junction)
+
+[Stevenston](/stations/stevenston) and [Saltcoats](/stations/saltcoats) stations.
+
+(place: scotland/ayrshire/ardrossan)
+
+(place: scotland/ayrshire/irvine)
+
+(place: scotland/ayrshire/troon)
+
+[Monkton](/stations/monkton) and [Prestwick](/stations/prestwick) stations.
+
+(place: scotland/ayrshire/ayr)
+
+----
+
+Uuid: 47jG9hTYem4AZf8I

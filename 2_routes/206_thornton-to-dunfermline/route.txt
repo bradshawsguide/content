@@ -1,0 +1,41 @@
+Title: Thornton to Dunfermline
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Dunfermline Branch
+
+----
+
+Company: companies/north-british
+
+----
+
+Stops:
+
+- stations/thornton
+- stations/cardenden
+- stations/lochgelly
+- stations/cowdenbeath
+- stations/crossgates
+- stations/halbeath
+- stations/dunfermline
+
+----
+
+Text:
+
+[Thornton](/stations/thornton) station, junction of the Dunfermline Branch.
+
+Passing the intermediate stations of [Cardenden](/stations/cardenden) and [Lochgelly](/stations/lochgelly) we come to [Cowdenbeath](/stations/cowdenbeath), the point of connection with the [Kinross-shire Railway](/routes/cowdenbeath-to-kinross).
+
+[Crossgates](/stations/crossgates) and [Halbeath](/stations/halbeath) stations, at the latter of which there is good coal.
+
+(place: scotland/fifeshire/dunfermline)
+
+----
+
+Uuid: z0LxcaruYatbF9D5

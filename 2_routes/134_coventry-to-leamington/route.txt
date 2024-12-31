@@ -1,0 +1,38 @@
+Title: Coventry to Leamington
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Coventry and Leamington Branch
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/coventry
+- stations/kenilworth
+- stations/leamington
+- stations/warwick
+
+----
+
+Text:
+
+(place: england/warwickshire/coventry)
+
+(place: england/warwickshire/kenilworth)
+
+(place: england/warwickshire/leamington)
+
+(place: england/warwickshire/warwick)
+
+----
+
+Uuid: pY6UHzL9t26hXcPt

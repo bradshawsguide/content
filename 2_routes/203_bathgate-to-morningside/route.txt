@@ -1,0 +1,36 @@
+Title: Bathgate to Morningside
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Wilsontown Line
+
+----
+
+Company: companies/north-british
+
+----
+
+Stops:
+
+- stations/bathgate-upper
+- stations/whitburn
+- stations/bents
+- stations/fauldhouse-and-crofthead
+- stations/blackhall
+- stations/morningside
+
+----
+
+Text:
+
+(place: scotland/linlithgowshire/bathgate)
+
+The Wilsontown line here turns off to the left: it is 14 miles in length, passing the stations of [Whitburn](/stations/whitburn), [Bents](/stations/bents), [Crofthead](/stations/crofthead), and [Blackhall](/stations/blackhall), to [Morningside](/stations/morningside), a small town in N.E. Lanark.
+
+----
+
+Uuid: uXkbSs1VLF2Kajpi

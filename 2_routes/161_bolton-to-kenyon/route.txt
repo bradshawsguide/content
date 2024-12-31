@@ -1,0 +1,39 @@
+Title: Bolton to Kenyon
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Bolton and Kenyon Railway
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/bolton-trinity-street
+- stations/daubhill
+- stations/chequerbent
+- stations/atherton
+- stations/westleigh
+- stations/bradshaw-leach
+- stations/kenyon-junction
+
+----
+
+Text:
+
+Passing [Daubhill](/stations/daubhill), [Chequerbent](/stations/chequerbent) (near to which is *Hulton Park*, the seat of W. F. Hulton, Esq.), and [Atherton](/stations/atherton), we arrive at
+
+(place: england/lancashire/leigh)
+
+We then pass [Bradshaw Leach](/stations/bradshaw-leach), and arrive at [Kenyon](/stations/kenyon-junction), the junction of the lines to Liverpool and Manchester.
+
+----
+
+Uuid: huCJ3po4ERwFafaP

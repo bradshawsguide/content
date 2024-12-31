@@ -1,0 +1,36 @@
+Title: Rocester to Ashbourne
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Ashbourne Branch
+
+----
+
+Company: companies/north-staffordshire
+
+----
+
+Stops:
+
+- stations/rocester
+- stations/norbury
+- stations/clifton-mayfield
+- stations/ashbourne
+
+----
+
+Text:
+
+[Rocester](/stations/rocester) the junction of the Ashbourne Branch.
+
+After passing [Norbury](/stations/norbury) and [Clifton](/stations/clifton-mayfield) stations, we arrive at
+
+(place: england/derbyshire/ashbourne)
+
+----
+
+Uuid: AaOhth4LCyuKCzJu

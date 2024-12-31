@@ -1,0 +1,46 @@
+Title: Cleghorn to Lanark and Douglas
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Lanark Branch
+
+----
+
+Company: companies/caledonian
+
+----
+
+Stops:
+
+- stations/cleghorn
+- stations/lanark
+- stations/sandilands
+- stations/ponfeigh
+- stations/douglas
+
+----
+
+Text:
+
+[Cleghorn](/stations/cleghorn), the junction of the branch to Lanark. Hear are the ruins of an old chapel and a Roman camp.
+
+Proceeding onwards, a distance of 2¾ miles, the whole of the neighbouring grounds to Lanark are remarkable as having been the hiding place of Sir William Wallace.
+
+> Each rugged rock proclaims great Wallace' fame,
+> Each cavern wild is honour'd with his name,
+> Here in repose was stretched his mighty form,
+> And there he sheltered from the night and storm.
+
+(place: scotland/lanarkshire/lanark)
+
+Proceeding onward, we pass the stations of [Sandilands](/stations/sandilands) and [Ponfeigh](/stations/ponfeigh) to the town of
+
+**Douglas**, the terminus of the branch, in the midst of a valuable coal-field. *Douglas Castle*, the seat of Lord Douglas, is in the vicinity.
+
+----
+
+Uuid: FXogkyDeZAAsQXCk

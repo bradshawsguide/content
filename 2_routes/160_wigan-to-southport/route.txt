@@ -1,0 +1,36 @@
+Title: Wigan to Southport
+
+----
+
+Section: 3
+
+----
+
+Company: companies/lancashire-and-yorkshire
+
+----
+
+Stops:
+
+- stations/wigan
+- stations/gathurst
+- stations/appley-bridge
+- stations/parbold
+- stations/burscough-bridge
+- stations/new-lane
+- stations/bescar-lane
+- stations/southport
+
+----
+
+Text:
+
+(place: england/lancashire/wigan)
+
+Proceeding on our journey we notice the stations of [Gathurst](/stations/gathurst), [Appley Bridge](/stations/appley-bridge), [Newburgh](/stations/parbold), and [Burscough Bridge](/stations/burscough-bridge), the point of junction with the line from Liverpool to Preston. Passing [New Lane](/stations/new-lane) and [Bescar](/stations/bescar-lane) stations, we presently arrive at
+
+(place: england/lancashire/southport)
+
+----
+
+Uuid: 9BlPRC7sbuajirwA

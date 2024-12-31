@@ -1,0 +1,37 @@
+Title: Oxenholme to Windermere
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Kendal and Windermere Railway
+
+----
+
+Company: companies/london-and-north-western
+
+----
+
+Stops:
+
+- stations/oxenholme
+- stations/kendal
+- stations/burneside
+- stations/staveley
+- stations/windermere
+
+----
+
+Text:
+
+(place: england/westmorland/kendal)
+
+Passing [Burnside](/stations/burneside) and [Staveley](/stations/staveley) stations, beyond which is Orrest Head, from which the most extended and magnificent view of the lake is obtained, we reach
+
+(place: england/westmorland/windermere)
+
+----
+
+Uuid: o6LGwlAVY6ebah0P

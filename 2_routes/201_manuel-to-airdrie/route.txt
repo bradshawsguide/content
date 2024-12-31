@@ -1,0 +1,44 @@
+Title: Manuel to Airdrie
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Slamannan Branch
+
+----
+
+Company: companies/north-british
+
+----
+
+Stops:
+
+- stations/manuel
+- stations/causewayend
+- stations/bowhouse
+- stations/blackston
+- - stations/westfield
+  - stations/bathgate-lower
+- stations/blackston
+- stations/avonbridge
+- stations/slamannan
+- stations/longriggend
+- stations/whiterigg
+- stations/rawyards
+- stations/commonhead
+- stations/airdrie-hallcraig-street
+
+----
+
+Text:
+
+To the right of [Manuel](/stations/manuel) the Slamannan section branches out, taking in its course the stations of [Causewayend](/stations/causewayend), [Bowhouse](/stations/bowhouse), aud [Blackston](/stations/blackston), from whence a short branch, running along the side of the Avon Water, by [Westfield](/stations/westfield), conducts to [Bathgate](/stations/bathgate-lower).
+
+From Blackston we proceed by [Avonbridge](/stations/avonbridge), [Slamannan](/stations/slamannan), [Whiterigg](/stations/whiterigg), [Rawyards](/stations/rawyards), and [Commonhead](/stations/commonhead), to [Airdrie](/stations/airdrie-hallcraig-street), at which point the line unites with that of the Monkland.
+
+----
+
+Uuid: FiNb7hU5h2zpcXUj

@@ -1,0 +1,32 @@
+Title: Kirriemuir Junction to Kirriemuir
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Kirriemuir Branch
+
+----
+
+Company: companies/scottish-north-eastern
+
+----
+
+Stops:
+
+- stations/kirriemuir-junction
+- stations/kirriemuir
+
+----
+
+Text:
+
+[Kirriemuir Junction](/stations/kirriemuir-junction).
+
+(place: scotland/forfarshire/kirriemuir)
+
+----
+
+Uuid: MV7teg1KwCPILLYB

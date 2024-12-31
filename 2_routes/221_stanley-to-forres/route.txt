@@ -1,0 +1,80 @@
+Title: Stanley to Forres
+
+----
+
+Section: 3
+
+----
+
+Company: companies/inverness-and-perth-junction
+
+----
+
+Stops:
+
+- stations/stanley
+- stations/murthly
+- stations/dunkeld
+- stations/dalguise
+- stations/guay
+- stations/ballinluig
+- - stations/grandtully
+  - stations/aberfeldy
+- stations/ballinluig
+- stations/pitlochry
+- stations/blair-athole
+- stations/struan
+- stations/dalwhinnie
+- stations/kingussie
+- stations/boat-of-insch
+- stations/aviemore
+- stations/boat-of-garten
+- stations/broomhill
+- stations/grantown-on-spey-west
+- stations/dunphail
+- stations/rafford
+- stations/forres
+
+----
+
+Text:
+
+(place: scotland/perthshire/stanley)
+
+Without the necessity of a change of carriage, we are borne onward a distance of 3¼ miles further to
+
+(place: scotland/perthshire/murthly)
+
+Again pursuing our course a distance of 5¼ miles along the ridge of the valley through which the river Tay pours its crystal stream, and in the midst of scenery of the most magnificent character, we arrive at
+
+(place: scotland/perthshire/dunkeld)
+
+Reluctantly leaving this pretty spot, we soon cross the limpid stream, and immediately arrive at the station of
+
+(place: scotland/perthshire/dalguise)
+
+[Guay](/stations/guay) and [Ballinluig](/stations/ballinluig).--The latter of which is the station for the little village of Wee, in the midst of a hilly pasture land, abounding in wild fowl, &c. It also forms the connection of a branch line through [Grandtully](/stations/grandtully) to [Aberfeldy](/stations/aberfeldy).
+
+(place: scotland/perthshire/pitlochry)
+
+On leaving Pitlochry, the railway runs in the same direction, through the Pass, but the train dashes along, heedless of all its charms, until about three miles beyond, it arrives at
+
+(place: scotland/perthshire/blair-athole)
+
+The line now takes a westerly direction to the station of [Struan](/stations/struan), passing through *Glen Garry*, and a pass of the Grampians, which here divide the counties of Perth aud Inverness. Taking now a northerly course, we nest come to the station of
+
+[Dalwhinnie](/stations/dalwhinnie), situated in Glen Truim, at the head of Loch Ericht. Passing through Glen Truim, about eight miles further we enter the valley of the Spey, pass the hamlet of *Newtonmore*, and at the distance of three miles arrive at
+
+[Kingussie](/stations/kingussie), on the river Spey, where marks of a Roman camp have been discovered. Salmon fishing.
+
+Continuing along the strath, we pass the stations of [Boat of Insch](/stations/boat-of-insch), [Aviemore](/stations/aviemore), [Boat of Garten](/stations/boat-of-garten), and [Broomhill](/stations/broomhill), to the chartered village of
+
+(place: scotland/morayshire/grantown)
+
+We now take our leave of Strathspey, and soon after enter the county of Elgin; we pass the stations of [Dunphail](/stations/dunphail) (Dunphail Castle) and [rafford](/stations/rafford), and at the distance of 2½ miles, or 119¼ from Perth, arrive at [Forres](/stations/forres), the junction with the Inverness and Aberdeen line.
+
+(route: inverness-to-aberdeen)
+
+----
+
+Uuid: FgoCUIIeGOSzJSpR

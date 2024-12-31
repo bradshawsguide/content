@@ -1,0 +1,31 @@
+Title: Port Glasgow to Wemyss Bay
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Greenock and Wemyss Bay Railway
+
+----
+
+Company: companies/glasgow-paisley-and-greenock
+
+----
+
+Stops:
+
+- stations/port-glasgow
+- stations/upper-greenock
+- stations/ravenscraig
+- stations/inverkip
+- stations/wemyss-bay
+
+----
+
+Text: [Port Glasgow](/stations/port-glasgow), a telegraph station. A deviation of the line to our left here takes place. It runs through [Upper Greenock](/stations/upper-greenock), [Ravenscraig](/stations/ravenscraig), and [Inverkip](/stations/inverkip), to [Wemyss Bay](/stations/wemyss-bay), on the Clyde.
+
+----
+
+Uuid: HwAJwEQOfXkYupox

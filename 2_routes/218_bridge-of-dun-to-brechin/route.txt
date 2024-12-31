@@ -1,0 +1,32 @@
+Title: Bridge of Dun to Brechin
+
+----
+
+Section: 3
+
+----
+
+Subtitle: Brechin Branch
+
+----
+
+Company: companies/scottish-north-eastern
+
+----
+
+Stops:
+
+- stations/bridge-of-dun
+- stations/brechin
+
+----
+
+Text:
+
+[Bridge of Dun](/stations/bridge-of-dun) (which signifies fort), near which is the fine seat of the Marchioness of Ailsa, *Dun House*, and the salmon fisheries.
+
+(place: scotland/forfarshire/brechin)
+
+----
+
+Uuid: KEO14v3BlhS2ImLh

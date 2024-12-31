@@ -1,0 +1,35 @@
+Title: Leuchars to St. Andrews
+
+----
+
+Section: 3
+
+----
+
+Subtitle: St. Andrews Branch
+
+----
+
+Company: companies/north-british
+
+----
+
+Stops:
+
+- stations/leuchars
+- stations/guard-bridge
+- stations/st-andrews
+
+----
+
+Text:
+
+[Leuchars](/stations/leuchars) is the junction of the St. Andrews Branch.
+
+[Guard Bridge](/stations/guard-bridge) station.
+
+(place: scotland/fifeshire/st-andrews)
+
+----
+
+Uuid: afPk8zXcanHscQA1

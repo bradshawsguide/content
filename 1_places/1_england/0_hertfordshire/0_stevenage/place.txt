@@ -1,0 +1,25 @@
+Title: Stevenage
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,352.
+
+----
+
+Notes: Telegraph station at Hitchen, 3½ miles.
+
+----
+
+Text: (smcp: Stevenage) stands to the right, and in the vicinity is *Knebworth Hall*, the line seat of Sir E Bulwer Lytton, the novelist.
+
+----
+
+Uuid: stj39anixjquguvy

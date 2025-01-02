@@ -1,0 +1,34 @@
+Title: Worksop
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Lion.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: March 3, and October 14.
+-
+  term: Bankers
+  desc: Sir W. B. Cooke and Co.; Branch of Nottingham and Notts Banking Company.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This is a market town, with a population of 7,112. The manor, which is held by the presentation of a pair of gloves at the coronation, belonged till recently to the Norfolk family, who sold it to the Duke of Newcastle, in whose possession it now remains by the same tenure. The old cruciform church contains towers, carved pulpit, effigies of William de Furnival, Neville, and Lovetot. Near it are the *Gate of Radford Priory* (Henry I.'s time), and St. Mary's Chapel. It is situated in the "Dukery," which comprises four ducal seats. *Worksop Manor*, Duke of Newcastle: In the house are a painted staircase, great hall, chapel, drawing and dining rooms. The old mansion and some of the Arundel marbles were destroyed by fire in 1761. *Welbeck Abbey*, Duke of Portland, which contains portraits of the Cavendishes, Queen Elizabeth, Prior Stratford, Archbishop Laud (by Vandyke), Sir W. Myddleton, &c. *Riding House and Stables*, 130 feet long. The Park is 8 miles long, and contains the Greendale Oak, 700 years old, 35 leet in girth, and a road through it; the Duke's Walking Stick, 111 feet high; two Porters, 98 and 88 feet high, 38 and 34 feet in girth, and the Seven Sisters all on one root, 88 feet high and 30 feet in girth. Here Lord George Bentinck died in 1840. *Clumber* (Duke of Newcastle), in a park 11 miles in compass. The *House*, with a lake in the front, contains a fine collection of sculpture, pictures, and family portraits of the Clintons, Pelhams, Lincolns, &c. Here are several pictures by Correggio, Rubens, Sneyders and Poussin. *Thoresby Park* (Lord Manvers), the ancient seat of the Duke of Kingston, rebuilt after the fire in 1745 in a park 13 miles round, contains an Ionic portico, with a fine collection of portraits of P. Paoli, Howe, &c. The celebrated Lady M. W. Montague, was born here. The Spread Oak, in the park, extends 180 feet and would, it is asserted, shelter 1,000 horsemen.--Sharp's *British Gazetteer*. Here Liquorice was grown in ancient days, about Camden's time.
+
+----
+
+Uuid: rhuyyfgvgr26lhjg

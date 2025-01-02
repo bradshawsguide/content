@@ -1,0 +1,35 @@
+Title: Harwich
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Three Cups; White Hart.
+-
+  term: Market Days
+  desc: Tuesday and Friday.
+-
+  term: Fairs
+  desc: May 1st and October 18th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A sea-port, packet station, and borough town in the county of Essex, with a population of 5,070, who return two members. It is built on a peninsular point of land, close to where the rivers Stour and Orwell join the German Ocean; and from the number of maritime advantages which Harwich possesses, it has become a place of fashionable resort, especially as the scenery in its neighbourhood has considerable beauty. The Stour and Orwell are both navigable for large vessels twelve miles above the town, the one to Ipswich, the other to Manningtree.
+
+In uniting at Harwich, these rivers form a large bay on the north and west of the town. Their joint waters then proceed southward, and fall into the sen about a mile below it, in a channel from two to three miles wide, according to the state of the tide, and in which the harbour is situated. The western bank of it is formed by the tongue of laud which projects towards the north, and on which the town itself stands; the eastern bank is formed by a similar projection towards the south of the opposite coast of Suffolk, and between these two promontories the harbour is completely sheltered. It is of great extent, and forms, united to the bay, a road-stead for the largest ships. Harwich derives considerable profit from its shipping trade, fisheries, and annual visitors. It has hot, cold, and vapour baths, every accommodation for sea bathing, and a number of other sources of amusement. From this place Queen Isabella (1326), Edward III. (1338 and 1340), William III., George I. and II., sailed on their visits to France, Holland, and Hanover. Queen Charlotte and Louis XVIII. first landed here; and from hence was embarked, in 1821, the body of that much abused princess, Queen Caroline, consort of George IV. In the vicinity is Dover Court, in the church of which is a tomb to Secretary Clarke, killed in 1666 in action against De Ruyter. Here was a miraculous crucifix (at least so it was stated to be), for burning which three men were hung in 1582. Captain Hewitt sailed in H.M. surveying brig Fairy, from this port, and was lost, with his crew, on the 13th Nov. 1840, in a storm.
+
+----
+
+Uuid: c38le6e9uolevgpx

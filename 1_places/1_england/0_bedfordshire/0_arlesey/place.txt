@@ -1,0 +1,20 @@
+Title: Arlesey
+
+----
+
+Section: 4
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
+
+----
+
+Text: (smcp: Arlesey) is a parish in Bedfordshire, four miles from Baldock. *Arlsey House*, seat of J. Edwards, Esq. Shefford is a chapelry, in the vicinity of which are *Phicksand Priory*, Sir G. Osborne, Bart.; *Southill Park*, W. Whitbread, Esq, and several mansions and gentlemen's seats. *Ampthill*, the seat of Lord Holland, is a noble edifice; and the park, noted for its ancient oaks, affords some agreeable views. The adjacent town of Ampthill is a market town.
+
+----
+
+Uuid: omsncp4xbx8no9e9

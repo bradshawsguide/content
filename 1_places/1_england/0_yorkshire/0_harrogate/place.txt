@@ -1,0 +1,38 @@
+Title: Harrogate
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: The White Hart, Low Harrogate, for families and gentlemen; The Granby, High Harrogate, for families and gentlemen; Gascoigne's Commercial Hotel, High Harrogate.
+-
+  term: Races
+  desc: in July.
+-
+  term: Bankers
+  desc: Knaresborough and Clare Banking Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Harrogate) has a resident population of about five thousand, but during the season, which continues from the beginning of June to the end of October, the visitors alone are more than double that amount. High and Low Harrogate are half-a-mile distant from each other, and as far as matters parochial are concerned, form two distinct villages, whose line of division, two brooks, is not obvious to the eye. The former is in the parish of Knaresborough, the latter of Pannal; but a more singular distinction mas made until Ripon was formed into a Bishopric, for then the villages were under the jurisdiction of two different episcopacies, the See of Chester, and the See of York. Di. Hunter divides the Harrogate springs into four classes, such as springs impregnated with sulphuretted hydrogen gas and saline matter; saline chalybeate springs; pure chalybeate; and springs containing earthy salts with little iron snd no sulphuretted hydrogen. The "*Tewit well*" is on the common, to the cast side of the Brunswick Hotel, and near the road to Leeds. The "*Sweet Spa*" was discovered in 1631, some years after, and occupies a more commanding position. It is now the chief chalybeate. In 1766, Lord Loughborough erected a stone canopy over the spring, which was removed in 1842, when the present neat building was substitated. The "*Old Sulphur Wells*" drew attention to the spot in the first part of the seventeenth century. In 1842 the commissioners enclosed the springs and erected an octagonal pump-room of ample dimensions and appropriate decoration. That this, however, might not interfere with the claims of those who could not afford a trifling gratuity to the attendant, a pump is placed without the walls available to the public, with only such restrictions as are necessary for the preservation of the water. The "*Montpellier Sulphur Well*" is private property, and an appurtenance to the Crown Hotel. It was found in 1822, and is enclosed, together with the saline chalybeate pump connected with the spring at a short distance, in an octagonal apartment decorated after the Chinese style. A trifling subscription gives the public the benefit of the springs, and entitles them besides to admission in the pleasure-grounds adjoining. The "*Knaresborough or Starbeck Spa*" is situated midway between Harrogate and Knaresborough, and is about 200 yards from the roadside. Though known as a sulphur spring at an early period, it was not until 1822 that the inhabitants of Knaresborough erected a neat and appropriate building over it with a suite of baths, and a residence for the attendant. To delicate constitutions it has often afforded relief when stronger remedies have failed. The "*Saline Chalybeate of Royal Cheltenham Pump-room*," contains the properties of a tonic, aperient, and alterative spring. It was found by Mr. Oddly, in 1819, whilst searching for sulphur water to supply the baths. In 1835, the original little pump-room was superseded by the present splendid building, which affords a pleasant promenade and a library for the literary lounger. Balls and concerts are frequently given here throughout the season. "*Harlow Carr*" springs are situated in Harlow Carr, a small but picturesque valley about a mile from the Brunswick Hotel, and beyond the tower on the road from Harrogate to Otley. There are several springs both of sulphur wi. chalybeate water in the grounds, but three only of the former, and one of the latter quality are at present used. There is a comfortable inn adjoining, built in the Elizabethan style, which commands an agreeable prospect. A suite of ten baths, either for hot or cold water, have also been provided in a detached building, with every requisite convenience for the accommodation of visitors. There are a few other springs of minor importance in Low Harrogate, and numerous bathing establishments for those who are advised to try their remedial effects.
+
+Amusements are not wanting; there is a racecourse, laid out in 1793, and libraries and collections in natural history to beguile the leisure of the studiously disposed. Those delighting in fine prospects should not omit visiting the lofty tower erected on Harlow hill, in 1829, by M. Thompson, of High Harrogate. It occupies a lofty acclivity about a mile from Low Harrogate, and though placed at an altitude of 596 feet above the level of the sea, is not difficult of ascent. The tower is 100 feet high, and presents a magnificent panorama of the surrounding country on a clear day. To assist the vision there are seven mounted telescopes, of great optical power, placed at the summit. To give some idea of the amazing extent of the view afforded, it may be mentioned that when the atmosphere is favourable, the Peak, in Derbyshire, is distinctly visible, and the tower of a church in Hull may be seen, though the latter is distant sixty miles.
+
+Within a short distance the following excursions may be made. *Ripley Castle*, on the Nidd, the Ingilby's seat. *Brimham Rocks*, a group of immense rocking and other stones, a fine point of view. *Allerton Maulezerer*, seat of Lord Stourton.
+*Ripon Cathedral*, a small cross, 270 feet long, with two towers, and St. Winifrid's needle in the crypt; the diocese was founded in 1836, and the learned Dr. Longley, Head Master of Harrow, was installed Bishop. *Studley Royal*, the seat of Earl de Grey, with the ruins of the church, &c., of *Fountains Abbey* in the beautiful grounds. *Newby Hall* is another seat of the Earl's, having a very fine collection of marbles. The *Devil's Arrows* (three stones), near Boroughbridge, the Roman *Isurium*. *Tadcaster*, and its long bridge on the Wharle, near Torton, where the Lancastrians were finally beaten by Edward IV., on Palm Sunday, 1461. The Wharfe and Nidd should he ascended for the fine mountain scenery round Skipton and Settle, where Ingleborough rises 2,361 feet high. Passing the Nidd you come to *Bolton Abbey*, near a cleft called the Strid, a Norman ruin, belonging to the Duke of Devonshire, who has the original of Landseer's "Bolton Abbey in the olden time." Here Mary Queen of Scots was confined two years, in charge of the Scropes.
+
+----
+
+Uuid: n0ivoxgd05m9qnoc

@@ -1,0 +1,25 @@
+Title: Bingham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,918.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Situated near the Fosseway, is a small market town in the vale of Belroir, with a good early Gothic church; close to which are *Shelford*, a seat of the Stanhopes, and *Wiverton*, an old deserted house of the Chaworths, both of which were on the royalist side in the civil war, and made work for Hutchinson in au occasional skirmish.
+
+----
+
+Uuid: vcuuzidpryzzq5nv

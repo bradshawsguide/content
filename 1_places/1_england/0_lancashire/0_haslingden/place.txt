@@ -1,0 +1,31 @@
+Title: Haslingden
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Commercial Inn.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: February 2nd, Easter Tuesday, May 8th, July 4th, and October 2nd.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This market town, with a population of 6,929, engaged in the cotton trade, lies on the borders of Rossendale Forest, on an elevated spot. Its church has some old tombs and a font of Henry VIII's time.
+
+----
+
+Uuid: ex0knns9hdxs2aea

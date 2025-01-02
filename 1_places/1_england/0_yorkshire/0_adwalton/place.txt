@@ -1,0 +1,25 @@
+Title: Adwalton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Fairs
+  desc: January 26, February 26, Easter Thursday, and every other Thursday until Michaelmas (horse and cattle).
+
+----
+
+Notes:
+
+----
+
+Text: Close at hand is Adwalton Moor, where the Earl of Newcastle routed Fairfax in 1642.
+
+----
+
+Uuid: ojh9s85WAAKrzEL6

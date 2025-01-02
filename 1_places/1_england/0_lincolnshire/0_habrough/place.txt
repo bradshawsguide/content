@@ -1,0 +1,32 @@
+Title: Habrough
+
+----
+
+Subtitle: (Brocklesby).
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Ulceby, 1¾ mile.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- Telegraph station at Ulceby, 1¾ mile.
+
+----
+
+Text: Lord Yarborough's seat is on the right.
+
+----
+
+Uuid: a3xzbkdcbqmf5ej8

@@ -1,0 +1,31 @@
+Title: Hoghton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,201.
+-
+  term: Mails
+  desc: One arrival and departure, daily, between London and Hoghton.
+-
+  term: Money Order Office
+  desc: at Preston 5 miles.
+
+----
+
+Notes: Telegraph station at Preston Junction, 3¾ miles.
+
+----
+
+Text: Close at hand is *Hoghton Tower*, the old seat of the Hoghtons, now of *Bold Hall*. Here James I. knighted the sirloin of beef, and authorised games to be played after church service on Sundays.
+
+----
+
+Uuid: vvxgxiozfqd3xp8f

@@ -1,0 +1,31 @@
+Title: Newchurch, in Rossendale
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Watson's Arms.
+-
+  term: Money Order Office
+  desc: at Rawstenstall, 1½ miles.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
+
+----
+
+Text: This place contains a population of 3,115 chiefly engaged in the cotton and woollen trades, of which it is the centre.
+
+----
+
+Uuid: vvosxpc0ynpnej4y

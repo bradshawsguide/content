@@ -1,0 +1,24 @@
+Title: Bentley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Ipswich, 5¼ miles.
+
+----
+
+Notes:
+
+- Distance from station, ¾ mile.
+- A telegraph station.
+
+----
+
+Uuid: e9wlap33lhscaiuy

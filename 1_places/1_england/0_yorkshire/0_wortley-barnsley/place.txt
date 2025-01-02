@@ -1,0 +1,34 @@
+Title: Wortley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,121.
+-
+  term: Hotel
+  desc: Wortley Arms.
+-
+  term: Money Order Office
+  desc: at Penistone, 4½ miles.
+
+----
+
+Notes:
+
+- A telegraph station.
+- Distance from station, ½ mile.
+
+----
+
+Text: In the vicinity is *Wortley Hall*, the beautiful old seat of Lord Wharncliffe, *Wharncliffe Lodge*, *Wharncliffe Crags*, and the *Dragon's Den*, from all of which may be obtained most beautiful views, most especially so from the summit of the ancient lodge of Wharncliffe (built in 1510), on the summit over the chase, (in which the Dragon of Wantley was captured), and the adjacent country. At *Wharnclife Lodge*, Lady Mary Wortley Montague resided, and here her eccentric son was born.
+
+----
+
+Uuid: ekawllpbr5zx7hoi

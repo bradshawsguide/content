@@ -1,0 +1,28 @@
+Title: Askerne
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Swan.
+-
+  term: Money Order Office
+  desc: Doncaster, 6¼ miles.
+
+----
+
+Notes: Telegraph station at Doncaster, 6¼ miles.
+
+----
+
+Text: This place is celebrated for a sulphur spa, and as having been the spot where Ambrosius killed Hengist, the Saxon, in 489. In the vicinity at Compsall is the seat of B. Franks, Esq.
+
+----
+
+Uuid: imfutuwqddp2vhh4

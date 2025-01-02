@@ -1,0 +1,42 @@
+Title: Knaresborough
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Crown; Commercial.
+-
+  term: Market Day
+  desc: Wednesday (for corn).
+-
+  term: Fairs
+  desc: First Wednesday after January 13th, March 12th, May 5th, August 12th, October 11th, Wednesday before November 23rd, and December 10th.
+-
+  term: Bankers
+  desc: Harrison and Co.; Knaresborough and Clare Banking Company.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A borough and parliamentary town in the West Riding of Yorkshire, with a population of 5,402, who return two members, pleasantly situated on the north eastern bank of the river Nid, which is here of considerable breadth, and the opposite bank is covered with thick foliage down to the water's edge. There are many beautiful and extensive prospects from this town, as it overlooks the greater part of the Vale of York. Towards the west the country has a gradual ascent, and the views are less extensive; but they are agreeably variegated by vales, eminences, woods, groves, country seats, and farms.
+
+*Knaresborough Castle*, in which Richard II. was confined, dismantled by Fairfax in 1644, once the ornament and security of the town, has mouldered to decay, but the remains of its former magnificence show how great must have been its original strength and importance.
+
+There is a large ancient church, in which are monuments of the Slingsbys of Scriven Hall; here Becket's murderers took refuge.
+
+Close by the river is the celebrated *Dropping Well*, a petrifying spring which falls over a limestone rock 45 feet broad, near to which are *Montague Cave*, *St. Robert's Chapel* and *Cave* (the scene of Eugene Aram's murder of Clarke), and close at hand is the birthplace of Mother Shipton.
+
+----
+
+Uuid: gsmwbdv21oqsf7f5

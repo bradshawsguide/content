@@ -1,0 +1,41 @@
+Title: Hitchin
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 6,330.
+-
+  term: Hotels
+  desc: Refreshment Room at the station; Sun.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: Easter and Whit Tuesdays and Wednesdays.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
+
+----
+
+Text:
+
+(smcp: Hitchen) is a market town in the county of Hertford, situated in a pleasant valley. The church is a handsome edifice, containing several fine monuments, and the whole town has a clean and prepossessing appearance.
+
+In the neighbourhood of Hitchin is *Hitchin Priory*, the seat of F. Radcliffe, Esq., and several fine old mansions. Between this and Luton are numerous barrows, supposed to contain the bones of those slain in the battle fought by the Saxons and Danes, at the village of Hexton, in 914.
+
+----
+
+Uuid: qjdvg8ilzxtxhney

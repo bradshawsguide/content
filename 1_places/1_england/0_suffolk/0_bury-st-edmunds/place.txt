@@ -1,0 +1,51 @@
+Title: Bury St. Edmunds
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 13,318.
+-
+  term: Hotels
+  desc: Angel; Bell.
+-
+  term: Market Days
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: October 2nd and December 1st.
+-
+  term: Money Order Office
+  desc: ""
+-
+  term: Bankers
+  desc: Oakes, Bevan and Co.; John Worlledge and Co.; National Provincial Bank of England; Harvey and Hudsons.
+
+----
+
+Notes:
+
+Distance from station, ½ mile.
+A telegraph station.
+
+----
+
+Text:
+
+An old Saxon town and parliamentary borough, situated in so healthy a spot that it has been called the Montpelier of England, in a beautiful part of West Suffolk, founded by Canute along with an abbey, to commemorate the martyrdom of Edmund, a King of East Anglia, by the Danes, in the year 870. This became one of the largest and most richly endowed monasteries in the kingdom, being "505 feet long and 212 wide, with twelve chapels and churches, cloisters, offices, &c., attached, forming a little town in itself. The abbot was mitred, and reigned over an establishment of monks, chaplains, and servants, amounting to 200. He had a mint and a *gallows* in the town, of which he was chief magistrate, with a jurisdiction over the entire liberty (ie, six hundreds and a half in this shire), the royalties of which together with 58 knights' fees, and other possessions, made a revenue equivalent to £50,000 in the present day" (*Sharp's British Gazetteer*). Of this luxurious house, which our early sovereigns frequently visited, all that now remains are part of a tower, a beautiful Norman gate, 80 feet high, the abbey church, and gate.
+
+Bury stands on the slope of a gentle and well cultivated sand-hill, the best prospect of it being from the Vinefield. *St. Mary's* old parish church contains the effigies of Henry VIII's sister, Mary, who married Charles Brandon, Duke of Suffolk, and of Reeve, the last Abbot of Bury. At one time it possessed 40 churches and religious foundations. The *Shire Hall* occupies the place of St. Margaret's church. The *Guildhall* has an ancient porch. There is a large *County Prison*, and a *Briderell* in the Norman style; a handsome *County Hospital*. The *Grammar School* has produced many eminent men, such as Archbishop Sancroft, Dr. Blomfeld (late Bishop of London), a native, Lord Keeper North, Sir Samuel Romilly, Cumberland, the dramatist, &c. Bloomfield the poet was born at Honington. The famous Bishop Gardiner of Mary's time, was also a native.
+
+Some ancient houses, as well as many remnants of antiquity will be noticed. The *Cock Inn* was a chapel, and the old workhouse part of a college. There still remains a gate of *St. Saviour's Hospital*, founded as far back as 1184, by Abbot Sampson. Here good Duke Humphrey was captured by Henry VI., and (it is stated) smothered in 1446, between the bolsters of his bed; and Dudley unsuccessfully tried to get up a rising on behalf of Lady Jane Grey.
+
+Several fine seats are in the neighbourhood, built on the property which once belonged to the abbey, and was granted away at the dissolution. *Rougham Hall*, P. Bennet, Esq. *Rushbrooke Hall*, Colonel Rushbrooke; a moated Elizabethan seat. *Barton Hall*, Sir H. Bunbury, Bart. Livermore Hall, General Peel, M.P. *Culford Hall*, R. Benyon, Esq. *Euston Park*, Duke of Grafton.
+
+----
+
+Uuid: zrHI4ocq54ObbUWR

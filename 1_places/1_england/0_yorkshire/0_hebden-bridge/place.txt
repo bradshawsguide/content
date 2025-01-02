@@ -1,0 +1,25 @@
+Title: Hebden Bridge
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Sowerby Bridge, 4½ miles.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: The vale of Todmorden in this locality is rich in picturesque grandeur. In close proximity, along the valley of the Lee, is a splendid prospect; from an eminence, to the north-east of Wood End in the bottom of a deep dale, is seen the little village of Hebden Bridge, surrounded by lofty ridges of moorland heights, partly clothed with wood, and partly spotted with groups of cottages and farm houses, several of them embowered in groves of trees, whilst through the dark recesses is heard the roar of the Calder, and its various tributaries, rushing occasionally in sheets of spray over the precipitous heights, and rendered subservient to the purposes of the various cotton and woollen manufactories with which the valley is nearly every where studded.
+
+----
+
+Uuid: y3qdfp1koyyvujyo

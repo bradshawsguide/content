@@ -1,0 +1,21 @@
+Title: Ramsbottom Junction
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: ""
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: zb1r8p8mlptkrknb

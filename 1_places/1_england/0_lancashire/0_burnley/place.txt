@@ -1,0 +1,37 @@
+Title: Burnley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Bull.
+-
+  term: Market Days
+  desc: Monday and Saturday.
+-
+  term: Fairs
+  desc: March 6th, Easter Eve, May 9th and 13th, July 10th, and October 11th.
+-
+  term: Bankers
+  desc: Birkbecks and Co.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
+
+----
+
+Text: (smcp: Burnley)--A large market town, on a pretty part of the Calder, 24 miles from Manchester. Here are many extensive cotton and some worsted mills, with several foundries. Population, 28,700. It is a modern place, though. near the site of a Roman station. Coal, slate, freestone, and flagstone are abundant. The houses are of stone. Here is a Grammar School, founded by Edward VL., in which Dr. Whittaker was educated. A large old Gothic church contains the tombs of the Towneleys, of *Towneley Park*. This is an ancient seat, in a beautifully wooded spot, with portraits of the family for many ages back The late Charles Towneley collected here the marbles which were sold at his death to the British Museum. *Ormerod Hall*, General Scarlett, is another ancient seat of the 16th century; also *Gawthorpe*, the seat of Sir J. P. Kay Shuttleworth, Bart. On the west side of the Calder valley are the Pendle Mills, 1,800 feet high, overlooking Clitheroe and its old castle, taking in a view of the Isle of Man, &c., from the cairns on the top; the limestone strata are violently thrown up. A range of bills runs along the Yorkshire border on the east side of the valley; one of which is Boulsworth Hill, 1,689 feet high.
+
+----
+
+Uuid: 1btzo7fmowcebyep

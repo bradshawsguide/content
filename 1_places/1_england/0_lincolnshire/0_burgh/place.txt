@@ -1,0 +1,31 @@
+Title: Burgh
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,223.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: May 12 and October 2.
+
+----
+
+Notes: Telegraph station at Firsby, 2¼ miles.
+
+----
+
+Text: The tower of the church is curious. On the coast is the little watering-place *Skegness*. In the vicinity are *Gimby Hall* and *Candlesby*, both seats of the Massingherds, an ancient family.
+
+----
+
+Uuid: 1pjraw33xeplccxt

@@ -1,0 +1,25 @@
+Title: Trent
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Nottingham, 5½ miles.
+
+----
+
+Notes: - A telegraph station.
+
+----
+
+Text: In the vicinity is *Thrumpton Hall*, the old Elizabethan seat of the Pigots, nor belonging to Captain Byron.
+
+----
+
+Uuid: x4Kc9EbYSORn1Wil

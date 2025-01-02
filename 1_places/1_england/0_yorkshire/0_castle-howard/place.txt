@@ -1,0 +1,31 @@
+Title: Castle Howard
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Crow.
+-
+  term: Money Order Office
+  desc: at Malton, 5¼ miles.
+
+----
+
+Notes:
+
+- Distance from station, 2½ miles.
+- A telegraph station.
+
+----
+
+Text: Close to which is *Castle Howard*, Lord Carlisle's seat, which was built by Vanbrugh, and contains, among other pictures, Carracci's and some marbles, the gift of the gallant Nelson. An obelisk 100 feet high, with a Doric colonnade, a round chapel, and a tree planted by Queen Victoria, who visited it in 1850.
+
+----
+
+Uuid: qkgnpy5xvxqdozol

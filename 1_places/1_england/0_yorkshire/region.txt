@@ -10,7 +10,11 @@ The East forms the least of the three grand divisions of the county. Many parts 
 
 The West Riding is about 95 miles in its greatest length from east to west, and 48 miles in breadth from north to south. Amidst the hilly and mountainous tracts of this riding are many romantic vallies, presenting the most beautiful scenery. The most extensive of these are Netherdale, or Niddersdale, watered by the Nid; Wharfdale, by the Aire, which in many places affords views the most delightful that can be imagined. The important rank which the manufactures of this county have long maintained in the estimation of the world, their manifest utility in furnishing employment and support for a great part of our population, and in supplying the comforts and conveniences of life, has often been the subject of just and well-merited commendation. The amount of patient thought, of repeated experiment, and happy exertion of genius, by which our various manufactures have been created and carried to their present excellence, is scarcely to be imagined. The establishment of manufactures in the West Riding has been the principal cause of its present wealth.
 
-The county is admirably adapted for carrying ou manufactures. The raw materials are abundant on every hand; and coals plentiful and cheap. The staple commodities of the county are wool and cotton; the former is particularly deserving of notice, from the extent of the manufactures connected with it.
+The county is admirably adapted for carrying on manufactures. The raw materials are abundant on every hand; and coals plentiful and cheap. The staple commodities of the county are wool and cotton; the former is particularly deserving of notice, from the extent of the manufactures connected with it.
+
+----
+
+Feature: 
 
 ----
 

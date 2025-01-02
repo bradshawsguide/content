@@ -1,0 +1,31 @@
+Title: Kirkby Stephen
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Monday.
+-
+  term: Fairs
+  desc: First Monday in Lent, before April 20, and in June and July; October for cattle, woollens, &c.
+-
+  term: Population
+  desc: 1,715.
+
+----
+
+Notes: Telegraph station at Tebay.
+
+----
+
+Text: This town is prettily situated on the banks of the Eden, and has some pretensions to a trade in woollen and silk. The church is a very old one, with some interesting monuments.
+
+----
+
+Uuid: nga5uvdgadv34nk7

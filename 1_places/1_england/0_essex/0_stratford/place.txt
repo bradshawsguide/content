@@ -1,0 +1,31 @@
+Title: Stratford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 15,994.
+-
+  term: Hotel
+  desc: The Swan.
+-
+  term: Omnibuses
+  desc: to and from London every five minutes.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This station forms an important junction of the lines to Cambridge, Ipswich, Tilbury, and places on the North London Railway. Here a collier dock of 600 acres is being constructed. At West Ham are distilleries, Gutta Percha factories, and the gate of an abbey.
+
+----
+
+Uuid: Shp4EsHnW9dZql3b

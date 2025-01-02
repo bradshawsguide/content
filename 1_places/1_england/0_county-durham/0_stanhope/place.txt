@@ -1,0 +1,30 @@
+Title: Stanhope
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 9,654.
+-
+  term: Fairs
+  desc: Wednesday before Easter, second Friday in September, and December 21.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+This place is celebrated for its lead works which employ upwards of 8,000 hands; close by is Heatherhouse cave half a mile long, an old church, *Stanhope Hall*, the old seat of the Featherstonehaughs the race of which is now extinct. *Stanhope Park* (12 miles round) and *Cave*, in which the ancient Bishops of Durham hunted, and Douglas retreated from Edward III. in 1327.
+
+----
+
+Uuid: aiot6fmw2jafqzat

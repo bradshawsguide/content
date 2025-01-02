@@ -1,0 +1,17 @@
+Title: Stixwould
+
+----
+
+Section: 4
+
+----
+
+Notes: Telegraph station at Kirkstead, 2 miles.
+
+----
+
+Text: In the vicinity is *Tupholme*, at which are the ruins of an abbey built by the Nevilles.
+
+----
+
+Uuid: bovt4sm1iwv1vvsi

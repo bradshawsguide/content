@@ -1,0 +1,34 @@
+Title: Holmfirth
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,466.
+-
+  term: Hotel
+  desc: Victoria.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Saturday after 27th March, Saturday before Old May Day, and Saturday after May 28th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Holmfirth) (6 miles) on the line to Sheffield, in a fine hollow of the mountains, where the Ribble and Diglee brooks join, was dreadfully ravaged in 1852, by the bursting of Bilberry Dam, a reservoir above the town, nearly 200 yards long, and 70 feet deep in one part, fed by springs from the hills, and used to turn the cotton mills below. The valley is about 6 miles long, and only 100 yards broad at the widest; and the immense volume of water set free in this narrow gutter carrie away 100 lives, with houses, mills, and other property, worth £600,000. The bridge was entirely destroyed; and only the bare walls of the church left. Upwards of £120,000 was collected through the country for the poorer sufferers,--so abundant, indeed, were the subscriptions that a good proportion was returned to the donors.
+
+----
+
+Uuid: rf2cywwpopv5pu37

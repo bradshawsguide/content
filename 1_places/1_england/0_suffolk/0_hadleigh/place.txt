@@ -1,0 +1,34 @@
+Title: Hadleigh
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,779.
+-
+  term: Hotel
+  desc: White Lion.
+-
+  term: Market Days
+  desc: Monday and Saturday.
+-
+  term: Fairs
+  desc: Whit-Monday, and October 10.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A market town in the county of Suffolk, built on the banks of the rive! Breton. It was celebrated some years back for the manufacture of cloth, but the inhabitants are now principally employed in the spinning of yarn for the Norwich weavers. It is of great antiquity, and is believed to have been the burial place of the kings of East Anglia On *Aldham Common* Rowland Taylor was burnt, in 1555.
+
+----
+
+Uuid: egbhoggq1vx77ena

@@ -1,0 +1,25 @@
+Title: Clay Cross
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,501.
+
+----
+
+Notes: Telegraph station at Chesterfield, 4 miles.
+
+----
+
+Text: This is the nearest station for *Hardwick Hall* situated on the extreme eastern borders of the county, adjoining that of Nottingham. It is a noble Elizabethan seat belonging to the Duke of Devonshire, finished in 1584, by the famous Countess Elizabeth. The picture gallery (full of historical portraits) is a magnificent apartment, lit by vast bay windows; and one room contains the bed worked by Queen Mary of Scotland, who was kept prisoner here.
+
+----
+
+Uuid: XaGqRsMpmATxICC1

@@ -1,0 +1,34 @@
+Title: Market Weighton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,178.
+-
+  term: Hotel
+  desc: Londesborough Arms.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: May 14th, September 25th, for horses.
+
+----
+
+Notes: Telegraph station at Beverley, 8 miles.
+
+----
+
+Text: Here is a large old church. In the vicinity are *Hunsley Beacon*, 530 feet high; *Houghton Hall*, the seat of the Hon. C. Langdale; *Goodmanham*, with its Norman church, built on the site of a Pagan Grove, which was burnt by Crifin in the 7th century, on his conversion by Paulinus, and Lord Hotham's seat, *South Dalton Hall*, where bones of the elephant and rhinoceros have been found.
+
+----
+
+Uuid: inhqzbec5w3oj1iy

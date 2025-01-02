@@ -1,0 +1,21 @@
+Title: Rawtenstall
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Queen's Arms.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: hm3fzcudcbkofgpt

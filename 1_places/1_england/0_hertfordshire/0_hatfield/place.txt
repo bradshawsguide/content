@@ -1,0 +1,36 @@
+Title: Hatfield
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,871.
+-
+  term: Hotel
+  desc: Salisbury Arms.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: April 23rd, and October 18th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Hatfield) is a market town, in the county of Herts, built on the banks of the river Lea. It is tell known on account of the royal palace, which Tras for some time the residence of Queen Elizabeth, previous to the death of her sister Mary. Here is also the magnificent palace erected by Cecil, first Earl of Salisbury, which retains, to this day, nearly all its original splendour. It consists of a quadrangle in the Tudor style, some part being as old as 1480, but most of it not earlier than 1605. Many curious portraits on panel, and a large and beautiful park. Edward VI., and Elizabeth were here when proclaimed. Cromwell's chair is shown. In 1835, part was burnt, and the Dowager Marchioness perished. Passengers are set down here for St. Albans.
+
+----
+
+Uuid: nwqdcwtxeukwsk9j

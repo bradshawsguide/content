@@ -1,0 +1,32 @@
+Title: Spofforth
+
+----
+
+Subtitle: for Knaresborough.
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,017.
+-
+  term: Money Office Office
+  desc: at Wetherby, 3 miles.
+
+----
+
+Notes: Telegraph station at Harrogate, 5 miles.
+
+----
+
+Text: This place contains the ruins of the Percy's seat (the hall of which is still seen), demolished by the Yorkists after the battle of Towton. Close at hand is *Rudding Park*, the seat of Sir J. Radcliffe, Bart., of Milnes Bridge.
+
+----
+
+Uuid: ekxe5gaz54stlskr

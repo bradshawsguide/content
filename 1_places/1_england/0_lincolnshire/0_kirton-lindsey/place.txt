@@ -1,0 +1,28 @@
+Title: Kirton Lindsey
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,058.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
+
+----
+
+Text: Here is a curious old church. In the vicinity are *Blyborough Hall*, C. Luard, Esq; and *Redbourne Hall*, Duke of St. Albans.
+
+----
+
+Uuid: eocjgedqorunncsk

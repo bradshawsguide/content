@@ -1,0 +1,37 @@
+Title: Boroughbridge
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 909.
+-
+  term: Hotel
+  desc: Crown.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: April 8th and 27th, October 9 and 23, June 22nd.
+-
+  term: Money Order Office
+  desc: ""
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This place was the scene of a battle in 1321, when the Earl of Lancaster was routed by Edward II. The *Crown Inn* here was once the seat of the Tancreds. Close to the stone bridge are three Druidical Stones, named the *Devil's Arrows*. Close at hand is *Aldoborough*, the ancient *Isurium*, where old walls, coins, and pavements have been found.
+
+----
+
+Uuid: 9wib9ix5keys7qvs

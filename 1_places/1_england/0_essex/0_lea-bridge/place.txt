@@ -1,0 +1,31 @@
+Title: Lea Bridge
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Horse and Groom, and Greyhound.
+-
+  term: Money Order Office
+  desc: at Stratford, 2¼ miles.
+
+----
+
+Notes:
+
+Distance from station, ½ mile.
+Telegraph station at Stratford, 2½ miles.
+
+----
+
+Text: A favourite resort of the London anglers.
+
+----
+
+Uuid: oUXpWWC9079aqMFA

@@ -1,0 +1,40 @@
+Title: Grantham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Angel, family and commercial.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: July 10th, October 26th, December 17th, Monday before Palm Sunday, Holy Thursday.
+-
+  term: Bankers
+  desc: Hardy and Co.; Branch of Stamford, Spalding, and Spilsby Banking Company.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A parliamentary borough of 11,121 inhabitants. who return two members, in the Soke of Grantham (as this part of *South Lincolnshire* is called), near the river Witham, among some long wolds. It is noted not only for its trade in malt, but for the manufacture of Grantham cakes, a very superior sweetmeat, sold in boxes at 1s. Bishop Still, and More the platonist, were natives. At the *Free School* founded by Bishop Fox (servant of Henry VII., and founder of Corpus Christi College, Oxford), Newton was educated. There is an iron spring; but the beautiful crocketed church spire of eight sides, with pinnacles at the base, is the chief object; it is 250 feet high. The church itself, 116 feet long, is of the 13th century, including an older crypt. The "Angel" is on the site of a preceptory of the Knights Templars. "Here it was (states De Foe, in his *Memoirs of a Cavalier*) that we began to hear of Oliver Cromwell who, like a little cloud, rose out of the east, and spread first into the north, till it shed down a flood that overwhelmed the three kingdoms." It was at Grantham, with only his own reginent, that he defeated 24 troops of the King's horse, in 1613. Here formerly stood one of Queen Eleanor's Crosses.
+
+Within a short distance are the following:--*Belton Hall*, seat of Earl Brownlow, a large pile, shaped like an H, and built by Wren, or from his designs. *Harlanton Church*, and the Tudor seat of the Gregorys, *Syston Park*, Sir J. Thorold, Bart.
+
+*Belvoir Castle*, on the Leicestershire borders, seat of the Duke of Rutland, stands on the wolds above the vale of Belvoir (or "Beevor" as it is sounded), from which you ascend by steps, and has been partly rebuilt since the disastrous fire of 1816. Some good pictures and the old Quixote tapestry are seen; also remains of a priory founded by Ralph de Todeni, standard-bearer to William the Conqueror, and ancestor to the present (Manners) family. The late duke, who was a "mighty hunter," had a fine pack of sixty couple of hounds kennelled here; "very level, and well adapted to the Melton country which they hunt," says an enthusiastic authority, and under the care of William Godall, "who though but 31 years of age, has actually passed 20 in company with hounds," his entry a 31 years of age having been "unexceptionable." Besides the gentlemen riders "good men and true," "there are also some for-hunting farmers who go well, and look upon a litter of fores as the most valuable stock their farms can produce. If this book (Fore's *Guide to the Hounds*) were printed in golden type, such men would deserve to have their names recorded in it."
+
+----
+
+Uuid: 9h4p24r5fuldsubs

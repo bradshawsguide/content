@@ -1,0 +1,37 @@
+Title: Alford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,658.
+-
+  term: Hotels
+  desc: Red Lion; White Horse.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: Whit Tuesday and November 8.
+
+----
+
+Notes:
+
+- Distance from station, 1 mile.
+- A telegraph station.
+
+----
+
+Text: This is a market town, with a good free grammar school, an old church with thatched chancel and ancient tombs, salt springs, and is the head quarters of a Wesleyan Circuit. In the vicinity are *Ormesby*, the seat of Mr. Massingherd; *Willoughby*, the seat of the brave Lord Willoughby; *Well Vale*, R. Dashwood, Esg; and *Skendleby*, Sir E. Brackenbury, Bart.
+
+----
+
+Uuid: axqhp7tepl26dp0k

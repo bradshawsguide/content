@@ -1,0 +1,25 @@
+Title: Framlingham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,252.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This ancient little town occupies an elevated situation, near the source of the river Ore. The church is a fine building, with a tower of 90 feet, fine carved roof, and eight-sided pillars. Amongst the monuments it contains are those of the second Duke of Norfolk, and the Earl of Surrey, his son, beheaded by order of Heny VIII. Here are the ruins of a fine castle, built by Hugh Bigod, and held successively by the Mombrays and Howards, but now in the possession of Pembroke Hall, Cambridge.
+
+----
+
+Uuid: vjb6dfz1rje2afux

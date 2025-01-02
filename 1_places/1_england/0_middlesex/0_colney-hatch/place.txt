@@ -1,0 +1,30 @@
+Title: Colney Hatch
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Barnet, 2¾ miles.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- Telegraph station at Barnet, 2¾ miles.
+
+----
+
+Text:
+
+(smcp: Southgate), situated on the skirts of Enfield Chase, a large tract of woodland, formerly stocked with deer. There are numerous beautiful mansions in the vicinity of Colney Hatch, close to which is the *Lunatic Asylum*, on a site of 118 acres. *South Lodge*, the seat of the illustrious Chatham, is in a charming spot. The neighbourhood affords some very fine views; and a visit to Colney Hatch, during the summer season, is esteemed a great treat by the lovers of fine sylvan scenery. In the vicinity are *Arno's Grove*, seat of the Welds; *Culland's Grove*, Sir W. Curtis, Bart.; *Bowes Manor*, Lord Truro; and *Winchmore Hill*, a pretty rural spot.
+
+----
+
+Uuid: gjuqyebxpn5tu5pu

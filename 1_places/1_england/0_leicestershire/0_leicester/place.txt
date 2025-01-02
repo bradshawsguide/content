@@ -1,0 +1,84 @@
+Title: Leicester
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Bell; Three Crowns.
+-
+  term: Market Days
+  desc: Wednesday, Friday, and Saturday.
+-
+  term: Fairs
+  desc: January 14th, March 2nd, May 12th, June 1st, July 5th, August 1st, September 13th, October 30th, November 2nd, December 8th, Palm Saturday, and Saturday in Easter Week.
+-
+  term: Races
+  desc: in September.
+-
+  term: Bankers
+  desc: Leicestershire Banking Company; Branch Bank of England; Paget and Kirby; Pare's Leicestershire Banking Company; National Provincial Bank of England.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+Leicester, the capital of Leicestershire, a parliamentary borough, and seat of the hosiery trade, on the river Soar, and Midland Railway, 103 miles from London, *via* Rugby. Population, 68,056. Two members. Here was a castle, rebuilt by John of Gaunt after its destruction by Henry II., but finally destroyed by Charles I., in 1645, and of which nothing now remains but the mound. It stood on a site of 26 acres, at Castle View or Newark (New work), a mound above the river, and was first built before the Conquest, by the Earls of Mercia. There are some remains of a collegiate foundation close by, of a later date, where John of Gaunt's wife, Constance of Castile, Mary de Bohun, first wife of Heury IV., and others of the princely line of Lancaster, were interred.
+
+There was a station here in Roman times, when it was called Ratœ, which guarded the Fossway and Via Devana, the proofs of which exist in medals, urns, and pavements from time to time discovered, as well as a piece of an arched *Roman wall*, in the Jewry (where the Jews used to live), 10 feet long, and above 20 high; but especially in an almost unique *Roman milestone* of Hadrian's time, nearly 3 feet high, now deposited in the town Museum.
+
+Another interesting relic is the wall of the terrace of St. Mary's Augustine Abbey, built by Robert le Bossu, or Hunch-Back, one of the first Earls of Leicester, in the meadows (by the river), and therefore called St. Mary de Pratis, the site of which is a large florist's nursery. Here Wolsey died.
+
+In the Castle View the *Assize Hall*, deserves notice; it was the grea hall of the castle, and is 78 feet long by 50 broad, supported by oak pillars. It still retains many interesting architectural details of the Norman period. Two of the gateways of the Castle remain, one in ruins. The Guildhall is 80 feet long. At the Assembly Rooms is a painted ceiling, by Reinagle, the subjects being Aurora, Night, &c. The *Collegiate School* is in the Tudor style. Some of the hospitals for the poor are ancient; that called Trinity was founded in 1331. *Wigston's Hospital* was founded in 1513, and possesses very large revenues. Pleasant views from the new walk on the south side of the town.
+
+Leicester was of so much consequence in Saxon days that it was made the seat of a bishop for a time, with a palace close to *St. Margaret's Church*, an early Gothic building. *St. Martin's*, near South-gale Street, and *St. Mary's*, near the castle, are both half Norman--the former being a cross, and the latter (distinguished by its tall spire) having stalls in it, with a fine timber roof. Robinson, author of the work on "Scripture Characters," was vicar of *St. Mary's*. *St. Nicholas*, in that street, near the castle, has a Norman tower.
+
+Another *bossu*, the famous crook-backed Richard III., was brought here after the battle of Bosworth Field, and buried at the Grey Priory. He slept before the battle at a timbered house called the Blue Boar Inn (which was his crest), using the upper part overhanging the lower. The stone coffin, in which his body was interred, was used to form the horse trough at the Inn, "*Sic transit gloria mundi.*" Leicester stands as near as possible in the centre of England.
+
+> This foul swine
+> Lies here low in the centre of the isle
+> Near to the town of Leicester, as we learn.
+> --(smcp: Richard III.)
+
+Stocking-making, the staple manufacture here, employs many wholesale dealers, and 4,000 or 5,000 hands, and many more in the neighbourhood, in worsted, wool, and cotton spinning, wool stapling, the weaving and sewing of the hose, and the making of needles, frames, &c. The large mills of Messrs. Harris, Brewin and Whetstone, Ellis, &c., rival those of Lancashire. Berlin gloves and lace are also made. Upwards of 20,000 stockingers altogether are engaged in the manufacture in this town, and at Loughborough, Hinckley, Lutterworth, &c.
+
+Within a few miles of Leicester the following may He noticed: *Belgrave Hall*, J. Ellis, Esq.; *Kirkby Mallory*, Lady de Clifford, where the Noels are buried; *Rothley Temple*, once the seat of a preceptory of the Templars. *Quorndon Hall*, Sir R. Sutton, Bart. Here the famous Quorn hounds are kennelled. *Nimrod* says, "of all the countries in the world, the Quorn certainly bears the bell." This superiority arises from the peculiar nature of the soil, which, being for the most part good, is highly favourable to the scent; the immense proportion of the grazing land, in comparison with that which is ploughed, and the great size of the enclosures, many of which run from 60 to 100 acres each. Trueman, a black and white hound, which belonged to the Duke of Rutland, is "perhaps as perfect a hound as ever was littered, both as to share and work." In one of the courts is a polished statuette of another called Tarquin. At *Sixhill* or *Seghill*, to the north-east, the *Fosse Way*, high and paved, is plainly distinguishable. *Quenby*, W. Ashby, Esq., a large old Elizabethan seat. *Wistow Hall*, Sir H. Halford, Bart., was the seat of George the Fourth's favourite physician. Here Charles I. staid on his way to Naseby in 1645. *Stretton*, i.e., Street Town, because of a Roman way or street, is the seat of the Rev. Sir G. Robinson, Bart.
+
+----
+
+Distances:
+
+----
+
+Title-short:
+
+----
+
+Subtitle:
+
+----
+
+Desc:
+
+----
+
+Section: 4
+
+----
+
+Children:
+
+----
+
+Links:
+
+----
+
+Uuid: m1VRNVgNktZQCPB2

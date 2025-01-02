@@ -1,0 +1,34 @@
+Title: Stockton-on-Tees
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Black Lion; Vane Arms.
+-
+  term: Market Days
+  desc: Wednesday and Saturdays.
+-
+  term: Races
+  desc: in August.
+-
+  term: Fairs
+  desc: Wednesday before 13th March, 23rd November, last Wednesday in every month (for cattle).
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A market town in the county of Durham, with a population of 13,357, employed in the coal and shipping trade. It is situated on the Tees, and celebrated for the manufacture of cloth and rope. The church of St. Thomas, Stone Bridge, and Town Hall are very fine buildings. Josiah Reed, Lord Mayor Crosby (whose obelisk is at Southwark), Ritson, and Alison were natives. The first bar of the line to Darlington was laid here in 1825, by F. Meynell, Esq.
+
+----
+
+Uuid: ssph8euzdgfui2pe

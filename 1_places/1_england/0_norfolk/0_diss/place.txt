@@ -1,0 +1,37 @@
+Title: Diss
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,164.
+-
+  term: Hotel
+  desc: King's Head.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fair
+  desc: November 8.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
+
+----
+
+Text: The church was built by the Fitzwalters. Skelton (the witty poet laureate to Harry the Bluff) was rector. In the vicinity is *Shimpling*, the Duke of Grafton's seat.
+
+----
+
+Uuid: qzs5we1sjmhqf7cx

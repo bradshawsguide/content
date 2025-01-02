@@ -1,0 +1,41 @@
+Title: Rochdale
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Wellington.
+-
+  term: Market Days
+  desc: Monday and Saturday.
+-
+  term: Fairs
+  desc: May 14th, Whit-Tuesday, and November 7th.
+-
+  term: Bankers
+  desc: Clement Royds and Co.; Messrs J & J Fenton and Sons; Branch of Manchester and District Banking Company.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A modern borough (one member) in the southern division of the county of Lancaster, and the principal centre of the flannel trade, 12¼ miles from Manchester, is situated in the valley or dale of the Roche, a branch of the Irwell. Population, 38,151. The borough bounds are an exact
+circle of mile radius from the bridge; but the parish stretches into the West Riding of Yorkshire, its extent being about 10 miles square. Stone, coal, and slate are quarried in great plenty in the neighbouring moorlands; and cotton, woollen, and flannel are the staple articles of manufacture.
+
+The mother church of *St. Chad* is a large Gothic building, on a hill; the vicarage is worth above £2,000. Besides the *Town Hall*, *Assembly Rooms*, Archbishop Parker's *Grammar School*, and other public edifices, there are about 150 mills in and around the town, employing 20,000 hands. At *Castleton*, on the south side of the river, are traces of a fortress, as old, if not older, than the Conquest. It belonged, with the manor, to the Byrons (ancestors of the poet) the first peer of whom, with his five sons, fought so gallantly for Charles I. They have been styled Barons Byron "of Rochdale."
+
+*Foxholes*, near Rochdale, is the seat of the Entwistles. The moorland becomes more wild and imposing to the north of Rochdale, on the Haslingden road. *Wittle Hill* is about 1,600 feet high, while *Blackstone Edge* and other points in the Yorkshire border are proportionably high. The canal, railway, and road run side by side up the valley of the Roche, past Littleborough, where there was a Roman post guarding the road to York.
+
+----
+
+Uuid: ovmdrv3piewzroqx

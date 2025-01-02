@@ -1,0 +1,56 @@
+Title: Wakefield
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Strafford Arms.
+-
+  term: Market Days
+  desc: Friday, and every second Wednesday.
+-
+  term: Fairs
+  desc: July 4th, 5th, and 11th, and November 2nd.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
+
+----
+
+Text:
+
+(smcp: Wakefield).--This is the county town of the West Riding of Yorkshire, a modern parliamentary borough (one member), and centre of the corn trade, prettily situated on the banks of the river Calder. Population, 23,150. By means of the Calder, vessels of 100 tons ascend from the Humber, laden with corn, &c. Ship yards, rope factories, as well as malt houses, are established here.
+
+The town contains several important public buildings, the property of the West Riding, viz:--the Pauper Lunatic Asylum, on the York Road, originally intended for 400, but now capable of accommodating 800 patients; the House of Correction, Westgate, capable of holding above 1,000 prisoners; the Court House, ood street, in which the Petty and quarter Sessions are held; the Register Office for deeds relating to the West Riding; and the office of the clerk of the peace for the West Riding. The office of the chief constable of the West Riding constabulary is in Bond Street.
+
+The other public buildings in the town are, the Moot Hall and Rolls Office, belonging to the extensive manor of Wakefield; the Com Exchange Buildings; the Mechanies' Institution, under which is the Public Subscription Library and News Room; and the Grammar School, near St. John's, which has been removed from the original building, erected in the time of Queen Elizabeth. The new School is a remarkably fine building in the collegiate style. Attached to the Grammar School are several scholarships and exhibitions to college. Drs. Ratcliffe, Potter, and Bentley, were educated at the Wakefield Grammar School.
+
+There are five churches--the parish church of All Saints, with which is established a lectureship of £100 a year, by Lady Camden; St. John's; Holy Trinity; St. Andrew's, and St. Mary's; besides the Chantry Chapel on Wakefield Bridge, a choice relic of antiquity, which has lately been restored at considerable cost, and is used as a place of worship in connection with St. Mary's Church. The Catholic Chapel, in Wentworth Terrace, has lately been enlarged and beautified. The Independents, Baptists, Wesleyan and Primitive Methodists, &c., have each chapels in the town.
+
+The fortnightly Cattle Market is one of the largest and best frequented in the kingdom. The Corn Market is second to none except Mark Lane.
+
+The town has a considerable trade in Wool and the manufacture of Worsted Yarn, and a large business is done in dyeing. There are numerous and extensive collieries in the town and neighbourhood.
+
+In addition to the public buildings enumerated there is the Clayton Hospital and Dispensary, and the House of Refuge, both supported by donations and subscriptions.
+
+There are several charitable and educational establishments, belonging to the church and other religious denominations.
+
+The Market, lately removed to the New Borough Market, bottom of Northgate, was established by a private company, by virtue of an Act of Parliament. The charities of the town are administered by a body of gentlemen called the Governors of the Wakefield Grammar School and Charities: they have a considerable estate.
+
+The Soke, which extended over several townships, the inhabitants of which were compelled to grind corn at the Lord's or Soke Mills, was, some time ago, purchased for £18,000, under an Act of Parliament, the money being borrowed on the credit of a rate, payable by the householders and owners of property.
+
+*Walton Hall*, near Wakefield, is the seat of Charles Waterton, Esq., the great naturalist and South American traveller.
+
+----
+
+Uuid: m0uzreocbdcim95s

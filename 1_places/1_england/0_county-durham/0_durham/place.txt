@@ -1,0 +1,46 @@
+Title: Durham
+
+----
+
+Subtitle: (Branch)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Waterloo, family and commercial; Ward's, Family.
+-
+  term: Market Days
+  desc: Wednesday and Saturday; for cattle, each alternate Monday.
+-
+  term: Fairs
+  desc: March 29th and 31st, Whit Tuesday, Saturday before May 13th, September 15th, and Saturday before November 23rd.
+-
+  term: Races
+  desc: in April.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Durham) is situated on a rocky eminence, rising near the central part of the county, and almost surrounded by the river Wear. From all the neighbouring points of view its appearance is unique and striking, and the public edifices exhibit a great degree of magnificence. The centre of the eminence is occupied by the Cathedral and Castle, which, with the streets called the Baileys, are included within the remains of the ancient city walls. Below the walls, on one side, the slope is ornamented with hanging gardens and plantations, descending to the river; on the other the acclivity is high, rocky, and steep.
+
+The rich meadows, cultivated sides of the adjacent hills, and various seats in the vicinity, add greatly to the beauty of the prospect.
+
+This ancient cathedral city and borough (two members), is the capital of Durham County. Population, 14,088. When St. Cuthbert's bones were raised by Eardalph the last Bishop of Lindisfarne (or Holy Island) in the Danish invasion of 876, they were carried in succession to Craik, Chester-le-street, Ripon, and at last to Dunholme as the Saxons called it, where they found a final resting place under the *Cathedral*. This venerable building is a cross, 420 feet long, built between 1093 and 1220, chiefly Norman, with many interesting examples of the early pointed style, and the gradual change to it, especially in Bishop Pudsey's Galilee at the west end. The bishop's towers at this end are 138 feet high; and Prior Melsonby's great tower, with its tracery, &c., is 214 feet. At the east end, where once stood the richly decorated shrine of St. Cuthbert, is *Nine Altars* Chapel, 130 feet long; and the eight-sided turret tower, on which are figures of a woman, com, &c., in allusion to the story of the first foundation of the Cathedral. The Norman work may be noticed. Bishop Hatfield's throne and monument (he founded Durham College, Oxford), the monuments of Cardinal Langley and Venerable Bede, the Neville screen and monument; the Gothic cloisters, 147 feet square, &c. In the old Refectory of the Convent is now contained the library of the Dean and Chapter. Among its other treasures is a valuable collection of M.SS. Of these we may name the four Gospels, and "Cassiodorus on the Psalms," both said to be in the handwriting of the venerable Bede. A noble copy of the Bible, in four vols., in the original stamped leather binding, given to the monastery by Bishop Pudsey. From the Square called the Palace Green, by which the Cathedral is generally approached, the whole of the noble front is at once seen. On one side of the square is *Durham Castle*, once the bishop's residence, but now occupied by the University, It was first built by the Conqueror, as a military defence for this part of England, and rebuilt in the 12th century by Bishop Pudsey. It consists of a conspicuous solid eight-sided keep, about 60 feet across, Norman gate, and a great Hall, 180 feet long, containing portraits of prelates. *Durham University* was founded in 1832, and endowed by the liberality of the Dean and Chapter, whose revenues have vastly increased from the opening of coal mines. In 1856, an Act of Parliament was obtained to enable the Bishops of London and Durham to retire from their sees, with handsome pensions. The *Guildhall* was rebuilt in 1850 on the site of one erected by Bishop Tunstal (Bernard Gilpin's uncle). St. Nicholas and St. Oswald churches are Norman, in part. From the small ancient church of St. Giles there is an excellent prospect. The river, as it winds round the cliffs below the city, is lined with public walks outside the old walls, and crossed by three bridges,--one of which was rebuilt on three arches in 1777, and commands a fine prospect of the Cathedral; another at Framwellgate, is as old as 1120.
+
+In the neighbourhood are--*Neville's Cross*, when David Bruce was defeated, in 1316; *Sherburn Hospital*, a rich endowment in the bishop's gift, worth more than £3,000 a year; *Finchale Priory*, in ruins; *Ushaw College* for Roman Catholics, near Brandon Hill, which is $75 feet high, de. Up the Wear are *Brancepeth Castle*, the seat of Lord Boyne. Below *Finchale Priory*, in the descent of the river you pass *Lumley Castle*, the Earl of Scarborough's seat.
+
+----
+
+Uuid: gdv7zyrlao2b0in9

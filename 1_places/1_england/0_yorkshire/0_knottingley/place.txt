@@ -1,0 +1,24 @@
+Title: Knottingley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Railway.
+-
+  term: Money Order Office
+  desc: at Ferry Brudge, ¾ mile.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: o3ihcv3a2n3jcq9z

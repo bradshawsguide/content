@@ -1,0 +1,37 @@
+Title: Dereham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,070.
+-
+  term: Hotel
+  desc: King's Arms.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fairs
+  desc: Thursday and Friday before Old Midsummer, Thursday and Friday before New Michaelmas.
+
+----
+
+Notes:
+
+Distance from station, 1 mile.
+A telegraph station.
+
+----
+
+Text: The Church of St. Nicholas, which was founded by Withburga, the daughter of an Anglian monarch, should be visited; its font, with carved figures, and chest in Edward's Chapel will be appreciated. Here lie buried the poet Cowper, who died at his cousin's in 1S00, and Mrs. Unwin; there is an epitaph on his tomb by Hayley. In the vicinity is *Quebec Castle*, seat of W. Warner, Esq.
+
+----
+
+Uuid: ZvWq41ziz0ar9pVe

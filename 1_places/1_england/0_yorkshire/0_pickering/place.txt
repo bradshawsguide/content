@@ -1,0 +1,37 @@
+Title: Pickering
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,640.
+-
+  term: Hotel
+  desc: Black Swan.
+-
+  term: Market Day
+  desc: Monday.
+-
+  term: Fairs
+  desc: Monday before February 14th, May 13th, September 25th, Monday before November 23rd.
+-
+  term: Bankers
+  desc: Bower and Co.; Sub Branch of York, Union Bank.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Pickering Park and Eskdale abound in rich woodlands; while the vales of Newton and Goathland present a wild country, with bold ranges of rock on either side. These glens add much to the interest of the trip along the railway.
+
+----
+
+Uuid: vudtjmj0zm6uwblm

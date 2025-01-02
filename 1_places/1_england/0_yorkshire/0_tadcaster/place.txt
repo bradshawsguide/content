@@ -1,0 +1,34 @@
+Title: Tadcaster
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,327.
+-
+  term: Hotels
+  desc: Angel, Railway.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: Last Wednesdays in May, October, and November.
+
+----
+
+Notes: Telegraph station at Church Fenton, 4½ miles.
+
+----
+
+Text: The Roman name of this place was *Calcaria* (Calx). It is a market town, and has a long stone bridge having little water under it, whence the epigram, "magnificè structum sine flumine pontem." Bishop Oglethorpe's Grammar School and Hospital, and a later English Church. Limestone abounds in the vicinity, and of which York Minster is built.
+
+----
+
+Uuid: pgrkal5jx2wuvvhw

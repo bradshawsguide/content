@@ -1,0 +1,51 @@
+Title: Melrose
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: The George, Family and Commercial; Thompson's, King's Head, Family and Commercial.
+-
+  term: Coaches
+  desc: to and from New Belses, (*via* Jedburgh rail, fares, 3s., 25. 3d., and 1s. 6d.), Drygrange, Cowdenknowes, Earlston, and Carrolside, daily.
+-
+  term: Market Day
+  desc: Saturday.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Melrose) is situated in a fertile vale, at the foot of Eildon Hills, through which flows the Tweed. Outside the town stands *Melrose Abbey*, founded by. David I., one of the most celebrated and magnificent ecclesiastical edifices in Scotland.
+
+Even in its present state of decay the pile remains a monument of architectural taste and skill of almost unrivalled beauty. "The stone," says Scott, "though it has resisted the weather for so many ages, retains perfect sharpness, so that even the most minute ornaments seem as entire as when newly wrought. In some of the cloisters there are representations of flowers, vegetables, &c., carved in stone with accuracy and precision so delicate, that we almost distrust our senses." In the "Lay of the Last Minstrel" we have the following graphic description of this splendid ruin:
+
+> Spreading herbs and flow'rets bright
+> Glistened with the dew of night;
+> Nor herb nor flow'ret glistened there,
+> But was carved in tho cloister arches fair.
+>
+> The darkened roof rose high aloof
+> On pillars lofty, light and small;
+> The key-stone that locked each ribbed aisle,
+> Was a fleur-de-lys, or a quatre feuille;
+> The corbels were carved grotesque and grim,
+> And the pillars with clustered shafts so trim,
+> With base and with capital flourished around,
+> Seemed bundles of lances which garlands had bound.
+
+There is no other remnant of antiquity in Scotland which has of late years been so much visited by strangers as Melrose. Since the publication of the poem in which the above lines occur the fame of the place has been carried wherever our language is known. This general admiration has caused a good deal to be done for the preservation of the ruin. In the market place stands an old cross. There is also a handsome episcopal church in the town. Near at hand is *Old Melrose*, the seat of W. Lockhait, Esq.
+
+----
+
+Uuid: ohuys308sqxnxmld

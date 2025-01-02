@@ -1,0 +1,34 @@
+Title: Pocklington
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,671.
+-
+  term: Hotel
+  desc: Feathers.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: March 7th, May 6th, August 5th, November 8th and 9th.
+
+----
+
+Notes: Telegraph station at York, 16½ miles.
+
+----
+
+Text: In the Grammar School at this place which has a population of 2,559, the celebrated Wilberforce was educated. In 1848 upwards of 500 coins from Henry VIII. to Charles II.'s reigns were found here. In the vicinity are *Kilnwick Percy*, the seat of R. Denison, Esq. *Millington* with its Roman antiquities, and *Wilton Beacon*, 809 feet high, the most celebrated spot of the Wolds.
+
+----
+
+Uuid: imooconwdyf2ehpt

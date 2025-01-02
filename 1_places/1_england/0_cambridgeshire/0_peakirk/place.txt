@@ -1,0 +1,37 @@
+Title: Peakirk
+
+----
+
+Subtitle: Market Deeping
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: Second Wednesday after May 11th, August 1st, Wednesday before Lammas, October 10th, and November 22nd.
+
+----
+
+Notes:
+
+- Distance from station, 3 miles.
+- Telegraph station at Peterborough, 5½ miles.
+
+----
+
+Text:
+
+In the vicinity of Peakirk is *Northborough*, where Mrs. Claypole (the Protector's favourite daughter) lies buried. Her old seat is now a farmhouse. The old church of Market Deeping is worth a visit.
+
+----
+
+Uuid: jqybn70uspxnxwrb

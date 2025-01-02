@@ -1,0 +1,34 @@
+Title: Fakenham Lancaster
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,182.
+-
+  term: Hotels
+  desc: Red Lion and Crown.
+-
+  term: Fairs
+  desc: Whit Thursday, November 22nd for cattle.
+-
+  term: Market Day
+  desc: Thursday.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: In the Church, which is later English, there is fine doorway, brass, and font. In the neighbourhood are *Rainham*, Lord Townshend's seat, at which may be seen Salvator Rosa's "*Belisarius begging;*" *Houghton*, the Marquis of Cholmondeley; *Holkham*, Lord Leicester's, the finest seat in the county; *Melton Castle*, Lord Hastings'; and *Burnham Thorpe*, the birthplace of the gallant Nelson.
+
+----
+
+Uuid: uS2nTzAVqkBaKc9S

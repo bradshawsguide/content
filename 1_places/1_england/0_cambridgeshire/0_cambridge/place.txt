@@ -2,7 +2,83 @@ Title: Cambridge
 
 ----
 
-Section: 3
+Section: 3, 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Bull, family and commercial, and posting house; Eagle, family and commercial.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: June 24th; September 25th.
+-
+  term: Boat Races
+  desc: from Ditton Church to Chesterton, every term.
+-
+  term: Bankers
+  desc: Thos, Fisher and Sons; J. Mortlock and Sons; C. F. and G. E. Foster; Branch of the London and County Bank.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+The capital of *Cambridgeshire*, and seat of one of the two ancient English Universities. The University of Cambridge is second to no other in Europe in any single department of literature; but in one (mathematics) she has no rivals. The Cam, a branch of the Nene, runs through it, hence the name, which is not unlike the Roman name *Cambricum*. The houses are brick, the ground flat (a part of the great Fen Level). On approaching the town, whether by rail or otherwise, the first object that meets the eye is the magnificent Chapel of King's College, its lofty turrets being seen at the distance of some miles. Population, 26,361, including above 7,000 persons attached to the University, which is represented by two members in parliament, two more being sent by the town. The buildings are of three classes, those belonging to the *Town*, the *University*, and the 17 *Colleges* and *Halls* comprising the University, the last being merely a name for the body corporate, and serving to indicate the universality of the provision made for teaching any branch of learning. Most of the colleges, &c., are in Trumpington and the neighbouring streets, on or not far from the river.
+
+There are fourteen parish churches, and about the same number of places of worship belonging to various dissenting bodies. Among the town buildings are 16 churches (out of 25 places of worship); the *Town Hall* in the Market Place, near the conduit, built by old Hobson the carrier and horse-letter, from whom originated the saying of "Hobson's choice, this or none." The market-place has lately been repaved with granite cubes; and by the restoration of Hobson's Conduit, which is now placed in the centre, presents an object of uniformity and elegance. The *Shire Hall* and prison, on Castle Hill (a good view here), where the Conqueror built a fortress to overawe the stubborn defenders of the Isle of Ely. Addenbrooke's *General Hospital* and the *New Cemetery*. The church of *St. Andrew the Great*, of stone, has a monument to Cook the navigator, whose widow died here in 1835. *St. Andrew the Less* is near Barnwell Priory, a foundation as old as the 11th century. The *Abbey Church*, in Barnwell Priory, a very ancient foundation, has recently been restored and appropriated for worship as a chapel of ease to St. Andrew the Less, rendered necessary through the greatly increased population of the parish. *St. Benedict's*, *St. Clement's*, and *St. Peter's*, are in part very ancient. *St. Sepulchre's* is a curious round church, originally built by the Templars, and lately restored. At *St. Mary the Great*, a perpendicular English church, the University Sermons are preached. Some of the oldest houses are in Petty Cury.
+
+The *University*, according to some accounts, was founded as far back as the year 630, but if so, it made no figure till the Abbots of Croy sent monks to give lectures here in 1209. The oldest college (*Peter House*) dates from 1257. The *University Buildings*, as distinct from the colleges, are as follows. *Senate House*, with a hall 101 feet long, where degrees are conferred, and the late Prince Albert was installed Chancellor, in July 1849, in presence ot the Queen. The narrow oak galleries are for the graduates. *Public Schools*, forming a quadrangle, with the *University Library* overhead, in which are many rare books and MSS. A copy of every printed book is given to it. *New Library*, 167 feet long; with a collection of minerals on the basement floor. *University* or *Pitt Press*, a modern building, by Blore, with a tower like a church. Further on in Trumpington Street, is the *Fitzwilliam Museum*, with its lions and beautiful portico, 75 feet high; a collection of paintings, casts, &c., was left with a bequest of £100,000, by Lord Fitzwilliam to rebuild it.
+
+The Colleges, with a few exceptions, were founded and built before the l6th century; but additions have been made of later date. Each includes a chapel, common hall for meals, generally adorned with portraits, library, apartments for the masters (or Dons) fellows, &c. Their total income is about £150,000. There are 430 fellows, *i.e.*, seniors, with a settled income, and mostly residents. One walk should be along the river at the back of St. John's, Trinity, King's, &c.
+
+The colleges in alphabetical order are the following:--
+
+(smcp: Catherine Hall), in Trumpington Street, founded in 1475. A quadrangle or quad, rebuilt in 1700. Bradford the martyr, and Archbishop Sandys, were of this college.
+
+(smcp: Christ's College), in St. Andrew's Street, founded in 1142, and refounded in 1506, by Henry VI.'s half-sister, the lady Margaret. Two courts, one rebuilt by Inigo Jones. Beautiful gardens, and Milton's mulberry tree. Milton was called the "lady" of Christ's College.
+
+(smcp: Clare Hall), near King's College, in Trumpington Street, founded in 1326, and refounded by one of the Clare family. Court, rebuilt in 1638, in the Italian style, with good chapel. Old bridge over the Cam.
+
+(smcp: Corpus Christi College), in Trumpington Street, founded in 1351, street front, 222 feet long. Two courts, one rebuilt in 1823, by Wilkins; library and good chapel. Portraits of Erasmus, Wolsey, Sir T. More, John Foxe, &c. Old Father Latimer was of this college.
+
+(smcp: Downing College), near the station, founded as late as 1807, by Sir J. Downing. One part of a court is finished. Gardens and extensive grounds.
+
+(smcp: Emmanuel College), in St. Andrew's Street, founded in 1584. Two courts, good hall, and pleasant gardens. Archbishop Sancroft's books in the library He was of this college; and Gulliver graduated here, according to Swift's account.
+
+(smcp: Gonville and Caius), called *Key's College*, in Trumpington Street, founded partly by Edward Gonville, in 1348, and partly by Queen Mary's physician, Dr. Caius, in 1557. Three courts in the Italian style, with three gates in succession leading into them, named Humility, Virtue, and Honour, Jeremy Taylor, who was born at Cambridge in 1605, Harvey, the physician, and Lord Thurlow were gradates.
+
+(smcp: Jesus College), in Jesus Lane, founded in 1496, on the site of a nunnery, the chapel of which, lately restored by Mr. Sutton, remains. Old Hall, three courts, behind a front of 180 feet, gardens, &c. Cranmer, Sterne, Coleridge, &c., were of this college.
+
+(smcp: King's College), founded in 1141, by Henry VI., consists of a provost and seventy fellows and scholars, the latter supplied by a regular succession from Eton. Two modern courts, hall, and the beautiful later English chapel, built 1441. This is 316 feet long by 84 wide, with small octagonal towers at the corners, 146 feet high to the little domes. The interior contains work at which Sir C. Wren was never tired of looking. Bishop Cloos or Close was the designer. The exquisite fan-tracery roof is in twelve parts, all of carved stone, unsupported by a single column; and twenty-four richly stained windows run down the sides between the buttresses, each about 50 feet high.
+
+(smcp: Magdalene College), in Bridge Street, founded by the Duke of Buckingham and Lord Audley in 1502-42. Two courts, many old books and ballads in the library.
+
+(smcp: Pembroke College), in Trumpington Street, founded in 1343, by the Countess of Pembroke. Two small ancient courts; water works in the gardens; and a tin globe 18 feet diameter; chapel built by Sir Christopher Wren. Bishop Ridley, Spencer, Gray, and Pitt, were of this college.
+
+(smcp: Queen's College).--Founded by the two queens, Margaret of Anjou, consort of Henry VI., in 1448, and Elizabeth Woodville, consort of Edward IV., 1465. Three old courts, with cloisters, lately restored. Erasmus, the Greek Professor, was of this college. His portrait and walk in the gardens are shown.
+
+(smcp: St. John's College), in St. John's Street, founded in 1508, by Henry VII's mother, the Lady Margaret, (who also founded Christ's College). Three old Tudor brick courts on one side of the Cam, and a modern Gothic pile on the other side, by Rickman, in 1830. They are joined by a covered bridge of one arch, called the Bridge of Sighs, and various other comical names. Chapel and library, both 150 feet long; old ball; fine gardens. Lord Burleigh, Prior, Ben Jonson, Wordsworth, Bishop Beveridge, Kirke White, Wilbeforce, &c., were of this college, which is the great rival to Trinity, and turns out most senior wranglers.
+
+(smcp: Peterholme or St. Peter's College), in Trumpington Street, is the oldest of all, dating from 1257, and founded by Bishop de Balsham. Two old courts, and a modern one built in 1826; the old chapel is curious.
+
+(smcp: Sidney Sussex College), called Sidney, in Sidney Street, was founded in 1598, Dy Frances Sydney, Countess of Sussex. Two modernized courts. A portrait and bust of Cromwell, who graduated here. He was a gambler then, and a "fast" man, though a hard reader at times. In 1642, when he sat for the town, and the civil war broke out, he seized the University plate to pay expenses.
+
+(smcp: Trinity College), in Trumpington Street, was founded by Henry VIII. in 1540, in place of two earlier halls, and ranks the first in consideration. It is customary for the Master of Trinity (now Dr. Whewell) to entertain the Sovereign on the occasion of a visit to Cambridge. Three courts, one being nearly a quarter of a mile round, with a conduit, worth notice; ancient Tudor hall, timber roof, 102 feet long, with numerous portraits; large and beautiful gardens, with an avenue of tall elms. Famous *library*, 190 feet long, in which are Roubiliac's busts of Newton, Bacon, &c; wood carvings of Gibbons, Thorwaldsen's statue of Byron, Newton's telescope, Milton's MS. of Sampson Agonistes, &c. Newton, Васоп, Raleigh, Dryden, Barrow, Porson, Bentley, and Byron, were of Trinity. Here Byron kept his pet bear, "training him," as he said, "for a fellowship at St. John's," the rival college.
+
+(smcp: Trinity Hall), founded in 1350, for lawyers, is near Trinity College. Bishop Horsley, Lord Chesterfield, and Bilney the Martyr were graduates. The front of this college has been recently burnt down and rebuilt.
+
+The *Observatory* is outside the town, on the Madingley Road. *Parker's Piece*, the graduates cricket ground, is in Regent Street. All students go about the town in costume, ie., a cap and gown--the latter being differently cut for each college. Grave proctors, attended by "bull-dogs," are appointed to look after delinquents, while taxors see to the markets. Butter is sold by the yard in Cambridge, that is, a pound is rolled out into a stick of that length, for the convenience of cutting off "butters" for the students.
+
+Within a few miles are *Madingley*, the temporary residence of the Prince of Wales whilst in the pursuit of his studies at the University; *Trumpington Church*, with a fine brass, almost the oldest in England; *Grantchester*, on the old Roman way; *Bottisham* (near which are remains of Anglesea and Swaffham priories), was the seat of Soame, Jenyns, &c.
 
 ----
 

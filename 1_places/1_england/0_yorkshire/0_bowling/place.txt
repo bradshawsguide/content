@@ -1,0 +1,31 @@
+Title: Bowling
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 14,494.
+-
+  term: Hotel
+  desc: Railway.
+-
+  term: Money Order Office
+  desc: at Bradford, 2 miles.
+
+----
+
+Notes: Telegraph station at Bradford, 2 miles.
+
+----
+
+Text: Close at hand is *Bowling Hall*, the seat of J Sturge, Esq., which was the Earl of Newcastle's quarters when he routed Fairfax, in 1612, on Odwalton Moor.
+
+----
+
+Uuid: jitw7gnfpjx0w7c2

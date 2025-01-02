@@ -1,0 +1,43 @@
+Title: Huntingdon
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Crown, Fountain.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fair
+  desc: Tuesday before Easter.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A borough town, and the capital of the county, with a population of 6,254, who return two members, in conjunction with the adjoining borough of Godmanchester. It stands on a gently rising ground on the northern bank of the Ouse, and is surrounded by a number of beautiful meadows, and principally consists of one handsome street, with a number of minor ones branching from it; and is connected by a causeway and several bridges with the town of Godmanchester, which lies opposite. The houses are, generally speaking, handsome.
+
+The principal edifices are the church of *St. Mary's*, with tombs of the Sayers; and that of *All Saints*, with tombs of the Levitts, Fullwoods, and Cromwell's ancestors; and the *Town Hall*. There are also several chapels.
+
+Huntingdon is remarkable in history for being the birthplace of Oliver Cromwell; himself and children were born in the house now the seat of G. Rust, Esq., and his baptism is entered in the register for the year 1599, as "*Oliverius filius Roberti Cromwell,*" &c., over which some one has written "England's plague for five years."
+
+On the left of the station is *Hinchinbrook House*, the seat of the Earl of Sandwich, formerly the residence of Sir Oliver Cromwell, uncle to the Protector. The view from the house and grounds is, perhaps, one of the most beautiful and picturesque in the county. The new Hospital is a most conspicuous object from the railway. Murry, of Huntingdon (a chronicler), and Prior Gregory (Hebrew scholar), were natives. Cowper, the poet, was a resident here in 1765, with the Unwin family.
+
+Within a few miles are, *Brampton Park*, the scat of Lady Olivia B. Sparow. *Diddington*, G. Thornhill, Esq.; St. Neots has a good decorated English church, which belonged to an Abbey, founded in the twelfth century, in honour of St. Neot, a Cornish saint, whose relics were stolen from their original resting place, St. Neot, near Liskeard. *Ramsey Abbey* (built by Cromwell), E. Fellowes, Esq.; here are a large church, and gate of the Saxon Abbey, which Henry VIII. gave, with many other possessions in the county, to the Cromwells. Ramsey and Whittlesea meres, though they continue to figure in the maps as lakes, are now perfectly drained, and produce heavy crops of wheat.
+
+A range of low hills runs in from Huntingdon, past Alconbuy and Little Gidding, where the pious Nicholas Ferrar, in Charles I's. reign, established his little ascetic community, called the Protestant Nunnery, to the edification of the Puseyites of that age, and the great scandal of the friends of Scriptural and undefiled religion.
+
+----
+
+Uuid: frm1azd1jmg0rt8q

@@ -1,0 +1,31 @@
+Title: Swinton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,190.
+-
+  term: Hotel
+  desc: Railway.
+
+----
+
+Notes:
+
+Distance from station, ½ mile.
+Telegraph station at Mexborough, 1 mile.
+
+----
+
+Text: Here is a large earthenware factory, and old church, with a Norman porch.
+
+----
+
+Uuid: 6RYG0VCnL8rYgw4o

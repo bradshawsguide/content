@@ -1,0 +1,44 @@
+Title: Malton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 8,072.
+-
+  term: Hotels
+  desc: Talbot; White Horse.
+-
+  term: Market Days
+  desc: Tuesday and Saturday.
+-
+  term: Fairs
+  desc: Saturday before Palm and Whit Sunday, October 1st and 10th.
+-
+  term: Races
+  desc: in April.
+-
+  term: Bankers
+  desc: Bower & Co.; Branch of York City and County Banking Company; Branch of York Union Bank.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A borough town, which returns two members, in the North Riding of Yorkshire, beautifully situated on the banks of the Derwent. *St. Michael's Church*, in the Market Place, is a large building of Anglo-Norman architecture, much mutilated; at the best end is a good tower. A handsome stone bridge connects this place with Norton, the river forming a boundary between the East and North Ridings.
+
+The Derwent is navigable up to this place; and corn, the produce of the surrounding country, is conveyed in large quantities from hence to Hull, Leeds, Wakefield, and London; while from Hull are returned salt, sugar, and groceries of different kinds; coals, and all sorts of woollens, are brought here from Leeds and other parts of the West Riding in considerable quantities. This place was founded in the twelfth century, by Colebrand the Dane; it contains the ruins of a castle, seat of the Vescisshires, and a church with a truncated spire.
+
+----
+
+Uuid: zybuq6gildztzjai

@@ -1,0 +1,45 @@
+Title: Colchester
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 23,809.
+-
+  term: Hotels
+  desc: Three Cups; Red Lion; George.
+-
+  term: Omnibuses
+  desc: to Clacton, Frating, Bentley, St. Osyth, Walton-on-the-Naze, Kirby, Thorpe, Elmstead.
+-
+  term: Market Days
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: July 5th, October 20th, 21st, and 23rd, July 23rd.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Colchester), formerly an important town (*Colonia*) of the Romans, now a parliamentary borough, returning two members, in the north-east corner of Essex, on the river Colne, and the Great Eastern Railway, 51 miles from London.
+
+Here the famous British King, Cunobiline, (or Cymbeline), and his sons Guiderius and Arvisagus (or Caractacus) reigned, till dispossessed by Claudius Cæsar. A few years after it fell into the hands of Boadicea, but was retaken; and in the third century became the seat of Constantius Chlorus, whose wife Helena, daughter of King Coel (according to the monkish accounts), gave birth to Constantine the Great here. But the real birth-place of this emperor Tas Naissus, in European Turkey. His mother founded the Holy Sepulchre at Jerusalem; there was a church called after her in this town, where the Friends' Meeting House now stands. Among the objects of notice are the gate of an Abbey, founded by William the Conqueror's Steward (Endo Dapifer), who also built a Castle, of which the keep, gate, and other parts remain; and a *Moot Hall*, since rebuilt.
+
+There are fragments of the ancient town walls. Many of the horses are old; one dates from 1490; *St. Botolph's* Norman church (pat of the Abbey), was all battered down in the siege of 1645, except the west front. *St. Martin's* was ruined from the same cause. *All Saints*, *St. Leonard's*, and *Trinity*, are of the 14th century. At *St. James's* there is a picture of the Adoration of the Shepherds, and many old tombs. Other buildings are the *Theatre*, a *Custom House*, *County Hospital*, and a *Grammar School*, of which Dr. Part was master; also a spacious Public Hall, erected in 1851. Small vessels come up to the Hythe; oilcake, timber, com, malt, dc., are traded in. Silk for umbrellas is made here; some of the most costly velvet is also manufactured here. Excellent oysters at Pyfleet.
+
+There is a commodious quay on the river, which has been rendered navigable for vessels of 150 tons burden. Colchester is an important military station, a camp for 5,000 men having been formed during the Russian war; Middlewich Farm was bought by the Government, in 1856, for a drilling and exercise ground. In 1857 Lord Panmure, then Secretary-at-War, presented to the town two Russian guns, iron 30-pounders, trophies of the Russian War.
+
+----
+
+Uuid: kqimisxizqoz9ben

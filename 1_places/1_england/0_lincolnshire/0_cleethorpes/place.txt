@@ -1,0 +1,13 @@
+Title: Cleethorpes
+
+----
+
+Section: 4
+
+----
+
+Text: A fine watering place about two miles below Grimsby. It is prettily situated at the mouth of the Humber, on a flat sandy beach. *Spurn Head*, with its light houses, is on the opposite side of the Humber, which is here about seven miles wide.
+
+----
+
+Uuid: zr9cnonhzrrtq19f

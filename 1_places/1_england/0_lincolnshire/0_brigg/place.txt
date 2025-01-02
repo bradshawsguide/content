@@ -1,0 +1,46 @@
+Title: Brigg
+
+----
+
+Subtitle: (Glandford Brigg).
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,138.
+-
+  term: Hotel
+  desc: Angel.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fair
+  desc: August 5.
+-
+  term: Bankers
+  desc: >
+    Smith, Ellison, and Co.; Branch Lincoln
+    and Lindsey Banking Company.
+
+----
+
+Notes:
+
+- Distance from station, 2 miles.
+- A telegraph station.
+
+----
+
+Text: A large trade is carried on here in corn, coal, and timber. The grammar school is well endowed. In the vicinity is Elsham Hall, T. Corbet, Esq.
+
+----
+
+Uuid: sbgnzgbvsu35qsf9

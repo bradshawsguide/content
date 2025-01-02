@@ -1,0 +1,31 @@
+Title: Spalding
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: White Hart.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: April 27th, June 29th, August 26th, September 25th, Wednesday before December 6th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This is a market town, with a population of 7,032, and capital of the district termed Hollands. It contains five Chapels, Town Hall (by Hobson, a native), Theatre, Literary Club, Assembly Rooms, Market House, &c. Its church is of the 15th century, and has a good porch and a crocketed spire. Roman cisterns have been found here. Bentley was master of the grammar school. Johnson, the antiquarian, was a native. In the vicinity is a carious old moated seat at Pinchbeck.
+
+----
+
+Uuid: elokh8pulirmp0pn

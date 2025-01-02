@@ -1,0 +1,28 @@
+Title: Somerleyton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 621.
+-
+  term: Money Order Office
+  desc: at Lowestoft, 4½ miles.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: In the vicinity is *Somerleyton Hall*, the old Elizabethan seat of the Jerninghams, but which has since been greatly enlarged.
+
+----
+
+Uuid: 94BLC7yzqinAvvsV

@@ -1,0 +1,25 @@
+Title: Darlington
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: King's Head, family and commercial; Omnibuses to and from every train.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Darlington), a market town in Durham, situated at the foot and side of a hill on the banks of the river Skern, over which there is a handsome bridge, has a population of 15,781 engaged in the cotton, flax, and worsted mills, foundries, and glass works. The principal ornament of this town is its church, which is built in the form of a cross, with a tower and spire rising from the centre to the height of nearly 200 feet and was founded in 1160 by Bishop Pudsey, in those palace Princess Margaret stopped in 1504 on her way to Scotland. Many improvements have been made in this town, and considerable manufactures are carried on in linen, wool, and cotton. There are also several mills in its immediate neighbourhood. In 1805 a mineral spring was discovered near Darlington, which has gained much celebrity for its efficacy in scorbutic complaints. The celebrated bull "Comus" was sold here for £1,050. In the vicinity are Oxen Hall with the High Kettle salt springs. Bushell Hill, from whence fork cathedral can be seen, *Blackwell*, the seat of R. H. Allan, Esq., and of his late brother the antiquarian, and *Southend*, J. Pease, Esq.
+
+----
+
+Uuid: tcgm1usalxh0plvo

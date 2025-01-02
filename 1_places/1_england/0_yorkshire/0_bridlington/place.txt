@@ -1,0 +1,46 @@
+Title: Bridlington
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 5,775.
+-
+  term: Hotel
+  desc: Black Lion.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Monday before Whitsuntide, October 21st for cattle and cloth.
+-
+  term: Races
+  desc: in October.
+-
+  term: Bankers
+  desc: Harding, Smith, and Co.; York Union Bank.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+This attractive resort lies on the Yorkshire coast, but at that point where the line turns westward from Flamborough Head, and then steeping round to the south, forms a capacious bay, called Bridlington Bay. Here Charles I.'s Queen, Henrietta, landed in 1643, and Paul Jones was defeated by too vessels of war in 1779. In this sheltered harbour, about a mile southward of the old town, lies Bridlington Quay: It was modern built place, and is distinctively known as Bridlington Quay; the principal street running direct to the harbour, and being very wide. The north pier commands a view of Flamborough Head, and forms a broad and splendid promenade. The bathing accommodation is excellent; and the beach has a fine hard sand, which affords a good walk at low water. An ebbing and flowing spring furnishes an abundant supply of water of remarkable purity; in addition to which there is also a chalybeate spring, situate about a quarter of a mile to the north-east of the quay, the medicinal properties of which resemble the chalybeate springs of Scarborough and Cheltenham, though the water seems less purgative.
+
+The *Esplanade* is a spacious level green, commanding a beautiful view of the Holderness coast, which stretches in a curve as far as the eye can trace. The *Victoria Promenade* and *Polytechnic Rooms* adjoin the north pier. It contains an upper and lower promenade room, news, billiard, and exhibition rooms, with promenade on roof, and prospect tower. The old part of Bridlington is situated in the Gipsey Race, a beautiful valley, and contains a church which was part of the old priory, with fine front. John of Bridlington, Robert the Scribe, Ripley the Alchemist, and Kent the landscape gardener, were natives.
+
+The neighbourhood abounds with walks and rides, affording extensive prospects of Bessonby, Carnaby, the west; Boynton, Thorpe, Rudston, &c., on the west; Sowerby, Marton, Flambro', &c., on the north; and Hiderthorpe, Barmston, &c., on the south. The face of the country (generally undulating) is rich in woodland scenery.
+
+----
+
+Uuid: vzhf6kymalwaws2x

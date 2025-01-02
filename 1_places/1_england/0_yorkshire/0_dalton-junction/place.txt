@@ -1,0 +1,20 @@
+Title: Dalton Junction
+
+----
+
+Section: 4
+
+----
+
+Notes:
+
+- Distance from station, 1 mile.
+- Telegraph station at Darlington, 5¼ miles.
+
+----
+
+Text: Close to Dalton is Sockburn Hall, the seat of H. Blackett, Esq., at which place every new Bishop of Durham is presented with a faulchion.
+
+----
+
+Uuid: rhox0lnb3gbjbsoq

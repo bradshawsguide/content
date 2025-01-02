@@ -3,3 +3,29 @@ Title: Peebles
 ----
 
 Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Tontine.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: 2nd Tuesday in January and October, 1st Tuesday in March, 2nd Wednesday in May, Tuesday after July 18th, Tuesdays before August 24th, and December 12th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Peebles) is an important Scottish burgh, and the capital of the county of that name, the inhabitants of which are mostly employed in the stocking and leather trade. Here James I. composed "Peblis to the Play," at Beltane Festival. The church, with a fine steeple, is built on the site of an old chapel and castle. Here is St. Mungo's well, ruined chapels, camp at Cademuir Hill, Hill Forts, *Dean's House*, the seat of the late Lord Narch, and the scene of Scott's "Maid of Neidpath," and Campbell's "Earl March gazed on his dying child." It is situated on the north bank of the Tweed, and is usually divided into the "old" and "new" towns. It is a place of great antiquity. The old town consists of little more than a single street, and has little of architectural uniformity to recommend it, but the new town is a very handsome suburb.
+
+----
+
+Uuid: euab55uvromaedzp

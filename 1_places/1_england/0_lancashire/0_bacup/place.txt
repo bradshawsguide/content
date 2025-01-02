@@ -1,0 +1,27 @@
+Title: Bacup
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 10,935.
+-
+  term: Hotel
+  desc: Queen's.
+-
+  term: Bankers
+  desc: Alcocks, Birkbecks, and Co.; (on Thursdays only.)
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: lpjhgh2c8a2ku3dx

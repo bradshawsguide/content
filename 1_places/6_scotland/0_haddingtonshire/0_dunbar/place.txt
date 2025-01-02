@@ -1,0 +1,35 @@
+Title: Dunbar
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Cossar's.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: Tuesday after May 26th and November 22nd.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A royal burgh and seaport town. It is situated at the mouth of the Firth of Forth, on a gentle eminence. The appearance of the country around, in every direction, presents a variety of striking and picturesque objects. To the east is seen St. Abb's Head, with its bold and rocky coast; to the south are the hills which border upon Lammermuir; westward Dumpenderlaw and North Berwick, and on the north the Firth of Forth, Bass Rock, and the coast of Fife.
+
+Many vestiges of *Dunbar Castle* yet remain, which give a wild and picturesque effect to the rocks on which they stand. Here a celebrated battle was fought in 1276, in which Lord Warren defeated the Scots, and Cromwell routed Leslie in 1650. Mary Queen of Scots resided in the castle after Rizzio's death. The town contains baths, library, assembly rooms, foundries, grammar school, mathematical school, at which navigation is taught. The church, which is cruciform, was rebuilt in 1819 on the site of the old one founded in 1176 by the Earl of March. Here are tombs as old as 1480, and a fine one of the Lord Treasurer Home. The Rocky Pier has a dry dock, quay, and batteries, it was repaired by Cromwell and has latterly been improved at a cost of £15,000. It commands views of the Bass, May Island, Forfar, &c. Here General Cope landed in 1745, and Paul Jones anchored. The late Emperor Nicholas of Russia visited it in 1814. Close at hand are Dunbar House, seat of the Earl of Lauderdale--*Lochend*, Sir G. Warrender, Bart., *Ninewar*, J. Hamilton, Esq., and *Belton*, Captain Hay, R. N.
+
+----
+
+Uuid: ja3t5wqtzi5kwvna

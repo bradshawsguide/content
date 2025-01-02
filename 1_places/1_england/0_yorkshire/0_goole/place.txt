@@ -1,0 +1,31 @@
+Title: Goole
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Lowther; Crown.
+-
+  term: Steamers
+  desc: to Hull daily (Sunday excepted) on arrival of early trains leaving Leeds and Wakefield. Fares, 1s. 6d. and 1s.
+-
+  term: Market Day
+  desc: Wednesday.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This market town has much increased in importance. It has excellent dry docks and a good harbour, with a population of 5,850, who are chiefly engaged in the coal and coasting trades.
+
+----
+
+Uuid: unsixi6e4xc1djku

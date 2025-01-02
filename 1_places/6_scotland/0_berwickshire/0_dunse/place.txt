@@ -1,0 +1,31 @@
+Title: Dunse
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Houram's.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: 1st Thursday in June, August, and November.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This place, with a population of about 3,162, employed as weavers, contains tiro chapels, Town Hall, by Gillespie, in the pointed style, in which is a portrait of Duns Scotus, born at Grueldykes Farm in 1274. At Dunse Law, 630 feet high, Leslie resisted the episcopacy of Charles I., in 1639. Dunse Castle. rebuilt on the site of Lord Randolph's seat, has portraits of the Setons, and commands fine views. Buston and Dr. M'Crie were natives. In September, 1790, a Hoopoe was killed here. It is a meet for the Berwick Hunt.
+
+----
+
+Uuid: lqrajyrpw7mm2pcy

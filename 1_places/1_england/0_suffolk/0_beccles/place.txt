@@ -1,0 +1,49 @@
+Title: Beccles
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,366.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This town stands on the banks of the river Waveney, from which it is navigable, in the midst of a very pleasant country. The porch of the Church affords a beautiful specimen of the florid Gothic, and the church yard, a series of many interesting views of the country around. At Endgate are the ruins of another parish church, destroyed in the reign of Queen Elizabeth.
+
+----
+
+Distances:
+
+----
+
+Title-short:
+
+----
+
+Subtitle:
+
+----
+
+Desc:
+
+----
+
+Section: 4
+
+----
+
+Children:
+
+----
+
+Links:
+
+----
+
+Uuid: fwyafwre1cgbbyxa

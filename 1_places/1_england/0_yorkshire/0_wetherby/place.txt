@@ -1,0 +1,34 @@
+Title: Wetherby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,682.
+-
+  term: Hotel
+  desc: Angel.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: Holy Thursday, August 5th, October 10th, 1st Thursday after 22nd November, and every two weeks for cattle.
+
+----
+
+Notes: Telegraph station at Harrogate, 8 miles.
+
+----
+
+Text: This town is situated on the Wharfe. Near St. Helen's Ford is a noble bridge. It was forfeited by the Knights Templars in 1312, and twice garrisoned by Fairfax in 1642. There is excellent salmon fishery in the Weir. Close at hand are Wetherby Grange, with its fine heronry, and *Swinnow Hall*.
+
+----
+
+Uuid: xjq2tqxvyn3fch5q

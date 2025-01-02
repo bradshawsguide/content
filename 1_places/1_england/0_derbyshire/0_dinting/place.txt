@@ -1,0 +1,28 @@
+Title: Dinting
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 730.
+-
+  term: Hotel
+  desc: Railway.
+
+----
+
+Notes: Telegraph station at Glossop, 1 mile.
+
+----
+
+Text: This station is remarkable not only as the junction of the branch to Glossop, but for the splendid viaduct of three arches over the river Etherow, formed of stone and timber. The arches are composed of three timber ribs each, formed of three-inch planks. put together on the laminating principle, with tar and brown paper between each layer. The extreme length of the viaduct is 506 feet. Its length, however, is inconsiderable, compared with other similar undertakings, and is not so remarkable a feature as the extraordinary height at which the trains are safely carried across the valley below. The extreme height from the foundation to the top of the viaduct is 136 feet, more than 10 feet higher than the one at Stockport, and about 14 feet higher than the celebrated chain bridge over the Menai Straits.
+
+----
+
+Uuid: zpt5xmwrtcugxbbk

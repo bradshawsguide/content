@@ -1,0 +1,37 @@
+Title: Barnet
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,982.
+-
+  term: Hotels
+  desc: Green Man, Red Lion.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: April 8th, 9th, and 10th, and September 4th, 5th, and 6th.
+
+----
+
+Notes:
+
+- Distance from station, 1½ miles.
+- A telegraph station.
+
+----
+
+Text: (smcp: Barnet) is a considerable market town in Hertfordshire, situated on the top of a hill. The church is of great antiquity. At the twelfth mile stone beyond the town, is erected a pillar to commemorate a battle fought on that spot, April 14th, 1471, between the House of York, headed by Edward IV., and that of Lancaster, commanded by the Earl of Warwick, who, with many of the nobility, and early 10,000 men, were slain. Here is an ancient *Grammar School*. In the vicinity are out an, seat of Sir S. Clark, Bart., Trent Park, R. Bevan, Esq., and *Dyrham*, Capt. Trotter.
+
+----
+
+Uuid: idiqu0eouaqngnuf

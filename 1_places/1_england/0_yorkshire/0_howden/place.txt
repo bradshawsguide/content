@@ -1,0 +1,40 @@
+Title: Howden
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,376.
+-
+  term: Hotels
+  desc: Half Moon, Bowman's Commercial.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Second Tuesday in January, April 15th, 2nd Tuesday after July 13th, and every 4th Tuesday, for cattle, September 25th, and six following days (great horse fair for supplying the army, and hunters).
+-
+  term: Bankers
+  desc: York City and County Banking Co.
+
+----
+
+Notes:
+
+- Distance from station, 1¼ mile.
+- A telegraph station.
+
+----
+
+Text: (smcp: Howden) has a fine decorated church, with the beautiful east window and chapter house of a college of the 13th century, belonging to the Bishops of Durham, and founded in 1266; it contains a fine tower 140 feet high, east window, and handsome octagon chapel house. The Bishop's Palace is now a farm-house. Close by is *Spaldington Grange*, the seat of Lord Howden. Roger de Howden, a monkish chronicler, was a native. A great horse fair is held here for hunters, cavalry horses, &c.
+
+----
+
+Uuid: gukxswht9uiifesg

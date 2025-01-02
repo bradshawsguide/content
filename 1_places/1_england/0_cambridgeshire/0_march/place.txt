@@ -1,0 +1,37 @@
+Title: March
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,600.
+-
+  term: Hotel
+  desc: Griffin.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: Whit Monday and Monday before it, and October 27th.
+
+----
+
+Notes:
+
+Distance from station, ½ mile.
+A telegraph station.
+
+----
+
+Text: This is a village in the parish of Doddington, having a spacious and elegant church. Numerous Roman coins and other antiquities have been discovered in this neighbourhood.
+
+----
+
+Uuid: qI5nmIZQMTQiH7Wj

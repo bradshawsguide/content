@@ -1,0 +1,28 @@
+Title: Bourne
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: April 7, May 7, September 30, October 29.
+
+----
+
+Notes: Telegraph station at Essendine, 6½ miles.
+
+----
+
+Text: Situated in a fenny district; has a population of 3,066, engaged to some extent in the woollen and leather trades. It has a medicinal spring; there are also traces of a Priory, built in 1138.
+
+----
+
+Uuid: ciixzutpelu5uwkw

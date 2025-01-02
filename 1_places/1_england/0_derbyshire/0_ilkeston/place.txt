@@ -1,0 +1,30 @@
+Title: Ilkeston
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: March 6th, Whit. Thursday, and Thursday after Christmas.
+
+----
+
+Notes:
+
+- Telegraph station at Trent, 6¾ miles.
+
+----
+
+Text: This place is celebrated for its mineral springs, and is much frequented. Population, 3,330. *Ilkeston Park*, seat of S. Potter, Esq., is in the immediate neighbourhood.
+
+----
+
+Uuid: YxyajEJhXlaIShRC

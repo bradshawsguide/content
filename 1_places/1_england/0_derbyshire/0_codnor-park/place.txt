@@ -1,0 +1,33 @@
+Title: Codnor Park
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 795.
+-
+  term: Money Order Office
+  desc: at Belper, 5½ miles.
+
+----
+
+Notes:
+
+- Distance from station, 2 miles.
+- Telegraph station at Belper, 5½ miles.
+
+----
+
+Text:
+
+On the hill are the ruins of the Zouches' and Greys' old seat.
+
+----
+
+Uuid: VIelViio6HReYJBi

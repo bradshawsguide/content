@@ -1,0 +1,32 @@
+Title: Milnrow
+
+----
+
+Subtitle: (or *Milrow*)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+----
+
+Notes:
+
+----
+
+Text:
+
+A telegraph station, where lived the well-known Tim Bobbin, an eccentric schoolmaster, whose real name was Collier; he published various specimens of the Lancashire dialect, which attains a peculiar vigour and raciness about this part. His remains were interred in the old church yard at Rochdale, where the following epitaph may be seen:--
+
+> Here lies John, and with him Mary,
+> Cheek by jowl, and never vary;
+> No wonder that they so agree,
+> John wants no punch, and Moll no tea.
+
+----
+
+Uuid: ilos2tejny23vpz3

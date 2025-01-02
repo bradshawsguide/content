@@ -1,0 +1,32 @@
+Title: Brocklesby
+
+----
+
+Subtitle: (Croxton nearest town)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Ulceby, 2¾ miles.
+
+----
+
+Notes:
+
+- Distance from station, 1½ mile.
+- Telegraph station at Ulceby, 1 mile.
+
+----
+
+Text: The seat of the Earl of Yarborough, marked by the Pelham pillar, is on the Wolds, and is one of the finest places in the county. At Thornton-Curtis, close to the railway, are the venerable remains of the *Church*, the *gate*, &c., of an Abbey of the 12th century.
+
+----
+
+Uuid: ideucs5qkazgvjgs

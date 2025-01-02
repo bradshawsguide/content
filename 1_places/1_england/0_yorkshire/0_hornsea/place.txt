@@ -1,0 +1,17 @@
+Title: Hornsea
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A bathing place on the North Sea, at a part where the sea has sensibly gained a footing. *Hornsea Mere*, near it, is the only lake in Yorkshire, except one, and offers some sport after wild fowl It has also some good fishing.
+
+----
+
+Uuid: yqlryy4yevaqvdey

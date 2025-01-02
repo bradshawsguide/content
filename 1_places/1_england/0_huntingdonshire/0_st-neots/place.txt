@@ -1,0 +1,37 @@
+Title: St. Neots
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,090.
+-
+  term: Hotel
+  desc: Cross Keys.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: Saturday before third Tuesday in January Ascension Day, Corpus Christi and December 17th.
+
+----
+
+Notes:
+
+- Distance from station, ¾ mile.
+- A telegraph station.
+
+----
+
+Text: The town is situated on the easter bank of the river Ouse, which is here crossed by a handsome stone bridge, with three low towers on it. It contains many streets of well-built houses, a spacious market place; large decorated English church; Towgood's paper factory. Hugh, of St. Neots, Bishop White, and the Lord Mayors, Drope and Gedney, were natives. After leaving St. Neots, we pass several places of great historical interest, among which are the picturesque ruins of Stoneley Abbey, Kimbolton, and its venerable Castle, and Buckden, formerly the episcopal mansion of the Bishops of Lincoln.
+
+----
+
+Uuid: fioydtcgggbzslvk

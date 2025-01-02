@@ -1,0 +1,39 @@
+Title: Bingley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 5,238.
+-
+  term: Hotels
+  desc: Elm Tree, Fleece.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: January 25 to 27, August 2nd.
+-
+  term: Money Order Office
+  desc: at Shipley, 3¼ miles.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+In the vicinity are *St. Ives* and *Harden Grange*, the old seats of the Ferrands, and *Rumbolds Moor* 1,808 feet high.
+
+----
+
+Uuid: eypjlnVp8TLB7mdC

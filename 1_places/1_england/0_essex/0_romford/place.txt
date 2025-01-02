@@ -1,0 +1,31 @@
+Title: Romford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: White Hart; Dolphin.
+-
+  term: Market Days
+  desc: Wednesday (corn).
+-
+  term: Fairs
+  desc: Midsummer Day, June 24th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: The town, which was the Roman *Durolitum*, contains a population of 4,361; the church, built in 1407 contained a stained figure of the Confessor, with effigies of Hervey and Sir Anthony Cooke (who entertained Queen Elizabeth at his seat, *Gidea Hall*, now occupied by Mrs. Blake), which was pulled down and a new one erected on its site in 1850, with a spire 150 feet high; Quarles, the poet, and his son, the royalist, were natives. In the vicinity are *Little Warley*, the East India Company's *Cavalry Barracks*, *Dognam Park*, and *Weald Hall*, C. Tower, Esq.
+
+----
+
+Uuid: Y61zgquegcJNzzxy

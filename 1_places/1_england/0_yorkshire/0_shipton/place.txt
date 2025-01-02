@@ -1,0 +1,25 @@
+Title: Shipton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Ship; Black Swan.
+
+----
+
+Notes: Telegraph station at York, 5¾ miles.
+
+----
+
+Text: Close at hand are *Benningboro' Hall*, the fine seat of the Hon. P. Dawnay. *Sutton Hall*, W. Harland, Esq., *Sutton-in-the-Forest*, and *Galtreas Forest*, where the celebrated Sterne was vicar for many years; and near which is *Alne House*, the seat of E. Strangewayes, Esq.
+
+----
+
+Uuid: wqtbuwmrloux00wh

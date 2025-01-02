@@ -1,0 +1,28 @@
+Title: Ranskill
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Bawtry, 4 miles.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- Telegraph station Bawtry, 4 miles.
+
+----
+
+Text: In the vicinity are Blyth, the old church at which was founded by Roger de Busli at the Conquest--*Blyth Hall* the seat of H. H. Walker, Esq., the ruins of a priory at Mattersey, an old seat of the Neviles.
+
+----
+
+Uuid: pxei3ekir9pe4zs9

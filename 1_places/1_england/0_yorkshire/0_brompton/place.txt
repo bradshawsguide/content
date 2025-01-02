@@ -1,0 +1,17 @@
+Title: Brompton
+
+----
+
+Section: 4
+
+----
+
+Notes: Distance from station, ½ mile.
+
+----
+
+Text: Near at nand is *Osmotherly* with the priory of *Mountgrace* in ruins, and *Black Hambleden* 1,400 feet high, which commands a magnificent view.
+
+----
+
+Uuid: 29pj0wuaramryll5

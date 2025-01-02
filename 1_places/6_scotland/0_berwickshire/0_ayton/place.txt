@@ -1,0 +1,24 @@
+Title: Ayton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Red Lion.
+
+----
+
+Notes:
+
+Distance from station, ½ mile.
+Telegraph station at Reston Junction, 4 miles.
+
+----
+
+Uuid: kefceclygxmljtqm

@@ -1,0 +1,115 @@
+Title: Skipton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,533.
+-
+  term: Hotel
+  desc: Devonshire Arms.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Every other Monday, March 25, Saturday before Palm and Easter Sundays, 1st an 3rd Tuesday after Easter, Whitsun Eve, August 5th, September 23rd, November 23rd.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+The old church and tombs of the Cliffords, and the castle built at the Conquest, and rebuilt by the celebrated Countess of Pembroke (in which the "Shepherd Lord," Henry Clifford, was concealed after the Battle of Towton), should be visited. It has a *Grammar School*, founded as far back as 1568.
+
+(distances:)
+
+----
+
+Distances:
+
+- location: Barden Fell
+  miles: 5½
+- location: Beacon
+  miles: 4
+- location: Bolton Park
+  miles: 7
+- location: Bradley
+  miles: 1¾
+- location: Broughton.
+  miles: 3
+- location: Broughton Hall
+  miles: 2
+- location: Burdenscales Tower
+  miles: 7
+- location: Carlton
+  miles: 1
+- location: Chelker
+  miles: 5
+- location: Cold Coniston
+  miles: 6
+- location: Cracow Hill
+  miles: 6
+- location: Draughton
+  miles: 3½
+- location: Embsay
+  miles: 3
+- location: Embsay Crag
+  miles: 4
+- location: Eshton Hall
+  miles: 5½
+- location: Eastby
+  miles: 3½
+- location: Eustby Fell
+  miles: 6
+- location: East Halton
+  miles: 4½
+- location: Gargrave
+  miles: 3½
+- location: Hatton Height
+  miles: 4½
+- location: Holme Bridge
+  miles: 3½
+- location: Newton Bank
+  miles: 5
+- location: Newton Grange
+  miles: 4½
+- location: Rilston
+  miles: 5½
+- location: Rilston Fell
+  miles: 6
+- location: Roman Cross
+  miles: 4½
+- location: Silsden
+  miles: 4½
+- location: Skibden
+  miles: 1½
+- location: Skipton Castle
+  miles: 1¼
+- location: Skipton Lodge
+  miles: 1¾
+- location: Skipton Priory
+  miles: 1½
+- location: Strid, The
+  miles: 6½
+- location: Sturton
+  miles: 1½
+- location: Thimblethorpe Hall
+  miles: 2
+- location: Thorltby
+  miles: 1¾
+- location: Turn
+  miles: 2¾
+
+----
+
+Uuid: vQ8xZ5nn3ZvcoOoR

@@ -1,0 +1,37 @@
+Title: Leith
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Old Ship, 28, Shore; New Ship, 20 Shore, Globe, 23 Sandfort Street.
+-
+  term: Omnibuses
+  desc: to and from Edinburgh every five minutes, from 9 a.m. until 10 p.m.
+-
+  term: Steamers
+  desc: See Edinburgh.
+-
+  term: Races
+  desc: in July.
+-
+  term: Bankers
+  desc: Branch of Bank of Scotland; Branch of British Linen Co.; Branch of Commercial Bank of Scotland; Branch of National Bank of Scotland; Branch of Royal Bank of Scotland.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This port to the city of Edinburgh returns one member along with the burghs of Portobello and Musselburgh. It was formerly called Inverleith, and is built on the river Leith, from which it derives its name; it was frequently plundered, the shipping burned, and the pier destroyed by the English, from 1313 to 1541. About four years after, during the minority of Queen Mary, it was fortified by a French General, who came over to suppress the Reformation. Queen Mary landed here from France in 1541. In 1650 Cromwell occupied the town, and exacted an assessment from the inhabitants; after his return to England the citadel was built, which was taken in 1715 by some of the Stuart family, and held for a short time; in 1822 George IV. landed. There are about 20 churches, among which may be mentioned the parish church of South Leith, a Gothic edifice supposed to have been built in the 15th century. John Home, author of "Douglas," is interred here. It contains Court House, Town Hall, Police Office, Post Office, Exchange Buildings, Chamber of Commerce, Assembly Rooms, Reading Rooms, Libraries, Schools, Hospital, Infirmary, Trinity House, rebuilt in 1817 on the site of the old one built by Queen Mary (whose portrait, by Mytens, it contained). Custom House, built in 1812, at a cost or £12,000. Docks, Bonded Warehouses, Harbour, and two beautiful piers extending on each side of the harbour to about a mile in length, making a delightful promenade.
+
+----
+
+Uuid: xkyddpbqwaemgekc

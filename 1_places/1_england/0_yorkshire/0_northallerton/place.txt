@@ -1,0 +1,37 @@
+Title: Northallerton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Golden Lion.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: February 14th, September 5th and 6th, October 3rd and 4th, and 2nd Wednesday in October.
+-
+  term: Races
+  desc: in October.
+-
+  term: Bankers
+  desc: J. Backhouse and Co.; Branch of Darlington District Banking Co.; Branch of Yorkshire Banking Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This is a small borough, with a population of 4,755 (who return one member), employed in the linen trade. Here are remains of Friaries founded in 1341 and 1354. It has an old Church; Grammar School, in which Archbishop Palliser, Rymer, Kettlewell, Dean, Hickes, Burnet, and Dr. Radcliffe were educated.
+
+----
+
+Uuid: gejftlp0iepucycg

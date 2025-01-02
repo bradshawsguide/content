@@ -1,0 +1,48 @@
+Title: Lynn Regis
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Globe, Crown.
+-
+  term: Omnibuses
+  desc: to Castle Rising, Ingoldsthorpe, Clench Warton, and Tarrington St. Clements.
+-
+  term: Market Days
+  desc: Tuesdays and Saturdays.
+-
+  term: Fairs
+  desc: February 13th, and October 6th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A borough town, in the county of Norfolk, which stands on the banks of the Ouse. It was formerly called Lynn Episcopi, having been granted at the Conquest to the bishops of Norwich, who had a palace at *Gaywood*. It consists of two principal streets, with i number of smaller ones branching from them.
+
+For rivulets run through the town and divide it into separate parts, over which are thrown several bridges. The streets are on the whole well paved, and the modern houses handsome, but still a number of old irregular buildings remain. The Exchange or Custom House is a fine stone building. The Market Cross was built in 1710, and is ornamented with Ionic columns Population--16,170, who return one member. The port is formed by the mouth of the Ouse, but it is choked with shifting sands, and the harbour reached only by an intricate channel between them, 15 miles long. A new channel has been made for the river, called the Gan Brink Cut. When the siege of Calais was undertaken by Edward III., Lynn supplied 19 ships--a proof of the activity of its trade. *St. Margaret's Church*, near the Saturday market and St. James' Street, is as old as the 12th century, being a cross, with two *odd* west pinnacled towers, and a large window between. Within are two Flemish brasses deserving notice. That of St. Nicholas, was built in Edward III.'s reign, and is 200 feet long, with a steeple of 170 feet; the porch is elegant. All Saints', in South Lynn, is also an old building, having one of Snetzler's organs, with 80 stops. This parish forms a narrow strip of 4 miles along the Ouse. The town is clean and well built, and intersected by the river Narr and several little streams or "fleets" one of which, the Purfeet fleet, divides it into two equal parts, north and south, and has long been a recognised boundary, There are pretty public walks on the east side, of some extent. Three or four roads unite at the Long Bridge or Old South Gate, over the Narr, near the gas works, in South Lynn. North Lynn and West Lynn are on the opposite side of the Ouse.
+
+At the old *Guildhall*, are portraits of the late Lord George Bentinck and Sir R. Walpole, both representatives of the borough; also King John's silver cup, given to the "mayor and good men of Lenn;" and a sword ascribed to him, but actually the gift of Henry VIII. The principal, or Tuesday market, is a space of three acres, with a stone cross in one corner, 70 feet high, but not older than 1710. A statue of Charles II. in the Exchange, built in 1683. In College Lane is the *Grammar School*, of which Bulwer's sentimental hero, Eugene Aran, was usher, when apprehended for the murder of Clarke, in 1759. This is an old foundation, as are various almshouses, which exist under modern names.
+
+Among the remains of antiquity are the *Lady's Mount*, cast of the town, so called from the small Lady Chapel there; it is a cross only 17 feet long, with a beautiful fan-tracery roof, but enclosed by an octangular brick wall. The beautiful *Grey Friar's Lantern* is a tower of sir sides, supported by buttresses, pierced by elegantly shaped windows, and resting on open groined arches, making the total height 90 feet. It was erected about 1260. There are also remains of the Austin Friar's Gate, and of the old town wall, which had a ditch outside.
+
+About 18,000 tons of shipping belong to the port; amount of custom dues, £50,000. Oil-cake, timber, and other Baltic produce, are among the chief imports; the silt brought down the river is used by the glass-makers. Since 1850, works on a large scale have been carried out for reclaiming part of the Wash, but its practicability is doubtful. Here, as in the Trent, the Solway, &c., the tide comes in sometimes with a sudden rush, carrying everything before it. It was while crossing it under such circumstances that King John was nearly drowned a little before his death at Newark. Dr. Burney was organist here for nine years, and at that period wrote his great work the "History of Music," and married his second wife. Two of his children, Madame D'Arblay, authoress of Cecilia, and Charles Burney, the scholar, were natives, as also were Bishop Keene and "Miss Breeze, who kept a pack of hounds, and was a dead shot."
+
+At *Castle Rising*, which, according to a local saying "was a sea-port when Lynn was a marsh, now Lynn is a sea-port town, and *Rising* fares the worst," are the keep and other remains of a Norman fortress, built by the ancestors of the Howard family, on the site of the one in which Edward III. confined his mother; also an old Norman church. This place was one of the rotten boroughs extinguished by the Reform Bill, at the date of which it had exactly two voters, namely, the rector and an alderman of the corporation, while the surviving alderman acted as mayor and returning officer.
+
+Lower down the Nene is *Sutton*, or *Long Sutton*. *Houghton*, the fine seat of the Marquis of Cholmondeley. It belonged to Sir Robert Walyole, who built it (he being a native), and formed a gallery of pictures, which were bought by the Empress Catherine of Russia; about 200 of the best were engraved by Boydell. The hall is a cube of 10 feet; and all the apartments are sumptuously fitted up. *Rainham*, the old seat of the Townshend's, contains Salvator Rosa's "Belisarius," a most remarkable picture. One of this family, a friend of Walpole's, was the great patron of the turnip culture.
+
+----
+
+Uuid: CSGeG6VaklM4wUkC

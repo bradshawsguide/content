@@ -2,10 +2,42 @@ Title: Peterborough
 
 ----
 
-Section:
+Section: 3, 4
 
-- 3
-- 4
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Crown, family and commercial.
+-
+  term: Market Days
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: July 10th and October 2nd.
+-
+  term: Bankers
+  desc: National Provincial Bank of England; Branch of the Stamford, Spalding, and Boston Banking Company; D. Yorke and Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A borough and cathedral town, with a population of 11,735, who return two members, in Northamptonshire, on the river Nene, and on the Great Northern Hailway, where three or four other lines strike off.
+
+The country is flat and uninteresting in winter, and when the floods are up, the roads are almost impassable. *Town Hall*, in the Market Place, was built in 1671. It has but one church, besides the Cathedral, which is the only object worth notice. Till the Reformation it was the church of an abbey, founded by the Mercian Kings, about 660, by the name of *Medes Ham Stede*, but rebuilt after the Conquest, when the town was styled *Petersburgh*,  fter St. Peter, to whom the Cathedral was dedicated. Length 46 feet, including the porch; the tower is 150 feet high. It is chiefly a Norman cross, the choir, transept, nave, abbey gate, &c., having been all built before 1200. The noble west front, 160 feet broad, is, however, of a later date, being comprised of three lofty early English recessed arches; and the east, or *Lady Chapel*, was not built till 1518. *Becket's Chapel* is in the middle of the front, which looks towards the Market-place. The churchyard is prettily laid out and planted. There are several monuments of the Abbots and others, all much defaced during the civil wars. One is ascribed to King Peada, the first founder. Henry VIII.'s divorced queen, Catherine (who died at Kimbolton Castle), was buried here. The body of Mary Queen of Scots was also brought hither, after her execution at Fotheringay, but her son James I. removed it to Westminster. Both of them were buried by Old Scarlet the Sexton, who died at the age of 95, of whom there is an effigy, "You see Old Scarlet's picture stand on high." There was a shrine here, a pilgrimage to which, by a convenient reckoning, was considered equal to one at Rome. The cloisters cover a space of 130 to 140 feet square; in the stained windows are the portraits of abbots, &c. Formerly, Peterborough was the poorest and smallest diocese, but both the income and duty are now equalised with others.
+
+Dr. Paley was born here in 1743. Abbot Benedict, Bishop Chambers, and Gunton were natives. The counties of Hunts and Cambridge are immediately adjacent to this corner of Northamptonshire.
+
+Near the city are the following:--*Milton Abbey*, the sent of Earl Fitzwilliam, originally a country seat of the Abbots of Peterborough, but rebuilt in the reign of Elizabeth. There is here a portrait of Mary of Scotland given by her to Sir W. Fitzwilliam the day she was beheaded at *Fotheringay Castle*, which was built in the shape of a fetter lock by Edmund Langley Duke of York, 10 miles up the Nene, in 1550, of which there are scarcely any traces, as it was pulled down by her son James I. There are remains of a nunnery, where Richard III., was born. Blatherwycke, the seat of Right Hon. A Stafford. *Elton Hall*, Earl Carysfort. *Thorpe Hall*, the Rev. W. Strong. At *Chesterton*, where Ermine Street crosses the Nene, was a Roman villa and station. *Overton-Longeville*, the Marquis of Huntly's seat, is near an old church. At *Thorney* there was a mitred abbey, of which part only of the Norman church is left. It belonged to the Bedford family. *Crowland* or *Croyland*, among the former fens of Lincolnshire, has the church and part of the gate, &c., of a third abbey, also a curious antique triangular bridge, of three arches, with a common centre, which parts off three streams at once--the Nene, Welland, and another.
+
+The wide fenny country between Peterborough and the sea was many centuries ago a fertile tract, remarkable for its richness and prosperity, of which the accounts of old writers, remains of religious houses, and existing churches, afford undoubted proofs; but it was gradually overwhelmed by the ravages of the sea, and the silt brought down by the rivers, in feudal times, especially in the dismal contest of the Roses, the Thirty Years' War of English history. Within the last twenty or thirty years, it has, however, been brought back to something like that state which made William of Walmesly describe it as a paradise of cultivation.
 
 ----
 

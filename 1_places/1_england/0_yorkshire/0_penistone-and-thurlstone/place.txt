@@ -1,0 +1,37 @@
+Title: Penistone and Thurlstone
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 860; Thurlstone, 2,251.
+-
+  term: Hotel
+  desc: Railway.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: Last Thursday in February and March; first Thursday in May; and Thursday after Old Michaelmas.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
+
+----
+
+Text: This is a small market town, situated on the banks of the Don, in the midst of a wild and dreary district. It contains several large cotton and woollen factories, and a free *Grammar School*. Sanderson, the blind professor, was a native. Distant one mile lies *Thurlstone*, in which are fulling mills, and woollen and hair cloth manufactories.
+
+----
+
+Uuid: xhokgybjoglhrowm

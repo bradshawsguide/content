@@ -1,0 +1,31 @@
+Title: Wolsingham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 5,537.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: May 12th, and November 2nd.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Here are the remains of the Bishop's seat, which was moated.
+
+----
+
+Uuid: w9mlsthij8irbr44

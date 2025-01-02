@@ -1,0 +1,25 @@
+Title: Radcliffe Bridge
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Races
+  desc: in Whit Week.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This place contains a population of 8,838, chiefly employed in the cotton mills and collieries. Bishop Kilbye, a translator of the Bible, was a native.
+
+----
+
+Uuid: empjifsi7gkpnz31

@@ -1,0 +1,31 @@
+Title: Bishop Auckland
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Talbot.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: March and October.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Bishop Auckland) has a population of 6,480, and contains the Bishop of Durham's palace, part of which is of a date prior to the Reformation, especially the beautiful chapel built by Bishop Bell. It covers five acres, and was restored by Wyatt. Here is a fine collection of pictures, among which are Reynolds' Resurrection, Titian's Comara Family, Spagnoletto's Patriarchs, and a portrait of Tycho Brahe. The park, which contains 800 acres, commands fine prospects. In the church is the tomb of Bishop Cosin its restorer. Sherwood the comedian was a native. In the vicinity are Newton Cap Bridge over the Wear, built 1390, and Binchester, the ancient Vinovium.
+
+----
+
+Uuid: iennrhfptvvwqjkr

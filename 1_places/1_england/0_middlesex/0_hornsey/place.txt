@@ -1,0 +1,33 @@
+Title: Hornsey
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 11,082.
+-
+  term: Money Order Office
+  desc: at Islington, 3½ miles.
+
+----
+
+Notes:
+
+- Distance from station, ¼ mile.
+- Telegraph station at Wood Green, 1 mile.
+
+----
+
+Text:
+
+The village is very beautifully situated, and the parish of Hornsey includes a great part of Highgate and Finchley Common, now studded over with pretty villas and mansions. The salubrity of this neighbourhood is proverbial proving the truth of the theory that elevated regions are the most healthy. The neighbourhood of Highgate and Finchley were celebrated as the scenes of many of the exploits of Turpin and other highwaymen of notoriety. Pursuing our route we pass on the right *Tottenham Church*, and the *Middlesex County Asylum*. Near the church is the tomb of Moore's two children, who died at Muswell Hill. Here Lightfoot, the Hebraist, resided. In the vicinity is *Harringay House*, seat of J. Chapman, Esq.
+
+----
+
+Uuid: swbsxpnodigmum3d

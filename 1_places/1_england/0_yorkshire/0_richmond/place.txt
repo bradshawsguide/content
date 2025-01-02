@@ -1,0 +1,38 @@
+Title: Richmond
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: King's Head.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Saturday before Palm Sunday, Saturday before Thomas a'Becket's day, and Holyrood day.
+-
+  term: Races
+  desc: In October.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+This new borough and ancient town has a population of 5,134, returns two members, is situated among the moorlands, in a fine part of the Swale, in the North Riding. Close to the river, on a tall cliff, are the great pinnacled keep, 100 feet high, and other remains of its Norman *Castle*, built at the Conquest by Alan of Brittany, and made an earldom to which 200 broad manors were annexed. Through John of Gaunt it descended to the Earl of Richmond, who succeeded to the Crown as Henry VII. On the other side of the river are vestiges of a priory, coeval with the castle. St. Mary's Church is an old build-ug. Queen Elizabeth's *Free Grammar School*, for which the cantins of the Rev. J. Tate, editor of *Horace*, &c., have established so decisive a character, was lately rebuilt in the Tudor style, as a standing memorial to his honour
+
+*Aske Hall*, the Earl of Zetland's seat, commands a fine prospect of the scenery up and down the Swale. This and other mountain streams may be ascended. Up the Swale is *Reeth*, at the junction of its principal heads, which take their rise in Shunner and its neighbouring fells, 2,100 to 2,300 feet high, on the Westmorland border. All this part was once thickly covered with forest; at present it yields much lead, but the waterfalls or forces are as numerous and picturesque as ever, especially round Muker. Excellent pasture and grouse shooting. About 5 miles south of Richmond is *Burton Constable*, near the fine natural terrace or scar at Leybum, which overlooks *Wensleydale* the old castle and collegiate church at Middleham, with the ruins of *Jervaulx Abbey*, 3 miles lower down. This, like many other parts of Yorkshire, is a great place for horse-training. *Wensleydale*, gives title to Judge Parke, about the assuming of whose seat in the House of Lords there has been so much discussion, owing to that peerage having been conferred only on himself and not on his descendants, which renders it a life and not an hereditary peerage, and which has ended in it being made an hereditary dignity. The valley of the upper Eure, is famous for its rich pasture and stocking knitters. In making the ascent you pass *Bolton Hall*, the seat of Lord Bolton, near the old castle in which Mary of Scotland was for a time confined. At *Asgarth* is the old mother church of a vast moorland parish of 80,000 acres. Here is also a striking fall which Powche the traveller thought equal to the Nile cataracts. From the bridge, which has a span of 70 feet, a fine view can be obtained of it. *Ashrigg* has a small chapel and is in the neighbourhood of several falls, forces, or gills-large and small, according to the height and weather. Occasionally the outer rim of a fall has been known to freeze into a transparent tube, through which the water continued to run. Lead is got at Hawes where the limestone cliffs on each side of the river are seen to rise in regular gigantic steps. Hence it is 10 miles to Sedbergh and 14 to Ingleton, in the heart of the highest part of the West Riding. To the north of Richmond are *Halnaby*, the seat of Sir J. Milbanke, Bart. (Lady Byron was a Milbanke of this family). *Rokeby*, on the Tees, the seat of W. J. S. Morritt, Esq., M.P., gave name to Scott's last ballad poem. Many Roman antiquities have been found here. About 12 or 14 miles up the Tees is the *Wynch Suspension Bridge*, 63 feet long from cliff to cliff; it was built in the 17th century, and is said by Mr. Stephenson to be the first suspension bridge ever constructed. Above this is the *fall* of *High Force*, where the water dashes down 70 feet between dark cliffs; and 5 miles further is *Caldron Snout*, another remarkable fall.
+
+----
+
+Uuid: sdt40r8hc2trw2v3

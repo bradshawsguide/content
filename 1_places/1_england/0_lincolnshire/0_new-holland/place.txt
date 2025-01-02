@@ -1,0 +1,25 @@
+Title: New Holland
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Yarborough.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Steamers to Hull several times, daily.
+
+----
+
+Uuid: mtzzr3pwx2jjew4h

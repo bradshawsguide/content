@@ -1,0 +1,54 @@
+Title: Hull
+
+----
+
+Subtitle: (Kingston-upon-Hull)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Royal Station Hotel, for families, private or commercial gentlemen; The George; Glover's Commercial Hotel; Victoria Hotel on the Quay.
+-
+  term: Post Horses, Flys, &c.
+  desc: at the hotels. Tariff--1s. 6d. per mile. 1s. from any railway station to the town.
+
+----
+
+Notes: Telegraph stations at Nos. 37, 52, and 53, Lowgate, 6, Minerva Place, Quay Side, and Railway stations.
+
+----
+
+Text:
+
+## Places of resort, &c., in Hull
+
+The (smcp: Botanical Gardens) are on the Anlaby Road. An agreeable resort to the pleasure-secker and practical botanist. Admission by order from subscribers.
+
+(smcp: Queen's Theatre), Paragon Street.
+
+The (smcp: Literary) and (smcp: Philosophical Society's Museum--Royal Institution), Albion Street. Admission by orders from any of the directors or subscribers.
+
+The (smcp: Museum) of the (smcp: Mechanics' Institute) may be viewed on application to the Librarian at the Institute, George Street.
+
+Mr. (smcp: Seamen's Museum) is at that gentleman's residence, near the Cemetery, and contains many valuable natural curiosities.
+
+(smcp: Miscellaneous Societies).--Amongst the societies designed to improve the social condition of the people, may be noticed the Hull Temperance League; the Hull Auxiliary Peace Society, W. Morley, Esq., President; and the Vocal Society--Conductor, Mr Skelton.
+
+This parliamentary borough and old town, founded by Edward I., as a King's Town, or Kingston-upon-Hull (which is still its official name), stands on the Yorkshire side of the Humber, in a very flat and uninviting spot, but admirably fitted for trade, which has much augmented in the last few years. Population, 97,661, who send two members. The river Humber, the main estuary into which the Ouse and the Yorkshire streams, with the Trent, all four flow, is here 2 miles broad, and widens to 5 or 6 before it joins the sea at Spurn Head, which is 20 miles below. All this coast of the East Riding is in progress of change--the sea gaining on the shores of the north sea, where Ravenspur, Potterfleet, and other ports, once in existence, have been swallowed up, while it is retiring, it anything, on the Hull shore, where Sunk Island (towards Spurn Head), which first appeared above water in 1630, is now a fertile cultivated tract of 4,500 acres in extent. So flat is the country that the railway to Selby westward, though 31 miles long, runs for the most part on a made embankment, and has neither tunnel nor viaduct. The loss of the ancient sea ports of the Riding led to the foundation of Hull.
+
+Brick clay is abundant, and Hull has several specimens of *very old* brick buildings. The *Citadel* with its old moated fortress contained the barracks and magazines, and stood two sieges in the civil war; the first being in 1642, when the refusal of Sir J. Hotham, the Governor, to deliver the town to Charles I., who appeared in person before it, was the first act of hostility between the King and Parliament. Hotham in the next year proving treacherous, was executed at Tower Hill. A bridge of three arches crosses the Hull in the middle of the town, near the upper entrance of the *Docks*, which form a loop with it and the Humber, and contain 30 acres, besides to basins of 3 acres more. *Queen's Dock*, cut in 1778, contains 13 acres, and is 1,700 feet by 254 feet; the others are the *Humber's Prince, Railway*, and *Victoria Docks*, and all surrounded by large warehouses and timber yards. Upwards of 100,000 tons of shipping are owned by the port; and the customs duties amount to nearly half a million: Pottery, bricks, white lead, soap, oil-cake, rope, sails, grain, timber, iron--figure among the articles of trade. Many seamen are engaged in the Greenland whale fisheries and Baltic trade. Fox, who attempted the north-west passage up Fox's Channel, and perished in 1586, Johnson the botanist, Spence the entomologist, and B. Thompson, and his brother were natives.
+
+Among the buildings are the *Public Rooms*, built in 1830, having a hall 20 feet long. Large parish *Church of Trinity*, in the Market Place, built in 1312, one of the largest in the kingdom, in the shape of a Gothic cross, 270 feet long and 170 feet through the *early brick transept*; steeple, 150 feet high; and a fine organ, by Foster and Andrews, *Wilberforce Column*, near the Prince's Bridge, founded in his honour, on the 1st August, 1834 (the day of negro emancipation), 80 feet high. Wilberforce was born at Hull, in 1759, and died in 1853, but not till he had the happiness of knowing that the bill was safe, and that the great work of his useful life was achieved. "Thank God (he said), that I have lived to see the day when an English parliament is willing to give 20 millions to abolish slavery," A gilt statue of William III., by Schermaker, in the Market Place. The large *House of Correction*, on the site of the Hotham's friary, founded in 1331. *Baths* and *Wash-houses*, built in 1850. *Trinity Hospital* and *School*, for the merchant service, founded in 1369, is a brick quadrangle, with a Museum attached, in which there are portraits of Andrew Marvel (a native), the poet, and secretary to Cromwell, who represented Hull in the civil war, and George III., a picture of Hawke's victory, all by Sevres, and a curious Greenland boat. Marvel was educated at the *Grammar School*, founded by Bishop Alcock, of which Cathin and J. Milner were sisters. Mason, the poet (another native), as well as Wilberforce and Dean Milner, were also educated here. The *Charter House* asylum is nearly as old a foundation as Trinity Hospital, and was established by the De la Poles, a family of rich merchants, when they left the decayed port of Ravenspur to settle here. Cardinal Pole was of this family; they became Dukes of Suffolk, and built a palace, which stood here till 1771. The *Infirmary*, built in 1782, has bas-reliefs by Westmacott. At the *Mechanics' Institute* is a large picture by Briggs, the "Britons instructed by the Romans." There are also the Hull Club, in Charlotte Street; the *Conservative* and *Exchange News Rooms*, in Lowgate; the new *Corn Exchange*, in High Street, built in 1856; the *Royal Institution*, opened in 1854; a large *Lunatic Asylum* for the Riding, &c., and a *Botanic Garden*, in a piece of ground covering 5 acres. Edward III. visited here in 1322, Henry VI. in 1448, Henry VIII. in 1541, Charles I. in 1639, and Queen Victoria and the late Prince Consort in October, 1854.
+
+*South Cave* may be visited from Hull. It is situated in a wooded hollow of the wolds, and was a seat of Washington's ancestors, whence they emigrated in the 17th century to the United States; there is a portrait of him at Cave Castle.
+
+----
+
+Uuid: mqkufinwxgp9vcka

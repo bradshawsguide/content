@@ -1,0 +1,28 @@
+Title: Castle Hedingham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,203.
+-
+  term: Fairs
+  desc: May 14, July 25, August 15, and October 25.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A small town situated on the river Colne. The church was built in the reign of King John, and has in it effigies of the De Veres and Ashursts. The castle was built in 1719; the walls are of extraordinary thickness. Its site is very nearly that of its predecessor, built about 1150, in which the death of Queen Maud was said to have occurred.
+
+----
+
+Uuid: ht3skyrtgik9mlot

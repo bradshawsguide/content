@@ -1,0 +1,21 @@
+Title: Longtown
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Days
+  desc: Monday and Thursday.
+
+----
+
+Text: This is the junction of a short line to Gretna and the Ayrshire lines. The town stands on the east bank of the river Esk, crossed at this point by the railway, and a neat bridge of five arches leading to it. It was founded by the Grahams, of Netherby Hall, situated about a mile to the north of the town. Farming improvements have here been made on a large scale.
+
+----
+
+Uuid: wamaxwemch9ac1za

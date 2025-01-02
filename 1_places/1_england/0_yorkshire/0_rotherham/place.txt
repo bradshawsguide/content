@@ -1,0 +1,36 @@
+Title: Rotherham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 7,598.
+-
+  term: Hotel
+  desc: Crown.
+-
+  term: Market Day
+  desc: Monday.
+-
+  term: Fairs
+  desc: Every other Monday, Whit-Monday, and 1st December.
+
+----
+
+Notes: Telegraph station at Masborough, 1 mile.
+
+----
+
+Text:
+
+Here is a large old church, and the *Independent's College*. Sandstone is quarried here for the cutlers. In the vicinity are *Thundercliffe Grange*, Earl of Effingham; *Aldwark Hall*, *Thrybergh Hall*, and *Ravenfeld*.
+
+----
+
+Uuid: N2rLUwff7pYdhiX6

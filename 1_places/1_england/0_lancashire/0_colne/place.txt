@@ -1,0 +1,36 @@
+Title: Colne
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Red Lion.
+-
+  term: Market Days
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: >
+    March 7, May 13, October 11, and
+    December 21.
+-
+  term: Bankers
+  desc: Birkbecks and Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This was the Roman *Colonio*. Population, 6,315, of cotton and woollen spinners. Here is a ine church, in which is a handsome screen. At the grammar school, Archbishop Tillotson was educated. The poor house was the Lacy's seat, and Barnside that of the Towneley's. Caistor Cliff camp is double ditched, and 360 feet by 330.
+
+----
+
+Uuid: pr8ffuup7llb4ulq

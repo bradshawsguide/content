@@ -1,0 +1,41 @@
+Title: Sudbury
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 6,879.
+-
+  term: Hotel
+  desc: Rose and Crown.
+-
+  term: Coaches
+  desc: to and from Melford, daily.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: March 12th, July 10th, and December 12th, for earthenware.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Sudbury) is a market town and borough, in the county of Suffolk, situated on the north-eastern side of the river Stour, over which there is a bridge.
+
+Formerly it was a place of much greater importance than at present. It was one of the first places at which Edward III. settled the Flemings, whom he invited to England to instruct his subjects in the woollen manufacture. This business accordingly flourished here for some centuries, but the trade has long since declined. St. Gregory's Church was built by Archbishop Simon de Sudbury (a native), who was murdered here by Wat Tyler's mob, and buried near the college, the gate of which remains. Gainsborough, the painter, and Enfield, author of the "Speaker," &c., were natives.
+
+----
+
+Uuid: xw2yabg1acpixfhw

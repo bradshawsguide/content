@@ -1,0 +1,34 @@
+Title: Downham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,458.
+-
+  term: Hotel
+  desc: Castle.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: February 3rd, May 8th, and November 13th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This place is famous for its butter and wild fowl, and has an ancient church and bridge.
+
+----
+
+Uuid: 4qymXUNCGaU7JdIj

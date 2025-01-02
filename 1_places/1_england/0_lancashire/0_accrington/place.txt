@@ -1,0 +1,28 @@
+Title: Accrington
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 13,872.
+-
+  term: Hotel
+  desc: Hargreaves Arms.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Here are the print-works of Messrs. Grafton and Co., Mr. Grimshaw, and Messrs. J. Losh and Co., and a number of cotton mills. In the neighbourhood are also Messrs. Steiner and Co.'s large turkey-red dye and print works, the largest in the trade, and several large chemical works.
+
+----
+
+Uuid: rfvibp4e9z8ztdqq

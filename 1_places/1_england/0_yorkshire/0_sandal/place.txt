@@ -1,0 +1,13 @@
+Title: Sandal
+
+----
+
+Section: 4
+
+----
+
+Text: Here are the remains of Sandal Castle, the baronial residence of the Earls of Warren, lords of the manor of Wakefield, until the time of Edward III., when in consequence of the death of the last Earl a Warren without legitimate issue, it reverted to the crown; and Sandal Castle was the occasional residence of the stewards of the manor. It mast demolished during the civil war between Charles I and his parliament. The manor has been vested for several generations in the families of the Dukes of Leeds, and is now the property of S. L. Fox, Esq. son-in-law to the late duke.
+
+----
+
+Uuid: 5y86k2jgewvo4chy

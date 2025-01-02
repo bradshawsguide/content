@@ -1,0 +1,35 @@
+Title: Gainsborough
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: White Hart.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: October 20, and Easter Tuesday.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Gainsborough) a market town, population 6,320 (who are chiefly employed in the carrying trade), in the county of Lincoln. It is agreeably situated on the eastern bank of the river Trent, which joins the Humber about 20 miles below the town. Gainsborough is celebrated in history as being the anchoring place of the Danish ships, when Sweyne laid waste the surrounding country.
+
+The town consists almost entirely of one long street, parallel with the river, and is clean, well lighted, and paved. The most conspicuous public edifice is the *Church*, with an ancient tower, the rest of which is of modern erection. Over the Trent (which here forms the natural boundary of the counties of Lincoln and Nottingham), an elegant stone bridge, of three elliptical arches, was erected in 1791, and forms a great ornament to the town. Alfred the Great married Egelswitha at this place. The *Town Hall* is of brick, with shops beneath it; it is situated in the *Market Place*, and is occasionally used as an assembly room. It also contains a *Theatre*, which is a very neat modern edifice. Here is the old timbered hall called *John of Gaunt's Palace*, with tower, chapel, &c.; it belongs to the Hickmans of *Howick Grove*, who have restored it lately. In the vicinity are *Somerby Hall*, Sir T. Becket, *Lea Hall*, Sir C. Anderson, Bart., and *Castle Hill*, which Cromwell occupied in 1643; *Knaith*, where Sutton, the founder of the Charter House, was born: *Knaith Hall*, a seat of the Wyndhams of Cromer.
+
+----
+
+Uuid: oii4ucbzblyku3tk

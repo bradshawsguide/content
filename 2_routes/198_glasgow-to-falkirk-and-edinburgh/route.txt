@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Edinburgh and Glasgow Railway
+
+----
+
 Company: companies/north-british
 
 ----
@@ -31,6 +35,12 @@ Stops:
 - stations/gogar
 - stations/corstorphine
 - stations/haymarket
+
+----
+
+Links:
+
+- (wikipedia: Edinburgh_and_Glasgow_Railway)
 
 ----
 

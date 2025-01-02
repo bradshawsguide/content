@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Stour Valley Railway
+
+----
+
 Company: companies/london-and-north-western
 
 ----
@@ -29,6 +33,12 @@ Stops:
 - stations/spread-eagle
 - stations/penkridge
 - stations/stafford
+
+----
+
+Links:
+
+- (wikipedia: Stour_Valley_Line)
 
 ----
 

@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Bolton and Preston Railway
+
+----
+
 Company: companies/lancashire-and-yorkshire
 
 ----
@@ -24,6 +28,12 @@ Stops:
 - stations/leyland
 - stations/farington
 - stations/preston
+
+----
+
+Links:
+
+- (wikipedia: Bolton_and_Preston_Railway)
 
 ----
 

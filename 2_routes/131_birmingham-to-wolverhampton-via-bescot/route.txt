@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: London and North Western Main Line
+
+----
+
 Company: companies/london-and-north-western
 
 ----

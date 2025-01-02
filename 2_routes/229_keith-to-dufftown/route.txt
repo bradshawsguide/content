@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Keith and Dufftown Railway
+
+----
+
 Company: companies/great-north-of-scotland
 
 ----
@@ -18,6 +22,12 @@ Stops:
 - stations/drummuir
 - stations/dufftown
 - stations/strathspey-junction
+
+----
+
+Links:
+
+- (wikipedia: Keith_and_Dufftown_Railway_(GNoSR) text: Keith_and_Dufftown_Railway)
 
 ----
 

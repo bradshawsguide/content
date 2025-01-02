@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Glasgow and South Western Main Lines
+
+----
+
 Company: companies/glasgow-and-south-western
 
 ----
@@ -43,6 +47,12 @@ Stops:
 - stations/johnstone
 - stations/paisley-gilmour-street
 - stations/glasgow-central
+
+----
+
+Links:
+
+- (wikipedia: Glasgow_South_Western_Line)
 
 ----
 

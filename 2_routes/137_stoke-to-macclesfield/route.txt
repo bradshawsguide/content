@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Potteries Loop Line
+
+----
+
 Company: companies/north-staffordshire
 
 ----
@@ -22,6 +26,12 @@ Stops:
 - stations/congleton
 - stations/north-rode
 - stations/macclesfield
+
+----
+
+Links:
+
+- (wikipedia: Potteries_Loop_Line)
 
 ----
 

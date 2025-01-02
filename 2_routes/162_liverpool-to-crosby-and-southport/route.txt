@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Liverpool, Crosby and Southport Line
+
+----
+
 Company: companies/lancashire-and-yorkshire
 
 ----
@@ -26,6 +30,12 @@ Stops:
 - stations/ainsdale
 - stations/birkdale-park
 - stations/southport
+
+----
+
+Links:
+
+- (wikipedia: Liverpool,_Crosby_and_Southport_Railway)
 
 ----
 

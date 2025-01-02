@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Manchester and Southport Railway
+
+----
+
 Company: companies/lancashire-and-yorkshire
 
 ----
@@ -20,6 +24,12 @@ Stops:
 - stations/new-lane
 - stations/bescar-lane
 - stations/southport
+
+----
+
+Links:
+
+- (wikipedia: Manchester_and_Southport_Railway)
 
 ----
 

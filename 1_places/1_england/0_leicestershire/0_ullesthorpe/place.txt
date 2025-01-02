@@ -1,0 +1,31 @@
+Title: Ullesthorpe
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 600
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+Near three miles to the right is the old town of *Lutterworth*, chiefly interesting for its church, in which the great Reformer Wickliffe, preached against the "Man of Sin," and spread the Word of God in a language that could be understood by the people.
+
+Here he died and was buried (1384), but he only lay in peace 50 years--his body was then taken out of the quiet grave, in which he lay entombed, burnt to ashes, and cast into the river. They still show his old oaken pulpit, and the high-backed wooden chair in which he died; also his portrait, said to have been done by one of the Fieldings, some of whose monuments may be seen in the church. Near it is *Misterton Hall*. *Claybrooke Hall* to the left of the station, and beyond, some Roman remains.
+
+----
+
+Uuid: BirE1MdGstZoHMtj

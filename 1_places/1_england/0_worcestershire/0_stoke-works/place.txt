@@ -1,0 +1,29 @@
+Title: Stoke Works
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Bromsgrove, 2 miles.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+The extensive salt and alkali works here should be visited.
+
+----
+
+Uuid: dzVCDppjSNsf62tz

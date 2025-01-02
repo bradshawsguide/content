@@ -1,0 +1,58 @@
+Title: Mansfield
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 8,346.
+-
+  term: Hotel
+  desc: Swan
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: First Thursday in April, July 10th, and Second Thursday in October.
+
+----
+
+Notes: - A telegraph station.
+
+----
+
+Text: (smcp: Mansfield), in the county of Noingham, agreeably situated on the banks of the river Man, consists of two principal streets, with several smaller ones branching from them, which contain a great number of handsome buildings. The church (Gothic building), contains over each aisle a handsome gallery. The trade of the town consists principally of corn, malt, cotton goods, hosiery, lace, and also in the valuable stone which abounds in the neighbourhood. The circumstance related in the tale of the "Miller of Mansfield," occurred about the reign of Henry II. Near the Town Hall in the Market Place is a florid Gothic cross, to the memory of the the late Lord G. Bentinck, the protectionist leader, and upright member of the turf. *Sherwood Forest*, of which this is the centre, extended from Nottingham to Worksop, and included all the parks and seats which lie between those places. Most of it is cleared, and some parts excavated for coal and iron; but picturesque tracts of woodland still bring back to mind the unsettled times when Robin Hood, Hugh Little John, and Friar Tuck hunted the king's venison, without license under the great seal. Whoever Robin Hood really was, whether a bold outlaw, or a patriotic descendant of the Saxon Earls of Huntingdon, as Stukeley affirms, none for the future will take him but as he is described in the pages of *Ivanhoe*, by the inimitable Scott.
+
+----
+
+Distances:
+
+----
+
+Title-short:
+
+----
+
+Subtitle:
+
+----
+
+Desc:
+
+----
+
+Section: 4
+
+----
+
+Children:
+
+----
+
+Links:
+
+----
+
+Uuid: Xixe8yvwaJvxtTqN

@@ -1,0 +1,13 @@
+Title: King's Norton
+
+----
+
+Section: 4
+
+----
+
+Text: A decayed market town, situated half a mile to our left. The spire of its church was partially destroyed by lightening in 1850.
+
+----
+
+Uuid: xWXQFou5al1cXzCI

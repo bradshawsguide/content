@@ -1,0 +1,27 @@
+Title: Luton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 15,320.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+Another town of straw plaiters. The Gothic church, built of chalk and flints, deserves notice. *Luton Hoo*, the fine seat of the Leighs. *Hoo* or *Hoe* means hill, and Luton *Lea Town*, probably from being at the source of the Lea; *Ivinghoe* lies among the hills. *Ashridge*, seat of Earl Ellesmere.
+
+----
+
+Uuid: aHGcrKKTtg9rEX0T

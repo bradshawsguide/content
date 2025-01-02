@@ -1,0 +1,34 @@
+Title: Bishop's Stortford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,673.
+-
+  term: Hotels
+  desc: Railway, George.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: October 11th, Holy Thursday, and Thursday after Trinity Sunday.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A small market town in Hertfordshire, placed on the side of a hill, near the western borders of Essex. The streets are disposed in the form of a cross, with two long streets intersecting each other at right angles. Though no particular manufacture is carried on here, yet the town is respectable and populous. Seated in the midst of a corn country, it is remarkable for the number of its malthouses, and for the quantity of malt annually made here. The church, dedicated to St. Michael, is a large lofty structure, standing on the highest ground in the neighbourhood, and contains many monuments. Here Bonner roasted a martyr, on Goose Green. In the vicinity are *Euston*, seat of Viscount Mayrard, and *Dunmow*, famous for the gammon of bacon gifts to married people, who have lived in peace 366 days.
+
+----
+
+Uuid: xbdzMXkeJjzVD8C8

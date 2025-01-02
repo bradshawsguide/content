@@ -1,0 +1,33 @@
+Title: Thetford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Bell.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: May 14th, August 2nd, December 9th and 25th, and Holy Thursday.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A market town, the ancient capital of East Anglia, with a population of 4,208, who return two members, situated at the junction of the Ouse and the Thet. The principal part of Thetford is in Norfolk, but a small part is in Suffolk. The part which is situated in tho latter county is now very small; but on the Norfolk side there are several good streets, and of late years the town has much improved in its general appearance. Remains of its former splendour are noticeable. King's or John of Gaunt's Palace, remains of Bigod's Priory, where several noble families were interred, St. Sepulchre's Gate, Chapel of Canute's Nunnery, St. Peter's dark flint Church, the Guildhall, and Castle Hall, 100 feet high, should be visited. In the vicinity is *Euston Park*, the seat of the Duke of Grafton. The celebrated Tom Paine was a native.
+
+----
+
+Uuid: etlqsOSrjpV9GLJ8

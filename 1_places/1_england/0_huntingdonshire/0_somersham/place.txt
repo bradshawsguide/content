@@ -1,0 +1,34 @@
+Title: Somersham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,621.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fairs
+  desc: June 22nd, and Friday before November 12th.
+
+----
+
+Notes:
+
+Distance from station, ½ mile.
+A telegraph station.
+
+----
+
+Text: The church is a spacious and noble edifice, containing several ancient brasses and monuments. The chancel is supposed to be of the time of Henry III.
+
+----
+
+Uuid: MTdBE7FC1y7xO3xx

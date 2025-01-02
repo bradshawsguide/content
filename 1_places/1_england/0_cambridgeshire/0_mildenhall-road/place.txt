@@ -1,0 +1,39 @@
+Title: Mildenhall Road
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,046.
+-
+  term: Hotels
+  desc: Bell; White Hart.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fair
+  desc: October 10th.
+
+----
+
+Notes:
+
+Distance from station, 8½ miles.
+Telegraph station at Ely, 7 Miles.
+
+----
+
+Text:
+
+In the vicinity is *Mildenhall House*, seat of Sir H. Bunbury, Bart., and which belonged to Speaker Hammer. The Church is timber-roofed, with tombs of the Norths, whose old seat is here.
+
+----
+
+Uuid: AzdhAbmJE4g6Mz8j

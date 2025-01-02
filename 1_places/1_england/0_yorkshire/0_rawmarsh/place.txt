@@ -1,0 +1,25 @@
+Title: Rawmarsh
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,374.
+
+----
+
+Notes: Telegraph station at Masborough, 2 miles.
+
+----
+
+Text: Near to this station is Earl Fitzwilliam's seat, *Wentworth House*, a noble pile, 600 feet long. Among other pictures is contained Vandyke's Lord Straftord, one of his most striking portraits--the famous but ill-requited statesman, of Charles I.'s time. In the grounds stands the *Rockingham Mausoleum*, 90 feet high, with busts of Burke, Fox, and other leading Whigs of the last century. Coal is abundant all around here; and is sent by rail to London, &c.
+
+----
+
+Uuid: SOni9fBLl1DkNQcD

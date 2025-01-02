@@ -1,0 +1,30 @@
+Title: Ware
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 5,002.
+-
+  term: Hotel
+  desc: Saracen's Head (here is shown the "Bed of Ware," of carved oak, 12 fet square, dated, 1460).
+-
+  term: Market Days
+  desc: Tuesdays and Mondays.
+-
+  term: Fairs
+  desc: Last Tuesday in April, and Tuesday before September 21st.
+
+----
+
+Text: This is a market town in the county of Hertford, built on the banks of the river Lea. It originally contained two ecclesiastical edifices, of which, however, but few traces remain. The old church, with a timbered roof, has an old font and brasses, one to Ellen Cock, dated 1450 (the oldest Arabic date in England); and effigies of D. Amory, Clure, Bouchier, and Fanshaw, the poet, and Dr. Mead, who died in 1652, aged 118 years. Here a tournament was held in 1242, at which the Earl of Pembroke was killed. It contains about 75 malt houses, and is the largest malting district in England. In the vicinity are *Ware Priory*, Mrs. Hadeley. *Ware Park*, W. Parker, Esq; and *Ware Hill House*, Major Ware. At Amwell, is a small island, with a monument to Sir Hugh Myddleton, who finished the New River in 1613. In the church are buried, Reed, the editor of Shakspeare. Scott, the Quaker poet, lived at Amwell Place. Izaak Walton and Hoole lived here.
+
+----
+
+Uuid: 13zdeH2qvtSrO9FK

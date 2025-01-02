@@ -1,0 +1,37 @@
+Title: Keighley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 15,005.
+-
+  term: Hotel
+  desc: Devonshire Arms at Bingley, 3¼ miles.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: May 8th and November 7th.
+
+----
+
+Notes:
+
+Distance from station, 1 mile.
+Telegraph station.
+
+----
+
+Text: In the church is an antique tombstone, and a curious clock.
+
+----
+
+Uuid: WrOIlImWhTjBCdsD

@@ -1,0 +1,41 @@
+Title: Brandon
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,203.
+-
+  term: Hotel
+  desc: Chequers.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fairs
+  desc: February 11th, Monday before Easter, July 5th, and November 16th.
+
+----
+
+Notes:
+
+Distance from station, ¼ mile.
+A telegraph station.
+
+----
+
+Text:
+
+This place formerly supplied Government with gun flints. Lord Mayor Eyre, who built Leadenhall Market, was a native.
+
+In the vicinity are *Brandon Park*, seat of E. Bliss, Esq.; *Backenham House*, Lord Petre's; *Merton*, Lord Walsingham's, in the Elizabethan style, &c.
+
+----
+
+Uuid: 2LofAcjQADgTF7jR

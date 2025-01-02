@@ -1,0 +1,28 @@
+Title: Willington
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,330.
+-
+  term: Money Order Office
+  desc: at Burton, 4½, miles.
+
+----
+
+Text:
+
+The village of Repton, one mile to our left, across the Trent, is one of the most ancient places in the county, and supposed to have been a Roman station. The remains of an old priory of the 12th century may be seen.
+
+About two miles beyond Willington we approach the river Dove, on crossing which we ot once enter the county of Stafford, pass the Burton junction of the North Stafford line, and enter the town of Burton-on-Trent.
+
+----
+
+Uuid: AFeCUvZvkgCRT1cj

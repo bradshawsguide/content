@@ -1,0 +1,31 @@
+Title: Wisbeach
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Rose and Crown.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Saturday and Monday before Palm Sunday, Monday before Whit Sunday, July 25th, August 1st and 2nd.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Wisbeach) is half a port, with a population of 9,276, though some distance inland up the Ouse, and possesses an old *church*, half Norman, as well as the *Rose Inn*, which under the sign of the Horn, existed in 1475. Archbishop Herring, and Clarkson, the coadjutor of Wilberforce, against the slave trade, were educated at the Grammar School. The benefice is worth nearly £1,800. Godwin, the author of "Political Justice," was a native.
+
+----
+
+Uuid: 9oY9A7afsOxN6A4C

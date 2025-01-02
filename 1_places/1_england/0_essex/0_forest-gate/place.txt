@@ -1,0 +1,27 @@
+Title: Forest Gate
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Stratford, 1¼ mile.
+
+----
+
+Notes: Telegraph station at Stratford, 1¼ mile.
+
+----
+
+Text:
+
+In the vicinity are *Epping Forest*, *Wanstead Park* (the deserted seat of the Tylney Poles), the *Infant Orphan Asylum*, *Lake House* (where Hood wrote his "Tylney Hall," in 1834), and the *Whitechapel School of Industry*.
+
+----
+
+Uuid: BIFdU04fTYQJpmKk

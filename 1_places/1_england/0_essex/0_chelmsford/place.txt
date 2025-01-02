@@ -1,0 +1,43 @@
+Title: Chelmsford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Bell, Greyhound, White Hart, Saracen's Head.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Races
+  desc: In August.
+-
+  term: Fairs
+  desc: May 12th and November 12th.
+-
+  term: Bankers
+  desc: Sparrow and Co.; Branch of the London and County Bank.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Chelmsford).--A market, assize, and sessions town in Essex, of which it is the capital, with a population of 5,513. It is built in a beautiful valley between the rivers Chelmer and Can. The town contains shire hall, county room, with basement for corn exchange (in which it carries on a large trade), county gaol, house of correction, theatre, and Edward VI.'s Grammar School (at which Holland, a native, who translated Camden with one pen, Dr. Dee the astrologer, Sir W. Mildmay, and Plume were scholars), several handsome buildings, and has been greatly improved of late years. In St. Mary's are monuments of the Mildmays, who possess the manor from Queen Elizabeth.
+
+In an open space adjoining the *Town Hall* stands an ancient conduit, of a quadrangular form, and about fifteen feet high, which is built of stone and brick, with a pipe from each of the four bridges, opposite to which is Lord Chief Justice Tindal's (a native) monument. There is a considerable thoroughfare through this town, as the great east London road passes through it.
+
+In the vicinity are *Writtle*, seat of the Conyers; *Pleshy Castle*, that of the ancient High Constables ot England; *Danbury Church*, near a camp; the new palace of the Bishop of Rochester; *Boreham House*; *New Hall Nunnery*, with its Gothic chapel; *Hatfeld Priory*, seat of P. Wright, Esq., &c.
+
+----
+
+Uuid: JOiMBBzO8rsCNhb7

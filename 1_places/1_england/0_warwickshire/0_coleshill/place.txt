@@ -1,0 +1,38 @@
+Title: Coleshill
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,053.
+-
+  term: Hotel
+  desc: The Swan.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: Shrove Monday, May 6th, Wednesday after Michaelmas.
+
+----
+
+Notes:
+
+- Telegraph station at Whitacre Junction, 2 miles.
+
+----
+
+Text:
+
+The church has a fine crocketted spire, and tombs of the Cliftons and Digbys. *Coleshill Park*, the seat of Earl Digby, and *Coleshill  House*, the seat of Captain A. Adderley, are close at hand.
+
+----
+
+Uuid: POXXthz9nZGBtDis

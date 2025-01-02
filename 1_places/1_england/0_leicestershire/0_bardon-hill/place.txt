@@ -1,0 +1,32 @@
+Title: Bardon Hill
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Birch Tree.
+
+----
+
+Notes:
+
+- Telegraph station at Leicester, 14½ miles.
+- Distance from station, 1 mile.
+
+----
+
+Text:
+
+Bardon Hill, a peak of the Charnwood Forest group, 853 ft. high, should be ascended, for the remarkable panorama it commands of the centre of England; where, being little elevated, the prospect from this point takes in a vast circle of 60 or 80 miles radius; and if the weather be favourable you may see the *Peak Hills*, the *Wrekin* in Shropshire, *Lincoln Cathedral*, *Malvern Hills*, the *Dunstable*, in Derbyshire, the *Sugar Loaf*, in Monmouthshire, &c. Some one has calculated that as much as one-fourth of England is brought within this range of view. A monastery of St. Bernard was built near this in 1845.
+
+Hard basalt (like lava) stone for edge tools; slate and coal are quarried in Charnwood Forest, now a wild, naked tract, belonging to the Marquis of Hastings.
+
+----
+
+Uuid: xuxayJvGB45lKnzj

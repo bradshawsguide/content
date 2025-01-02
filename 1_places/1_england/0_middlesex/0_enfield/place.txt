@@ -1,0 +1,32 @@
+Title: Enfield
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 12,424.
+-
+  term: Hotel
+  desc: Enfield Arms.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Enfield) is a market town in the county of Middlesex. It contains part of an ancient royal palace, in which Edward IV. held his court before he removed to London. Enfield was formerly celebrated on account of its Chase, which comprised a large tract of woodland well stocked with deer, but during the civil wars it was stripped of both game and timber. It was deforested in 1779.
+
+The environs of Enfield are exceedingly pretty, and the scenery quite picturesque. The church is a fine building which has undergone many repairs. It contains brasses of the 14th century, of the Smith's, Earl Tiptoft's wife, Lord Roos, Raynton, and Stringers. Charles Lamb is buried here. At Enfield House (a school), are remains of Queen Elizabeth's Palace. In the vicinity are *Forty Hall*, built by Inigo Jones, *Trent Place*, R. Bevan, Esq, *Beech Hill*, A Paris, Esq, *South Lodge* (willed to the great Lord Chatham), *East Lodge*, *West Lodge*. Gough, the antiquary, lived and died here. Jeffreys lived at Durant. *White Webbs House* was frequented by the Gunpowder Plotters. At *Camlet Moats* Dick Turpin lived. At *Enfield Wash* lived the notorious perjurer, Eliza Canning, tried 1753. A visit should be made to the Government Arms Factory, and order for which must be previously obtained from the Ordnance Office, London. *Elsynge Hall*, where Edward IV. held is court, which was visited by Queen Elizabeth, and given by her to the Cesils, was near Forty Hall.
+
+----
+
+Uuid: AnRVcNBrF1HjuNeF

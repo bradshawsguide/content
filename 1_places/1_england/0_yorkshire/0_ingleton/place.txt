@@ -1,0 +1,15 @@
+Title: Ingleton
+
+----
+
+Section: 4
+
+----
+
+Text:
+
+Situated on the river Creta, at the foot of *Ingleton Fall* and *Ingleborough*. Here are the *Yordas* and other romantic caves, in limestone, of the moors; and at *Thornton Scar*, which is 300 feet high, there is a *waterfall*, 90 feet down. *Ingleborough*, which is best ascended on this side, is green to its summit, which is usually clouded in mist, but when the weather is clear, there is a splendid view over Lancashire and Cumberland and the sea beyond.
+
+----
+
+Uuid: fACNc7QQjCr7jKI8

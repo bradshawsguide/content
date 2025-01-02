@@ -1,0 +1,38 @@
+Title: Swaffham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Crown.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: May 12th, July 21st, and November 3rd.
+
+----
+
+Notes:
+
+Distance from station, ¼ mile.
+A telegraph station.
+
+----
+
+Text:
+
+This town, noted for its butter market, has a population of 2,974, is situated on an eminence, and consists of four principal streets. The parish church, which is the finest in the neighbourhood, is a large edifice in the form of a cross, and consists of a nave with two aisles, a chancel, and two transept chapels. It contains several monuments, a roof of finely carved oak, and a library. Here are also several meeting houses, an assembly room, theatre, house of correction, &c. Races are held annually on an extensive heath, to the south of the town; and coursing matches are not unfrequent on the same ground.
+
+In the vicinity are the following seats, *Pickenham Hall*, Wm. Chute, Esq; and *Necton*, Col. Mason.
+
+----
+
+Uuid: AAEmsMOUxxJo9fxx

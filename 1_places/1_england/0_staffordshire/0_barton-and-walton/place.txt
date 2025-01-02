@@ -1,0 +1,31 @@
+Title: Barton and Walton
+
+----
+
+Subtitle: Barton-under-Needwood
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: of Barton, 1,589.
+
+----
+
+Notes:
+
+- Telegraph station at Burton, 4 miles.
+
+----
+
+Text: In the vicinity are *Wichnor Park*, J. Levett, Esq., and *Walton Hall*, Mrs. M. Gisborne.
+
+----
+
+Uuid: 35mACQBENt8QYOy5

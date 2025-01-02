@@ -2,10 +2,42 @@ Title: Stamford
 
 ----
 
-Section:
+Section: 4
 
-- 3
-- 4
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Stamford Arms, Crown.
+-
+  term: Market Days
+  desc: Monday and Friday.
+-
+  term: Fairs
+  desc: Tuesday before February 13th, Mondays before Mid Lent and May 12th, Mid Lent Monday, Monday after Corpus Christi, August 3rd and November 8th.
+-
+  term: Races
+  desc: at Wittering in July.
+-
+  term: Bankers
+  desc: Eaton, Cayley and Co.; Northamptonshire Banking Co.; Stamford, Spalding, and Boston Banking Co.
+
+----
+
+Notes:
+
+- Distance from station, ¼ mile.
+- A telegraph station.
+
+----
+
+Text:
+
+(smcp: Stamford) is an ancient borough town, in the county of Lincoln, with a population of 8,047, who return two members. It is pleasantly situated on the banks of the Welland river, and bordering the counties of Rutland and Northampton. It is a town of great antiquity, being a place or considerable importance in the time of the Danes and the Saxons. The appearance of the town, when seen from a distance, is remarkably picturesque, many of the old buildings being grouped together with the towers and steeples of the neighbouring churches, the principal of which are *St. Mary's*, *St. Martin's*, *St. George's*, *All Saints'*, and *St. John's*. They are handsome edifices, and the latter one contains the ashes of Richard Cecil and his wife, the immediate progenitors of Lord Burleigh.
+
+There is also a splendid monument to the memory of William Cecil, Baron Burleigh, one to Daniel Lambert, the fat man, who was 9½ feet in girth, and several others, well worthy of attention. The charitable institutions in this town are both numerous and well endowed; there are also many handsome public edifices, among which we may mention the *Theatre*, *Assembly Rooms*, the *Town Hall*, &c. Here Hengist routed the Picts, and Alfred allowed the Danes to live. In the vicinity is *Burleigh House*, the Marquis of Exeter's.
 
 ----
 

@@ -1,0 +1,34 @@
+Title: Kelvedon
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,741.
+-
+  term: Hotel
+  desc: Star and Fleece.
+-
+  term: Fair
+  desc: Easter Monday.
+
+----
+
+Notes:
+
+Distance from station, 2 miles.
+A telegraph station.
+
+----
+
+Text: In the vicinity are *Kelvedon Hall*, seat of W. Wright, Esg., with a magnificent prospect; *Felix Hall*, T. B. Western, Esq.; *Coggeshall*, with its ruins of a priory; *Layer Marney* (with the old brick gate,) Q. Dick, Esq.
+
+----
+
+Uuid: TZKNn5ONFQPjRU1L

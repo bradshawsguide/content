@@ -1,0 +1,40 @@
+Title: St. Ives
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,321.
+-
+  term: Hotels
+  desc: Golden Lion, Unicorn.
+-
+  term: Market Day
+  desc: Monday.
+-
+  term: Fairs
+  desc: Whit Monday and October 10th.
+-
+  term: Bankers
+  desc: E. and C. F. and G. E. Forster; Rust and Veaseys; Branch of London and County Bank.
+
+----
+
+Notes:
+
+Distance from station, ¼ mile.
+A telegraph station.
+
+----
+
+Text: Here is a Gothic bridge, which crosses the Ouse, and supports an old Chapel, a Spire, Church, and Priory, called Stépé founded in 1017. In the vicinity is Hemingford Abbots, the birth place of the "Three Graces," the Miss Gunnings, who married respectively the Duke of Argyle, Earl of Coventry, and an Irish gentleman.
+
+----
+
+Uuid: BzDYeKpbnmesacPW

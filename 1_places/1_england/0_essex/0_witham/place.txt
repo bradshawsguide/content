@@ -1,0 +1,36 @@
+Title: Witham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,455.
+-
+  term: Hotel
+  desc: White Hart.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: Friday and Saturday in Whit-Week.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+In the church are Roman bricks, and effigies of Judge Heathcote, and the spire is fine later English. In the vicinity are *Witham Lodge*, W. Luard, Esq., at which George II. and Queen Charlotte visited on their tour to Hanover. *Faulkborne Hall*, J. Bullock, Esq. *Tiptree Heath*, on which is Alderman Mechi's celebrated model farming establishment.
+
+----
+
+Uuid: u3RAG8Gqr2SX5prl

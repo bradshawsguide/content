@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Formartine and Buchan Railway
+
+----
+
 Company: companies/great-north-of-scotland
 
 ----
@@ -34,6 +38,12 @@ Stops:
 - stations/lonmay
 - stations/rathen
 - stations/fraserburgh
+
+----
+
+Links:
+
+- (wikipedia: Formartine_and_Buchan_Railway)
 
 ----
 

@@ -44,8 +44,8 @@ Stops:
 
 Links:
 
-- (wikipedia: Oswestry_and_Newtown_Railway text:Oswestry and Newtown Railway)
-- (wikipedia: Newtown_and_Machynlleth_Railway text: Newtown and Machynlleth Railway)
+- (wikipedia: Oswestry_and_Newtown_Railway)
+- (wikipedia: Newtown_and_Machynlleth_Railway)
 
 ----
 

@@ -17,20 +17,26 @@ Company: companies/lancashire-and-yorkshire
 Stops:
 
 - stations/bolton-trinity-street
-- - stations/the-oaks
-  - stations/bromley-cross
-  - stations/chapel-town
-  - stations/entwistle
-  - stations/sough
-  - stations/over-darwen
-  - stations/lower-darwen
-  - stations/blackburn
-  - stations/daisy-field
-  - stations/wilpshire
-  - stations/langho
-  - stations/whalley
-  - stations/clitheroe
-  - stations/chatburn
+- stations/the-oaks
+- stations/bromley-cross
+- stations/chapel-town
+- stations/entwistle
+- stations/sough
+- stations/over-darwen
+- stations/lower-darwen
+- stations/blackburn
+- stations/daisy-field
+- stations/wilpshire
+- stations/langho
+- stations/whalley
+- stations/clitheroe
+- stations/chatburn
+
+----
+
+Links:
+
+- (wikipedia: Ribble_Valley_line)
 
 ----
 

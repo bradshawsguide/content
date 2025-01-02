@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Banff, Macduff and Turriff Junction Railway
+
+----
+
 Company: companies/great-north-of-scotland
 
 ----
@@ -21,6 +25,12 @@ Stops:
 - stations/plaidy
 - stations/king-edward
 - stations/banff-bridge
+
+----
+
+Links:
+
+- (wikipedia: Banff,_Macduff_and_Turriff_Junction_Railway)
 
 ----
 

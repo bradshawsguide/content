@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: Trent Valley Line
+
+----
+
 Company: companies/london-and-north-western
 
 ----
@@ -25,6 +29,12 @@ Stops:
 - stations/rugeley
 - stations/colwich
 - stations/stafford
+
+----
+
+Links:
+
+- (wikipedia: Trent_Valley_line)
 
 ----
 

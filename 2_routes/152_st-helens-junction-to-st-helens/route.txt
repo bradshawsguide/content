@@ -6,6 +6,10 @@ Section: 3
 
 ----
 
+Subtitle: St. Helens Railway
+
+----
+
 Company: companies/london-and-north-western
 
 ----
@@ -22,6 +26,12 @@ Stops:
 - stations/rainford-junction
 - stations/blague-gate
 - stations/ormskirk
+
+----
+
+Links:
+
+- (wikipedia: St_Helens_and_Runcorn_Gap_Railway)
 
 ----
 

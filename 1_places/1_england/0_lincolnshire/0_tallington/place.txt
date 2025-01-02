@@ -1,0 +1,25 @@
+Title: Tallington
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Market Deeping, 3½ miles.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: *Stamford, four miles distant*. In the vicinity are *Burleigh House*, the beautiful seat of the Marquis of Exeter, built by the celebrated Lord Burleigh; *Casewich*, Sir J. Trollope, Bart., M.P.; *Market Deeping* (the church is ancient); *Bourn*, with an old church. The Lord Treasurer was a native. Roman pavements have been discovered here.
+
+----
+
+Uuid: umzdjzxgbwc77ngn

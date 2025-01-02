@@ -2,4 +2,8 @@ Title: Essex
 
 ----
 
+Text: A maritime county, bounded on the north by Suffolk and Cambridgeshire, on the west by the counties of Hertford and Middlesex, on the south by the river Thames, and on the east by the sea. Essex composes part of that tract of country on the eastern side of England, which forms the largest connected space of level ground in the whole island; not one lofty eminence or rocky ridge being found in several contiguous counties. The surface of Essex is not, however, totally flat, having many gentle hills and dales; and towards the north-west, from which nearly all the rivers proceed, the country rises, and presents a continued inequality. The coast is broken into a series of islets and peninsulas, deeply cut in by arms of the sea. Extensive salt marshes border most of it, the greater part of which is protected by embankment.
+
+----
+
 Uuid: 5uFqtcOfZzG0BAcl

@@ -1,0 +1,31 @@
+Title: Retford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: White Hart.
+-
+  term: Bankers
+  desc: Sir W. B. Cooke and Co.; Nottingham and Notts Banking Company.
+
+----
+
+Notes:
+
+- Distance from station, ¼ mile.
+- A telegraph station.
+
+----
+
+Text: (smcp: Retford), a borough town in the county of Nottingham, population 47,330 (two members returned), is pleasantly situated on the banks of the river Idle. Properly speaking, Retford consists of two towns, east and west Retford, so called from their situation on each side the river, but as they are united by a substantial bridge they constitute for all local purposes but one town. The principal edifices are the Corporation Church, Town Hall, St. Michael's Church, a Free Grammar School, just erected, and Dorrell's Hospital. The trade carried on by the inhabitants is very small, but they manufacture hats, sail-cloth, and paper, in considerable quantities. The Chesterfield canal from the Trent has been of great advantage to the trade of the town. In the vicinity is *Grove Hall*, the Herby's old seat.
+
+----
+
+Uuid: hn9nqsr4dn0awejf

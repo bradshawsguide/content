@@ -1,0 +1,31 @@
+Title: Whatstandwell Bridge
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: Matlock Bath, 3¾ miles
+
+----
+
+Notes:
+
+- Telegraph station at Ambergate, 2¼ miles.
+
+----
+
+Text:
+
+To our left are the noble woods of Alderwasley, in which is situated the beautiful seat of F. Hurt. Esq., and two miles beyond, *Wirksworth* an ancient market town, and seat of the lend trade; here is kept. the miner's standard dish for the ore. The church is of the fourteenth century, and contains some interesting monuments. The Grammar School as founded by Gell in the 16th century. About a mile to our right lies the small market town of *Crich*, on a limestone hill, the church forming a very conspicuous object. A modern tower near it commands a magnificent view.
+
+And now, with the appearance of a dwelling-house planted on the top of a masoned tunnel, the great and increased beauty of the scenery may be said to commence. The valley narrows, and as you pass over the chaste metal bridge which crosses the Derwent, and approach the south entrance to the Lea Wood tunnel, the view around and in front is exquisitely grand. Nearly on the top of the hill you see nestled the picturesque spot of *Lea Hurst*, the residence of Miss Florence Nightingale. A metal aqueduct for the canal here crosses the rail. On emerging from the Lea Wood tunnel, at the north end, the country appears to open out a little more, and you pass Lea Valley and manufactories to the right, and the highly cultivated rich pastures (belonging to P. Arkwright, Esq.) to the left. There, also, is the terminus of the High Peak Railway, an object of great curiosity, from its numerous inclined planes, and the manner in which it is worked by stationary engines and endless chains.
+
+----
+
+Uuid: TForczbZPLCnxW8D

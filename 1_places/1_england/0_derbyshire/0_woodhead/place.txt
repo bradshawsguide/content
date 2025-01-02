@@ -1,0 +1,28 @@
+Title: Woodhead
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Glossop, 7 miles.
+
+----
+
+Notes:
+
+- Distance from station, 1 mile.
+- Telegraph station at Hadfield, 6½ miles.
+
+----
+
+Text: Here are large *Reservoirs* for Manchester, occupying 150 acres; close by is the famous tunnel 943 feet above the sea, 5,192 yards long, the extremity of which is in Yorkshire; to construct which it occupied 1,500 men two years, and took 157 tons of gunpowder in blasting the rock.
+
+----
+
+Uuid: krkta3hl3om2ydu7

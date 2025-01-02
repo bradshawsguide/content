@@ -1,0 +1,37 @@
+Title: Pontefract
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 11,736.
+-
+  term: Hotels
+  desc: Red Lion, Dragon.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Every other Saturday after York Fair, 20 days Fair, beginning 20th day after Christmas, Saturday after February 13th, April Sth, May 4th, Saturday before Palm, Low, and Whit Sundays, Saturday after September 12th, and 1st Saturday in December.
+-
+  term: Races
+  desc: First week in August.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Pontefract), so called because of a broken bridge, near which is the keep of the Lacys' Castle, in which Richard II. was starved to death in 1899. Archbishop Scrope, executed by Henry IV.; Earls Rivers and Grey, by Richard III.; and the Duke of Orleans and other French prisoners were confined here after the battle of Agincourt. Here is a large old Gothic church, with a line picture of the crucifixion. Archbishop Bramhall, and Lund, the barber poet, were natives. Liquorice cakes are made here, the root being grown in the fields around Ackworth. Here the Quakers have an excellent school, in a healthy spot. Edward Sixth's Grammar School and Waterloo Pillar.
+
+----
+
+Uuid: 1dz3gucob2bonhcr

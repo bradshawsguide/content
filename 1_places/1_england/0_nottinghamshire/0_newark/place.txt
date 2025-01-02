@@ -1,0 +1,47 @@
+Title: Newark
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Clinton Arms, family and commercial, and posting house.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: May 14th, Whit Tuesday, August 2nd, Wednesday before October 2nd, November 1st and Monday before December 12th.
+-
+  term: Bankers
+  desc: Godfrey and Riddell; Handley, Peacock, and Handley; Nottinghamshire Banking Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A fine old town of *Nottinghamshire*, with a population of 11,515, who return two members.
+
+The Roman Fosseway and a bend of the Trent run through it, the latter being partly formed by the Devon. It was called *New-wark*, or new work, before the Conquest. In behalf of Charles I. it made a stout and successful resistance to the parliament forces, who besieged it three times, and battered a church dow. The chief strength of the town lay in the *Castle*, the picturesque ruins of which still hang over the river. They consist only of the broken walls, having on the river or north front, between two towers, a noble bay window, which lit the hall. The crypt beneath the interior (now a bowling green) was counted with cannon in the civil war, when embrasures were cut in the wall. Alexander, bishop of Lincoln in Stephen's time, built the castle, and most of it is of that early date. Here King John died, in 1216, after losing his baggage, &c., in the Wash. The breath had hardly left his body before the servants about him made off with what they could carry, not leaving as much as would cover his dead carcase. Close to the castle is the brick bridge, built by the Newcastle family about a hundred year back. There is another bridge or causeway
+outside the tows, for raising the road above the marshes.
+
+The fine parish Church of *St, Mary*, near the Market Place, is a noble cross, rebuilt in the later Gothic style in place of an earlier one, of which the Norman base of the tall spire is a remnant. The apostles stand in niches round the spire, and they are also carved on the shaft of the font. Most of the spouts, &c., end in grotesque heads. The tower is light, and the tracery of the windows elegant and good; several of which are stained. A carved screen fronts the choir, at the end of which is the "Raising of Lazarus" by Hilton, Besides the arms of neighbouring families there is a curious brass, under a three-arched canopy in the south transept of Alan Flemynge, the supposed founder of the church; he has curly har, coat, mantle, sleeves buttoned at the wristbands, and pointed boots; the date, 1361. The interior has been recently restored, under the superintendence of Mr. Scott, and is now one of the finest parish churches in the kingdom.
+
+A *Grammar School* founded in Henry VIII.'s reign with a "song" (choral) school attached, is near the church; Here Bishop Warburton, who was born at Newark, in 1698, and Stechelly the antiquary were educated. There are many old houses in the large *Market Place* which had the later Gothic cross in the middle which now stands in the *Town Hall*, built in 1805, on a rustic basement; and a handsome Corn Exchange, built in 1849, by Duesbury, in the Italian style; it is St feet long, with a clock tower, and a glass roof. Newark is a great place for corn, and malting, for which kilns are seen everywhere. One large brewery is in *Northgate Street*, so called from the old town gate, which remains here. There is another in Appletongate, near the site of an old friary, now the Sykes's seat.
+
+A little lace is made here; and at Beacon Hill gypsum is quarried, which makes excellent stucco. Arderno the surgeon, Lightfoot the Hebrew scholar, and Hartley the metaphysician, Drs. White and Bishop Magnus were natives.
+
+In the neighbourhood are *Kelham Hall*, seat of J. Manners Sutton, Esq. *Muskham Grange*, J Handler, Esq., an old building of the 17th century. *Ossington*, J. Denison, Esq. At *Rufford House*, near Ollerton, the seat of Mr. Lumley, is some Elizabethan work, with family portraits, &c. It was the site of a priory.
+
+----
+
+Uuid: gkhbwcfzkoh8gytu

@@ -1,0 +1,28 @@
+Title: Attleborough
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,221.
+-
+  term: Hotels
+  desc: New.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: The Church is a half Norman Cross. This was the seat of the Anglian Monarchs. In the vicinity are the seat of Sir W. B. Smyth, Bart., *St. Andrew's Hall*; Sir F. Baring, Bart. *Derpham*, at which was a lime 90 feet high and 48 in girth, &c.
+
+----
+
+Uuid: FrFsadOxAJcO7N8P

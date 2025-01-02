@@ -1,0 +1,31 @@
+Title: Galashiels
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Bridge Inn; Commercial; Victoria; Railway.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: Third Wednesday in March, July 8th, and October 10th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A considerable trade in the manufacture of tartan and tweed cloths is here carried on. A tine church, three chapels, ten woollen mills, brewery, large tan yards, library, grammar school; close to which was the Hunting Tower of the Scottish Kings. Close at hand are Mugget Hill, Gala Water, Allan Water (*the Glendeary of the Monastery*), Lauder, Cowdenknowes, with its vitrified fort, and Ashestiel, where Scott wrote his *Marmion*.
+
+----
+
+Uuid: jc9xojqfilzoh1nx

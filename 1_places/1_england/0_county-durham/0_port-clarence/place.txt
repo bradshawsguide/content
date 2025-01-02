@@ -1,0 +1,17 @@
+Title: Port Clarence
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This is a port for the shipping of coal, and is gradually becoming of importance.
+
+----
+
+Uuid: usih292tlhbesdul

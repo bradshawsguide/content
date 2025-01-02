@@ -6,4 +6,55 @@ Section: 4
 
 ----
 
+Info:
+
+-
+  term: Hotel
+  desc: The Midland, Family and Commercial. It is gratifying to be able to refer to an establishment like this, which deservedly enjoys the highest reputation. It possesses all the comforts of a home, and there is no lack of the spirit necessary to provide to the fullest extent everything which can recommend it to its patrons. It is conducted in the most able manner by Mr. F. H. Plock, and it may claim to rank amongst the first hotels in England. If further commendation were needed, we may add that the utmost politeness and economy may be anticipated. It is also very convenient to travellers wishing to view this interesting portion of the country, for from it, Elvaston Castle, the seat of the Earl of Harrington, Kedlestone Park, the seat of Lord Scarsdale, and Alton Towers, with their beautiful grounds may be visited. The latter claim especial notice, and will amply repay the time and trouble of visiting them. Carriages may be secured at the Hotel.
+-
+  term: Market Days
+  desc: Tuesday and Friday.
+-
+  term: Fairs
+  desc: Monday after January 6th, March 3rd and 21st, Easter Friday, Friday after May 1st, Whit-Friday, July 25th, September 19th and 27th, and October 4th.
+-
+  term: Bankers
+  desc: Derby and Derbyshire Bank; W. and S. Evans; Sam. Smith and Co.; Crompton and Co.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+(smcp: Derby) takes its name from Derwent-by, the town of the Derwent, the capital of Derbyshire, and a borough with a population of 13,091, represented by two members. There was a Roman station called *Derventio* not far off, at Little Chester. The Conqueror gave it, with nearly the whole county, to William Peveril, "Peveril of the Peak;" and in modern times it was the point at which Charles Stuart and his Highlanders, in their famous march towards London, despairing of help from the English Jacobites, turned back to the north, The neighbourhood is fertile and somewhat hilly.
+
+Derby is the chief depôt of the Midland Company, having, besides its splendid station 1,050 feet long, large engine and carriage sheds, workshops, &c., some nearly 200 feet in length. The Engine House is a 16-sided polygon, 134 feet across, with a conical roof.
+
+In the large Market Place on the south-side is the *Town Hall*, a handsome building, restored in 1842, with a rustic base, carvings in relief, and clock tower.
+
+One of the most conspicuous objects is the beautiful tower of *All Saints*, built in Henry VII's reign, in a rich florid Gothic style, with buttresses and pinnacles; the low square body is a miserable addition of Gibb's in the last century. Within are the Cavendish tombs and a fine screen.
+
+The Gothic spire of St. *Alkmund's* New Church is 205 feet high; and the tower of *St. Mary's* Roman Catholic Church, by Pugin, deserves notice. *St. Peter's* is the oldest here.
+
+The new *Athenœum* and *Post Office* are in the Corn Market. An excellent *Infirmary* was four ded in 1806. The *County Asylum*, by Duesbury, is in the Elizabethan style.
+
+A large *County Prison*. A Lecture Hall at the *Mechanics Institute*, where an industrial exhibition was held, in 1839; and a well stocked *Museum*, open from ten to four, at the Philosophical Society, first established by Dr. Darwin. Various manufactures are carried on here, the most flourishing being silk, stockings, ribbons, tape, cotton, and porcelain.
+
+Derby was the place where the *first Silk Mill* in England was built in 1718, by Lombe; it is now occupied by Mr. Taylor. Both it and the Strutts' cotton mill, by the river side, are on a large scale. There are about twenty-five silk mills at present. At tripods, columns, &c., are seen, besides slotting sed rolling mills. Hall's fluor spar, and black marble works, are open from eight to six. The porcelain factory; Holme's carriage factory, and Cox & Co.'s shot tower may be noticed.
+
+Not far from the station is the new *Arboretum* of 16 acres, laid out in 1840, by Loudon, given to the town by Joseph Strutt, Esq, the brother of Lord Belper,--a noble gift, estimated at £10,000. It contains four Elizabethan lodges, besides arbours, a great variety of shrubs and trees, and is open gratis on Wednesday and Saturday; other days 6d.
+
+Wright, "of Derby," the painter, and Richardson, the novelist, were natives, 1734.
+
+From the central situation of Derby, it is often selected by Tourists as their head quarters, whence they branch off in excursions to Chatsworth, Had-don Hall (to be seen every Friday), Hardwick, Dovedale, Matlock Baths, Alton Towers Garden; ali very beautiful places.
+
+In the neighbourhood are *Chaddesden*, seat of Sir H. Wilmot, Bart.; *Kedlestone Hall*, the noble seat of Lord Scars-dale, with fine picture gallery, grounds, spa, sc. *Breadsall Priory*, where Dr. Darwin lived and died; *Markeaton Hall*, W. Mundy, Esq., and other seats.
+
+----
+
 Uuid: S3IykCCcapQBghSI

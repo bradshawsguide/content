@@ -1,0 +1,31 @@
+Title: Tattershall
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: Friday after May 4, and 14, September 25.
+-
+  term: Money Order Office
+  desc: at Coningsby, 5½ miles.
+
+----
+
+Notes: Telegraph station at Kirkstead, 3½ miles.
+
+----
+
+Text: In its ruined yet beautiful church is a brass to Sir R. Cromwell, the ruins of whose castle (built in 1440) is close at hand, with its well preserved keep, 100 feet high. In the vicinity are *Scrivelsby*, seat of the hereditary champion of England, Sir H. Dymoke, whose family tomb is at Horncastle, so famous for its August horse fair; *Hooseholme Priory*, Earl of Winchelsea, and Sleaford, with its spire church and handsome cross.
+
+----
+
+Uuid: bnxejp6saezccxcy

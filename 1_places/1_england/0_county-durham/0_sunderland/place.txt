@@ -1,0 +1,38 @@
+Title: Sunderland
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Brook's Palatine, Commercial Hotel, near the Railway Station; Bridge; George.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: May 4th and 13th, October 3rd and 12th.
+-
+  term: Bankers
+  desc: W.H. Lambton and Co.; Newcastle and Shields Union Bank; Branch of Newcastle Union Bank; Branch of Northumberland and Durham District Bank.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A borough town and sea port, with a population of 85,797, who return two members, in the county of Durham, situated near the mouth of the Wear. The High Street is spacious, and tolerably handsome, especially the central part, which rises with considerable ascent. Some of the other streets are narrow and dirty; but of late years the general appearance of the town has improved. The harbour is formed by two piers, on the south and north sides of the river. The iron bridge consists of an arch of iron frame-work, thrown over the river, 287 feet span, and rising 100 feet above the level of the water, so that ships of 400 tons can sail under it, by striking the top-gallant masts. The manufactures are chiefly of flint and bottle glass, earthenware and copperas. Coal is the staple article, one million tons being exported annually, and ship building is carried on to a great extent.
+
+The harbour is formed by a north pier, 1,990 feet, and south pier, 1,850 feet long, with fixed lights, but up in 1780 and 1802. "In 1841 the north lighthouse, of stone, was moved bodily 500 feet from its old place by that skilful engineer, Murray." The new docks were opened in 1850. They contain 18 acres, and will hold 300 vessels. There is a self-registering tide gauge, by Meek and Watson, which shews the height by day or night.
+
+----
+
+Uuid: irtdqf0eb9lwa64k

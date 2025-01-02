@@ -1,0 +1,31 @@
+Title: Harleston
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: July 5th and 6th, and September 9th and 10th, for stock and pedlary.
+-
+  term: Races
+  desc: in August.
+
+----
+
+Notes: Telegraph station at Tivetshall, 3¾ miles.
+
+----
+
+Text: Situated on the river Waveney, population about 1,302, engaged in the bombazine trade.
+
+----
+
+Uuid: dz69yczsymbfwdwq

@@ -1,0 +1,31 @@
+Title: Heywood
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 12,824.
+-
+  term: Hotel
+  desc: Queen Anne.
+-
+  term: Money Order Office
+  desc: ""
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Here are large cotton and woollen mills. In the vicinity is *Bamford Hall*, a fine old seat of J. Fenton, Esq.
+
+----
+
+Uuid: fjzghiz8ishsqhjc

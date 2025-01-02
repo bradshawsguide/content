@@ -1,0 +1,31 @@
+Title: Whittlesea
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,496.
+-
+  term: Hotel
+  desc: Falcon.
+
+----
+
+Notes:
+
+Distance from station, ¼ mile.
+A telegraph station.
+
+----
+
+Text: General Sir Harry Smith, the hero of Aliwal, was a native. In the vicinity are *Thorn Island*, and the ruins of a Saxon Abbey, founded in 602, and *Thorney Abbey*, seat of T. Wing, Esq.
+
+----
+
+Uuid: ydahM2m146mhHeXM

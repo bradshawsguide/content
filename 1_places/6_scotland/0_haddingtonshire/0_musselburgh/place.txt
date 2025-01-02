@@ -1,0 +1,31 @@
+Title: Musselburgh
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Musselburgh Arms.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fair
+  desc: 2nd Tuesday in October.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This burgh and bathing place contains a fine church, five chapels, library, bathing establishments, masonic lodge, on the site of which Randolph died in 1322, Grammar School, Lunatic Asylum, Sailors' Society, founded in 1669. An old bridge with a drawbridge in the middle, and Rennie's five-arched bridge. In the vicinity are *Pinkie House*, Sir J: Hope, Bart., Fisherow, a Roman station, Sheriff Hall, with its remains of a camp, the Links, on which in 1774, a golf club played for a silver cup, Huntley met the Covenanters in 1638, Cromwell encamped in 1650, and where the Edinburgh races are held. J. Burnet, the engraver, and Ritchie, the sculptor, are natives.
+
+----
+
+Uuid: pupcj6cpazk6vhqa

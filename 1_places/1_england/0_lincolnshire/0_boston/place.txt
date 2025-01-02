@@ -1,0 +1,34 @@
+Title: Boston
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Peacock; White Hart; Refreshment Room at station.
+-
+  term: Market Days
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: May 4th and 5th, August 11th, November 30th, and December 11th.
+-
+  term: Bankers
+  desc: Boston Banking Company.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Boston) is a borough and port in Lincolnshire, on the Witham, near the Wash, with a population of 14,712, who return two members. About 8,500 tons of shipping belong to this port, which has declined from its ancient standing, through the silting of the river. Wheat is exported, and hemp, timber, and other Baltic produce, besides oilcake from Holland, imported. Old John Foxe, the martyrologist, and Dimond, a blind calculator, were born here. Its namesake, one of the most polished towns in the United States, was founded by a company of settlers from this place, who fled thither for conscience sake about 1630 (to turn persecutors themselves). One of the beautiful churches so common in Lincolnshire is to be seen here, close to the river; it is a noble Gothic pile of the 13th century, lately restored, 245 feet long by 100 broad, with a splendid tower 300 feet high, ascended by 365 steps, and surmounted by an eight-sided lantern, rising far above everything for many miles round. In some respects this is copied from Antwerp cathedral, and there is also here a copy of Rubens's famous picture, the "Descent from the Cross," which adorns that building. The church is dedicated to *St. Botolph*, the patron of seamen (from which the name of the town, weaning Botolph's Town was derived); it has been beautifully restored within these few years, and stained glass put in some of its 52 windows. The *Wesleyan Centenary Chapel* contains an immense oi-zan, by Gray, with 2,490 pipes, and 49 stops. There are two old brick towers, called *Hussey* and *Kyme*, remaining; the latter stands 2 miles north of Boston. An iron bridge, 8t feet span, crosses the river. At the free grammar school, founded in 155t, Stukeley the antiquarian was educated. Within a few miles are *Tattershall Castle*, an old brick tower, 100 feet high, *Bolingbrole Castle* (5 miles beyond Langrick Ferry), where Henry IV., son of John of Gaunt, was born.
+
+----
+
+Uuid: a2thktx1t2ilmimv

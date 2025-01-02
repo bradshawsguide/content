@@ -1,0 +1,17 @@
+Title: Loughton
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A small town near the river Roding. Loughton Hall, remarkable as being the residence of Queen Anne, is in the vicinity.
+
+----
+
+Uuid: AFzSl8pEXK6ryi3e

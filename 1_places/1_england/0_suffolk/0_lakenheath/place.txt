@@ -1,0 +1,31 @@
+Title: Lakenheath
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,797.
+-
+  term: Money Order Office
+  desc: at Brandon, 3¾ miles.
+
+----
+
+Notes:
+
+Distance from station, 2 miles.
+Telegraph station at Brandon, 3¾ miles.
+
+----
+
+Text: Here we leave the fen country and enter upon a wooded and picturesque district. *Lakenheath Hall*, the seat of R. Eagle, Esq.
+
+----
+
+Uuid: DBss7wkUEdvAK7pp

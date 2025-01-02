@@ -1,0 +1,41 @@
+Title: Royston
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,882.
+-
+  term: Hotel
+  desc: Bull.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: Ash Wednesday, Easter Wednesday, Whit Wednesday, first Wednesday in July, and first Wednesday after October 10th.
+
+----
+
+Notes:
+
+- Distance from station, ¾ mile.
+- Telegraph station at Hitchin, 12¾ miles.
+
+----
+
+Text:
+
+This market town, in the county of Hertford, is pleasantly situated in a valley, among the chalk downs of Hertford, on the borders of Cambridge-shire, and crossed in the lower part by the celebrated Roman road called the Icknield Way.
+
+Royston is chiefly supported by its corn trade. The old *Priory Church*, and remains of King James I.'s hunting box, where his favourite, Carr, was arrested for killing Sir T. Overbury, are worth notice. In the vicinity are *Kneezworth*, Sir C. Nightingale's, Bart., and *Wimpole*, Lord Hardwicke's, at which are Titian's portraits of Loyola and Raphael.
+
+----
+
+Uuid: yj9wlkedxkhsntxi

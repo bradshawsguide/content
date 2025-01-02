@@ -1,0 +1,28 @@
+Title: Halstead
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fairs
+  desc: May 6th, and October 29th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: It has a population of 5,707, employed mainly in the manufacture of silk velvet, and straw plait. It has several churches, and other places of worship; also, a market house, collegiate Institution, &c., &c.
+
+----
+
+Uuid: zXVkLcGj65IzA5RD

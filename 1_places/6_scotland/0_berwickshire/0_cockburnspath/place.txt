@@ -1,0 +1,17 @@
+Title: Cockburnspath
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: So called after a resident named Coldbrandspath. Close at hand is *Dunglas*, the seat of Sir J. Hall, Bart., the old seat of the Homes and Douglases, which ras visited by James VI. in 1603 and 1617. Over the Peath there is a bridge built in 1786, about 123 feet high and 300 long, near to which is *Fast Castle* and the remains of camps, the original of Sir W. Scott's "Master of Ravenswood."
+
+----
+
+Uuid: zibnaaaq8eecmesb

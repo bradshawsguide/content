@@ -1,0 +1,27 @@
+Title: Wigston
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,521
+
+----
+
+Notes:
+
+- Telegraph station at Leicester, 3½ miles.
+
+----
+
+Text: *Wigston Hall*, Captain Baddenly. Near it is an old moated manorial seat of the Davenports.
+
+----
+
+Uuid: HSKAdzuLcjm1Rnlx

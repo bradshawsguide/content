@@ -1,0 +1,34 @@
+Title: Welwyn
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,612.
+-
+  term: Hotel
+  desc: White Hart.
+
+----
+
+Notes:
+
+- Distance from station, 1¼ mile.
+- A telegraph station
+
+----
+
+Text:
+
+(smcp: Welwyn) is remarkable as having been the residence of Dr. Young, the author of "Night Thoughts," and rector, who gave a Bowling Green and Assembly Rooms to the parish, he died here in 1755, and lies buried in the church.
+A short distance farther on is *Panshunger Park*, which is extremely beautiful. It belongs to the Earl Cowper, who permits the most free access to the park and grounds, and also to his picture gallery. In the private garden stands the famous oak, "Sylva Britannica," remarkable for its size, symmetry, and grandeur of appearance.
+
+----
+
+Uuid: utg2r4ngq5ulmsse

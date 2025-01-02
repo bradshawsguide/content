@@ -1,0 +1,29 @@
+Title: Eskbank
+
+----
+
+Subtitle: (for Dalkeith)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Dalkeith, ¾ mile.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Three quarters of a mile distant is *Dalkeith Palace*, the magnificent seat of the Duke of Buccleugh.
+
+----
+
+Uuid: ltvqzgdpydxccuwo

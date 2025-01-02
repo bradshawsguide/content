@@ -6,4 +6,31 @@ Section: 4
 
 ----
 
+Info:
+
+-
+  term: Population
+  desc: 13,671.
+-
+  term: Hotels
+  desc: Queen's, George.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fares
+  desc: February 5th, April 5th, Holy Thursday, July 16th, October 29th.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text: This great seat of Sir John Barleycorn is on the Staffordshire side of the Trent. A very ancient bridge crosses the river to the Derbyshire side, straggling through 1,545 feet, on thirty-seven arches. There was a chapel at one end, built in 1322, by by Edward II., to commemorate the defeat of Lancaster; and there is still an old mill on the site of that mentioned in Domesday Book, founded in 1004, In that record the town is called *Byrtune*, and it had been an Abbey, some fragments of which may be traced on the river near the modern church. The Marquis of Anglesey is Lord of the Manor. Aass, Allsopp, Worthington (besides nine or ten others) are the chief ale kings here, and acres covered with barrels and casks may be seen. Vast quantities of pale ale are exported to tropical climates, and drunk by thirsty souls at home as a tonic. Contrary to common usage, the brewers, in preparing it, employ hard instead of soft water. Cotton and hardware are also manufactured here. *Drakelow House*, Sir T. Gresley, Bart., is near. miles To the north-west, five by rail, is the gate and other remains of *Tutbury Castle*, overhanging the Dove, in which the military chest of Lancaster was fished up in 1831, supposed to have been dropped by him when flying from his sovereign. He was caught at Pomfret and beheaded. Here John of Gaunt kept his court, appointed a king of the minstrels, whose successors retain office in the present day, and Mary, Queen of Scots, was a prisoner for some years. Isaac Hawkins Browne, the poet, was born here in 1760. The front of the old Norman church deserves notice.
+
+----
+
 Uuid: xxIDiOiuVbOTIWuA

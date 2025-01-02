@@ -1,0 +1,34 @@
+Title: Blackburn
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Bull.
+-
+  term: Market Days
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: Easter Week, from the 1st to 12th May, October 17th.
+-
+  term: Bankers
+  desc: Cunliffes, Brooks and Co.; Branch of Manchester and Liverpool District Bank.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A borough town in Lancashire (returning two members), on the river Darwen, with a population of 63,126, employed in the cotton trade, Here is a gymnasium, erected by Messrs. Hornby and Kenworthy, for their workpeople. In the 17th century it was noted for its checks (a mixture of linen and cotton), and unbleached "greys;" but cottons, calicoes, and muslins are now the staple articles. The invention of the spinning jenny, by Hargreaves, who was a carpenter here, and the introduction of cotton printing, by the Peels, have mainly contributed to its improvement. A little cloth is woven. The scenery is flat and uninteresting. *St. Mary's* large parish church was built in 1826, close to the tower of the old building. Queen Elizabeth's Grammar School, at which Bolton, a native, and compiler of the *Liturgy*, was a scholar. *Witton Park*, tho seat of J. Fielden, Esq., is near Billinge Hill, 633 feet high, at the end of the Yorkshire hills, whence you get a viet of the Cumberland and Welsh mountains, *Stonyhurst*, is a Tudor built College for Roman Catholics, at which 180 students are received.
+
+----
+
+Uuid: vxc5jgsoiai7rura

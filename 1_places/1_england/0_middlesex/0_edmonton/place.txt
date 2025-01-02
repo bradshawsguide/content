@@ -1,0 +1,31 @@
+Title: Edmonton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 10,930.
+-
+  term: Hotels
+  desc: Bell (Johnny Gilpin's famous Inn); Angel.
+-
+  term: Fairs
+  desc: St Giles' and Ascension Days, at Beggar's Bush.
+
+----
+
+Notes: Telegraph station at Angle Road Junction, 1 mile.
+
+----
+
+Text: Lord Burleigh, President Bradshaw, Drs. Fothergill and Taylor (a native), resided here. In the vicinity are *Culland's Grove*, Sir W. Curtis, Bart. *Pymmes*, *Theobalds*, *Bury Hall*, and *Bush Hill Park* (here are some of Gibbon's carving).
+
+----
+
+Uuid: xZk9OoLGjEqQgc3x

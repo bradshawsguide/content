@@ -1,0 +1,25 @@
+Title: Portobello
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Commercial; Crown.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This place has gradually increased since a sailor, who was at the capture of Porto Bello in 1739, built & residence here; it now contains six chapels, bank, baths, Union Hall, glass, soap, brick, and pottery works, paper mill, and various schools. It is one of the principal watering places on the east coast of Scotland. In 1822 George the Fourth held a review on the sands, which extend about a mile in length. Fishwives' Causeway, leading to Edinburgh an old Roman road.
+
+----
+
+Uuid: aoovqiyqxl6e4el7

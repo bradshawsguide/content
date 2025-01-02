@@ -1,0 +1,27 @@
+Title: Syston Junction
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,656.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text: In the vicinity are *Wanlip Hall*, Sir G. Palmer, Bart.; *Barkley Hall*, W. Pochin, Esq.; *Rothley Temple*, seat of the Babingtons.
+
+----
+
+Uuid: QYUktr4rt2tyVx1n

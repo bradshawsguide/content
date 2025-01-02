@@ -1,0 +1,28 @@
+Title: Market Rasen
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,468.
+-
+  term: Hotel
+  desc: White Hart.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Here is an old hospital, and curious embattled towered church, whose vicar takes tithe of ale. Close at hand is *Middle Rasen Drak*, bestowed upon Sir J. Burlingthorpe, "for reclaiming the land." In the vicinity are *Willingham House*, A. Beucherett, Esg., *Bayons Manor*, Right hon. C. D'Eyncourt, with its ancient moat and drawbridge.
+
+----
+
+Uuid: kk7ws38pdbv37uch

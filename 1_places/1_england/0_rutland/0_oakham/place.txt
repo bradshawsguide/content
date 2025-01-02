@@ -1,0 +1,44 @@
+Title: Oakham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Crown.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: March 15th, April 8th, May 6th, September 9th, November 19th, December 15th, Saturday after October 10th, and Saturday after Whitsuntide.
+-
+  term: Bankers
+  desc: Eaton, Cayley, and Co.; Branch of the Stamford, Spalding, aud Boston Banking Company.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+This little capital of the least of English shires (Rutland) contains an agricultural population of 2,948.
+
+Besides the county courts, there is a well-endowed *Grammar School* and *Hospital* for 100 boys, founded by Archdeacon Johnson just after the Reformation, the income of which amounts to the handsome sum of £3,000. There are 40 university exhibitions attached to it, and on this account it is much sought after. The *Shire Hall* stands within the ruined walls of the old *Castle*, founded by the Ferrers family soon after the Conquest. Over the gate are several gilded *horse-shoes*, with the names of noblemen by whom they have been given, it being quite an immemorial custom to ask every peer who visits the town for one, or else to pay a fine. Three horse shoes figure in the arms of the Ferrers, and one from George IV. when Regent.
+
+There are some large seats in the neighbourhood. *Burley House*, Earl of Winchelsea, is a large Grecian building, from which you may obtain a prospect of the whole county. The former seat (destroyed in the civil war) belonged to the Duke of Buckingham, or "Steenie," who here entertained his "dad and gossip," James I., with a masque got up by Ben Jonson, and afterwards received "babie Charles," on which occasion Geoffrey Hudson, the Oakham dwarf, was served up in a great pasty. The little fellow was then seven years old. and only 18 inches high; but he lived to be 3½ feet high, and to kill his man in a duel, on horseback, as Sir Walter Scott makes him relate with so much emphasis in "Peveril of the Peak." His opponent came out armed with a large squirt.
+
+The Finches of Burley divide the manor of Oakham with the Dean of Westminster; the two shares being called the Lord's and the Dean's. *Exton Park*, the Elizabethan seat of the Earl of Gainsborough, was once the property of David of Huntingdon (who succeeded to the Scottish throne), and Robert Bruce, till he forfeited it by asserting the independence of his country. There are many monuments, banners, and other memorials of the Noel and Harrington families. *Normanton*, seat of Sir G. Heathcote, Bart. *Belvoir Castle*, the Duke of Rutland's seat, described elsewhere.
+
+----
+
+Uuid: aXJSgpgUvP1jAoDa

@@ -1,0 +1,73 @@
+Title: Scarborough
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 18,377.
+-
+  term: Hotels
+  desc: The Royal, for families and gentlemen; Crown, for families and gentlemen; Millhouses' Commercial and Family; Bull Inn, family and commercial.
+-
+  term: Market Days
+  desc: Thursday and Saturday.
+-
+  term: Fairs
+  desc: Holy Thursday, and November 22.
+-
+  term: Races
+  desc: In September.
+-
+  term: Bankers
+  desc: Woodall and Co.; Branch of York City and County Banking Co.
+
+----
+
+Notes:
+
+- Distance from station, 1 mile.
+- A telegraph station.
+
+----
+
+Text:
+
+(smcp: Scarrorough) is undoubtedly the most interesting marine spa in England. With the advantages of mineral springs it combines those of a convenient sea-bathing shore, and on the land side it is surrounded by numerous objects of attraction, to which either roads, or footpaths over moors and dales, offer a ready access to visitors. Of its origin we have no satisfactory information, but its name has been most probably derived from the Saxon *Scear*, a rock, and *Burgh*, a fortified place.
+
+No mention of it occurs in the Norman survey, but in the reign of Stephen ire hear of the castle being erected, and doubtless that fortress soon became the nucleus of the town. Its situation is extremely beautiful and romantic, being in the recess of a fine open bay, on the coast of the North sea, and the town consists of several spacious streets of handsome tell-built houses, rising in successive tiers from the shore, in the form of an amphitheatre; the beach, of firm and smooth sand, slopes down gradually to the sea, and affords at all times that commodious open sea-bathing for which the place is so deservedly celebrated.
+
+From Robin Hood's Bay, northward, to Flamborough Head, southward, there are thirty-three miles of coast, which may be inspected at low water, over a course of the finest sands in England, and which, with their caverns and promontories, rugged fissures and precipitous elevations, form a geological panorama of the greatest interest. Flamborough Head, with its lofty cliffs of nearly five hundred feet elevation, teeming in the spring and summer months with thousands of birds of every hue and species, and exhibiting  yawning caverns of stupendous size--that called "Robin Lyth Hole," being peculiarly noticeable--is of itself a promontory of unusual grandeur, and would be alone worth a pilgrimage from town. Not far distant either is Rievaulx Abbey, the beautiful ruins of which are presumed to indicate the first Cistercian monastery founded in Yorkshire, and which, in their magnificence of decay, are only surpassed by the famous Fountain's Abbey, that may be also brought within the compass of a summer day's ramble. In short, let the sojourn he ever so brief, the visitor will hence carry away with him a store of many memories of beauty, to which remembrance will afterwards recur with delight. To begin with one of these celebrities:—
+
+A fine terrace, one hundred feet above the level of the sands, forms a delightful marine promenade. The dissevered cliffs are connected by a handsome iron bridge of four arches, on stone pillars, in the chasm between which runs the stream called Millbeck. This bold undertaking, to afford facility of access to the spas, was completed in 1827, and its opening day was signalised by a bold charioteer, who, with four well-trained steeds in hand, drove a coach across the yet untested structure, amidst the acclamations of myriads, who covered the adjoining buildings and surrounding hills, all swarming with cager faces, intent on the hazardous performance of what appeared so perilous a feat. This bridge, which is one of the principal ornaments of the town, is 414 feet in length and 75 feet in height, whilst the floor of the bridge is 14 wide, formed of transverse planks, and protected by an iron railing along each side. This airy fabric affords a view remarkably bold and striking, and far away beneath are the fine broad sands of the shore, where the Scarborough races are held, and where, says Dr. Granville, in his happiest graphic vein, "what at one hour was the estuary of living waters, murmuring in successive bow-like waves towards the foot of the cliffs, becomes in the next hour, upon that occasion, the course-ground and the theatre of the equestrian as well as pedestrian display of man's skill and animal's agility." The view of the horse-races from a place suspended in the air, and at such an immense altitude as this, is a sight only enjoyed, perhaps, by the people of Scarborough and the visitors to the spa; for the cliff-bridge may be well described, on such an occasion, as the grandest stand of any in the world. Adjoining is the Museum, an elegant circular build-ing, for the display chiefly of British geological specimens, though possessing a fine collection besides of other rare and interesting objects, among which the skeleton of an ancient Briton and his oak-tree coffin, supposed to be 2,000 years old, will be found particularly attractive: the teeth are all perfect, and the skeleton would appear to have been preserved by the *tannin*, found dissolved by the water which had penetrated into the coffin. A very moderate monthly subscription will entitle the visitor to admission to the Museum, and as a pleasant lounge, fraught with interest and instruction. it may be considered a valuable addition to the general attractions of the town.
+
+The mineral springs of Scarborough have been, for more than two centuries, held in the very highest repute. These springs are saline chalybeates, varying in the proportions of their several ingredients, and were for some time lost by the sinking, in 1737 of a large mass of the cliff; but, after a diligent search, they were recovered. The principal are the West and South Wells, situated at the base of the cliff south of the town, near the sea-shore, where a convenient building has been erected for the accommodation of visitors. The water of the south well contains 28 ounces, and that of the north well 100 ounces of carbonic acid gas in a gallon; the former is purgative, and the latter tonic. An elegant saloon in the building affords an opportunity for exercise in rainy weather; and being lighted by several windows facing the sea, the visitor has an opportunity of enjoying various picturesque views of the sea and coast. In a small sunken court, paved with flagstones, and surrounded by stone walls are the lion-mouthed spouts from which the water is continually pouring-the excess passing away through a small stone basin; and the substitution of this plan for the pumping up process usually adopted, imparts a zest and a freshness to the draught that invalids can thoroughly appreciate.
+
+Fronting the sea are some neat houses, let as lodgings, and called the "Marine Houses;" they have a small adjoining building for cold and warm baths--the sea, at spring tides, reaching to nearly the threshold of its garden front. A lofty and sloping bank, from 150 to 200 feet high, thickly covered with shrubs and trees, rises hence, and goes to join the cliff bridge, in a southern direction, like a crescent bower. On the brow of this green embankment stand many of the best houses, with a south or southwestern aspect; and, on the sands below, a file of thirty of forty bathing machines, ranged on their broad wheels, stand ready for use. The gradual declivity of the shore, the softness of the sand, and the peculiar transparency and purity of the returning tide upon these open bays, render sea-bathing here not only perfectly safe, but absolutely luxurious. The town is supplied with fresh mater by means of a reservoir holding 4,000 hogsheads, and being derived from land-springs is somewhat hard, but clear and wholesome to the eye and palate--an advantage few watering-places possess.
+
+The harbour, easy of access, and safe and commodious within, is protected by two piers; one of them having been found insufficient to prevent the accumulation of sand, a new one was constructed, designed by Smeaton, the celebrated engineer. The breadth of its foundation is sixty feet; and at the curvature, where it is most subject to the action of the waves, sixty-three feet; it is forty feet high, and 1,200 feet in length.
+
+The church, dedicated to St. Mary, was anciently the conventual church of the Cistercian Monastery, and was formerly a spacious and magnificent cruciform building, with three noble towers; it sustained considerable damage in the siege of the castle in the time of the Parliamentary war, and retains but few portions of its ancient character: the present steeple stands at the easter end. Christ Church, a handsome edifice in the later style of English architecture, was erected in 1828, at a cost of £8,000. Other places of worship, and numerous hospitals and infirmaries, are scattered through the town. To the north of St. Sepulchre's Street are the remains of a Franciscan convent, supposed to have been founded about the 29th of Henry III., and now used as a workshop.
+
+The season may be reckoned to begin on the first of July, and terminate about the middle of October. During this period, houses and apartments can only De had at high prices; but, after the latter date, a residence may be obtained at half the amount. The railway, as in other instances, has materially increased the influx of visitors, and now new streets are being rapidly formed, to provide additional houses for their reception. By a walk to the summit of Mount Oliver, or Oliver's Mount, from a tradition connected with Oliver Cromwell, a most superb panorama of land and water is to be enjoyed from a terrace 600 feet above the ocean, and these, together with excursions to the environs, which include much picturesque scenery, form the especial attractions of the strangers.
+
+The climate of Scarborough is considered by Dr. Granville to be extremely favourable, and the longevity of the inhabitants over those of other parts of Yorkshire is fully established. From its exposure on the east coast a mistaken notion is entertained by many that winds in an easterly direction must be of longer continuance at Scarborough than elsewhere; but this experience has shown to be an unnecessary fear. The mean average temperature in the month of January was found to be higher by six degrees than at York, four degrees than in London, and only two degrees less than at Torquay, In respect of climate, therefore, this "Queen of Watering Places" affords immense advantages to invalids in the northern counties, who are unable to endure the fatigue of long journeys; and it is seldom that the sanitary effects of the sojourn, and the potent curative agency of the spas, are without their due influence in promoting and perfecting a return to health.
+
+We now advert to the first object that strikes the eye of the visitor as he enters the town, but which we hare reserved to the last, in order to give it that fullness of detail which its venerable ruins warrant.
+
+Scarborough Castle crowns a precipitous rock, whose eastern termination, which advances into the sea, rises about 300 feet above the waters. The principal part of the ancient castle now remaining stands at a considerable distance back from this bold and inaccessible front, but on ground which is nearly as elevated. It is a huge square tower, still nearly 100 feet high, but the walls of which show, by their ragged summit and other indications, that its original height must have been considerably greater. Each side is between fifty and sixty feet in length; but the walls being about twelve feet thick contract the space in the interior to only thirty feet square. This tower was probably the keep of the ancient Castle; and, as usual, has been preserved from destruction by its extraordinary solidity and strength. As this old feudal stronghold looks down upon the sea on one side, it has the town of Scarborough stretched below it, and around it on the other, and imparts a bold and romantic aspect to the eastern extremity of the town.
+
+The castle was built about the year 1136, by William, Earl of Albemarle, one of the most powerful of the old Norman nobility, and who was thus permitted by King Stephen to ensconce himself in the fortress, as a defence against the turbulent and but half-subdued inhabitants of the district. No situation could possibly have been chosen better adapted for defence; and, in the infancy of the art of warfare it must have been absolutely impregnable. Within the boundary of its walls was once comprised an area of twenty acres; and what was of the greatest importance to the besieged, a spring of excellent water, that never failed its supplies even in the driest summer.
+
+When Henry II. ascended the throne, the first act of his reign was the promulgation of an order that all the castles built in the reign of King Stephen should be dismantled and destroyed. The earl was therefore compelled to resign his fortress but when Henry, from a personal visit, became acquainted with its wondrous powers of defence, he acted on the proverbial superiority of second thoughts, and, taking possession of the structure, was so far from demolishing its walls that he increased its strength by adding new ones, and appointed as governors men of the highest rank, who were taught to regard the office as a reward and privilege, rather than mere employment.
+
+In 1666, George Fox, the founder of the "Society of Friends," was imprisoned in the castle, and in his Memoirs he speaks of three different rooms that he successively occupied. One of them faced the sea, and "laying much open, the wind drove in the rain forcibly, so that water came over his bed, and ran about the room, so that he was fain to skim it up with a platter." In enumerating the suffering and persecution that he unjustly endured, he states that a three-penny loaf lasted him three weeks, and that most of his drink was water with wormword steeped in it. In the rebellion of 1774, the castle was, for political purposes, put into temporary repair; and three batteries have since been erected for the protection of the town and harbour. None can view this relic of the olden time without a feeling of intense interest and delight; and the views of the sea through some of the old crumbling arches, afford fine subjects for the painter.
+
+----
+
+Uuid: ozd5gfwd4kfzjsrp

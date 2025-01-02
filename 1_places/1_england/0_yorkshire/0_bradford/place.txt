@@ -1,0 +1,45 @@
+Title: Bradford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Bowling Green, George, Sun, and Talbot.
+-
+  term: Cabs
+  desc: from the station and stands, 8d. per mile for two passengers, 1s. for more than two.
+-
+  term: Market Days
+  desc: Monday and Thursday.
+-
+  term: Fairs
+  desc: March 3, June 9 and 11, December 9 and 11.
+-
+  term: Bankers
+  desc: Harris and Co.; Bradford Banking Co.; Commercial Banking Co.; Branch of Yorkshire Banking Co.
+
+----
+
+Notes: Telegraph station at 9, Leeds Road; 55, Market Street; and Piccadilly.
+
+----
+
+Text:
+
+This great seat of the worsted trade, 11 miles from Leeds, is finely placed among the Yorkshire hills where three valleys and three branch rails meet, the Lancashire and Yorkshire, the Great Northern, and the Midland main line, traversing the valley down to the Aire. A parliamentary borough, returning two members. Population 106,218. One of the most beautiful spots in the picturesque scenery round Bradford is Shipley Valley on the Leeds line. Coal and iron are abundant; and the ironworks at Low Moor, Bowling, &c., are on a large scale; but the spinning and weaving of worsted form the staple branches of manufacture. Three centuries ago when Leland made his tour through England, as historiographer to Henry VIII., it "stood much by clothing," like its Wiltshire namesake, and for this it is still noted. About 12,000 hands are employed in 180 mills. St. Blaize, the patron saint of woolcombers, whose effigy is still preserved at Blayzey Church in Cornwall, is here daly honoured by a festival in February every seven years. Many of his successful votaries in Bradford started at first as journeymen weavers. By suggesting improvements in the machines under their charge, they have brought themselves into notice, and are now at the head of large concerns. Alpaca cloth from the wool of the South American Llama was first manufactured here.
+
+Woven stuffs are sold on Thursday and Monday, much of it is sold to Leeds and other buyers to be dyed. Most of the houses are of stone, roofed with brown slate. The Parish Church of *St. Peter* is a large later English building, with a monument by Flaxman. A new *Court House* has been lately erected, but the most striking building is *St. George's Music Hall*, by Lockwood and Mawson, opened in 1853. It is in the Italian style, supported by Corinthian columns and pilasters, 75 ft. high, and contains a fine hall 15 ft. by 76, calculated to hold 3,350 persons. The cost was £21,000.
+
+There are 54 places of worship here, of which 12 are Churches, and 24 Chapels. The Calvinistic Baptists have a *College* at Hurton, and at Airedale is one for Independents. Newsrooms in the *Exchange* and *Mechanics' Institution*. A Grammar School of Edward VI.'s time.
+
+*Bowling Hall*, the seat of W. Walker, Esq., is an old Elizabethan seat. *Tong Hall*, near Cutlar Height, seat of Col. Tempest. *Manningham House*, S. C. Lister Kay, Esq. *Horton House*, Mr. Thorpe. *Undercliffe Hall*, W. Garnett, Esq. Abraham Sharpe, the mathematician, was a native of Little Horton.
+
+----
+
+Uuid: 9Sxm6YdDOilJoVMc

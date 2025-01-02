@@ -1,0 +1,31 @@
+Title: Ingatestone
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Pater's Arms.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: 1st & 2nd December.
+
+----
+
+Notes: Telegraph station at Brentwood, 5½ miles.
+
+----
+
+Text: This town, which contains a population of 882, derives its name from Ing (a meadow) and alte (the Roman mill-stone). The church contains monuments and effigies of the Petre family, who formerly lived at their old seat, *Ingatestone Hall*. In the vicinity is *The Hyde*, seat of the Disneys, one of whom discovered at Blunt's Walls, near Billericay, the *Disney Antiquities*, placed in the Fitzwilliam Museum.
+
+----
+
+Uuid: Mb4xjR809eA7cKdT

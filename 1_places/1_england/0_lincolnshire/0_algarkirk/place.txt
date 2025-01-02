@@ -1,0 +1,32 @@
+Title: Algarkirk
+
+----
+
+Section: 4
+
+----
+
+Subtitle: (Sutterton)
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Boston, 6¾ miles.
+
+----
+
+Notes:
+
+- Distance from station, ¾ mile.
+- Telegraph station at Boston, 6¾ miles.
+
+----
+
+Text: This place derives its name from the Mercian chief, Algar, who lies buried here. The church is good, and contains tombs of the Berridges of *Algarkirk House*, an old seat of that family. In the vicinity are Sutterton and Swineshead churches, at the latter of which it is reported that a monk poisoned King John, after his escape, when crossing the Wash.
+
+----
+
+Uuid: x3ujtkki5qestaxc

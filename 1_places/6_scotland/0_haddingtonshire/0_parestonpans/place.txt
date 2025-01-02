@@ -1,0 +1,17 @@
+Title: Parestonpans
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This place was celebrated for the battle of that name, between Prince Charles Stuart and the Royalists under Sir John Cope, in which the latter was defeated, Sept. 21st, 1745. In its neighbourhood is *Tranent*, with its Church, rebuilt in 1828, containing the tomb of Col. Gardiner, who fell at the battle uf Prestonpans. In the vicinity is *Seton House*, rebuilt by Adam in 1790, on the old site close to the Collegiate Church, and *Falside Castle*, the Seton's seat, which was captured by Somerset on the day of Pinkie Battle.
+
+----
+
+Uuid: mczgsdiwn9xiuide

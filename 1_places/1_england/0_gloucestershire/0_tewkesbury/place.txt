@@ -1,0 +1,44 @@
+Title: Tewkesbury
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 5,876.
+-
+  term: Hotel
+  desc: Swan.
+-
+  term: Market Days
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: Second Monday in March, first Wednesday in April, May 14th, June 22nd, Sept. 4th, and Oct. 10th.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+This is an ancient town situated at the confluence of the Avon, the Carron, and the Swillgate with the Severn. There is a long many-arched bridge, said to have been built by King John. That which made the town so famous, however, was the monastery, founded by Odo and Dodo, two Saxon brothers; which, increasing in power and wealth, was one of the richest in England at the time of the Reformation, at which period the Abbey Church was made parochial, and so was saved the universal wreck. It is a large edifice, with nave, choir, and transept, with a fine central Norman tower. It contains wall paintings, monuments, and brasses of she De Spencers, the Nevils, Fitzhaman, Edward Prince of Wales, who was killed -- some say murdered -- at the battle in the neighbourhood, with other Plantagenets. There is also a monument, by Flaxman, of Lady Clarke. A part of the old cloisters with some beautiful tracery still remain.
+
+A place called to this day the "Bloody Meadow," was the site of that terrible battle in which Queen Margaret met so fearful a reverse. A little north of the town is *Mythe Toot*, an ancient encampment, from the summit of which the prospect is very striking, the course of the Severn being seen to great advantage, the prospect being backed by the majestic range of the *Malvern Hills*. In the vicinity are *Tewkesbury Lodge*, Rev. J. Shapland; *Forthampton Court*, two miles; *Pull Court*, 2¼ miles.
+
+The Severn, in the vicinity of Tewkesbury, is much esteemed for its salmon; the town itself for its nails, cotton lace, and mustard,--the latter even in Shakespeare's time; hence the old proverb--
+
+> As thick as Tewkesbury mustard.
+
+----
+
+Uuid: vQsrHsHYWiUHiGJY

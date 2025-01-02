@@ -1,0 +1,25 @@
+Title: Honley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Coach and Horses.
+
+----
+
+Notes: Telegraph station at Huddersfield, 3¼ miles.
+
+----
+
+Text: This place is the centre of the Woollen trade, and has a population of 4,626.
+
+----
+
+Uuid: h7bxjokymedhsrm3

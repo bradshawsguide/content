@@ -1,0 +1,35 @@
+Title: Maldon
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: King's Head.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: First Thursday in May, Whit-Tuesday, and September 13th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Maldon), or Malden Water, an ancient borough and market town in the county of Essex, population 6,261, situated on the estuary of the Blackwater. It consists of one principal street, extending nearly a mile from east to west, along Cross Street, and several back streets and lanes. The whole town has been much improved of late years. It contains an old Town Hall, built by Henry VI., Custom House, Barracks, Library (founded by Plume, a native, in 1680), Grammar School; and handsome baths have been erected, which attract numerous visitors during the bathing season. The principal church of All Saints is a large and ancient building, with an equilateral triangle tower. Maldon carries on a great coasting, and considerable foreign trade. The channel of Blackwater river forms a convenient haven for vessels of a moderate burden.
+
+Here Bright, the fat man of Maldon, lived and died, aged only 28 years, but weighing 14 stone, and it is stated that seven men could be buttoned into his waistcoat.
+
+----
+
+Uuid: ALVtbmRrZCYmDJ3d

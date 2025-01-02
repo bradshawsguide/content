@@ -10,9 +10,26 @@ Desc: The station here is a very pretty one, and within a few yards of the celeb
 
 ----
 
+Info:
+
+-
+  term: Population
+  desc: 1,877.
+-
+  term: Hotels
+  desc: "St. Anns. Old Hall; Wood's Eagle; Shakspear; Grove."
+
+----
+
+Notes: A telegraph station.
+
+----
+
 Text:
 
-The station here is a very pretty one, and within a few yards of the celebrated baths.
+(smcp: Buxton) is situated in the midst of one of the most picturesque parts of Derbyshire. The crescent is the principal building at Buxton. It was erected by the late Duke of Devonshire, and has three stories, the lowest of which forms a colonnade. The crescent, extending 257 feet, is chiefly occupied by the St. Ann's Hotel and family boarding-houses, in one of which is the public ball-room. Immediately opposite the hotel, and at the western angle of the hill, is St. Ann's Well, The spring has been in use for centuries. The mater is clear and tasteless, and possesses a stimulating property. There is a public bath for each sex, and two private plunge baths for gentlemen, and two for ladies. The temperature of the water at the spring is 82 degrees Fahrenheit. The slight sensation of chilliness experienced on first entering the bath is soon succeeded by an agreeable feeling of warmth, and on coming out, most persons find themselves refreshed and invigorated. Chronic gout and rheumatism are the principal disorders for which the course is usually taken. The bracing nature of the climate is, however, not the least efficacious of the remedial agents. The church, situated not far from the crescent, is neat and commodious. Opposite are the large stables of the Duke of Devonshire, built at a cost of £120,000.
+
+About a mile from Buxton is the cavern called *Pool's Hole*, a magnet sufficiently potent of itself to attract crowds of tourists. The various singular forms in the cave hare each their peculiar names; large stalactites are everywhere hanging from the root, and the water is continually rushing pas beside the feet of the spectators. Queen Mary's pillar, so called from a visit that unfortunate queen made to the cavern during her sojourn at Buxton, is a lofty column formed by nature to support the root, and is scratched with names innumerable. On account of the rapid transitions of temperature, and the bleakness of position, Buxton is more frequented during the summer months than at later periods of the year. Two miles from Buxton is the *Diamond Hill*, where the Buxton diamonds are found, and close by is a tower built by the Duke of Devonshire. There are various places in the vicinity that deserve a visit, such as *Chee Tor*, a huge mass of limestone rising above 300 feet perpendicular; *Cressbrook*; *Monsal Dale*; *Ashford*; *Axe Edge*; from which, in clear weather, the mountains of North Wales may be seen; and the *Ebbing Well*, situated five miles from Buxton, on the Castleton Road.
 
 ----
 

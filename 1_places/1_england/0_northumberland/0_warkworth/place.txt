@@ -1,0 +1,13 @@
+Title: Warkworth
+
+----
+
+Section: 4
+
+----
+
+Text: A village of considerable extent and of much beauty. On one side the sea approaches close to it, and the Coquet, which, of all British rivers, best deserves the epithet, *silvery*, winds so nearly round it from the other half as to form it into a peninsula. Here are fine ruins of a Norman Church. The castle was formerly of great note, being the residence of the Lords Percy when wardens of the marches, and from it many an order was issued which let havoc loose on the Scottish border. Nor were the wardens themselves allowed to remain here unmolested: one of the Earls of Northumberland wrote to the King and Council that he had dressed himself at midnight by the blaze of the neighbouring villages burnt by the Scottish marauders. Its remains are considerable, and the walls of many of the apartments, especially those of the banquet-room, are still perfect. At the hermitage hewn out of the cliff, which is about a mile from the castle, in a deep romantic valley, Dr. Percy (no relation to the Northumberland family), laid the scene of his popular poem, the "Hermit of Warkworth."
+
+----
+
+Uuid: qptusojiwnafqo8l

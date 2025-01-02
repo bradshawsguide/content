@@ -1,0 +1,40 @@
+Title: Sherburn
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,465.
+-
+  term: Hotel
+  desc: Red Bear.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fair
+  desc: September 25th.
+-
+  term: Money Order Office
+  desc: at Milford Junction, 2 miles.
+
+----
+
+Notes:
+
+- Distance from station, 1 mile.
+- Telegraph station at Milford Junction, 2 miles.
+
+----
+
+Text: Here the Archbishops of York had a palace and Athelstane a seat. From the church a fne view may be obtained. Teazel is grown in the neighbourhood, and it is celebrated for its wine and sour plums.
+
+----
+
+Uuid: ibdumufyhokxcgrh

@@ -1,0 +1,17 @@
+Title: Wells
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A small seaport town, having a spacious harbour, but not easy of access. Population, 3,098. Here is an oyster fishery. Corn and malt are shipped. Coals, timber, deals, bark, &c., &c., imported.
+
+----
+
+Uuid: StldCnEMCEtrlnpC

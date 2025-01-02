@@ -1,0 +1,34 @@
+Title: Leyburn
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 886.
+-
+  term: Hotel
+  desc: Bolton Arms.
+-
+  term: Fairs
+  desc: 2nd Friday in February, May, October, and December.
+-
+  term: Money Order Office
+  desc: at Bedale, 10 miles.
+
+----
+
+Notes: Telegraph station at Northallerton, 18 miles.
+
+----
+
+Text: A fine view is obtained from the terrace of rocks above this place, which extends a mile.
+
+----
+
+Uuid: e7jwjnhttij2nblk

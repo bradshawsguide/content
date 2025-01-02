@@ -1,0 +1,40 @@
+Title: Alnwick
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: White Swan, Black Swan, Star, Queen's Head.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Palm Sunday, May 12th, last Monday in July, 1st Tuesday in October, October 28th, Saturday before Christmas.
+
+----
+
+Notes:
+
+- Distance from station, ¼ mile.
+- A telegraph station.
+
+----
+
+Text:
+
+Alnwick, *i.e., Alnewick*, the town on the Alne, is a borough by prescription, having grown up under the protection of the Dukes of Northumberland, whose noble baronial castle covers a height over the river. Population, 5,670. The houses are of stone, and a handsome bridge of the same material crosses the stream. Formerly the town was surrounded by battlements, but these have disappeared, only the Bondgate, now used as a prison, remaining to show what its character was in feudal times. This gate was built by the famous Hotspur. Beside the old clock tower at: Pottingate, and the Percy column, there is a *Town Hall*, built in 1731, where the town freemen are entered after a curious ceremony. On St. Mark's day (25th April), candidates assemble in the Market place, girt with swords and on horseback; from hence they are conducted by the castle bailiff to the town moor, where they alight, and being dressed in white, they rush through a muddy pool called the Freeman's Well, King James, it seems, was bogged here on one occasion, and thereupon condemned them in the terms of his charter to undergo this delightful purification. All new members submit to it to this day, the pool being kept up to an efficient standard of filth for neophytes by the anxious zeal of those who had already passed through it. The Gothic *Parish Church* deserves notice. In *St. Paul's* is Carew's monument of the late Duke of Northumberland.
+
+*Alnwick Castle* was first built by the De Vescis at the Conquest, but coming to the Bishop of Durham, was granted in 1309 to the Percys, with the wardenship of the East Marches. It was in this capacity that Hotspur met Douglas at the battle of Chevy Chase, in 1338, where the latter was killed, and they have held the lordship ever since. As restored in the Gothic style, the castle walls enclose five acres, three courts, &c., and are surmounted by 16 towers and a pinnacle. The family chapel has a beautiful fan-tracery roof and ave cast windows; and among the sculpture is Gibson's *Piping Shepherd*, besides several of Zobel's marmotinto (or sand) paintings. In the large grounds are two pillars that mark where Malcolm of Scotland was killed in 1093, when besieging the castle, and William the Lion was taken prisoner, in 1172, upon a similar attempt. Here are remains of the De Veseis' Abbey, and Hulme Abbey, which was founded by a crusader, because the site reminded him of Mount Carmel. Bale, the historian, was a brother in this abbey. There is also the figure of a hermit. Brisley's pillar, 90 feet high, commands a fine view of the whole. Martin of Alnwick, and Bishop William of Alnwick were natives.
+
+*Algernon* is a favourite name in this ancient family, the founder of it, who came from Percy in Normandy, having been surnamed *Algernon*, or whiskered. Their pedigree is at Sion House, and is also on the walls of the chapel here. Richard de Percy was one of the barons who extorted the Magna Charta from King John. Henry, the first earl, and father of Hotspur, is the same who figures in Shakspeare's Henry IV. The ninth earl was grandfather to Algernon Sidney, the patriot. Upon the death of the eleventh Earl, without male issue (his daughter married the proud Duke of Somerset), the honours were claimed by one John Percy, a trunk-maker, whom the House of Lords were obliged to pillory in Westminster Hall, as "a false and impudent pretender to the title." The present peer is a Smithson by the father's side. The dowager duchess was governess to Queen Victoria.
+
+----
+
+Uuid: fu9brxmem8oqbz8j

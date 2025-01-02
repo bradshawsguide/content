@@ -1,0 +1,25 @@
+Title: Hucknall Torkard
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,836.
+
+----
+
+Notes: Telegraph station at Nottingham, 8½ miles.
+
+----
+
+Text: At this place, a village of stockingers, is the church (having a low square tower) in which Byron is buried, with many of his ancestors. Among them are Admiral Byron, or "Foulweather Jack," who sailed round the world.
+
+----
+
+Uuid: h9iNZYJPvDkRF3m1

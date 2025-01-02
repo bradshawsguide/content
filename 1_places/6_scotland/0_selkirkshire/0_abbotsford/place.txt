@@ -1,0 +1,31 @@
+Title: Abbotsford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: The Abbotsford.
+
+----
+
+Notes: Telegraph station at Galashiels, 2½ miles.
+
+----
+
+Text:
+
+(smcp: Abbotsford), 2 miles from Galashiels station, was the country seat of the great novelist and poet, Sir Walter Scott. This "romance in stone" is an irregular, though picturesque, Gothic pile, begun by Scott in 1816, and completed as fancy or convenience dictated in the course of years. It overlooks the rippling Tweed, and the beautiful haughs of Ettrick on the opposite banks. The front is about 150 feet long. A fine entrance hall is ornamented with oak panelling, and blazoned coats of arms, by D. Hay. In the drawing-room is a collection of antique furniture, and portraits, among others, one of "glorious John Milton -- the great high priest of all the nine." The armoury contains a great two-handed Swiss sword, the very counterpart of Rudolph Don-nerhügel's, as described in Anne of Gierstein, and presented to Scott by his Swiss admirers; also King James's bottle, the great Marquis of Montrose's sword, Andrew Hofer's gun, Bonaparte's pistols, &c. Among the portraits in the dining-room are Cromwell, Graham of Claverhouse, Scott of Harden, and a curious one of Mary Queen of Scots' head on a charger. One room is full of drawings by Turner; another is the library, 50 feet long, containing the Byron urn, the identical study where most of his delightful works were written, with his dest and clothes, which are preserved as memorials.
+
+The visitor is also shown the various antiquarian relics, such as the pulpit of Erskine, the preacher, and the real iron-bound gate of the "Heart of Mid-Lothian," or Edinburgh Tolbooth, which the mob attempted to burn in the Porteus riot. Scott died here in 1832, utterly broken down by the wonderful exertions he made to pay off the immense incumbrances in which his connection with the Ballantynes had involved him. As they brought him in, helpless with palsy, on his return from Italy, he murmured, "Now I know I am at Abbotsford." See Washington Irving's *Abbotsford and Newstead Abbey*, for an interesting account of his pilgrimage to this spot. It is an heirloom in the poet's family; but all his direct descendants are extinct.
+
+From a hill near it about thirty places, celebrated in Scottish song, may be counted, a few of which are-Yarrow Braes, Ettrick Forest, Gala Water, the banks of Allan Water, the Bush aboon Traquair, Cowdenknowes, Melrose Abbey ruins, Selkirk, &c.
+
+----
+
+Uuid: msmimg1ibg6xr6c8

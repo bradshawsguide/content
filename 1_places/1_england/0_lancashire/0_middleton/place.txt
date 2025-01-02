@@ -1,0 +1,29 @@
+Title: Middleton
+
+----
+
+Subtitle: (Branch)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 9,876.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This town, accessible by a short branch from Middleton Junction, like most others in Lancashire, where the, Cotton Manufacture is carried on, is now a place of some importance. It has also some extensive works for printing and bleaching,--but beyond these there are no particular attractions for the general tourist.
+
+----
+
+Uuid: tar9hchtsn82kie4

@@ -1,0 +1,28 @@
+Title: Hardingham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 527.
+-
+  term: Money Order Office
+  desc: at Wymondham, 5½ miles.
+
+----
+
+Notes: Telegraph station at Wymondham, 5½ miles.
+
+----
+
+Text: This is the birthplace of Sir Thomas Gresham, the celebrated London Merchant: he founded a Grammar School at Holt, and the townsmen of that place claim him also as a native. In the vicinity is *Hardingham Hall*, seat of Mrs. Edwards.
+
+----
+
+Uuid: NcYoI0NL9vDGQhXw

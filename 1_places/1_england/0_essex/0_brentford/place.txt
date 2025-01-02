@@ -1,0 +1,31 @@
+Title: Brentford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: White Hart.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: July 18th, and October 15th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This town, which contains the *Shoreditch Industrial School*, *County Asylum*, *Rich Grammar School*, and a population of 2,811, mas formerly a large market and assize town, and is 281 feet above the level of the sea. The Old Town Hall is now occupied by a coachmaker. The *New Church*, built in 1835, has a handsome square tower, the old one erected e 1221 being converted into a National School. The *Crown* is a very ancient inn. In the vicinity are *Thorndon Hall* (built by Payne) the seat of Lord Petre, having a noble front 300 feet long, with a splendid collection of portraits, &c. *East Thorndon*, at which place is the gate of the Tyrell's old seat, and *Weald Hall*, C. T. Tower, Esq.
+
+----
+
+Uuid: Hhcr8ocP7hKB5gLN

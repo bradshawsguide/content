@@ -1,0 +1,33 @@
+Title: Apperley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: George and Dragon.
+-
+  term: Money Order Office
+  desc: at Shipley, 3¾ miles.
+
+----
+
+Notes:
+
+Distance from station, ¼ mile.
+A telegraph station.
+
+----
+
+Text:
+
+Here is a noble edifice for the education of the children of Wesleyan Ministers--Woodhouse Grove School.
+
+----
+
+Uuid: V5YnhNbXxRQSxj1t

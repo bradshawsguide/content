@@ -1,0 +1,37 @@
+Title: Morpeth
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Queen's Head.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: Wednesday before Whitsuntide, June, Wednesday before Martinmas.
+-
+  term: Races
+  desc: at Cottingwood in April and September.
+-
+  term: Bankers
+  desc: W. H. Lambton and Company.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This borough has a population of 13,794, who return one member, and are employed in the woollen trade. The town was built by Vanburgh. It has a fine suspension bridge, by Telford. The gate of the old castle is worth a visit. Turner, the botanist, Gibbon, the herbalist, and Morrison, the Chinese scholar, born in 1782, were natives; and here Horsley, the learned author of *Britannia Romana*, was a minister. In the vicinity is *Mitford*, seat of Mrs. Mitford.
+
+----
+
+Uuid: xlic0e6ekjelzohe

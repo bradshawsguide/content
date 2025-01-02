@@ -1,0 +1,42 @@
+Title: Doncaster
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Royal.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: February 2nd, April 5th, August 5th, and November 16th.
+-
+  term: Races
+  desc: Third week in September and March.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+The Roman *Danam*, and Saxon *Donacastre*, in the *West Riding of Yorshire*, on the river Don, and the North Midland Railway, best known for its *Races*, established in 1703, in March and September. Population, 16,406. The most important place is the St. Leger, in September, for 3-year old horses, so called from a sporting man who established it in the last century. The course for the St. Leger is 1¾ miles round, and was run by Mr. Peirse's "*Reveller*," in 1818, in 3 minutes 15 seconds; in 1816, "*Sir Tatton Sykes*" ran it in 3 minutes 16 seconds. Everything relating to the ground and the *Race Stands*, is carefully kept up by the Corporation, to whom they produce a valuable yearly income of £2,000. Another feature of the town is the beautiful *Church*, now in the course of erection, by J. G. Scott, at a cost of £60,000, in place of the one destroyed by fire Feb. 28th, 1853. *Christ Church* was built and endowed by the Jarratt family.
+
+Doncaster is clean and well built. Among tie principal buildings are the new *Town Hall* and *Mansion House*, and Markets. Lacy, the dramatist, was a native; and Miller, the historian, a resident; and the Yorkshire *Deaf and Dumb School*, founded in 1829. It was here, in 1536, that Aske, the lender of the Pilgrimage of Grace (a rising of 40,000, in favour of the old religion), met the herald of Henry VIII., who took him to court, and afterwards hung him at York.
+
+The scenery is rather tame, but the flat carre (*carse* land in Scotland), to the east, having been well drained, are very fertle--much clover and woad are raised, and hunters, of course, are bred Vast quantities of potatoes also are grown on the warp land, near the Trent and Humber.
+
+Near Doncaster are the following:--*Cusworth*, the residence of W. B Wrightson, Esq., M.P., situate on a hill, with a vier of Lincoln and York Cathedrals *Wheatley Hall*, Sir W. Cooke, Bart., was built about 1680. *Sprotborough*, Sir J. W. Copley, Bart. *Tickhill Castle*, at present the seat of the Earl of Scarborough, is near to Sandbeck, and has in its immediate neighbourhood the picturesque ruins of Roche Abbey.
+
+----
+
+Uuid: k1hc51fmznxhwepd

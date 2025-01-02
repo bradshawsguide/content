@@ -1,0 +1,25 @@
+Title: North Berwick
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Dalrymple Arms.
+
+----
+
+Notes: Telegraph station at Drem, 5¼ miles.
+
+----
+
+Text: This place contains ruins of a nunnery, founded in 1154 by the Earl of Fife. The port is a very bad rocky tidal harbour, and has a small pier. The rocks of Craigleith and Bass can be seen. In the vicinity is *North Berwick House*, seat of Sir H. Dalrymple, Bart.
+
+----
+
+Uuid: 7hasmvdd0tljdl3r

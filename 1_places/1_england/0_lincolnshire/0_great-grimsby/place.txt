@@ -1,0 +1,38 @@
+Title: Great Grimsby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Yarborough Arms.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: June 15, September 15.
+-
+  term: Bankers
+  desc: Branch of Hull Banking Company; Smith, Ellison, and Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+This town is built on the south bank of the river Humber, population 15,060. The borough includes villages within four miles, and returns one member. It was formerly a place of considerable importance, but, on the harbour becoming choked up, the trade gradually declined, and its commerce was transferred to the neighbouring city of Hull. Of late, however, the affairs of the town have taken a favourable turn, and many improvements have been made.
+
+The church of the town is a very large and handsome structure, built in the form of a cross. Archbishop Whitgift and Bishop Fotherby were natives. The Blow Wells in the vicinity were long considered as natural curiosities; the appearances which they present, however, have been observed in various places, and are now as familiar to naturalists as they are well understood.
+
+----
+
+Uuid: n5rkx1zorduxlrst

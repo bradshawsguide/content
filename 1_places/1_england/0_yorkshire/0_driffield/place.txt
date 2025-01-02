@@ -1,0 +1,34 @@
+Title: Driffield
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,244.
+-
+  term: Hotel
+  desc: Blue Bell.
+-
+  term: Market Day
+  desc: Thursday, for grain.
+-
+  term: Bankers
+  desc: 'Bower & Co.; Branch of York Union Bank; Harding, Smith & Co.'
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Driffield) is a market town, in the East Riding of Yorkshire. It is built on the banks of a canal, which communicates with the river Humber. Its principal manufactures are the weaving of cotton and silk.
+
+----
+
+Uuid: 2cro15vctj7ezrmq

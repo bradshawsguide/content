@@ -1,0 +1,25 @@
+Title: Claythorpe
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Alford, 3 miles.
+
+----
+
+Notes: Telegraph station at Alford, 3 miles.
+
+----
+
+Text: In the vicinity is the seat of C. Packe, Esq., where Sir Harry Vane, of Cromwell's time, lived.
+
+----
+
+Uuid: ttypo3i2umu1smfg

@@ -1,0 +1,15 @@
+Title: Redditch
+
+----
+
+Section: 4
+
+----
+
+Text:
+
+A place of some importance, having a population of 5,571. Needles are here manufactured on an extensive scale. Fairs are held on the first Monday in August and third Monday in September.
+
+----
+
+Uuid: fAouiib2VCQz69z0

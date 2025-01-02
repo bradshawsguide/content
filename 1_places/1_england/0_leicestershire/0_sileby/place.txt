@@ -1,0 +1,30 @@
+Title: Sileby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,572.
+-
+  term: Money Order Office
+  desc: at Loughborough, 4¾ miles.
+
+----
+
+Notes:
+
+- Telegraph station at Syston, 3 miles.
+
+----
+
+Text: In the vicinity is *Mount Sorrel*, a lovely spot; *Swithland Hall*, Lord Lanesborough; and *Rothley Temple*, J. Parker, Esq.
+
+----
+
+Uuid: cnLAUPzxzSAd81Ch

@@ -1,0 +1,28 @@
+Title: Kirkstead
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Coningsby, 2 miles.
+
+----
+
+Notes:
+
+- Distance from station, ¾ mile.
+- A telegraph station.
+
+----
+
+Text: Nonconformist divines have generally been inducted to this living. The learned Hebraist, Dr. Taylor, held it. That "treble refined Christian," Hugh Kirkstead, was a native.
+
+----
+
+Uuid: h31f8ep3wk9g0vgv

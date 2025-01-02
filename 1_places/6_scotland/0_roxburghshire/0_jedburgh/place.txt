@@ -1,0 +1,31 @@
+Title: Jedburgh
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Spread Eagle, The Commercial, and The Harrow.
+-
+  term: Market Day
+  desc: Thursday and Saturday.
+-
+  term: Fairs
+  desc: Monthly.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This place contains the ruins of an abbey older than 1,000, rebuilt by David I. Here Alexander III. was married, at which ceremony it is reported that a masque dressed as Death appeared, and Mary Queen of Scots fell ill after her visit to *Hermitage Castle* to meet Bothwell. The Church is part of that which belonged to the old abbey, having the ancient tower (100 feet), Norman door, nave, &c. Grey Friars was built in 1513. There Bell wrote his "Rota Temporum," and the Relief Synod began here in 1755. The tower where Queen Mary staid, is in an ancient street. Caves are to be seen at Hunderlee and Linthaughlee Camp. Thomson and Rutherford were educated at the Grammar School. Sir David Brewster and Mrs. Somerville mere natives. St. Boswell and Dryburgh Abbey are easily accessible from this place.
+
+----
+
+Uuid: xqiggkoh3ao62wxs

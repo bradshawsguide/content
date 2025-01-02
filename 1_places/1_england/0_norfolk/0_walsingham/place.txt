@@ -1,0 +1,25 @@
+Title: Walsingham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,069.
+
+----
+
+Notes: Telegraph station at Wells, 4½ miles.
+
+----
+
+Text: At *Walsingham Abbey*, seat of H. L. Warren, Esq., are remains of an abbey of the 11th century, where used to be shown a model of the Holy Sepulchre. The beautiful east window of the chancel is 60 feet high. In the *Parish Church*, the father of Sir Philip Sidney is buried. Walsingham was a great place for pilgrimages to the Virgin, whose image was burnt at Chelsea, by order of Henry VIII., though he had walked bare-footed in his youth from Basham, to give her a handsome necklace. At Binham and Houghton-le-Dale are some old ecclesiastical ruins.
+
+----
+
+Uuid: Llu5lEHennMGxlut

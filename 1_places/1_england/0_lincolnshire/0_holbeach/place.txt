@@ -1,0 +1,17 @@
+Title: Holbeach
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This is a town of great antiquity. Population, 2,033. Roman ruins, coins, and foundations of buildings have been discovered. The style of the church is Gothic, and contains several monuments. Bishop Holbeach, compiler of the Liturgy, and Stukeley, the antiquarian, were natives.
+
+----
+
+Uuid: j1dpvd1fgwhmjhgf

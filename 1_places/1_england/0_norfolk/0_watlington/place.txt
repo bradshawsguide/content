@@ -1,0 +1,24 @@
+Title: Watlington
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 588
+-
+  term: Money Order Office
+  desc: at Downham, 5½ miles.
+
+----
+
+Notes: Telegraph station at Downham, 5½ miles.
+
+----
+
+Uuid: WTbmb2WI2dL7c4DH

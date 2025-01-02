@@ -1,0 +1,34 @@
+Title: Selby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 5,271.
+-
+  term: Hotel
+  desc: George.
+-
+  term: Market Day
+  desc: Monday.
+-
+  term: Fairs
+  desc: Easter Tuesday, Monday after 22nd June, and October 11th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This was the ancient *Salebia*. Here is an old timber  string bridge, and half ruined cruciform church, which was built in 1069; the tower fell down in 1690; it contains an old font, chapter house, and Norman porch. The Custom House, Town Hall, Shipyard, and the old Gothic Market Cross are worthy of notice. Henry I. Was a native.
+
+----
+
+Uuid: wdgnhpgdbemmaqmp

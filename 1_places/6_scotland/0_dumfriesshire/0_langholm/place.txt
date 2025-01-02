@@ -1,0 +1,25 @@
+Title: Langholm
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Wednesday.
+
+----
+
+Notes:
+
+----
+
+Text: Situated on the river Esk, here crossed by a bridge. The river furnishes good fishing. The place is supplied with the usual buildings of a chartered town, and its population principally weavers. The country around is of a hilly but fertile character. Traces of Border towers, and some Roman coins, have been found.
+
+----
+
+Uuid: e3aevm0l8yvaofak

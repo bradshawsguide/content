@@ -1,0 +1,34 @@
+Title: Corby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Railway; White Hart.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: August 26 and Monday before October 10.
+
+----
+
+Notes:
+
+- Distance from station, 1½ mile.
+- Telegraph station at Little Bytham, 5 miles.
+
+----
+
+Text: (smcp: Corby) is a market town pleasantly situated on the river Glen. Population, 818. In the vicinity are *Irnham Park*, seat of Lord Arundel of Wardour; *Falkingham*, at which is the ditch of the Beaumont's old castle. At *Stoke Rochford* to the left of the line there is an obelisk in memory of Sir Isaac Newton, who was born at *Woolsthorpe* in 1642, at which manor house are preserved his oak study, sun-dials, and a chair made of the apple tree (which fell in 1835) which led him to discover the theory of gravitation.
+
+----
+
+Uuid: sjhcmo1lm86r6vs8

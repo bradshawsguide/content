@@ -1,0 +1,28 @@
+Title: Appleby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Whitsun Eve, Whit Monday, June 10th, and August 21st.
+
+----
+
+Notes:
+
+----
+
+Text: Appleby is the county town of Westmorland, with a population of 960. It was the Roman *Galacum*, and taken in 16 by the parliamentarians, from that celebrated dauntless woman, Ann Dorset Pembroke and Montgomery, who rebuilt St. Lawrence church, which contains her tomb and those of the Cliffords, to whom the old castle on the hill belongs, which was rebuilt in Henry VI's time. It has portraits of the Countess Ann, old armour, &c. This town contains Town and Shire Halls, built in 1770, Market Place by Smirke, erected in 1811, on the site of the cloisters. Queen Elizabeth's Grammar School, with sir exhibitions at Queen's College, Oxford, at which Bishops Bedell and Langhorne were scholars. Here were formerly some Latin inscriptions placed up by Bainbrig, then the master and friend of Camden, describing the misfortunes of the town, but now removed. *Countess Ann's Hospital*, for poor women, founded in 1563. St. Michael's church contains tombs of the Hiltons of Murton. Bishops Thomas of Appleby, Roger of Appleby, and Thomas de Vipont, were natives. In the vicinity is *Crackenthorpe* (at which Roman antiquities have been discovered), the seat of the Earl of Lonsdale.
+
+----
+
+Uuid: jd7xouqgl3echazq

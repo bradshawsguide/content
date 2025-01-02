@@ -1,0 +1,25 @@
+Title: Hornby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Fairs
+  desc: Every other Tuesday, and July 30th.
+
+----
+
+Notes: Telegraph station at Lancaster, 8½ miles.
+
+----
+
+Text: Here is *Horny Castle*, the old seat of Lord Mont-eagle, to whom the letter about the Gunpowder Plot was sent; now the property of P. Dayson, Esq.
+
+----
+
+Uuid: 8FceM0lIW5Xxq4nr

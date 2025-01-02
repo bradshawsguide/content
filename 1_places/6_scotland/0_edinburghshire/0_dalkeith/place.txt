@@ -1,0 +1,31 @@
+Title: Dalkeith
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Cross Keys.
+-
+  term: Market Days
+  desc: Monday and Thursday.
+-
+  term: Fairs
+  desc: 1st Thursday after Rutherglen May Fair, and 3rd Tuesday in October.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This burgh, is beautifully situated on the Esk river. *Dalkeith Palace*, the seat of the Duke of Baccleugh, was built by Ann, Duchess of Monmouth, on the site of the old castle, visited by Froissart, James VI., Charles I., who was a prisoner here, General Monk, who took it, George IV. in 1822, and Queen Victoria in 1848.
+
+----
+
+Uuid: 2p4qeczaw1hgntiw

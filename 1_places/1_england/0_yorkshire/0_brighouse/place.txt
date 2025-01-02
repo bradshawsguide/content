@@ -1,0 +1,25 @@
+Title: Brighouse
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 7,340.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Close at hand is *Fixby Hall*, the seat of the Thornhills.
+
+----
+
+Uuid: yufye5bdonlfasx0

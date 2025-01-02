@@ -1,0 +1,31 @@
+Title: Gateshead
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Half Moon.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Second Monday in April and first Monday in November.
+
+----
+
+Notes: Telegraph station at Newcastle, 3¾ miles.
+
+----
+
+Text: (smcp: Gateshead), is a borough town (population, 33,587, who return one member), connected with Newcastle by a stone bridge over the Tyne river, and is a place of considerable antiquity. It has an old cross church, and excellent stone for grindstones at Gateshead Fell, where the cliffs rise to a great height above the river. The town originally consisted of one long street, which was built on the declivity of a steep hill that leads down to the bridge. Several modern improvements, however, have taken place, one of the most prominent of which is the erection of a handsome street in a curved line, to avoid the danger of the descent. The inhabitants are employed in manufacturing cast and wrought iron, &c., but from its proximity to Newcastle, the trade is less extensive than might be expected from the advantages of its situation.
+
+----
+
+Uuid: wrjqxdb4eusuurwn

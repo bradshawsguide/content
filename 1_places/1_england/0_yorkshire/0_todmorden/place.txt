@@ -1,0 +1,34 @@
+Title: Todmorden
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 11,797.
+-
+  term: Hotel
+  desc: Queen's.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: 1st Thursday in every month, Thursday before Easter, September 9th and 27th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Here are very large cotton factories and coal mines, and the town is beautifully situated in the fertile valley of the Calder.
+
+----
+
+Uuid: tlmblzu8n9x5uw0m

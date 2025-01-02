@@ -1,0 +1,24 @@
+Title: Mirfield
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 9,263.
+-
+  term: Hotel
+  desc: Black Bull.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: fnzf3jcldcxim8vw

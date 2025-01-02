@@ -1,0 +1,71 @@
+Title: York
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 45,385.
+-
+  term: Hotels
+  desc: Harker's Family and Commercial; Railway Station, for families, private and commercial gentlemen; Black Swan, Coney Street, Family; Old George; Commercial.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Every fortnight, stock; every two months, flax; every three months, leather; every Thursday from Lady Day to Michaelmas, wool; week before Christmas, horses.
+-
+  term: Races
+  desc: August.
+-
+  term: Bankers
+  desc: Swann, Clough, and Co.; Branch of Yorkshire Banking Co.; York City and County Co.; Banking Co.; York Union Bank.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+The ancient capital of York and seat of the Primate of England, situated at the juncture of its three Ridings (tri-things, or *thirds*), on the Ouse. The neighbourhood is flat and agricultural, Leeds being the nearest important seat of the manufactures by which the county is distinguished. Boots shoes, combs, and confectionery are the chief articles made here. Having been an imperial city, by the name of *Eboracum* (which the Saxons softened down to *Yurewicke*, &c.), all the time the Romans kept possession of Britain, from A.D. 70, when Agricola made it his bead quarters, down to 427, there are, of course, many vestiges of antiquities, and historical incidents connected with them. The Emperor Sererus died here (and his body was burnt on Sirer's Hill, Acomb), as did also Constantius Chlorus, the father of Constantine, the first Christian Emperor. Here Paulinus built the first Christian church in the north of England, after converting Edwin of Northumberland (though it appears that a bishop of Eboracum presided at the Council of Arles, in 314), and there is scarcely any important event subsequent to this in which it did not make a figure. From 1536 to the beginning of the civil war, through the unsettled interval which succeeded the Reformation, a Lord President of the North kept court here, to are the disaffected. His seat was at the old Manor House, near St. Mary's Abbey. The Castle is on the south side of the city, in a corner between the Ouse and Foss. The seat of the Roman governors, or *Palatium*, occupied a space between Parliament-street (in the middle of the city) and the Cathedral, towards Beddern and Aldwark.
+
+(smcp: Old Wall).--Most part of the ancient *Wall* remains, though altered by frequent patching. Having been pared with brick in 1931, it forms an agreeable promenade round the city, about 2½ miles long. Six gates, bars, 20 towers and posterns are left; formerly there mere 40. *Micklegate* crosses the London road; upon its battlements the heads of Richard, Duke of York, his son Rutland (a mere boy of 19), &c., were placed after the battle of Wakefield in 1460.
+
+> Off with his head, and set it on York gates,
+> So York may overlook tho town of York.
+--Queen Margaret, in Henry VI
+
+Richard's head was crowned with a paper crown, in derision of his claims to the throne (Edward IV. was his son). Near this gate a wide Tudor arch has been cut in the Walls to admit the Great Northern, North of England, and other railways, which have a general station in Tanner Row. At North Street postern, close to the river (where a ferry must be crossed), is an excellent view of the Cathedral and St. Mary's Abbey (to the left). Bootham bar, on the Edinburgh road, has some Roman inscriptions in it. Monk bar, on the New Malton road, is very ancient; so is Walmgate on the Hull road. Fishergate postern is near the Castle.
+
+(smcp: Cathedral).--This noble Minster is the chief glory of the city, and one of the most triumphant specimens of the pointed style; but, unfortunately, shut in, by houses and narrow streets. It is a regular cross, 4S0 feet long and 110 fect broad along the nave. The oldest part is the south transept and its marigold window, built in 1246 by Archbishop De Grey, in the early English style. Two elegant towers, surmounted by pinnacles, and each 196 feet high, with a rich window between, and a rich display of carved work, adorn the fine West Front, at which one never tires of looking. In one of these towers (rebuilt since 1840) is Dr. Beckwith's peal, in the other a new Great Tom of 12 tons. The Centre Tower, begun at the end of the 14th century by Archbishop Thoresby, is only 213 feet high, the spire being wanting. In the north transept is a window 50 feet high. The timber roof of the nave, 99 feet high, has been renewed since an accidental tire took place here in 1840. In 1829 the choir also suffered from fire, but this was the wilful act of Martin, a lunatic, the brother of Martin the painter. The restorations, by Smirke, cost £50,000. On the decorated English screen are carved 15 figures, life-size, of Kings from the Conquest to Henry VI., during whose reign it was constructed. The new organ is 70 feet high; it contains 56 stops and 4,200 pipes, the largest of which is 32 feet high. At the east end is the splendid great window, 75 feet long by 32 feet broad, full of painted figures of Scripture characters, each about 2 feet high. This is a work of the 15th century. One of the best tombs is that of Archbishop De Grey, who died in 1216; his effigies are under a canopy. Another is Edward III.'s son, William of Hatfield (where he was born). Many Saxon prelates and chiefs were buried here in the former Cathedral, but their graves are without any mark. There is a monument to Mrs. Matthew, who must have lived and died in the full splendour of episcopacy, as her father was Bishop of Chichester, her two husbands were archbishops (Canterbury and York), and her four sisters each married a bishop.
+
+The *Chapter House*, adjoining the north transept, built about 1340, is eight sided, 63 feet across, and 68 feet high to the keystone of the roof, which stands without any support beneath; the stained windows are 50 feet long. Among other relics are the horn of Ulphus, by which lands were held, and the cup of Archbishop Scrope, who headed the rebellion of Hotspur, &c., against Henry IV., and was beheaded for it. The *Library* contains Queen Elizabeth's copy of Wickliffe's MS. Testament, the Testament of Erasmus, and some of Caxton's printed books. It is open to the public. There are the Gothic gate and other remains of Priests' College in Vicar's Lane.
+
+(smcp: Churches and Chapels).--There are 24 churches and 15 chapels. Most of the churches are of stone, in the later Gothic style, and deserving of notice. *All Saints*, North Street, has a spire and some Roman stones in its walls. *Christ Church* is said to be on the site of the Roman Emperor's palace, some remnants of which are preserved in the King's Court and Conyng-garth, or King's Ditch. The church in the highest part of the city is All Saints, at one end of the Pavement, where some of the chief Roman buildings stood. Formerly there was a light in its beautiful tower for the guidance of travellers. The church of *St. Crux* (or Cross) is in the Shambles, near the other end of the Parement; it contains a monument to the Percy who headed the rising in the north in Queen Elizabeth's reign. The Temple of Diana stood, it is said, where *St. Helen's*, in the Stonegate, is placed. Near this is Coney Street, which was originally Conyng (or King) Street; at *St. Martin's* is a monument of Bishop Porteus, a native. *St. John's*, at the top of Micklegate, is very old. At St. Martin's, in the same street, "R. T.," that is Richard Turpin, the highwayman, is buried. His ride to York to escape detection is beautifully described in one of Ainsworth's novels. *Holy Trinity*, al the bottom of the street, is close to the gate of a priory and Trinity Gardens; many Roman relics have been found in this quarter. *St. Lawrence's* and *St. Margaret's*, in Walgate, on the Hull road, are both ancient, and have pendant porches; the latter full of carted figures. *St. Mary's*, in Castlegate, is marked by a tall spire. The *Independent Chapel* is in Lendal, near the Manor Shore. The *Wesleyan Centenary Chapel* built in 1840, is in St. Saviourgate. The *Friends Meeting House*, in Far Water Lane near Castlegate. the *Roman Catholic Chapel*, in Little Blake Street, and the titular bishop of the district resides near York.
+
+(smcp: Public Building).--Between Lendal and the river is the *Guildhall*, an ancient Gothic pile, built in 1446, 96 feet long, on oak pillars. The roof is panelled, and the sides adorned with portraits and escutcheons. Here the Lord Presidents of the North kept their state; and the late Prince Albert, at his visit in 1850, explained the objects of the Exhibition of 1851. It stands behind the *Mansion House*, or official seat ot the Mayor (who by courtesy is styled Lord Mayor), which is a Grecian edifice, containing various por-traits. The *Post Office* is in Lendal. In Blake Street, not far from these, are the handsome *Assembly Rooms*, designed by the Earl of Burlington in 1736, with a portico, &c. The Great Hall is in the Composite style, 112 feet long, by 40 feet broad, and 40 feet high. A *Music Hall*, for the triennial festivals, in Lendal, near this, was built in 1825, having a concert-room 90 feet long, the frieze of which was ornamented by Rossi. In the grounds of St. Mary's Abbey, or the Mint Yard, is the *Museum* of the Philosophical Society, a solid Doric building, 200 feet long, built in 1830, by Wilkins, the architect of the National Gallery, who was generally successful in his porticoes. Various Roman marbles, inscriptions, Saxon remains, and geological specimens have been collected here. Close to it is the Manor, a large pile, built in Henry VIII.'s reign, on the suppression of the abbey, and now occupied as a *School for the Blind*, founded in honour of Wilberforce, in the Negro Emancipation year, 1833. The Abbey of St. Mary was founded by William Rufus, on the site of a temple; parts of the church, with its picturesque ruined towers, cloisters, crypt, dc., are still visible. An old Roman tower is also here; it figures in the city arms. An old hall of the Merchants' Company is in Fossgate, behind the Pavement; that of the Merchant Tailors is now used as an *Eye Hospital*. York was once noted for its coverlets. The *Theatre* is in Blake Street, on the site of the ancient hospital of St. Leonard. The *Baths* are on the Esplanade at Lendal, and the New Walk above and below the bridge. This bridge at the Staiths (i.e., landings for goods) at the bottom of Lower Ousegate, is 40 fect broad, on three arches, the middle being 75 feet span; it was built in 1820. Formerly there was a Gothic structure of the 13th century here. Near Skeldergate postern is the *House of Correction*, built in 1807; adjoining which, close to the City Wall, is the *Vetus Ballicum*, or Old Bailey mound, once covered by a fort.
+
+York Castle, which includes the Courts of Law, as well as the Prison, is an imposing mass of buildings, with little of the ancient Castle about it, except the Round Keep, or *Clifford's Tower*, and a fine machicolated gate, 76 feet wide, the whole having been rebuilt between 1826 and 1836, and adapted to modern uses at a cost of very nearly a quarter of a million of money. An embattled wall surrounds the site two-thirds of a mile long. The *County Hall* is 150 feet long, with two domes and a portico. Here public meetings are held, or adjourned to the Castle Lard in front, where 40,000 people can assemble. *Clifford's Tower* is a picturesque ruin, overgrown with trees and ivy. It was dismantled after the siege of 1644.
+
+There are various schools and institutions. St. Peter's *Grammar School* was built or rebuilt in 1833, in Minster Yard. It is simply a free school, in the Tudor style. A large and handsome *Diocesan School* is in the Elizabethan style; it cost £12,000. The County *Infirmary* was founded in 1749. At Heslington, near the Yarboroughs' old seat, is the *Friends' Retreat*, or Lunatic Asylum for the Quakers. That for the city, outside Bootham Bar, was built in 1777, and is a large and convenient pile, with extensive grounds behind. There are large Barrachs at Fulford. Among the natives of York are--Alcuin, a famous scholar in the reign of Charlemagne; Flaxman, the sculptor; Etty, the painter; Earl Waltheof; Flower the Hermit; Archbishop le Romaine; Waldby Ergham, Admiral Holmes, Swinbowne, Stoke, Bishops Morton and Porteus, Sir T. Herbert, Cart-wright, Fothergill, Wintringham, Eliza Montague, G Wallis, and Archdeacon Narnes. Hugo Goes, from Antwerp, first set up printing here in 1536.
+
+On the Leeds road, at Knavesmire, is the *Race Course*, occupying a level about 17 mile in circumference, with a Grand Stand on the east side. Camden says that the best horse had a golden bell hung over his head; hence the phrase "to bear away the bell." Beyond this stretches the Ainstey, a wide tract, once covered by Galtres Forest, and, till 1837, annexed to the city, but now forming a separate Wapentake.
+
+*The Chapter House*.--On the door is an old Latin rhyme:--
+
+> Ut *rosa* phlos phlorum (*ph* for *f*)
+> Sic est domus ista domorum.
+
+Or, "What the rose is among flowers this house is to other houses."
+
+----
+
+Uuid: pm1cwntisyklywty

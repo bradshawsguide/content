@@ -1,0 +1,34 @@
+Title: Bromsgrove
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Golden Cross, and Crown.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: June 24th and October 10th.
+
+----
+
+Notes:
+
+- Distance from station, 1½ mile.
+- A telegraph station.
+
+----
+
+Text: This is an ancient town, with a population of 5,260, principally engaged in the nail and button trades. The church is situated on an eminence, ascended by 50 steps, has a tower and spire 190 feet high and the tombs of the Talbots. There is an endowed Grammar School. At the *Lickey Hill*, about 2½ miles to the north, are the sources of several rivers. *Hewell Grange*, seat of the Hon. R. Clive, an ancient mansion of the Plymouth family from the early part of the 16th century, lies about three miles to the east. *Tinshall House*, one mile; *Grafton Hall*, one mile; and *Hobson Hall*, three miles.
+
+----
+
+Uuid: mJ2RfTfusvgmcPSq

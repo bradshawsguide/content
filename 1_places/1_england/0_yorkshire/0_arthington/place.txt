@@ -1,0 +1,17 @@
+Title: Arthington
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: In this vicinity are *Arthington Hall*, the seat of E. Wilson, Esq.; *Leathley, Cayley*, and *Farnley Halls*, seats of the Fawkes' family; *Weston*, the Elizabethan seat of V. Carter, Esq.; *Dentin*, the birthplace of Lord Fairfax; *Harewood Park* and *Hall*, a large building in the Grecian style, the princely residence of the Earl of Hare-wood; and *Alum Cliff*.
+
+----
+
+Uuid: ckot5jxccsiqkvqe

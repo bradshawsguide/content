@@ -1,0 +1,28 @@
+Title: Burscough Junction
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,461.
+-
+  term: Money Order Office
+  desc: at Ormskirk, 2½ miles.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Here are remains of a priory, founded in the time of Richard I., by the Lathams, and was the burial place of the Stanleys until the tombs were removed to Ormskirk. In the vicinity is *Blythe Hall*, seat of the Wilbrahams.
+
+----
+
+Uuid: vvqqg6377lneahcr

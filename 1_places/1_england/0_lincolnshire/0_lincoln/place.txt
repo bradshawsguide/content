@@ -1,0 +1,56 @@
+Title: Lincoln
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Great Northern Railway Station; Saracen's Head.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fairs
+  desc: Friday in Easter Week, last whole week in April, Tuesday after April 11th, July 5th, October 6th, and November 28th.
+-
+  term: Races
+  desc: in September and February.
+-
+  term: Bankers
+  desc: Smith, Ellison, and Co.; Lincoln and Lindsey Banking Co.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+(smcp: Lincoln), a city and parliamentary borough, population, 20,999 (two members), cathedral town, and the capital of Lincolnshire, on a hill near the Witham. Lincoln was the Roman *Lindum* or *Lindum Colonia*, from which the present name is derived. The great North Road, identical with the Roman Ermine Street, runs through it from south to north for a length of two miles, passing in the true Roman style straight over the hill, on which the noble cathedral stands. Part of it is still called Herman Street. Another Roman road came to Lincoln, the Fogseway, which gives name to the Fosse Dyke Canal, first out in the reign of Henry I.
+
+In High Street, "below hill" are the principal shops and inns, and the old Guildhall bow gate ot Richard II's time, but the best houses are in the upper part of the town, "above hill," to which you ascend by a steep hill and a long tight of steps. Here, on the site of the Roman station, the cathedral, castle, and other buildings are placed.
+
+The *Cathedral* or Minster is a splendid object, seen at 30, 40, and even in clear weather 50 miles round, rising over everything, as if to the clouds. It is a double cross, that is it has two transepts, like salisbury, and is 475 feet long internally. One transept is 220 feet, the other 170 feet; the great tower, 240 feet high; two west towers, 180 feet. formerly, the latter had spires which made them 100 feet more. In one is the new bell, Great Tom, cast by Mears, in 1835, which is seven feet across, and weighs 12,000lbs. The church is mostly early English, having been built between 1186 and 1324. The west front, 175 feet broad, has a noble window and doorway, with various pinnacles and niched figures, besides a Galilean or porch. The timber roof is 80 feet from the pavement, and in one sense the biggest pitched in the kingdom. Among the monuments are those to Bishop Cantelupe and Dean Welbourne, of Edward III.'s time, a chapel to the memory of Edward I's Queen, Eleanor, and another with the Burghersh tombs. There is an ancient *brass* of Lady Swinford, the mother of the Beauforts, by John of Gaunt. It contained a rich gold and silver shrine of great value, removed at the Reformation by Henry VIII's vicegerent Cromwell, whose reforms were so ill received that the people rose in rebellion under Mackerel, or "Captain Cobler," Prior. The *Chapter House* is a ten-sided building, by Bishop Hugh, 60 feet across, and 42 feet high to the vaulted roof, which rests on one pillar. Cloisters 116 feet long. The library contains a very early charter, such as the Norman kings were used to grant, to please their Saxon subjects. The Deanery and Vicar's College are of the 13th century. An old palace was ruined in the civil war; parts of the great hall are standing. The *Exchequer* gate is one of three or four old gates worth notice, especially the *Newport* (or north) gate, which is Roman as well as the piece of wall adjoining, which corresponds with the *Mint Wall* near the castle. The Newport gate was erected 40 years after Christ, and is consequently upwards of 1,822 years old.
+
+Opposite the cathedral is the castle, within the walls of which are contained the County Hall and the Prisons, built by Smirke at a cost of £40,000. Just within the gateway is a very beautiful Oriel window, recently removed from a house standing opposite to John of Gaunt's stables. This spot of eight acres still belongs to the Duchy of Lancaster, the possessions of which merged in the crown, on the accession of John of Gaunt's son, as Henry IV. Parts of the Norman keep and walls of the castle which the Conqueror built here still remain. At that time Lincoln had upwards of 1,000 houses, of which 166 were pulled down to make room for the castle.
+
+The Guildhall is very ancient; the *Corn Exchange*, a modern building; the *Asylum* on the slope of Castle Hill, has a front of 260 feet, and a good prospect. The *County Asylum* is at Bracebridge, about a mile from the city, and is a most extensive establishment. An old Grey Friary of the l3th century, turned into a *Mechanics' Institute* and school, is timber-roofed. The *Blue Coat School* is well endowed. The *Grammar School* was founded in 1567.
+
+Lincoln at one time possessed so many churches and religious houses that it gave rise to a proverb. "He looks like the devil over Lincoln," because it was supposed to be the object of his peculiar envy. Many of those edifices may be still recognised by the remains of Gothic windows and doors. Of the 50 churches, 15 remain, mostly of little consequence. Those of *St. Benedict*, *St. Mary-le-Wigford*, and *St. Peter-at-Gouts* (*gout*, a short cut for water), offer some Norman and early English work. *St. Paul's* in the Bail, is on the site of the first Christian Church planted here. *St. Nicholas* on the Brigg Road, is a handsome new church. On Steep Hill is an ancient carved house, which they say belonged to a Jew of Edward I's time, who was executed for clipping coin; about this period many of that persecuted race were hung (for their money) on the less tenable charge of having crucified a child. Their wealth and commercial habits contributed to make Lincoln one of the most prosperous towns in the kingdom. At a later period the Flemings introduced the manufacture of woollen and camlet stuffs, which went under the name of "Lincoln Green." It now brews good ale. An old proverb says--
+
+> Aukham (i.e. Ancholme) eel, and Witham Pike,
+> In all England is none like.
+
+On the Horncastle Rond is the Monk's House, on a good point of view. In the neighbourhood of Lincoln are the following -- *Canwick Hall*, the seat of the late Major G. T. W. Sibthorpe, M.P. for Lincoln; *Burton Park*, the seat of Lord Monson; *Branston Hall*, the seat of the Hon. A. L. Melville; *Blankney*, C. Chaplin, Esq. Near this is also Dunston Pillar, placed there in the last century to guide travellers over the waste which stretched around, now reclaimed, and made good turnip land at 20s an acre. Bardney and Tapholme Abbey ruins are down the Witham. Within a short distance, on the Great Northern line, are also the picturesque ruins of Tattershall Castle. Bailing Priory, on the Wragby Road. Kirkton-in-Lindsey, on the old Ermine Street road, has a large old early English church (kirk). This road runs along the top of the heath and warren hills just spoken of, which, north and south of Lincoln, formed, till cultivated, a useless and desolate tract, ten miles long; so much for guano, oil-cake, draining, and Lincolnshire enterprise. Lindsey, in the north division of the county, takes its name from *Lindum*.
+
+----
+
+Uuid: Xs5dapBwxr5YzAsV

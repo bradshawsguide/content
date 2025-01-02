@@ -1,0 +1,34 @@
+Title: Wymondham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,152.
+-
+  term: Hotel
+  desc: King's Head.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fairs
+  desc: February 13th, May 17th, and September 7th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Wymondham) is a town of crape weavers, with an old *Abbey Church* (in which are the D'Albine monuments, the founders of it), and the Norman front of the abbey itself, belonging to the Ladies Alfred Paget and Macdonald, the co-heiresses of the late George Wyndham, Esq., of Cromer Hall, descendant of the celebrated Secretary of State Wyndham. Kett, the tanner, a native, was hanged from the steeple here in 1519, for heading the Norwich insurrection, Bentham was vicar, and Peacham master of the school. It gives name to the Wyndhams late of Felbrigg Hall. In the vicinity is *Stanfield Hall*, the seat of the Prestons, where Jeremy Preston, Esq., was murdered by Rush in 1849. Potash Farm, where the assassin lived, has been pulled down.
+
+----
+
+Uuid: oB0PUoFkKEWDBLFP

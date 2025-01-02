@@ -1,0 +1,31 @@
+Title: Tottenham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 13,240.
+-
+  term: Hotel
+  desc: White Hart.
+
+----
+
+Notes:
+
+Distance from station, 1 mile.
+A telegraph station.
+
+----
+
+Text: The collection of Turner's drawings; &c, belonging to the late F. Windus, Esq, can be viewed on Mondays. The Hermitage, near the old wooden cross, was Izaak Walton's delight. Bruce Castle (a school kept by the Messrs. Hill), stands on the site of a house which belonged to King Robert Bruce's father.
+
+----
+
+Uuid: I7oRbVjyo11Q8nuD

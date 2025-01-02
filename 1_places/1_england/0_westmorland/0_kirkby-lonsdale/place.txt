@@ -1,0 +1,21 @@
+Title: Kirkby Lonsdale
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,727.
+
+----
+
+Text: A pretty little town on the Lune, here spanned by an old pointed bridge of three arches. The church stands on the top of a hill, the views from which are very fine.
+
+----
+
+Uuid: Hae8txA3XD6VjzYw

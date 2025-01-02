@@ -1,0 +1,28 @@
+Title: Chatteris
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,621.
+-
+  term: Hotel
+  desc: George.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: On the site of *Chatteris House* (T. Fryer, Esq.), stood a nunnery, founded in the time of King Edgar.-- The living is worth £1,370.--Vermuyden, the Dutch engineer, cut Forty Foot Drains in 167.
+
+----
+
+Uuid: NBCADIGTqvur8f1l

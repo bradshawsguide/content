@@ -1,0 +1,25 @@
+Title: Woodbridge
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,513.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This is a little town of some commercial importance, having a considerable coasting trade, besides exporting large quantities of grain. It lies on the banks of the river Deben, about 8 miles from the sea, but which is here navigable for vessels of about 120 tons. The church is a fine spacious building, and has several monuments.
+
+----
+
+Uuid: zhkhf4prjmxmsujy

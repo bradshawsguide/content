@@ -1,0 +1,25 @@
+Title: Shincliffe
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,544.
+
+----
+
+Notes: Telegraph station at Ferryhill, 4¾ miles.
+
+----
+
+Text: Shincliffe Hall, seat of J. Prince, Esq., is in the vicinity.
+
+----
+
+Uuid: ui6rxrz1ki4suhmj

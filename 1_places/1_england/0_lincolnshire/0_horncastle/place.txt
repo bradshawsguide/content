@@ -1,0 +1,34 @@
+Title: Horncastle
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,846.
+-
+  term: Hotels
+  desc: Bull, Red Lion.
+-
+  term: Fairs
+  desc: March, for cattle; 5th Thursday in Lent; June 21 and 22; August 10 to 21 (for horses); October 28 and 29.
+-
+  term: Market Day
+  desc: Saturday.
+
+----
+
+Notes: Telegraph station at Kirkstead, 7½ miles.
+
+----
+
+Text: (smcp: Horcastle).--A market town, in the county of Lincoln, built on the banks of the Bane, and almost surrounded with small streams of water, celebrated for its large horse fair. The Bane has been rendered navigable to the river Witham; the town was formerly noted for the tanning of hides, but this trade has of late years gradually declined, and at this time there is not a tanner in the place. It is well built, amply supplied with escellent water, and, notwithstanding its low situation, the air is considered very wholesome. The church contains tombs of the Dymokes.
+
+----
+
+Uuid: gi2mwnfr3xfg5y2d

@@ -1,0 +1,35 @@
+Title: Belper
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Lion.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: May 12th and October 31st.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+Famous for its cotton mills, belonging to Messrs-Strutt; its hose bleaching mills and nail factories are likewise worth notice. The church is modern and handsome. The ancient chapel is used as a school-room, and is said to have been built by John of Gaunt. *Belper House*, Lord Belper. The timber viaducts over Belper Pool are nearly 500 feet long.
+
+----
+
+Uuid: I7vm0vZ67Ij6CDQk

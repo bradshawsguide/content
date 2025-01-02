@@ -1,0 +1,45 @@
+Title: Haddington
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: George, Star.
+-
+  term: Market Day
+  desc: Friday.
+-
+  term: Fairs
+  desc: Friday after Rutherglen, 2nd Tuesday in July, July 15th, Friday before Edinbro' Hallow fair.
+-
+  term: Bankers
+  desc: Branch of British Linen Co.; Branch of Bank of Scotland.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Haddington) is the capital of the county bearing the same name. It stands on the left bank of the Tyne, and consists of four principal streets, with several smaller ones branching from it. Within the last twenty years this town has been greatly improved. One of its most elegant buildings is the church, formerly a Franciscan monastery. The suburb of Nungate is connected by a bridge of three arches across the Tyne. Being situated in the heart of a rich agricultural district,
+
+Haddington is an important place for the sile and purchase of grain in the open market. It contains a population of about 3,898, who return one member; two  churches, the oldest of which dating as far back as Edward I., has a ruined choir, with tombs of Rev. John Brown, Maitlands, and Blantyres; five chapels; county-hall, with spire 150 feet high; town-hall, by Adams; School of Art, founded in 1820; museumn, Gray's Public Library, brewery, tanneries, corn mill, four-arched bridge, grammar school, and dispensary,
+
+Here the Earl of Athol was murdered, in 1242. Knox was born, in 1505, in Gifford-street. Andrew Maitland, who married in 1657, had nine children, whose ages counted 738 years. Here prevails the custom of the bellman going round every night, singing the following:--
+
+> A' guid men's servants, whoe'er ye be,
+> Keep coal and can'el for charitie," &c-
+
+In the vicinity are *Colstoun*, the seat of the Marquis of Dalhousie; *Annsfield*, Earl Wemyss (on the site of which stood a woollen factory in Cromwell's time); *Cleckington*, Sir R. Houston, Bart.; and *Stevenson*, Sir J. Sinclair, Bart.
+
+----
+
+Uuid: xo7xwevo1jv4d2j8

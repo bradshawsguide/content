@@ -1,0 +1,37 @@
+Title: North Shields
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 9,595.
+-
+  term: Hotels
+  desc: Albion, and Commercial.
+-
+  term: Market Day
+  desc: Every Friday.
+-
+  term: Fair
+  desc: First Friday in November.
+-
+  term: Bankers
+  desc: Newcastle, Shields, and Sunderland Union Banking Company, Branch of Northumberland, and Durham District Banking Company; National Provincial Bank of England.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: The inhabitants are principally employed in the sail-cloth, rope, anchor, glove, and hat trades. Here is a market-place, theatre, eleven chapels, gas and water works. Clifford Fort, built in 1672, has a fixed light, 77 feet high. The Mutual Ship Insurance Clubs here are excellently conducted. The docks will hold 300 sail.
+
+----
+
+Uuid: fcx8awvzf9ii5b14

@@ -1,0 +1,45 @@
+Title: Blyth
+
+----
+
+Info: 
+
+----
+
+Notes: Telegraph station at North Shields, 10 miles.
+
+----
+
+Text: This place is the property of the Ridley family. It has a very considerable coal trade. Population, 1,953.
+
+----
+
+Distances: 
+
+----
+
+Title-short: 
+
+----
+
+Subtitle: 
+
+----
+
+Desc: 
+
+----
+
+Section: 4
+
+----
+
+Children: 
+
+----
+
+Links: 
+
+----
+
+Uuid: 6hhx2kmrkginj13b

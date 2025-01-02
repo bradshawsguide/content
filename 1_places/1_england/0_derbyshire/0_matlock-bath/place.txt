@@ -1,0 +1,51 @@
+Title: Matlock Bath
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Greave's Old Bath Hotel; New Bath Hotel; Walker's Hotel and Boarding House--very good, comfortable, and moderate; Devonshire Hotel.
+-
+  term: Market Day
+  desc: Saturday.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+(smcp: Matlock Bath).--Unquestionably the sweetest and most charming of the Derbyshire spas (with a population of 4,252). It is at the bottom of Matlock Dale, a narrow defile, the rocky limestone sides of which are piled up in the manner of the Underclif, in the Isle of Wight, but covered with a profusion of pine, fir, yew, box, and other hardy trees. The scenes through Matlock Bath are exquisitely beautiful, and may be compared to a Switzerland in a nut shell.
+
+The High Tor is one of the most remarkable rocks in England, in consequence of the immense mass of bare perpendicular rock exhibited at such an altitude. The limestones of the Jura, in Southern Germany, do not show so bold a face. The granite of the Alps have perpendicular faces or chasms to the depth of 2,000 feet, but then no living being has ever been able to descend and look up to their gigantic forms; on the contrary, in Derbyshire, you can walk in amongst these masses, admire, and somewhat estimate their proportions. In Wales. Scotland, and on the Alps, the scale of altitude and breadth is vast and profound, requiring time to consider and estimate their vast proportions; but in Derbyshire the exquisitely beautiful prevails. The lofty rocks and bold crags, richly wooded; the magnificent uplands and rounded knolls; the sweet val-lies, intersected with silver streams, such as the Derwent, the Wye, and the Dove, are comprised in one beautiful picture; whilst the attractions of either of these rivers, the lovers of the rod and line can well attest. They are, perhaps, the best for trout and grayling in the kingdom.
+
+From this point the High Tor, the Hag Tor, the Cat Tor, on the left, with Stonnis or the Black Rocks in the distance, form a semi-amphitheatre of most imposing objects, while on the right is Masson Low, or the Heights of Abraham (from the likeness it bears to the scene of Wolfe's Victory at Quebec), 1,600 feet above the river-with the tower on the lower height and the range of hills which slope upwards from the valley, present a most perfect and enchanting *coup d'œil*. Many of the lodging houses are perched on these slopes, looking down on the river and the rail, which run close to the road beneath. These Tors and hills shelter the valley in winter, and in summer offer the most tempting and invigorating walks on their summits. From them are numerous fine views in and about Matlock, but the most beautiful of all, and the crown and glory of all the magnificent scenery in Derby-shire, is the view from Stonnis. We stand on a large upheaved mass of sandstone rock having a perpendicular descent of 50 feet, beneath runs the Cromford and High Peak Railway, one of the oldest in the kingdom; from this point, such a prospect lies before us as can never properly be described; on the right are the hills of Crich, the woods of Lea and Holloway, the valley of the Derwent, threaded by rail, canal, road, and river, the sides of Riber sweeping over against Matlock. *Willersley Castle*, the seat of the Arkwrights, and Matlock Bath, with its white houses, craggy steeps, masses of intermingled rock and foliage, its spired church, and sparkling river, with Masson raising its proud head above them all. It is from Stonnis, and Stonnis alone, that Masson can be seen. while a little to the left beyond stands the High Tor, with its Titanic front. Still further beyond are the purple moors of Tansley, standing in relief, completing a picture of such beauty and grandeur as cannot be surpassed in England.
+
+(smcp: Baths).--The waters at the old and new Bath Hotels are warm (only 68°) and slightly tonic, and delightful to bathe in during the hot weather. Being charged with limestone-tufa the springs soon cover anything placed in them with a crust, or convert it into a stony substance. The prices are, tepid swimming or shower bath, ls.; hot bath, 2s. 6d. The waters are recommended in nervous disorders, and the first stage of consumption. As they contain much free carbonic acid, they may be drunk as a common beverage. Their sources are 2,000 or 3,000 feet down.
+
+(smcp: Objects Worth Seeing).--Walker's and other geological museums, the petrifying wells, the Cumber-land, Rutland, and Devonshire caves, the "romantic rocks," &c., &c., the guides to which are exceedingly civil, unassuming, and reasonable.
+
+The following are the principal Drives and Walks, with the prices of conveyance. Drives:
+
+1. The Black Rocks, round by Middleton and *via* Gellia.
+2. Wingfield Manor, and return by Old Matlock, 13s.
+3. Router Rocks, Druidical remains, and Rocking Stone. 16s. 6d.
+4. Haddon Hall, 13s.; Haddon Hall and Chatsworth, 21s.; Dove-Dale, 23s.; ditto pair of horses, 30s.; Lea Hurst, 6s. 6d. These charges include the driver.
+
+Walks: Willersley Grounds, Monday and Thursday. Lovers' walk, every day; Ferry, 3d. Heights of Abraham, entrance, 6d. Walker's boat for a sail or row, 6d. each passenger.
+
+From Matlock a delightful excursion may be made to *Dove Dale*, by *Winster* to *Hartington*, whence the tourist may ascend this river to its source, on Axe Edge, on the borders of Staffordshire, or down to Ashbourne. On the route is *Winster*, by the side of i steep hill, with stone-roofed houses amidst orchards and gardens. At *Arbelow*, near it are a Druidical circle and some tumuli. Then passing *Pile Hall*, a little hostelrie, near which are crossed the old Roman road and the High Peak Railway, and then over crag and through hollow, by *Newhaven Inn* and *Heathcote*, a most charming excursion for a good walker, the scenery of the Dove will repay him.
+
+----
+
+Uuid: 7JMvdd8DbFvvM5ma

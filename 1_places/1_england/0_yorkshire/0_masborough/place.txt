@@ -1,0 +1,21 @@
+Title: Masborough
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Crown.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: TOyGb2BKEQTADpdX

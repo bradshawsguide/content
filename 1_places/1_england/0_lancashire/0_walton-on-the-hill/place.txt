@@ -1,0 +1,28 @@
+Title: Walton-on-the-Hill
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,598.
+-
+  term: Money Order Office
+  desc: at Liverpool, 3½ miles.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: The church here is prettily situated on a slight declivity, and was the mother church to Liverpool till 1698. *Walton Hall*, seat of T. Leyland, Esq., and *Fazakerley Hall*, H. Fazakerley, Esg, are close at hand.
+
+----
+
+Uuid: 2rcvw8uhkqfvfxxp

@@ -1,0 +1,47 @@
+Title: Whitby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 12,051.
+-
+  term: Hotels
+  desc: Royal, on the West Cliff, for families and gentlemen; the Angel, family and commercial; Ward's Magnet; Commercial.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: August 25th, Martinmas Day.
+-
+  term: Races
+  desc: In September, on the sands.
+-
+  term: Bankers
+  desc: Branch of York City and County Banking Co.; Simpson and Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+There are, among the watering places of England, few that have been more greatly benefited than Whitby from railway communication, or that have become better adapted for the reception of visitors. The town stands at the north east angle of the county of York, where the romantic river Esk pours its stream into the German Ocean. Enclosed between precipitous cliffs, the old torn is scarcely to be seen, until nearly approached, though its locality is well pointed out by the ruins of its once stately abbey, which is still a beautiful object, adorning the east cliff; while on the west cliff, *New Whitby*, a magnificent pile of buildings, including a splendid hotel, recently built, containing warm baths, and every convenience for the accommodation of visitors, is admirably situated at an elevation of 100 feet above the level of the sea, commanding varied prospects, and at the same time accessible from the sands and the piers. Whitby has long been admired for the peculiarity of its position and the grandeur of its coast scenery. To the eastward the cliffs rise abruptly, nearly 200 feet above the sea, and towards the south present a succession of bold headlands.
+
+To the north the views along the coast are not less imposing.
+imposing. The headlands at Sandsend, Kettleness, Runswick, Staithes, Huntcliffe, and Rawcliffe, abrupt in outline, and varying in elevation from 200 to 600 feet, present a succession of coast scenery scarcely to be exceeded for beauty is England; whilst the vallies, opening up the country from the sea, are replete with picturesque beauty. The old church of St. Mary stands close to the abbey, from which extensive prospects present themselves on every side. The ocean washing the beach, enlivened with passing. vessels; the woods and castle of Mulgrave (the domain of the Marquis of Normanby); the piers, unequalled in this country for boldness of design; the town, harbour, shipping, and swing bridge across the river, all immediately beneath the eye; the fertile valley of the Esk, the hills intersecting one another, villas, hamlets, plantations, and the high moors beyond, covered with heath, altogether form a picture rarely surpassed. The west pier, extending 1,030 feet into the sea, with an elegant columnar lighthouse at its extremity, forms a favourite promenade; and the road cut through the solid rock and extending from the battery to the west cliff, is found to be highly advantageous to visitors.
+
+There is probably no spot in England possessed of more varied rides and walks than the Whitby district. In every direction excursions may be formed: Robin Hood's Bay, Mulgrave Castle and woods, and the villages of Hawsker, Stainacre, Sneaton, Ugglebarnby, Aislaby, Sleights, Egton Bridge, Grosmont &c., are most accessible. Steamers are constantly plying to Scarborough, Redcar, Hartlepool, Stockton, New-castle, &c., whilst sailing craft can be obtained at any hour to take trips in the offing. There is the usual accommodation provided for sea bathing. The beach extends three miles. Chambers the marine painter was a native. In the vicinity are *Whitby Abbey*, the seat of G. Cholmley, Esq., Lord of the Manor; *Airy Hill*, James Walker, Esq.; *Low Stukesby*, John Chapman, Esq.; *Sneaton Castle*, the Rev. W. Giles; *Larport Hall*, late E. Turton, Esq; *Hausker Hall*, B. Gatliff, Esq.; and *Robin Hood's Butts*, distant six miles, "the mark where Robin Hood's arrow flew when he shot before the Abbot of Whitby."
+
+----
+
+Uuid: 9xafbg5uldusioi3

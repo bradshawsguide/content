@@ -1,0 +1,37 @@
+Title: Newmarket
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Rutland Arms; Stars.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: Whit Tuesday and November 8th.
+-
+  term: Races
+  desc: Easter Monday (Craven); 2nd and 4th Mondays after (first and second) spring; July Monday before 1st Thursday in October; 1st October, 2nd October, 3rd October, or Houghton.
+-
+  term: Bankers
+  desc: Eaton, Hammond, and Son; Forster and Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A market town in the county of Cambridge, with a population of 4,069, long celebrated in the annals of horsemanship for its extensive heath, in the immediate vicinity of which has been formed one of the finest race-courses in the kingdom. The principal part of Newmarket is situated in Suffolk; but the whole of the race course, on whose attractive charms its support mainly depends, is in Cambridgeshire. Most of the houses are modern and well built; and many of them, which have been erected as residences for the nobility and private gentlemen who attend the races, are extremely handsome. The church contains a tomb to Frampton, trainer to Queen Anne and George I. and II. Bishop Merks, and Harewood the physician, were natives.
+
+----
+
+Uuid: BHuKJ6TRWFlPWlkb

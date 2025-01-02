@@ -1,0 +1,29 @@
+Title: Church
+
+----
+
+Subtitle: (Kirk)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,000.
+
+----
+
+Notes: Telegraph station at Accrington, 1 mile.
+
+----
+
+Text: Here are extensive calico, print, dye, and chemical works. In the vicinity is *Dunkenhalgh Park*, seat of E. Petre, Esq., and *Foxhill Bank*, the seat of James Simpson, Esq.
+
+----
+
+Uuid: dq9oekkrrlgz6ulf

@@ -1,0 +1,24 @@
+Title: Cheadle
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 6,115.
+-
+  term: Hotel
+  desc: White Hart.
+
+----
+
+Text: This little town is situated about half-a-mile to the south of the Mersey, which here forms the boundary between the counties of Lancashire and Cheshire. Its chief trade consists of cotton and silk manufactures.
+
+----
+
+Uuid: nnustubmyii5munl

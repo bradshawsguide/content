@@ -2,29 +2,27 @@ Title: Newton
 
 ----
 
-Section: 3
+Section: 4
 
 ----
 
 Info:
 
 -
-  term: Population
-  desc: 5,909.
--
   term: Hotel
-  desc: Legh Arms.
+  desc: Railway.
 
 ----
 
-Notes: A telegraph station.
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
 
 ----
 
-Text:
-
-Here the Highlanders were defeated, in 1648. M'Corquodale and Co.'s printing works should be visited. In the vicinity are Castle Hill, with its old oaks, and *Haydock Park*, seat of T. Legh, Esq., used as a private Lunatic Asylum, under the direction of Mr. Sutton.
+Text: This place has a population of 6,410, principally engaged in cotton spinning.
 
 ----
 
-Uuid: jn7YkAp6DtZSZBts
+Uuid: 1r0qaxwpdo3xoavw

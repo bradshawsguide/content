@@ -1,0 +1,29 @@
+Title: Spondon
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,523.
+
+----
+
+Notes:
+
+- Telegraph station at Derby, 2¾ miles.
+
+----
+
+Text:
+
+In the vicinity is *Spondon Hall*, W. J. Cox, Esq.; *Chaddesden Hall*, Sir H. Wilmot, Bart.; and *Osmaston Hall*, Sir Robert Wilmot, Bart.
+
+----
+
+Uuid: dvMgRfk39Hnlaiin

@@ -1,0 +1,17 @@
+Title: Aintree
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: The Liverpool races are held here in February, July, and November. The Grand Stand was built in 1830, and the course is 1½ mile round.
+
+----
+
+Uuid: ix600ndjuble1fu2

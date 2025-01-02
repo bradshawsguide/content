@@ -1,0 +1,31 @@
+Title: Glossop
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 19,126.
+-
+  term: Hotel
+  desc: Railway.
+-
+  term: Fair
+  desc: May 6, for cattle.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: It contains an ancient church, with tomb of Section e, of Park Hall; several mills, foundries, bleach and print works. In the vicinity are *Glossop Hall*, seat of Lord Edward Howard. Within a short distance, a Roman road, popularly called the Doctor's Gate, leads into the Roman Station, now called *Melandra Castle*, situated on an eminence near the confluence of two mountain streams. The ramparts, ditch, prætorium, and foundations of buildings, fill the beholder with gloomy but pleasurable feelings.
+
+----
+
+Uuid: rrljvpezd3kdkcv5

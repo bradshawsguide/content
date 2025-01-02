@@ -1,0 +1,34 @@
+Title: Louth
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Fleece, King's Head.
+-
+  term: Market Days
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: April 30, August 5 and 17, November 22, 3rd Monday after Easter.
+-
+  term: Bankers
+  desc: Branch Lincoln and Lindsay Banking Co.; Garfitt, Claypons, and Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A large municipal town, with a population of 10,560. It contains a beautiful Gothic church, with a spire 288 feet high. In the cemetery formerly stood St. Mary's Church, the vicarage of which was converted into a hermitage The Corn Exchange is a fine edifice. Edward VI. founded the grammar school; its income amounts to £1,463, and the seal "a boy birched by his master," with the pithy motto, "Qui parcit verge," &c., ("Whoso spareth the rod hateth the child.")--Sharp's *British Gazetteer*. In the vicinity are *Yarborough*, the old seat of the Yarburgh family, *Cockerington House*, W. Scrope, Esq., descendant of the ancient family of that name in Richard II.'s time; and the decayed port of Saltfleet.
+
+----
+
+Uuid: ffg44lfkaasbxc8v

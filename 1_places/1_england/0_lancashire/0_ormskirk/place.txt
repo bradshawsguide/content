@@ -1,0 +1,37 @@
+Title: Ormskirk
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Wheat Sheaf.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: Whit Monday, June 21st, September 1st & 10th.
+-
+  term: Bankers
+  desc: Robert Lawe & Co.
+
+----
+
+Notes:
+
+- Distance from station, 3 miles.
+- A telegraph station.
+
+----
+
+Text: A market town, with a population of 6,426, noted for its gingerbread. The church contains tombs of the Derby family, removed from Buscough, and a separate bell tower. About to miles distant is *Scarisbrick Hall*, seat of the Scarisbricks, which contains a splendid collection of paintings. Near at hand is Martin Mere, drained effectually in 1799, and *Lathom House*, Lord Skelmersdale's seat, rebuilt on the site of the Stanley's old seat, which was defended by Charlotte de la Tremouaille, the celebrated Countess of Derby, against the parliamentarians, for three months, given up and dismantled in 1645.
+
+----
+
+Uuid: ukxf8ftvhu3tedao

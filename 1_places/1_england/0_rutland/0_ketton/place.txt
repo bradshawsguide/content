@@ -1,0 +1,27 @@
+Title: Ketton
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,053.
+
+----
+
+Notes:
+
+- Telegraph station at Stamford, 3½ miles.
+
+----
+
+Text: The Old Church here has a fine Norman tower, 180 feet high. It was the custom in ancient times for the lord of the manor to hold it by the tenure of providing the Queen with boots.
+
+----
+
+Uuid: EfJuspE4awRTvyO8

@@ -1,0 +1,39 @@
+Title: Beverley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Beverley Arms.
+-
+  term: Market Day
+  desc: Saturday, and every alternate Wednesday.
+-
+  term: Fairs
+  desc: Tuesday before February 25th, Holy Thursday July 5th, Wednesday before September 25th, and November 6th.
+-
+  term: Races
+  desc: in June.
+-
+  term: Bankers
+  desc: Bower & Co.; Machell & Co.; Branch of Hull Banking Co.; Branch of Yorkshire Banking Company.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Beverley), 10 miles up the Hull, with its noble *Minster*, 333 feet long, built on the spot where St. John of Beverley was buried, whose standard was carried about by Edward I., in his invasion of Scotland, to encourage his soldiers. It contains the beautiful Percy screen, old sanctuary, quaint portraits of the founders, St. John of Beverley and King Athelstane, tombs of the patron saint and the "freed stool" for criminals to fly to. There is a good grammar school, at which the three bishops, Fisher (executed by Henry VIII.), Alcock who founded Jesus College, Cambridge), and Green were scholars, who, together with Alfred of Beverley and Mary Woolstonecroft were natives. Ruins of Meaux Abbey. It has a population of 10,869, who return two members. At *Routh* is a Norman church; *South Shirlaugh* has a church built by Bishop Skerlaw; close at hand is *Dalton Hall*, Lord Hotham. Beverley means "beaver lake." Its horse fair is important. Formerly this part was a complete forest, but cleared for fuel.
+
+----
+
+Uuid: ohrkjjwblcrmsipg

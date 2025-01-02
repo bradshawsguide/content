@@ -1,0 +1,34 @@
+Title: Harlow
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,377.
+-
+  term: Hotels
+  desc: George; New (at the Railway Station).
+-
+  term: Fair
+  desc: September 9th, for horses, called Harlow Bush Fair.
+
+----
+
+Notes:
+
+Distance from station, ¾ mile.
+A telegraph station.
+
+----
+
+Text: In the vicinity is *Otes*, the seat of the celebrated Mrs. Masham (Queen Anne's favourite). Here died Locke, in 1784; and *Laver* church.
+
+----
+
+Uuid: eLIFn6hhhAnH3dJe

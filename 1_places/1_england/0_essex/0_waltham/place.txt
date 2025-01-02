@@ -1,0 +1,34 @@
+Title: Waltham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,873.
+-
+  term: Hotel
+  desc: Four Swans.
+-
+  term: Money Order Office
+  desc: at Waltham Cross, 1 mile.
+
+----
+
+Notes:
+
+Distance from station, 1 mile.
+A telegraph station.
+
+----
+
+Text: (smcp: Waltham Abbey) is a market town in the county of Essex, standing on the banks of the river Lea, surrounded on several sides by fruitful gardens and meadowland. The town is irregularly built, but of great antiquity, It derives its name from its once stately abbey, erected by Harold, son of Earl Godwin. This edifice has almost entirely passed away, but enough remains to show the magnificence of design and elaborate finish of the buildings. In the vicinity is *Waltham Cross*, one of the fifteen erected by Edward I. to Queen Eleanor's memory; *Theobald's Park*, Sir H. Meux, Bart., where James I., Charles I., and Lord Burleigh resided; the *Government Power Mills*; the remains of a monastery founded by Canute, in which Harold, the last Saxon King, was buried. Cranmer resided here. *Copper Hall*, H. Conyers, Esq., and *Epping Forest*.
+
+----
+
+Uuid: gG94vmEAJJMIeZpz

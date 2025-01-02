@@ -1,0 +1,34 @@
+Title: Ilford (Barking)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,523; of Barking, 5,076.
+-
+  term: Hotel
+  desc: Angel.
+-
+  term: Market Day
+  desc: (At Barking) Saturday, for North country cattle.
+-
+  term: Fair
+  desc: October 22nd.
+
+----
+
+Notes: Telegraph station at Stamford, 3½ miles.
+
+----
+
+Text: The *Town Hall* is an old-fashioned timber-roofed building, *St. Margaret's Church* contains brasses and effigies of Sir C. Montague, and monument of Day, who founded Fairlop fair; near it are the remains of the Abbey gate, and Holyrood chapel over it. In the vicinity are *Bufrons*, the seat of the Sterry family; and *Albury Hatch*, in Hainault Forest, in which stood the famous Fairlop Oak, 36 feet in girth. It is stated that Hainault may be spelt 2,301 different ways by as many different Frenchmen. -- *Sharp's British Gazetteer*. The Grampus, of 54 guns, was wrecked on Barking Shelf in 1799; the shoal is ⅝ mile long.
+
+----
+
+Uuid: xSD5vuUalGevU8Je

@@ -1,0 +1,28 @@
+Title: Sowerby Bridge Junction
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 5,382.
+
+----
+
+Notes:
+
+- Distance from station, 1 mile to the town of Sowerby.
+- A telegraph station.
+
+----
+
+Text: In St. Peter's church is a statue of Archbishop Tillotson, a native of Haughead, In 1678 some Roman coins were found here.
+
+----
+
+Uuid: gsqvufnhg4hnv3t8

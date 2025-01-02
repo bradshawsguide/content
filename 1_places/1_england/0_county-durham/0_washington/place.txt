@@ -1,0 +1,24 @@
+Title: Washington
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,829.
+-
+  term: Money Order Office
+  desc: at Gateshead, 7 miles.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: dph7xbo0dgsksqwr

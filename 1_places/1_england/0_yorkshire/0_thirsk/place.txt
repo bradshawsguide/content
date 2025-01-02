@@ -1,0 +1,47 @@
+Title: Thirsk
+
+----
+
+Subtitle: (Junction)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Three Tuns; Golden Fleece.
+-
+  term: Market Day
+  desc: Monday.
+-
+  term: Fairs
+  desc: Shrive Tuesday, April 4th and 5th, August 4th and 5th, October 28th and 29th, the first Tuesday after December 11th, Easter and Whit-Monday.
+-
+  term: Bankers
+  desc: J. Backhouse and Co.; Branch of Yorkshire Banking Co.; Branch of York Union Bank.
+
+----
+
+Notes:
+
+- Distance from the station to Thirsk, 1¼ mile.
+- A telegraph station.
+
+----
+
+Text:
+
+This borough has a population of 5,350, chiefly engaged in the sacking and leather trade. The old Church has a very handsome interior, and the roof is remarkable. The modern stained glass (by a lady amateur), sedilia, and tombs are worth inspection.
+
+Thirsk formerly returned two members to Parliament, the whole of the votes being in the hands of one family. It now returns only one member. The town is divided into squares of an old-fashioned appearance, but it cannot lay claim to any feature worthy of attention. There is a billiard room in the place, and a new reading room erected by Sir Wm. P. Gallwey, M.P. for the borough. The country in the immediate neighbourhood is flat, but begins to undulate at Thirkleby (3½ miles), the property of Lady Frankland Russell, where there is a handsome new church and a remarkable avenue of limes. At Thirkleby is good grayling fishing.
+
+A few miles on is *Byland Abbey*, a fine ruin, in going to which Sterne's house may be observed on the left. Pedestrians intending to visit *Rievaulx Abbey* should make a point of visiting Whitestonecliff, which is well worth the ascent. In the lake at the foot most excellent trolling may be obtained rom the proprietor.
+
+----
+
+Uuid: rf58buovdrizwzgc

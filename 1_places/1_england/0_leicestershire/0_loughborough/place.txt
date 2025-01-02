@@ -1,0 +1,33 @@
+Title: Loughborough
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: King's Head, Bull, and Archer.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: March 28th, April 25th, August 12th, and November 13th.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text: This town, with a population of 10,830, is a seat of the lace and stocking trades. In 1557 it was depopulated by the sweating sickness. In the vicinity are *Prestwold Hall*, with its fine collection of pictures, seat of C. Packe, Esq., M P.; *Garendon Park*, C. Philips, Esq; and *Walton House*, E. Dawson, Esq.
+
+----
+
+Uuid: VSy8Ezv1QVtFWqUh

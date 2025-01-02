@@ -1,0 +1,37 @@
+Title: Biggleswade
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Swan.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: February 13th, August 2nd, November 8th, Whit Monday, and Saturday in Easter Week.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A market town in Bedfordshire, with a population of 4,027, pleasantly situated in a fertile valley, on the eastern bank of the river Ivel, which is navigable as far as its junction with the river Ouse.
+
+The town consists of an early English Church, with brasses of Holstede, and angels, with St. John's Head; neat and modern houses, and was formerly one of the most extensive corn markets in England. Some of the finest vegetables are produced here, in large quantities, for the London market.
+
+In the vicinity are *Stratton Park*, C. Barnet, Esq. Here the *Coton Library* figured during the civil wars. Old *Warden House*, near the ruins of Warden Abbey, Lord Ongley.
+
+----
+
+Uuid: 8fjxx9hzqb7i2rvf

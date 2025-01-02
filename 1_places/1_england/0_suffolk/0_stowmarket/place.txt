@@ -1,0 +1,38 @@
+Title: Stowmarket
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,531.
+-
+  term: Hotel
+  desc: King's Head.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: July 10, and August 12.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+The Stowmarket station is of brick, in the Elizabethan style. The distance from Stowmarket to Ipswich is about 12 miles, and Bury St. Edmunds, 14½.
+
+Stowmarket is situated at the confluence of two branches of the river Gipping, on the road from Ipswich to Bury St. Edmunds. The church is Gothic, and at the parsonage is Milton's tree, planted by him when studying with his tutor; Dr. Young, the Puritan. Here are tombs of the Tyrrels. A large quantity of malt is made here, and there is only one place in the kingdom where a larger amount is paid to Government.
+
+----
+
+Uuid: im4s5u4vd7ryj4bn

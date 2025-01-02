@@ -1,0 +1,43 @@
+Title: Settle
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,586.
+-
+  term: Hotel
+  desc: Golden Lion.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: April 26, Whit Tuesday, August 18 and 20, Tuesday after October 27, every Tuesday from Easter to Whit Sunday, and every alternate Monday.
+
+----
+
+Notes:
+
+Distance from station, 1¼ mile.
+Telegraph station at Skipton, 15¼ miles.
+
+----
+
+Text:
+
+A small market town in the Vale of the Ribble, at the top of the West Riding of Yorkshire, among the mountains at the back-bone of England. From Leeds it is 12 miles, and 24 from Lancaster, the two being united by a line held by the Midland Company.
+
+It contains cotton and paper works, but no remarkable building. Formerly there was a fort on a cliff above the town, called Castleberg, whence you have a view of Ingleborough, Pennigant, and other mountains. Here Dr Birkbeck, the philosopher, was born in 1776; after whom schools have been established in which a general education is given, without regard to religious dogmas. He was the founder of the London Mechanics' Institution. There are distinct market days for fat and lean cattle, the pasture being excellent. At *Giggleswick*, across the river, is the another church; a *Grammar school*, in which Paley was educated, and an intermittent spring.
+
+Various (smcp: Excursions) may be made. Over the moors to *Malham Core* (5 miles), a limestone ridge, nearly 300 feet high, over which there is a good waterfall in rainy weather. A little further is *Malham Tarn*, a small lake at the river Aire's head, only 4 miles round, yet the largest in Yorkshire, *Kettlewell*, 7 miles further, is a mountain village, at the head of the Wharfe. Great Whernside, above it, is a mountain, 2,225 feet high. Down the Ribble are *Gisburn Park*, the seat of Lord Ribblesdale, where there is a rare breed of hornless wild cattle, all white, except the tips of their noses. At Bolton are the boots and gloves of Henry VI., who found a hiding place here after the battle of Hexham. This corner of Yorkshire was part of Bolland, or Bowland Forest, of which the Parkers of Browsholme, are hereditary keepers. Up the Ribble, above Settle, are *Horton* (1 miles), in the neighbourhood of *Penygant*, a mountain, 2,270 feet high; and further up the head of Castleberg, between Ingleborough (2,060 feet high), Whernside (2,585 feet), Cam Fell (1,925 feet), and other elevated peaks. Hence there are roads to Hawes (over Newby Head pass), and to Sedbergh (up Dent Dale).
+
+----
+
+Uuid: vUvKwX6CMTSjLNM4

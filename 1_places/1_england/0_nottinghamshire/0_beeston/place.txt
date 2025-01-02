@@ -1,0 +1,27 @@
+Title: Beeston
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,195.
+
+----
+
+Notes:
+
+- Telegraph station at Nottingham, 5½ miles.
+
+----
+
+Text: In the vicinity are *Wollaton Hall*, Lord Middleton, a descendant of the celebrated Sir Hugh Willoughby.
+
+----
+
+Uuid: RWXDOg7yeViv8MCM

@@ -1,0 +1,17 @@
+Title: Leamside Junction
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: At a farm-house to the left are the remains of Finchale Abbey.
+
+----
+
+Uuid: 3ok25ukm3htj9bf9

@@ -1,0 +1,34 @@
+Title: Bawtry
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,011.
+-
+  term: Hotel
+  desc: Crown.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: Whitsun Thursday, and November 22nd.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This is a small market town, and contains a Gothic church built of Roche Abbey limestone, much esteemed by sculptors. In the vicinity are *Bawtry Hall*, seat of Dowager Lady Galway, Mission Carr, which is so level "that a base line for the grand survey, was measured on it," the ruined castle and priory of Tickhill, which was built by Roger de Busli, but demolished by the parliamentarians. In the fine old church are some beautiful monuments.
+
+----
+
+Uuid: pxbhxtfppz9ljs1y

@@ -1,0 +1,45 @@
+Title: Ipswich
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: White Horse, Crown and Anchor.
+-
+  term: Market Days
+  desc: Tuesday and Saturday.
+-
+  term: Fairs
+  desc: First Tuesday in May, July 25, August 22, and September 25.
+-
+  term: Races
+  desc: in July.
+-
+  term: Bankers
+  desc: Bacon, Cobbold, and Co.; Alexander and Co.; National Provincial Bank of England.
+
+----
+
+Notes:
+
+A telegraph station.
+
+----
+
+Text:
+
+(smcp: Ipswich), a port, borough town, and capital of the county of Suffolk, has a population of 37,950, who return two members. It is built on the northern bank of the river Orwell, and when viewed in ascending the river has somewhat the appearance of a crescent. The streets are rather narrow and irregular, like those of most ancient towns, but they are all well paved and lighted. The houses are many of them handsome modern buildings; and the rest, though old, are substantial, commodious, and many have gardens attached to them. At the corners of several streets are yet to be seen the remains of curious carved images, and several of the ancient houses are covered in profusion with this description of ornament.
+
+It contains Town Hall, Corn Exchange, New Market, Custom House (with an old ducking-stool), Barracks, Baths, Theatre (here Garrick made his début, in 1741, as Aboan, in Oronooko), Lunatic Asylum, Hospital, Public Library, Assembly Rooms, Mechanics' Institute, Race Stand, Old Malt Kiln (once Lord Curzon's residence), Grammar School (of which Jeremy Collier was master), thirteen churches; Wolsey's House, where he was born, in 1471, stands near St. Nicholas. Sparrow's House, Christ's Hospital, Ransomes andSim's Machine and Agricultural Implement Works, which cover 14 acres; Public Park, Arboretum, the old churches of St. Lawrence, St. Margaret, de. Wolses, Butler (physician to James I.), Bishops Brownrigg and Laney, Dick, Mrs. Reeve were natives. In 1848 a two storied house was removed 70 feet without injury, und in 1850 a large apricot tree was carried a mile of'-Sharp's *British Gazetteer*. In the vicinity is the *Chauntry*, the seat of Sir Fitzroy Kelly, M.P.
+
+Ipswich is favourably situated for commerce Vessels of aug burden can navigate the Orell to the town itself, where a wet dock of considerable magnitude has been constructed. Vessels are constantly passing from Ipswich to Harwich, They are fitted up for the accommodation of passengers, like the Gravesend boats at London. This excursion forms one of the amusements of the place, for the beauty of the scenery along the banks of the river, bordered on either side, almost the whole way, with gently rising hills, villas, and woods, renders the sail delightful.
+
+----
+
+Uuid: bnhbwbzmzv9bb95k

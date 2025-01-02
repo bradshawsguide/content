@@ -1,0 +1,50 @@
+Title: Yarmouth
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Angel.
+-
+  term: Steam Vessels
+  desc: to Hull every Tuesday. Fares, 9s. and 5s.; to London, twice weekly. Fares, 8s. and 5s.; to Newcastle every Wednesday. Fares. 11s. and 6s.
+-
+  term: Market Day
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: Easter Friday and Saturday.
+-
+  term: Races
+  desc: in August. Marin Regatta in July or August.
+-
+  term: Bankers
+  desc: Gurneys and Co.; Lacon and Co.; Branch of East of England Banking Co.; National Provincial Bank of England.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Great Yarmouth) is a seaport at the eastern extremity of the county of Norfolk, situate on the east bank of the Yare; the parliamentary borough extending on the west side with the county of Suffolk, comprising the hamlet of South Town and parish of Gorleston, Population, 34,810. It returns two members. The town stands on a tongue of land, having the sea on the east, and the river on the south and west, and joined to the mainland at Caister on the north. It is connected with South Town, by a very handsome lifting bridge (finished in 1854), constructed by Grissel and Co. The borough was incorporated by King John. In 1260 the town was surrounded (except on the river side) by a wall, having ten gates and sixteen towers, the remains of which are still to be seen. The town has, however, greatly extended itself beyond the walls. The Church, dedicated to St. Nicholas, is one of the largest parish churches in the kingdom. It was founded in 1123, and has lately been restored. It contains a celebrated organ. Near it is the hall of the Benedictine Priory, restored and used as a school-room. The chief attraction of Yarmouth has always been its noble quay, extending upwards of a mile in length, and having for the most part admirable rows of trees, forming an agreeable promenade; adjoining to which are several Elizabethan houses, exhibiting rare specimens of carved work. The Town Hall and the Police Court are on the Quay. The Market Place is very spacious. There is a Theatre and a Public Library. On the beach a newly-erected Marine Drive extends (with the Victoria Terrace and Esplanade) for nearly a mile. At the south end, the Wellington (promenade landing) Pier, extends 700 feet from the terrace into the sea. At the northern extremity another pier is contemplated, and between them there is a free jetty, near to which are the Bath Rooms Bathing machines are placed both on the north and south beach.
+
+The old town contains about 150 narrow streets or passages, locally called "Rows," extending from east to west, in which many remains of antiquity may still be traced. On the south Denes there is a column, 110 feet high, to the memory of Nelson. The inhabitants are chiefly engaged in the mackerel, herring, and deep-sea fisheries, which are here prosecuted to a very great extent with much success.
+
+The Health of Towns Act has been introduced, and the town is well drained, and supplied with an abundance of pure water from Ormesby Broad.
+
+In the immediate neighbourhood may be seen *Burgh Castle*, one of the most perfect *Roman Camps* in the kingdom; and the remains of *Caister Castle*, which was erected by Sir John Fastolfe, K.G., *temp*. Henry VII.
+
+The town is defended seaward by three Batteries; and it contains a *Naval Hospital*, and *Barracks* for the East Norfolk regiment of Militia, and the Norfolk Artillery Militia.
+
+----
+
+Uuid: 9O0XBnpiNu8X4Lxj

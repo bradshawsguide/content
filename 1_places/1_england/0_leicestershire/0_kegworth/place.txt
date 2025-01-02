@@ -1,0 +1,28 @@
+Title: Kegworth
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,773.
+
+----
+
+Notes:
+
+- Distance from station, 1 mile.
+- A telegraph station.
+
+----
+
+Text: In the vicinity is *Donnington Park*, seat of the Marquis of Hastings, at which Moore passed his boyish days.
+
+----
+
+Uuid: YNUE4GH8U70f2Lmy

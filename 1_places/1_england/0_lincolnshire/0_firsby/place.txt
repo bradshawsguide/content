@@ -1,0 +1,28 @@
+Title: Firsby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Wainfleet, 4 miles.
+
+----
+
+Notes:
+
+- Distance from station, ¾ mile.
+- A telegraph station.
+
+----
+
+Text: At *Spilsby* there is an old church, with tombs of the Willoughbys, and a curious eight-sided market cross. The adventurous yet unfortunate Sir John Franklin, the Arctic Polar Navigator, was a native. The Irby family had a seat at *Irby*.
+
+----
+
+Uuid: qg9xjst8e9qczefn

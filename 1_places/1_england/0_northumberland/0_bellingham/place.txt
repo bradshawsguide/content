@@ -1,0 +1,28 @@
+Title: Bellingham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: May, Saturday before the 12th; September, 1st Wednesday after 15th.
+
+----
+
+Notes: Telegraph station at Hexham, 17 miles.
+
+----
+
+Text: A polling town, situated on the North Tyne, with a population of about 800, principally employed in the mines and quarries, the neighbourhood of which abounds in limestone, coal, and iron.
+
+----
+
+Uuid: 2hoey1fgpo2rhfad

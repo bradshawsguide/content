@@ -1,0 +1,17 @@
+Title: Sleaford
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This little town contains 3,745 inhabitants. The streets and houses have a remarkably clean appearance. The construction of the houses is of red brick, covered with slates and red tiles, which impart to it rather a novel aspect.
+
+----
+
+Uuid: sdgudyvlnizqrbjg

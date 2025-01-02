@@ -1,0 +1,21 @@
+Title: Haughley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 987.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: cyr3hmzmqjt6khzy

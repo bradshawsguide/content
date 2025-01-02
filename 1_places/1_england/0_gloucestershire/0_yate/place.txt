@@ -1,0 +1,16 @@
+Title: Yate
+
+----
+
+Section: 4
+
+----
+
+Text:
+
+In this vicinity are *Doddington Park*, 4 miles, C, Codrington, Esq.; *Little Sodbury House*, 4 miles, near which is an ancient camp, 320 by 200 yards;
+*Chipping Sodbury*, 1½ mile, an ancient town celebrated for its large cheese market; *Badminton House*, 7 miles, Duke of Beaufort, surrounded by a park nine miles in circumference.
+
+----
+
+Uuid: K7kWrxr50oodFn30

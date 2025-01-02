@@ -1,0 +1,38 @@
+Title: Melton Mowbray
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,047.
+-
+  term: Hotel
+  desc: George.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: Tuesday after January 17th, Holy Thurs-day, Whit Tuesday, and August 21st.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+(smcp: Melton Mowbray) is the centre of a famous hunting country. Horses are bred here: its pork pies and Stilton cheese are also valuable productions. All about this quarter is excellent pasture for superior breeds of stock, well known as Leicestershire, especially the old or short-horned cattle and the new Leicestershire sheep, a large long-woolled breed. The cheeses are flat, weighing 30 to 50lbs, each. *Mowbray Lodge*, seat of General Wyndham.
+
+----
+
+Uuid: xMj7LjuPSLc3gQbQ

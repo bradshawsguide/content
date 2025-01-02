@@ -1,0 +1,36 @@
+Title: Halesworth
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 2,382.
+-
+  term: Hotel
+  desc: Angel.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: October 29th, Easter, and Whitsun-weeks.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+The Church, which is built of flint, is a fine edifice. The principal manufactures are sail-cloth and yarn, and general iron foundries. The most extensive malting and corn trade in the county is carried on here.
+
+----
+
+Uuid: lpuqlti9jn8fqhkn

@@ -1,0 +1,47 @@
+Title: Halifax
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Swan.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: June 24th, and 1st Saturday in November.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Halifax), a seat of cloth manufacture, and a parliamentary borough, near the Calder, in the West Riding of Yorkshire, is built of stone, on a hill. The parish is a vast stretch (75,740 acres) of moor land, once part of Hardwick Forest, and nearly as large as the whole county of Rutland, containing a population of 147,988, dispersed in upwards of thirty townships; the borough population is 37,014, who return two members. The spirit of commercial enterprise has recently manifested itself in Halifax by the rapid growth of the town, as tell as the great increase of its population. Carpets and stuffs form the staple manufacture of the town. Perhaps there is no town in England, in proportion to its size, that can boast of so large an outlay of capital in promoting sanitary and architectural improvements as that of Halifax within the last let years. Coal, iron, and stone are found, which employ a large number of hands; while many more are weavers of woollen and other stuffs, as well as shalloons, baizes, serges, and worsted cloth, such as broad cloths.
+
+The *Piece Hall* is a large quadrangular building, three storeys high, built in 1779, and said to have been leased to the town, at the rent of five shillings a year, for five thousand years. It is now worth above 5us. per yard. Each storey is ascended by a stone staircase, and surrounded by a number of small shops or stalls, in front of which a piazza protected by iron railings runs round the whole circumference of the building, the whole overlooking a grassy enclosure, generally occupied by flocks of sheep grazing, remarkably symbolical of the design of the building. There are three arched entrances; one to the north, the second to the south, and the third to the west. The *coup d'œil* from the western gallery has a very pleasing effect.
+
+The *Town Hall* is a new building in the Italian style of architecture. It displays, according to its size, a degree of magnificence rarely to be met with in a provincial town It has been built from designs by the late Sir Charles Barry, and is the last public work on which that gentleman was engaged. Haring died soon after the completion of the plans, the work has been carried out under the superintendence of his son, Mr. Edward M. Barry, A.R.A. The centre hall is a perfect gem, overhung on its four sides by a balcony, with marble balustrades. The floor is paved with beautiful tiles, in some of which are the arms of the borough and county with the Latin motto, "*Nisi Dominus custodierit civitatem.*" The height of the Victoria Tower, with its spire, rises to an elevation of 180 feet. The cost of the building has been above £50,000.
+
+In connection with the town there is a splendid park, the result of the munificence of Sir Frank Crossley, who, when completed, according to the designs of Sir Joseph Paxton, handed it over to the corporation for the benefit of the public. The grounds are most tastefully laid out, and decorated with beautiful statuary. The fountain in the centre is a jet of irater surrounded with a representation of wicker work, which has a very pleasing effect. A statue of the donor in white marble occupies a small building overlooking the grounds.
+
+*St. John's Parish Church*, the parent church or this wide district, is a large later English building of the 15th century (finished, in 1470); 192 feet long, with a low tower, and ornamented with the coats of arms of its successive rectors, as far back as 1274. Sir W. Herschell was organist here, before he turned his attention to astronomy.
+
+Four centuries ago, just before the cloth trade began to flourish, Halifax had but thirteen houses; but it was long noted for a gallows or guillotine, on Gibbet Hill, under the management, at first, o: its feudal Lords, and afterwards of the town authorities, where thieves and poachers were disposed of, till 1650. The Duke of Leeds is now Lord of the Manor. Briggs, who first made a logarithm table, was a native.
+
+Within the parish are Ealand or Elland, the scene of the "Ballad of Sir Jno. Ealand," and the feud between him and the Beaumonts of Crossland. Here is a training college for Church Missionary Students. At Haughead, in Sowerby township, Archbishop Tillotson was born, 1630, the son of a Calsinist Sir H. Savile the Greek scholar and provost of Eton, was born at Bradley, in Stainland; he shared in translating the Gospels and the Book of Revelations, in the current version of the Holy Scriptures.
+
+Hartley, the metaphysician, was a native of Illingworth. Though this part of the West Riding is very naked, yet the wild ruggedness of the hills and vallies, and the prospects to be obtained from the highest points, are wonderfully striking, especially towards the back bone of England, in the Lancashire and Derbyshire borders, where some points (edges they are called) are upwards of 1,800 feet high.
+
+----
+
+Uuid: hzaacwa1fpcdff6j

@@ -1,0 +1,28 @@
+Title: Dunham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Swaffham, 4 miles.
+
+----
+
+Notes:
+
+Distance from station, ¼ mile.
+Telegraph station at Swaffham, 8¼ miles.
+
+----
+
+Text: In the vicinity are Dunham Lodge, seat of Sir Clarke; *Castle Acre*, remains of a Priory; *Kempson*, Gen. Fitzroy; *Lexham Hall*, E. Keppel, Esg.; and *Litcham*, with its ancient church.
+
+----
+
+Uuid: HDuUjwqqz2TF0PC6

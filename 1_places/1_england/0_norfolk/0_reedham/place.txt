@@ -1,0 +1,25 @@
+Title: Reedham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 836.
+
+----
+
+Notes: A telegraph station, and junction of the branch line to Lowestoft.
+
+----
+
+Text: At this place, "Lothbrock the Dane was murdered."
+
+----
+
+Uuid: tHqF53lH9Wx9rtPQ

@@ -1,0 +1,29 @@
+Title: Ambergate
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Belper, 3¼ miles.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+A visit should be made to Bull Bridge, where the river, road, rail, aqueduct, and viaduct, intersect each other.
+
+----
+
+Uuid: NPPLO4qlKYjshJQA

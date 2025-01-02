@@ -1,0 +1,33 @@
+Title: Barton-on-Humber
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,797.
+-
+  term: Boats
+  desc: to Kingston-upon-Hull.
+-
+  term: Market Day
+  desc: Monday
+-
+  term: Fair
+  desc: Trinity Thursday.
+-
+  term: Bankers
+  desc: Hull Banking Co.
+
+----
+
+Notes: Telegraph station at New Holland.
+
+----
+
+Uuid: gwk8cxlveyb4tvfo

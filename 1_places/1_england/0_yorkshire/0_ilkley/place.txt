@@ -1,0 +1,13 @@
+Title: Ilkley
+
+----
+
+Section: 4
+
+----
+
+Text: in Wharfdale, at the edge of Rumbles Moor, so celebrated for having been the first in England where Ilydropathy was practised, owing to the purity of its water, and much resorted to by invalids from all parts, on account of the romantic beauty of its situation, and bracing mountain air. Here is a magnificent *Hydropathic Establishment*, opened on the 29th May, 1856, built of stone in the Italian style, which contains billiard room, library, dining room for 100 guests, 2 large drawing rooms, coffee room, 12 sitting rooms on the ground floor; in the upper one are, 2 drawing rooms, 87 bed rooms, and 6 bath rooms. It is under the direction of Dr. Harrison, Hydropathic and Homœopathic Physician, and is delightfully situated in beautiful grounds on an elevation, which commands extensive and picturesque views of the adjacent country. In the immediate vicinity, the traveller can visit the trout streams about Ilkley, the wooded heights of the Wharfe, *Bolton Abbey*, with its line woods; the rich scenery of Malham, Goodale, and Brimham; together with those singular phenomena, the Caves of Clapham, Yordas, and Weathercote, which can easily be reached by railway or road.
+
+----
+
+Uuid: kroxmss7ehjhlgcx

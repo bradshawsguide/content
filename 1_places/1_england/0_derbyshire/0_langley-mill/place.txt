@@ -1,0 +1,28 @@
+Title: Langley Mill
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,084.
+
+----
+
+Notes:
+
+- Distance from station, 1 mile
+- Telegraph station at Trent, 9 miles.
+
+----
+
+Text: In the vicinity is *Greasley*, the old seat of the Cantilupes, who founded Beauvale Priory, some parts of which are left standing; also *Heanor*, *Brinstey*, and *Underwood*, all beautiful seats.
+
+----
+
+Uuid: Vfqom5D9GryusDWi

@@ -1,0 +1,31 @@
+Title: Histon
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 971.
+-
+  term: Money Order Office
+  desc: at Cambridge, 4¾ miles.
+
+----
+
+Notes:
+
+Distance from station, ¾ mile.
+Telegraph station at Cambridge, 4¾ miles.
+
+----
+
+Text: In the vicinity are *Impington*, (birth place of Pepys, secretary to the navy in Charles II.'s time, and author of Pepys' Diary, to which family the late lord Chancellor Cottenham belonged). *Impington House* seat of Mrs. Knight; near this spot, "a woman was in 1799 buried under the snow for eight days and dug out again."
+
+----
+
+Uuid: zQscJ8kHVbhYoNQq

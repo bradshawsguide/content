@@ -1,0 +1,29 @@
+Title: Roxburgh
+
+----
+
+Subtitle: (North British)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: about 1,141.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: This place was formerly the capital of the county. The moat of the castle still remains. Kings Alexander II. and III. were married here in great pomp. Close to a holly in the river, James II. was killed by the bursting of a cannon, in 1460. Good purple trout abound in the streams. In the vicinity are *Makerstown*, the fine country seat of Sir T. Brisbane, Bart., and *Smailholm Tower*, "the scene of one of Scott's ballads, and the frequent resort of his grandfather."
+
+----
+
+Uuid: kad5ilhqwbt3np08

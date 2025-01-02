@@ -1,0 +1,33 @@
+Title: Cromford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,190.
+-
+  term: Hotel
+  desc: Greyhound.
+
+----
+
+Notes:
+
+- Distance from station, 1 mile.
+- Telegraph station at Matlock Bath, ¾ mile.
+
+----
+
+Text:
+
+Here Arkwright set up his first mill in 1771. In the vicinity is *Willersley Castle*, the Arkwrights' seat. As you approach Willersley Tunnel, you see Willersley Castle, Rock House, Cromford Church, and the Heights of Abraham. Willersley Tunnel is long and dreary, but you emerge from it to the Matlock Bath station, where a majestic amphitheatre if scenery opens to the view. To the left, on the opposite side of the river, is the celebrated.
+
+----
+
+Uuid: 44C1PXMxFUlnBOnr

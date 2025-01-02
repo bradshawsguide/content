@@ -1,0 +1,38 @@
+Title: Barnsley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Royal, King's Head.
+-
+  term: Market Days
+  desc: Wednesday and Saturday.
+-
+  term: Fairs
+  desc: Last Wednesday in February, May 13, October 11.
+-
+  term: Bankers
+  desc: Barnsley Banking Company; Branch of the Wakefield and Barnsley Union Bank, draw on Barnett, and Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+A town in the West Riding of Yorkshire, on a cultivated part of the Dearne, 21 miles from Leeds, belonging to the Duke of Leeds; formerly noted for wire works, but now a seat of the linen trade, especially diapers, drills, ducks, ticks, &c. Pop. 17,890. Here are several good Churches, Market-Place, and free Grammar School Most of the weavers work at home, with yarn spun at Leeds. Here Unions, a mixture of cotton and linen, are made. There are many dyeworks, ironworks, and collieries. At Oaks colliery 72 lives were lost in 1847.
+
+*Monk Bretton*, where there are the ruins of priory of the 12th century, belongs to Rt. Hon. Sir C. Wood, Bart., M.P.
+
+----
+
+Uuid: 0jrjilfkyi0gfqzz

@@ -1,0 +1,13 @@
+Title: Upton-on-Severn
+
+----
+
+Section: 4
+
+----
+
+Text: A neatly-built town with a considerable trade, the river being navigable here for vessels of 100 tons burthen. A Roman road runs between the two towns of Upton and Tewkesbury. Dr. Lee, the astrologer was born here.
+
+----
+
+Uuid: 1zpl0MEE00DBw7ei

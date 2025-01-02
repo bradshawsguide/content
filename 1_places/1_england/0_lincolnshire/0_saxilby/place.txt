@@ -1,0 +1,31 @@
+Title: Saxilby
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,174.
+-
+  term: Money Order Office
+  desc: at Lincoln, 6¼ miles.
+
+----
+
+Notes:
+
+- Distance from station, 1 mile.
+- Telegraph station at Lincoln, 6¼ miles.
+
+----
+
+Text: In the vicinity are *Thorney*, seat of the Nevilles;  *Kettlethorpe*, Sir W. Ingilby, Bart , *Scampton*, and its Roman way; and *Tilbridge Lane*, old seat of the Bolles.
+
+----
+
+Uuid: duz8hu1l12emjhqx

@@ -1,0 +1,33 @@
+Title: Hawick
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Tower; Crown.
+-
+  term: Market Day
+  desc: Thursday
+-
+  term: Fairs
+  desc: "May 17th, first Thursday after St. Boswell's, 1st and 20th September, 3rd Tuesday in October, and November 8th."
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+This town stands near the confluence of the rivers Teviot and Sletterich, on the great road from Edinburgh to London. It has of late years undergone considerable improvements. The inhabitants chiefly engaged in the woollen, lambswool, and cotton hose trade. It contains an excellent library (4,000 vols.), established in 1762, and Trades' Library, (1,500 vols.), School of Arts, Mechanics' Institute, Farmers' Club (the oldest in Scotland), established in 1770, Nursery, Grammar, and Sunday School (the latter of which was one of the first established in Scotland). The church, which is a fine edifice, is built on the site of that from which Sheriff Ramsay was carried off in 1342, by William Douglas, and contains the books of Orrocks, secretary to the Queen of James VI. In 1500, the rector was Gavin Douglas. Here are remains of Roman and British camps, from which are beautiful prospects. Somerville, the historian of Queen Anne's reign, was a native. In the vicinity are *Cavers*, seat of J Douglas; Esq. (here Dr. Leyden was born), *Briaryard*, T. Turnbull, Esq; *Burngrar*, W. Watson, Esq; *Midshields*, A. Douglas, Esg.; *Todrig*, G. Pott, Esq; *Sinton*, J. Scott, Esq; *Woll*, Colonel Scott; *Hencot* -- Stuart, Esq.; *Chisholm*, W. Chisholm, Esq.:
+
+----
+
+Uuid: 0fghwkxspqhrtbg4

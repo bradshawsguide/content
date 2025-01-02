@@ -1,0 +1,33 @@
+Title: Needham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,377.
+-
+  term: Hotel
+  desc: Swan.
+-
+  term: Fair
+  desc: October 28.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+The railway station is an Elizabethan building, substantially constructed of red and white Suffolk bricks, the string-courses and cornices being of Caen stone, and the roof covered with fancy tiles in patterns, and ornamental ridge crests. The centre portion contains the booking office, which communicates on either side with a passengers' waiting room, forming the ground story of the wings. The gateways at the ends are for the egress of the passengers from the up and down trains. The platforms, which are roofed in the whole length, are connected by a passage way below the line, thereby avoiding the danger of crossing on the level. The chapel of ease has a curious wooden bell turret. In the vicinity are *Crowfield*, *Helmingham*, seat of the Tollemache (Earl of Dysart) family; *Shrubland Hall*, Sir W. F. F. Middleton, and *Bosmere Hall*.
+
+----
+
+Uuid: eeczvzozn6lijmtz

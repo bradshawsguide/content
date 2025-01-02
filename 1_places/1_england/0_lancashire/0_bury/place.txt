@@ -1,0 +1,34 @@
+Title: Bury
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Derby.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: March 5th, May 3rd, and September 18th.
+-
+  term: Bankers
+  desc: Branch of Manchester and Liverpool District Banking Co.; Bury Banking Co.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: A cotton town and parliamentary borough, population, 37,563 (one member), on the Irwell, formerly noted for its cloth manufacture, which is still carried on. Coal and stone are quarried. The manor belongs to the Earl of Derby, and half the township to the rector; the living is therefore a very good one, above £2,000 a year. The late Sir Robert Peel was born in 1778, at *Chamber Hall*, now the seat of Thomas Price, Esq. The first Sir Robert was a great benefactor to the town, by promoting its manufactures. A bronze statue to the great statesman, 10 feet high, on a pedestal, stands in the market place. Two other natives were the Kays, father and son, who invented the fly-shuttle (hitherto thrown by the hand), and the drop-box (for three shuttles, for coloured fabrics). There is a *Grammar School* founded by the Rev. Roger Kay, sometime Rector of Fittleton, Wilts. A *Town Hall*, built by Smirke, in the Italian style, at the cost of Lord Derby, contains a hall 75 feet long. *Athenœum*, erected by public subscription, adjoining the Town Hall. Walker and Lomas's, Openshaw's, and Grundy's are the largest mills here. There are print and dyeworks, foundries, paper mills, &c. In 1841, a beautiful Roman Catholic chapel was built by J. Harper. *Heaton Hall*, the seat of the Earl of Wilton, is in a large park, 4 miles south-west.
+
+----
+
+Uuid: 4ipkqi7ybr8gcids

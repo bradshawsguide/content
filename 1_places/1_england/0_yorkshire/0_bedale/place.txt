@@ -1,0 +1,37 @@
+Title: Bedale
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Black Swan.
+-
+  term: Market Day
+  desc: Tuesday.
+-
+  term: Fairs
+  desc: Easter and Whit-Tuesday, July 5th, October 10th, and last Monday but one before Christmas.
+-
+  term: Bankers
+  desc: Swalesdale and Wensleydale Banking Company.
+
+----
+
+Notes: Telegraph station at Northallerton, 8 miles.
+
+----
+
+Text:
+
+This place has a population of 1,157, chiefly employed in horse breeding, and contains an early English church, formerly a retreat for the borderers. In the vicinity are Bedale Grange, seat of the Rev. J Monson (which is built on the site of a castle erected by the Fitzalans), and *Thorpe Perrow*, M.
+Milbanke, Esq.
+
+----
+
+Uuid: 8aaenv8ylxomnc2s

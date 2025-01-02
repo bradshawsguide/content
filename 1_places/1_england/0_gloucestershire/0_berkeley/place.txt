@@ -1,0 +1,45 @@
+Title: Berkeley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,011.
+-
+  term: Hotel
+  desc: Berkeley Arms.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fair
+  desc: May 14th.
+
+----
+
+Notes:
+
+- Telegraph station at Berkeley Road.
+
+----
+
+Text:
+
+A small town in the vale of the same name, a fat loamy tract, between the Cotswold Hills and the Severn, noted for its rich pasture and Double Gloucester cheese. Each cow yields on an average, nearly 1lb. per day. Dr. Jenner, the discoverer of vaccination, was born here. An early English church, with a detached tower, contains his tomb, that of Dicky Pearce, with Swift's epitaph, and those of the Berkeleys, who came here in Henry II's time, and are represented by Earl Fitzhardinge, of Berkeley Castle. This is an ancient moated pile, with a Norman gateway and keep. Here the unfortunate Edward II, was murdered in 1327, by a red-hot iron being driven through his body, at the instigation of his Queen Isabella, and her paramour, Mortimer.
+
+> Mark the year, and mark the night.
+> When Severn shall re-echo with affright,
+> The shrieks of death through Berkeley's roof shall ring;
+> Shrieks of an agonizing king. -- (smcp: Gray.)
+
+A pretended cast of his face, some very old family portraits, and the cabin furniture of Drake, the navigator, are seen in the apartments.
+
+----
+
+Uuid: HiQsqzHAWWM7zWy2

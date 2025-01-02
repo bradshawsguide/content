@@ -1,0 +1,33 @@
+Title: Waltham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 856.
+-
+  term: Money Order Office
+  desc: at Great Grimsby, 3¼ miles.
+
+----
+
+Notes:
+
+- Distance from station, 2 miles.
+- Telegraph station at Great Grimsby, 3¼ miles.
+
+----
+
+Text:
+
+In the vicinity are *Roby Hall*, W. Tomline, Esq.; *Laceby*, J. Fardell, Esg.; *Humberstone Grange* (here was an abbey in Henry III.'s time); *Humberstone*, with its grammar school, founded and richly endowed by a foundling of that name, a native who realised a large fortune in trade.
+
+----
+
+Uuid: rastojte9fwlg0r2

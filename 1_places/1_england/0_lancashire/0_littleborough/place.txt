@@ -1,0 +1,19 @@
+Title: Littleborough
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station
+
+----
+
+Text:
+
+This place is situated close to the great tunnel, which is 1⅝ mile long, 541 feet above the sea, and 400 feet below the surface. It was constructed with 20,000,000 of bricks, and cost £110,000. In the vicinity are *Blackstone Edge*, from which there is a fine prospect, and Hollingworth, with its large Reservoir, upon which a small steamer plys, and pleasure boats may be had.
+
+----
+
+Uuid: qxxncraes9wuho2h

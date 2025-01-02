@@ -1,0 +1,36 @@
+Title: Rowsley
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Peacock.
+-
+  term: Omnibuses
+  desc: to and from Chatsworth, to meet the trains. Fare, 6d.
+
+----
+
+Notes:
+
+- A telegraph station.
+
+----
+
+Text:
+
+Greaves' Posting Establishment; Post Horses in readiness on arrival of every train.
+
+Two miles to the left is *Stanton Hall*, H. B. Thornhill, Esq., on the moor, near which is a remarkable tor, called *Mock Beggar Hall*. Crossing the river Derwent to our left, and following the road to Bakewell for a short distance, we soon come to
+
+(smcp: Haddon Hall), the most complete ancient baronial mansion in existence. It was erected in the early part of the fourteenth century, by one of the Vernons (the "kings of the Peak"), and now belongs to the Duke of Rutland. Its situation is beautiful, and the view from the Wye is exceedingly picturesque. The great Hall (the Martindale Hall of Scott's Peveril of the Peals), the Chapel, the Eagle Tower, the terraced gardens, are objects of interest.
+
+----
+
+Uuid: XZCZg5AMIZP6KK1c

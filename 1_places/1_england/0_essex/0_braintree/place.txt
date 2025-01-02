@@ -1,0 +1,39 @@
+Title: Braintree
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,305.
+-
+  term: Hotel
+  desc: White Hart.
+-
+  term: Coaches
+  desc: to Halstead and Gosfield, twice daily.
+-
+  term: Market Day
+  desc: Wednesday.
+-
+  term: Fairs
+  desc: May 8th, and October 2nd.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+Here is Coker's *Free Grammar School*, in which Kay, the naturalist, (son of a blacksmith at Black-Notley) was a scholar. St. Michael's Church was enlarged previous to the Reformation "with the proceeds of three plays acted in it;" it has a fine tall spire, and contains the tomb of Dr. Collins, physician to Peter the Great. Tusser, the clever agricultural poet, was born at Rivenhall in 1515.
+
+----
+
+Uuid: K6S5N5KinpfkhMLi

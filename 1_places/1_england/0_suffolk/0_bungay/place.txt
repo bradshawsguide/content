@@ -1,0 +1,31 @@
+Title: Bungay
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 3,805.
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: May 14th and September 25th, for cattle.
+
+----
+
+Notes: Telegraph station at Tivetshall, 6¼ miles.
+
+----
+
+Text: On the borders of Suffolk, watered by the Waveney, which is here navigable, there are ruins of a castle and nunnery of the Bigods; with a parish church having one of the round towers so frequent in Norfolk and Norwich. *Loddon* was another possession of the Bigods.
+
+----
+
+Uuid: lbhtfifsyognvi69

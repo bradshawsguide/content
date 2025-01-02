@@ -1,0 +1,27 @@
+Title: Kettering
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: The Royal; George.
+
+----
+
+Notes:
+
+- Telegraph station at Wellingborough, 6¾ miles
+
+----
+
+Text: A small old town in Northamptonshire, slightly elevated. It has a population of about 5,498, engaged principally in the working of wool. The commentator, Dr. Gill, was born here. Here is the chapel in which Andrew Fuller, a rough but clever Baptist divine, officiated till his death, in 1815. He was walking with Jay, of Bath, one day, when an owl flew by. "Is that a Jay?" said Fuller. "What a naturalist you are, brother," said the other; "it can't be a jay. It is fuller in the head, fuller in the eye, fuller in the body, fuller all over." *Boughton House*, the seat of the Buccleuch family, about two miles away, contains a valuable collection of paintings.
+
+----
+
+Uuid: IZEGXZ74ERn2FNvM

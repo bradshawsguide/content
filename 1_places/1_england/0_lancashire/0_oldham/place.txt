@@ -1,0 +1,37 @@
+Title: Oldham
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Angel.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: First Thursday after February 14th, May 2nd, July 8th, and first Wednesday after October 11th; for Cattle, on the second Monday in each month.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+This large and populous borough of Lancashire has no antiquity to boast of, but is a noted manufacturing town,--cotton, fustians, corduroy, hats, and coal being its staple products. Returns two members. Population 91,344; a rough, but hearty, industrious class. Above 2,000 looms a week are made.
+
+"Oudham," which is the common name of the town, stands on a slightly elevated coal field, between the Irk and Medlock, near the Yorkshire border, seven miles from Manchester.
+
+There are about eighty factories, and more than forty Sunday and other schools. A *Free Grammar School* was founded by the Asshetons, who are lords of this manor as well as that of Ashton-under-Lyne. Next to the large and ancient church, and the *Town Hall*, built in 1840, with a Grecian portico, the most striking building is *Henshaw's Blue Coat School*, at Oldham Edge, built in 1934, by Lane, with a munificent bequest from the founder, a successful hatter, who left nearly £100,000 for this purpose, and for the blind school at Manchester. He was a native, and died here in 1S10; as also were Bishop Hugh Oldham and S. Ogden. This borough was represented for many years by the late celebrated William Cobbett, Esq. Coal and stone are quarried in abundance round the town; sometimes with alumina or alum-rock.
+
+----
+
+Uuid: jre8eccnexyfgfl2

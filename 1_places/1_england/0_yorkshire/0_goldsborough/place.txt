@@ -1,0 +1,19 @@
+Title: Goldsborough
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station at Knaresborough.
+
+----
+
+Text:
+
+Close to this place is *Goldsborough Hall*, the seat of the Earl of Harewood; *Ribston Hall*, the old residence of the Goodrickes, at which the Ribston Pippin was first cultivated, and the Knights Templars had a preceptory. The Roman inscription found at York in the 17th century is carefully preserved here.
+
+----
+
+Uuid: 3pcigpuj07milxmf

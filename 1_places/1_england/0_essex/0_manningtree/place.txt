@@ -1,0 +1,37 @@
+Title: Manningtree
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 881.
+-
+  term: Hotel
+  desc: Packet
+-
+  term: Market Day
+  desc: Thursday.
+-
+  term: Fairs
+  desc: Whit-Thursday.
+
+----
+
+Notes:
+
+- Distance from station, ½ mile.
+- A telegraph station.
+
+----
+
+Text: This place is mentioned by the immortal bard, Shakspeare, in his play of Henry IV., 2nd part, act 2, scene 4th, "A roasted Manningtree of with a pudding in his belly." In the vicinity is *Mistley Hall*, E. Rigby, Esq.
+
+----
+
+Uuid: elwfza8pvihwjvg3

@@ -1,0 +1,28 @@
+Title: Filey
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 1,881.
+-
+  term: Hotel
+  desc: Taylor's.
+
+----
+
+Notes: A telegraph station during the summer season.
+
+----
+
+Text: This is a modern watering place, and contains the usual accommodation to be obtained at such. The church is an old half Norman structure. Here is a good mineral spring. Owing to a great number of the men having been drowned in 1851. The population of women is considerably greater than that of the men.
+
+----
+
+Uuid: nvy6d8npxok0aghf

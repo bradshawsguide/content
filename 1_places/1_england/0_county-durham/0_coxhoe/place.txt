@@ -1,0 +1,25 @@
+Title: Coxhoe
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 4,171.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: Close at hand is Coxhoe House, seat of A. Wilkinson, Esq.
+
+----
+
+Uuid: iy4ykupila4kqw1p

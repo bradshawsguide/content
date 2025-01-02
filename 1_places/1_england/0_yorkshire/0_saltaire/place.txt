@@ -1,0 +1,21 @@
+Title: Saltaire
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+----
+
+Notes: Telegraph station at Bradford, 2¼ miles.
+
+----
+
+Text: This place owes its origin to the erection of an immense mill on the banks of the river Aire, by Titus Salt, Esq. The scale on which the various buildings have been erected are as complete as they are extensive, including as they do, houses for the work people, chapel, &c., &c. Lockwood and Mawson were the architects.
+
+----
+
+Uuid: j7gTditvLo7FOu8y

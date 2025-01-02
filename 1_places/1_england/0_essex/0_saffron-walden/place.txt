@@ -1,0 +1,30 @@
+Title: Saffron Walden
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 5,474.
+-
+  term: Hotels
+  desc: Cross Keys, Rose and Crown.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Saturday before Midlent Sunday, the following Monday, August 3rd, November 1st and 2nd.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: HgO2GUe6S3hdaL7p

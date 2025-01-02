@@ -1,0 +1,52 @@
+Title: Leeds
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Scarborough; White Horse.
+-
+  term: Market Days
+  desc: Tuesday and Saturday.
+-
+  term: Fairs
+  desc: July 10th and 11th, November 8th and 9th, and quarterly for leather.
+-
+  term: Bankers
+  desc: Becket and Co., W. W. Brown and Co., Branch Bank of England. Yorkshire Banking Co.
+
+----
+
+Notes: Telegraph stations at Park Row and Railway Station, and 6, Bond Street; Stock Exchange and Corn Exchange on market days.
+
+----
+
+Text:
+
+This great seat of the cloth trade, and actual capital of *Yorkshire*, a parliamentary borough in the West Riding, with a population of 207,165, returning two members, stands on a hill-side by the river Aire. The parish, about six or seven miles square, with its 18 or 20 townships, was formerly a moorland tract of little value, like the rest of Yorkshire, till the discovery of coal and iron enriched it by giving such a wonderful stimulus to the progress of manufactures.
+
+Several large factories and partnership mills are established in the borough (so distinguished from the town, where there are but few); however, most of the cloth is made at home, by the hand-loom weavers, a respectable and industrious class, who carry on the business of dairy farming in addition to the loom. There may be 16,000 looms thus employed in the neighbourhood, of which only one-third are in the borough.
+
+Leeds is at the extremity of the great Yorkshire manufacturing district, which ends here so suddenly that few looms are found in the north half of the borough, which is purely agricultural. The wool having been prepared by the various processes of scouring, carding, and so forth, is handed over to the weaver, who works it on his loom, and then brings it in a rough state to the market to be sold to the finisher, in the form ot mixed (or coloured) cloth, and white (or undyed) cloth. Saturday is the day for sale, which lasts under strict regulations one hour only, in which short space business to a vast extent is done with expedition and quietness. The *Mixed Cloth Hall*, in Wellington Street, is a quadrangular pile, 380 feet long, by 200 broad, and contains 1,780 freehold stalls, arranged in six streets. Before this hall was built, in 1758, cloth was sold in Briggate Street, and in the 17th century it was even exposed on the parapet of the old bridge (built, 1376). The *White Cloth Hall*, in Calls, built in 1775, is a similar structure, 300 feet long, with five streets, and about 1,200 stands.
+
+Though stone is abundant, yet most of the houses are brick-built, the best of the kind being the Red House, which Charles I. had made his head quarters, when Fairfax, the parliamentary general, captured the town, in 1643. Leeds was then of so much importance that it returned members to the long parliament, a privilege which it was again deprived of till the Reform Bill. The modern public buildings are of stone.
+
+On Mill Hill, where the Lacys (who, after the Conquest, held a wide manor in Yorkshire) built their feudal castle, are the *Commercial Buildings*, including an Exchange and News Room, in the Grecian style, built in 1829. In front of the *Court House*, built in 1813, to replace the ancient *Moot Hall*, is Behnes's statue of Peel, placed there in 1852, and standing 8½ feet high, on a pedestal of 20 feet. A marble statue of Queen Anne in the *Corn Exchange*; it formerly stood in the *Moot Hall*, at the head of Briggate. A splendid Corinthian building, to include *Assize Courts* and *Public Hall* (to hold 8,000 persons) was commenced in 1853, by C. Brodrick, on a base of 250 feet by 200, which will be approached by a flight of steps, and have a lofty spire, pedestals for statues, a portico of 10 columns, besides others round the sides, 65 feet high.
+
+The large parish church of *St. Peter*, in Kirkgate, is a modern Gothic cross, rebuilt in 1840, 160 feet long, and contains sittings for nearly 4,000, with a picture of the Last Supper, and one of Greenwood's organs. *St. John's*, built in 1634, is now the oldest church. *St. George's* was built in 1837, for £11,000. At Holbeck is a new church, built by Messrs. Marshall, near their great flax spinning factory, which is a peculiar construction in the Egyptian style, only one story high, but 400 feet long, resting throughout on many pillars. A new Puseyite church, with a tall spire, was opened in 1843. The Roman Catholic chapel of *St. Anne* has a pointed tower 150 feet high, and the Unitarian chapel near the Commercial Buildings is a handsome specimen of the same style; the two Wesleyan chapels here will hold 3,000 persons each. The *Central Market* in Duncan Street, cost £35,000. There are the *Circular Leather* and *Free Market* (a vast open space), besides many flax mills (which spin for the Irish market), dyehouses, and Messrs. Fairbairn's manufactories.
+
+Leeds has *Public Baths*, a Society for the encouragement of the Fine Arts, *Music Hall*, a *Mechanics' Institute*, to which is attached an excellent library (in union with others in the riding), *Philosophical Societies*, *Museums*, *Libraries*, &c.; also a *General Infirmary*, with a picture of "Jairus's Daughter," a *Lying-in* and other *Hospitals*, and an excellent *Industral School* at Birmantofts, in the Elizabethan style, built in 181S. The *Cavalry Barracks* cover 10 acres; a *Cemetery* at Woodhouse Moor, 10 acres; *Botanical Gardens*, 20 acres. At Headingley, there is the old Shire Oak, which gives name to Skyrack Wapentake. There are six bridges, of which the Briggate is much the oldest, though altered by necessary restorations, Monk Bridge was the first suspended on the bow and string plan. The former, which is near the water works, the large Aire and Calder warehouses, leads over to Hunslet, and the latter to Holbeck. Several short ones cross the deep hollow of the Timble Beck, a stream from the north, which, after being joined by the Sheepscar Beck, falls into the Aire at the Lower Wear, near East Street, and is lined with dye-houses.
+
+The *Grammar School*, founded as long ago as 1552, had Archbishop Pullen for its first master; he was one of the seven Yorkshiremen who about the same time rose to be archbishops. Here Dean Milner and his brother Isaac, sons of a weaver, were educated. The Saxons called the town *Loidis*, from which the modern name is formed. Penda, the savage King of Mercia, was defeated near this by the Northumbrians, in 655.
+
+The *Leeds Mercury*, one of the best papers in the north of England, was first published in 1720.
+
+----
+
+Uuid: SqaAYBmJn1KRBTaU

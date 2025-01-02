@@ -1,0 +1,32 @@
+Title: Eastville
+
+----
+
+Subtitle: (Friskney)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Money Order Office
+  desc: at Wainfleet, 5 miles.
+
+----
+
+Notes:
+
+- Distance from station, 3¼ miles.
+- Telegraph station at Frisby, 5¼ miles.
+
+----
+
+Text: The grammar school of Wainfleet was built by the founder of Magdalen College, Osford, Bishop Waynflete, in 1433, a native of this place.
+
+----
+
+Uuid: 1jejla0tzqujfkgb

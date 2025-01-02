@@ -1,0 +1,35 @@
+Title: Hertford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Salisbury Arms.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: May 12th, July 5th, and November 8th.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Hertford), capital of *Hertfordshire*, close to an old ford on the river Lea, where Ermine Street crossed it. Population 6,769. It is a small, irregularly-built country town, with some trade in grain and malt, and remains of a royal *castle* or palace, which having been modernised, is now turned into a school. A tower or two of the original structure may be noticed. Here John of Gaunt had the custody of two captive monarchs. One was his father's (Edward III.) prisoner, the king of France, taken at the battle of Poitiers, in 1356; and the other was David of Scotland, who was captured in 1346, at the battle of Nevill's Cross, by Queen Philippa, while her husband was in France. Afterwards it became the seat of several queens-consort, one of whom was Henry VI.'s wife, Queen Margaret; and the retreat of Elizabeth, when a plague drove the court and judges out of London. A branch of *Christ's Hospital*, or the blue-coat school, consisting of 500 or 600 of the younger children, is stationed here in a large quadrangular pile. The *Sessions House* and *Town Hall* are united in one building. The *County Gaol* is a fine large edifice. There is an old cross-shaped church, with a low spire, a fine corn market and prison, but nothing else remarkable.
+
+A great number of seats are situated about this part of the country. *Balls*, the Marquis of Townshend. *Brickendonbury*, W. Dent, Esq. *Baufordbury*, W. Baker, Esq, has a famous gallery of the *Kit-Cat-Club* portraits, all by Kneller; among them aro those of Marlborough, Sir R. Walpole, Addison, Steele, &c. *Ware Park*, W. Parker, Esq, near Ware Priory. *Chadwell*, at Amwell, is at the head of the *New River*, which was cut between 1607 and 1613, by Sir Hugh Myddleton, and runs by a serpentine course, 36 miles, to Clerkenwell. *Theobalds*, scat of Sit d. Prescott, is on the site of Lord Burleigh's seat, to which Elizabeth came frequently to hunt. Here James I. died, in 1625. *Panshanger*, seat of Earl Cowper, in a charming park; a Madonna by Raphael is here. *Bedwell Park*, seat of Sir C. Eardley, Bart. *Brocket Hall*, the seat of Viscount Melbourne, where the late premier died, *Tewin House* belongs to Earl Cowper. In the churchyard is the tomb of Lady Grimstone, which the ash trees growing from beneath have displaced in a most singular manner. There is a silly story connected with it. *Knebworth Park*, Sir B. Lytton, Bart., M.P., the distinguished novelist. *Hoo Park*, Lord Dacre's seat. *Woodhall Park*, J. Abel Smith, Esq., M.P., the banker.
+
+----
+
+Uuid: EazGrFp540ctv4mr

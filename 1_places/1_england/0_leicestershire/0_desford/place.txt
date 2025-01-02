@@ -1,0 +1,34 @@
+Title: Desford
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Red Lion, and Roe Buck.
+
+----
+
+Notes:
+
+- Telegraph station at Leicester, 8 miles.
+
+----
+
+Text:
+
+Near this, Bosworth Hall church, with its spire and tombs, is worth a visit; also the famous *Bosworth Field*, where Richard III was defeated, August 22, 1485, by the Earl of Richmond,
+
+> "Hero pitch our tents, even here in Bosworth Field."
+> --(smcp: RICHARD III.), Act 5. sc. 3.
+
+who succeeded as Henry VII., thus terminating the long and bloody contest between the rival houses of York and Lancaster. At *Richard's Well* is an inscription by Dr. Parr. There are other localities around commemorating the bat-tle, but all actual traces have now disappeared. Johnson was usher at the Grammar School, at the town of Market Bosworth.
+
+----
+
+Uuid: mbr7lvhAwxgHCy6O

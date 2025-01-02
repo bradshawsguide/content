@@ -1,0 +1,38 @@
+Title: Berwick
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotels
+  desc: Red Lion, King's Arms, Salmon.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: Trinity Friday, second Wednesday in May, Wednesday before 25th August, and first Wednesday in November.
+-
+  term: Bankers
+  desc: Branch of Northumberland and Durham District.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+(smcp: Berwick), or (smcp: Berwick-on-Tweed), at the Tweed's mouth, is a port, and parliamentary borough, sends to members, and has a population of 13,265, 58 miles from Edinburgh. Before the Union it was an important frontier post, as it commanded the east road, between the two countries. It is still a garrison town, having a military governor, barracks, and fortified walls in the old style; but there are few remains of the castle, that scene ot so many contests. Here Edward I. crowned his humble servant Balliol, the competitor of Bruce, and barbarously exposed the limbs of the patriot Wallace after his execution. Here, too, he shut up the Countess of Buchan in the infamous wicker cage, for six years. On one occasion, seven Scots took it by surprise, and on another, it was recovered by Henry IV. from the Percys (then in rebellion), by the firing of a single shot, which was an entirely new thing to the garrison.
+
+Close to the site of it, is Stephenson's Royal Border Bridge or viaduct, for the railway, 216ft. long, on twenty-eight brick arches, 61 feet span. There is an old one to the Tabart of Tweedmouth, besides the Union Suspension Bridge, some miles up the river, built by Brown, and one of the earliest on this principle. The *Town Hall*, built in the last century, by Dodd, has a clock tower, 150 feet high. Much of the produce from the interior is shipped here, in the Berwick schooners and clipper ships, but the harbour is full of reefs. About 80 vessels belong to the port-annual customs £15,000. The salmon fisheries in the Tweed, once worth £15,000 a-year, have declined to £4,000. About Christmas, the people here eat kippered salmon and plum-pudding. Salmon is sent to London, packed in ice. Much whisky is exported. It is an exciseable article on the *town* side of the turnpike gate. Berwick, which is naturally part of Berwickshire, in Scotland, was made independent of both countries, by Henry VIII.; latterly it went with Islandshire, an isolated part of Durham; but since the Act of Union, which transferred such portions of counties to that in which they actually stand, it belongs to Northumberland.
+
+----
+
+Uuid: qc7nhri6mfopm35a

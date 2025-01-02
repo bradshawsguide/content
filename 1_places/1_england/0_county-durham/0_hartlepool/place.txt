@@ -1,0 +1,31 @@
+Title: Hartlepool
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Railway; King's Head.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: May 14, August 21, October 9, and November 27.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text: (smcp: Hartlepool) is situated at a short distance from the mouth of the river Tees, has a population of 12,215, employed in the coal trade. It contains a Guildhall, Custom House, the ruins of a priory founded by Robert de Brus in 1275, an excellent pier, 462 feet long, with fixed light and harbour within a lake or pool in the parish of Hart--hence the name--and Black Hall Caverns, from which fine views may be obtained of the coast. It was formerly strongly fortified, and a place of great strength. It is built on a promontory, and is surrounded on all sides by the sea, with the exception of the north-west, where it communicates with the main land by a narrow neck, and where the water, advancing into the interior, has of itself scooped out a bay of considerable size. Sometimes a submarine forest is visible here. The two Hartlepools now have a population upwards of 24,848, and carry on a large shipping trade with Hamburg and other parts of the world. The entrance of the harbour has an average depth of available water of upwards of 20 feet at spring, and of 16 feet at neap tides. Besides its harbour it has three capacious wet docks, with large graving docks (350 and 320 feet long), and shipbuilding yards, extensive timber and bond yards, wharfage, &c., covering an area of upwards of 175 acres. Vessels of 2,000 tons are most conveniently loaded and discharged, lying afloat. Romaine was a native in 1715. In July, 1856, one of the most terrific storms ever known in England visited this place. The electric fluid appeared in the heavens darting about like clusters of magnificent rockets, and the rain deluged the place for some time.
+
+----
+
+Uuid: ce8pkg5rkurtcors

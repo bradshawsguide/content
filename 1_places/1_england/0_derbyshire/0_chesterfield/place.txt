@@ -1,0 +1,42 @@
+Title: Chesterfield
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Population
+  desc: 9,836.
+-
+  term: Hotels
+  desc: Angel, and Commercial.
+-
+  term: Market Day
+  desc: Saturday.
+-
+  term: Fairs
+  desc: January 27th, February 28th, 1st Saturday in April, May 4th, July 4th, September 25th, and November 25th.
+-
+  term: Races
+  desc: in April and September.
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Text:
+
+This is the Roman *Latudarun*, a neat town which has greatly increased in importance with the prosperity of the collieries and iron works in the neighbourhood. There was a severe conflict here between Henry III. and the insurgent barons, in 1261, and another between the Earl of Newcastle and the Parliamentarians, in 1643. The church was erected in the thirteenth centuy, and is a beautiful edifice: its spire, 230 feet high, is remarkable for being crooked; how it happened has not been recorded.
+
+In the vicinity are *Tapton House* (where the great engineer, George Stephenson, died), *Tapton Grove*, and *Castle Hill*; *Wingerorth Park*, three miles; and *Hasland House*. Five miles to the south-east is *Bolsover*, formerly a market town, but famous for its castle, erected by William Peveril. The present castle, a ponderous structure was erected in the reign of James I., and after undergoing various changes has become the property of the Duke of Portland. The two Charleses, were entertained here very gorgeously.
+It overlooks a large extent of country. The church is very ancient and deserves a visit; likewise that of *Mansfeld Woodhouse*, close by. Five miles north-west is Dronfield, interesting on account of its church; very prettily situated on a hill outside the town, with some rich examples of the English decorated style.
+
+----
+
+Uuid: 1ww8Z7Ceta6vRGyi

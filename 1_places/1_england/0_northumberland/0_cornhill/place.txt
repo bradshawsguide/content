@@ -1,0 +1,32 @@
+Title: Cornhill
+
+----
+
+Subtitle: (for Coldstream)
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Railway.
+-
+  term: Fair
+  desc: December 6th.
+
+----
+
+Notes: Telegraph station at Tweedmouth, 12¼ miles.
+
+----
+
+Text: Close at hand is Flodden Field, noted for the battle fought between James IV. of Scotland and the Earl of Surrey, in 1513, in which the former was defeated and slain. Near the church is a mineral spring, and traces of a castle taken by the Scots in 1549.
+
+----
+
+Uuid: ihxpvnogfmi9hvud

@@ -1,0 +1,28 @@
+Title: Mottram
+
+----
+
+Section: 4
+
+----
+
+Info:
+
+-
+  term: Hotel
+  desc: Junction Inn.
+
+----
+
+Notes:
+
+- Distance from station, 1¼ mile.
+- A telegraph station.
+
+----
+
+Text: This place is beautifully situated in the moorlands. Population, 3,106. It possesses Garside's Free Grammar School, and a later English church, built of pebbly stone, on a hill. In the church are the tombs of Serjeant Bretland, "Old Roe and his wife," and Earnshaw. Car Tor commands extensive views of the Cheshire, Derbyshire, and Yorkshire hills.
+
+----
+
+Uuid: zlvjzowjnjtiotjr

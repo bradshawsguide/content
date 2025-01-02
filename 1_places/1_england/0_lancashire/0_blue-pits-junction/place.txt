@@ -1,0 +1,13 @@
+Title: Blue Pits Junction
+
+----
+
+Section: 4
+
+----
+
+Notes: A telegraph station.
+
+----
+
+Uuid: xc1b7saokvx3ax5x

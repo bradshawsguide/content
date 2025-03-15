@@ -13,7 +13,7 @@ Station: stations/kildare-junction
 Info:
 
 -
-  term: Market day
+  term: Market Day
   desc: Thursday.
 -
   term: Fairs

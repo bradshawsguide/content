@@ -9,7 +9,7 @@ Section: 2
 Info:
 
 -
-  term: Market day
+  term: Market Day
   desc: Thursday.
 -
   term: Fairs

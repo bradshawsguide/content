@@ -24,6 +24,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: In the neighbourhood is *Kirkstall Abbey*, founded by the Lacys in the 12th century, beautifully situated by the river.
+
+----
+
 Text: In the neighbourhood is *Kirkstall Abbey*, founded by the Lacys in the 12th century, beautifully situated by the river. The lofty tower, doorway, and other remains of the church, half Norman in its style, with the Chapter-house, &c., are covered with ivy. *The Grange*, seat of the late W. Beckett, Esq, M.P.
 
 ----

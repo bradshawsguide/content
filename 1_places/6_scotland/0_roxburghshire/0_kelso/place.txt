@@ -27,6 +27,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Kelso is a market town which stands on the north side of the Tweed, opposite the junction of that river with the Teviot.
+
+----
+
 Text:
 
 (smcp: Kelso) is a market town (population about 4,783) in Scotland, which stands on the north side of the Tweed, opposite the junction of that river with the Teviot. It may be considered as the provincial capital of the surrounding fertile country, and noted for its manufacture of woollen tweeds, &c. Its inhabitants are polished, well-informed, and live in a style of considerable elegance, or rather luxury. The situation of the town is uncommonly beautiful It stands on the bank of a noble river, at the foot of that fertile tract of country which descends gradually from the heights of Lammermuir, and terminates on the borders of the Tweed. Here *Scott's Border Minstrelsy* was first published by Ballantyne, and in 1800 Rennie erected a noble five-arched bridge.

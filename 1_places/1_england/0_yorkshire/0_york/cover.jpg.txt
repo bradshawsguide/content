@@ -1,0 +1,3 @@
+template: image
+----
+caption: York from City Walls. Taken between ca. 1890 and ca. 1906. Original: [Library of Congress](https://www.loc.gov/item/2017659768/)

@@ -30,6 +30,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Norwich is agreeably situated on the banks of the Wensum, at a short distance from its junction with the Yare.
+
+----
+
 Text:
 
 An old cathedral town, parliamentary borough (two members), and the capital of Norfolk. Norwich is agreeably situated on the banks of the Wensum, at a short distance from its junction with the Yare. The Wensum flows through the town, the principal part of which, however, is on the south side of the river, occupying the summit and sides of a hill, which rises by a gentle ascent from the south and west, but is much more steep on the other two sides, which are terminated by the valley of the river. The prospect of the city from a little distance is both imposing and beautiful. The massive walls of the old castle, crowning the summit of the hill, form the central object in the view, the lofty spire of the cathedral, and those of the numerous parish churches rising in all directions, give it an air of great magnificence, and mixed with this architectural grandeur is much more than the usual share of rural scenery to be found in populous cities, arising from the many large spaces of ground that are laid out as gardens, or planted with fruit trees. The introduction of the woollen manufacture first established the wealth and eminence of Norwich. A short distance south of it is Caistor, once an important Roman station (*Venta Icenorum*), upon whose decline Norwich grew apace, so that at the Conquest it had 25 churches of mood, and in 1300 had 60. Thirty-six of these remain, one to each parish, built of flint, all destitute of spires to the towers, (many of which are round), and none later than the 15th century.

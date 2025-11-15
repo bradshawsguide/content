@@ -26,6 +26,10 @@ Notes:
 
 ----
 
+Desc: Here is a fine old church, with an ancient cross and some curious and interesting monuments.
+
+----
+
 Text: Here is a fine old church, with an ancient cross and some curious and interesting monuments. A cotton manufactory, marble-works, lead mines, baths, chalybeate springs, and excellent trout fishing, aid to interest the visitor. Three miles to the north-east of this is the village of *Edensor*, where is the public entrance to [**Chatworth**](/places/england/derbyshire/chatsworth).
 
 ----

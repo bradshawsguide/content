@@ -33,6 +33,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: The ancient capital of York and seat of the Primate of England, situated at the juncture of its three Ridings, on the Ouse.
+
+----
+
 Text:
 
 The ancient capital of York and seat of the Primate of England, situated at the juncture of its three Ridings (tri-things, or *thirds*), on the Ouse. The neighbourhood is flat and agricultural, Leeds being the nearest important seat of the manufactures by which the county is distinguished. Boots shoes, combs, and confectionery are the chief articles made here. Having been an imperial city, by the name of *Eboracum* (which the Saxons softened down to *Yurewicke*, &c.), all the time the Romans kept possession of Britain, from A.D. 70, when Agricola made it his bead quarters, down to 427, there are, of course, many vestiges of antiquities, and historical incidents connected with them. The Emperor Sererus died here (and his body was burnt on Sirer's Hill, Acomb), as did also Constantius Chlorus, the father of Constantine, the first Christian Emperor. Here Paulinus built the first Christian church in the north of England, after converting Edwin of Northumberland (though it appears that a bishop of Eboracum presided at the Council of Arles, in 314), and there is scarcely any important event subsequent to this in which it did not make a figure. From 1536 to the beginning of the civil war, through the unsettled interval which succeeded the Reformation, a Lord President of the North kept court here, to are the disaffected. His seat was at the old Manor House, near St. Mary's Abbey. The Castle is on the south side of the city, in a corner between the Ouse and Foss. The seat of the Roman governors, or *Palatium*, occupied a space between Parliament-street (in the middle of the city) and the Cathedral, towards Beddern and Aldwark.

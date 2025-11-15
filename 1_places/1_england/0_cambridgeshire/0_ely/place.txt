@@ -29,6 +29,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: The principal object of interest is its venerable Cathedral, founded in 1070.
+
+----
+
 Text: A city and Bishop's see, in the county of Cambridge. It is built on the banks of the Ouse, in the Isle of Ely, with a population of 7,428, and consists of one principal street, and several others which diverge from it. But the principal object of interest is its venerable *Cathedral*, founded in 1070. It is 510 feet long, being the longest cathedral in Europe, and taken as a whole the most beautiful. The recently painted roof of the nave representing the most sublime subjects from the Old and New Testaments, from the creation of man to the nativity of Christ, ending with the Lord in Glory, commenced by the late M. Le Strange and completed by M. Gambier Parry, is a most elaborate work of pictorial art; indeed the ceiling of Ely Cathedral is a carefully studied epitome of the sacred history of man as recorded in Holy Scripture. The architecture of the Nave is Norman, 270 feet in height. Bishop Alcock's perpendicular Chapel, Nortwold's tomb, Scot's screen, the Lady Chapel, and the Lantern Tower, should be noticed. In the vicinity is Cromwell's residence at Stuntney, and a Norman church. "Ribbons" were formerly blessed here at St. Audry's shrine, hence the word "tawdry."
 
 ----

@@ -30,6 +30,10 @@ Telegraph station at Skipton, 15¼ miles.
 
 ----
 
+Desc: A small market town in the Vale of the Ribble, at the top of the West Riding of Yorkshire, among the mountains at the back-bone of England.
+
+----
+
 Text:
 
 A small market town in the Vale of the Ribble, at the top of the West Riding of Yorkshire, among the mountains at the back-bone of England. From Leeds it is 12 miles, and 24 from Lancaster, the two being united by a line held by the Midland Company.

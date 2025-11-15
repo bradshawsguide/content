@@ -32,6 +32,10 @@ Notes:
 
 ----
 
+Desc: A city and cathedral town, and the capital of Lincolnshire, on a hill near the Witham.
+
+----
+
 Text:
 
 (smcp: Lincoln), a city and parliamentary borough, population, 20,999 (two members), cathedral town, and the capital of Lincolnshire, on a hill near the Witham. Lincoln was the Roman *Lindum* or *Lindum Colonia*, from which the present name is derived. The great North Road, identical with the Roman Ermine Street, runs through it from south to north for a length of two miles, passing in the true Roman style straight over the hill, on which the noble cathedral stands. Part of it is still called Herman Street. Another Roman road came to Lincoln, the Fogseway, which gives name to the Fosse Dyke Canal, first out in the reign of Henry I.

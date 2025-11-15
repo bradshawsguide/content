@@ -27,6 +27,10 @@ A telegraph station.
 
 ----
 
+Desc: A market and seaport town that stands on a considerable eminence, commanding extensive views of the German Ocean and surrounding country.
+
+----
+
 Text:
 
 A market and seaport town (the most eastern point in the kingdom), with a population of 10,663. It stands on a considerable eminence, commanding extensive views of the German Ocean and surrounding country. Its appearance from the sea is extremely picturesque. The town is neat, clean, and well lighted; contains Theatre, Assembly Rooms, Baths, and a fine church, dedicated to St. Margaret which should be visited, and its Porch, "Maids Chamber" over it, brasses, steeple 120 feet high, and font should be noticed. In it are monuments to Bishop Scroope (brother to Bishop Tanner), Whiston, Potter, and Hudson, with the quaint epitaph "Here lie your painful ministers, &c.," all of whom held that living. A chapel of ease, dedicated to St. Peter was erected a few years since by subscription. Admirals Usher, Ashby, Mighell, (all natives), and Chief Justice Holt. Here, in 1665, the Duke of York defeated the Dutch Admiral Offdam. George II. landed at this place in 1737, and Adams, the first American Ambassador in 1794. Admirals, Sir T. Allen and Sir Thomas Leake, Nash, the author, and Gillingwater, the historian, were natives. Harbour of Refuge, Tram Way, Promenade, Pier, Light Houses Warehouses, and Sea Wall were erected in 1848, by Sir S. M. Peto, Bart.

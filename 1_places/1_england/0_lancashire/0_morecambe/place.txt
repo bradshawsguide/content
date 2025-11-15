@@ -18,11 +18,15 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Morecambe Bay is a fine sheet of water, 8 or 10 miles wide, when the tide is up; but at low tide its quicksands are extremely treacherous, and must on no account be crossed without the guide.
+
+----
+
 Text:
 
 Morecambe station and harbor, from whence steamers sail, occasionally, during the season, to Piel.
 
-Morecambe Bay is a fine sheet of water, 8 or 10 miles wide, when the tide is up; but at low tide its quicksands are extremely treacherous, and must on no account be crossed without the guide, who is paid by Government, and carries you over in a cart from Poulton-le-Sands, to the opposite coast of Furness—a region of fells, vallies, lakes, &c. in the north, but flat and broken by the sea, in the south or Lower Furness, where the beautiful remains of the *Abbey* may be visited. Near Dalton, Walney island lighthouse, and the old peel or tower of Foudray, built by the Abbots for a watch tower, are in view.
+Morecambe Bay is a fine sheet of water, 8 or 10 miles wide, when the tide is up; but at low tide its quicksands are extremely treacherous, and must on no account be crossed without the guide, who is paid by Government, and carries you over in a cart from Poulton-le-Sands, to the opposite coast of Furness--a region of fells, vallies, lakes, &c. in the north, but flat and broken by the sea, in the south or Lower Furness, where the beautiful remains of the *Abbey* may be visited. Near Dalton, Walney island lighthouse, and the old peel or tower of Foudray, built by the Abbots for a watch tower, are in view.
 
 ----
 

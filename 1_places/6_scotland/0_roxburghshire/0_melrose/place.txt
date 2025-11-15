@@ -24,6 +24,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Melrose is situated in a fertile vale, at the foot of Eildon Hills, through which flows the Tweed.
+
+----
+
 Text:
 
 (smcp: Melrose) is situated in a fertile vale, at the foot of Eildon Hills, through which flows the Tweed. Outside the town stands *Melrose Abbey*, founded by. David I., one of the most celebrated and magnificent ecclesiastical edifices in Scotland.

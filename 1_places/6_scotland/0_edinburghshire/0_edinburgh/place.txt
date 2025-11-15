@@ -33,6 +33,10 @@ Notes: Telegraph station at 68, Princes Street, and at the Parliament House.
 
 ----
 
+Desc: This city, which has not aptly been termed the "modern Athens," is one of the most ancient in this country.
+
+----
+
 Text:
 
 This city, which has not aptly been termed the "modern Athens," is one of the most ancient in this country. Its schools for the acquirement of useful knowledge have long held a high rank amongst the universities of Europe, and have supplied some of the most distinguished statesmen, warriors, poets, and divines, who have graced our annals.

@@ -5,11 +5,14 @@ Title: England
 Feature:
 
 - places/england/sussex/brighton
-- places/england/surrey/crystal-palace
 - places/england/gloucestershire/bristol
-- places/england/oxfordshire/oxford
+- places/england/surrey/crystal-palace
 - places/england/devonshire/exeter
+- places/england/middlesex/london
+- places/england/norfolk/norwich
+- places/england/oxfordshire/oxford
 - places/england/cornwall/penzance
+- places/england/yorkshire/york
 
 ----
 

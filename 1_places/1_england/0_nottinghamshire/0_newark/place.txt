@@ -27,6 +27,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: A fine old town of Nottinghamshire, with a population of 11,515, who return two members.
+
+----
+
 Text:
 
 A fine old town of *Nottinghamshire*, with a population of 11,515, who return two members.

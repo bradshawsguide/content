@@ -6,6 +6,10 @@ Section: 4
 
 ----
 
+Desc: The splendid seat of the Duke of Devonshire, truly called the Palace of the Peak.
+
+----
+
 Text:
 
 The splendid seat of the Duke of Devonshire, truly called the Palace of the Peak. A seat was begun by the founder of the family, Sir W. Cavendish (who was gentleman-usher to Wolsey, and wrote his life), about 1570, when he had the custody of Mary of Scotland here; and finished by his widow, a rich and clever woman, iho married the Earl of Shrewsbury, her fourth husband. This was rebuilt in 1688-1706 by the first Duke, from designs by Wren, and now forms the principal building--a noble Grecian, or Italianised-Grecian pile, about 180 feet square, much in the style of the Governor's house at Greenwich Hospital (another of Wren's works), with a rustic base, Ionic columns, pilasters, frieze, and balustrade, ornamented by urns and statues. To the north is Wyatville's new wing in the Grecian style, built of the variegated stone from Beely quarry. The terraces in front are 1,200 feet long. The Sub Hall at entering contains busts, &c., and leads through a corridor (closed with velvet hangings) to the Great Hall, with its marble floor. Here are paintings by Verrio and Laguerre (French artists, whose works figure at Hampton Court and elsewhere), a Turkish caique, a marble slab, 11 feet long, and an inscription stating that "These paternal halls were begun *anno libertatis Anglice* (year of the great Revolution, which the first Duke helped materially to bring about) and finished *anno mœreus* 1840" (when the Duke's niece died).

@@ -8,12 +8,15 @@ Text:
 
 Feature:
 
+- places/scotland/aberdeenshire/aberdeen
+- places/scotland/ayrshire/ayr
+- places/scotland/dumfriesshire/dumfries
+- places/scotland/edinburghshire/edinburgh
 - places/scotland/lanarkshire/glasgow
 - places/scotland/inverness-shire/inverness
-- places/scotland/stirlingshire/stirling
-- places/scotland/aberdeenshire/aberdeen
 - places/scotland/renfrewshire/paisley
-- places/scotland/ayrshire/ayr
+- places/scotland/perthshire/perth
+- places/scotland/stirlingshire/stirling
 
 ----
 

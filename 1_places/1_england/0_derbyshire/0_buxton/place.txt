@@ -17,11 +17,15 @@ Info:
   desc: 1,877.
 -
   term: Hotels
-  desc: "St. Anns. Old Hall; Wood's Eagle; Shakspear; Grove."
+  desc: St. Anns. Old Hall; Wood's Eagle; Shakspear; Grove.
 
 ----
 
 Notes: A telegraph station.
+
+----
+
+Desc: Buxton is situated in the midst of one of the most picturesque parts of Derbyshire.
 
 ----
 

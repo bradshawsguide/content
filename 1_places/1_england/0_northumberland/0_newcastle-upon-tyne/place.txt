@@ -33,6 +33,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: One of the largest borough towns in the county of Northumberland. It stands on the northern bank of the river Tyne, and is a place of great antiquity.
+
+----
+
 Text:
 
 One of the largest borough towns in the county of Northumberland. It stands on the northern bank of the river Tyne, and is a place of great antiquity. Newcastle has rapidly increased in its dimensions since the commencement of the present century; the town, if we include at least the adjoining suburbs, extends for nearly two miles along the river, and about one mile from the river towards the north and north west, rising along the hill, and crowning its summit. Its situation on the banks of a navigable river, and in the greatest coal district in the world, are the chief causes which have tended to raise it to wealth and importance.

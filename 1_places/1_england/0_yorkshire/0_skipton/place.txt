@@ -27,6 +27,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: The castle built at the Conquest, and rebuilt by the celebrated Countess of Pembroke should be visited.
+
+----
+
 Text:
 
 The old church and tombs of the Cliffords, and the castle built at the Conquest, and rebuilt by the celebrated Countess of Pembroke (in which the "Shepherd Lord," Henry Clifford, was concealed after the Battle of Towton), should be visited. It has a *Grammar School*, founded as far back as 1568.

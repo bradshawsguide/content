@@ -36,9 +36,13 @@ Notes:
 
 ----
 
+Desc: Scarborough is undoubtedly the most interesting marine spa in England. With the advantages of mineral springs its convenient sea-bathing shore is surrounded by numerous objects of attraction.
+
+----
+
 Text:
 
-(smcp: Scarrorough) is undoubtedly the most interesting marine spa in England. With the advantages of mineral springs it combines those of a convenient sea-bathing shore, and on the land side it is surrounded by numerous objects of attraction, to which either roads, or footpaths over moors and dales, offer a ready access to visitors. Of its origin we have no satisfactory information, but its name has been most probably derived from the Saxon *Scear*, a rock, and *Burgh*, a fortified place.
+(smcp: Scarborough) is undoubtedly the most interesting marine spa in England. With the advantages of mineral springs it combines those of a convenient sea-bathing shore, and on the land side it is surrounded by numerous objects of attraction, to which either roads, or footpaths over moors and dales, offer a ready access to visitors. Of its origin we have no satisfactory information, but its name has been most probably derived from the Saxon *Scear*, a rock, and *Burgh*, a fortified place.
 
 No mention of it occurs in the Norman survey, but in the reign of Stephen ire hear of the castle being erected, and doubtless that fortress soon became the nucleus of the town. Its situation is extremely beautiful and romantic, being in the recess of a fine open bay, on the coast of the North sea, and the town consists of several spacious streets of handsome tell-built houses, rising in successive tiers from the shore, in the form of an amphitheatre; the beach, of firm and smooth sand, slopes down gradually to the sea, and affords at all times that commodious open sea-bathing for which the place is so deservedly celebrated.
 

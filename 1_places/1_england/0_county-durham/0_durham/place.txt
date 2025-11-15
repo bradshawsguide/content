@@ -31,6 +31,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: Durham is situated on a rocky eminence, rising near the central part of the county, and almost surrounded by the river Wear. From all the neighbouring points of view its appearance is unique and striking, and the public edifices exhibit a great degree of magnificence.
+
+----
+
 Text:
 
 (smcp: Durham) is situated on a rocky eminence, rising near the central part of the county, and almost surrounded by the river Wear. From all the neighbouring points of view its appearance is unique and striking, and the public edifices exhibit a great degree of magnificence. The centre of the eminence is occupied by the Cathedral and Castle, which, with the streets called the Baileys, are included within the remains of the ancient city walls. Below the walls, on one side, the slope is ornamented with hanging gardens and plantations, descending to the river; on the other the acclivity is high, rocky, and steep.

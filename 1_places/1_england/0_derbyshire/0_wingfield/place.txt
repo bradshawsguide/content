@@ -27,6 +27,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: About a half a mile to the left of the station is *South Wingfield*, with the remains of its old Manor House, built in the reign of Henry II.
+
+----
+
 Text:
 
 About a half a mile to the left of the station is *South Wingfield*, with the remains of its old Manor House, built in the reign of Henry II. Mary Queen of Scots was imprisoned here for some time; it was ruined in the civil wars, and now its remains present some beautiful features. *Alfreton*, with its ancient church, lies 14 mile to the east of the station; the hall close by.

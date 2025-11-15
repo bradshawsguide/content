@@ -24,6 +24,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: This town derives its name from Bernard Balliol, who was the ancestor of the Scottish monarchs, and founded a castle here in 1120, the ruins of the walls and towers of which still remain.
+
+----
+
 Text: This town derives its name from Bernard Balliol, who was the ancestor of the Scottish monarchs, and founded a castle here in 1120, soon after his arrival from Normandy with the Conqueror, the ruins of the walls and towers of which still remain, and belong to the Duke of Cleveland. It has a mineral spring, cruciform church, hospital founded in 1180, by the Balliols, and well endowed with 180 acres of land. The population amounts to 4,173, who are engaged in the manufacture of carpets, plaids, stockings, hats, and shoetapes. Hutchinson, the county historian, was a native.
 
 ----

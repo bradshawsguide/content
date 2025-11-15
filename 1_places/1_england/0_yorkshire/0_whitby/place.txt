@@ -33,6 +33,10 @@ Notes: A telegraph station.
 
 ----
 
+Desc: There are, among the watering places of England, few that have been more greatly benefited than Whitby from railway communication, or that have become better adapted for the reception of visitors.
+
+----
+
 Text:
 
 There are, among the watering places of England, few that have been more greatly benefited than Whitby from railway communication, or that have become better adapted for the reception of visitors. The town stands at the north east angle of the county of York, where the romantic river Esk pours its stream into the German Ocean. Enclosed between precipitous cliffs, the old torn is scarcely to be seen, until nearly approached, though its locality is well pointed out by the ruins of its once stately abbey, which is still a beautiful object, adorning the east cliff; while on the west cliff, *New Whitby*, a magnificent pile of buildings, including a splendid hotel, recently built, containing warm baths, and every convenience for the accommodation of visitors, is admirably situated at an elevation of 100 feet above the level of the sea, commanding varied prospects, and at the same time accessible from the sands and the piers. Whitby has long been admired for the peculiarity of its position and the grandeur of its coast scenery. To the eastward the cliffs rise abruptly, nearly 200 feet above the sea, and towards the south present a succession of bold headlands.

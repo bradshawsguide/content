@@ -23,9 +23,13 @@ Notes:
 
 ----
 
+Desc: The scenes through Matlock Bath are exquisitely beautiful, and may be compared to a Switzerland in a nut shell.
+
+----
+
 Text:
 
-(smcp: Matlock Bath).--Unquestionably the sweetest and most charming of the Derbyshire spas (with a population of 4,252). It is at the bottom of Matlock Dale, a narrow defile, the rocky limestone sides of which are piled up in the manner of the Underclif, in the Isle of Wight, but covered with a profusion of pine, fir, yew, box, and other hardy trees. The scenes through Matlock Bath are exquisitely beautiful, and may be compared to a Switzerland in a nut shell.
+(smcp: Matlock Bath).--Unquestionably the sweetest and most charming of the Derbyshire spas (with a population of 4,252). It is at the bottom of Matlock Dale, a narrow defile, the rocky limestone sides of which are piled up in the manner of the Undercliff, in the Isle of Wight, but covered with a profusion of pine, fir, yew, box, and other hardy trees. The scenes through Matlock Bath are exquisitely beautiful, and may be compared to a Switzerland in a nut shell.
 
 The High Tor is one of the most remarkable rocks in England, in consequence of the immense mass of bare perpendicular rock exhibited at such an altitude. The limestones of the Jura, in Southern Germany, do not show so bold a face. The granite of the Alps have perpendicular faces or chasms to the depth of 2,000 feet, but then no living being has ever been able to descend and look up to their gigantic forms; on the contrary, in Derbyshire, you can walk in amongst these masses, admire, and somewhat estimate their proportions. In Wales. Scotland, and on the Alps, the scale of altitude and breadth is vast and profound, requiring time to consider and estimate their vast proportions; but in Derbyshire the exquisitely beautiful prevails. The lofty rocks and bold crags, richly wooded; the magnificent uplands and rounded knolls; the sweet val-lies, intersected with silver streams, such as the Derwent, the Wye, and the Dove, are comprised in one beautiful picture; whilst the attractions of either of these rivers, the lovers of the rod and line can well attest. They are, perhaps, the best for trout and grayling in the kingdom.
 

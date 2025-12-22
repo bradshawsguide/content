@@ -1,0 +1,47 @@
+Title: Sheffield to Doncaster
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/sheffield
+- stations/masborough
+- stations/rawmarsh
+- stations/kilnhurst
+- stations/swinton
+- stations/mexborough-junction
+- stations/conisborough
+- stations/sprotborough
+- stations/doncaster
+
+----
+
+Text:
+
+This line forms the direct route to Doncaster. Retracing our steps by the Sheffield and Rotherham Branch, and passing [Masborough](/stations/masborough) station. The next in our course is
+
+(place: england/yorkshire/rawmarsh)
+
+[Kilnhurst](/stations/kilnhurst) station.
+
+(place: england/yorkshire/swinton)
+
+[Mexborough Junction](/stations/mexborough-junction).
+
+[Conisborough](/stations/conisborough).--Here is a castle belonging to the Duke of Leeds, built at the time of the Conquest, with a keep 78 feet high, in a good state of preservation.
+
+[Sprotborough](/stations/sprotborough).--In the vicinity is the Hall, seat of Sir J. Copley, Bart., built in the 17th century, and Cusworth Park, a beautiful place.
+
+(place: england/yorkshire/doncaster)
+
+----
+
+Uuid: vysrkzv8ulh3abbt

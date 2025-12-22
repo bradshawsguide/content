@@ -22,7 +22,7 @@ Stops:
 - stations/ridgemont
 - stations/lidlington
 - stations/ampthill
-- stations/bedford
+- stations/bedford-st-johns
 - stations/blunham
 - stations/sandy
 - stations/gamlingay

@@ -1,0 +1,57 @@
+Title: Leicester to Hinkley
+
+----
+
+Section: 4
+
+----
+
+Company: companies/south-leicestershire
+
+----
+
+Stops:
+
+- stations/leicester
+- stations/blaby
+- stations/narborough
+- stations/elmesthorpe
+- stations/hinckley
+- stations/nuneaton-midland
+- stations/stockingford
+- stations/arley-and-fillongley
+- stations/shustoke
+- stations/whitacre
+- stations/forge-mills
+- stations/water-orton
+- stations/castle-bromwich
+- stations/saltley
+- stations/birmingham-new-street
+
+----
+
+Text:
+
+(place: england/leicestershire/leicester)
+
+Passengers by this line book at Leicester, the station lying on the east side of the town. Leaving the gaol to our right and the race-course to our left, we pass under the road to Wigston, and through it short tunnel to Wigston Junction, about two miles south of Leicester, and the point of deviation of the above line. The first station is
+
+[Blaby](/stations/blaby), one mile to the north of which is *Aylestone*, with the ivy patch on its church spire, the ancient seat of the Vernons and of the Earls of Rutland, now occupied by N. C. Stone, Esq., the Duke of Rutland's agent.
+
+[Narborough](/stations/narborough), situated on a Roman Fosse-Way: Enderby Hall, in a hilly spot near the Soar, lies about 1½ mile to the north; it belonged to the Nevilles.
+
+[Elmesthorpe](/stations/elmesthorpe).
+
+[Hinckley](/stations/hinckley), the church of which dates from the time of Edward I., and has an oak roof. The next stage in our journey is the Midland station at
+
+(place: england/warwickshire/nuneaton)
+
+At this place the Trent Valley line from Rugby to Stafford intersects the line diagonally. We next proceed by [Stockingford](/stations/stockingford) and [Arley](/stations/arley-and-fillongley) to [Shenstoke](/stations/shustoke), on the river Bourne, in the vicinity of which is *Blythe Hall*, once the residence of the antiquarian Dugdale.
+
+[Whitacre](/stations/whitacre), the junction of the line with the Birmingham and Derby. From this the line runs by the stations of [Forge Mills](/stations/forge-mills), [Water Orton](/stations/water-orton), [Castle Bromwich](/stations/castle-bromwich), and [Saltley](/stations/saltley), to
+
+(place: england/warwickshire/birmingham)
+
+----
+
+Uuid: eevqthtvkyarbc37

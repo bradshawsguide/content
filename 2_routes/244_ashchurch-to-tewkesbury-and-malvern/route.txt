@@ -1,0 +1,40 @@
+Title: Ashchurch to Tewkesbury and Malvern
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/ashchurch-for-tewkesbury
+- stations/tewkesbury
+- stations/ripple
+- stations/upton-on-severn
+- stations/malvern-wells
+- stations/great-malvern
+
+----
+
+Text:
+
+[Ashchurch](/stations/ashchurch-for-tewkesbury), from whence a short branch to our right brings us to
+
+(place: england/gloucestershire/tewkesbury)
+
+Leaving Tewkesbury, we immediately cross the Avon, and soon arrive at [Ripple](/stations/ripple), 3½ miles, soon after which we approach the Severn, along the margin of which we travel a short distance to the town of
+
+(place: england/worcestershire/upton-on-severn)
+
+A neatly-built town with a considerable trade, the river being navigable here for vessels of 100 tons burthen. A Roman road runs between the two towns of Upton and Tewkesbury. Dr. Lee, the astrologer was born here. A distance of 4½ miles further brings the traveller to [Malvern Wells](/stations/malvern-wells), and 2¼ more to
+
+(place: england/worcestershire/great-malvern)
+
+----
+
+Uuid: g6yqqmixzhdylvtr

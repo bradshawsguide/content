@@ -28,7 +28,7 @@ Stops:
   - stations/uppingham
 - stations/south-luffenham
 - stations/stamford
-- stations/peterborough
+- stations/peterborough-east
 
 ----
 

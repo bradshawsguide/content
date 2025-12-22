@@ -1,0 +1,40 @@
+Title: Rugby to Leicester
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/rugby
+- stations/ullesthorpe
+- stations/broughton-astley
+- stations/countesthorpe
+- stations/wigston
+- stations/leicester
+
+----
+
+Text:
+
+(place: england/warwickshire/rugby)
+
+Proceeding due north, by the river Swift, we pass the foot of the mound of *Cester-over*, supposed to have been a Roman station; then we have *Newnham Paddox* on our left, and passing over the Old Watling Street, which here divides the counties of Warwick and Leicester, we enter the latter and stop at
+
+(place: england/leicestershire/ullesthorpe)
+
+[Broughton Astley](/stations/broughton-astley), and [Countesthorpe](/stations/countesthorpe) Stations are then passed, when we cross the Union Canal, and a tributary of the Soar, by a viaduct of eleven arches, and arrive at [Wigston](/stations/wigston).
+
+Shortly after leaving Wigston, we see the Ashby line, bearing away to the westward, and, passing through the Knighton Tunnel, 100 yards long, we arrive at
+
+(place: england/leicestershire/leicester)
+
+----
+
+Uuid: uefizh4qgdvxv2l0

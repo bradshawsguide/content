@@ -25,7 +25,7 @@ Stops:
 - stations/crewe
 - - stations/worlaston
   - stations/calveley
-  - stations/beeston
+  - stations/beeston-castle-and-tarporley
   - stations/tattenhall
   - stations/waverton
   - stations/chester

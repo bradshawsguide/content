@@ -32,7 +32,7 @@ Stops:
 - stations/wansford
 - stations/castor
 - stations/overton-northants
-- stations/peterborough
+- stations/peterborough-east
 
 ----
 

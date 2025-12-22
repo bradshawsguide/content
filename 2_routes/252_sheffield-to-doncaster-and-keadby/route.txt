@@ -1,0 +1,67 @@
+Title: Sheffield to Doncaster and Keadby
+
+----
+
+Section: 4
+
+----
+
+Company: companies/south-yorkshire
+
+----
+
+Stops:
+
+- stations/sheffield
+- stations/grange-lane
+- stations/chapeltown
+- stations/westwood
+- stations/birdwell
+- stations/dovecliffe
+  - stations/wombwell
+  - stations/stairfoot
+  - stations/barnsley
+- stations/wombwell
+  - stations/worsbrough
+  - stations/silkstone
+- stations/wombwell
+- stations/wath
+- stations/mexborough-junction
+- stations/conisborough
+- stations/doncaster
+- stations/barnby-dun
+- stations/bramwith
+- stations/stainforth
+- stations/thorne
+- stations/mauds-bridge
+- stations/godnow-bridge
+- stations/crowle
+- stations/keadby
+
+----
+
+Text:
+
+(place: england/yorkshire/sheffield)
+
+This line forms a communication from Sheffield with Barnsley, Doncaster, and Keadby. The first three miles of this is also over the Sheffield and Rotherham line; turning to the left at a place called Blackburn we pass the stations of [Grange Lane](/stations/grange-lane), [Chapeltown](/stations/chapeltown), [Westwood](/stations/westwood), [Birdwell](/stations/birdwell), [Dovecliffe](/stations/dovecliffe), and [Wombwell](/stations/wombwell), none of which need occupy much of the tourist's attention. At this point, a short branch runs in a westerly direction through [Ardsley](/stations/stairfoot) to
+
+(place: england/yorkshire/barnsley)
+
+There is also another branch from the same point running nearly parallel with that to Barnsley, through [Worsbrough](/stations/worsbrough), uniting the South Yorkshire with the Barnsley and Penistone branch at Silkstone.
+
+Proceeding from Barnsley we pass the unimportant stations of [Wombwell](/stations/wombwell), [Wath](/stations/wath), [Mexborough](/stations/mexborough-junction) and [Conisborough](/stations/conisborough), and arrive at
+
+(place: england/yorkshire/doncaster)
+
+From Doncaster, we proceed through the stations of [Barnby Dun](/stations/barnby-dun), [Bramwith](/stations/bramwith), and [Stainforth](/stations/stainforth), at the latter of which is a canal excavated in 1793, fifteen miles in length, and having only two locks. The line then goes on to
+
+(place: england/yorkshire/thorne)
+
+[Maud's Bridge](/stations/mauds-bridge), [Godnow Bridge](/stations/godnow-bridge), and [Crowle](/stations/crowle) stations.
+
+**Keadby**, a small town on the river Trent. A telegraph station.
+
+----
+
+Uuid: hrlmxaw8acon5btn

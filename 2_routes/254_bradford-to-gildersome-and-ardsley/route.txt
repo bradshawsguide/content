@@ -1,0 +1,57 @@
+Title: Bradford to Gildersome to Ardsley
+
+----
+
+Subtitle: Gildersome Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/bradford
+- stations/laisterdyke
+- stations/dudley-hill
+- stations/birkenshaw
+  - stations/drighlington
+  - stations/upper-batley
+  - stations/batley
+  - stations/osset
+  - stations/flushdyke
+  - stations/wakefield-westgate
+- stations/drighlington
+- stations/gildersome
+- stations/morley
+- stations/tingley
+- stations/ardsley
+- stations/lofthouse
+- stations/wakefield-westgate
+
+----
+
+Text:
+
+(place: england/yorkshire/bradford)
+
+This is a short line from Bradford to Gildersome and Ardsley. It passes through the stations Of [Laister Dyke](/stations/laisterdyke), [Dudley Hill](/stations/dudley-hill), [Birkenshaw](/stations/birkenshaw), to [Drighlington](/stations/drighlington), close to which is
+
+(place: england/yorkshire/adwalton)
+
+(branch: start)
+  At Drighlington another line turns off to the right, passing the stations of [Upper Batley](/stations/upper-batley), [Batley](/stations/batley), [Osset](/stations/osset), and [Flushdyke](/stations/flushdyke), to the Westgate station at Wakefield, and from thence to the Lancashire and Yorkshire station at bottom of Kirkgate.
+(branch: end)
+
+The Gildersome line from Drighlington passes through a district rich in mineral products, through [Gildersome](/stations/gildersome), [Morley](/stations/morley), and [Tingley](/stations/tingley), to [Ardsley](/stations/ardsley), the junction of the Bradford, Wakefield, and Leeds line, and from thence *via* [Lofthouse](/stations/lofthouse) to
+
+(place: england/yorkshire/wakefield)
+
+----
+
+Uuid: up1gyybnhoea2wtf

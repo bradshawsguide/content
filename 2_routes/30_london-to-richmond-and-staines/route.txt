@@ -20,7 +20,7 @@ Company: companies/london-and-south-western
 
 Stops:
 
-- stations/clapham
+- stations/clapham-junction
 - stations/wandsworth
 - stations/putney
 - stations/barnes

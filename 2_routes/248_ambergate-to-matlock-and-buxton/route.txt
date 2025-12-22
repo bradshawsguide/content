@@ -1,0 +1,62 @@
+Title: Ambergate to Matlock and Buxton
+
+----
+
+Subtitle: Matlock Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/ambergate
+- stations/whatstandwell-bridge
+- stations/cromford
+- stations/matlock-bath
+- stations/matlock-bridge
+- stations/darley
+- stations/rowsley
+- stations/bakewell
+- stations/hassop
+- stations/longstone
+- stations/millers-dale
+- stations/buxton
+
+----
+
+Text:
+
+(place: england/derbyshire/ambergate)
+
+This portion of the line goes through one of the most enchanting districts in the world, unsurpassable in boldness, grandeur, and magnificence of character. For some distance the rails, canal, turnpike-road, and river run parallel with each other, it novelty not often to be met with.
+
+(place: england/derbyshire/whatstandwell-bridge)
+
+(place: england/derbyshire/cromford)
+
+(place: england/derbyshire/matlock-bath)
+
+Proceeding on our way from Matlock we pass [Matlock Bridge](/stations/matlock-bridge), and from thence through the High Tor Tunnel, dry and comfortable, and the gloom is dissipated by an opening in the centre, wherein you enjoy the daylight for a second or two, and a pretty view of the road and river. On emerging from the High Tor Tunnel, another picturesque amphitheatre strikes the eye. The river, new bridge, neighbouring woods and rocks, the residence of John Greaves, Esq., and Boat House Inn, all tend to render this, perhaps, as interesting a scene as any of the foregoing.
+
+[Darley](/stations/darley)--At Darley is a very old church (Norman) and yew coeval with it. Paper and cotton fac-tories, the river being here turned to good account as a motive power.
+
+(place: england/derbyshire/rowsley)
+
+The road here crosses the Wye, along the banks of which pretty stream the tourist may prefer a walk of nearly three miles further to Bakewell; or he may return to the station at Rowsley, taking the train to
+
+(place: england/derbyshire/bakewell)
+
+Once more resuming our seats in the railway carriage, on leaving Bakewell, we quickly pass the stations of [Hassop](/stations/hassop), [Longstone](/stations/longstone), and [Millers Dale](/stations/millers-dale), and arrive at
+
+(place: england/derbyshire/buxton)
+
+----
+
+Uuid: 24jbhexvte3zdwzy

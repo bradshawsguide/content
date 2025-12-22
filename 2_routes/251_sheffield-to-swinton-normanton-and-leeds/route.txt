@@ -1,0 +1,76 @@
+Title: Sheffield to Swinton, Normanton, and Leeds
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/sheffield
+- stations/masborough
+- stations/rawmarsh
+- stations/kilnhurst
+- stations/swinton
+  - stations/mexborough-junction
+  - stations/conisborough
+  - stations/sprotborough
+  - stations/doncaster
+- stations/mexborough-junction
+- stations/wath-north
+- stations/darfield
+- stations/cudworth
+- stations/royston-and-notton
+- stations/oakenshaw
+- stations/normanton
+- stations/methley
+- stations/woodlesford
+- stations/hunslet
+- stations/leeds
+
+----
+
+Text:
+
+This line forms the direct route to Doncaster. Retracing our steps by the Sheffield and Rotherham Branch, and passing [Masborough](/stations/masborough) station. The next in our course is
+
+(place: england/yorkshire/rawmarsh)
+
+[Kilnhurst](/stations/kilnhurst) station.
+
+(place: england/yorkshire/swinton)
+
+[Mexborough Junction](/stations/mexborough-junction).
+
+(branch: start)
+  [Conisborough](/stations/conisborough).--Here is a castle belonging to the Duke of Leeds, built at the time of the Conquest, with a keep 78 feet high, in a good state of preservation.
+
+  [Sprotborough](/stations/sprotborough).--In the vicinity is the Hall, seat of Sir J. Copley, Bart., built in the 17th century, and Cusworth Park, a beautiful place.
+
+  (place: england/yorkshire/doncaster)
+(branch: end)
+
+The next three stations, [Wath](/stations/wath-north), [Darfield](/stations/darfield), and [Cudworth](/stations/cudworth), for Barnsley, have no particular interest.
+
+[Royston and Notton](/stations/royston-and-notton).--In the vicinity are *Chevet Hall*, Lady Pilkington; and *Walton Park*, with its menagerie and collection, the seat of C. Waterton, Esq., the South American traveller.
+
+[Oakenshaw](/stations/oakenshaw).--In the vicinity is *Heath Hall*, seat of J. Smythe, Esq.
+
+(place: england/yorkshire/normanton)
+
+[Methley](/stations/methley).--Here is an ancient church, with the Savile's tombs. In the vicinity are *Kippax Hall*, seat of T. Bland, Esq., a noble range, partly Elizabethan; *Ledstone Hall*, H. Ramsden, Esq.; and *Methley Park*, Lord Mexborough's.
+
+[Woodlesford](/stations/woodlesford).--In the vicinity are *Templenewsam House*, seat of H. Ingram, Esq., with fine collection of paintings and gems of *vertu*. Here Darnley, Mary Queen of Scots' husband, was born, when it belonged to the Lennoxes. The battlements round the roof make this inscription--"All glory and praise be given to God the Father, Son, and Holy Ghost on high. Peace on earth, goodwill to man. Honour and true allegiance to our gracious king; loving affection among his subjects; health and plenty within this house." *Swillington*, Sir J. Lowther, Bart., near the old Gothic Church. *Harewood*, Earl of Harewood. *Farnley Park*, W. Armitage, Esq.
+
+[Hunslet](/stations/hunslet) station.
+
+(place: england/yorkshire/leeds)
+
+----
+
+Uuid: vysrkzv8ulh3abbt

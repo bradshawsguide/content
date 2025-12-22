@@ -1,0 +1,121 @@
+Title: Birmingham to Bristol
+
+----
+
+Subtitle: Bristol and Birmingham Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/birmingham-new-street
+- stations/camp-hill
+- stations/moseley
+- stations/kings-norton
+- stations/barnt-green
+- stations/blackwell
+- stations/bromsgrove
+- stations/stoke-works
+- stations/droitwich
+- stations/fearnall-heath
+- stations/worcester-shrub-hill
+- stations/abbotts-wood-junction
+- stations/wadborough
+- stations/defford
+- stations/eckington
+- stations/bredon
+- stations/ashchurch-for-tewkesbury
+- stations/cleeve
+- stations/cheltenham
+- stations/gloucester
+- stations/haresfield
+- stations/stonehouse
+- stations/frocester
+  - stations/dursley-junction
+  - stations/cam
+  - stations/dursley
+- stations/dursley-junction
+  - stations/berkeley-road
+  - stations/berkeley
+- stations/charfield
+- stations/wickwar
+- stations/yate
+- stations/mangotsfield
+- stations/stapleton
+- stations/bristol
+
+----
+
+Text:
+
+(place: england/warwickshire/birmingham)
+
+On our departure from Birmingham we very soon pass the station of [Camp Hill](/stations/camp-hill), and arrive at [Moseley](/stations/moseley), to the right of which are *Edgbaston* and *Moseley Halls*. The next station is
+
+(place: england/warwickshire/kings-norton)
+
+[Barnt Green](/stations/barnt-green), the station for *Bromsgrove Lickey*, at the foot of the *Bilberry Hills*, from the top of which there are some very extensive prospects; also for *Studley* and *Alcester*.
+
+(route: barnt-green-to-redditch)
+
+(place: england/warwickshire/bromsgrove)
+
+(place: england/worcestershire/stoke-works)
+
+The trains from hence run over a section of the Great Western system, *via* [Droitwich](/stations/droitwich), [Fearnall Heath](/stations/fearnall-heath), and [Worcester](/stations/worcester), joining the Midland line again at [Abbott's Wood](/stations/abbotts-wood-junction), from whence we proceed to [Wadborough](/stations/wadborough), and four miles further to
+
+[Defford](/stations/defford), four miles to the left of which is [Pershore](/stations/pershore), With its Abbey Church, the remains of which should be seen. The top of *Allsborough Hill*, at the northern entrance to the town, commands a fine prospect. Three miles to the right of Defford is *Croome Park*, one of the largest in the county, the seat of Earl Coventry, formerly of Urso d'Abitot, first Earl of Worcester. We now cross the silvery Avon, and soon after arrive at
+
+[Eckington](/stations/eckington), one mile. Here we recommend the tourist to cross the ferry to *Strensham*, and visit the lowly cottage where Butler, the author of "Hudibras," was born. It is a plain-timbered, thatched cot, and the home of a very lowly family. On our left is *Bredon Hill*, 800 feet high, with its ancient encampments and beautiful views. Passing onward with the Avon, to our right, we next come to
+
+[Bredon](/stations/bredon), three miles, where may be seen an old Norman church. Dr. John Prideaux lived and died here. *Overbury Park* lies a little to our left, and *Twining House* to our right. One mile further brings us into the county of Glo'ster, and another mile, to
+
+[Ashchurch](/stations/ashchurch-for-tewkesbury), from whence a short branch to our right brings us to
+
+(place: england/gloucestershire/tewkesbury)
+
+(route: ashchurch-to-tewkesbury-and-malvern)
+
+[Cleve](/stations/cleeve), four miles beyond Tewkesbury. On the ridge to the left, called *Cleve Clouds*, are the remains of an encampment, with a deep vallum. About two miles further, in the same direction, is *Winchcomb*, an ancient but beautifully situated town. The church is a fine Gothic building of the 15th century. In the neighbourhood tobacco used to be grown. A short distance from the town are the strikingly picturesque ruins of *Sudeley Castle*, built by Ralph, Lord Boteler, in the 15th century, on the site of a much more ancient structure.
+
+Continuing our course south 2½ miles, we come to [Cheltenham](/stations/cheltenham), from whence, taking a south-westerly direction, about six miles further we arrive at
+
+(place: england/gloucestershire/gloucester)
+
+[Haresfield](/stations/haresfield) Station.
+
+[Stonehouse](/stations/stonehouse), to the left from which the Great Western line to Stroud, Swindon, &c., turns off.
+
+[Frocester](/stations/frocester), 1¾ mile further: about the same distance to our left lies the Park and Nunnery of *Woodchester*, with the remains of a Roman villa. *Spring Park*, 1½; near which is *Cauley Pike*, and the bold projecting head of *Sturchcombe*. The views from these hills are most extensive.
+
+(branch: start)
+  Two miles beyond we come to [Dursley Junction](/stations/dursley-junction), a short branch from which of 2} miles to the left, past the station of [Cam](/stations/cam), brings us to
+
+  (place: england/gloucestershire/dursley)
+(branch: end)
+
+Passing onward from Dursley Junction, 2} miles, we next come to [Berkeley Road](/stations/berkeley-road) Station, two miles to the right of which is the town of
+
+(place: england/gloucestershire/berkeley)
+
+(place: england/gloucestershire/charfield)
+
+[Wickwar](/stations/wickwar), near the old market town of that name. Its church is handsome, with a lofty pinnacled tower.
+
+(place: england/gloucestershire/yate)
+
+After leaving Yate, we pass on 4½ miles to [Mangotsfield](/stations/mangotsfield), from whence we pass through a short tunnel to [Stapleton](/stations/stapleton), and, after crossing the old London Road, join the Great Western line at
+
+(place: england/gloucestershire/bristol)
+
+----
+
+Uuid: m1qwwd8ptodlfyyf

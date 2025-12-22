@@ -1,0 +1,71 @@
+Title: Syston to Peterborough
+
+----
+
+Subtitle: Leicester and Peterborough Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/syston-junction
+- stations/rearsby
+- stations/brooksby
+- stations/frisby
+- stations/asfordby
+- stations/melton-mowbray
+- stations/whisendine
+- stations/ashwell
+- stations/oakham
+- stations/manton
+- stations/luffenham
+- stations/ketton
+- stations/stamford-lincolnshire
+- stations/uffington-and-barnack
+- stations/helpstone
+- stations/walton
+- stations/peterborough-crescent
+
+----
+
+Text:
+
+(place: england/leicestershire/syston-junction)
+
+[Rearsby](/stations/rearsby) station.
+
+(place: england/leicestershire/brooksby)
+
+[Frisby](/stations/frisby) and [Ashfordby](/stations/asfordby) stations follow next in succession, in the vicinity of the latter of which is *Kirby Park*, formerly the seat of Sir Francis Burdett. Here he wrote his celebrated Reform Letter, which caused his committal to the Tower of London.
+
+(place: england/leicestershire/melton-mowbray)
+
+**Saxby**.--In the vicinity is *Stapleford Park*; the old seat of the Earl of Harborough.
+
+[Whisendine](/stations/whisendine), the entrance to the county of Rutland, and [Ashwell](/stations/ashwell) stations.
+
+(place: england/rutland/oakham)
+
+[Manton](/stations/manton) station, for *Uppingham*, at which place there is one of Archdeacon Johnson's schools, and a church of which Jeremy Taylor was once rector.
+
+[Luffenham](/stations/luffenham) station.
+
+(place: england/rutland/ketton)
+
+(place: england/lincolnshire/stamford)
+
+Passing [Uffington](/stations/uffington-and-barnack), [Helpstone](/stations/helpstone), and [Walton](/stations/walton) stations, we arrive at the Crescent Station.
+
+(place: england/northamptonshire/peterborough)
+
+----
+
+Uuid: e6dhyqp0mh5jpymq

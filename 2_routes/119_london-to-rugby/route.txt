@@ -18,7 +18,7 @@ Stops:
 
 - stations/euston-square
 - stations/camden-town
-- stations/kilburn
+- stations/kilburn-high-road
 - stations/willesden
 - stations/sudbury
 - stations/harrow
@@ -59,7 +59,7 @@ The train runs up an incline to
 
 On quitting the Camden station, we leave Regent's Park and Hampstead on the left, and the beautiful grounds of Highgate on the right; thence we proceed past Chalk Farm, a spot once celebrated as the scene of repeated duels. Passing on, we enter the Primrose Hill tunnel--thence we are conveyed imder the Edgeware Road, and beneath a number of bridges, chiefly used for connecting private property severed by the line. Beyond this is the pretty village of
 
-[Kilburn](/stations/kilburn); and the open country, which now begins to appear on either hand, is sufficiently beautiful to interest the traveller. On the right is the spire of Hampstead church--to the left that of Notting Hill and we have scarcely time to admire their architecture before we are enclosed in the banks of a deep cutting, through which we proceed a few seconds, and then enter another tunnel called the Kensal Green Tunnel, the celebrated cemetery--the Pere la Chaise of London--being on the left side, which is worthy of a visit, from the number of eminent individuals who are entombed within its limits. The tombs of His Royal Highness the late Duke of Sussex, the Princess Sophia, Ducrow, and George Robins (the princes of horsemanship and auctioneering), are worth a visit. The cemetery approaches the railway, and extends over a part of the tunnel.
+[Kilburn](/stations/kilburn-high-road); and the open country, which now begins to appear on either hand, is sufficiently beautiful to interest the traveller. On the right is the spire of Hampstead church--to the left that of Notting Hill and we have scarcely time to admire their architecture before we are enclosed in the banks of a deep cutting, through which we proceed a few seconds, and then enter another tunnel called the Kensal Green Tunnel, the celebrated cemetery--the Pere la Chaise of London--being on the left side, which is worthy of a visit, from the number of eminent individuals who are entombed within its limits. The tombs of His Royal Highness the late Duke of Sussex, the Princess Sophia, Ducrow, and George Robins (the princes of horsemanship and auctioneering), are worth a visit. The cemetery approaches the railway, and extends over a part of the tunnel.
 
 The railway now enters a richly pastoral country, and as the beauties of nature have hitherto been veiled from us by a succession of tunnels and cuttings, we welcome the landscapes which are presented to our view, as we begin to experience the exciting affect of railway travelling.
 

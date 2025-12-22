@@ -1,0 +1,36 @@
+Title: Ingleton to Low Gill
+
+----
+
+Section: 4
+
+----
+
+Company: companies/lancaster-and-carlisle
+
+----
+
+Stops:
+
+- stations/ingleton
+- stations/kirkby-lonsdale
+- stations/barbon
+- stations/middleton
+- stations/sedbergh
+- stations/low-gill
+
+----
+
+Text:
+
+(place: england/yorkshire/ingleton)
+
+(place: england/lancashire/kirkby-lonsdale)
+
+[Barbon](/stations/barbon), [Middleton](/stations/middleton), and [Sedbergh](/stations/sedbergh) stations.
+
+[Low Gill](/stations/low-gill), the junction with the line to the north.
+
+----
+
+Uuid: bbcjyc4l4ezecjuh

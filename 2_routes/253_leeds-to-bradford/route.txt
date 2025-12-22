@@ -1,0 +1,56 @@
+Title: Leeds to Bradford
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/leeds
+- stations/armley
+- stations/kirkstall
+- stations/newlay
+  - stations/calverley
+  - - stations/guiseley
+    - stations/otley
+  - stations/guiseley
+  - stations/burley
+  - stations/ilkley
+- stations/calverley
+- stations/apperley
+- stations/shipley
+- stations/bradford
+
+----
+
+Text:
+
+(place: england/yorkshire/leeds)
+
+[Armley](/stations/armley) station, near which is the Leeds Borough Gaol, and *Armley Park*, seat of Mrs. Gott. Population, 6,734.
+
+(place: england/yorkshire/kirkstall)
+
+[Newlay](/stations/newlay) station.
+
+(branch: start)
+  [Calverley](/stations/calverley), at which place railway communication is afforded *via* the manufacturing town of [Guiseley](/stations/guiseley) to [Otley](/stations/otley), and from thence through [Burley](/stations/burley) to
+
+  (place: england/yorkshire/ilkley)
+(branch: end)
+
+(place: england/yorkshire/apperley)
+
+[Shipley](/stations/shipley): Population, 7,100.
+
+(place: england/yorkshire/bradford)
+
+----
+
+Uuid: v1y82nhj81nmrco5

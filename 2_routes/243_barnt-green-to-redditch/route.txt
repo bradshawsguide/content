@@ -1,0 +1,29 @@
+Title: Barnt Green to Redditch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/barnt-green
+- stations/alvechurch
+- stations/redditch
+
+----
+
+Text:
+
+[Barnt Green](/stations/barnt-green), the station for *Bromsgrove Lickey*, at the foot of the *Bilberry Hills*, from the top of which there are some very extensive prospects; also for *Studley* and *Alcester*. It is also the deviation of a line 4¾ miles long, via [Alvechurch](/stations/alvechurch) to
+
+(place: england/worcestershire/redditch)
+
+----
+
+Uuid: stx7qjghrzxfkxjh

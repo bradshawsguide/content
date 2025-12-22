@@ -1,0 +1,86 @@
+Title: Bradford to Skipton and Morecambe
+
+----
+
+Section: 4
+
+----
+
+Stops:
+
+- stations/bradford
+- stations/shipley
+- stations/saltaire
+- stations/bingley
+- stations/keighley
+- stations/steeton
+- stations/kildwick
+- stations/cononley
+- stations/skipton
+- stations/gargrave
+- stations/bell-busk
+- stations/hellifield
+- stations/long-preston
+- stations/settle
+  - stations/clapham
+  - stations/ingleton
+- stations/clapham
+- stations/high-bentham
+- stations/wennington
+- stations/hornby
+- stations/caton
+- stations/halton
+- stations/lancaster
+- stations/morecambe
+
+----
+
+Company: companies/midland
+
+----
+
+Text:
+
+(place: england/yorkshire/bradford)
+
+[Shipley](/stations/shipley) station.
+
+(place: england/yorkshire/saltaire)
+
+(place: england/yorkshire/bingley)
+
+(place: england/yorkshire/keighley)
+
+[Steeton](/stations/steeton), [Kildwick](/stations/kildwick), and [Cononley](/stations/cononley) stations.
+
+(place: england/yorkshire/skipton)
+
+(place: england/yorkshire/bolton-abbey)
+
+Passing [Gargrave](/stations/gargrave), [Bell Busk](/stations/bell-busk), [Hellifield](/stations/hellifield) (near which is *Hellifield Peel*, the seat of J. Hammerton, Esq., the descendant of Helge, the Saxon), and [Long Preston](/stations/long-preston) stations, we arrive at
+
+(place: england/yorkshire/settle)
+
+[Clapham](/stations/clapham), a station situated in the midst of a large moorland parish, of which, among other plants, the poisonous Hub Christopher (actœa spicata) is indigenous, and is occasionally given in nervous complaints.
+
+(branch: start title: Ingleton Branch)
+  A portion of the Lancaster and Carlisle line here turns off to the right, by which the route to the north from the Midland districts becomes much shortened.
+
+  (route: ingleton-to-low-gill)
+(branch: end)
+
+[High Bentham](/stations/high-bentham) and [Wennington](/stations/wennington) stations, near the latter of which is *Wennington Hall*, a fine old seat.
+
+(place: england/yorkshire/hornby)
+
+[Caton](/stations/caton) station.--The view of the Lune here is exceedingly pretty. Population, 1,160.
+
+[Halton](/stations/halton) station, in the neighbourhood of which is *Quernmoor Park*, seat of the late W. Garnett, Esq.
+
+(place: england/lancashire/lancaster)
+
+(place: england/lancashire/morecambe)
+
+----
+
+Uuid: fuyl8v7esonvwatk

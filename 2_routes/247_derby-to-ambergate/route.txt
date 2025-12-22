@@ -1,0 +1,36 @@
+Title: Derby to Ambergate
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/derby
+- stations/duffield
+- stations/belper
+- stations/ambergate
+
+----
+
+Text:
+
+(place: england/derbyshire/derby)
+
+On leaving Derby station, our line proceeds along the valley of the Derwent, crossing that river several times in its course. The first station is [Duffield](/stations/duffield). In the neighbourhood is *Milford House*, seat of G. H. Strutt, Esq. Likewise *Kedlestone* and *Holbrook Halls*. We now proceed through a tunnel half a mile long, at Milford, and stop at
+
+(place: england/derbyshire/belper)
+
+Passing through Belper tunnel, 110 yards long, we are quickly brought to
+
+(place: england/derbyshire/ambergate)
+
+----
+
+Uuid: tdsp9nmsrvpitvxy

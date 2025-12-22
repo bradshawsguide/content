@@ -1,0 +1,65 @@
+Title: Nottingham to Clay Cross, Mansfield, via Erewash Valley
+
+----
+
+Subtitle: Mansfield Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/nottingham
+- stations/long-eaton
+- stations/sandiacre
+- stations/stanton-gate
+  - stations/ilkeston-junction
+  - stations/ilkeston
+- stations/ilkeston-junction
+- stations/langley-mill
+- stations/codnor-park
+  - stations/pye-bridge
+  - stations/alfreton
+  - stations/doe-hill
+  - stations/clay-cross
+- stations/pye-bridge
+- stations/pinxton
+- stations/sutton-junction
+- stations/mansfield
+
+----
+
+Text:
+
+(place: england/nottinghamshire/nottingham)
+
+The first two stations on this line are [Long Eaton](/stations/long-eaton) and [Sandiacre](/stations/sandiacre), in the vicinity of the latter of which are *Stapleford Hall*; *Bramcote*, I. Sherwin, Esq. Close at hand is the Droid Hemlock Stone, 50 feet high, on a bare knoll; and *Risley Hall*, Captain Hall.
+
+[Stanton Gate](/stations/stanton-gate) and [Ilkeston Junction](/stations/ilkeston-junction).
+
+(place: england/derbyshire/ilkeston)
+
+[Shipley Gate](/stations/shipley-gate); in the vicinity are *Shipley Hall*, *Nuthall Temple*, *High Park*, *Beauvale Abbey*, and *Lamb Close*.
+
+(place: england/derbyshire/langley-mill)
+
+(place: england/derbyshire/codnor-park)
+
+(branch: start)
+  [Pye Bridge](/stations/pye-bridge).--From this place the railway continues through the stations of [Alfreton](/stations/alfreton) and [Doe Hill](/stations/doe-hill) to [Clay Cross](/stations/clay-cross) the junction with the Midland Main Line to Sheffield, &c.
+(branch: end)
+
+Passing [Pinxton](/stations/pinxton) and [Sutton](/stations/sutton) stations, we reach
+
+(place: england/nottinghamshire/mansfield)
+
+----
+
+Uuid: kyr9unmuyiwtji9g

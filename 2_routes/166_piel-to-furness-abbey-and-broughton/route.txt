@@ -13,7 +13,7 @@ Company: companies/furness-coniston-and-ulverston-and-lancaster
 Stops:
 
 - stations/piel
-- stations/barrow
+- stations/barrow-in-furness
 - stations/furness-abbey
 - stations/kirkby-in-furness
 - stations/foxfield

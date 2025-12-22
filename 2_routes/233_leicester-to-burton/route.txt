@@ -1,0 +1,57 @@
+Title: Leicester to Burton
+
+----
+
+Subtitle: Leicester and Burton Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/leicester
+- stations/kirby-muxloe
+- stations/desford
+- stations/bagworth
+- stations/bardon-hill
+- stations/coalville
+- stations/swannington
+- stations/ashby-de-la-zouch
+- stations/moira-leicestershire
+- stations/gresley
+- stations/burton-on-trent
+
+----
+
+Text:
+
+(place: england/leicestershire/leicester)
+
+(place: england/leicestershire/kirby-muxloe)
+
+(place: england/leicestershire/desford)
+
+[Bagworth](/stations/bagworth) station.
+
+(place: england/leicestershire/bardon-hill)
+
+[Coalville](/stations/coalville) -- Here is an immense coal district.
+
+[Swannington](/stations/swannington) station.
+
+(place: england/leicestershire/ashby-de-la-zouch)
+
+[Moira](/stations/moira-leicestershire) and [Gresley](/stations/gresley) stations.
+
+(place: england/staffordshire/burton-on-trent)
+
+----
+
+Uuid: nf3fji5kkfnvczib

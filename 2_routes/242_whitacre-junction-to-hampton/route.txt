@@ -1,0 +1,35 @@
+Title: Whitacre Junction to Hampton
+
+----
+
+Subtitle: Hampton Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/whitacre-junction
+- stations/coleshill
+- stations/hampton-in-arden
+
+----
+
+Text:
+
+[Whitacre Junction](/stations/whitacre-junction) station.
+
+(place: england/warwickshire/coleshill)
+
+[Hampton](/stations/hampton-in-arden) station.
+
+----
+
+Uuid: h9jnyyivqo4txffx

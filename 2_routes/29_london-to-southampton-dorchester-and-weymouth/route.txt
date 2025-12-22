@@ -18,7 +18,7 @@ Stops:
 
 - stations/waterloo-bridge
 - stations/vauxhall
-- stations/clapham
+- stations/clapham-junction
 - - stations/wimbledon
   - stations/old-malden
   - stations/ewell-west

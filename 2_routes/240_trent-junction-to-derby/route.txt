@@ -1,0 +1,36 @@
+Title: Trent Junction to Derby
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/trent
+- stations/sawley
+- stations/draycott
+- stations/barrowash
+- stations/spondon
+- stations/derby
+
+----
+
+Text:
+
+(place: england/nottinghamshire/trent)
+
+From [Trent](/stations/trent) we pass [Sawley](/stations/sawley) and [Draycott](/stations/draycott) stations, in the vicinity of which are *Draycott House*, and *Hopewell Hall*, T. Pares. Esq. Near to [Barrowash](/stations/barrowash) is *Elvaston Castle*, seat of the Earl of Harrington.
+
+(place: england/derbyshire/spondon)
+
+(place: england/derbyshire/derby)
+
+----
+
+Uuid: p76knchgwyv7gzpi

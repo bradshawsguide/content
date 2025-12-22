@@ -1,0 +1,53 @@
+Title: Ambergate to Masborough and Sheffield
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/ambergate
+- stations/wingfield
+- stations/clay-cross
+- stations/chesterfield
+- stations/whittington
+- stations/staveley-derbyshire
+- stations/eckington-and-renishaw
+- stations/woodhouse-mill
+- stations/masborough
+
+----
+
+Text:
+
+Passing through a short tunnel and over the river Amber, we soon reach
+
+(place: england/derbyshire/wingfield)
+
+Proceeding on our way, we pass through Clay Cross tunnel, about 1,738 yards long, and stop at
+
+(place: england/derbyshire/clay-cross)
+
+(place: england/derbyshire/chesterfield)
+
+[Whittington](/stations/whittington) Station.
+
+[Staveley](/stations/staveley). -- Passing from this, we cross the Rother twice, and soon after reach
+
+[Eckington](/stations/eckington), in the vicinity of which are *Renishaw Park* to our left, and *Barlborough Hall* to our right. Again crossing and re-crossing the Rother, with the river to our right, a distance of three miles, we again cross the stream and enter the county of York, immediately stopping at
+
+[Woodhouse Mill](/stations/woodhouse-mill), here crossed by the line from Sheffield to Retford, &c. We next pass over the Don Viaduct of thirty arches to
+
+(place: england/yorkshire/masborough)
+
+(route: masborough-to-sheffield)
+
+----
+
+Uuid: pickvfkyjhomygkc

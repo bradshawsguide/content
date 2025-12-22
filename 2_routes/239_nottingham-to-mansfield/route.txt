@@ -1,0 +1,48 @@
+Title: Nottingham to Mansfield
+
+----
+
+Subtitle: Nottingham and Mansfield Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/nottingham
+- stations/lenton
+- stations/radford
+- stations/basford-vernon
+- stations/bulwell
+- stations/hucknall
+- stations/linby
+- stations/kirkby-in-ashfield-east
+- stations/sutton-junction
+- stations/mansfield
+
+----
+
+Text:
+
+(place: england/nottinghamshire/nottingham)
+
+This is another but shorter route between Nottingham and Mansfield. The stations passed are [Lenton](/stations/lenton) at which are the ruins of a Priory and old Court House; [Radford](/stations/radford), noted for its lace and stocking trade: [Basford](/stations/basford-vernon); [Bulwell](/stations/bulwell), in the vicinity of which is *Nuthall Temple*, seat of R. Holden, Esq.
+
+(place: england/nottinghamshire/hucknall-torkard)
+
+(place: england/nottinghamshire/linby)
+
+[Kirkby](/stations/kirby) and [Sutton](/stations/sutton-junction) stations.
+
+(place: england/nottinghamshire/mansfield)
+
+----
+
+Uuid: lvbkcasgykbh96ct

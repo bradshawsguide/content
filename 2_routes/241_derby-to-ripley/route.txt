@@ -1,0 +1,38 @@
+Title: Derby to Ripley
+
+----
+
+Subtitle: Derby, Little Eaton, and Ripley Railway
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/derby
+- stations/little-eaton
+- stations/coxbench
+- stations/kilburn
+- stations/denby
+- stations/ripley
+
+----
+
+Text:
+
+(place: england/derbyshire/derby)
+
+Three quarters of a mile beyond the station at Derby the line passes under the Nottingham Road, and onward to the station at [Little Eaton](/stations/little-eaton), from whence it diverges to the right, a distance of 6¼, miles, passing *en route* the stations of [Coxbench](/stations/coxbench), [Kilburn](/stations/kilburn), and [Denbey](/stations/denby), to the small town of
+
+[Ripley](/stations/ripley), the inhabitants of which are mainly employed in the iron and coal mines around.
+
+----
+
+Uuid: kmftz3ggdenwguap

@@ -1,0 +1,105 @@
+Title: Hitchin to Leicester
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/hitchin
+- stations/henlow
+- stations/shefford
+- stations/southill
+- stations/cardington
+- stations/bedford
+- stations/oakley-bedfordshire
+- stations/sharnbrook
+- stations/irchester
+- stations/wellingborough
+- stations/finedon
+- stations/isham
+  - stations/kettering
+  - stations/cranford
+  - stations/twywell
+  - stations/thrapstone
+  - stations/raunds
+  - stations/kimbolton
+  - stations/graffham
+  - stations/buckden
+  - stations/huntingdon
+- stations/kettering
+- stations/glendon-and-rushton
+- stations/desborough
+- stations/market-harborough
+- stations/kibworth
+- stations/glen
+- stations/wigston
+- stations/leicester
+
+----
+
+Text:
+
+(place: england/herefordshire/hitchin)
+
+The traffic of this line from London is at present conducted over a portion of the Great Northern Railway to Hitchin; but the company is expected ere long to have an independent entrance of its own to the metropolis through St. Albans, and Luton to Bedford. For a description of the route from London to Hitchin we must therefore refer the traveller to page 13.
+
+The railway from Hitchin to Leicester was opened on the 8th May, 1857. It diverges to the left, crossing a narrow strip of the county of Herts, only about three quarters of a mile wide, and projecting two and a half into that of Bedford. Immediately on entering the latter we arrive at [Henlow](/stations/henlow) station--the town itself about l½ mile to our right, on the river Ivel.
+
+[Shefford](/stations/shefford), 2½ miles; *Wrest Park*, the seat of Earl de Grey, four miles to the left.
+
+[Southill](/stations/southill), 2½, and [Cardington](/stations/cardington), 4¼ miles.
+
+[Bedford](/stations/bedford), 2½ miles.
+
+(place: england/bedfordshire/bedford)
+
+[Oakley](/stations/oakley), 3¾ miles, -- *Oakley House*, about half-a-mile to the left, belonging to the Marquis of Tavistock, a building of Charles II.'s time.
+
+[Sharnbrook](/stations/sharnbrook), 3¾, and [Irchester](/stations/irchester) 6, five miles of which are in Bedfordshire, and the last one in Northamptonshire.
+
+[Wellingborough](/stations/wellingborough), 2½ miles, a London and North Western station, between Northampton and Peterborough.
+
+[Finedon](/stations/finedon), 3½ miles; [Isham](/stations/isham), 1 mile, a mile to the right of which is *Burton Latimer*, once the seat of the Latimers. Two and a half miles beyond Isham brings us to
+
+(place: england/northamptonshire/kettering)
+
+(branch: start)
+  A line of railway very much reducing the distance between the Midland and Eastern Counties districts strikes out here to the left. The stations on the route are [Cranford](/stations/cranford) and [Twywell](/stations/twywell).
+
+  [Thrapstone](/stations/thrapstone), in the midst of a highly-cultivated country; church cruciform, and of a mixed style of architecture.
+
+  [Raunds](/stations/raunds), with its petrifying spring.
+
+  [Kimbolton](/stations/kimbolton), the castle of which is an old stone pile, seat of the Duke of Manchester. Catherine of Aragon, the wife of Henry VIII. died here.
+
+  [Graffham](/stations/graffham) and [Brampton](/stations/buckden) stations.
+
+  (place: england/huntingdonshire/huntingdon)
+(branch: end)
+
+Returning again to Kettering, we pass through the stations of [Rushton](/stations/rushton), 3½ miles, and [Desborough](/stations/desborough), 2½ miles, to
+
+[Market Harborough](/stations/market-harborough), 4¾ miles; at which we enter the county of Leicester.
+
+(place: england/leicestershire/market-harborough)
+
+[Kibworth](/stations/kibworth), 6 miles, with its rich living of St. Wilfrid, value £968, patron, Merton College, Oxon; and its well endowed Free Grammar School, Rev. J. B. Hildebrand, Master. Di. Aiken was a native, and here Doddridge first preached.
+
+[Glen](/stations/glen) 2½ miles.
+
+(place: england/leicestershire/wigston)
+
+Shortly after leaving Wigston, we see the Ashby line, bearing away to the westward, and, passing through the Knighton Tunnel, 100 yards long, we arrive at
+
+(place: england/leicestershire/leicester)
+
+----
+
+Uuid: jyqikgmvjzwcmabp

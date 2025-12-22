@@ -1,0 +1,40 @@
+Title: Leicester to Syston and Trent Junction
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/syston-junction
+- stations/sileby
+- stations/barrow-upon-soar
+- stations/loughborough
+- stations/kegworth
+- stations/trent
+
+----
+
+Text:
+
+(place: england/leicestershire/syston-junction)
+
+(place: england/leicestershire/sileby)
+
+[Barrow](/stations/barrow-upon-soar).--Here Bishop Beveridge was born. *Quorndon Hall*, Sir R. Sutton, Bart.; and *Quorndon House*, close at hand.
+
+(place: england/leicestershire/loughborough)
+
+(place: england/leicestershire/kegworth)
+
+(place: england/derbyshire/trent)
+
+----
+
+Uuid: m9dsx8knnfuywmyk

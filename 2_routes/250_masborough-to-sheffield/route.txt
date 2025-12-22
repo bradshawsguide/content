@@ -1,0 +1,36 @@
+Title: Masborough to Sheffield
+
+----
+
+Subtitle: Sheffield and Rotherham Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/rotherham
+- stations/holmes
+- stations/brightside
+- stations/sheffield
+
+----
+
+Text:
+
+(place: england/yorkshire/rotherham)
+
+The stations [Holmes](/stations/holmes) and [Brightside](/stations/brightside).
+
+(place: england/yorkshire/sheffield)
+
+----
+
+Uuid: fdd1ybmb6fwmhddf

@@ -1,0 +1,59 @@
+Title: Trent Junction to Nottingham and Lincoln
+
+----
+
+Subtitle: Nottingham and Lincoln Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/trent
+- stations/beeston
+- stations/nottingham
+- stations/carlton
+- stations/burton-joyce
+- stations/lowdham
+- stations/thurgurton
+- stations/fiskerton
+  - stations/rolleston
+  - stations/southwell
+- stations/rolleston
+- stations/newark-castle
+- stations/collingham
+- stations/swinderbury
+- stations/thorpe-on-the-hill
+- stations/hykeham
+- stations/lincoln
+
+----
+
+Text:
+
+(place: england/derbyshire/trent)
+
+(place: england/nottinghamshire/beeston)
+
+(place: england/nottinghamshire/nottingham)
+
+Pursuing our course on the Lincoln branch, the train brings us to [Carlton](/stations/carlton), a small village; [Burton Joyce], in the church at which are monuments to the Jaez family, to whom this place formerly belonged; [Lowdham](/stations/lowdham); [Thurgurton](/stations/thurgurton), near to which is the *Priory*, R. Milward, Esq., founded by Ralph d'Ayncourt in 1130; and [Fiskerton](/stations/fiskerton).
+
+[Rolleston](/stations/rolleston), the junction of the Branch to
+
+(place: england/nottinghamshire/southwell)
+
+[Newark](/stations/newark). Then passing [Collingham](/stations/collingham), [Swinderbury](/stations/swinderbury), [Thorpe](/stations/thorpe-on-the-hill), and [Hykeham](/stations/hykeham) stations, we arrive at
+
+(place: england/lincolnshire/lincoln)
+
+----
+
+Uuid: hmqqobkjj9atqc9y

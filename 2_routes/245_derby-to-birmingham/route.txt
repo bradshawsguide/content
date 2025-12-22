@@ -1,0 +1,69 @@
+Title: Derby to Birmingham
+
+----
+
+Subtitle: Birmingham and Derby Branch
+
+----
+
+Section: 4
+
+----
+
+Company: companies/midland
+
+----
+
+Stops:
+
+- stations/derby
+- stations/willington
+- stations/burton-on-trent
+- stations/barton-and-walton
+- stations/croxall
+- stations/haselour
+- stations/tamworth
+- stations/wilnecote
+- stations/kingsbury
+- stations/whitacre-junction
+- stations/forge-mills
+- stations/water-orton
+- stations/castle-bromwich
+- stations/saltley
+- stations/birmingham-new-street
+
+----
+
+Text:
+
+(place: england/derbyshire/derby)
+
+Leaving the station at Derby, to the east of the town, we have a run of 6½ miles to the junction of the North Stafford line at
+
+(place: england/derbyshire/willington)
+
+About two miles beyond Willington we approach the river Dove, on crossing which we at once enter the county of Stafford, pass the Burton junction of the North Stafford line, and enter the town of
+
+(place: england/staffordshire/burton-on-trent)
+
+(place: england/staffordshire/barton-and-walton)
+
+[Croxall](/stations/croxall) and [Haselour](/stations/haselour) stations.
+
+(place: england/staffordshire/tamworth)
+
+In the vicinity of [Wilnecote](/stations/wilnecote) *Drayton Manor*, seat of the late and present Sir Robert Peel.
+
+[Kingsbury](/stations/kingsbury). -- This manor has been held by the Bracebridge family ever since 851.
+
+[Whitacre Junction](/stations/whitacre-junction). -- In the vicinity is *Hams Hall*, seat of C. Adderley, Esq. M.P.
+
+[Forge Mills](/stations/forge-mills) station.
+
+The stations of [Water Orton](/stations/water-orton), [Castle Bromwich](/stations/castle-bromwich) (*Bromwich Hall*, seat of the Earl of Bradford), and [Saltley](/stations/saltley), are next passed, and we arrive at
+
+(place: england/warwickshire/birmingham)
+
+----
+
+Uuid: ykysy64iv9jayzpf
